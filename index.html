@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>La Ràpita - Personas</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Leaflet -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"/>
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+<style>
+body {
+  font-family: Arial;
+  margin: 20px;
+}
+
+#search {
+  padding: 10px;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+#person-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 10px;
+}
+
+.card {
+  padding: 10px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+  background: #f9f9f9;
+}
+
+.card:hover {
+  background: #eee;
+}
+
+#modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.6);
+}
+
+.hidden {
+  display: none;
+}
+
+.modal-content {
+  background: white;
+  margin: 5% auto;
+  padding: 20px;
+  width: 80%;
+  max-height: 90%;
+  overflow: auto;
+}
+
+#map {
+  height: 300px;
+  margin-top: 20px;
+}
+
+canvas {
+  border: 1px solid #ccc;
+  margin-top: 20px;
+}
+</style>
+
+</head>
+<body>
+
+<h1>Personas de La Ràpita</h1>
+
+<input type="text" id="search" placeholder="Buscar persona...">
+
+<div id="person-list"></div>
+
+<!-- Modal -->
+<div id="modal" class="hidden">
+  <div class="modal-content">
+    <span id="close" style="cursor:pointer;font-size:20px;">✖</span>
+    <div id="person-detail"></div>
+    <canvas id="genogram" width="400" height="200"></canvas>
+    <div id="map"></div>
+  </div>
+</div>
+
+<script>
+const listContainer = document.getElementById('person-list');
+const modal = document.getElementById('modal');
+const detail = document.getElementById('person-detail');
+const closeBtn = document.getElementById('close');
+
+let peopleIndex = [];
+let map = null;
+
+// Cargar índice
+fetch('data/index.json')
+  .then(res => res.json())
+  .then(data => {
+    peopleIndex = data;
+    renderList(data);
+  });
+
+// Render lista
+function renderList(data) {
+  listContainer.innerHTML = '';
+  data.forEach(person => {
+    const div = document.createElement('div');
+    div.className = 'card';
+    div.innerHTML = `<strong>${person.name}</strong>`;
+    div.onclick = () => loadPerson(person.id);
+    listContainer.appendChild(div);
+  });
+}
+
+// Búsqueda
+document.getElementById('search').addEventListener('input', (e) => {
+  const value = e.target.value.toLowerCase();
+  const filtered = peopleIndex.filter(p => 
+    p.name.toLowerCase().includes(value)
+  );
+  renderList(filtered);
+});
+
+// Cargar persona
+function loadPerson(id) {
+  fetch(`data/persons/${id}.json`)
+    .then(res => res.json())
+    .then(person => showPerson(person));
+}
+
+// Mostrar persona
+function showPerson(person) {
+  detail.innerHTML = `
+    <h2>${person.name}</h2>
+    <p><b>Edad:</b> ${person.age || '-'}</p>
+    <p><b>Padres:</b> ${(person.parents || []).join(', ')}</p>
+    <p><b>Hijos:</b> ${(person.children || []).join(', ')}</p>
+  `;
+
+  drawGenogram(person);
+  showMap(person.location);
+
+  modal.classList.remove('hidden');
+}
+
+// Cerrar modal
+closeBtn.onclick = () => modal.classList.add('hidden');
+
+// ===== GENOGRAMA SIMPLE =====
+function drawGenogram(person) {
+  const canvas = document.getElementById('genogram');
+  const ctx = canvas.getContext('2d');
+
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+  // Persona central
+  ctx.fillText(person.name, 160, 40);
+
+  // Padres
+  if (person.parents) {
+    person.parents.forEach((p, i) => {
+      let x = 100 + i * 150;
+      ctx.fillText(p, x, 120);
+
+      ctx.beginPath();
+      ctx.moveTo(200, 50);
+      ctx.lineTo(x, 100);
+      ctx.stroke();
+    });
+  }
+}
+
+// ===== MAPA =====
+function showMap(location) {
+  if (!location) return;
+
+  if (map) {
+    map.remove();
+  }
+
+  map = L.map('map').setView([location.lat, location.lng], 14);
+
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; OpenStreetMap'
+  }).addTo(map);
+
+  L.marker([location.lat, location.lng]).addTo(map);
+}
+</script>
+
+</body>
+</html>
