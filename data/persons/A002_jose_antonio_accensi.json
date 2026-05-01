@@ -1,0 +1,43 @@
+{
+  "id": "A002_jose_antonio_accensi",
+  "source_id": "A002",
+  "name": "José Antonio Accensi",
+  "gender": "male",
+  "birth": {
+    "date": "1760-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Freginals [aprox. 1760]. No tenim constància que hagi sigut veí de la Ràpita.\n\nCasament: Madalena Sancho d'Alcanar [1762].\n\nFills: José Antonio [1785], Ramón [1890] i Antonia [1893]. No està confirmat que els tres siguin germans.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

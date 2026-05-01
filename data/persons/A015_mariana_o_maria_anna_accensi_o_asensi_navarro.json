@@ -1,0 +1,46 @@
+{
+  "id": "A015_mariana_o_maria_anna_accensi_o_asensi_navarro",
+  "source_id": "A015",
+  "name": "Mariana [o Maria Anna] Accensi [o Asensi] Navarro",
+  "gender": "female",
+  "birth": {
+    "date": "1815-10-04",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Antonio Ascensi Sancho",
+      "Francisca Navarro Paulo"
+    ],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 10 d'abril de 1815 a la Ràpita.\n\nPadrins: Pedro Queral i Mariana Esteller.\n\nAmonestacions de casament a Reus: 31 de gener de 1839 amb Roc Royo Castellado de Calatayud (barber). (ACBC280-93-T2-16080).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

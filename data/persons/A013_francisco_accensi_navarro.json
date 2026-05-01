@@ -1,0 +1,46 @@
+{
+  "id": "A013_francisco_accensi_navarro",
+  "source_id": "A013",
+  "name": "Francisco Accensi Navarro",
+  "gender": "male",
+  "birth": {
+    "date": "1808-03-17",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Antonio Accensi Sancho",
+      "Francisca Navarro Paulo"
+    ],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 17 de març de 1808 a Sant  Carles de la Ràpita.\n\nEl padrí es el iaio Francisco Navarro i la padrina es Francisca Ortíz.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

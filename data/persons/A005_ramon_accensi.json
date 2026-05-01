@@ -1,0 +1,45 @@
+{
+  "id": "A005_ramon_accensi",
+  "source_id": "A005",
+  "name": "Ramón Accensi",
+  "gender": "male",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Santa Barbara"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "spouse_names": [
+      "Maria Lozano"
+    ],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Santa Bàrbara [aprox. 1790].\n\nPodria ser germà de José Antonio Accensi Sancho de Freginals [1785] i Antonia Accensi Sancho de Freginals [1793] però no es segur.\n\nCasament: amb María Lázaro [o Lozano] Domenech de Rossell [1790].\n\nFills: Francisca (Tortosa) [aprox 1817], Josefa (Santa Bàrbara)[aprox 1825], Tomasa (Santa Bàrbara)[aprox 1825], Raymunda (Santa Bàrbara)[aprox 1825] i María Rosa [aprox 1830].\n\nDonación: de Agustín Reverter (Forner) a su hija Josefa Reverter (Sancho) por la celebración de su matrimonio con Tomás Curto (Cavaller), casa en el callejón de la Iglesia. Linda con Lucas Torta (Subirats, casat amb Francisca Accensi Lozaro), Ramón Accensi (casat amb Maria Lozano) y Manuel Barrera. Febrero de 1858. Esc. Lorenzo Figueres de Alcanar.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

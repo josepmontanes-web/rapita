@@ -1,0 +1,47 @@
+{
+  "id": "jose_agramunt",
+  "source_id": null,
+  "name": "José Agramunt",
+  "gender": "male",
+  "birth": {
+    "date": "1760-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "spouse_names": [
+      "Antonia Conesa"
+    ],
+    "children_names": [
+      "1.0"
+    ]
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  [aprox. 1760].\n\nCasament: el 12 de juny de 1791 amb Antonia Conesa.\n\nTenen un fill que mor poc després de néixer el 3 de juliol de 1791 a la Ràpita. Els padrins d'aquest fill son Don José Mariño i María Balada.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "rosa_aixendri_bonfill",
+  "source_id": null,
+  "name": "Rosa Aixendri Bonfill",
+  "gender": "female",
+  "birth": {
+    "date": "1850-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1850].\n\nCasament: amb Bautista Duch Gimeno de Tortosa [1844].\n\nFills: José [1879].\n\nEl marit es torna a casar al 1884, pel que es pot suposar que ella va morir abans.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}
