@@ -1,0 +1,57 @@
+{
+  "id": "joaquina_adell_royo_18440101",
+  "source_id": null,
+  "name": "Joaquina Adell Royo",
+  "gender": "female",
+  "birth": {
+    "date": "1844-01-01",
+    "place": "Huesca"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel Adell",
+      "Joaquina Royo"
+    ],
+    "spouse_names": [
+      "Mariano Cherta Verge"
+    ],
+    "children_names": [
+      "Teresa",
+      "Manuel Pedro",
+      "Juan Bautista"
+    ]
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: a Huesca [aprox. 1844]. Casament: amb Mariano Cherta Verge de la Galera [1849]. Fills: Teresa [1874], Manuel Pedro [1878] i Juan Bautista [1881].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "miguel_carlos_adell_sanchis_18360229",
+  "source_id": null,
+  "name": "Miguel Carlos Adell Sanchís",
+  "gender": "male",
+  "birth": {
+    "date": "1836-02-29",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "miguel_adell_llagostera_18090101"
+    ],
+    "spouse": [],
+    "children": [
+      "francisco_adell_mauri_18600101"
+    ]
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Adell Llagostera",
+      "Francisca Sanchís Capilla"
+    ],
+    "spouse_names": [
+      "Tomasa Mauri"
+    ],
+    "children_names": [
+      "Francisco Adell Mauri"
+    ]
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: el 29 de febrer de 1836 a la Ràpita. El pare ja estava mort quan ell va naixer. Els padrins son Juan Bautista Alsó de Vinaròs i Francisca Adell d'Alcanar. Casament: amb Tomasa Mauri d'Amposta. Fills: Francisco [1860]. el pare estava mort quan ell va neixer. el padrí de Vinaroz i la padrina d'Alcanar",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "tomasa_agost_belenguer_18230608",
+  "source_id": null,
+  "name": "Tomasa Agost Belenguer",
+  "gender": "female",
+  "birth": {
+    "date": "1823-06-08",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomás Agost Ximenes",
+      "Esperanza Belenguer Hurtado"
+    ],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: el 8 de juny de 1823 a la Ràpita. Padrins: Joaquín Agost (iaio) i Victoria Bunano de Vinaròs. el padrí es lo iaio i la padrina es de Vinaròs",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

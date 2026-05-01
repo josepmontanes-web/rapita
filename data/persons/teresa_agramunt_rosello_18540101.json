@@ -1,0 +1,59 @@
+{
+  "id": "teresa_agramunt_rosello_18540101",
+  "source_id": null,
+  "name": "Teresa Agramunt Roselló",
+  "gender": "female",
+  "birth": {
+    "date": "1854-01-01",
+    "place": "Roquetes"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [
+      "isidro_bel_poy_18480101"
+    ],
+    "children": [
+      "cinta_bel_agramunt_18811018"
+    ]
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Ramón Agramunt",
+      "Alejandra Roselló"
+    ],
+    "spouse_names": [
+      "Isidro Bel Poy"
+    ],
+    "children_names": [
+      "Cinta Bel Agramunt"
+    ]
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: a Roquetes [aprox. 1854]. Casament: amb Isidro Bel Poy de Roquetes [1848]. Fills: Cinta [1881].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

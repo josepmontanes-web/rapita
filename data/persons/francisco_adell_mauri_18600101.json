@@ -1,0 +1,55 @@
+{
+  "id": "francisco_adell_mauri_18600101",
+  "source_id": null,
+  "name": "Francisco Adell Mauri",
+  "gender": "male",
+  "birth": {
+    "date": "1860-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "miguel_carlos_adell_sanchis_18360229"
+    ],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Carlos Adell Sanchís",
+      "Tomasa Mauri"
+    ],
+    "spouse_names": [
+      "Tomasa Matamoros Ferré"
+    ],
+    "children_names": []
+  },
+  "occupation": {
+    "title": "pagès",
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: a Amposta [aprox. 1860]. Professió: pagès. Casament: el 18 d'abril de 1884 amb Tomasa Matamoros Ferré de la Ràpita [1862]. Es casa als 24 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}
