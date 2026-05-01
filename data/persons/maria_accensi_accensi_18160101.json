@@ -1,15 +1,15 @@
 {
-  "id": "tomasa_accensi_lazaro_18250101",
-  "source_id": "A010",
-  "name": "Tomasa Accensi Lazaro",
+  "id": "maria_accensi_accensi_18160101",
+  "source_id": "A007",
+  "name": "Maria Accensi Accensi",
   "gender": "female",
   "birth": {
-    "date": "1825-01-01",
-    "place": "Santa Barbara"
+    "date": "1816-01-01",
+    "place": null
   },
   "death": {
-    "date": null,
-    "place": null
+    "date": "1817-09-26",
+    "place": "la Ràpita"
   },
   "age": null,
   "status": {
@@ -22,20 +22,18 @@
   },
   "family": {
     "parents": [
-      "ramon_accensi_17900101",
-      "maria_lazaro_domenech_17900101"
+      "sebastian_accensi_17920101",
+      "rafaela_accensi_17940101"
     ],
     "spouse": [],
     "children": []
   },
   "relations_detail": {
     "parents_names": [
-      "Ramón Accensi",
-      "María Lázaro [o Lozano] Domenech de Rossell"
+      "Sebastián Accensi",
+      "Rafaela Accensi"
     ],
-    "spouse_names": [
-      "José Magí Marmaña"
-    ],
+    "spouse_names": [],
     "children_names": []
   },
   "occupation": {
@@ -48,7 +46,7 @@
     "email": null
   },
   "photo": null,
-  "notes": "Naixement: a Santa Bàrbara [aprox. 1825].\n\nCasament: el 28 de desembre de 1844 amb José Magí Marmaña d'Amposta [1820].\n\nFills: José [1850].",
+  "notes": "Naixement: el 1816.\n\nDefunció: el 26 de setembre de 1817 a la Ràpita. Tenia un any quan va morir.",
   "genogram": {
     "nodes": [],
     "links": []

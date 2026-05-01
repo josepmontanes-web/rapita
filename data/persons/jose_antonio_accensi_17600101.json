@@ -1,103 +1,60 @@
 {
   "id": "jose_antonio_accensi_17600101",
+  "source_id": "A002",
   "name": "José Antonio Accensi",
   "gender": "male",
-
-  "naixement": {
-    "data": "1760-01-01",
-    "lloc": "Freginals"
+  "birth": {
+    "date": "1760-01-01",
+    "place": null
   },
-
-  "defuncio": {
-    "data": null,
-    "lloc": null
+  "death": {
+    "date": null,
+    "place": null
   },
-
   "age": null,
-
   "status": {
     "alive": false
   },
-
   "location": {
     "address": null,
     "lat": null,
     "lng": null
   },
-
   "family": {
     "parents": [],
-    "casament": [
-      {
-        "nom": "Madalena Sancho",
-        "lloc": "Alcanar",
-        "data": "1762-01-01",
-        "id": "madalena_sancho_17620101"
-      }
+    "spouse": [
+      "madalena_sancho_17620101"
     ],
-    "fills": [
-      {
-        "nom": "José Antonio Accensi Sancho",
-        "data_naixement": "1785-01-01",
-        "id": "jose_antonio_accensi_o_ascensi_sancho_17850101"
-      },
-      {
-        "nom": "Ramón Accensi Sancho",
-        "data_naixement": "1790-01-01",
-        "id": "ramon_accensi_17900101"
-      },
-      {
-        "nom": "Antonia Accensi Sancho",
-        "data_naixement": "1793-01-01",
-        "id": "antonia_accensi_o_ausensi_sanches_o_sancho_17930101"
-      }
+    "children": [
+      "jose_antonio_accensi_o_ascensi_sancho_17850101",
+      "ramon_accensi_17900101",
+      "antonia_accensi_o_ausensi_sanches_o_sancho_17930101"
     ]
   },
-
   "relations_detail": {
     "parents_names": [],
     "spouse_names": [
       "Madalena Sancho"
     ],
     "children_names": [
-      "José Antonio Accensi Sancho",
-      "Ramón Accensi Sancho",
-      "Antonia Accensi Sancho"
+      "José Antonio Accensi [o Ascensi] Sancho",
+      "Ramón Accensi",
+      "Antonia Accensi [o Ausensi] Sanches [o Sancho]"
     ]
   },
-
   "occupation": {
     "title": null,
     "company": null
   },
-
   "education": [],
-
   "contact": {
     "phone": null,
     "email": null
   },
-
   "photo": null,
-
-  "notes": "Naixement aproximat a Freginals (1760). No consta com a veí de la Ràpita. Casat amb Madalena Sancho d'Alcanar (1762). Fills documentats al text: José Antonio (1785), Ramón (1790) i Antonia (1793). Les equivalències permeten identificar-los com José Antonio Accensi [o Ascensi] Sancho, Ramón Accensi i Antonia Accensi [o Ausensi] Sanches [o Sancho]. El document indica explícitament que no està confirmat que els tres siguin germans.",
-
+  "notes": "Naixement: a Freginals [aprox. 1760]. No tenim constància que hagi sigut veí de la Ràpita.\n\nCasament: Madalena Sancho d'Alcanar [1762].\n\nFills: José Antonio [1785], Ramón [1890] i Antonia [1893]. No està confirmat que els tres siguin germans.",
   "genogram": {
-    "nodes": [
-      { "id": "jose_antonio_accensi_17600101", "name": "José Antonio", "x": 200, "y": 50 },
-      { "id": "madalena_sancho_17620101", "name": "Madalena", "x": 350, "y": 50 },
-      { "id": "jose_antonio_accensi_o_ascensi_sancho_17850101", "name": "José Antonio", "x": 150, "y": 150 },
-      { "id": "ramon_accensi_17900101", "name": "Ramón", "x": 250, "y": 150 },
-      { "id": "antonia_accensi_o_ausensi_sanches_o_sancho_17930101", "name": "Antonia", "x": 350, "y": 150 }
-    ],
-    "links": [
-      { "from": "jose_antonio_accensi_17600101", "to": "madalena_sancho_17620101" },
-      { "from": "jose_antonio_accensi_17600101", "to": "jose_antonio_accensi_o_ascensi_sancho_17850101" },
-      { "from": "madalena_sancho_17620101", "to": "jose_antonio_accensi_o_ascensi_sancho_17850101" },
-      { "from": "jose_antonio_accensi_17600101", "to": "ramon_accensi_17900101" },
-      { "from": "madalena_sancho_17620101", "to": "ramon_accensi_17900101" },
-      { "from": "jose_antonio_accensi_17600101", "to": "antonia_accensi_o_ausensi_sanches_o_sancho_17930101" },
-      { "from": "madalena_sancho_17620101", "to": "antonia_accensi_o_ausensi_sanches_o_sancho_17930101" }
-    ]
+    "nodes": [],
+    "links": []
   }
 }

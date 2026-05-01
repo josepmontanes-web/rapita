@@ -1,10 +1,10 @@
 {
-  "id": "martin_abasolo_17500101",
-  "source_id": "A001",
-  "name": "Martín Abasolo",
-  "gender": "male",
+  "id": "rafaela_accensi_17940101",
+  "source_id": "A004",
+  "name": "Rafaela Accensi",
+  "gender": "female",
   "birth": {
-    "date": "1750-01-01",
+    "date": "1794-01-01",
     "place": null
   },
   "death": {
@@ -23,12 +23,16 @@
   "family": {
     "parents": [],
     "spouse": [],
-    "children": []
+    "children": [
+      "maria_accensi_accensi_18160101"
+    ]
   },
   "relations_detail": {
     "parents_names": [],
     "spouse_names": [],
-    "children_names": []
+    "children_names": [
+      "Maria Accensi Accensi"
+    ]
   },
   "occupation": {
     "title": null,
@@ -40,7 +44,7 @@
     "email": null
   },
   "photo": null,
-  "notes": "Cabo del Resguardo de Rentas destinat a la Ràpita al 30 de novembre de 1780. (ACA BGRP caixa 1).",
+  "notes": "Naixement: a Tortosa [aprox. 1794].",
   "genogram": {
     "nodes": [],
     "links": []

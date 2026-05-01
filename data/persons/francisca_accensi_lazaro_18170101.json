@@ -1,11 +1,11 @@
 {
-  "id": "tomasa_accensi_lazaro_18250101",
-  "source_id": "A010",
-  "name": "Tomasa Accensi Lazaro",
+  "id": "francisca_accensi_lazaro_18170101",
+  "source_id": "A012",
+  "name": "Francisca Accensi Lazaro",
   "gender": "female",
   "birth": {
-    "date": "1825-01-01",
-    "place": "Santa Barbara"
+    "date": "1817-01-01",
+    "place": "Tortosa"
   },
   "death": {
     "date": null,
@@ -34,7 +34,7 @@
       "María Lázaro [o Lozano] Domenech de Rossell"
     ],
     "spouse_names": [
-      "José Magí Marmaña"
+      "Lucas Torta Subirats"
     ],
     "children_names": []
   },
@@ -48,7 +48,7 @@
     "email": null
   },
   "photo": null,
-  "notes": "Naixement: a Santa Bàrbara [aprox. 1825].\n\nCasament: el 28 de desembre de 1844 amb José Magí Marmaña d'Amposta [1820].\n\nFills: José [1850].",
+  "notes": "Naixement: a Tortosa al 1817.\n\nCasament: el 27 de juliol de 1835 amb Lucas Torta Subirats d'Amposta [1813].\n\nFills: Juan Ramón [1835], Francisco José [1838], José [1845], Francisca [1850], Bautista [1850], Agustín [1850], Lucas [1852], Carmen [1855] i Tomasa [1857].\n",
   "genogram": {
     "nodes": [],
     "links": []

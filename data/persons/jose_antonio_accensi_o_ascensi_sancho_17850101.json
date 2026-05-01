@@ -3,29 +3,23 @@
   "source_id": "A017",
   "name": "José Antonio Accensi [o Ascensi] Sancho",
   "gender": "male",
-
   "birth": {
     "date": "1785-01-01",
     "place": "Freginals"
   },
-
   "death": {
     "date": null,
     "place": null
   },
-
   "age": null,
-
   "status": {
     "alive": false
   },
-
   "location": {
     "address": null,
     "lat": null,
     "lng": null
   },
-
   "family": {
     "parents": [
       "jose_antonio_accensi_17600101",
@@ -41,7 +35,6 @@
       "josef_manuel_benito_accensi_o_aucenci_navarro_18180402"
     ]
   },
-
   "relations_detail": {
     "parents_names": [
       "José Antonio Accensi",
@@ -57,23 +50,17 @@
       "Josef Manuel Benito Accensi [o Aucenci] Navarro"
     ]
   },
-
   "occupation": {
     "title": "Pagès",
     "company": null
   },
-
   "education": [],
-
   "contact": {
     "phone": null,
     "email": null
   },
-
   "photo": null,
-
-  "notes": "Naixement aproximat a Freginals [1785]. Professió: pagès. Casament el 20 de desembre de 1806 amb Francisca Navarro Paul de la Vall d'Uixó [1786]. Podria ser germà de Ramón Accensi de Santa Bàrbara [1790] i d’Antonia Accensi Sancho de Freginals [1793]. Fills documentats: Francisco [1808], María [1812], Mariana [1815] i José [1818].",
-
+  "notes": "Naixement: a Freginals [aprox. 1785].\n\nProfessió: pagès.\n\nPodria ser germà de Ramón Accensi de Santa Bàrbara [1790] i Antonia Accensi Sancho de Freginals [1793].\n\nCasament: el 20 de desembre de 1806 amb Francisca Navarro Paul de la Vall d'Uixó[1786].\n\nFills: Francisco [1808], María [1812], Mariana [1815] i José [1818].\n",
   "genogram": {
     "nodes": [],
     "links": []

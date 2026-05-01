@@ -1,10 +1,10 @@
 {
-  "id": "martin_abasolo_17500101",
-  "source_id": "A001",
-  "name": "Martín Abasolo",
-  "gender": "male",
+  "id": "pedro_accensi_17900101",
+  "source_id": "A006",
+  "name": "Pedro Accensi",
+  "gender": null,
   "birth": {
-    "date": "1750-01-01",
+    "date": "1790-01-01",
     "place": null
   },
   "death": {
@@ -40,7 +40,7 @@
     "email": null
   },
   "photo": null,
-  "notes": "Cabo del Resguardo de Rentas destinat a la Ràpita al 30 de novembre de 1780. (ACA BGRP caixa 1).",
+  "notes": "Naixement: [aprox. 1790].\n\nPaga censos a les monges per quatre jornals.\n",
   "genogram": {
     "nodes": [],
     "links": []

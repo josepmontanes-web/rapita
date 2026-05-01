@@ -1,7 +1,7 @@
 {
-  "id": "tomasa_accensi_lazaro_18250101",
-  "source_id": "A010",
-  "name": "Tomasa Accensi Lazaro",
+  "id": "raymunda_accensi_lazaro_18250101",
+  "source_id": "A009",
+  "name": "Raymunda Accensi Lazaro",
   "gender": "female",
   "birth": {
     "date": "1825-01-01",
@@ -34,7 +34,7 @@
       "María Lázaro [o Lozano] Domenech de Rossell"
     ],
     "spouse_names": [
-      "José Magí Marmaña"
+      "Blas Sánchez Batiste"
     ],
     "children_names": []
   },
@@ -48,7 +48,7 @@
     "email": null
   },
   "photo": null,
-  "notes": "Naixement: a Santa Bàrbara [aprox. 1825].\n\nCasament: el 28 de desembre de 1844 amb José Magí Marmaña d'Amposta [1820].\n\nFills: José [1850].",
+  "notes": "Naixement: a Santa Bàrbara [aprox. 1825].\n\nCasament: el 9 de novembre de 1844 amb Blas Sánchez Batiste de la Ràpita [1820].\n\nFills: Ramón [1850], Francisco [1855] i Rosa [1858].",
   "genogram": {
     "nodes": [],
     "links": []

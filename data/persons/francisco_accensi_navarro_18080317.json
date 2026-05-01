@@ -1,11 +1,11 @@
 {
-  "id": "tomasa_accensi_lazaro_18250101",
-  "source_id": "A010",
-  "name": "Tomasa Accensi Lazaro",
-  "gender": "female",
+  "id": "francisco_accensi_navarro_18080317",
+  "source_id": "A013",
+  "name": "Francisco Accensi Navarro",
+  "gender": "male",
   "birth": {
-    "date": "1825-01-01",
-    "place": "Santa Barbara"
+    "date": "1808-03-17",
+    "place": null
   },
   "death": {
     "date": null,
@@ -22,20 +22,18 @@
   },
   "family": {
     "parents": [
-      "ramon_accensi_17900101",
-      "maria_lazaro_domenech_17900101"
+      "jose_antonio_accensi_o_ascensi_sancho_17850101",
+      "francisca_navarro_paulo_17860101"
     ],
     "spouse": [],
     "children": []
   },
   "relations_detail": {
     "parents_names": [
-      "Ramón Accensi",
-      "María Lázaro [o Lozano] Domenech de Rossell"
+      "José Antonio Accensi [o Ascensi] Sancho",
+      "Francisca Navarro Paul"
     ],
-    "spouse_names": [
-      "José Magí Marmaña"
-    ],
+    "spouse_names": [],
     "children_names": []
   },
   "occupation": {
@@ -48,7 +46,7 @@
     "email": null
   },
   "photo": null,
-  "notes": "Naixement: a Santa Bàrbara [aprox. 1825].\n\nCasament: el 28 de desembre de 1844 amb José Magí Marmaña d'Amposta [1820].\n\nFills: José [1850].",
+  "notes": "Naixement: el 17 de març de 1808 a Sant  Carles de la Ràpita.\n\nEl padrí es el iaio Francisco Navarro i la padrina es Francisca Ortíz.\n",
   "genogram": {
     "nodes": [],
     "links": []

@@ -1,0 +1,54 @@
+{
+  "id": "maria_agustina_francisca_accensi_o_asensi_navarro_18120814",
+  "source_id": "A014",
+  "name": "Maria Agustina Francisca Accensi [o Asensi] Navarro",
+  "gender": "female",
+  "birth": {
+    "date": "1812-08-14",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1814-12-30",
+    "place": "la Ràpita"
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "jose_antonio_accensi_o_ascensi_sancho_17850101",
+      "francisca_navarro_paulo_17860101"
+    ],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Antonio Accensi [o Ascensi] Sancho",
+      "Francisca Navarro Paul"
+    ],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: el 14 d'agost de 1812 a la Ràpita.\n\nPadrins: Juan Segarra d'Ulldecona i María Bel dels Freginals.\n\nDefunció: el 30 de desembre de 1814 a la Ràpita.\n",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}
