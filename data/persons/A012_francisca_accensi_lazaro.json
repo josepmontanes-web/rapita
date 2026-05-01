@@ -20,21 +20,21 @@
     "lng": null
   },
   "family": {
-    "parents": [],
+    "parents": [
+      "A005_ramon_accensi"
+    ],
     "spouse": [],
     "children": []
   },
   "relations_detail": {
     "parents_names": [
-      "Ramon Accensi",
+      "Ramón Accensi",
       "Maria Lozano"
     ],
     "spouse_names": [
       "Lucas Torta Subirats"
     ],
-    "children_names": [
-      "0.0"
-    ]
+    "children_names": []
   },
   "occupation": {
     "title": null

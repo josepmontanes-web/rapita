@@ -20,20 +20,32 @@
     "lng": null
   },
   "family": {
-    "parents": [],
-    "spouse": [],
-    "children": []
+    "parents": [
+      "A002_jose_antonio_accensi"
+    ],
+    "spouse": [
+      "A012_francisca_accensi_lazaro"
+    ],
+    "children": [
+      "A013_francisco_accensi_navarro",
+      "A014_maria_asensi_navarro",
+      "A015_mariana_o_maria_anna_accensi_o_asensi_navarro",
+      "A016_jose_asensi_navarro"
+    ]
   },
   "relations_detail": {
     "parents_names": [
-      "José Ascensi",
+      "José Antonio Accensi",
       "Madalena Sancho"
     ],
     "spouse_names": [
       "Francisca Navarro Paul"
     ],
     "children_names": [
-      "0.0"
+      "Francisco Accensi Navarro",
+      "María Asensi Navarro",
+      "Mariana [o Maria Anna] Accensi [o Asensi] Navarro",
+      "José Asensi Navarro"
     ]
   },
   "occupation": {

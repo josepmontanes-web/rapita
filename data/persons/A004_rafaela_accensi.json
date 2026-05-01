@@ -22,12 +22,16 @@
   "family": {
     "parents": [],
     "spouse": [],
-    "children": []
+    "children": [
+      "A007_maria_accensi_accensi"
+    ]
   },
   "relations_detail": {
     "parents_names": [],
     "spouse_names": [],
-    "children_names": []
+    "children_names": [
+      "Maria Accensi Accensi"
+    ]
   },
   "occupation": {
     "title": null

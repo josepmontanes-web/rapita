@@ -20,13 +20,15 @@
     "lng": null
   },
   "family": {
-    "parents": [],
+    "parents": [
+      "A017_jose_antonio_accensi_o_ascensi_sancho"
+    ],
     "spouse": [],
     "children": []
   },
   "relations_detail": {
     "parents_names": [
-      "Josef Antonio Accensi Sancho",
+      "José Antonio Accensi [o Ascensi] Sancho",
       "Francisca Navarro Paulo"
     ],
     "spouse_names": [],

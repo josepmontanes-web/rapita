@@ -22,12 +22,20 @@
   "family": {
     "parents": [],
     "spouse": [],
-    "children": []
+    "children": [
+      "A005_ramon_accensi",
+      "A017_jose_antonio_accensi_o_ascensi_sancho",
+      "A018_antonia_asensi_sancho"
+    ]
   },
   "relations_detail": {
     "parents_names": [],
     "spouse_names": [],
-    "children_names": []
+    "children_names": [
+      "Ramón Accensi",
+      "José Antonio Accensi [o Ascensi] Sancho",
+      "Antonia Asensi Sancho"
+    ]
   },
   "occupation": {
     "title": null

@@ -20,13 +20,15 @@
     "lng": null
   },
   "family": {
-    "parents": [],
+    "parents": [
+      "A002_jose_antonio_accensi"
+    ],
     "spouse": [],
     "children": []
   },
   "relations_detail": {
     "parents_names": [
-      "Antonio Ausensi",
+      "José Antonio Accensi",
       "Magdalena Sanches"
     ],
     "spouse_names": [],

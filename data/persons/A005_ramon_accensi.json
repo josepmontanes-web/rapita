@@ -20,16 +20,32 @@
     "lng": null
   },
   "family": {
-    "parents": [],
+    "parents": [
+      "A002_jose_antonio_accensi"
+    ],
     "spouse": [],
-    "children": []
+    "children": [
+      "A008_maria_rosa_accensi_lazaro",
+      "A009_raymunda_accensi_lazaro",
+      "A010_tomasa_accensi_lazaro",
+      "A011_josefa_accensi_lazaro",
+      "A012_francisca_accensi_lazaro"
+    ]
   },
   "relations_detail": {
-    "parents_names": [],
+    "parents_names": [
+      "José Antonio Accensi"
+    ],
     "spouse_names": [
       "Maria Lozano"
     ],
-    "children_names": []
+    "children_names": [
+      "Maria Rosa Accensi Lazaro",
+      "Raymunda Accensi Lazaro",
+      "Tomasa Accensi Lazaro",
+      "Josefa Accensi Lazaro",
+      "Francisca Accensi Lazaro"
+    ]
   },
   "occupation": {
     "title": null

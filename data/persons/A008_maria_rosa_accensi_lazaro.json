@@ -20,21 +20,23 @@
     "lng": null
   },
   "family": {
-    "parents": [],
-    "spouse": [],
+    "parents": [
+      "A005_ramon_accensi"
+    ],
+    "spouse": [
+      "A013_francisco_accensi_navarro"
+    ],
     "children": []
   },
   "relations_detail": {
     "parents_names": [
-      "Ramon Accensi",
+      "Ramón Accensi",
       "Maria Lazaro"
     ],
     "spouse_names": [
       "Francisco Pino Bedós"
     ],
-    "children_names": [
-      "0.0"
-    ]
+    "children_names": []
   },
   "occupation": {
     "title": null

@@ -20,7 +20,10 @@
     "lng": null
   },
   "family": {
-    "parents": [],
+    "parents": [
+      "A003_sebastian_accensi",
+      "A004_rafaela_accensi"
+    ],
     "spouse": [],
     "children": []
   },
