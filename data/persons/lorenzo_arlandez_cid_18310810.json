@@ -1,0 +1,51 @@
+{
+  "id": "lorenzo_arlandez_cid_18310810",
+  "source_id": null,
+  "name": "Lorenzo Arlández Cid",
+  "gender": "male",
+  "birth": {
+    "date": "1831-08-10",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomás Arlández Riba",
+      "Mª.de la Cinta Cid Ferré"
+    ],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: el 10 d'agost de 1831 a la Ràpita.\n\nBessó de Lorenza Arlández Cid.\n\nPadrina: Rosa Comí.\n\nMellizo",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

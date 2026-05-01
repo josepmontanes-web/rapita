@@ -1,0 +1,53 @@
+{
+  "id": "maria_lucia_arbo_tomas_18241213",
+  "source_id": null,
+  "name": "Maria Lucia Arbó Tomás",
+  "gender": "female",
+  "birth": {
+    "date": "1824-12-13",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Arbó",
+      "Bárbara Tomás"
+    ],
+    "spouse_names": [
+      "Francisco Pedra Roca"
+    ],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement:  el 13 de desembre de 1824 a la Ràpita.\n\nEls padrins son Antonio Villalta Masip i María Tomás Sanchís.\n\nCasament: el 20 d'agost de 1846 amb Francisco Pedra Roca de la Ràpita [1824].\n\nFills: Dolores [1850].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "juan_aragones_vidal_17920101",
+  "source_id": null,
+  "name": "Juan Aragonés Vidal",
+  "gender": "male",
+  "birth": {
+    "date": "1792-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Aragonés",
+      "Maria Vidal"
+    ],
+    "spouse_names": [
+      "Maria Fabregat Mateu"
+    ],
+    "children_names": [
+      "0.0"
+    ]
+  },
+  "occupation": {
+    "title": "Pagès",
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement:  a Tortosa [aprox. 1792].\n\nProfessió: pagès.\n\nCasament: el 30 de novembre de 1816 amb María Fabregat Mateu de la Ràpita [1895].\n\nés el col·lector de censos de les monges. També fa una mica com del seu representant, tot i que les terres i rendes les tenen arrendades (juliol de 1842) a un altre. Té amistat amb Vicente Gombau. És zelador de la muntanya del Montsià (mano de cartas)\n\nEs un dels 28 veïns de la Ràpita que figuren al primer cens electoral de San Carlos de la Ràpita de 1867, diu que viu al carrer Sant Isidre, 6.\n\nEs casa als 24 anys.\n\nés el col·lector de censos de les monges. També fa una mica com del seu representant, tot i que les terres i rendes les tenen arrendades (juliol de 1842) a un altre. Té amistat amb Vicente Gombau. És zelador de la muntanya del Montsià (mano de cartas)",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

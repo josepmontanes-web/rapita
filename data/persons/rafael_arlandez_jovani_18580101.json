@@ -1,0 +1,48 @@
+{
+  "id": "rafael_arlandez_jovani_18580101",
+  "source_id": null,
+  "name": "Rafael Arlández Jovani",
+  "gender": "male",
+  "birth": {
+    "date": "1858-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: [aprox. 1858].\n\nProfessió: pagès.\n\nCasament: el 26 de maig de 1883 amb María Guardia Reverté de la Ràpita [1860]. Es casa als 24 anys. Al casament, el segon cognom consta com a Juaní.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

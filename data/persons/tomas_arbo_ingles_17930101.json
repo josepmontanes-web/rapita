@@ -1,0 +1,55 @@
+{
+  "id": "tomas_arbo_ingles_17930101",
+  "source_id": null,
+  "name": "Tomás Arbó Inglés",
+  "gender": "male",
+  "birth": {
+    "date": "1793-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1837-06-09",
+    "place": "la Ràpita"
+  },
+  "age": 44,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomás Arbó",
+      "Francisca Inglés"
+    ],
+    "spouse_names": [
+      "Teresa Sánchez Yserte"
+    ],
+    "children_names": [
+      "0.0"
+    ]
+  },
+  "occupation": {
+    "title": "Pagès",
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement:  a Benicarló [aprox. 1793].\n\nProfessió: pagès.\n\nCasament: el 4 de març de 1815 amb Teresa Sánchez Iserte de la Ràpita [1793].\n\nFills: Juan [1816], Josefa [1820], Peregrín [1824], José [1827], Ramón Tomás [1830] i Felix [1833].\n\nDefunció: el 9 de juny de 1837 a la Ràpita.\n\nEs casa als 22 anys.\n\nMorí als 40 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

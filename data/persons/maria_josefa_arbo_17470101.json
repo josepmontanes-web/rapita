@@ -1,0 +1,50 @@
+{
+  "id": "maria_josefa_arbo_17470101",
+  "source_id": null,
+  "name": "Maria Josefa Arbó",
+  "gender": "female",
+  "birth": {
+    "date": "1747-01-01",
+    "place": "Vinebre"
+  },
+  "death": {
+    "date": "1808-01-09",
+    "place": "la Ràpita"
+  },
+  "age": 61,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "spouse_names": [
+      "Bautista Serres"
+    ],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement:  a Vinebre [aprox. 1747].\n\nCasament: amb Bautista Serres de Mora d'Ebre.\n\nFills: Juan (Mora d'Ebre) [aprox 1780].\n\nDefunció: el 9 de gener de 1808 a la Ràpita. No fa testament.\n\nNo fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

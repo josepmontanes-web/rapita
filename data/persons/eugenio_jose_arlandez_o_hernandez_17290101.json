@@ -1,0 +1,51 @@
+{
+  "id": "eugenio_jose_arlandez_o_hernandez_17290101",
+  "source_id": null,
+  "name": "Eugenio José Arlández [o Hernández]",
+  "gender": "male",
+  "birth": {
+    "date": "1729-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1807-09-20",
+    "place": "la Ràpita"
+  },
+  "age": 78,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "spouse_names": [
+      "Antonia Pla",
+      "Candia Clua"
+    ],
+    "children_names": []
+  },
+  "occupation": {
+    "title": "Pagès",
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: a Tortosa [aprox. 1729].\n\nCasament: amb Antonia Pla de Tortosa [1730].\n\nFills: Tomás (Tortosa) [aprox 1768] i Rosa (Tortosa) [aprox. 1768].\n\nAl juliol de 1781 Eugenio Hernández treballa com a carreter a les Obres del Canal de Navegació (ACA BGRP Caixa 44).\n\nDes de novembre de 1795 al maig de 1796 Eugenio Arnandes \"la Rabasa\" té llogat un quarto al núm. 22 de la Mansana Vella i al juny de 1796 té llogada la casa 21 de la Mansana Vella. Al desembre de 1796 i al gener de 1798 té llogada una casa davant del canal i horta. A partir de setembre de 1798 aquesta mateixa casa la té llogada Tomás Hernández. (ACA BGRP caixa 34). \n\nCasament: a Amposta el 18 de novembre de 1797 amb Candia Clua de Tortosa [1750]. El casament es entre Antonio Hernández (viudo d'Antonia Pla i Candia Clua (viuda de Jayme Zaragoza).\n\nDefunció: el 20 de setembre de 1807 a la Ràpita. Eugenio va morir als 78 anys.\n\nEl nom no està clar que sigui Eugenio, Josef o Antonio i el cognom també apareix con Arlandes o Arlández.\n\nEugenio Hernández es carreter i veí de San Carlos al 1786 (ACA BGPR Correspondencia Caixa 8).\n\nEs veí de la Ràpita a 1796 (ACA Processos 1796 7F). Es refereix a Josef Hernández.\n\nPodria ser Josef Hernández o Antonio Hernández o Eugenio Hernández?\n\nmor als 78 anys\n\nsegon casament celebrat a Amposta",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

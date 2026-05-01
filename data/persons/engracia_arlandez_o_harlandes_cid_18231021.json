@@ -1,0 +1,51 @@
+{
+  "id": "engracia_arlandez_o_harlandes_cid_18231021",
+  "source_id": null,
+  "name": "Engracia Arlández [o Harlandes] Cid",
+  "gender": "female",
+  "birth": {
+    "date": "1823-10-21",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomás Harlandes Ribas",
+      "Mª.de la Cinta Cid Ferré"
+    ],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: el 21 d'octubre de 1823 a la Ràpita.\n\nPadrins: Francisco Cachot i Engracia Cartes.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

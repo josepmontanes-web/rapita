@@ -1,0 +1,48 @@
+{
+  "id": "josefa_arbona_guasch_18620101",
+  "source_id": null,
+  "name": "Josefa Arbona Guasch",
+  "gender": "female",
+  "birth": {
+    "date": "1862-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: a la Ràpita [aprox. 1862].\n\nCasament: el 5 de maig de 1880 amb José Romeu Ferré de la Ràpita [1858]. Es casa als 18 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

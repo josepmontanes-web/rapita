@@ -1,0 +1,51 @@
+{
+  "id": "alexandro_arlandez_balada_18300801",
+  "source_id": null,
+  "name": "Alexandro Arlández Balada",
+  "gender": "male",
+  "birth": {
+    "date": "1830-08-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Hernández Cavaller",
+      "Rita Balada Planes"
+    ],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: l'1 d'agost de 1830 a la Ràpita.\n\nEls padrins són Alexandro Monserrat i Vicenta Llorens.\n\nProfessió: mariner.\n\nCasament: amb Vicenta Reverté Caubet [1829].\n\nFills: Alejandro [1860].\n\nVenta: de Francisco Reverté a sus cuñados Bartolomé Brunet y Alejandro Arlández en partes iguales, de las terceras partes de toda aquella casa en la calle de San Isidro. Linda con Mariano Balada, Jacinto Garriga y Manuel Bel. Precio 40 duros. 3 de abril de 1859. Documento privado otorgado en San Carlos siendo testigos José Canicio, Agustín Castillo y Gabriel Gilabert.\n\nCasament: el 3 de desembre de 1881 amb Teresa Montserrat García de la Ràpita [1850].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

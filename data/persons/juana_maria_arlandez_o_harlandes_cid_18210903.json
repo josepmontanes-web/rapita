@@ -1,0 +1,51 @@
+{
+  "id": "juana_maria_arlandez_o_harlandes_cid_18210903",
+  "source_id": null,
+  "name": "Juana Maria Arlández [o Harlandes] Cid",
+  "gender": "female",
+  "birth": {
+    "date": "1821-09-03",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Thomas Harlandes Riba",
+      "Mª.de la Cinta Cid Ferrer"
+    ],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: el 3 de setembre de 1821 a la Ràpita.\n\nPadrins: Juan Castellà i María Safon.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

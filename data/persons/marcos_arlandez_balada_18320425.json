@@ -1,0 +1,51 @@
+{
+  "id": "marcos_arlandez_balada_18320425",
+  "source_id": null,
+  "name": "Marcos Arlández Balada",
+  "gender": "male",
+  "birth": {
+    "date": "1832-04-25",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Hernández Cavaller",
+      "Rita Balada Planes"
+    ],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: el 25 d'abril de 1832 a la Ràpita.\n\nEls padrins són Jayme Palatsí i Peregrina Cambra.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

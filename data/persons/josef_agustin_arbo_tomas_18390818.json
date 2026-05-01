@@ -1,0 +1,51 @@
+{
+  "id": "josef_agustin_arbo_tomas_18390818",
+  "source_id": null,
+  "name": "Josef Agustín Arbó Tomás",
+  "gender": "male",
+  "birth": {
+    "date": "1839-08-18",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Arbó Inglés",
+      "Maria Tomas Sanchez"
+    ],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: el 18 d'agost de 1839 a la Ràpita.\n\nProfessió: pagès.\n\nCasament: Sinforosa Sánchez Guardia de la Ràpita [1853].\n\nFills: Francisca Sinforosa [1878] i Maria [1880].\n\nEls padrins son Agustín Reverter Forner d'Alcanar i Joaquina Rosales Junyent.\n\nel padrí d'Alcanar",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

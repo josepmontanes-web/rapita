@@ -1,0 +1,48 @@
+{
+  "id": "eleuterio_arlandez_arbo_18520101",
+  "source_id": null,
+  "name": "Eleuterio Arlández Arbó",
+  "gender": "male",
+  "birth": {
+    "date": "1852-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: a la Ràpita [aprox. 1852].\n\nProfessió: pagès.\n\nCasament: el 17 de juliol de 1880 amb Teresa Reverté Sancho de la Ràpita [1856]. Es casa als 28 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

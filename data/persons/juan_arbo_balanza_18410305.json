@@ -1,0 +1,51 @@
+{
+  "id": "juan_arbo_balanza_18410305",
+  "source_id": null,
+  "name": "Juan Arbó Balanzá",
+  "gender": "male",
+  "birth": {
+    "date": "1841-03-05",
+    "place": null
+  },
+  "death": {
+    "date": "1844-11-09",
+    "place": "la Ràpita"
+  },
+  "age": 3,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Arbó Sanches",
+      "Felipa Balanzá Comes"
+    ],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: el 5 de març de 1841 a la Ràpita.\n\nPadrins: Gabriel Obiol i Rosa Casajust.\n\nDefunció: el 9 de novembre de 1844 a la Ràpita.\n\nMorí pàrvul de 4 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

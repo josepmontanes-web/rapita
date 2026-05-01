@@ -1,0 +1,51 @@
+{
+  "id": "juan_arbo_angles_18060113",
+  "source_id": null,
+  "name": "Juan Arbó Anglès",
+  "gender": "male",
+  "birth": {
+    "date": "1806-01-13",
+    "place": null
+  },
+  "death": {
+    "date": "1842-09-03",
+    "place": "la Ràpita"
+  },
+  "age": 36,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomás Arbó Solsona",
+      "Francisca Anglès Arnau"
+    ],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement:  el 13 de gener de 1806 a la Ràpita.\n\nEls padrins son Antonia Arbó Ramia de Benicarló i Francisco del Pozo artiller del municipi de Patones (Madrid).\n\nDefunció: el 3 de setembre de 1842 a la Ràpita. Va morir fadrí de mort violenta.\n\nel pare té 40 anys i es pagès.\n\nel padrí es artillero i de Patones Castilla la Nueva\n\nla padrina de Benicarló\n\nMorí fadrí de mort violenta. El segón cognom apareix com Anglés.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "josefa_arbo_sanz_18520101",
+  "source_id": null,
+  "name": "Josefa Arbó Sanz",
+  "gender": "female",
+  "birth": {
+    "date": "1852-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: [aprox. 1852].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "francisco_arlandes_balada_18221201",
+  "source_id": null,
+  "name": "Francisco Arlandes Balada",
+  "gender": "male",
+  "birth": {
+    "date": "1822-12-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1824-02-04",
+    "place": "la Ràpita"
+  },
+  "age": 1,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Hernández Cavaller",
+      "Rita Balada Planes"
+    ],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: l'1 de desembre de 1822 a la Ràpita.\n\nEls padrins són els iaios Francisco Balada i María Francisca Cavallé.\n\nDefunció: el 4 de febrer de 1824 a la Ràpita. Va morir de \"muerte natural\".\n\nels padrins son los iaios\n\nA la partida de defunció el cognom es Arlandes.\n\nMorí als 2 anys de \"muerte natural\". Morí als 2 anys de \"muerte natural\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

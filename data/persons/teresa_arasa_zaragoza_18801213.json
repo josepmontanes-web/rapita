@@ -1,0 +1,48 @@
+{
+  "id": "teresa_arasa_zaragoza_18801213",
+  "source_id": null,
+  "name": "Teresa Arasa Zaragoza",
+  "gender": "female",
+  "birth": {
+    "date": "1880-12-13",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: el 13 de desembre de 1880 a la Ràpita. El pare té 25 anys i es mariner, la mare en té 20.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

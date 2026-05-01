@@ -1,0 +1,55 @@
+{
+  "id": "vicente_arlandez_o_hernandez_cavaller_17921018",
+  "source_id": null,
+  "name": "Vicente Arlández [o Hernández] Cavaller",
+  "gender": "male",
+  "birth": {
+    "date": "1792-10-18",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1846-01-21",
+    "place": "la Ràpita"
+  },
+  "age": 53,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomás Hernández Pla",
+      "Mª. Francisca Cavaller Roig"
+    ],
+    "spouse_names": [
+      "Rita Balada Planes"
+    ],
+    "children_names": [
+      "0.0"
+    ]
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: el 18 d'octubre de 1792 a la Ràpita.\n\nPadrí Don Vicente Fuster\n\nCasament: el 13 de febrer de 1822 amb Rita Balada Planes de la Ràpita [1800].\n\nFills: Francisco [1822], Tomás [1824], Lorenza [1826], Rafael [1828], Alexandro [1830], Marcos [1832], Vicente [1834], Juana [1836], María Francisca [1840] i Vicenta [1841].\n\nDefunció: el 21 de gener de 1846 a la Ràpita. \"Murió de mal de costado y testó ante Vte. Sabaté\". A la partida de defunció apareix com a Vicente Arlández.\n\nA la partida de defunció apareix com Vicente Arlández.\n\n\"Murió de mal de costado y testó ante Vte. Sabaté\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

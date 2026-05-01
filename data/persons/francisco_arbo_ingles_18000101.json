@@ -1,0 +1,55 @@
+{
+  "id": "francisco_arbo_ingles_18000101",
+  "source_id": null,
+  "name": "Francisco Arbó Inglés",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Benicarló"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomas Arbó",
+      "Francisca Inglés"
+    ],
+    "spouse_names": [
+      "Maria Tomas Sanchis"
+    ],
+    "children_names": [
+      "0.0"
+    ]
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement:  a Benicarló [aprox. 1800].\n\nCasament: el 21 de febrer de 1826 amb María Tomás Sanchís de Godall [1805].\n\nFills: Providencia o Prudencia [1827], Dolores [1829], Rafaela [1831], Simona [1833], Francisco [1836], José Agustín [1839], María Manuela [1841] i Tomasa [1845].\n\nVenta: de Dolores Arbó (Tomás) consorte de Domingo Vidal (Serrano), Tomás Arlández (Balada) viudo de Prudencia Arbó (Providencia Arbó Tomás) , Rafaela Arbó (Tomás) consorte de Bartolomé Silvestre (Jovani) y Ramón Cid (Herlandes) marido de Simona Arbó (Tomás), todos labradores, a Luís Rams Herrero y Joaquina Segarra consortes, de una casa en la calle de San Isidro que aún estaba para …, esto es, a madera colocada. Linda con Tomás Vidal y terrenos de las Monjas. 4 de diciembre de 1857. Escribano Lorenzo Jimenez de Alcanar. Valor 2880. (El pare de les germanes es Francisco Arbó Inglés de Benicarló i el iaio Tomás Arbó).\n\nBENICARLO",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

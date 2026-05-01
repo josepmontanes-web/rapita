@@ -1,0 +1,51 @@
+{
+  "id": "josef_arbo_garcia_18460312",
+  "source_id": null,
+  "name": "Josef Arbó García",
+  "gender": "male",
+  "birth": {
+    "date": "1846-03-12",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1846-04-06",
+    "place": "la Ràpita"
+  },
+  "age": 0,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustín Arbó Anglès",
+      "Magdalena García Puchol"
+    ],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: el 12 de març de 1846 a la Ràpita.\n\nDefunció: el 6 d'abril de 1846 a la Ràpita.\n\nMorí als 24 dies",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

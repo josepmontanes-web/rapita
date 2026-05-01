@@ -1,0 +1,55 @@
+{
+  "id": "rosa_arlandez_o_hernandez_cavaller_17970101",
+  "source_id": null,
+  "name": "Rosa Arlández [o Hernández] Cavaller",
+  "gender": "female",
+  "birth": {
+    "date": "1797-01-01",
+    "place": "Las Salinas"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomas Hernández Pla",
+      "Mª. Francisca Cavaller Roig"
+    ],
+    "spouse_names": [
+      "Francisco Sans Castell"
+    ],
+    "children_names": [
+      "0.0"
+    ]
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement:  a les Salines dels Alfacs [aprox. 1797].\n\nCasament: el 13 de febrer de 1822 amb Francisco Sans Castell de la Ràpita [1797].\n\nFills: José Francisco [1823], Teresa Paula [1826], Rosa Pascuala [1829], Felicia [1831] i Arcangel [1834].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

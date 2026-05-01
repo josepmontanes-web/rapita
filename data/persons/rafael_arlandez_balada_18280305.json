@@ -1,0 +1,53 @@
+{
+  "id": "rafael_arlandez_balada_18280305",
+  "source_id": null,
+  "name": "Rafael Arlández Balada",
+  "gender": "male",
+  "birth": {
+    "date": "1828-03-05",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Hernández Cavaller",
+      "Rita Balada Planes"
+    ],
+    "spouse_names": [
+      "Maria Jovani Sans"
+    ],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: el 5 de març de 1828 a la Ràpita.\n\nEls padrins són Rafael Balada i Lorenza Balada.\n\nCasament: el 29 d'abril de 1854 amb María Jovani Sans de la Ràpita [1828]. Testimonis: Juan López i Bartolomé Silvestre.\n\nFills: Josefa [1855] i Rafael [1858].\n\nEs casa als 26 anys. Testimonis: Juan López i Bartolomé Silvestre.\n\nA la partida de casament el cognom es Herlández.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

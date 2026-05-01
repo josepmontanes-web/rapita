@@ -1,0 +1,51 @@
+{
+  "id": "juana_arlandes_balada_18360620",
+  "source_id": null,
+  "name": "Juana Arlandes Balada",
+  "gender": "female",
+  "birth": {
+    "date": "1836-06-20",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Hernández Cavaller",
+      "Rita Balada Planes"
+    ],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: el 20 de juny de 1836 a la Ràpita.\n\nEls padrins són Juan Bautista Pons de Benicarló i Tomasa Balada.\n\nel padrí de Benicarló",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

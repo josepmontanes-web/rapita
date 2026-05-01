@@ -1,0 +1,51 @@
+{
+  "id": "maria_manuela_arbo_tomas_18411112",
+  "source_id": null,
+  "name": "Maria Manuela Arbó Tomás",
+  "gender": "female",
+  "birth": {
+    "date": "1841-11-12",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Arbó Inglés",
+      "Maria Tomas Sanchez"
+    ],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement:  el 12 de novembre de 1841 a la Ràpita.\n\nEls padrins son Manuel Verge Monserrat i Josefa María Guzman Obiol.\n\nCasament: amb Agustín Reverté Talarn de la Ràpita [1842].\n\nFills: Rosa [1876], María de la Providencia [1878] i Francisco [1880].\n\nal bateix la iaia paterna es diu Francisca Angles",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}
