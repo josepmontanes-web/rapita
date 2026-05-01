@@ -182,7 +182,7 @@ def main():
     index_entries = []
 
     for _, row in df.iterrows():
-        name = clean(row.get("NOM_COMPLET"))
+      name = clean(row.get("NOM_COMPLET")) or full_name(row.get("NOM"), row.get("COGNOMS"))
         if not name:
             continue
 
@@ -221,9 +221,9 @@ def main():
                 "date": iso_date(death_raw),
                 "place": death_place
             },
-            "status": {
-                "alive": False
-            },
+          "status": {
+    "alive": False if iso_date(death_raw) else True
+},
             "location": {
                 "address": "",
                 "lat": None,
