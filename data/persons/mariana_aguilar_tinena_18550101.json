@@ -1,10 +1,10 @@
 {
-  "id": "teresa_agramunt_rosello_18540101",
+  "id": "mariana_aguilar_tinena_18550101",
   "source_id": null,
-  "name": "Francisco Aguilar Borràs",
+  "name": "Juan Aguilar Tomás",
   "gender": "male",
   "birth": {
-    "date": "1856-01-01",
+    "date": "1849-01-01",
     "place": null
   },
   "death": {
@@ -40,7 +40,7 @@
     "email": null
   },
   "photo": null,
-  "notes": "Consta arribada/documentació a la Ràpita l'any 1878. Consta sortida o darrera referència l'any 1900.",
+  "notes": "Consta arribada/documentació a la Ràpita l'any 1876. Consta sortida o darrera referència l'any 1900.",
   "genogram": {
     "nodes": [],
     "links": []

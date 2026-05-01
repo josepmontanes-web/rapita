@@ -1,11 +1,11 @@
 {
-  "id": "teresa_agramunt_rosello_18540101",
+  "id": "francisco_aguilar_rodriguez_18100101",
   "source_id": null,
-  "name": "Francisco Aguilar Borràs",
-  "gender": "male",
+  "name": "Luisa Aguilar Temprado",
+  "gender": "female",
   "birth": {
-    "date": "1856-01-01",
-    "place": null
+    "date": "1780-01-01",
+    "place": "Ulldecona"
   },
   "death": {
     "date": null,
@@ -26,8 +26,13 @@
     "children": []
   },
   "relations_detail": {
-    "parents_names": [],
-    "spouse_names": [],
+    "parents_names": [
+      "Antonio Aguilar",
+      "Maria Temprado"
+    ],
+    "spouse_names": [
+      "Mariano Mateu Sancho"
+    ],
     "children_names": []
   },
   "occupation": {
@@ -40,7 +45,7 @@
     "email": null
   },
   "photo": null,
-  "notes": "Consta arribada/documentació a la Ràpita l'any 1878. Consta sortida o darrera referència l'any 1900.",
+  "notes": "Consta arribada/documentació a la Ràpita l'any 1799. Consta sortida o darrera referència l'any 1799. Progenitors consignats a la fila font. Casament consignat amb Mariano Mateu Sancho el 1799-06-25.",
   "genogram": {
     "nodes": [],
     "links": []

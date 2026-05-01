@@ -1,10 +1,10 @@
 {
-  "id": "teresa_agramunt_rosello_18540101",
+  "id": "rosa_aixendri_bonfill_18500101",
   "source_id": null,
-  "name": "Francisco Aguilar Borràs",
+  "name": "Salvador Albacar",
   "gender": "male",
   "birth": {
-    "date": "1856-01-01",
+    "date": "1770-01-01",
     "place": null
   },
   "death": {
@@ -27,7 +27,9 @@
   },
   "relations_detail": {
     "parents_names": [],
-    "spouse_names": [],
+    "spouse_names": [
+      "Doña Teresa Masià"
+    ],
     "children_names": []
   },
   "occupation": {
@@ -40,7 +42,7 @@
     "email": null
   },
   "photo": null,
-  "notes": "Consta arribada/documentació a la Ràpita l'any 1878. Consta sortida o darrera referència l'any 1900.",
+  "notes": "Consta arribada/documentació a la Ràpita l'any 1820. Consta sortida o darrera referència l'any 1823. Casament consignat amb Doña Teresa Masià.",
   "genogram": {
     "nodes": [],
     "links": []

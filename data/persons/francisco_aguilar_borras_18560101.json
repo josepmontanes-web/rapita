@@ -1,10 +1,10 @@
 {
-  "id": "teresa_agramunt_rosello_18540101",
+  "id": "francisco_aguilar_borras_18560101",
   "source_id": null,
-  "name": "Francisco Aguilar Borràs",
-  "gender": "male",
+  "name": "María Cinta Julia Aguilar Icart",
+  "gender": "female",
   "birth": {
-    "date": "1856-01-01",
+    "date": "1878-10-01",
     "place": null
   },
   "death": {
@@ -40,7 +40,7 @@
     "email": null
   },
   "photo": null,
-  "notes": "Consta arribada/documentació a la Ràpita l'any 1878. Consta sortida o darrera referència l'any 1900.",
+  "notes": "Consta arribada/documentació a la Ràpita l'any 1878. Consta sortida o darrera referència l'any 1950.",
   "genogram": {
     "nodes": [],
     "links": []
