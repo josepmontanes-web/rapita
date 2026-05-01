@@ -1,0 +1,54 @@
+{
+  "id": "maria_accensi_accensi_18160101",
+  "source_id": "A007",
+  "name": "Maria Accensi Accensi",
+  "gender": "female",
+  "birth": {
+    "date": "1816-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1817-09-26",
+    "place": "la Ràpita"
+  },
+  "age": 1,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "sebastian_accensi_17920101",
+      "rafaela_accensi_17940101"
+    ],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Sebastián Accensi",
+      "Rafaela Accensi"
+    ],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: el 1816.\n\nDefunció: el 26 de setembre de 1817 a la Ràpita. Tenia un any quan va morir.\n\nMorí a l'any. Causa de la mort: tumor",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

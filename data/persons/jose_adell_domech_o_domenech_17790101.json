@@ -1,0 +1,56 @@
+{
+  "id": "jose_adell_domech_o_domenech_17790101",
+  "source_id": null,
+  "name": "José Adell Domech [o Domenech].",
+  "gender": "male",
+  "birth": {
+    "date": "1779-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1843-11-22",
+    "place": "la Ràpita"
+  },
+  "age": 64,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [
+      "gertrudis_pasqual_fuster_17830101"
+    ],
+    "children": [
+      "juan_adell_pasqual_o_pascual_18030705"
+    ]
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "spouse_names": [
+      "Gertrudis Pasqual Fuster"
+    ],
+    "children_names": [
+      "Juan Adell Pasqual [o Pascual]"
+    ]
+  },
+  "occupation": {
+    "title": "Texedor",
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: a Alcanar [aprox. 1779].\n\nProfessió: \"Texedor\".\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu al Codoñol  (ACA BGRP Cajas 34).\n\nCasament: el 27 de juliol de 1808 amb Gertrudis Pascual Fuster de Vinaròs [1783].\n\nFills: Juan [1803].\n\nDefunció: el 22 de novembre de 1843 a la Ràpita. Va morir als 64 anys.\n\nMor als 64 anys.\n\nel segón cognom pot-ser Domenech",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

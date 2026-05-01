@@ -1,0 +1,78 @@
+{
+  "id": "francisca_accensi_lazaro_18170101",
+  "source_id": "A012",
+  "name": "Francisca Accensi Lazaro",
+  "gender": "female",
+  "birth": {
+    "date": "1817-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "ramon_accensi_17900101",
+      "maria_lazaro_domenech_17900101"
+    ],
+    "spouse": [
+      "lucas_torta_subirats_18130101"
+    ],
+    "children": [
+      "juan_ramon_torta_accensi_18351126",
+      "francisco_jose_torta_accensi_18380205",
+      "jose_torta_accensi_18450101",
+      "francisca_torta_accensi_18500101",
+      "bautista_torta_accensi_18500101",
+      "agustin_torta_accensi_18500101",
+      "lucas_torta_accensi_18520101",
+      "carmen_torta_accensi_18550101",
+      "tomasa_torta_accensi_18570101"
+    ]
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Ramón Accensi",
+      "María Lázaro Domenech"
+    ],
+    "spouse_names": [
+      "Lucas Torta Subirats"
+    ],
+    "children_names": [
+      "Juan Ramón Torta Accensi",
+      "Francisco José Torta Accensi",
+      "José Torta Accensi",
+      "Francisca Torta Accensi",
+      "Bautista Torta Accensi",
+      "Agustín Torta Accensi",
+      "Lucas Torta Accensi",
+      "Carmen Torta Accensi",
+      "Tomasa Torta Accensi"
+    ]
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: a Tortosa al 1817.\n\nCasament: el 27 de juliol de 1835 amb Lucas Torta Subirats d'Amposta [1813].\n\nFills: Juan Ramón [1835], Francisco José [1838], José [1845], Francisca [1850], Bautista [1850], Agustín [1850], Lucas [1852], Carmen [1855] i Tomasa [1857].\n\nEs casa als 18 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}
