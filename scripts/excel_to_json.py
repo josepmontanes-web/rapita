@@ -181,76 +181,76 @@ def main():
 
     index_entries = []
 
-    for _, row in df.iterrows():
-      name = clean(row.get("NOM_COMPLET")) or full_name(row.get("NOM"), row.get("COGNOMS"))
-        if not name:
-            continue
+  for _, row in df.iterrows():
+    name = clean(row.get("NOM_COMPLET")) or full_name(row.get("NOM"), row.get("COGNOMS"))
+    if not name:
+        continue
 
-        source_id = clean(row.get("IDPersona"))
-        birth_raw = row.get("DATA_NEIX")
-        birth_place = clean(row.get("LLOC_NEIX"))
-        death_raw = row.get("DATA_MORT")
-        death_place = clean(row.get("LLOC_MORT"))
-        gender = normalize_gender(row.get("SEXE"))
-        occupation = clean(row.get("PROFESSIÓ"))
-        notes = clean(row.get("TEXTE"))
+    source_id = clean(row.get("IDPersona"))
+    birth_raw = row.get("DATA_NEIX")
+    birth_place = clean(row.get("LLOC_NEIX"))
+    death_raw = row.get("DATA_MORT")
+    death_place = clean(row.get("LLOC_MORT"))
+    gender = normalize_gender(row.get("SEXE"))
+    occupation = clean(row.get("PROFESSIÓ"))
+    notes = clean(row.get("TEXTE"))
 
-       person_id = build_id(source_id, name)
+    person_id = build_id(source_id, name)
 
-        father_name = full_name(row.get("NOM_PARE"), row.get("COGNOMPARE"))
-        mother_name = full_name(row.get("NOM_MARE"), row.get("COGNOMMARE"))
+    father_name = full_name(row.get("NOM_PARE"), row.get("COGNOMPARE"))
+    mother_name = full_name(row.get("NOM_MARE"), row.get("COGNOMMARE"))
 
-        spouse_names = []
-        for n in [1, 2, 3]:
-            s = spouse_name(row, n)
-            if s:
-                spouse_names.append(s)
+    spouse_names = []
+    for n in [1, 2, 3]:
+        s = spouse_name(row, n)
+        if s:
+            spouse_names.append(s)
 
-        children_names = split_children(row.get("FILLS"))
+    children_names = split_children(row.get("FILLS"))
 
-        person = {
-            "id": person_id,
-            "source_id": source_id,
-            "name": name,
-            "gender": gender,
-            "birth": {
-                "date": iso_date(birth_raw),
-                "place": birth_place
-            },
-            "death": {
-                "date": iso_date(death_raw),
-                "place": death_place
-            },
-          "status": {
-    "alive": False if iso_date(death_raw) else True
-},
-            "location": {
-                "address": "",
-                "lat": None,
-                "lng": None
-            },
-            "family": {
-                "parents": [],
-                "spouse": [],
-                "children": []
-            },
-            "relations_detail": {
-                "parents_names": [x for x in [father_name, mother_name] if x],
-                "spouse_names": spouse_names,
-                "children_names": children_names
-            },
-            "occupation": {
-                "title": occupation
-            },
-            "education": [],
-            "contact": {},
-            "photo": "",
-            "notes": notes,
-            "genogram": {
-                "nodes": [],
-                "links": []
-            }
+    person = {
+        "id": person_id,
+        "source_id": source_id,
+        "name": name,
+        "gender": gender,
+        "birth": {
+            "date": iso_date(birth_raw),
+            "place": birth_place
+        },
+        "death": {
+            "date": iso_date(death_raw),
+            "place": death_place
+        },
+        "status": {
+            "alive": False if iso_date(death_raw) else None
+        },
+        "location": {
+            "address": "",
+            "lat": None,
+            "lng": None
+        },
+        "family": {
+            "parents": [],
+            "spouse": [],
+            "children": []
+        },
+        "relations_detail": {
+            "parents_names": [x for x in [father_name, mother_name] if x],
+            "spouse_names": spouse_names,
+            "children_names": children_names
+        },
+        "occupation": {
+            "title": occupation
+        },
+        "education": [],
+        "contact": {},
+        "photo": "",
+        "notes": notes,
+        "genogram": {
+            "nodes": [],
+            "links": []
         }
+    }
 
         output_file = OUTPUT_DIR / f"{person_id}.json"
         with open(output_file, "w", encoding="utf-8") as f:
