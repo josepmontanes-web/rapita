@@ -3,9 +3,9 @@ name: Generar JSON persons desde Excel
 on:
   push:
     paths:
-      - 'data/Base_dades.xlsx'
-      - 'scripts/excel_to_json.py'
-      - '.github/workflows/generar-persons.yml'
+      - "data/Base_dades.xlsx"
+      - "scripts/excel_to_json.py"
+      - ".github/workflows/generar-persons.yml"
   workflow_dispatch:
 
 permissions:
@@ -22,10 +22,23 @@ jobs:
       - name: Preparar Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
       - name: Instalar dependencias
-        run: pip install pandas openpyxl
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas openpyxl
+
+      - name: Debug archivos
+        run: |
+          echo "=== ROOT ==="
+          ls
+          echo "=== DATA ==="
+          ls -la data || true
+          echo "=== SCRIPTS ==="
+          ls -la scripts || true
+          echo "=== PYTHON VERSION ==="
+          python --version
 
       - name: Generar JSONs
         run: python scripts/excel_to_json.py
