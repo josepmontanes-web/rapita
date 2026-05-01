@@ -1,0 +1,97 @@
+{
+  "id": "jose_antonio_accensi_17600000",
+  "name": "José Antonio Accensi",
+  "gender": "male",
+
+  "naixement": {
+    "data": "1760-01-01",
+    "lloc": "Freginals"
+  },
+
+  "defuncio": {
+    "data": null,
+    "lloc": null
+  },
+
+  "age": null,
+
+  "status": {
+    "alive": false
+  },
+
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+
+  "family": {
+    "parents": [],
+    "casament": [
+      {
+        "nom": "Madalena Sancho",
+        "lloc": "Alcanar",
+        "data": "1762-01-01",
+        "id": "madalena_sancho_17620000"
+      }
+    ],
+    "fills": [
+      {
+        "nom": "José Antonio",
+        "data_naixement": "1785-01-01",
+        "id": "jose_antonio_accensi_17850000"
+      },
+      {
+        "nom": "Ramón",
+        "data_naixement": "1890-01-01",
+        "id": "ramon_accensi_18900000"
+      },
+      {
+        "nom": "Antonia",
+        "data_naixement": "1893-01-01",
+        "id": "antonia_accensi_18930000"
+      }
+    ]
+  },
+
+  "relations_detail": {
+    "parents_names": [],
+    "spouse_names": ["Madalena Sancho"],
+    "children_names": ["José Antonio", "Ramón", "Antonia"]
+  },
+
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+
+  "education": [],
+
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+
+  "photo": null,
+
+  "notes": "Naixement aproximat a Freginals (1760). No consta com a veí de la Ràpita. Casat amb Madalena Sancho d'Alcanar (1762). Fills: José Antonio (1785), Ramón (1890) i Antonia (1893). No està confirmat que els tres siguin germans.",
+
+  "genogram": {
+    "nodes": [
+      { "id": "jose_antonio_accensi_17600000", "name": "José Antonio", "x": 200, "y": 50 },
+      { "id": "madalena_sancho_17620000", "name": "Madalena", "x": 350, "y": 50 },
+      { "id": "jose_antonio_accensi_17850000", "name": "José Antonio", "x": 150, "y": 150 },
+      { "id": "ramon_accensi_18900000", "name": "Ramón", "x": 250, "y": 150 },
+      { "id": "antonia_accensi_18930000", "name": "Antonia", "x": 350, "y": 150 }
+    ],
+    "links": [
+      { "from": "jose_antonio_accensi_17600000", "to": "madalena_sancho_17620000" },
+      { "from": "jose_antonio_accensi_17600000", "to": "jose_antonio_accensi_17850000" },
+      { "from": "madalena_sancho_17620000", "to": "jose_antonio_accensi_17850000" },
+      { "from": "jose_antonio_accensi_17600000", "to": "ramon_accensi_18900000" },
+      { "from": "madalena_sancho_17620000", "to": "ramon_accensi_18900000" },
+      { "from": "jose_antonio_accensi_17600000", "to": "antonia_accensi_18930000" },
+      { "from": "madalena_sancho_17620000", "to": "antonia_accensi_18930000" }
+    ]
+  }
+}
