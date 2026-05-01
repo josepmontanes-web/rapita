@@ -1,0 +1,58 @@
+{
+  "id": "maria_albiol_rillo_18120101",
+  "source_id": null,
+  "name": "Maria Albiol Rillo",
+  "gender": "female",
+  "birth": {
+    "date": "1812-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [
+      "vicente_albiol_18060101"
+    ],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Albiol de Godall",
+      "Maria Rillo de Godall"
+    ],
+    "spouse_names": [
+      "Vicente Albiol"
+    ],
+    "children_names": [
+      "Josefa",
+      "Concepción"
+    ]
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: a Godall [aprox. 1812].\n\nCasament: amb Vicente Albiol de Godall [1806].\n\nFills: Josefa [1840] i Concepción.\n\nDefunció: el 22 de juliol de 1880 a la Ràpita a casa de Pablo Goday als 68 anys de \"peritonitis\". Declara la mor Paula Fabregat de Torreblanca de 44 anys, casada.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

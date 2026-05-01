@@ -1,0 +1,53 @@
+{
+  "id": "firmina_alonso_sanmartin_18330707",
+  "source_id": null,
+  "name": "Firmina Alonso Sanmartín",
+  "gender": "female",
+  "birth": {
+    "date": "1833-07-07",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Antonio Alonso Goris de \"Quarte de Manises\" (fill de Manuel de Burjassot",
+      "Josefa de \"Quarte\")",
+      "Ana María Sanmartin Martínez de \"Quarte de Manises\" (filla d'Andrés de \"Quarte\"",
+      "Peregrina de Manises)"
+    ],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement:  el 7 de juliol de 1833 a la Ràpita.\n\nPadrins: Francisca Adell i José Izquierdo que es carrabiner i es de la Puebla de Valverde (Terol).\n\nAvui \"Quart de Poblet\" es un municipi que limita amb Manises (València).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

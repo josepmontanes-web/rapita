@@ -1,0 +1,57 @@
+{
+  "id": "mariana_anguera_lleti_18340101",
+  "source_id": null,
+  "name": "Mariana Anguera Lletí",
+  "gender": "female",
+  "birth": {
+    "date": "1834-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [
+      "sebastian_reverte_jovani_18260629"
+    ],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Sebastián Anguera [Sancho?] de la Ràpita [1801 o 1806?]",
+      "Francisca Lletí de Freginals"
+    ],
+    "spouse_names": [
+      "Sebastián Reverté Jovani [o Juaní]"
+    ],
+    "children_names": [
+      "Ramón"
+    ]
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: a la Ràpita [aprox. 1834].\n\nCasament: amb Sebastián Reverté Jovani [o Juaní] de la Ràpita [1826].\n\nFills: Ramón [1880].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

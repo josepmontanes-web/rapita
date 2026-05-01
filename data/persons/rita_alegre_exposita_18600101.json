@@ -1,0 +1,52 @@
+{
+  "id": "rita_alegre_exposita_18600101",
+  "source_id": null,
+  "name": "Rita Alegre Expósita",
+  "gender": "female",
+  "birth": {
+    "date": "1860-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [
+      "francisco_casajust_balada_18580101"
+    ],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "spouse_names": [
+      "Francisco Casajust Balada"
+    ],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: a Tortosa [aprox. 1860].\n\nCasament: el 20 de setembre de 1883 amb Francisco Casajust Balada de la Ràpita [1858]. Es casa als 23 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

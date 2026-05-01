@@ -1,0 +1,54 @@
+{
+  "id": "vicenta_antoni_18220101",
+  "source_id": null,
+  "name": "Vicenta Antoni",
+  "gender": "female",
+  "birth": {
+    "date": "1822-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [
+      "pascual_franquesa_aguilar_18180101"
+    ],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "spouse_names": [
+      "Pascual Franquesa Aguilar"
+    ],
+    "children_names": [
+      "Pascual"
+    ]
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: a Sueca [aprox. 1822].\n\nCasament: amb Pascual Franquesa Aguilar de Pego (València) [1818].\n\nFills: Pascual [1850].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

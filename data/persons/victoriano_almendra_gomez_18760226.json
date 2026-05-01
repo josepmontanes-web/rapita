@@ -1,0 +1,54 @@
+{
+  "id": "victoriano_almendra_gomez_18760226",
+  "source_id": null,
+  "name": "Victoriano Almendra Gomez",
+  "gender": "male",
+  "birth": {
+    "date": "1876-02-26",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "luis_almendra_garcia_18500101",
+      "maria_gomez_llop_18500101"
+    ],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Luís Almendra García",
+      "María Gomez Llop"
+    ],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: el 26 de febrer de 1876 al carrer Sant Isidre de la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

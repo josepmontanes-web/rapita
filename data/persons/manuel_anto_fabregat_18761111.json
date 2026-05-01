@@ -1,0 +1,54 @@
+{
+  "id": "manuel_anto_fabregat_18761111",
+  "source_id": null,
+  "name": "Manuel Antó Fabregat",
+  "gender": "male",
+  "birth": {
+    "date": "1876-11-11",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "simon_anto_romeu_18500101",
+      "josefa_fabregat_leche_18500101"
+    ],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Simón Antó Romeu",
+      "Josefa Fabregat Leche"
+    ],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: l'11 de novembre de 1876 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

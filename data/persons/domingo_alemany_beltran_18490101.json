@@ -1,0 +1,53 @@
+{
+  "id": "domingo_alemany_beltran_18490101",
+  "source_id": null,
+  "name": "Domingo Alemany Beltran",
+  "gender": "male",
+  "birth": {
+    "date": "1849-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Domingo Alenany de Tortosa",
+      "Josefa Beltran de Xerta"
+    ],
+    "spouse_names": [],
+    "children_names": [
+      "Juan"
+    ]
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: a Xerta [aprox. 1849].\n\nProfessió: \"cerrajero\".\n\nCasament: el 24 d'abril de 1874 amb Elena Luna Sanz [1852]. Es casa als 25 anys.\n\nFills: Juan [1879].\n\nTestimoni d'anotacions al registre civil des de 1875.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

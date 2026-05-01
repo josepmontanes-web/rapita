@@ -1,0 +1,54 @@
+{
+  "id": "teresa_ano_diago_18401217",
+  "source_id": null,
+  "name": "Teresa Añó Diago",
+  "gender": "female",
+  "birth": {
+    "date": "1840-12-17",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "jayme_ano_arlandez_18021209",
+      "basilia_diago_gras_18050131"
+    ],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Jayme Añó Arlández",
+      "Basilia Diago Gras"
+    ],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement:  el 17 de desembre de 1840 a la Ràpita.\n\nEls padrins son Bautista Beltran Subirats i María Teresa Gasparín Gombau.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

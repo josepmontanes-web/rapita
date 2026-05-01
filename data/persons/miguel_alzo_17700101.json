@@ -1,0 +1,48 @@
+{
+  "id": "miguel_alzo_17700101",
+  "source_id": null,
+  "name": "Miguel Alzo",
+  "gender": "male",
+  "birth": {
+    "date": "1770-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "A l'estat de veïns de la Població de San Carlos  a 1 de setembre de 1798 consta que es empleat de sanitat i viu a la mateixa casa que José Antonio Pasqual (ACA BGRP caixa 34).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

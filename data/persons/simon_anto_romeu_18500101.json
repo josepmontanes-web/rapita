@@ -1,0 +1,57 @@
+{
+  "id": "simon_anto_romeu_18500101",
+  "source_id": null,
+  "name": "Simón Antó Romeu",
+  "gender": "male",
+  "birth": {
+    "date": "1850-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [
+      "josefa_fabregat_leche_18500101"
+    ],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Antó de Tortosa",
+      "Vicenta Romeu de Tortosa"
+    ],
+    "spouse_names": [
+      "Josefa Fabregat Leche"
+    ],
+    "children_names": [
+      "Manuel"
+    ]
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: a Tortosa [aprox. 1850].\n\nProfessió: pagès.\n\nCasament: amb Josefa Fabregat Leche de Tortosa [1850].\n\nFills: Manuel [1876].\n\nNo signa la declaració de naixement del fill al registre civil per no saber.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "antonio_ano_diago_18340116",
+  "source_id": null,
+  "name": "Antonio Añó Diago",
+  "gender": "male",
+  "birth": {
+    "date": "1834-01-16",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "jayme_ano_arlandez_18021209",
+      "basilia_diago_gras_18050131"
+    ],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Jayme Añó Arlández",
+      "Basilia Diago Gras"
+    ],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement:  el 16 de gener de 1834 a la Ràpita.\n\nEls padrins son José Balanzá Comes de Benicarló i Joaquina Sans Fabregat.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

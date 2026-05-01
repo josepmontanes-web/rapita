@@ -1,0 +1,58 @@
+{
+  "id": "francisca_andreu_puigol_17700101",
+  "source_id": null,
+  "name": "Francisca Andreu Puigol",
+  "gender": "female",
+  "birth": {
+    "date": "1770-01-01",
+    "place": "Benissanet"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [
+      "francisco_march_casals_17710101"
+    ],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Ramón Andreu de Benissanet",
+      "Rosa Puigol de Mora"
+    ],
+    "spouse_names": [
+      "Francisco March Casals"
+    ],
+    "children_names": [
+      "Rosa",
+      "María Francisca"
+    ]
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: a Benissanet [aprox. 1770].\n\nCasament: el 6 de maig de 1791 amb Francisco March Casals de Mont-roig (Tarragona) [1771].\n\nFills: Rosa [1792] i María Francisca [1795].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

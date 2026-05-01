@@ -1,0 +1,56 @@
+{
+  "id": "jayme_aloma_montanez_18000101",
+  "source_id": null,
+  "name": "Jayme Alomà Montañez",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [
+      "francisca_adell_llagostera_18100101"
+    ],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel Alomà",
+      "María Montañez"
+    ],
+    "spouse_names": [
+      "Candia Nivera",
+      "Francisca Adell Llagostera"
+    ],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement:  a Amposta [aprox. 1800].\n\nCasament: amb Candia Nivera.\n\nCasament: el 18 de desembre de 1844 amb Francisca Adell Llagostera.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

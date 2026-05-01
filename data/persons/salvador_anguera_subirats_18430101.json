@@ -1,0 +1,54 @@
+{
+  "id": "salvador_anguera_subirats_18430101",
+  "source_id": null,
+  "name": "Salvador Anguera Subirats",
+  "gender": "male",
+  "birth": {
+    "date": "1843-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1844-09-09",
+    "place": "la Ràpita"
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "jayme_anguera_sancho_17980727",
+      "madalena_subirats_obiol_18200101"
+    ],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Jayme Anguera Sancho",
+      "Madalena Subirats Obiol"
+    ],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement:  [aprox. 1843].\n\nDefunció: el 9 de setembre de 1844 a la Ràpita. Va morir pàrvul d'un any.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "rafael_ano_casajust_18520101",
+  "source_id": null,
+  "name": "Rafael Añó Casajust",
+  "gender": "male",
+  "birth": {
+    "date": "1852-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "joaquin_ano_esteve_18221025",
+      "teresa_casajust_reverte_18250530"
+    ],
+    "spouse": [
+      "francisca_arbo_sanchez_18590101"
+    ],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Añó Esteve",
+      "Teresa Casajust Reverté"
+    ],
+    "spouse_names": [
+      "Francisca Arbó Sánchez"
+    ],
+    "children_names": [
+      "Vicente Joaquín . Signa al registre la declaració del fill"
+    ]
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: a la Ràpita [aprox. 1852].\n\nProfessió: pagès.\n\nCasament: el 6 de juliol de 1878 amb Francisca Arbó Sánchez de la Ràpita [1859].\n\nFills: Vicente Joaquín [1880]. Signa al registre la declaració del fill.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

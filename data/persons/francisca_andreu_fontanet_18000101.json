@@ -1,0 +1,61 @@
+{
+  "id": "francisca_andreu_fontanet_18000101",
+  "source_id": null,
+  "name": "Francisca Andreu Fontanet",
+  "gender": "female",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [
+      "casimiro_mies_guinjuan_17940304"
+    ],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Andreu de Tortosa",
+      "María Fontanet de Tortosa"
+    ],
+    "spouse_names": [
+      "Casimiro Míes Guinjuan"
+    ],
+    "children_names": [
+      "Juan Bautista",
+      "Antonia María",
+      "Manuel Francisco",
+      "María Presentación",
+      "José Casimiro"
+    ]
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement:  a Tortosa [aprox. 1800].\n\nEs germana de Rosa Andreu Fontanet de Tortosa [1811].\n\nCasament: amb Casimiro Míes Guinjuan de la Ràpita [1794].\n\nFills: Juan Bautista [1826], Antonia María [1828], Manuel Francisco [1830], María Presentación [1832] i José Casimiro [1835].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

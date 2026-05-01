@@ -1,0 +1,54 @@
+{
+  "id": "m_de_la_cinta_alegret_murall_18110101",
+  "source_id": null,
+  "name": "Mª.de la Cinta Alegret Murall",
+  "gender": "female",
+  "birth": {
+    "date": "1811-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1823-07-09",
+    "place": "la Ràpita"
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "christobal_alegret_riba_17800101",
+      "teresa_murall_garcia_17830101"
+    ],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Christobal Alegret Riba",
+      "Teresa Murall García"
+    ],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement:  a Tortosa [aprox. 1811].\n\nDefunció: el 9 de juliol de 1823 a la Ràpita. \"Murió a los 12 años de muerte natural\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

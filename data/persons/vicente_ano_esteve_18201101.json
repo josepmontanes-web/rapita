@@ -1,0 +1,57 @@
+{
+  "id": "vicente_ano_esteve_18201101",
+  "source_id": null,
+  "name": "Vicente Añó Esteve",
+  "gender": "male",
+  "birth": {
+    "date": "1820-11-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [
+      "tomasa_miro_muntanes_18200101"
+    ],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Añó Arlández d'Amposta",
+      "Josefa Esteve García d'Amposta. Poden ser de la Ràpita però batejats a Amposta"
+    ],
+    "spouse_names": [
+      "Tomasa Miró Muntañes"
+    ],
+    "children_names": [
+      "Dorotea"
+    ]
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement:  l'1 de novembre de 1820 a la Ràpita.\n\nEls padrins son Vicente Hernández Cavaller i Rosa Hernández Cavaller.\n\nCasament: el 14 de desembre de 1840 amb Tomasa Miró Muntañes de Tortosa [1820].\n\nFills: Dorotea [1841].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

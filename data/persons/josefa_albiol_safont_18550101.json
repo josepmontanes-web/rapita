@@ -1,0 +1,59 @@
+{
+  "id": "josefa_albiol_safont_18550101",
+  "source_id": null,
+  "name": "Josefa Albiol Safont",
+  "gender": "female",
+  "birth": {
+    "date": "1855-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "eugenio_albiol_o_obiol_simo_18330101"
+    ],
+    "spouse": [
+      "agustin_domenech_chillida_18500101"
+    ],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Eugenio Albiol [o Obiol] Simó",
+      "Mariana Safont Castellà"
+    ],
+    "spouse_names": [
+      "Agustín Domenech Chillida"
+    ],
+    "children_names": [
+      "Agustín"
+    ]
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: a Peníscola [aprox. 1855].\n\nCasament: amb Agustín Domenech Chillida de Benicarló [1850].\n\nFills: Agustín [1880].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

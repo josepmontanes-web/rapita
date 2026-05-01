@@ -1,0 +1,52 @@
+{
+  "id": "mariana_enguera_o_anguera_pla_18400627",
+  "source_id": null,
+  "name": "Mariana Enguera [o Anguera] Pla",
+  "gender": "female",
+  "birth": {
+    "date": "1840-06-27",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "sebastian_anguera_sancho_18010104"
+    ],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Sebastián Anguera Sanchoi Francisca Pla Fonollosa"
+    ],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement:  el 27 de juny de 1840 a la Ràpita. Es bessona de Vicente Anguera Pla.\n\nEls padrins son Mariano Miralles Forcadell de Freginals i María Josefa Anguera Sancho.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

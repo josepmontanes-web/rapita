@@ -1,0 +1,53 @@
+{
+  "id": "juan_domingo_jose_alemany_luna_18790822",
+  "source_id": null,
+  "name": "Juan Domingo José Alemany Luna",
+  "gender": "male",
+  "birth": {
+    "date": "1879-08-22",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "domingo_alemany_beltran_18490101"
+    ],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Domingo Alemany Beltran",
+      "Elena Luna Sanz"
+    ],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: el 22 d'agost de 1879 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

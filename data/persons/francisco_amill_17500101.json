@@ -1,0 +1,48 @@
+{
+  "id": "francisco_amill_17500101",
+  "source_id": null,
+  "name": "Francisco Amill",
+  "gender": "male",
+  "birth": {
+    "date": "1750-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Aparellador de les Obres des de 1783 al 1785. Al 10 de juny de 1787 diuen que ha deixat de pagar als germans Lantí i li reclamen (ACA BGPR Correspondencia Caixa 9).\n\nFrancisco Amill albañil con su hijo pasa a estas obras como maestro mayor y aparejador de las mismas el 19 de gener de 1781. (ACA BGRP caixa 5).\n\nAl 1786 les monges diuen que Francesch Canals li va donar un troç de terra que pertanyia al monasteri i que era veí de la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

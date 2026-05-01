@@ -1,0 +1,55 @@
+{
+  "id": "dositeo_andres_castel_18670101",
+  "source_id": null,
+  "name": "Dositeo Andrés Castel",
+  "gender": "male",
+  "birth": {
+    "date": "1867-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [
+      "dolors_castella_vila_18700101"
+    ],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "spouse_names": [
+      "Dolors Castellà Vila de la Ràpita"
+    ],
+    "children_names": [
+      "Teresa",
+      "Alfreda"
+    ]
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: a Cantavieja (Teruel) [aprox. 1867].\n\nProfessió: metge.\n\nCasament: amb Dolors Castellà Vila de la Ràpita.\n\nFills: Teresa i Alfreda.\n\nDefunció: el 24 d'octubre de 1932 a la Ràpita als 65 anys. Vivia a la plaça Carles III. Jutge de Pau 1920-1925.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

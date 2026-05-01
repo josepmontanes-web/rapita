@@ -1,0 +1,51 @@
+{
+  "id": "juan_anguera_fibla_18761115",
+  "source_id": null,
+  "name": "Juan Anguera Fibla",
+  "gender": "male",
+  "birth": {
+    "date": "1876-11-15",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Andrés Anguera Pla",
+      "… Fibla Bel…"
+    ],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: el 15 de novembre de 1876 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "concepcion_anguera_reverte_18660101",
+  "source_id": null,
+  "name": "Concepción Anguera Reverté",
+  "gender": "female",
+  "birth": {
+    "date": "1866-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "teresa_reverte_torta_18550101"
+    ],
+    "spouse": [
+      "pedro_sanchez_gasparin_18610101"
+    ],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Gaspar Anguera Reverté",
+      "Teresa Reverté Torta"
+    ],
+    "spouse_names": [
+      "Pedro Sánchez Gasparín"
+    ],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: a la Ràpita [aprox. 1866].\n\nCasament: el 13 de febrer de 1886 amb Pedro Sánchez Gasparín de la Ràpita [1861]. Es casa als 19 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

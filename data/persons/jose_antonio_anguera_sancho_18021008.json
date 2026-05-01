@@ -1,0 +1,65 @@
+{
+  "id": "jose_antonio_anguera_sancho_18021008",
+  "source_id": null,
+  "name": "José Antonio Anguera Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1802-10-08",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "agustin_anguera_o_enguera_torres_17670101"
+    ],
+    "spouse": [
+      "vicenta_reverter_balaguer_18100427"
+    ],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustín Anguera Torres",
+      "Pascuala Sancho Bonet d'Amposta"
+    ],
+    "spouse_names": [
+      "Vicenta Reverter Balaguer"
+    ],
+    "children_names": [
+      "Timoteo",
+      "Gaspar",
+      "Tomasa",
+      "Josefa",
+      "Francisca",
+      "Agustina",
+      "José Miguel"
+    ]
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement:  el 8 d'octubre de 1802 a la Ràpita.\n\nEls padrins son els cònjuges José Forcadell Reverter d'Alcanar i Geronima Cervera Font de la Torre del Conde.\n\nCasament: el 16 d'abril de 1831 amb Vicenta Reverter Balaguer de la Ràpita [1810].\n\nFills: Timoteo [1832], Gaspar [1834], Tomasa [1837], Josefa [1839], Francisca [1842], Agustina [1850] i José Miguel [1851].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

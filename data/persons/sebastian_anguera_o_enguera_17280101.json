@@ -1,0 +1,55 @@
+{
+  "id": "sebastian_anguera_o_enguera_17280101",
+  "source_id": null,
+  "name": "Sebastián Anguera [o Enguera]",
+  "gender": "male",
+  "birth": {
+    "date": "1728-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": "1810-05-26",
+    "place": "la Ràpita"
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [
+      "manuela_sancho_17200101"
+    ],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "spouse_names": [
+      "Francisca Torres de Tortosa, d'Amposta o de la Galera",
+      "Manuela Sancho"
+    ],
+    "children_names": [
+      "Agustín"
+    ]
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement:  a Amposta [aprox. 1728]. També podria ser de Tortosa.\n\nCasament: amb Francisca Torres de Tortosa, d'Amposta o de la Galera.\n\nFills: Agustín (Tortosa) [aprox 1767].\n\nCasament: amb Manuela Sancho d'Amposta [1720](segons la partida de defunció).\n\nAl novembre i desembre de 1795 paga lloguer de la casa núm. 14 de la Mansana Vella. A l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu al carrer davant el canal i l'horta  (ACA BGRP Cajas 34).\n\nNo està clar que la persona casada amb Manuela Sancho sigui la mateixa que la casada amb Francisca Torres.\n\nDefunció: el 26 de maig de 1810 a la Ràpita. Tenia 82 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

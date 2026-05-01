@@ -1,0 +1,53 @@
+{
+  "id": "timoteo_enguera_o_anguera_reverter_18320123",
+  "source_id": null,
+  "name": "Timoteo Enguera [o Anguera] Reverter",
+  "gender": "male",
+  "birth": {
+    "date": "1832-01-23",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "vicenta_reverter_balaguer_18100427"
+    ],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Anguera Sancho",
+      "Vicenta Reverter Balaguer"
+    ],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement:  el 23 de gener de 1832 a la Ràpita.\n\nEls padrins son els iaios José Reverter Sancho i Pascuala Sancho Bonet.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

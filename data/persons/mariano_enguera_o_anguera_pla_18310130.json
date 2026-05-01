@@ -1,0 +1,56 @@
+{
+  "id": "mariano_enguera_o_anguera_pla_18310130",
+  "source_id": null,
+  "name": "Mariano Enguera [o Anguera] Pla",
+  "gender": "male",
+  "birth": {
+    "date": "1831-01-30",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "sebastian_anguera_sancho_18010104"
+    ],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Sebastián Anguera Sanchoi Francisca Pla Fonollosa"
+    ],
+    "spouse_names": [],
+    "children_names": [
+      "Sebastián",
+      "Josefa",
+      "Teresa"
+    ]
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement:  el 30 de gener de 1831 a la Ràpita.\n\nEls padrins son Mariano Lletí i Pascuala Sancho Bonet.\n\nProfessió: pagès.\n\nCasament: Mariana Puig Reverté de la Ràpita [1845].\n\nFills: Sebastián [1860], Josefa [1860] i Teresa [1877].\n\nNo signa la declaració de naixement de la filla al registre civil per no saber.\n\nDefunció: el 27 de desembre de 1877 a la Ràpita de pleuroneumonia. Declara la defunció la seua tia Vicenta Reverté Balaguer [1810].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

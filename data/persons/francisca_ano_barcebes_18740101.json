@@ -1,0 +1,51 @@
+{
+  "id": "francisca_ano_barcebes_18740101",
+  "source_id": null,
+  "name": "Francisca Año Barcebes",
+  "gender": "female",
+  "birth": {
+    "date": "1874-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Andrés Añó de la Ràpita, mariner",
+      "Lucía Barcebes de la Fatarella"
+    ],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: a Barcelona [aprox. 1874].\n\nDefunció: el 17 de febrer de 1877 a la Ràpita als 2 anys i mig de \"intermitente disenterica maligna\". Declara la defunció al registre civil la seua tia María Añó.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}
