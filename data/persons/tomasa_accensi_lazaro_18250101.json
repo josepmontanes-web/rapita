@@ -1,0 +1,48 @@
+{
+  "id": "tomasa_accensi_lazaro_18250101",
+  "source_id": "A010",
+  "name": "Tomasa Accensi Lazaro",
+  "gender": "female",
+  "birth": {
+    "date": "01/01/1825",
+    "place": "Santa Barbara"
+  },
+  "status": {
+    "alive": true
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "ramon_accensi_17900101"
+    ],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Ramon Accensi",
+      "Maria Lazaro"
+    ],
+    "spouse_names": [
+      "José Magí Marmaña"
+    ],
+    "children_names": [
+      "José"
+    ]
+  },
+  "occupation": {
+    "title": ""
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Pares: Ramón Accensi de Santa Bàrbara [1790] i María Lázaro [o Lozano] Domenech de Rossell [1790]. Naixement: a Santa Bàrbara [aprox. 1825]. Casament: el 28 de desembre de 1844 amb José Magí Marmaña d'Amposta [1820]. Fills: José [1850].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}
