@@ -1,0 +1,67 @@
+{
+  "id": "antonia_accensi_o_ausensi_sanches_o_sancho_17930101",
+  "source_id": "A018",
+  "name": "Antonia Accensi [o Ausensi] Sanches [o Sancho]",
+  "gender": "female",
+
+  "birth": {
+    "date": "1793-01-01",
+    "place": "Freginals"
+  },
+
+  "death": {
+    "date": "1848-04-20",
+    "place": "la Ràpita"
+  },
+
+  "age": 55,
+
+  "status": {
+    "alive": false
+  },
+
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+
+  "family": {
+    "parents": [
+      "jose_antonio_accensi_17600101",
+      "madalena_sancho_17620101"
+    ],
+    "spouse": [],
+    "children": []
+  },
+
+  "relations_detail": {
+    "parents_names": [
+      "José Antonio Accensi",
+      "Madalena Sancho"
+    ],
+    "spouse_names": [],
+    "children_names": []
+  },
+
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+
+  "education": [],
+
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+
+  "photo": null,
+
+  "notes": "Naixement aproximat a Freginals [1793]. Consta com a filla de José Antonio Accensi de Freginals [1760] i Madalena Sancho d'Alcanar [1762]. Podria ser germana de José Antonio Accensi Sancho de Freginals [1785] i de Ramón Accensi de Santa Bàrbara [1790], però el document indica que no és segur. Defunció el 20 d'abril de 1848 a la Ràpita. Tenia 55 anys quan va morir. Va fer testament (V. Sabaté).",
+
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}
