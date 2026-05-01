@@ -11,12 +11,11 @@
     "date": "1809-03-27",
     "place": "la Ràpita"
   },
-  "age": null,
   "status": {
     "alive": false
   },
   "location": {
-    "address": null,
+    "address": "",
     "lat": null,
     "lng": null
   },
@@ -34,15 +33,11 @@
     "children_names": []
   },
   "occupation": {
-    "title": null,
-    "company": null
+    "title": null
   },
   "education": [],
-  "contact": {
-    "phone": null,
-    "email": null
-  },
-  "photo": null,
+  "contact": {},
+  "photo": "",
   "notes": "Naixement:  [aprox. 1806].\n\nDefunció: el 27 de març de 1809 a la Ràpita. Va morir als 3 anys i 6 mesos \"por casualidad en San Carlos\".",
   "genogram": {
     "nodes": [],

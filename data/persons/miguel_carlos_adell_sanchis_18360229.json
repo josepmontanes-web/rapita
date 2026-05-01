@@ -11,46 +11,33 @@
     "date": null,
     "place": null
   },
-  "age": null,
   "status": {
     "alive": false
   },
   "location": {
-    "address": null,
+    "address": "",
     "lat": null,
     "lng": null
   },
   "family": {
-    "parents": [
-      "miguel_adell_llagostera_18090101"
-    ],
+    "parents": [],
     "spouse": [],
-    "children": [
-      "francisco_adell_mauri_18600101"
-    ]
+    "children": []
   },
   "relations_detail": {
     "parents_names": [
       "Miguel Adell Llagostera",
       "Francisca Sanchís Capilla"
     ],
-    "spouse_names": [
-      "Tomasa Mauri d'Amposta"
-    ],
-    "children_names": [
-      "Francisco Adell Mauri"
-    ]
+    "spouse_names": [],
+    "children_names": []
   },
   "occupation": {
-    "title": null,
-    "company": null
+    "title": null
   },
   "education": [],
-  "contact": {
-    "phone": null,
-    "email": null
-  },
-  "photo": null,
+  "contact": {},
+  "photo": "",
   "notes": "Naixement: el 29 de febrer de 1836 a la Ràpita. El pare ja estava mort quan ell va naixer.\n\nEls padrins son Juan Bautista Alsó de Vinaròs i Francisca Adell d'Alcanar.\n\nCasament: amb Tomasa Mauri d'Amposta.\n\nFills: Francisco [1860].",
   "genogram": {
     "nodes": [],

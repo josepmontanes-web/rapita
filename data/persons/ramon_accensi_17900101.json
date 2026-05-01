@@ -11,55 +11,32 @@
     "date": null,
     "place": null
   },
-  "age": null,
   "status": {
     "alive": false
   },
   "location": {
-    "address": null,
+    "address": "",
     "lat": null,
     "lng": null
   },
   "family": {
-    "parents": [
-      "jose_antonio_accensi_17600101"
-    ],
-    "spouse": [
-      "maria_lazaro_domenech_17900101"
-    ],
-    "children": [
-      "francisca_accensi_lazaro_18170101",
-      "josefa_accensi_lazaro_18250101",
-      "tomasa_accensi_lazaro_18250101",
-      "raymunda_accensi_lazaro_18250101",
-      "maria_rosa_accensi_lazaro_18300101"
-    ]
+    "parents": [],
+    "spouse": [],
+    "children": []
   },
   "relations_detail": {
-    "parents_names": [
-      "José Antonio Accensi"
-    ],
+    "parents_names": [],
     "spouse_names": [
-      "María Lázaro Domenech"
+      "Maria Lozano"
     ],
-    "children_names": [
-      "Francisca Accensi Lazaro",
-      "Josefa Accensi Lazaro",
-      "Tomasa Accensi Lazaro",
-      "Raymunda Accensi Lazaro",
-      "Maria Rosa Accensi Lazaro"
-    ]
+    "children_names": []
   },
   "occupation": {
-    "title": null,
-    "company": null
+    "title": null
   },
   "education": [],
-  "contact": {
-    "phone": null,
-    "email": null
-  },
-  "photo": null,
+  "contact": {},
+  "photo": "",
   "notes": "Naixement: a Santa Bàrbara [aprox. 1790].\n\nPodria ser germà de José Antonio Accensi Sancho de Freginals [1785] i Antonia Accensi Sancho de Freginals [1793] però no es segur.\n\nCasament: amb María Lázaro [o Lozano] Domenech de Rossell [1790].\n\nFills: Francisca (Tortosa) [aprox 1817], Josefa (Santa Bàrbara)[aprox 1825], Tomasa (Santa Bàrbara)[aprox 1825], Raymunda (Santa Bàrbara)[aprox 1825] i María Rosa [aprox 1830].\n\nDonación: de Agustín Reverter (Forner) a su hija Josefa Reverter (Sancho) por la celebración de su matrimonio con Tomás Curto (Cavaller), casa en el callejón de la Iglesia. Linda con Lucas Torta (Subirats, casat amb Francisca Accensi Lozaro), Ramón Accensi (casat amb Maria Lozano) y Manuel Barrera. Febrero de 1858. Esc. Lorenzo Figueres de Alcanar.",
   "genogram": {
     "nodes": [],

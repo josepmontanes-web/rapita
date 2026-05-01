@@ -1,14 +1,14 @@
 {
-  "id": "maria_accensi_accensi_18160101",
-  "source_id": "A007",
-  "name": "Maria Accensi Accensi",
-  "gender": "female",
+  "id": "jose_asensi_navarro_18180204",
+  "source_id": "A016",
+  "name": "José Asensi Navarro",
+  "gender": "male",
   "birth": {
-    "date": "1816-01-01",
-    "place": null
+    "date": "1818-02-04",
+    "place": "la Ràpita"
   },
   "death": {
-    "date": "1817-09-26",
+    "date": "1820-03-19",
     "place": "la Ràpita"
   },
   "status": {
@@ -26,8 +26,8 @@
   },
   "relations_detail": {
     "parents_names": [
-      "Sebastián Accensi",
-      "Rafaela Accensi"
+      "Josef Antonio Ascensi Sancho",
+      "Francisca Navarro Paul"
     ],
     "spouse_names": [],
     "children_names": []
@@ -38,7 +38,7 @@
   "education": [],
   "contact": {},
   "photo": "",
-  "notes": "Naixement: el 1816.\n\nDefunció: el 26 de setembre de 1817 a la Ràpita. Tenia un any quan va morir.",
+  "notes": "Naixement: el 2 d'abril de 1818 a la Ràpita.\n\nPadríns: Manuel Vilanueva de Benicarló i Tomasa Lletí dels Freginals.\n\nDefunció: el 19 de març de 1820 a la Ràpita.",
   "genogram": {
     "nodes": [],
     "links": []

@@ -11,12 +11,11 @@
     "date": null,
     "place": null
   },
-  "age": null,
   "status": {
     "alive": false
   },
   "location": {
-    "address": null,
+    "address": "",
     "lat": null,
     "lng": null
   },
@@ -30,21 +29,15 @@
     "spouse_names": [
       "Doña Teresa Masià"
     ],
-    "children_names": [
-      "Teresa es casa a La Ràpita el 6 de desembre de 1823 amb Agustín Arnau Favá \"pasante exio"
-    ]
+    "children_names": []
   },
   "occupation": {
-    "title": null,
-    "company": null
+    "title": null
   },
   "education": [],
-  "contact": {
-    "phone": null,
-    "email": null
-  },
-  "photo": null,
-  "notes": "Naixement: [aprox. 1770].\n\nProfessió: \"Administrador de este Real Portazgo\".\n\nCasament: amb Doña Teresa Masià.\n\nFills: Teresa (Tortosa) es casa a La Ràpita el 6 de desembre de 1823 amb Agustín Arnau Favá \"pasante exio.\" de Tortosa, els seus pares son Don Francisco i Agustina.\n\nChildren unresolved by father+mother surname rule: Teresa es casa a La Ràpita el 6 de desembre de 1823 amb Agustín Arnau Favá \"pasante exio -> tried Teresa es casa a La Ràpita el 6 de desembre de 1823 amb Agustín Arnau Favá \"pasante exio Albacar Masià",
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1770].\n\nProfessió: \"Administrador de este Real Portazgo\".\n\nCasament: amb Doña Teresa Masià.\n\nFills: Teresa (Tortosa) es casa a La Ràpita el 6 de desembre de 1823 amb Agustín Arnau Favá \"pasante exio.\" de Tortosa, els seus pares son Don Francisco i Agustina.",
   "genogram": {
     "nodes": [],
     "links": []

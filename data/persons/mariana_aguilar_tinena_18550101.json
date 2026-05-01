@@ -5,49 +5,36 @@
   "gender": "female",
   "birth": {
     "date": "1855-01-01",
-    "place": "Caseres (Tarragona)"
+    "place": null
   },
   "death": {
     "date": null,
     "place": null
   },
-  "age": null,
   "status": {
     "alive": false
   },
   "location": {
-    "address": null,
+    "address": "",
     "lat": null,
     "lng": null
   },
   "family": {
     "parents": [],
-    "spouse": [
-      "evaristo_garcia_blanes_18450101"
-    ],
-    "children": [
-      "enrique_pedro_garcia_aguilar_18810519"
-    ]
+    "spouse": [],
+    "children": []
   },
   "relations_detail": {
     "parents_names": [],
-    "spouse_names": [
-      "Evaristo García Blanes"
-    ],
-    "children_names": [
-      "Enrique Pedro García Aguilar"
-    ]
+    "spouse_names": [],
+    "children_names": []
   },
   "occupation": {
-    "title": null,
-    "company": null
+    "title": null
   },
   "education": [],
-  "contact": {
-    "phone": null,
-    "email": null
-  },
-  "photo": null,
+  "contact": {},
+  "photo": "",
   "notes": "Naixement: a Caseres (Tarragona) [aprox. 1855].\n\nCasament: amb Evaristo García Blanes de Madrid [1845].\n\nFills: Enrique Pedro [1881].",
   "genogram": {
     "nodes": [],

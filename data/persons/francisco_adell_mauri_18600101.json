@@ -5,45 +5,36 @@
   "gender": "male",
   "birth": {
     "date": "1860-01-01",
-    "place": "Amposta"
+    "place": null
   },
   "death": {
     "date": null,
     "place": null
   },
-  "age": null,
   "status": {
     "alive": false
   },
   "location": {
-    "address": null,
+    "address": "",
     "lat": null,
     "lng": null
   },
   "family": {
     "parents": [],
-    "spouse": [
-      "tomasa_matamoros_ferre_18620101"
-    ],
+    "spouse": [],
     "children": []
   },
   "relations_detail": {
     "parents_names": [],
-    "spouse_names": [
-      "Tomasa Matamoros Ferré"
-    ],
+    "spouse_names": [],
     "children_names": []
   },
   "occupation": {
-    "title": null,
-    "company": null
+    "title": null
   },
   "education": [],
-  "contact": {
-    "phone": null,
-    "email": null
-  },
-  "photo": null,
+  "contact": {},
+  "photo": "",
   "notes": "Naixement: a Amposta [aprox. 1860].\n\nProfessió: pagès.\n\nCasament: el 18 d'abril de 1884 amb Tomasa Matamoros Ferré de la Ràpita [1862]. Es casa als 24 anys.",
   "genogram": {
     "nodes": [],

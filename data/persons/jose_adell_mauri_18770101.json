@@ -11,12 +11,11 @@
     "date": null,
     "place": null
   },
-  "age": null,
   "status": {
     "alive": false
   },
   "location": {
-    "address": null,
+    "address": "",
     "lat": null,
     "lng": null
   },
@@ -31,15 +30,11 @@
     "children_names": []
   },
   "occupation": {
-    "title": null,
-    "company": null
+    "title": null
   },
   "education": [],
-  "contact": {
-    "phone": null,
-    "email": null
-  },
-  "photo": null,
+  "contact": {},
+  "photo": "",
   "notes": "Naixement: a la Ràpita [aprox. 1877].\n\nDefunció: el 31 d'octubre de 1879 a la Ràpita als 2 anys de gastro enteritis.",
   "genogram": {
     "nodes": [],

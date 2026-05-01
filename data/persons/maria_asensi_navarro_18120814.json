@@ -1,14 +1,14 @@
 {
-  "id": "rosa_adell_tallada_18100101",
-  "source_id": null,
-  "name": "Rosa Adell Tallada",
+  "id": "maria_asensi_navarro_18120814",
+  "source_id": "A014",
+  "name": "María Asensi Navarro",
   "gender": "female",
   "birth": {
-    "date": "1810-01-01",
-    "place": "Alcanar"
+    "date": "1812-08-14",
+    "place": "la Ràpita"
   },
   "death": {
-    "date": "1842-08-16",
+    "date": "1814-12-30",
     "place": "la Ràpita"
   },
   "status": {
@@ -26,12 +26,10 @@
   },
   "relations_detail": {
     "parents_names": [
-      "José Adell",
-      "Vicenta Tallada"
+      "José Antonio Ascensi Sancho",
+      "Francisca Navarro Paulo"
     ],
-    "spouse_names": [
-      "Miguel Sancho Matamoros"
-    ],
+    "spouse_names": [],
     "children_names": []
   },
   "occupation": {
@@ -40,7 +38,7 @@
   "education": [],
   "contact": {},
   "photo": "",
-  "notes": "Naixement: a Alcanar [aprox. 1810].\n\nCasament: amb  Miguel Sancho Matamoros d'Alcanar [1810].\n\nFills: Pedro [1838], Francisca [1838] i José Manuel [1840].\n\nDefunció: el 16 d'agost de 1842 a la Ràpita.",
+  "notes": "Naixement: el 14 d'agost de 1812 a la Ràpita.\n\nPadrins: Juan Segarra d'Ulldecona i María Bel dels Freginals.\n\nDefunció: el 30 de desembre de 1814 a la Ràpita.",
   "genogram": {
     "nodes": [],
     "links": []

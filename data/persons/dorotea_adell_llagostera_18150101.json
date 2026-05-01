@@ -11,29 +11,18 @@
     "date": null,
     "place": null
   },
-  "age": null,
   "status": {
     "alive": false
   },
   "location": {
-    "address": null,
+    "address": "",
     "lat": null,
     "lng": null
   },
   "family": {
-    "parents": [
-      "andres_adell_sancho_17900101",
-      "beatriz_llagostera_bonamich_17900101"
-    ],
-    "spouse": [
-      "francisco_carles_reverter_18200101"
-    ],
-    "children": [
-      "afortunada_carles_adell_18470913",
-      "vicente_carles_adell_18490101",
-      "jaime_carles_adell_18500101",
-      "francisco_carles_adell_18570101"
-    ]
+    "parents": [],
+    "spouse": [],
+    "children": []
   },
   "relations_detail": {
     "parents_names": [
@@ -44,22 +33,15 @@
       "Francisco Carles Reverter"
     ],
     "children_names": [
-      "Afortunada Carles Adell",
-      "Vicente Carles Adell",
-      "Jaime Carles Adell",
-      "Francisco Carles Adell"
+      "0.0"
     ]
   },
   "occupation": {
-    "title": null,
-    "company": null
+    "title": null
   },
   "education": [],
-  "contact": {
-    "phone": null,
-    "email": null
-  },
-  "photo": null,
+  "contact": {},
+  "photo": "",
   "notes": "Naixement: a Alcanar [aprox. 1815].\n\nCasament: el 27 de març de 1843 amb Francisco Carles Reverter d'Amposta [1820].\n\nFills: Afortunada [1847], Vicente [1849], Jaime [1850] i Francisco [1857].",
   "genogram": {
     "nodes": [],

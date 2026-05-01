@@ -1,10 +1,10 @@
 {
-  "id": "manuel_adlert_baneras_18510101",
+  "id": "vicenta_maria_adell_llagostera_18190210",
   "source_id": null,
-  "name": "Manuel Adlert Bañeras",
-  "gender": "male",
+  "name": "Vicenta María Adell Llagostera",
+  "gender": "female",
   "birth": {
-    "date": "1851-01-01",
+    "date": "1819-02-10",
     "place": null
   },
   "death": {
@@ -25,8 +25,13 @@
     "children": []
   },
   "relations_detail": {
-    "parents_names": [],
-    "spouse_names": [],
+    "parents_names": [
+      "Andrés Adell Sancho",
+      "Beatriz Llagostera Bonamich"
+    ],
+    "spouse_names": [
+      "Vicente Pons López"
+    ],
     "children_names": []
   },
   "occupation": {
@@ -35,7 +40,7 @@
   "education": [],
   "contact": {},
   "photo": "",
-  "notes": "Naixement: a Santiago de Compostela [aprox. 1851].\n\nProfessió: Tinent Coronel, Capità de l'exercit.\n\nCasament: amb Doña Pilar Baron Morro de Segorbe [1858].\n\nFills: Celestino Faustino [1881].",
+  "notes": "Naixement: el 2 d'octubre de 1819 a la Ràpita.\n\nEls padrins son José Guitart i María Safon.\n\nCasament: el 13 de desembre de 1851 amb Vicente Pons López de la Ràpita [1823].",
   "genogram": {
     "nodes": [],
     "links": []

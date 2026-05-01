@@ -1,10 +1,10 @@
 {
-  "id": "rosa_aixendri_bonfill_18500101",
-  "source_id": null,
-  "name": "Rosa Aixendri Bonfill",
+  "id": "mariana_o_maria_anna_accensi_o_asensi_navarro_18151004",
+  "source_id": "A015",
+  "name": "Mariana [o Maria Anna] Accensi [o Asensi] Navarro",
   "gender": "female",
   "birth": {
-    "date": "1850-01-01",
+    "date": "1815-10-04",
     "place": null
   },
   "death": {
@@ -25,7 +25,10 @@
     "children": []
   },
   "relations_detail": {
-    "parents_names": [],
+    "parents_names": [
+      "José Antonio Ascensi Sancho",
+      "Francisca Navarro Paulo"
+    ],
     "spouse_names": [],
     "children_names": []
   },
@@ -35,7 +38,7 @@
   "education": [],
   "contact": {},
   "photo": "",
-  "notes": "Naixement: a Tortosa [aprox. 1850].\n\nCasament: amb Bautista Duch Gimeno de Tortosa [1844].\n\nFills: José [1879].\n\nEl marit es torna a casar al 1884, pel que es pot suposar que ella va morir abans.",
+  "notes": "Naixement: el 10 d'abril de 1815 a la Ràpita.\n\nPadrins: Pedro Queral i Mariana Esteller.\n\nAmonestacions de casament a Reus: 31 de gener de 1839 amb Roc Royo Castellado de Calatayud (barber). (ACBC280-93-T2-16080).",
   "genogram": {
     "nodes": [],
     "links": []

@@ -11,20 +11,17 @@
     "date": null,
     "place": null
   },
-  "age": null,
   "status": {
     "alive": false
   },
   "location": {
-    "address": null,
+    "address": "",
     "lat": null,
     "lng": null
   },
   "family": {
     "parents": [],
-    "spouse": [
-      "beatriz_llagostera_bonamich_17900101"
-    ],
+    "spouse": [],
     "children": []
   },
   "relations_detail": {
@@ -33,23 +30,17 @@
       "Agustina Sancho"
     ],
     "spouse_names": [
-      "Beatriz Llagostera Bonamich"
+      "Beatríz Llagostera Bonamich"
     ],
-    "children_names": [
-      "Miguel [aprox"
-    ]
+    "children_names": []
   },
   "occupation": {
-    "title": null,
-    "company": null
+    "title": null
   },
   "education": [],
-  "contact": {
-    "phone": null,
-    "email": null
-  },
-  "photo": null,
-  "notes": "Naixement: a Alcanar [aprox. 1790].\n\nCasament: amb Beatríz Llagostera Bonamich d'Alcanar [1790]. Viuen a la \"Partida del Codoñol término de Amposta\".\n\nFills: Miguel (Alcanar) [aprox. 1809], Francisca (Alcanar) [aprox 1810], Dorotea (Alcanar) [aprox 1815], Magdalena [1817], Vicenta María [1819], Beatríz [1822] i Andrés [1824].\n\nChildren unresolved by father+mother surname rule: Miguel [aprox -> tried Miguel [aprox Adell Llagostera, Miguel [aprox Adell Bonamich",
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1790].\n\nCasament: amb Beatríz Llagostera Bonamich d'Alcanar [1790]. Viuen a la \"Partida del Codoñol término de Amposta\".\n\nFills: Miguel (Alcanar) [aprox. 1809], Francisca (Alcanar) [aprox 1810], Dorotea (Alcanar) [aprox 1815], Magdalena [1817], Vicenta María [1819], Beatríz [1822] i Andrés [1824].",
   "genogram": {
     "nodes": [],
     "links": []

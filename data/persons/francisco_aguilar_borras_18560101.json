@@ -5,49 +5,36 @@
   "gender": "male",
   "birth": {
     "date": "1856-01-01",
-    "place": "Tortosa"
+    "place": null
   },
   "death": {
     "date": null,
     "place": null
   },
-  "age": null,
   "status": {
     "alive": false
   },
   "location": {
-    "address": null,
+    "address": "",
     "lat": null,
     "lng": null
   },
   "family": {
     "parents": [],
-    "spouse": [
-      "agustina_icart_mallol_18560101"
-    ],
-    "children": [
-      "maria_cinta_julia_aguilar_icart_18781001"
-    ]
+    "spouse": [],
+    "children": []
   },
   "relations_detail": {
     "parents_names": [],
-    "spouse_names": [
-      "Agustina Icart Mallol"
-    ],
-    "children_names": [
-      "María Cinta Julia Aguilar Icart"
-    ]
+    "spouse_names": [],
+    "children_names": []
   },
   "occupation": {
-    "title": null,
-    "company": null
+    "title": null
   },
   "education": [],
-  "contact": {
-    "phone": null,
-    "email": null
-  },
-  "photo": null,
+  "contact": {},
+  "photo": "",
   "notes": "Naixement: a Tortosa [aprox. 1856]. Quan naix la filla té 22 anys.\n\nProfessió: \"Carabinero del Reino\".\n\nCasament: amb Agustina Icart Mallol de Tarragona [1856].\n\nFills: María Cinta Julia [1878].",
   "genogram": {
     "nodes": [],

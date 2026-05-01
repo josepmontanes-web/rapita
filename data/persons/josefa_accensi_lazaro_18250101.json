@@ -11,54 +11,38 @@
     "date": null,
     "place": null
   },
-  "age": null,
   "status": {
     "alive": false
   },
   "location": {
-    "address": null,
+    "address": "",
     "lat": null,
     "lng": null
   },
   "family": {
-    "parents": [
-      "ramon_accensi_17900101",
-      "maria_lazaro_domenech_17900101"
-    ],
-    "spouse": [
-      "jose_esteve_millan_18210101"
-    ],
-    "children": [
-      "jose_esteve_accensi_18490101",
-      "maria_esteve_accensi_18500101",
-      "cinta_esteve_accensi_18590101"
-    ]
+    "parents": [],
+    "spouse": [],
+    "children": []
   },
   "relations_detail": {
     "parents_names": [
-      "Ramón Accensi",
-      "María Lázaro Domenech"
+      "Ramon Accensi",
+      "Maria Lazaro"
     ],
     "spouse_names": [
-      "José Esteve Millan"
+      "José Esteve Millán"
     ],
     "children_names": [
-      "José Esteve Accensi",
-      "María Esteve Accensi",
-      "Cinta Esteve Accensi"
+      "0.0"
     ]
   },
   "occupation": {
-    "title": null,
-    "company": null
+    "title": null
   },
   "education": [],
-  "contact": {
-    "phone": null,
-    "email": null
-  },
-  "photo": null,
-  "notes": "Naixement: a Santa Bàrbara [aprox. 1825].\n\nCasament: el 6 d'agost de 1842 amb José Esteve Millán d'Amposta [1821].\n\nFills: José [1849], María [1850] i Cinta [1859].\n\nEl seu marit mor al juny de 1877 i ella ja era morta.\n\nEl marit es N. i V.Amposta",
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Santa Bàrbara [aprox. 1825].\n\nCasament: el 6 d'agost de 1842 amb José Esteve Millán d'Amposta [1821].\n\nFills: José [1849], María [1850] i Cinta [1859].\n\nEl seu marit mor al juny de 1877 i ella ja era morta.",
   "genogram": {
     "nodes": [],
     "links": []

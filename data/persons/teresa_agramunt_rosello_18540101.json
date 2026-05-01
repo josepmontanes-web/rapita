@@ -5,49 +5,36 @@
   "gender": "female",
   "birth": {
     "date": "1854-01-01",
-    "place": "Roquetes"
+    "place": null
   },
   "death": {
     "date": null,
     "place": null
   },
-  "age": null,
   "status": {
     "alive": false
   },
   "location": {
-    "address": null,
+    "address": "",
     "lat": null,
     "lng": null
   },
   "family": {
     "parents": [],
-    "spouse": [
-      "isidro_bel_poy_18480101"
-    ],
-    "children": [
-      "cinta_bel_agramunt_18811018"
-    ]
+    "spouse": [],
+    "children": []
   },
   "relations_detail": {
     "parents_names": [],
-    "spouse_names": [
-      "Isidro Bel Poy"
-    ],
-    "children_names": [
-      "Cinta Bel Agramunt"
-    ]
+    "spouse_names": [],
+    "children_names": []
   },
   "occupation": {
-    "title": null,
-    "company": null
+    "title": null
   },
   "education": [],
-  "contact": {
-    "phone": null,
-    "email": null
-  },
-  "photo": null,
+  "contact": {},
+  "photo": "",
   "notes": "Naixement: a Roquetes [aprox. 1854].\n\nCasament: amb Isidro Bel Poy de Roquetes [1848].\n\nFills: Cinta [1881].",
   "genogram": {
     "nodes": [],

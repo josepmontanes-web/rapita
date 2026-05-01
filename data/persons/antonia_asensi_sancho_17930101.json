@@ -1,14 +1,14 @@
 {
-  "id": "maria_accensi_accensi_18160101",
-  "source_id": "A007",
-  "name": "Maria Accensi Accensi",
+  "id": "antonia_asensi_sancho_17930101",
+  "source_id": "A018",
+  "name": "Antonia Asensi Sancho",
   "gender": "female",
   "birth": {
-    "date": "1816-01-01",
-    "place": null
+    "date": "1793-01-01",
+    "place": "Freginals"
   },
   "death": {
-    "date": "1817-09-26",
+    "date": "1848-04-20",
     "place": "la Ràpita"
   },
   "status": {
@@ -26,8 +26,8 @@
   },
   "relations_detail": {
     "parents_names": [
-      "Sebastián Accensi",
-      "Rafaela Accensi"
+      "Antonio Ausensi",
+      "Magdalena Sanches"
     ],
     "spouse_names": [],
     "children_names": []
@@ -38,7 +38,7 @@
   "education": [],
   "contact": {},
   "photo": "",
-  "notes": "Naixement: el 1816.\n\nDefunció: el 26 de setembre de 1817 a la Ràpita. Tenia un any quan va morir.",
+  "notes": "Naixement: a Freginals [aprox. 1793].\n\nPodria ser germana de José Antonio Accensi Sancho de Freginals [1785] i Ramón Accensi de Santa Bàrbara [1790].\n\nDefunció: el 20 d'abril 1848 a la Ràpita. Tenia 55 anys quan va morir. Va fer testament (V. Sabaté).",
   "genogram": {
     "nodes": [],
     "links": []

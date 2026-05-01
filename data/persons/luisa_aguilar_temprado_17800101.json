@@ -11,20 +11,17 @@
     "date": null,
     "place": null
   },
-  "age": null,
   "status": {
     "alive": false
   },
   "location": {
-    "address": null,
+    "address": "",
     "lat": null,
     "lng": null
   },
   "family": {
     "parents": [],
-    "spouse": [
-      "mariano_mateu_sancho_17750101"
-    ],
+    "spouse": [],
     "children": []
   },
   "relations_detail": {
@@ -35,18 +32,16 @@
     "spouse_names": [
       "Mariano Mateu Sancho"
     ],
-    "children_names": []
+    "children_names": [
+      "0.0"
+    ]
   },
   "occupation": {
-    "title": null,
-    "company": null
+    "title": null
   },
   "education": [],
-  "contact": {
-    "phone": null,
-    "email": null
-  },
-  "photo": null,
+  "contact": {},
+  "photo": "",
   "notes": "Naixement:  a Ulldecona [aprox. 1780].\n\nCasament: el 25 de juny de 1799 amb Mariano Mateu Sancho de la Galera [1775].",
   "genogram": {
     "nodes": [],

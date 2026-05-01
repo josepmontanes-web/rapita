@@ -11,12 +11,11 @@
     "date": null,
     "place": null
   },
-  "age": null,
   "status": {
     "alive": false
   },
   "location": {
-    "address": null,
+    "address": "",
     "lat": null,
     "lng": null
   },
@@ -31,15 +30,11 @@
     "children_names": []
   },
   "occupation": {
-    "title": null,
-    "company": null
+    "title": null
   },
   "education": [],
-  "contact": {
-    "phone": null,
-    "email": null
-  },
-  "photo": null,
+  "contact": {},
+  "photo": "",
   "notes": "Cabo del Resguardo de Rentas destinat a la Ràpita al 30 de novembre de 1780. (ACA BGRP caixa 1).",
   "genogram": {
     "nodes": [],

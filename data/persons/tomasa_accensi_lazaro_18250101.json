@@ -11,48 +11,38 @@
     "date": null,
     "place": null
   },
-  "age": null,
   "status": {
     "alive": false
   },
   "location": {
-    "address": null,
+    "address": "",
     "lat": null,
     "lng": null
   },
   "family": {
-    "parents": [
-      "ramon_accensi_17900101",
-      "maria_lazaro_domenech_17900101"
-    ],
-    "spouse": [
-      "jose_magi_marmana_18200101"
-    ],
+    "parents": [],
+    "spouse": [],
     "children": []
   },
   "relations_detail": {
     "parents_names": [
-      "Ramón Accensi",
-      "María Lázaro Domenech"
+      "Ramon Accensi",
+      "Maria Lazaro"
     ],
     "spouse_names": [
       "José Magí Marmaña"
     ],
     "children_names": [
-      "José Marmaña Accensi"
+      "0.0"
     ]
   },
   "occupation": {
-    "title": null,
-    "company": null
+    "title": null
   },
   "education": [],
-  "contact": {
-    "phone": null,
-    "email": null
-  },
-  "photo": null,
-  "notes": "Naixement: a Santa Bàrbara [aprox. 1825].\n\nCasament: el 28 de desembre de 1844 amb José Magí Marmaña d'Amposta [1820].\n\nFills: José [1850].\n\nSC\n\nNo s'ha trobat una coincidència inequívoca a equivalències per al fill documentat José [1850] aplicant la regla nombre + cognom del pare + cognom de la mare; per això no s'ha afegit cap ID a family.children.",
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Santa Bàrbara [aprox. 1825].\n\nCasament: el 28 de desembre de 1844 amb José Magí Marmaña d'Amposta [1820].\n\nFills: José [1850].",
   "genogram": {
     "nodes": [],
     "links": []

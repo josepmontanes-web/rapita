@@ -1,15 +1,15 @@
 {
-  "id": "manuel_adlert_baneras_18510101",
+  "id": "juan_adell_pasqual_o_pascual_18030507",
   "source_id": null,
-  "name": "Manuel Adlert Bañeras",
+  "name": "Juan Adell Pasqual [o Pascual]",
   "gender": "male",
   "birth": {
-    "date": "1851-01-01",
+    "date": "1803-05-07",
     "place": null
   },
   "death": {
-    "date": null,
-    "place": null
+    "date": "1811-11-22",
+    "place": "la Ràpita"
   },
   "status": {
     "alive": false
@@ -25,7 +25,10 @@
     "children": []
   },
   "relations_detail": {
-    "parents_names": [],
+    "parents_names": [
+      "José Adell Domenech",
+      "Gertrudis Pasqual Fuster"
+    ],
     "spouse_names": [],
     "children_names": []
   },
@@ -35,7 +38,7 @@
   "education": [],
   "contact": {},
   "photo": "",
-  "notes": "Naixement: a Santiago de Compostela [aprox. 1851].\n\nProfessió: Tinent Coronel, Capità de l'exercit.\n\nCasament: amb Doña Pilar Baron Morro de Segorbe [1858].\n\nFills: Celestino Faustino [1881].",
+  "notes": "Naixement: el 5 de juliol de 1803 a la Ràpita.\n\nEls padrins son Juan Cera i Mariana Pasqual.\n\nDefunció: el 22 de novembre de 1811 a la Ràpita.",
   "genogram": {
     "nodes": [],
     "links": []
