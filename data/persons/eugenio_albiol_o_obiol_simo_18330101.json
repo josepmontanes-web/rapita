@@ -1,0 +1,57 @@
+{
+  "id": "eugenio_albiol_o_obiol_simo_18330101",
+  "source_id": null,
+  "name": "Eugenio Albiol [o Obiol] Simó",
+  "gender": "male",
+  "birth": {
+    "date": "1833-01-01",
+    "place": "Penyíscola"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": [
+      "josefa_albiol_safont_18550101"
+    ]
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomás Albiol",
+      "Antonia Simó"
+    ],
+    "spouse_names": [
+      "Mariana Safont Castellà"
+    ],
+    "children_names": [
+      "Josefa Albiol Safont"
+    ]
+  },
+  "occupation": {
+    "title": "Marino",
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: a Peníscola [aprox. 1833]. \n\nProfessió: marino.\n\nCasament: el 27 de gener de 1855 amb Mariana Safont Castellà de la Ràpita [1834]. Es casa als 22 anys. Testimonis: Buenaventura Degollada i Bruno Safont.\n\nFills: Josefa [1855].\n\nEs germà d'Antonia Obiol Simó [1832].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

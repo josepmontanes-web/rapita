@@ -1,0 +1,54 @@
+{
+  "id": "manuel_adlert_baneras_18510101",
+  "source_id": null,
+  "name": "Manuel Adlert Bañeras",
+  "gender": "male",
+  "birth": {
+    "date": "1851-01-01",
+    "place": "Santiago de Compostela"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": [
+      "celestino_faustino_adlert_baron_18810406"
+    ]
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "spouse_names": [
+      "Doña Pilar Baron Morro"
+    ],
+    "children_names": [
+      "Celestino Faustino Adlert Baron"
+    ]
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: a Santiago de Compostela [aprox. 1851].\n\nProfessió: Tinent Coronel, Capità de l'exercit.\n\nCasament: amb Doña Pilar Baron Morro de Segorbe [1858].\n\nFills: Celestino Faustino [1881].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

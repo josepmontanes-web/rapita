@@ -1,0 +1,55 @@
+{
+  "id": "antonia_albiol_o_obiol_simo_18320101",
+  "source_id": null,
+  "name": "Antonia Albiol [o Obiol] Simó",
+  "gender": "female",
+  "birth": {
+    "date": "1832-01-01",
+    "place": "Penyiscola"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [
+      "pedro_navarro_vidal_18290101"
+    ],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomás Obiol",
+      "Antonia Simó"
+    ],
+    "spouse_names": [
+      "Pedro Navarro Vidal"
+    ],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: a Peníscola [aprox. 1832]. \n\nCasament: el 18 de desembre de 1852 amb Pedro Navarro Vidal de Tortosa [1829]. Es casa als 20 anys. Testimonis: José Vernis i Sebastián Sabaté.\n\nEs germana d'Eugenio Obiol Simó [1833].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "rosa_adell_tallada_18100101",
+  "source_id": null,
+  "name": "Rosa Adell Tallada",
+  "gender": "female",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1842-08-16",
+    "place": "la Ràpita"
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "vicenta_tallada_17750101"
+    ],
+    "spouse": [
+      "miguel_sancho_matamoros_18100101"
+    ],
+    "children": [
+      "pedro_sancho_adell_18380106",
+      "francisca_sancho_adell_18380320"
+    ]
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Adell",
+      "Vicenta Tallada"
+    ],
+    "spouse_names": [
+      "Miguel Sancho Matamoros"
+    ],
+    "children_names": [
+      "Pedro Sancho Adell",
+      "Francisca Sancho Adell",
+      "José Manuel"
+    ]
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: a Alcanar [aprox. 1810].\n\nCasament: amb  Miguel Sancho Matamoros d'Alcanar [1810].\n\nFills: Pedro [1838], Francisca [1838] i José Manuel [1840].\n\nDefunció: el 16 d'agost de 1842 a la Ràpita.\n\nChildren unresolved by father+mother surname rule: José Manuel -> tried José Manuel Sancho Adell, José Manuel Matamoros Adell",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "celestino_faustino_adlert_baron_18810406",
+  "source_id": null,
+  "name": "Celestino Faustino Adlert Baron",
+  "gender": "male",
+  "birth": {
+    "date": "1881-04-06",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: el 6 d'abril de 1881 a la Plaça de Bosch de la Ràpita. El pare té 29 anys i es Tinent Coronel, Capità de l'exercit, la mare en té 22.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

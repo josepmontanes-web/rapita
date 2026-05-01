@@ -1,0 +1,56 @@
+{
+  "id": "mariana_aguilar_tinena_18550101",
+  "source_id": null,
+  "name": "Mariana Aguilar Tiñena",
+  "gender": "female",
+  "birth": {
+    "date": "1855-01-01",
+    "place": "Caseres (Tarragona)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [
+      "evaristo_garcia_blanes_18450101"
+    ],
+    "children": [
+      "enrique_pedro_garcia_aguilar_18810519"
+    ]
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "spouse_names": [
+      "Evaristo García Blanes"
+    ],
+    "children_names": [
+      "Enrique Pedro García Aguilar"
+    ]
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: a Caseres (Tarragona) [aprox. 1855].\n\nCasament: amb Evaristo García Blanes de Madrid [1845].\n\nFills: Enrique Pedro [1881].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

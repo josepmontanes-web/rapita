@@ -1,0 +1,58 @@
+{
+  "id": "vicenta_maria_adell_llagostera_18191002",
+  "source_id": null,
+  "name": "Vicenta María Adell Llagostera",
+  "gender": "female",
+  "birth": {
+    "date": "1819-10-02",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "andres_adell_sancho_17900101",
+      "beatriz_llagostera_bonamich_17900101"
+    ],
+    "spouse": [
+      "vicente_pons_lopez_18230926"
+    ],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Andrés Adell Sancho",
+      "Beatriz Llagostera Bonamich"
+    ],
+    "spouse_names": [
+      "Vicente Pons López"
+    ],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: el 2 d'octubre de 1819 a la Ràpita.\n\nEls padrins son José Guitart i María Safon.\n\nCasament: el 13 de desembre de 1851 amb Vicente Pons López de la Ràpita [1823].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

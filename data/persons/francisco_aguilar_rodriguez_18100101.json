@@ -1,0 +1,55 @@
+{
+  "id": "francisco_aguilar_rodriguez_18100101",
+  "source_id": null,
+  "name": "Francisco Aguilar Rodríguez",
+  "gender": "male",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Sevilla"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [
+      "ramona_llansola_vericad_18100101"
+    ],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Aguilar",
+      "Francisca Rodríguez"
+    ],
+    "spouse_names": [
+      "Ramona Llansola Vericad"
+    ],
+    "children_names": []
+  },
+  "occupation": {
+    "title": "\"Carabinero de la Hacienda Pública\".",
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement:  a Sevilla [aprox. 1810].\n\nProfessió: \"Carabinero de la Hacienda Pública\".\n\nCasament: el 22 de gener de 1843 amb Ramona Llansola Vericad d'Ulldecona [1810].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

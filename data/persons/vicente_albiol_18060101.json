@@ -1,0 +1,57 @@
+{
+  "id": "vicente_albiol_18060101",
+  "source_id": null,
+  "name": "Vicente Albiol",
+  "gender": "male",
+  "birth": {
+    "date": "1806-01-01",
+    "place": "Godall"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [
+      "maria_albiol_rillo_18120101"
+    ],
+    "children": [
+      "josefa_albiol_albiol_18400101"
+    ]
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "spouse_names": [
+      "Maria Albiol Rillo"
+    ],
+    "children_names": [
+      "Josefa Albiol Albiol",
+      "Concepción"
+    ]
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: a Godall [aprox. 1806].\n\nCasament: amb Maria Albiol Rillo de Godall [1812].\n\nFills: Josefa [1840] i Concepción.\n\nChildren unresolved by father+mother surname rule: Concepción -> tried Concepción Albiol Albiol, Concepción Albiol Rillo",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

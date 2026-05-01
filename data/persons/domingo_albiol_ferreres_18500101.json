@@ -1,0 +1,56 @@
+{
+  "id": "domingo_albiol_ferreres_18500101",
+  "source_id": null,
+  "name": "Domingo Albiol Ferreres",
+  "gender": "male",
+  "birth": {
+    "date": "1850-01-01",
+    "place": "Peníscola"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "age": null,
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [
+      "cinta_marti_navarro_18580101"
+    ],
+    "children": [
+      "jose_albiol_o_obiol_marti_18790221"
+    ]
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "spouse_names": [
+      "Cinta Martí Navarro"
+    ],
+    "children_names": [
+      "José Albiol [o Obiol] Martí"
+    ]
+  },
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+  "education": [],
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+  "photo": null,
+  "notes": "Naixement: a Peníscola [aprox. 1850].\n\nProfessió: mariner.\n\nCasament: l'11 de maig de 1878 amb Cinta Martí Navarro de la Ràpita [1858]. Es casa als 27 anys.\n\nFills: José [1879].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}
