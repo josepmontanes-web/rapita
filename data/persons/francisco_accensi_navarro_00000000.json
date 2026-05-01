@@ -1,0 +1,39 @@
+{
+  "id": "francisco_accensi_navarro_00000000",
+  "source_id": "A013",
+  "name": "Francisco Accensi Navarro",
+  "gender": "male",
+  "birth": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": null,
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "jose_adell_domech_00000000",
+  "source_id": null,
+  "name": "José Adell Domech",
+  "gender": "male",
+  "birth": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "spouse_names": [],
+    "children_names": [
+      "0.0"
+    ]
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": null,
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

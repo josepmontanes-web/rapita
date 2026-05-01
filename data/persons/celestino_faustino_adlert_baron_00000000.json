@@ -1,0 +1,39 @@
+{
+  "id": "celestino_faustino_adlert_baron_00000000",
+  "source_id": null,
+  "name": "Celestino Faustino Adlert Baron",
+  "gender": "male",
+  "birth": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": null,
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

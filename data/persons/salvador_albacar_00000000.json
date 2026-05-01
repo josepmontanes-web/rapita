@@ -1,0 +1,39 @@
+{
+  "id": "salvador_albacar_00000000",
+  "source_id": null,
+  "name": "Salvador Albacar",
+  "gender": "male",
+  "birth": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": null,
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}
