@@ -1,0 +1,83 @@
+{
+  "id": "ramon_accensi_17900101",
+  "source_id": "A005",
+  "name": "Ramón Accensi",
+  "gender": "male",
+
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Santa Barbara"
+  },
+
+  "death": {
+    "date": null,
+    "place": null
+  },
+
+  "age": null,
+
+  "status": {
+    "alive": false
+  },
+
+  "location": {
+    "address": null,
+    "lat": null,
+    "lng": null
+  },
+
+  "family": {
+    "parents": [
+      "jose_antonio_accensi_17600101",
+      "madalena_sancho_17620101"
+    ],
+    "spouse": [
+      "maria_lazaro_domenech_17900101"
+    ],
+    "children": [
+      "francisca_accensi_lazaro_18170101",
+      "josefa_accensi_lazaro_18250101",
+      "tomasa_accensi_lazaro_18250101",
+      "raymunda_accensi_lazaro_18250101",
+      "maria_rosa_accensi_lazaro_18300101"
+    ]
+  },
+
+  "relations_detail": {
+    "parents_names": [
+      "José Antonio Accensi",
+      "Madalena Sancho"
+    ],
+    "spouse_names": [
+      "María Lázaro [o Lozano] Domenech de Rossell"
+    ],
+    "children_names": [
+      "Francisca Accensi Lazaro",
+      "Josefa Accensi Lazaro",
+      "Tomasa Accensi Lazaro",
+      "Raymunda Accensi Lazaro",
+      "Maria Rosa Accensi Lazaro"
+    ]
+  },
+
+  "occupation": {
+    "title": null,
+    "company": null
+  },
+
+  "education": [],
+
+  "contact": {
+    "phone": null,
+    "email": null
+  },
+
+  "photo": null,
+
+  "notes": "Naixement aproximat a Santa Bàrbara [1790]. Als registres consta com a fill de José Accensi i Madalena. Podria ser germà de José Antonio Accensi Sancho de Freginals [1785] i d’Antonia Accensi Sancho de Freginals [1793], però el mateix document indica que no és segur. Casat amb María Lázaro [o Lozano] Domenech de Rossell [1790]. Fills documentats: Francisca [1817], Josefa [1825], Tomasa [1825], Raymunda [1825] i María Rosa [1830]. En una referència de febrer de 1858 apareix citat com a propietari confrontant, casat amb Maria Lozano.",
+
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}
