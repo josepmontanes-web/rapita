@@ -101,8 +101,15 @@ def iso_date(value):
     return None
 
 
-def build_id(name, date_value):
-    return f"{normalize_text(name)}_{normalize_date_for_id(date_value)}"
+def build_id(source_id, name):
+    source_id = clean(source_id)
+    normalized_name = normalize_text(name)
+
+    if source_id and normalized_name:
+        return f"{source_id}_{normalized_name}"
+    if source_id:
+        return source_id
+    return normalized_name
 
 
 def full_name(nom, cognoms):
@@ -188,7 +195,7 @@ def main():
         occupation = clean(row.get("PROFESSIÓ"))
         notes = clean(row.get("TEXTE"))
 
-        person_id = build_id(name, birth_raw)
+       person_id = build_id(source_id, name)
 
         father_name = full_name(row.get("NOM_PARE"), row.get("COGNOMPARE"))
         mother_name = full_name(row.get("NOM_MARE"), row.get("COGNOMMARE"))
