@@ -1,0 +1,49 @@
+{
+  "id": "21_andres_adell_llagostera",
+  "source_id": "21",
+  "row_ref": "21",
+  "name": "Andrés Adell Llagostera",
+  "gender": "male",
+  "birth": {
+    "date": "1824-08-31",
+    "place": "SC"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "34_andres_adell_sancho"
+    ],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Andrés Adell Sancho",
+      "Beatriz Llagostera Bonamich"
+    ],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 31 d'agost de 1824 a la Ràpita.\n\nEls padrins son Estevan Chaler i Manuela López.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

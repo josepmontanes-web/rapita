@@ -1,0 +1,47 @@
+{
+  "id": "18_antonia_asensi_sancho",
+  "source_id": "18",
+  "row_ref": "18",
+  "name": "Antonia Asensi Sancho",
+  "gender": "female",
+  "birth": {
+    "date": "1793-01-01",
+    "place": "Freginals"
+  },
+  "death": {
+    "date": "1848-04-20",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Ausensi",
+      "Magdalena Sanches"
+    ],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Freginals [aprox. 1793].\n\nPodria ser germana de José Antonio Accensi Sancho de Freginals [1785] i Ramón Accensi de Santa Bàrbara [1790].\n\nDefunció: el 20 d'abril 1848 a la Ràpita. Tenia 55 anys quan va morir. Va fer testament (V. Sabaté).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "3_sebastian_accensi",
+  "source_id": "3",
+  "row_ref": "3",
+  "name": "Sebastián Accensi",
+  "gender": "male",
+  "birth": {
+    "date": "1792-01-01",
+    "place": "Tortosa [aprox"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1792].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

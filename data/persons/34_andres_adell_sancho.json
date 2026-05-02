@@ -1,0 +1,51 @@
+{
+  "id": "34_andres_adell_sancho",
+  "source_id": "34",
+  "row_ref": "34",
+  "name": "Andrés Adell Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [
+      "26_beatriz_adell_llagostera"
+    ],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Adell",
+      "Agustina Sancho"
+    ],
+    "spouse_names": [
+      "Beatríz Llagostera Bonamich"
+    ],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1790].\n\nCasament: amb Beatríz Llagostera Bonamich d'Alcanar [1790]. Viuen a la \"Partida del Codoñol término de Amposta\".\n\nFills: Miguel (Alcanar) [aprox. 1809], Francisca (Alcanar) [aprox 1810], Dorotea (Alcanar) [aprox 1815], Magdalena [1817], Vicenta María [1819], Beatríz [1822] i Andrés [1824].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

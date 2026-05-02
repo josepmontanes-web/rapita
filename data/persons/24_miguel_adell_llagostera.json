@@ -1,0 +1,51 @@
+{
+  "id": "24_miguel_adell_llagostera",
+  "source_id": "24",
+  "row_ref": "24",
+  "name": "Miguel Adell Llagostera",
+  "gender": "male",
+  "birth": {
+    "date": "1809-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "34_andres_adell_sancho"
+    ],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Andrés Adell Sancho",
+      "Beatriz Llagostera Bonamich"
+    ],
+    "spouse_names": [
+      "Francisca Sánchez Capilla"
+    ],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1809].\n\nCasament: el 25 de juny de 1835 amb Francisca Sánchez Capilla de la Ràpita [1813].\n\nFills: Miguel Carlos [1836]. El pare ja estava mort quan naix el seu fill.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

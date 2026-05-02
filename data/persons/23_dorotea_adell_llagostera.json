@@ -1,0 +1,51 @@
+{
+  "id": "23_dorotea_adell_llagostera",
+  "source_id": "23",
+  "row_ref": "23",
+  "name": "Dorotea Adell Llagostera",
+  "gender": "female",
+  "birth": {
+    "date": "1815-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "34_andres_adell_sancho"
+    ],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Andrés Adell Sancho",
+      "Beatriz Llagostera Bonamich"
+    ],
+    "spouse_names": [
+      "Francisco Carles Reverter"
+    ],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1815].\n\nCasament: el 27 de març de 1843 amb Francisco Carles Reverter d'Amposta [1820].\n\nFills: Afortunada [1847], Vicente [1849], Jaime [1850] i Francisco [1857].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

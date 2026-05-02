@@ -1,0 +1,44 @@
+{
+  "id": "42_maria_cinta_julia_aguilar_icart",
+  "source_id": "42",
+  "row_ref": "42",
+  "name": "María Cinta Julia Aguilar Icart",
+  "gender": "female",
+  "birth": {
+    "date": "1878-01-10",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'1 d'octubre de 1878 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

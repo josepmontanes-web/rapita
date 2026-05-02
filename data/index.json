@@ -1,92 +1,352 @@
 [
   {
-    "id": "A018_antonia_asensi_sancho",
-    "name": "Antonia Asensi Sancho",
-    "file": "data/persons/A018_antonia_asensi_sancho.json"
-  },
-  {
-    "id": "A012_francisca_accensi_lazaro",
-    "name": "Francisca Accensi Lazaro",
-    "file": "data/persons/A012_francisca_accensi_lazaro.json"
-  },
-  {
-    "id": "A013_francisco_accensi_navarro",
-    "name": "Francisco Accensi Navarro",
-    "file": "data/persons/A013_francisco_accensi_navarro.json"
-  },
-  {
-    "id": "A011_josefa_accensi_lazaro",
-    "name": "Josefa Accensi Lazaro",
-    "file": "data/persons/A011_josefa_accensi_lazaro.json"
-  },
-  {
-    "id": "A002_jose_antonio_accensi",
-    "name": "José Antonio Accensi",
-    "file": "data/persons/A002_jose_antonio_accensi.json"
-  },
-  {
-    "id": "A017_jose_antonio_accensi_o_ascensi_sancho",
-    "name": "José Antonio Accensi [o Ascensi] Sancho",
-    "file": "data/persons/A017_jose_antonio_accensi_o_ascensi_sancho.json"
-  },
-  {
-    "id": "A016_jose_asensi_navarro",
-    "name": "José Asensi Navarro",
-    "file": "data/persons/A016_jose_asensi_navarro.json"
-  },
-  {
-    "id": "A007_maria_accensi_accensi",
-    "name": "Maria Accensi Accensi",
-    "file": "data/persons/A007_maria_accensi_accensi.json"
-  },
-  {
-    "id": "A008_maria_rosa_accensi_lazaro",
-    "name": "Maria Rosa Accensi Lazaro",
-    "file": "data/persons/A008_maria_rosa_accensi_lazaro.json"
-  },
-  {
-    "id": "A015_mariana_o_maria_anna_accensi_o_asensi_navarro",
-    "name": "Mariana [o Maria Anna] Accensi [o Asensi] Navarro",
-    "file": "data/persons/A015_mariana_o_maria_anna_accensi_o_asensi_navarro.json"
-  },
-  {
-    "id": "A001_martin_abasolo",
+    "id": "1_martin_abasolo",
+    "source_id": "1",
+    "row_ref": "1",
     "name": "Martín Abasolo",
-    "file": "data/persons/A001_martin_abasolo.json"
+    "file": "data/persons/1_martin_abasolo.json"
   },
   {
-    "id": "A014_maria_asensi_navarro",
-    "name": "María Asensi Navarro",
-    "file": "data/persons/A014_maria_asensi_navarro.json"
-  },
-  {
-    "id": "A006_pedro_accensi",
-    "name": "Pedro Accensi",
-    "file": "data/persons/A006_pedro_accensi.json"
-  },
-  {
-    "id": "A004_rafaela_accensi",
-    "name": "Rafaela Accensi",
-    "file": "data/persons/A004_rafaela_accensi.json"
-  },
-  {
-    "id": "A005_ramon_accensi",
-    "name": "Ramón Accensi",
-    "file": "data/persons/A005_ramon_accensi.json"
-  },
-  {
-    "id": "A009_raymunda_accensi_lazaro",
-    "name": "Raymunda Accensi Lazaro",
-    "file": "data/persons/A009_raymunda_accensi_lazaro.json"
-  },
-  {
-    "id": "A003_sebastian_accensi",
-    "name": "Sebastián Accensi",
-    "file": "data/persons/A003_sebastian_accensi.json"
-  },
-  {
-    "id": "A010_tomasa_accensi_lazaro",
+    "id": "10_tomasa_accensi_lazaro",
+    "source_id": "10",
+    "row_ref": "10",
     "name": "Tomasa Accensi Lazaro",
-    "file": "data/persons/A010_tomasa_accensi_lazaro.json"
+    "file": "data/persons/10_tomasa_accensi_lazaro.json"
+  },
+  {
+    "id": "11_josefa_accensi_lazaro",
+    "source_id": "11",
+    "row_ref": "11",
+    "name": "Josefa Accensi Lazaro",
+    "file": "data/persons/11_josefa_accensi_lazaro.json"
+  },
+  {
+    "id": "12_francisca_accensi_lazaro",
+    "source_id": "12",
+    "row_ref": "12",
+    "name": "Francisca Accensi Lazaro",
+    "file": "data/persons/12_francisca_accensi_lazaro.json"
+  },
+  {
+    "id": "13_francisco_accensi_navarro",
+    "source_id": "13",
+    "row_ref": "13",
+    "name": "Francisco Accensi Navarro",
+    "file": "data/persons/13_francisco_accensi_navarro.json"
+  },
+  {
+    "id": "14_maria_asensi_navarro",
+    "source_id": "14",
+    "row_ref": "14",
+    "name": "María Asensi Navarro",
+    "file": "data/persons/14_maria_asensi_navarro.json"
+  },
+  {
+    "id": "15_mariana_o_maria_anna_accensi_o_asensi_navarro",
+    "source_id": "15",
+    "row_ref": "15",
+    "name": "Mariana [o Maria Anna] Accensi [o Asensi] Navarro",
+    "file": "data/persons/15_mariana_o_maria_anna_accensi_o_asensi_navarro.json"
+  },
+  {
+    "id": "16_jose_asensi_navarro",
+    "source_id": "16",
+    "row_ref": "16",
+    "name": "José Asensi Navarro",
+    "file": "data/persons/16_jose_asensi_navarro.json"
+  },
+  {
+    "id": "17_jose_antonio_accensi_o_ascensi_sancho",
+    "source_id": "17",
+    "row_ref": "17",
+    "name": "José Antonio Accensi [o Ascensi] Sancho",
+    "file": "data/persons/17_jose_antonio_accensi_o_ascensi_sancho.json"
+  },
+  {
+    "id": "18_antonia_asensi_sancho",
+    "source_id": "18",
+    "row_ref": "18",
+    "name": "Antonia Asensi Sancho",
+    "file": "data/persons/18_antonia_asensi_sancho.json"
+  },
+  {
+    "id": "19_jose_adell_domech",
+    "source_id": "19",
+    "row_ref": "19",
+    "name": "José Adell Domech",
+    "file": "data/persons/19_jose_adell_domech.json"
+  },
+  {
+    "id": "2_jose_antonio_accensi",
+    "source_id": "2",
+    "row_ref": "2",
+    "name": "José Antonio Accensi",
+    "file": "data/persons/2_jose_antonio_accensi.json"
+  },
+  {
+    "id": "20_andres_adell_homs",
+    "source_id": "20",
+    "row_ref": "20",
+    "name": "Andrés Adell Homs",
+    "file": "data/persons/20_andres_adell_homs.json"
+  },
+  {
+    "id": "21_andres_adell_llagostera",
+    "source_id": "21",
+    "row_ref": "21",
+    "name": "Andrés Adell Llagostera",
+    "file": "data/persons/21_andres_adell_llagostera.json"
+  },
+  {
+    "id": "22_vicenta_maria_adell_llagostera",
+    "source_id": "22",
+    "row_ref": "22",
+    "name": "Vicenta María Adell Llagostera",
+    "file": "data/persons/22_vicenta_maria_adell_llagostera.json"
+  },
+  {
+    "id": "23_dorotea_adell_llagostera",
+    "source_id": "23",
+    "row_ref": "23",
+    "name": "Dorotea Adell Llagostera",
+    "file": "data/persons/23_dorotea_adell_llagostera.json"
+  },
+  {
+    "id": "24_miguel_adell_llagostera",
+    "source_id": "24",
+    "row_ref": "24",
+    "name": "Miguel Adell Llagostera",
+    "file": "data/persons/24_miguel_adell_llagostera.json"
+  },
+  {
+    "id": "25_francisca_adell_llagostera",
+    "source_id": "25",
+    "row_ref": "25",
+    "name": "Francisca Adell Llagostera",
+    "file": "data/persons/25_francisca_adell_llagostera.json"
+  },
+  {
+    "id": "26_beatriz_adell_llagostera",
+    "source_id": "26",
+    "row_ref": "26",
+    "name": "Beatriz Adell Llagostera",
+    "file": "data/persons/26_beatriz_adell_llagostera.json"
+  },
+  {
+    "id": "27_magdalena_adell_llagostera",
+    "source_id": "27",
+    "row_ref": "27",
+    "name": "Magdalena Adell Llagostera",
+    "file": "data/persons/27_magdalena_adell_llagostera.json"
+  },
+  {
+    "id": "28_francisco_adell_mauri",
+    "source_id": "28",
+    "row_ref": "28",
+    "name": "Francisco Adell Mauri",
+    "file": "data/persons/28_francisco_adell_mauri.json"
+  },
+  {
+    "id": "29_jose_adell_mauri",
+    "source_id": "29",
+    "row_ref": "29",
+    "name": "José Adell Mauri",
+    "file": "data/persons/29_jose_adell_mauri.json"
+  },
+  {
+    "id": "3_sebastian_accensi",
+    "source_id": "3",
+    "row_ref": "3",
+    "name": "Sebastián Accensi",
+    "file": "data/persons/3_sebastian_accensi.json"
+  },
+  {
+    "id": "30_juan_bautista_adell_miralles",
+    "source_id": "30",
+    "row_ref": "30",
+    "name": "Juan Bautista Adell Miralles",
+    "file": "data/persons/30_juan_bautista_adell_miralles.json"
+  },
+  {
+    "id": "31_juan_adell_pasqual_o_pascual",
+    "source_id": "31",
+    "row_ref": "31",
+    "name": "Juan Adell Pasqual [o Pascual]",
+    "file": "data/persons/31_juan_adell_pasqual_o_pascual.json"
+  },
+  {
+    "id": "32_joaquina_adell_royo",
+    "source_id": "32",
+    "row_ref": "32",
+    "name": "Joaquina Adell Royo",
+    "file": "data/persons/32_joaquina_adell_royo.json"
+  },
+  {
+    "id": "33_miguel_carlos_adell_sanchis",
+    "source_id": "33",
+    "row_ref": "33",
+    "name": "Miguel Carlos Adell Sanchís",
+    "file": "data/persons/33_miguel_carlos_adell_sanchis.json"
+  },
+  {
+    "id": "34_andres_adell_sancho",
+    "source_id": "34",
+    "row_ref": "34",
+    "name": "Andrés Adell Sancho",
+    "file": "data/persons/34_andres_adell_sancho.json"
+  },
+  {
+    "id": "35_rosa_adell_tallada",
+    "source_id": "35",
+    "row_ref": "35",
+    "name": "Rosa Adell Tallada",
+    "file": "data/persons/35_rosa_adell_tallada.json"
+  },
+  {
+    "id": "36_manuel_adlert_baneras",
+    "source_id": "36",
+    "row_ref": "36",
+    "name": "Manuel Adlert Bañeras",
+    "file": "data/persons/36_manuel_adlert_baneras.json"
+  },
+  {
+    "id": "37_celestino_faustino_adlert_baron",
+    "source_id": "37",
+    "row_ref": "37",
+    "name": "Celestino Faustino Adlert Baron",
+    "file": "data/persons/37_celestino_faustino_adlert_baron.json"
+  },
+  {
+    "id": "38_tomasa_agost_belenguer",
+    "source_id": "38",
+    "row_ref": "38",
+    "name": "Tomasa Agost Belenguer",
+    "file": "data/persons/38_tomasa_agost_belenguer.json"
+  },
+  {
+    "id": "39_jose_agramunt",
+    "source_id": "39",
+    "row_ref": "39",
+    "name": "José Agramunt",
+    "file": "data/persons/39_jose_agramunt.json"
+  },
+  {
+    "id": "4_rafaela_accensi",
+    "source_id": "4",
+    "row_ref": "4",
+    "name": "Rafaela Accensi",
+    "file": "data/persons/4_rafaela_accensi.json"
+  },
+  {
+    "id": "40_teresa_agramunt_rosello",
+    "source_id": "40",
+    "row_ref": "40",
+    "name": "Teresa Agramunt Roselló",
+    "file": "data/persons/40_teresa_agramunt_rosello.json"
+  },
+  {
+    "id": "41_francisco_aguilar_borras",
+    "source_id": "41",
+    "row_ref": "41",
+    "name": "Francisco Aguilar Borràs",
+    "file": "data/persons/41_francisco_aguilar_borras.json"
+  },
+  {
+    "id": "42_maria_cinta_julia_aguilar_icart",
+    "source_id": "42",
+    "row_ref": "42",
+    "name": "María Cinta Julia Aguilar Icart",
+    "file": "data/persons/42_maria_cinta_julia_aguilar_icart.json"
+  },
+  {
+    "id": "43_francisco_aguilar_rodriguez",
+    "source_id": "43",
+    "row_ref": "43",
+    "name": "Francisco Aguilar Rodríguez",
+    "file": "data/persons/43_francisco_aguilar_rodriguez.json"
+  },
+  {
+    "id": "44_luisa_aguilar_temprado",
+    "source_id": "44",
+    "row_ref": "44",
+    "name": "Luisa Aguilar Temprado",
+    "file": "data/persons/44_luisa_aguilar_temprado.json"
+  },
+  {
+    "id": "45_mariana_aguilar_tinena",
+    "source_id": "45",
+    "row_ref": "45",
+    "name": "Mariana Aguilar Tiñena",
+    "file": "data/persons/45_mariana_aguilar_tinena.json"
+  },
+  {
+    "id": "46_juan_aguilar_tomas",
+    "source_id": "46",
+    "row_ref": "46",
+    "name": "Juan Aguilar Tomás",
+    "file": "data/persons/46_juan_aguilar_tomas.json"
+  },
+  {
+    "id": "47_teresa_aixa_puigcerver",
+    "source_id": "47",
+    "row_ref": "47",
+    "name": "Teresa Aixa Puigcerver",
+    "file": "data/persons/47_teresa_aixa_puigcerver.json"
+  },
+  {
+    "id": "48_rosa_aixendri_bonfill",
+    "source_id": "48",
+    "row_ref": "48",
+    "name": "Rosa Aixendri Bonfill",
+    "file": "data/persons/48_rosa_aixendri_bonfill.json"
+  },
+  {
+    "id": "49_salvador_albacar",
+    "source_id": "49",
+    "row_ref": "49",
+    "name": "Salvador Albacar",
+    "file": "data/persons/49_salvador_albacar.json"
+  },
+  {
+    "id": "5_ramon_accensi",
+    "source_id": "5",
+    "row_ref": "5",
+    "name": "Ramón Accensi",
+    "file": "data/persons/5_ramon_accensi.json"
+  },
+  {
+    "id": "50_magdalena_albesa_rams",
+    "source_id": "50",
+    "row_ref": "50",
+    "name": "Magdalena Albesa Rams",
+    "file": "data/persons/50_magdalena_albesa_rams.json"
+  },
+  {
+    "id": "6_pedro_accensi",
+    "source_id": "6",
+    "row_ref": "6",
+    "name": "Pedro Accensi",
+    "file": "data/persons/6_pedro_accensi.json"
+  },
+  {
+    "id": "7_maria_accensi_accensi",
+    "source_id": "7",
+    "row_ref": "7",
+    "name": "Maria Accensi Accensi",
+    "file": "data/persons/7_maria_accensi_accensi.json"
+  },
+  {
+    "id": "8_maria_rosa_accensi_lazaro",
+    "source_id": "8",
+    "row_ref": "8",
+    "name": "Maria Rosa Accensi Lazaro",
+    "file": "data/persons/8_maria_rosa_accensi_lazaro.json"
+  },
+  {
+    "id": "9_raymunda_accensi_lazaro",
+    "source_id": "9",
+    "row_ref": "9",
+    "name": "Raymunda Accensi Lazaro",
+    "file": "data/persons/9_raymunda_accensi_lazaro.json"
   }
 ]

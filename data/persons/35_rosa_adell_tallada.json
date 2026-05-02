@@ -1,0 +1,49 @@
+{
+  "id": "35_rosa_adell_tallada",
+  "source_id": "35",
+  "row_ref": "35",
+  "name": "Rosa Adell Tallada",
+  "gender": "female",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1842-08-16",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Adell",
+      "Vicenta Tallada"
+    ],
+    "spouse_names": [
+      "Miguel Sancho Matamoros"
+    ],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1810].\n\nCasament: amb  Miguel Sancho Matamoros d'Alcanar [1810].\n\nFills: Pedro [1838], Francisca [1838] i José Manuel [1840].\n\nDefunció: el 16 d'agost de 1842 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "29_jose_adell_mauri",
+  "source_id": "29",
+  "row_ref": "29",
+  "name": "José Adell Mauri",
+  "gender": "male",
+  "birth": {
+    "date": "1877-01-01",
+    "place": "la Ràpita [aprox"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "spouse": [],
+    "children": []
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "spouse_names": [],
+    "children_names": []
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1877].\n\nDefunció: el 31 d'octubre de 1879 a la Ràpita als 2 anys de gastro enteritis.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}
