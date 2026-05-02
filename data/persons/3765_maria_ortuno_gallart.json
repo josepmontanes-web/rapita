@@ -1,0 +1,75 @@
+{
+  "id": "3765_maria_ortuno_gallart",
+  "source_id": "3765",
+  "row_ref": "3765. María Ortuño Gallart",
+  "name": "María Ortuño Gallart",
+  "gender": "female",
+  "birth": {
+    "date": "1802-01-01",
+    "place": "Lugar Nuevo del Mar (Val."
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "4980_juan_sans_cavalle"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Ortuño",
+      "Thadea Gallart"
+    ],
+    "father_name": "Vicente Ortuño",
+    "mother_name": "Thadea Gallart",
+    "spouse_names": [
+      "Juan Sans Cavallé"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: al Lugar Nuevo del Mar (València) [aprox. 1802]. \n\nCasament: el 30 d'octubre de 1822 amb Juan Sans Cavallé de Tortosa [1794]. Es casa als 20 anys. \"Las proclamas en el Perelló de donde son vecinos y en la parroquia del Lugar Nuevo del Mar (Valencia)\".\n\nFills: María [1823] i Joaquín [1839].\n\nEs germana de Vicente Ortuño Gallart [1810].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

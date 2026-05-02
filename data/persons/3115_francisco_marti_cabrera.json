@@ -1,0 +1,81 @@
+{
+  "id": "3115_francisco_marti_cabrera",
+  "source_id": "3115",
+  "row_ref": "3115. Francisco Martí Cabrera",
+  "name": "Francisco Martí Cabrera",
+  "gender": "male",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Calp (Alacant)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3624_josefa_navarro_comi"
+    ],
+    "children": [
+      "3113_trinitaria_francisca_marti_arbos",
+      "3117_joaquin_marti_cardona"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Martí",
+      "Francisca Cabrera"
+    ],
+    "father_name": "Francisco Martí",
+    "mother_name": "Francisca Cabrera",
+    "spouse_names": [
+      "Josefa Navarro Comí"
+    ],
+    "children_names": [
+      "Trinitaria Francisca Martí Arbós",
+      "Joaquín Martí Cardona"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Calp (Alacant) [aprox. 1820]. \n\nCasament: el 5 de juliol de 1847 amb Josefa Navarro Comí de la Ràpita [1818].\n\nFills: Francisco [1854].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

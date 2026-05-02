@@ -1,0 +1,101 @@
+{
+  "id": "1719_pascual_diago_campanals",
+  "source_id": "1719",
+  "row_ref": "1719. Pascual Diago Campanals",
+  "name": "Pascual Diago Campanals",
+  "gender": "male",
+  "birth": {
+    "date": "1778-01-01",
+    "place": "Maella"
+  },
+  "death": {
+    "date": "1832-09-09",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1716_antonio_diago"
+    ],
+    "father": "1716_antonio_diago",
+    "mother": null,
+    "spouse": [
+      "2673_maria_carmela_gras_gil",
+      "4342_candia_reverter_sancho"
+    ],
+    "children": [
+      "1720_rafael_antonio_diago_gras",
+      "1721_agustin_diago_gras",
+      "1722_basilia_diago_gras",
+      "1723_agustina_diago_gras",
+      "1724_tomas_diago_gras",
+      "1733_esperanza_diago_reverter",
+      "1734_tomasa_diago_reverter",
+      "1735_juan_bautista_diago_reverter",
+      "1736_teresa_diago_reverter",
+      "1737_felipe_diago_reverter"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Diago",
+      "Barbara Campanals Gallura"
+    ],
+    "father_name": "Antonio Diago",
+    "mother_name": "Barbara Campanals Gallura",
+    "spouse_names": [
+      "Maria Carmela Gras Gil",
+      "Candia Reverter Sancho"
+    ],
+    "children_names": [
+      "Rafael Antonio Diago Gras",
+      "Agustín Diago Gras",
+      "Basilia Diago Gras",
+      "Agustina Diago Gras",
+      "Tomás Diago Gras",
+      "Esperanza Diago Reverter",
+      "Tomasa Diago Reverter",
+      "Juan Bautista Diago Reverter",
+      "Teresa Diago Reverter",
+      "Felipe Diago Reverter"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Maella [aprox. 1778]. A altres partides diu que es d'Alcañíz i d'Ulldecona.\n\nAl novembre de 1783 diu que els nois Joaquín, Pablo i Pasqual Diago treballen al camí veinal de l'horta que formen el \"Bonbado\" amb les \"Pelusas\". (ACA BGRP caixa 46).\n\nProfessió: pagès.\n\nCasament: el 17 de febrer de 1799 amb María Carmela Gras Gil d'Ulldecona [1771].\n\nAl juny de 1799 paga un lloguer de 4 Rv per la casa 22 de la mansana vella (carrer del forn) (ACA BGRP caixa 34). Nota: la casa 22 està partida en cuatre.\n\nFills: Rafael Antonio [1799], Agustín [1802], Basilia [1805], Agustina [1807] i Tomás [1810].\n\nCasament: el 14 de febrer de 1814 amb Candia Reverter Sancho d'Alcanar [1792]. Es casa als 36 anys.\n\nFills: Felipe (Vinaròs) [1820], Tomasa [1823], Teresa [1825], Juan Bautista [1828] i Esperanza [1831].\n\nDefunció: el 9 de setembre de 1832 a la Ràpita. Diu que va morir als 60 anys, però pot-ser només en tenia 54. \"No hizo testamento ni dotó su alma por ser pobre sin bienes algunos\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

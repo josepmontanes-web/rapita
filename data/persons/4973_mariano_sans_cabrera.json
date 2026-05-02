@@ -1,0 +1,74 @@
+{
+  "id": "4973_mariano_sans_cabrera",
+  "source_id": "4973",
+  "row_ref": "4973. Mariano Sans Cabrera",
+  "name": "Mariano Sans Cabrera",
+  "gender": "male",
+  "birth": {
+    "date": "1881-08-08",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "913_agustin_cabrera_martinez",
+      "914_ramon_cabrera_martinez"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Agustín Cabrera Martínez",
+      "Ramón Cabrera Martínez"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 8 d'agost de 1881 a la Ràpita. El pare té 30 anys i es pagès, la mare en té 24.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

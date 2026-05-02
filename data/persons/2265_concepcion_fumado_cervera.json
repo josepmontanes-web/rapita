@@ -1,0 +1,68 @@
+{
+  "id": "2265_concepcion_fumado_cervera",
+  "source_id": "2265",
+  "row_ref": "2265. Concepción Fumadó Cervera",
+  "name": "Concepción Fumadó Cervera",
+  "gender": "female",
+  "birth": {
+    "date": "1876-05-01",
+    "place": "la Ràpita al maig de 1876"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita al maig de 1876.\n\nDefunció: el 14 de novembre de 1876 a la Ràpita. Va morir als 6 mesos de bronquitis.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

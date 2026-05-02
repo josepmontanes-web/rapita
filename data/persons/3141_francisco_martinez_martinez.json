@@ -1,0 +1,68 @@
+{
+  "id": "3141_francisco_martinez_martinez",
+  "source_id": "3141",
+  "row_ref": "3141. Francisco Martínez Martínez",
+  "name": "Francisco Martínez Martínez",
+  "gender": "male",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Alcantarilla (Murcia)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcantarilla (Murcia) [aprox. 1810].\n\nCasament: amb Doña María del Carmen Ribas Cavallero de Baza (Granada) [1810].\n\nFills: Cayetana Isabel [1833].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

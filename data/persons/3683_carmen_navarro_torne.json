@@ -1,0 +1,68 @@
+{
+  "id": "3683_carmen_navarro_torne",
+  "source_id": "3683",
+  "row_ref": "3683. Carmen Navarro Torné",
+  "name": "Carmen Navarro Torné",
+  "gender": "female",
+  "birth": {
+    "date": "1838-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1838].\n\nCasament: amb Tomás Gasseni de Tortosa.\n\nFills: Joaquín [1860] i Josefa [1860].\n\nDefunció: el 13 d'abril de 1878 a la Ràpita als 40 anys de \"una catarral inflamatoria complicada con pulmonia escrofulosa\". Declara la defunció la cuñada Remedios Gil Vallés d'Alcanar.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

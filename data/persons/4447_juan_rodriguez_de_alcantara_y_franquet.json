@@ -1,0 +1,74 @@
+{
+  "id": "4447_juan_rodriguez_de_alcantara_y_franquet",
+  "source_id": "4447",
+  "row_ref": "4447. Juan Rodríguez de Alcántara y Franquet",
+  "name": "Juan Rodríguez de Alcántara y Franquet",
+  "gender": "male",
+  "birth": {
+    "date": "1787-01-01",
+    "place": "Madrid"
+  },
+  "death": {
+    "date": "1831-05-07",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "D. Juan Rodríguez de Alcántara",
+      "D. Antonia Franquet"
+    ],
+    "father_name": "D. Juan Rodríguez de Alcántara",
+    "mother_name": "D. Antonia Franquet",
+    "spouse_names": [
+      "Dª Eudalda Deop Montaner",
+      "Dª. Margarita Del Real Tuduri"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Administrador Aduana"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Madrid [aprox. 1787]. A la partida de defunció d'una filla diu que es de Vicálvaro (Toledo).\n\n\"Administrador de la Real Aduana de esta población\".\n\nCasament: amb Doña Eudalda Deop Montaner de Ripoll [1790].\n\nFills: Carmen [1817] i María del Carmen [1821].\n\nCasament: el 31 de gener de 1830 amb Doña Margarita del Real Tuduri de Maó [1790].\n\nDefunció: el 7 de maig de 1831 a la Ràpita. Va morir als 44 anys de \"aproplegia\". No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

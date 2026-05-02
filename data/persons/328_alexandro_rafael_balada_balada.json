@@ -1,0 +1,74 @@
+{
+  "id": "328_alexandro_rafael_balada_balada",
+  "source_id": "328",
+  "row_ref": "328. Alexandro Rafael Balada Balada",
+  "name": "Alexandro Rafael Balada Balada",
+  "gender": "male",
+  "birth": {
+    "date": "1803-01-22",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1808-08-12",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "345_miguel_balada_lluch",
+      "350_joaquina_balada_miralles"
+    ],
+    "father": "345_miguel_balada_lluch",
+    "mother": "350_joaquina_balada_miralles",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Balada Lluch",
+      "Joaquina Balada Miralles"
+    ],
+    "father_name": "Miguel Balada Lluch",
+    "mother_name": "Joaquina Balada Miralles",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Alexandro Beltri",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 22 de gener de 1803 a la Ràpita.\n\nPadrins: Alexandro Beltri i Teresa Castellà, els dos de Tortosa.\n\nDefunció: el 12 d'agost de 1808 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

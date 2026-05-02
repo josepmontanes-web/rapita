@@ -1,0 +1,74 @@
+{
+  "id": "5618_antonia_maria_vines_grause",
+  "source_id": "5618",
+  "row_ref": "5618. Antonia María Viñes Grausé",
+  "name": "Antonia María Viñes Grausé",
+  "gender": "female",
+  "birth": {
+    "date": "1802-01-17",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5623_antonio_vines_sevilla",
+      "2691_lorenza_grause_bernis"
+    ],
+    "father": "5623_antonio_vines_sevilla",
+    "mother": "2691_lorenza_grause_bernis",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Viñes Sevilla",
+      "Lorenza Grausé Bernis"
+    ],
+    "father_name": "Antonio Viñes Sevilla",
+    "mother_name": "Lorenza Grausé Bernis",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Alejandro Campolmi",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 17 de gener de 1802 a la Ràpita.\n\nPadrins: Alejandro Campolmi i Francisca Viñes.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

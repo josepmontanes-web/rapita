@@ -1,0 +1,77 @@
+{
+  "id": "1993_francisco_ferrando_cartes",
+  "source_id": "1993",
+  "row_ref": "1993. Francisco Ferrando Cartes",
+  "name": "Francisco Ferrando Cartes",
+  "gender": "male",
+  "birth": {
+    "date": "1824-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1834-10-23",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1993_francisco_ferrando_cartes"
+    ],
+    "father": "1993_francisco_ferrando_cartes",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1993_francisco_ferrando_cartes"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Ferrando Cartes",
+      "Josefa Cartes"
+    ],
+    "father_name": "Francisco Ferrando",
+    "mother_name": "Josefa Cartes",
+    "spouse_names": [],
+    "children_names": [
+      "Francisco Ferrando Cartes"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1824].\n\nDefunció: el 23 d'octubre de 1834 a la Ràpita. Va morir als 10 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

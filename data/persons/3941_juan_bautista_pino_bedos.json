@@ -1,0 +1,73 @@
+{
+  "id": "3941_juan_bautista_pino_bedos",
+  "source_id": "3941",
+  "row_ref": "3941. Juan Bautista Pino Bedós",
+  "name": "Juan Bautista Pino Bedós",
+  "gender": "male",
+  "birth": {
+    "date": "1837-03-27",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3935_victorio_pino_aliau"
+    ],
+    "father": "3935_victorio_pino_aliau",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Victorio Pino Aliau",
+      "Maria Ana Bedós Rullo"
+    ],
+    "father_name": "Victorio Pino Aliau",
+    "mother_name": "Maria Ana Bedós Rullo",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Bautista Tomás",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 27 de març de 1837 a la Ràpita.\n\nPadrins: Juan Bautista Tomás i María Ana Beltri.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

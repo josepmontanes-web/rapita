@@ -1,0 +1,88 @@
+{
+  "id": "2569_salvador_giner_ferran",
+  "source_id": "2569",
+  "row_ref": "2569. Salvador Giner Ferrán",
+  "name": "Salvador Giner Ferrán",
+  "gender": "male",
+  "birth": {
+    "date": "1765-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2578_isabel_giner_hernandez",
+      "2579_tomas_giner_hernandez",
+      "2580_jose_giner_hernandez",
+      "2582_francisco_giner_hernandez",
+      "2583_mariana_giner_arnandes",
+      "2584_agustin_pedro_giner_hernandez"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Giner",
+      "Josefa Ferrán"
+    ],
+    "father_name": "Antonio Giner",
+    "mother_name": "Josefa Ferrán",
+    "spouse_names": [
+      "Rosa Hernández Pla",
+      "Jeronima Cervera Fort"
+    ],
+    "children_names": [
+      "Isabel Giner Hernández",
+      "Tomás Giner Hernández",
+      "José Giner Hernández",
+      "Francisco Giner Hernández",
+      "Mariana Giner Arnandes",
+      "Agustín Pedro Giner Hernández"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1765].\n\nProfessió: pagès.\n\nCasament: amb Rosa Hernández [o Arlández] Pla de Tortosa [1768].\n\nFills: Isabel (Amposta) [1789], Tomás [1790], José [1793], Agustín Pedro [1796], Francisco [1799], Joaquín [1802] i Mariana [1803].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu al carrer davant el canal i l'horta  (ACA BGRP Cajas 34).\n\nCasament: el 6 de novembre de 1816 amb Jerónima Cervera Fort de la Torre del Conde (Zaragoza) [1775].\n\nEs germà de José Antonio Giner Ferran [1760].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

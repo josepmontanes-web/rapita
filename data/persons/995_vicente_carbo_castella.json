@@ -1,0 +1,73 @@
+{
+  "id": "995_vicente_carbo_castella",
+  "source_id": "995",
+  "row_ref": "995. Vicente Carbó Castellà",
+  "name": "Vicente Carbó Castellà",
+  "gender": "male",
+  "birth": {
+    "date": "1814-08-31",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1816-08-09",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1247_teresa_castella_dalmau"
+    ],
+    "father": null,
+    "mother": "1247_teresa_castella_dalmau",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Feliz Carbó Cartes",
+      "Teresa Castellà Dalmau"
+    ],
+    "father_name": "Feliz Carbó Cartes",
+    "mother_name": "Teresa Castellà Dalmau",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Vicente Gombau",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 31 d'agost de 1814 a la Ràpita.\n\nPadrins: Vicente Gombau i Josefa Dalmau.\n\nDefunció: el 9 d'agost de 1816 a la Ràpita. Va morir de \"enf. corzos\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "1539_jacinto_clua_vidal",
+  "source_id": "1539",
+  "row_ref": "1539. Jacinto Clua Vidal",
+  "name": "Jacinto Clua Vidal",
+  "gender": "male",
+  "birth": {
+    "date": "1820-03-14",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1517_jose_clua_cid"
+    ],
+    "father": "1517_jose_clua_cid",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Clua Cid",
+      "Francisca Vidal Sastre"
+    ],
+    "father_name": "José Clua Cid",
+    "mother_name": "Francisca Vidal Sastre",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Jacinto Vidal",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 14 de març de 1820 a la Ràpita.\n\nPadrins: Jacinto Vidal i Francisca Borrell.\n\nProfessió: pagès.\n\nCasament: amb Rosa Llaó [o Monllaó] de Tortosa.\n\nFills: Ramona [1855], Agustina [1857] i Cinta [1860].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

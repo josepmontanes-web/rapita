@@ -1,0 +1,74 @@
+{
+  "id": "2631_juan_francisco_gombau_castella",
+  "source_id": "2631",
+  "row_ref": "2631. Juan Francisco Gombau Castellà",
+  "name": "Juan Francisco Gombau Castellà",
+  "gender": "male",
+  "birth": {
+    "date": "1836-11-03",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2643_vicente_gombau_ortiz",
+      "1247_teresa_castella_dalmau"
+    ],
+    "father": "2643_vicente_gombau_ortiz",
+    "mother": "1247_teresa_castella_dalmau",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Gombau Ortiz",
+      "Teresa Castellà Dalmau"
+    ],
+    "father_name": "Vicente Gombau Ortiz",
+    "mother_name": "Teresa Castellà Dalmau",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Moya",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 3 de novembre de 1836 a la Ràpita.\n\nPadrins: Juan Moya i Vicenta Macián.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

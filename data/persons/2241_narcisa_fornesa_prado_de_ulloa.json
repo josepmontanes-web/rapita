@@ -1,0 +1,73 @@
+{
+  "id": "2241_narcisa_fornesa_prado_de_ulloa",
+  "source_id": "2241",
+  "row_ref": "2241. Narcisa Fornesa Prado de Ulloa",
+  "name": "Narcisa Fornesa Prado de Ulloa",
+  "gender": "female",
+  "birth": {
+    "date": "1792-10-11",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4031_ventura_prado_de_ulloa_munoz"
+    ],
+    "father": null,
+    "mother": "4031_ventura_prado_de_ulloa_munoz",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "D. Agustín Fornesa Orri",
+      "Ventura Prado de Ulloa Muñoz"
+    ],
+    "father_name": "D. Agustín Fornesa Orri",
+    "mother_name": "Ventura Prado de Ulloa Muñoz",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Pedro Clarós",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'11 d'octubre de 1792 a la Ràpita.\n\nPadrí: Don Pedro Clarós.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "2289_vicenta_garcia",
+  "source_id": "2289",
+  "row_ref": "2289. Vicenta García",
+  "name": "Vicenta García",
+  "gender": "female",
+  "birth": {
+    "date": "1775-01-01",
+    "place": "Vinaròs"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "2956_pedro_llorens"
+    ],
+    "children": [
+      "2965_manuela_llorens_garcia",
+      "2966_maria_rosa_llorens_garcia",
+      "2967_bautista_llorens_garcia",
+      "2968_vicenta_llorens_garcia"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Pedro Llorens"
+    ],
+    "children_names": [
+      "Manuela Llorens García",
+      "Maria Rosa Llorens García",
+      "Bautista Llorens García",
+      "Vicenta Llorens García"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1775].\n\nCasament: amb Pedro Llorens de València [1769].\n\nFills: Manuela (Vandellòs) [1796], María Rosa (El Perelló) [1800], Bautista (El Perelló) [1800] i Vicenta (Cambrils) [1813].\n\nPodria ser Vicenta García Arbós [1781], però no es segur.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

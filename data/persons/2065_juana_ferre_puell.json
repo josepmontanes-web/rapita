@@ -1,0 +1,68 @@
+{
+  "id": "2065_juana_ferre_puell",
+  "source_id": "2065",
+  "row_ref": "2065. Juana Ferré Puell",
+  "name": "Juana Ferré Puell",
+  "gender": "female",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Santa Bàrbara"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Santa Bàrbara [aprox. 1800].\n\nCasament: amb Ramón Juan de Vinaròs.\n\nFills: Ramón, Teresa, Juana i Miguel.\n\nCasament: amb Bautista Queral d'Alcanar.\n\nFills: Bautista.\n\nDefunció: el 6 d'octubre de 1879 a la Ràpita als 80 anys de \"intermitentes\". Declara la defunció el seu fill Miguel Juan d'Alcanar de 37 anys i panader. Sap escriure i signa la declaració.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

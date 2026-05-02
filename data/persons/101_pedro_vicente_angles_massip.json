@@ -1,0 +1,71 @@
+{
+  "id": "101_pedro_vicente_angles_massip",
+  "source_id": "101",
+  "row_ref": "101. Pedro Vicente Anglés Massip",
+  "name": "Pedro Vicente Anglés Massip",
+  "gender": "male",
+  "birth": {
+    "date": "1823-08-03",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Anglés Ferrando",
+      "Rita Massip Prades"
+    ],
+    "father_name": "Vicente Anglés Ferrando",
+    "mother_name": "Rita Massip Prades",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Pedro Aspardus",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 3 d'agost de 1823 a la Ràpita.\n\nPadrins: Pedro Aspardus i Rita Massip.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

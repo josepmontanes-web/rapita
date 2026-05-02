@@ -1,0 +1,79 @@
+{
+  "id": "2636_domingo_gombau_marsal",
+  "source_id": "2636",
+  "row_ref": "2636. Domingo Gombau Marsal",
+  "name": "Domingo Gombau Marsal",
+  "gender": "male",
+  "birth": {
+    "date": "1825-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3578_vicenta_munoz_vidal"
+    ],
+    "children": [
+      "2637_felipe_gombau_marsal"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Domingo Gombau",
+      "Maria Marsal"
+    ],
+    "father_name": "Domingo Gombau",
+    "mother_name": "Maria Marsal",
+    "spouse_names": [
+      "Vicenta Muñoz Vidal"
+    ],
+    "children_names": [
+      "Felipe Gombau Marsal"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pescador"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1825].\n\nProfessió: pescador.\n\nCasament: el 20 d'agost de 1853 amb Vicenta Muñóz Vidal [1826]. Es casa als 28 anys. Testimonis: José Vidal i Ramón Sancho.\n\nFills: Juan i Domingo [1858].\n\nEs germà de Felipe Gombau Marsal [1820].\n\nCasament: amb : Maria Rosell de Tortosa de 46 anys.\n\nDefunció: el 20 de desembre de 1879 a la Ràpita als 55 anys de \"un sincope\". A la mor diu que el pare es Felipe.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

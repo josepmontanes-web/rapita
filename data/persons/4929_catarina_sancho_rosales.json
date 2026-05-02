@@ -1,0 +1,71 @@
+{
+  "id": "4929_catarina_sancho_rosales",
+  "source_id": "4929",
+  "row_ref": "4929. Catarina Sancho Rosales",
+  "name": "Catarina Sancho Rosales",
+  "gender": "female",
+  "birth": {
+    "date": "1842-08-23",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Sancho Bort",
+      "Francisca Rosales Juñent"
+    ],
+    "father_name": "Juan Sancho Bort",
+    "mother_name": "Francisca Rosales Juñent",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Sancho",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 23 d'agost de 1842 a la Ràpita.\n\nPadrins: José Sancho i Catarina Juñent (iaios).\n\nCasament: amb Antonio Roiget.\n\nCasament: l'11 de novembre de 1876 amb José Boria Sancho d'Alcanar [1853].\n\nFills: José Tomás [1877], José María [1879] i Vicente [1880].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

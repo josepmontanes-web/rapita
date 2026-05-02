@@ -1,0 +1,91 @@
+{
+  "id": "5535_francisco_vidal_palos",
+  "source_id": "5535",
+  "row_ref": "5535. Francisco Vidal Palos",
+  "name": "Francisco Vidal Palos",
+  "gender": "male",
+  "birth": {
+    "date": "1765-01-01",
+    "place": "Ulldecona"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "637_juana_beltran_sancho"
+    ],
+    "children": [
+      "3780_josefa_palos_viscarri",
+      "5500_francisco_vidal_beltran",
+      "5501_francisco_antonio_joseph_vidal_beltran",
+      "5502_juan_vidal_beltran",
+      "5503_madalena_vidal_beltran",
+      "5504_francisco_antonio_vidal_beltran",
+      "5505_jose_antonio_vidal_beltran"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Vidal",
+      "Rita Palos"
+    ],
+    "father_name": "José Vidal",
+    "mother_name": "Rita Palos",
+    "spouse_names": [
+      "Juana Beltran Sancho"
+    ],
+    "children_names": [
+      "Josefa Palos Viscarri",
+      "Francisco Vidal Beltran",
+      "Francisco Antonio Joseph Vidal Beltran",
+      "Juan Vidal Beltran",
+      "Madalena Vidal Beltran",
+      "Francisco Antonio Vidal Beltran",
+      "José Antonio Vidal Beltran"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Ulldecona [aprox. 1765].\n\nProfessió: pagès.\n\nCasament: amb Juana Beltran Sancho d'Alcanar [1767].\n\nFills: Francisco (Alcanar) [1784], Madalena [1796], Francisco Antonio Joseph [1805], Francisco Antonio [1807], José Antonio [1809] i Juan (Alcanar) [1810].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

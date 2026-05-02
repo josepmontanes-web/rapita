@@ -1,0 +1,73 @@
+{
+  "id": "5065_josefa_segarra_guardia",
+  "source_id": "5065",
+  "row_ref": "5065. Josefa Segarra Guardia",
+  "name": "Josefa Segarra Guardia",
+  "gender": "female",
+  "birth": {
+    "date": "1847-10-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1847-11-26",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5074_manuel_segarra_puchol"
+    ],
+    "father": "5074_manuel_segarra_puchol",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel Segarra Puchol",
+      "Josefa Guardia"
+    ],
+    "father_name": "Manuel Segarra",
+    "mother_name": "Josefa Guardia",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1847]. \n\nDefunció: el 26 de novembre de 1847 a la Ràpita. Va morir als 2 mesos.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

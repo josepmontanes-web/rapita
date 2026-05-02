@@ -1,0 +1,74 @@
+{
+  "id": "2149_balbino_fibla_sancho",
+  "source_id": "2149",
+  "row_ref": "2149. Balbino Fibla Sancho",
+  "name": "Balbino Fibla Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1833-03-30",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1833-12-06",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2138_juan_fibla_querol",
+      "4944_paula_sancho_subirats"
+    ],
+    "father": "2138_juan_fibla_querol",
+    "mother": "4944_paula_sancho_subirats",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Fibla Querol",
+      "Paula Sancho Subirats"
+    ],
+    "father_name": "Juan Fibla Querol",
+    "mother_name": "Paula Sancho Subirats",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Sebastián Sancho",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 30 de març de 1833 a la Ràpita.\n\nPadrins: Sebastián Sancho i María Reverter.\n\nDefunció: el 6 de desembre de 1833 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

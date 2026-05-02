@@ -1,0 +1,71 @@
+{
+  "id": "1901_rafaela_fabra_biosca",
+  "source_id": "1901",
+  "row_ref": "1901. Rafaela Fabra Biosca",
+  "name": "Rafaela Fabra Biosca",
+  "gender": "female",
+  "birth": {
+    "date": "1823-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1834-10-27",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Fabra",
+      "Paula Biosca"
+    ],
+    "father_name": "Miguel Fabra",
+    "mother_name": "Paula Biosca",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1823].\n\nDefunció: el 27 d'octubre de 1834 a la Ràpita. Va morir als 11 anys i va ser enterrada el mateix dia.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "4016_josefa_maria_pontia_font",
+  "source_id": "4016",
+  "row_ref": "4016. Josefa María Pontia Font",
+  "name": "Josefa María Pontia Font",
+  "gender": "female",
+  "birth": {
+    "date": "1771-01-01",
+    "place": "Benicarló"
+  },
+  "death": {
+    "date": "1803-09-26",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pablo Pontia",
+      "Rosalia Font"
+    ],
+    "father_name": "Pablo Pontia",
+    "mother_name": "Rosalia Font",
+    "spouse_names": [
+      "Miguel Jayme"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Comerciant"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Benicarló [aprox. 1770]. \n\nProfessió: comerciant.\n\nCasament: amb Miguel Jayme.\n\nDefunció: el 26 de setembre de 1803 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

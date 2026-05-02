@@ -1,0 +1,79 @@
+{
+  "id": "2568_jose_antonio_giner_ferran",
+  "source_id": "2568",
+  "row_ref": "2568. José Antonio Giner Ferrán",
+  "name": "José Antonio Giner Ferrán",
+  "gender": "male",
+  "birth": {
+    "date": "1760-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "881_maria_budesca_fibla"
+    ],
+    "children": [
+      "1797_38_1800"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Giner",
+      "Josefa Ferrán"
+    ],
+    "father_name": "Antonio Giner",
+    "mother_name": "Josefa Ferrán",
+    "spouse_names": [
+      "María Budesca Fibla"
+    ],
+    "children_names": [
+      "38 1800"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Albañil"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1760].\n\nProfessió: \"Albañil\".\n\nAl febrer de 1784 treballa de paleta a una brigada de treballadors de les obres del Canal de Navegació (ACA BGRP caixa 47).\n\nAl 8 de juny de 1786 el contracten per a fer una casa per compte del Rei al costat de la de Guindulain juntament amb Antonio Rosales, Juan Bautista Moya i Juan Moya. Firma Juan Moya per comptes dels altres per que diu que no saben escriure. (ACA BGRP Correspondecia Caixa 8).\n\n16.7.1788 Quedará en la presente semana concluidas las cavallerizas aunque podrá suceder que les quedara algo que hacer por lo que respecta al brocal del pozo y latrina. Luedo pasarán estos trabajadores a la continuación de la casa nº 6 anexa a la misma fonda, que son dos albañiles, Moya el mayor, Gené y genoba los dias que no se ocupa en la Balija.(ACA BGRP caixa 13).\n\nCasament: amb María Budesca Fibla d'Alcanar [1761].\n\nFills: José Antonio (Alcanar) [1790], Nicolás [1791], Antonia Francisca [1794], María Bárbara [1798] i Manuela [1802].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Mansana Vella (carrer del Forn) núm. 23 (ACA BGRP Cajas 34). Al gener de 1799 paga un lloguer de 8 Rv per la mateixa casa.\n\nEs germà de Salvador Giner Ferran [1765].\n\n1785-1793 44. Autos formados en la nueva población de San Carlos por Josep Martorell, Juez Subdelegado de las Reales Obras, a instancia de José Giner, albañil, contra Miguel Ricart, guarda almacén de las obras. \nSembla que Ricart fa poposicions a la dona de Giner. Quan auesta li diu que no, li dona una bufetda que la fa caure enterra i li fa sang a la boca\n“Jo non sou com la sua dona” (ACA Caixa 54).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

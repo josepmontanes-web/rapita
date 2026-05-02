@@ -1,0 +1,86 @@
+{
+  "id": "4853_pedro_sancho_biosca",
+  "source_id": "4853",
+  "row_ref": "4853. Pedro Sancho Biosca",
+  "name": "Pedro Sancho Biosca",
+  "gender": "male",
+  "birth": {
+    "date": "1775-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1820-11-10",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4899_joaquin_sancho_matamoros",
+      "704_josefa_maria_biosca"
+    ],
+    "father": "4899_joaquin_sancho_matamoros",
+    "mother": "704_josefa_maria_biosca",
+    "spouse": [
+      "3990_tomasa_pla_sancho"
+    ],
+    "children": [
+      "4907_ana_raymunda_sancho_pla",
+      "4908_francisca_sancho_pla",
+      "4909_tomasa_sancho_pla"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Sancho Matamoros",
+      "Josefa María Biosca"
+    ],
+    "father_name": "Joaquín Sancho Matamoros",
+    "mother_name": "Josefa Maria Biosca",
+    "spouse_names": [
+      "Tomasa Pla Sancho"
+    ],
+    "children_names": [
+      "Ana Raymunda Sancho Pla",
+      "Francisca Sancho Pla",
+      "Tomasa Sancho Pla"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1775]. \n\nProfessió: pagès.\n\nCasament: amb Tomasa Pla Sancho d'Alcanar [1776].\n\nFills: Raymunda [1803], Francisca [1805] i Tomasa [1805].\n\nDefunció: el 10 de novembre de 1820 a la Ràpita. Va morir als 45 anys de \"un ataque que le dio al celebro\". No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

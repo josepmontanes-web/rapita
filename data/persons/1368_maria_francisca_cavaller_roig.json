@@ -1,0 +1,79 @@
+{
+  "id": "1368_maria_francisca_cavaller_roig",
+  "source_id": "1368",
+  "row_ref": "1368. María Francisca Cavaller Roig",
+  "name": "María Francisca Cavaller Roig",
+  "gender": "female",
+  "birth": {
+    "date": "1766-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1846-11-28",
+    "place": null
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1360_francisco_cavaller"
+    ],
+    "father": "1360_francisco_cavaller",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1797_38_1800"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Cavaller",
+      "Ana Roig"
+    ],
+    "father_name": "Francisco Cavaller",
+    "mother_name": "Ana Roig",
+    "spouse_names": [
+      "Tomás Hernández Pla"
+    ],
+    "children_names": [
+      "38 1800"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1766].\n\nCasament: amb Tomás Hernández [o Arlández] Pla de Tortosa [1768].\n\nFills: Vicente [1792], María [1795], Rosa (Salines dels Alfacs [aprox 1797], Antonia [1800], Teresa [1805] i Isabel [1808].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu al carrer davant el canal i l'horta  (ACA BGRP Cajas 34).\n\nDefunció: el 28 de novembre de 1846 a la Ràpita. Va morir als 80 anys de \"mal de pecho\". No va fer testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

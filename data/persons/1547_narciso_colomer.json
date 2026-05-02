@@ -1,0 +1,68 @@
+{
+  "id": "1547_narciso_colomer",
+  "source_id": "1547",
+  "row_ref": "1547. Narciso Colomer",
+  "name": "Narciso Colomer",
+  "gender": "male",
+  "birth": {
+    "date": "1810-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Establecimiento: a D. Agustín Goday (Solà), propietario, solar para edificar 2200 palmos catalanes cuadrados en la calle de Rampar lindante con dicha calle y por los demás lados con la bajada de la marina, con la pla… y con terreno de D. Narciso Colomer. 7 de setiembre de 1857. Valor 516.\n\nEstablecimiento: a Narciso Colomer, solar para edificar de 1240 palmos cuadrados lindante con la rampa o bajada de San Miguel, con la calle bajada a la marina, con terreno concedido a Tomás Borrás y con terreno Realengo. 29 de septiembre de 1857. Valor 527.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

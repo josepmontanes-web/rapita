@@ -1,0 +1,74 @@
+{
+  "id": "1604_antonia_conesa",
+  "source_id": "1604",
+  "row_ref": "1604. Antonia Conesa",
+  "name": "Antonia Conesa",
+  "gender": "female",
+  "birth": {
+    "date": "1770-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1797_38_1800"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Josef Agramunt"
+    ],
+    "children_names": [
+      "38 1800"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1770].\n\nCasament: el 12 de juny de 1791 amb José Agramunt [1760]. \n\nTenen un fill que mor poc després de néixer el 3 de juliol de 1791 a la Ràpita. Els padrins d'aquest fill son Don José Mariño i María Balada.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

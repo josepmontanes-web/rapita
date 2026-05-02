@@ -1,0 +1,68 @@
+{
+  "id": "4150_bartolome_rams_de_jose",
+  "source_id": "4150",
+  "row_ref": "4150. Bartolomé Rams de José",
+  "name": "Bartolomé Rams de José",
+  "gender": "male",
+  "birth": {
+    "date": "1768-01-01",
+    "place": "Lugar Nuevo(*)(València)"
+  },
+  "death": {
+    "date": "1823-01-21",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Mariner"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: al Lugar Nuevo del Cañamelar (València) [aprox. 1768]. \n\nProfessió: mariner.\n\nDefunció: el 21 de gener de 1823 a la Ràpita. Va morir als 55 anys. \"Marinero de la matricula de Valéncia de la clase de … según la papeleta que se me ha presentado\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

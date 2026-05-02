@@ -1,0 +1,76 @@
+{
+  "id": "4532_juan_rosales_junyent",
+  "source_id": "4532",
+  "row_ref": "4532. Juan Rosales Junyent",
+  "name": "Juan Rosales Junyent",
+  "gender": "male",
+  "birth": {
+    "date": "1815-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4555_miguel_rosales_valls",
+      "2903_catarina_junyent_llao"
+    ],
+    "father": "4555_miguel_rosales_valls",
+    "mother": "2903_catarina_junyent_llao",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Rosales Valls",
+      "Catarina Junyent Llaó"
+    ],
+    "father_name": "Miguel Rosales Valls",
+    "mother_name": "Catarina Junyent Llaó",
+    "spouse_names": [
+      "Josefa Solà Morales"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1815]. \n\nCasament: amb Josefa Solà Morales d'Amposta, filla de Tomás i Madalena també d'Amposta.\n\nFills: Valentina Eusebia [1842] i Micaela [1845].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

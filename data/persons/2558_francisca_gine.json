@@ -1,0 +1,77 @@
+{
+  "id": "2558_francisca_gine",
+  "source_id": "2558",
+  "row_ref": "2558. Francisca Giné",
+  "name": "Francisca Giné",
+  "gender": "female",
+  "birth": {
+    "date": "1775-01-01",
+    "place": "Solsona"
+  },
+  "death": {
+    "date": "1800-10-07",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1402_alexandra_matilda_chaire_gine"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Giné",
+      "Rosa Giné"
+    ],
+    "father_name": "Antonio Giné",
+    "mother_name": "Rosa Giné",
+    "spouse_names": [
+      "Juan Chire"
+    ],
+    "children_names": [
+      "Alexandra Matilda Chaire Gine"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Solsona [aprox. 1775].\n\nCasament: amb Juan Chiré soldat suís.\n\nDefunció: el 7 d'octubre de 1800 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

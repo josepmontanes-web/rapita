@@ -1,0 +1,85 @@
+{
+  "id": "4975_juan_sans_castell",
+  "source_id": "4975",
+  "row_ref": "4975. Juan Sans Castell",
+  "name": "Juan Sans Castell",
+  "gender": "male",
+  "birth": {
+    "date": "1792-02-05",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1152_mariana_castell_ortiz"
+    ],
+    "father": null,
+    "mother": "1152_mariana_castell_ortiz",
+    "spouse": [],
+    "children": [
+      "4959_jose_juan_sanz_arlandes",
+      "4960_miguel_juan_sans_harlandes",
+      "4961_tomas_sans_arlandes",
+      "4962_agustina_josefa_sans_hernandez"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Sans Sanarau",
+      "Mariana Castell Ortíz"
+    ],
+    "father_name": "Josef Sans Sanarau",
+    "mother_name": "Mariana Castell Ortiz",
+    "spouse_names": [
+      "Maria Hernández Cavaller"
+    ],
+    "children_names": [
+      "José Juan Sanz Arlandes",
+      "Miguel Juan Sans Harlandes",
+      "Tomás Sans Arlandes",
+      "Agustina Josefa Sans Hernández"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Juan Espinosa",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 5 de febrer de 1792 a la Ràpita.\n\nPadrins: Don Juan Espinosa i Teresa Matamoros.\n\nProfessió: pagès.\n\nCasament: el 28 de març de 1815 amb María Hernández [o Arlández] Cavaller de la Ràpita [1795].\n\nFills: José [1816], Josefa [1819], Miguel [1822], Tomás [1825], Vicenta [1829], Casiano [1832] i Francisco [1835].\n\nDefunció: el 10 de març de 1879 a la Ràpita de \"bronquitis\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

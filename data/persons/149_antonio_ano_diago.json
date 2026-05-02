@@ -1,0 +1,74 @@
+{
+  "id": "149_antonio_ano_diago",
+  "source_id": "149",
+  "row_ref": "149. Antonio Añó Diago",
+  "name": "Antonio Añó Diago",
+  "gender": "male",
+  "birth": {
+    "date": "1834-01-16",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "143_jayme_ano_arlandez",
+      "1722_basilia_diago_gras"
+    ],
+    "father": "143_jayme_ano_arlandez",
+    "mother": "1722_basilia_diago_gras",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Jayme Añó Arlández",
+      "Basilia Diago Gras"
+    ],
+    "father_name": "Jayme Añó Arlández",
+    "mother_name": "Basilia Diago Gras",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Balanzá",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  el 16 de gener de 1834 a la Ràpita.\n\nEls padrins son José Balanzá Comes de Benicarló i Joaquina Sans Fabregat.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

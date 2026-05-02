@@ -1,0 +1,68 @@
+{
+  "id": "2019_pascual_ferre_company",
+  "source_id": "2019",
+  "row_ref": "2019. Pascual Ferré Company",
+  "name": "Pascual Ferré Company",
+  "gender": "male",
+  "birth": {
+    "date": "1856-01-01",
+    "place": "Sueca (València)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Sueca (València) [aprox. 1856].\n\nProfessió: mariner.\n\nCasament: amb Teresa Estellé Nofre d'Amposta [1854].\n\nFills: José [1880].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

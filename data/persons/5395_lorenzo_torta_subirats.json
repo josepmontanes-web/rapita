@@ -1,0 +1,82 @@
+{
+  "id": "5395_lorenzo_torta_subirats",
+  "source_id": "5395",
+  "row_ref": "5395. Lorenzo Torta Subirats",
+  "name": "Lorenzo Torta Subirats",
+  "gender": "male",
+  "birth": {
+    "date": "1815-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5389_juan_torta_sole",
+      "5191_teresa_subirats_fabregat"
+    ],
+    "father": "5389_juan_torta_sole",
+    "mother": "5191_teresa_subirats_fabregat",
+    "spouse": [],
+    "children": [
+      "5378_jose_torta_reverter",
+      "5379_miguel_torta_reverte"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Torta Solé",
+      "Teresa Subirats Fabregat"
+    ],
+    "father_name": "Juan Torta Solé",
+    "mother_name": "Teresa Subirats Fabregat",
+    "spouse_names": [
+      "Rafaela Reverter Joani"
+    ],
+    "children_names": [
+      "José Torta Reverter",
+      "Miguel Torta Reverté"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1815].\n\nCasament: el 29 de gener de 1840 amb Rafaela Reverter Joaní [o Jovani] de la Ràpita [1821].\n\nFills: José [1841], Sebastián [1843], Miguel [1844], Vicente [1851], Dolores [1855] i Agustín [1862].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "4858_ramon_sancho_borrell",
+  "source_id": "4858",
+  "row_ref": "4858. Ramón Sancho Borrell",
+  "name": "Ramón Sancho Borrell",
+  "gender": "male",
+  "birth": {
+    "date": "1880-10-10",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 10 d'octubre de 1880 a la Ràpita. El pare té 30 anys, es fuster i signa la declaració al registre, la mare en té 21.\n\nDefunció: el 28 d'octubre de 1880 a la Ràpita als 18 dies de \"asma fimico\". El seu pare té 30 anys i es fuster. Declara la mor la seua tia Agustina Balada de 25 anys, casada.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

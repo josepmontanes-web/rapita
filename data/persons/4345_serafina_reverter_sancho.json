@@ -1,0 +1,86 @@
+{
+  "id": "4345_serafina_reverter_sancho",
+  "source_id": "4345",
+  "row_ref": "4345. Serafina Reverter Sancho",
+  "name": "Serafina Reverter Sancho",
+  "gender": "female",
+  "birth": {
+    "date": "1791-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1847-10-20",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4173_jose_reverter",
+      "4825_rosa_sancho"
+    ],
+    "father": "4173_jose_reverter",
+    "mother": "4825_rosa_sancho",
+    "spouse": [
+      "977_tomas_capilla_macian"
+    ],
+    "children": [
+      "980_jose_capilla_reverte",
+      "981_juan_bautista_capilla_reverte",
+      "982_tomas_capilla_reverter"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Reverter",
+      "Rosa Sancho"
+    ],
+    "father_name": "José Reverter",
+    "mother_name": "Rosa Sancho",
+    "spouse_names": [
+      "Tomas Capilla Macián"
+    ],
+    "children_names": [
+      "José Capilla Reverté",
+      "Juan Bautista Capilla Reverté",
+      "Tomás Capilla Reverter"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1791]. \n\nCasament: el 26 de novembre de 1817 amb Tomás Capilla Macián de Canales de Bejís (Castelló) [1790]. Es casa als 26 anys.\n\nFills: Tomás [1825], José Juan [1826] i Juan Bautista [1829].\n\nDefunció: el 20 d'octubre de 1847 a la Ràpita. Va morir als 53 anys. Va testar davant de V. Sabater.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

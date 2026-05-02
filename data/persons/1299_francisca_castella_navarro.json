@@ -1,0 +1,74 @@
+{
+  "id": "1299_francisca_castella_navarro",
+  "source_id": "1299",
+  "row_ref": "1299. Francisca Castellà Navarro",
+  "name": "Francisca Castellà Navarro",
+  "gender": "female",
+  "birth": {
+    "date": "1837-05-31",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1169_bautista_castella_alegret",
+      "3625_esperanza_navarro_comi"
+    ],
+    "father": "1169_bautista_castella_alegret",
+    "mother": "3625_esperanza_navarro_comi",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Castellà Alegret",
+      "Esperanza Navarro Comí"
+    ],
+    "father_name": "Bautista Castellà Colomines",
+    "mother_name": "Esperanza Navarro Comí",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Benito Cera",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 31 de maig de 1837 a la Ràpita.\n\nPadrins: Benito Cera i Francisca Carbó.\n\nCasament: amb Juan Bel Baima de la Ràpita [1838].\n\nFills: Francisca [1860], Carmen [1860], Angelina [1860]i Juan [1860].\n\nDefunció: el 6 de juny de 1879 a la Ràpita de \"una pustula maligna\". Diu que té 34 anys però en té 42. Declara la mor la seua neboda Teresa Castellà que sap escriure i signa.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

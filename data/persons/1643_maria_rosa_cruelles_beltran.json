@@ -1,0 +1,74 @@
+{
+  "id": "1643_maria_rosa_cruelles_beltran",
+  "source_id": "1643",
+  "row_ref": "1643. Maria Rosa Cruelles Beltran",
+  "name": "Maria Rosa Cruelles Beltran",
+  "gender": "female",
+  "birth": {
+    "date": "1842-07-07",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1843-04-27",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1656_cipriano_cruelles_reverter",
+      "609_manuela_beltran_ferrer"
+    ],
+    "father": "1656_cipriano_cruelles_reverter",
+    "mother": "609_manuela_beltran_ferrer",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Cipriano Cruelles Reverter",
+      "Manuela Beltran Ferrer"
+    ],
+    "father_name": "Cipriano Cruelles Reverter",
+    "mother_name": "Manuela Beltran Ferrer",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Pepiol",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 7 de juliol de 1842 a la Ràpita.\n\nPadrins: Juan Pepiol i Rosa Chimeno.\n\nDefunció: el 27 d'abril de 1843 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "1466_concepcion_chiscas_tallada",
+  "source_id": "1466",
+  "row_ref": "1466. Concepción Chiscás Tallada",
+  "name": "Concepción Chiscás Tallada",
+  "gender": "female",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1465_josef_chiscas",
+      "5264_vicenta_tallada"
+    ],
+    "father": "1465_josef_chiscas",
+    "mother": "5264_vicenta_tallada",
+    "spouse": [],
+    "children": [
+      "2850_manuela_izquierdo_chiscas",
+      "2851_agustina_izquierdo_chiscas"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Chiscás",
+      "Vicenta Tallada"
+    ],
+    "father_name": "Josef Chiscás",
+    "mother_name": "Vicenta Tallada",
+    "spouse_names": [
+      "José Antonio Izquierdo Saperes"
+    ],
+    "children_names": [
+      "Manuela Izquierdo Chiscas",
+      "Agustina Izquierdo Chiscas"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1800].\n\nCasament: el 24 de juliol de 1821 amb José Antonio Izquierdo Saperes de la Ràpita [1789].\n\nFills: Manuela [1822], Agustina [1824], José Francisco [1827], María de la Cinta [1830], Felipe [1832] i Manuel Antonio [1835].\n\nCasament: amb Victorio Pino Aliau de Tortosa [1805].\n\nFills: Amalia [1844].\n\nCasament: amb Juan Safont Fabregat de la Ràpita [1801].\n\nDefunció: al 1882. Vivia al carrer Sant Rafel.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

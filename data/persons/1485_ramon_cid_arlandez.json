@@ -1,0 +1,76 @@
+{
+  "id": "1485_ramon_cid_arlandez",
+  "source_id": "1485",
+  "row_ref": "1485. Ramón Cid Arlández",
+  "name": "Ramón Cid Arlández",
+  "gender": "male",
+  "birth": {
+    "date": "1835-03-18",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1496_francisco_cid_ferrer",
+      "239_teresa_arlandez_cartes"
+    ],
+    "father": "1496_francisco_cid_ferrer",
+    "mother": "239_teresa_arlandez_cartes",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Cid Ferrer",
+      "Teresa Arlández Cartes"
+    ],
+    "father_name": "Francisco Cid Ferrer",
+    "mother_name": "Teresa Arlández Cartes",
+    "spouse_names": [
+      "Simona Arbí Tomás"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Ramón Crusat",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "jornaler"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 18 de març de 1835 a la Ràpita.\n\nPadrins: Don Ramón Crusat i Manuela Beltran.\n\nProfessió: jornaler , i \"tratante de pescado\".\n\nCasament: el 23 de maig de 1855 amb Simona Arbó Tomás de la Ràpita [1833]. Testimonis: Agustín Reverté i José Reverté.\n\nFills: Teresa [1856], Ramona [1860], Cinta [1860], José [1865], Providencia [1865] i Ramon [1870].\n\nDefunció: el 23 de gener de 1879 a la Ràpita de \"un reblandecimiento cerebral\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

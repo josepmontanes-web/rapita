@@ -1,0 +1,98 @@
+{
+  "id": "1971_nicolas_fatsini_pons",
+  "source_id": "1971",
+  "row_ref": "1971. Nicolás Fatsini Pons",
+  "name": "Nicolás Fatsini Pons",
+  "gender": "male",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1960_vicente_faccini_marjet",
+      "3999_maria_pons_bullon"
+    ],
+    "father": "1960_vicente_faccini_marjet",
+    "mother": "3999_maria_pons_bullon",
+    "spouse": [
+      "1442_tomasa_chillida_querol"
+    ],
+    "children": [
+      "1962_maria_de_la_cinta_facsini_chillida",
+      "1963_francisco_ramon_facsini_chillida",
+      "1964_maria_francisca_fatsini_chillida",
+      "1965_candido_faxini_chillida",
+      "1966_rosa_josefa_faxini_chillida",
+      "1967_juan_de_la_cruz_faxini_chillida",
+      "1968_jose_facsini_chillida",
+      "1969_maria_juana_facsini_chillida",
+      "1970_candida_fatsini_chillida"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Faccini Marjet",
+      "María Pons Bullón"
+    ],
+    "father_name": "Vicente Faccini Marjet",
+    "mother_name": "Maria Pons Bullón",
+    "spouse_names": [
+      "Tomasa Chillida Querol"
+    ],
+    "children_names": [
+      "María de la Cinta Facsini Chillida",
+      "Francisco Ramón Facsini Chillida",
+      "Maria Francisca Fatsini Chillida",
+      "Candido Faxini Chillida",
+      "Rosa Josefa Faxini Chillida",
+      "Juan de la Cruz Faxini Chillida",
+      "José Facsini Chillida",
+      "Maria Juana Facsini Chillida",
+      "Candida Fatsini Chillida"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1810].\n\nEl seu cognom també apareix com a Faxini i Facsini.\n\nProfessió: pagès.\n\nCasament: el 23 de gener de 1828 amb Tomasa Chillida Querol d'Alcanar [1805].\n\nFills: Rosa Josefa [1828], María Francisca [1830], Candida [1830] , Candido [1831], Juan de la Cruz [1833], María de la Cinta [1835], Francisco Ramón [1839], María Juana [1842] i José [1846].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

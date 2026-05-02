@@ -1,0 +1,73 @@
+{
+  "id": "5294_juan_bautista_tomas_rams",
+  "source_id": "5294",
+  "row_ref": "5294. Juan Bautista Tomás Rams",
+  "name": "Juan Bautista Tomás Rams",
+  "gender": "male",
+  "birth": {
+    "date": "1841-07-06",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1845-11-25",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5307_juan_bautista_thomas_vidal"
+    ],
+    "father": "5307_juan_bautista_thomas_vidal",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Bautista Thomas Vidal",
+      "Cinta Rams Puell"
+    ],
+    "father_name": "Juan Bautista Tomás Vidal",
+    "mother_name": "Cinta Rams Puell",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Vicente Muñoz",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 6 de juliol de 1841 a la Ràpita.\n\nPadrins: Vicente Muñóz i Agustina Cera.\n\nDefunció: el 25 de novembre de 1845 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

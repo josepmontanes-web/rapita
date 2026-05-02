@@ -1,0 +1,88 @@
+{
+  "id": "130_jose_antonio_anguera_sancho",
+  "source_id": "130",
+  "row_ref": "130. José Antonio Anguera Sancho",
+  "name": "José Antonio Anguera Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1802-10-08",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "136_agustin_anguera_o_enguera_torres",
+      "4857_pascuala_sancho_bonet"
+    ],
+    "father": "136_agustin_anguera_o_enguera_torres",
+    "mother": "4857_pascuala_sancho_bonet",
+    "spouse": [
+      "4204_vicenta_reverter_balaguer"
+    ],
+    "children": [
+      "118_josefa_anguera_reverter",
+      "119_francisca_anguera_reverter",
+      "120_agustina_anguera_reverter",
+      "121_jose_miguel_anguera_reverter"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustín Anguera [ o Enguera] Torres",
+      "Pascuala Sancho Bonet"
+    ],
+    "father_name": "Agustín Anguera Torres",
+    "mother_name": "Pascuala Sancho Bonet",
+    "spouse_names": [
+      "Vicenta Reverter Balaguer"
+    ],
+    "children_names": [
+      "Josefa Anguera Reverter",
+      "Francisca Anguera Reverter",
+      "Agustina Anguera Reverter",
+      "José Miguel Anguera Reverter"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Josef Forcadell",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  el 8 d'octubre de 1802 a la Ràpita.\n\nEls padrins son els cònjuges José Forcadell Reverter d'Alcanar i Geronima Cervera Font de la Torre del Conde.\n\nCasament: el 16 d'abril de 1831 amb Vicenta Reverter Balaguer de la Ràpita [1810].\n\nFills: Timoteo [1832], Gaspar [1834], Tomasa [1837], Josefa [1839], Francisca [1842], Agustina [1850] i José Miguel [1851].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

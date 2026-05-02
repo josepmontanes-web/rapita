@@ -1,0 +1,73 @@
+{
+  "id": "514_juan_maria_barrera_amit",
+  "source_id": "514",
+  "row_ref": "514. Juan María Barrera Amit",
+  "name": "Juan María Barrera Amit",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "l'Havana"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Hermenegildo de la Barrera",
+      "Catalina Amit"
+    ],
+    "father_name": "Hermenegildo de la Barrera",
+    "mother_name": "Catalina Amit",
+    "spouse_names": [
+      "Doña Nicolasa Castro Ruiz"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "\"Capitán de Puerto\""
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  a l'Havana [aprox. 1800].\n\nEl seu cognom també podría ser Barzena.\n\nProfessió: \"Capitán de Puerto\".\n\nCasament: amb Doña Nicolasa Castro Ruíz filla de Don Bernardino de la Graña (Galicia) i de Doña Juana de Betanzos.\n\nFills: Juan [1820].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

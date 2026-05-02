@@ -1,0 +1,77 @@
+{
+  "id": "3676_maria_francisca_navarro_sol",
+  "source_id": "3676",
+  "row_ref": "3676. Maria Francisca Navarro Sol",
+  "name": "Maria Francisca Navarro Sol",
+  "gender": "female",
+  "birth": {
+    "date": "1817-06-05",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3663_jose_navarro_paulo"
+    ],
+    "father": "3663_jose_navarro_paulo",
+    "mother": null,
+    "spouse": [
+      "1409_agustin_chale_lopez"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Navarro Paulo",
+      "Josefa Sol"
+    ],
+    "father_name": "José Navarro Paulo",
+    "mother_name": "Josefa Sol",
+    "spouse_names": [
+      "Agustín Chalé López"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Miguel Borràs",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 5 de juny de 1817 a la Ràpita.\n\nPadrins: Miguel Borràs i Jacinta Bernis.\n\nCasament: el 12 de juny de 1841 amb Agustín Chalé López de la Ràpita [1817].\n\nFills: Josefa María [1842].\n\nEs bessona de María Jacinta.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

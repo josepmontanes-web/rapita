@@ -1,0 +1,92 @@
+{
+  "id": "4299_juan_reverter_matamoros",
+  "source_id": "4299",
+  "row_ref": "4299. Juan Reverter Matamoros",
+  "name": "Juan Reverter Matamoros",
+  "gender": "male",
+  "birth": {
+    "date": "1788-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1844-10-06",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4258_antonio_reverter_forner",
+      "3157_maria_matamoros"
+    ],
+    "father": "4258_antonio_reverter_forner",
+    "mother": "3157_maria_matamoros",
+    "spouse": [
+      "5591_maria_vidal_vines"
+    ],
+    "children": [
+      "4390_francisco_carlos_reverter_vidal",
+      "4391_maria_cinta_reverter_vidal",
+      "4392_juana_reverte_vidal",
+      "4393_juan_reverter_vidal",
+      "4394_joaquina_reverter_vidal",
+      "4395_jose_vicente_reverter_vidal"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Reverter Forner",
+      "Maria Matamoros"
+    ],
+    "father_name": "Antonio Reverter",
+    "mother_name": "Maria Matamoros",
+    "spouse_names": [
+      "Maria Vidal Viñes"
+    ],
+    "children_names": [
+      "Francisco Carlos Reverter Vidal",
+      "María Cinta Reverter Vidal",
+      "Juana Reverté Vidal",
+      "Juan Reverter Vidal",
+      "Joaquina Reverter Vidal",
+      "José Vicente Reverter Vidal"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1788]. \n\nCasament: amb María Vidal Viñes de Cervera del Maestrat [1800].\n\nFills: Juana [1825], Joaquina [1830], Juan [1833], María Cinta [1837], Francisco Carlos [1837] i José Vicente [1842].\n\nDefunció: el 6 d'octubre de 1844 a la Ràpita. Va morir als 56 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

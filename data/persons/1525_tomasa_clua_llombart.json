@@ -1,0 +1,73 @@
+{
+  "id": "1525_tomasa_clua_llombart",
+  "source_id": "1525",
+  "row_ref": "1525. Tomasa Clua Llombart",
+  "name": "Tomasa Clua Llombart",
+  "gender": "female",
+  "birth": {
+    "date": "1842-01-04",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1517_jose_clua_cid"
+    ],
+    "father": "1517_jose_clua_cid",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Clua Cid",
+      "Teresa Llombart Royo"
+    ],
+    "father_name": "José Clua Cid",
+    "mother_name": "Teresa Llombart Royo",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Tomás Clua",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 4 de gener de 1842 a la Ràpita.\n\nPadrins: Tomás Clua i Francisca Biosca.\n\nCasament: amb Lorenzo Reverté Gasparín de la Ràpita [1842].\n\nFills: Maria de la Cinta [1880].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "3646_josefa_navarro_lluis",
+  "source_id": "3646",
+  "row_ref": "3646. Josefa Navarro Lluís",
+  "name": "Josefa Navarro Lluís",
+  "gender": "female",
+  "birth": {
+    "date": "1803-10-23",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1837-01-31",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3593_pedro_navarro",
+      "2973_ildefonsa_lluis"
+    ],
+    "father": "3593_pedro_navarro",
+    "mother": "2973_ildefonsa_lluis",
+    "spouse": [
+      "1206_agustin_castella_caldero"
+    ],
+    "children": [
+      "1291_maria_castella_navarro",
+      "1292_martin_castella_navarro",
+      "1293_ildefonsa_castella_navarro",
+      "1294_carlos_castella_navarro"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Navarro",
+      "Ildefonsa Lluís"
+    ],
+    "father_name": "Pedro Navarro",
+    "mother_name": "Ildefonsa Lluís",
+    "spouse_names": [
+      "Agustín Castellà Calderó"
+    ],
+    "children_names": [
+      "Maria Castellà Navarro",
+      "Martín Castellà Navarro",
+      "Ildefonsa Castellà Navarro",
+      "Carlos Castellà Navarro"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "M. Antonio Casanova",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 23 d'octubre de 1803 a la Ràpita.\n\nPadrins: Antonio Casanova i Vicenta Gaseni.\n\nCasament: el 18 de gener de 1823 amb Agustín Castellà Calderó de la Ràpita [1798].\n\nFills: Ildefonsa (Tortosa) [1825], María (Tortosa) [1831], Martín [1832] i Carlos [1835].\n\nDefunció: el 31 de gener de 1837 a la Ràpita. No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

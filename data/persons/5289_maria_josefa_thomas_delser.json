@@ -1,0 +1,72 @@
+{
+  "id": "5289_maria_josefa_thomas_delser",
+  "source_id": "5289",
+  "row_ref": "5289. Maria Josefa Thomas Delser",
+  "name": "Maria Josefa Thomas Delser",
+  "gender": "female",
+  "birth": {
+    "date": "1795-01-01",
+    "place": "Avén"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "621_vicente_beltran_masdeu"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Vicente Beltran Masdeu"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Aven (Flandes) [aprox. 1795]. (Podria ser Amberes).\n\nNatural de Avén, primer Depto. del Norte de Flandes. A la partida de defunció del seu fill Domingo diu que naix a \"Llesi en la Flandes\". A una altra partida diu que naix a Lesi R. de Alemania.\n\nCasament: amb Vicente Beltran Masdeu de Tortosa [1795].\n\nFills: Safarino Vicente [1817], Bernardo [1821], Martín [1824], José Domingo [1826], Sebastián (Alp) [1828], José (la Seu d'Urgell) [1831] i Antonia [1837].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

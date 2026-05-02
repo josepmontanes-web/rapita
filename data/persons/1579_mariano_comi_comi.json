@@ -1,0 +1,68 @@
+{
+  "id": "1579_mariano_comi_comi",
+  "source_id": "1579",
+  "row_ref": "1579. Mariano Comí Comí",
+  "name": "Mariano Comí Comí",
+  "gender": "male",
+  "birth": {
+    "date": "1838-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1838].\n\nProfessió: mariner.\n\nCasament: amb Teresa Navarro Gasparín de la Ràpita [1840].\n\nFills: Francisca [1862], Ignacio [1874] i Irene [1880].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "4388_maria_reverter_vidal",
+  "source_id": "4388",
+  "row_ref": "4388. Maria Reverter Vidal",
+  "name": "Maria Reverter Vidal",
+  "gender": "female",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Traiguera"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3516_juan_moreso_reverter"
+    ],
+    "father": "3516_juan_moreso_reverter",
+    "mother": null,
+    "spouse": [
+      "2708_jayme_guardia_bort"
+    ],
+    "children": [
+      "2738_jaime_guardia_reverte"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Moreso Reverter",
+      "Joaquina Vidal"
+    ],
+    "father_name": "Juan Reverter",
+    "mother_name": "Joaquina Vidal",
+    "spouse_names": [
+      "Jayme Guardia Bort"
+    ],
+    "children_names": [
+      "Jaime Guardia Reverté"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: Traiguera [aprox. 1820]. \n\nCasament: el 6 de desembre de 1845 amb Jayme Guardia Bort de la Ràpita [1819].\n\nFills: Jaime [1846] i Jaime [1850].\n\nEs germana de Rafaela Reverter Vidal [1820].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

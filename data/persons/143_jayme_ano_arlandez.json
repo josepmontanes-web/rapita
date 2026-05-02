@@ -1,0 +1,89 @@
+{
+  "id": "143_jayme_ano_arlandez",
+  "source_id": "143",
+  "row_ref": "143. Jayme Añó Arlández",
+  "name": "Jayme Añó Arlández",
+  "gender": "male",
+  "birth": {
+    "date": "1802-12-09",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1845-06-10",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "144_mariano_ano_badia"
+    ],
+    "father": "144_mariano_ano_badia",
+    "mother": null,
+    "spouse": [
+      "1722_basilia_diago_gras"
+    ],
+    "children": [
+      "147_antonio_cucufate_ano_diago",
+      "148_maria_cecilia_ano_diago",
+      "149_antonio_ano_diago",
+      "150_jayme_ano_diago",
+      "151_teresa_ano_diago"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Mariano Añó Badia",
+      "Josefa o Francisca Arlández Curto"
+    ],
+    "father_name": "Mariano Añó Badia",
+    "mother_name": "Josefa o Francisca Arlández Curto",
+    "spouse_names": [
+      "Basilia Diago Gras"
+    ],
+    "children_names": [
+      "Antonio Cucufate Añó Diago",
+      "María Cecilia Añó Diago",
+      "Antonio Añó Diago",
+      "Jayme Añó Diago",
+      "Teresa Añó Diago"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Jayme Aleman",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  el 9 de desembre de 1802 a la Ràpita.\n\nEls padrins son Jayme Alemany de Tortosa i María Alexandro d'Alcanar.\n\nCasament: el 27 d'agost de 1827 amb Basilia Diago Gras de la Ràpita [1805]. Viuen a una caseta llogada a la Fonda Vella.\n\nFills: Antonio Cucufate [1828], María Cecilia [1830], Antonio [1834], Jayme [1838] i Teresa [1840].\n\nDefunció: el 10 de juny de 1845 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "2099_isabel_ferre_simon",
+  "source_id": "2099",
+  "row_ref": "2099. Isabel Ferré Simón",
+  "name": "Isabel Ferré Simón",
+  "gender": "female",
+  "birth": {
+    "date": "1799-07-09",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2055_josef_ferrer_marin"
+    ],
+    "father": "2055_josef_ferrer_marin",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Ferrer Marín",
+      "María Ana Simón Sancho"
+    ],
+    "father_name": "Josef Ferré Marín",
+    "mother_name": "María Ana Simón Sancho",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 9 de juliol de 1799 a la Ràpita.\n\nPadrina: Isabel Corch.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

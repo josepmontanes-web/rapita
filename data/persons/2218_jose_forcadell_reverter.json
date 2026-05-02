@@ -1,0 +1,75 @@
+{
+  "id": "2218_jose_forcadell_reverter",
+  "source_id": "2218",
+  "row_ref": "2218. José Forcadell Reverter",
+  "name": "José Forcadell Reverter",
+  "gender": "male",
+  "birth": {
+    "date": "1780-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2190_manuel_forcadell_domenech"
+    ],
+    "father": "2190_manuel_forcadell_domenech",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel Forcadell Domenech",
+      "Maria Reverter"
+    ],
+    "father_name": "Manuel Forcadell",
+    "mother_name": "Maria Reverter",
+    "spouse_names": [
+      "Geronima Cervera Font"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1780].\n\nCasament: el 7 de desembre de 1800 amb Jerónima Cervera Font de la Torre del Conde (Zaragoza) [1775].\n\nProbablement va morir abans de 1816 perquè la dona es torna a casar.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

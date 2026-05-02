@@ -1,0 +1,87 @@
+{
+  "id": "4951_josefa_sanjuan_la_sala",
+  "source_id": "4951",
+  "row_ref": "4951. Josefa Sanjuan La Sala",
+  "name": "Josefa Sanjuan La Sala",
+  "gender": "female",
+  "birth": {
+    "date": "1775-01-01",
+    "place": "Catí"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "4824_blas_sanches_ximenes"
+    ],
+    "children": [
+      "4807_catarina_sanches_sanjuan",
+      "4808_cecilia_sanchis_sanjuan",
+      "4809_angela_sanchis_sanjuan",
+      "4810_vicente_jose_sanchis_sanjuan",
+      "4811_juan_antonio_sanchis_sanjuan"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Sanjuan",
+      "Josefa La Sala"
+    ],
+    "father_name": "Joaquín Sanjuan",
+    "mother_name": "Josefa La Sala",
+    "spouse_names": [
+      "Blas Sanches Ximenes"
+    ],
+    "children_names": [
+      "Catarina Sanches Sanjuan",
+      "Cecilia Sanchís Sanjuan",
+      "Angela Sanchís Sanjuan",
+      "Vicente José Sanchís Sanjuan",
+      "Juan Antonio Sanchís Sanjuan"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Catí [aprox. 1775]. \n\nCasament: amb Blas Sanches Ximenes de Begís (Castelló) [1741].\n\nFills: Catarina [1800], Cecilia [1802], Angela [1804], Vicente José [1807] i Juan Antonio [1810].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

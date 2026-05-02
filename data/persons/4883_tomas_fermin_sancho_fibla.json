@@ -1,0 +1,73 @@
+{
+  "id": "4883_tomas_fermin_sancho_fibla",
+  "source_id": "4883",
+  "row_ref": "4883. Tomás Fermín Sancho Fibla",
+  "name": "Tomás Fermín Sancho Fibla",
+  "gender": "male",
+  "birth": {
+    "date": "1841-12-21",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4877_blas_sancho_fibla"
+    ],
+    "father": "4877_blas_sancho_fibla",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Blas Sancho Fibla",
+      "Maria Fibla Lonzano"
+    ],
+    "father_name": "Blas Sancho Fibla",
+    "mother_name": "Maria Fibla Lonzano",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Fermín Ferrer",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 21 de desembre de 1841 a la Ràpita.\n\nPadrins: Fermín Ferrer i Rosa Miguel.\n\nProfessió: pagès.\n\nCasament: amb Teresa Sancho Rosales de la Ràpita [1845].\n\nFills: Teresa [1876] i Ramón [1881].\n\nNo signa la declaració de naixement de la filla al registre civil per no saber.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

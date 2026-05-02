@@ -1,0 +1,72 @@
+{
+  "id": "3384_vicenta_milian",
+  "source_id": "3384",
+  "row_ref": "3384. Vicenta Milián",
+  "name": "Vicenta Milián",
+  "gender": "female",
+  "birth": {
+    "date": "1768-01-01",
+    "place": "Villarluengo (Aragón)"
+  },
+  "death": {
+    "date": "1807-07-14",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "5407_sebastian_trillero"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Sebastián Trillero"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Villarluengo (Teruel) [aprox. 1768]. \n\nCasament: amb Sebastián Trillero de Calanda [1755].\n\nFills: Joaquín [1790].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Fonda Vella (ACA BGRP Cajas 34).\n\nDefunció: el 14 de juliol de 1807 a la Ràpita. Va fer testament davant del capellà.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

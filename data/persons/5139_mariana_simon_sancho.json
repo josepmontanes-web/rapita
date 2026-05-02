@@ -1,0 +1,87 @@
+{
+  "id": "5139_mariana_simon_sancho",
+  "source_id": "5139",
+  "row_ref": "5139. Mariana Simón Sancho",
+  "name": "Mariana Simón Sancho",
+  "gender": "female",
+  "birth": {
+    "date": "1760-01-01",
+    "place": "Allepuz (Teruel)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4831_manuela_sancho"
+    ],
+    "father": null,
+    "mother": "4831_manuela_sancho",
+    "spouse": [
+      "2055_josef_ferrer_marin"
+    ],
+    "children": [
+      "2095_agustin_miguel_ferrer_simon",
+      "2098_agustin_manuel_ferrer_simon",
+      "2100_jose_francisco_ferre_simon",
+      "2101_antonio_ferrer_simon"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Simón",
+      "Manuela Sancho"
+    ],
+    "father_name": "Francisco Simón",
+    "mother_name": "Manuela Sancho",
+    "spouse_names": [
+      "Josef Ferrer Marín"
+    ],
+    "children_names": [
+      "Agustín Miguel Ferrer Simón",
+      "Agustín Manuel Ferrer Simón",
+      "José Francisco Ferré Simón",
+      "Antonio Ferrer Simón"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Allepuz (Teruel) [aprox. 1760]. \n\nCasament: amb José Ferrer Marín de Portell de Morella [1759].\n\nFills: Josefa [1790], Agustín Miguel [1794], Agustín Manuel [1796], Isabel [1799], Alexandro [1802], José Francisco [1804] i Antonio [1810].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu al patí de Talavera  (ACA BGRP Cajas 34).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

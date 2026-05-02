@@ -1,0 +1,73 @@
+{
+  "id": "2212_maria_agustina_florcadell_reverter",
+  "source_id": "2212",
+  "row_ref": "2212. Maria Agustina Florcadell Reverter",
+  "name": "Maria Agustina Florcadell Reverter",
+  "gender": "female",
+  "birth": {
+    "date": "1841-12-27",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4351_maria_reverter_sancho"
+    ],
+    "father": null,
+    "mother": "4351_maria_reverter_sancho",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Peregrín Florcadell Espinach",
+      "María Reverter Sancho"
+    ],
+    "father_name": "Peregrín Florcadell Espinach",
+    "mother_name": "María Reverter Sancho",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Miguel Reverter",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 27 de desembre de 1841 a la Ràpita.\n\nPadrins: Miguel Reverter i Agustina Gasparín.\n\nCasament: amb Juan Bautista Míes Silvestre de la Ràpita [1837].\n\nFills: María [1879] i Bautista [1880].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

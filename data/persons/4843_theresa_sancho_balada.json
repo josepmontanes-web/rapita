@@ -1,0 +1,74 @@
+{
+  "id": "4843_theresa_sancho_balada",
+  "source_id": "4843",
+  "row_ref": "4843. Theresa Sancho Balada",
+  "name": "Theresa Sancho Balada",
+  "gender": "female",
+  "birth": {
+    "date": "1840-02-10",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1841-06-17",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4919_jose_sancho_querol",
+      "325_raymunda_balada_balada"
+    ],
+    "father": "4919_jose_sancho_querol",
+    "mother": "325_raymunda_balada_balada",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Sancho Querol",
+      "Raymunda Balada Balada"
+    ],
+    "father_name": "José Sancho Querol",
+    "mother_name": "Raymunda Balada Balada",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Agustín Reverter",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 10 de febrer de 1840 a la Ràpita.\n\nPadrins: Agustín Reverter i Teresa Sancho.\n\nDefunció: el 17 de juny de 1841 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

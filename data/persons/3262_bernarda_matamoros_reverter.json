@@ -1,0 +1,82 @@
+{
+  "id": "3262_bernarda_matamoros_reverter",
+  "source_id": "3262",
+  "row_ref": "3262. Bernarda Matamoros Reverter",
+  "name": "Bernarda Matamoros Reverter",
+  "gender": "female",
+  "birth": {
+    "date": "1819-12-03",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3248_jacinto_matamoros_reverte",
+      "4251_maria_reverter_fibla"
+    ],
+    "father": "3248_jacinto_matamoros_reverte",
+    "mother": "4251_maria_reverter_fibla",
+    "spouse": [
+      "2707_miguel_guardia_bort"
+    ],
+    "children": [
+      "2733_miguel_guardia_matamoros"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Jacinto Matamoros Reverté",
+      "María Reverter Fibla"
+    ],
+    "father_name": "Jacinto Matamoros Reverter",
+    "mother_name": "Maria Reverter Fibla",
+    "spouse_names": [
+      "Miguel Guardia Bort"
+    ],
+    "children_names": [
+      "Miguel Guardia Matamoros"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Diego Llucià",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 3 de desembre de 1819 a la Ràpita.\n\nPadrins: Diego Llucià i Bernarda Subirats.\n\nCasament: el 23 d'agost de 1845 amb Miguel Guardia Bort de la Ràpita [1824].\n\nFills: Miguel [1846].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

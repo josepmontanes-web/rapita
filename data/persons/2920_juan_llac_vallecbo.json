@@ -1,0 +1,71 @@
+{
+  "id": "2920_juan_llac_vallecbo",
+  "source_id": "2920",
+  "row_ref": "2920. Juan Llac Vallecbó",
+  "name": "Juan Llac Vallecbó",
+  "gender": "male",
+  "birth": {
+    "date": "1826-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1828-07-05",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bernardo Llac",
+      "Mariana Vallecbó"
+    ],
+    "father_name": "Bernardo Llac",
+    "mother_name": "Mariana Vallecbó",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1826].\n\nDefunció: el 5 de juliol de 1828 a la Ràpita. Va morir als 2 anys de \"calentura\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

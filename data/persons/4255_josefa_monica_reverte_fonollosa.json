@@ -1,0 +1,74 @@
+{
+  "id": "4255_josefa_monica_reverte_fonollosa",
+  "source_id": "4255",
+  "row_ref": "4255. Josefa Monica Reverté Fonollosa",
+  "name": "Josefa Monica Reverté Fonollosa",
+  "gender": "female",
+  "birth": {
+    "date": "1837-05-03",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1845-04-25",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4196_francisco_reverter_balada",
+      "2167_josefa_fonollosa_puig"
+    ],
+    "father": "4196_francisco_reverter_balada",
+    "mother": "2167_josefa_fonollosa_puig",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Reverter Balada",
+      "Josefa Fonollosa Puig"
+    ],
+    "father_name": "Francisco Reverté Balada",
+    "mother_name": "Josefa Fonollosa Puig",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Bautista Reverté",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 3 de maig de 1837 a la Ràpita.\n\nPadrins: Juan Bautista Reverté i Josefa Puig (iaios).\n\nDefunció: el 25 d'abril de 1845 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

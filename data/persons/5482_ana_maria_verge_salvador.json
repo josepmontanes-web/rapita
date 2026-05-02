@@ -1,0 +1,79 @@
+{
+  "id": "5482_ana_maria_verge_salvador",
+  "source_id": "5482",
+  "row_ref": "5482. Ana María Verge Salvador",
+  "name": "Ana María Verge Salvador",
+  "gender": "female",
+  "birth": {
+    "date": "1780-01-01",
+    "place": "La Jana"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "2380_jacinto_garriga_ballester"
+    ],
+    "children": [
+      "2384_andres_garriga_verge"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Blas Verge",
+      "Josefa Salvador"
+    ],
+    "father_name": "Blas Verge",
+    "mother_name": "Josefa Salvador",
+    "spouse_names": [
+      "Jacinto Garriga Ballester"
+    ],
+    "children_names": [
+      "Andrés Garriga Verge"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a La Jana [aprox. 1780].\n\nA l'estat de veïns de setembre de 1798 diu que viu a la casa núm. 1 de la \"Calle Mayor\" com a criada de Francisco Stoppani (ACA BGRP Cajas 34).\n\nCasament: el 14 d'abril de 1799 amb Jacinto Garriga Ballester d'Alcanar [1780].\n\nFills: Andrés [1808].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

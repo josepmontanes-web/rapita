@@ -1,0 +1,86 @@
+{
+  "id": "2903_catarina_junyent_llao",
+  "source_id": "2903",
+  "row_ref": "2903. Catarina Junyent Llaó",
+  "name": "Catarina Junyent Llaó",
+  "gender": "female",
+  "birth": {
+    "date": "1795-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "4528_joaquina_rosales_junyent",
+      "4529_ramona_rosales_junyent",
+      "4530_tomasa_rosales_junyent",
+      "4531_francisca_rosales_junyent",
+      "4532_juan_rosales_junyent",
+      "4534_teresa_rosales_junyent",
+      "4535_susana_rosales_junyent",
+      "4536_manuel_rosales_junyent"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Joaquina Rosales Junyent",
+      "Ramona Rosales Junyent",
+      "Tomasa Rosales Junyent",
+      "Francisca Rosales Junyent",
+      "Juan Rosales Junyent",
+      "Teresa Rosales Junyent",
+      "Susana Rosales Junyent",
+      "Manuel Rosales Junyent"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1795].\n\nCasament: amb Miguel Rosales Valls d'Arenys de Lledó [1795]. \n\nFills: Juan [1815], Francisca [1816], Tomasa [1817], Susana [1819], Manuel [1820], Joaquina [1822], Josefa [1824], Ramona [1826] i Teresa [1829].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

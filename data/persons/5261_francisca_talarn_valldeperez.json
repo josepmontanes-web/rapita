@@ -1,0 +1,78 @@
+{
+  "id": "5261_francisca_talarn_valldeperez",
+  "source_id": "5261",
+  "row_ref": "5261. Francisca Talarn Valldeperez",
+  "name": "Francisca Talarn Valldeperez",
+  "gender": "female",
+  "birth": {
+    "date": "1782-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5221_juan_talarn",
+      "5424_teresa_valldeperez"
+    ],
+    "father": "5221_juan_talarn",
+    "mother": "5424_teresa_valldeperez",
+    "spouse": [
+      "2222_jose_forcadell_segarra"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Talarn",
+      "Teresa Valldeperez"
+    ],
+    "father_name": "Juan Talarn",
+    "mother_name": "Teresa Valldeperez",
+    "spouse_names": [
+      "José Forcadell Segarra"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1782]. \n\nCasament: el 9 de setembre de 1802 amb José Forcadell Segarra d'Alcanar [1778].\n\nFills: Dorotea [1803], José Antonio [1806], Joaquina [1807], Joaquín [1809] i Manuela [1812].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

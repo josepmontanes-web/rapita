@@ -1,0 +1,74 @@
+{
+  "id": "5054_pablo_segarra_guardia",
+  "source_id": "5054",
+  "row_ref": "5054. Pablo Segarra Guardia",
+  "name": "Pablo Segarra Guardia",
+  "gender": "male",
+  "birth": {
+    "date": "1832-01-15",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5088_antonio_segarra_zaragoza",
+      "2712_lorenza_guardia_bort"
+    ],
+    "father": "5088_antonio_segarra_zaragoza",
+    "mother": "2712_lorenza_guardia_bort",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Segarra Zaragoza",
+      "Lorenza Guardia Bort"
+    ],
+    "father_name": "Antonio Segarra Zaragoza",
+    "mother_name": "Lorenza Guardia Bort",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Segarra",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 15 de gener de 1832 a la Ràpita.\n\nPadrins: Juan Segarra i Josefa Bort.\n\nProfessió: mariner.\n\nCasament: amb Teresa Ferré Rosales de la Ràpita [1840].\n\nFills: Ramón [1857], Antonio [1875], José, Julio, Pablo i Teresa [1878].\n\nVenta: de Miguel Arnau y Forner, labrador, a Pablo Segarra y Guardia, matriculado, de casa de un piso de alto sita en la calle de Pescadores. Linda con herederos de Sebastián Míes, con un callejón y huerto de D. Mariano Castellá. Por precio de 75 duros. 25 de febrero de 1860. Esc. Juan Ventosa de Amposta. Valor 1500.\n\nDefunció: el 26 de desembre de 1879 a la Ràpita de \"reabsorción purulenta\". Declara la mor la seua cunyada Rosa Ibáñez casada de 34 anys..",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

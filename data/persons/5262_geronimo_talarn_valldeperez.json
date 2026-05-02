@@ -1,0 +1,89 @@
+{
+  "id": "5262_geronimo_talarn_valldeperez",
+  "source_id": "5262",
+  "row_ref": "5262. Gerónimo Talarn Valldepérez",
+  "name": "Gerónimo Talarn Valldepérez",
+  "gender": "male",
+  "birth": {
+    "date": "1769-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1809-01-09",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5221_juan_talarn"
+    ],
+    "father": "5221_juan_talarn",
+    "mother": null,
+    "spouse": [
+      "812_maria_bosch_castell"
+    ],
+    "children": [
+      "5239_maria_rosa_talarn_bosch",
+      "5240_antonio_talarn_bosch",
+      "5241_tomas_talarn_bosch",
+      "5242_juan_talarn_bosch",
+      "5243_jose_francisco_talarn_bosch"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Talarn",
+      "Theresa Valldepérez"
+    ],
+    "father_name": "Juan Talarn",
+    "mother_name": "Theresa Valldepérez",
+    "spouse_names": [
+      "Maria Bosch Castell"
+    ],
+    "children_names": [
+      "Maria Rosa Talarn Bosch",
+      "Antonio Talarn Bosch",
+      "Tomás Talarn Bosch",
+      "Juan Talarn Bosch",
+      "José Francisco Talarn Bosch"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1769]. \n\nProfessió: pagès.\n\nCasament: amb María Bosch Castell d'Amposta [1775]. Al setembre de 1798 viuen a una casa al costat de l'esglesia vella (ACA BGRP Cajas 34). Al gener de 1799 paga un lloguer de 4 Rv a Patrimoni.\n\nFills: Juan [1795], María Rosa [1798], Antonio [1801], José Francisco [1803] i Tomás [1807].\n\nDefunció: el 9 de gener de 1809 a la Ràpita. Fa testament davant del capellà.\n\nEs veí de la Ràpita a 1796 (ACA Processos 1796 7F). Té 27 anys. s/2 diu k sí i ho hsap pk son pare tenia terres arrendades. s/2 dí, pk ell mateix va portar-hi calç amb les mules de son pare. s/9 son pare n era parcer. s/12 idem. s/20 sí, ho sap pk amb son pare en van fer una per compte de la comunitat y haber ascendido su coste a más de 100 libras. s/12 son pare és miger o arrendatari en moltes d aquelles terres. s/23 sí, ho sap pk ell mateix ha portat pedres dels marges amb el seu carro per compte del Rey. s/24 ha treballat en la carretera. s/29 ho sap per haber-hi treballat altres testimonis presentats: Jayme Anoll, mensurador y porgador del trigo, de Tortosa. Francisco Bernis, medidor y garbillador, de Ttosa.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

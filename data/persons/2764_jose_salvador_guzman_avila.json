@@ -1,0 +1,74 @@
+{
+  "id": "2764_jose_salvador_guzman_avila",
+  "source_id": "2764",
+  "row_ref": "2764. José Salvador Guzmán Avila",
+  "name": "José Salvador Guzmán Avila",
+  "gender": "male",
+  "birth": {
+    "date": "1830-04-19",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2774_jose_guzman_obiol",
+      "298_antonia_avila_matias"
+    ],
+    "father": "2774_jose_guzman_obiol",
+    "mother": "298_antonia_avila_matias",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Guzmán Obiol",
+      "Antonia Avila Matias"
+    ],
+    "father_name": "José Guzmán Obiol",
+    "mother_name": "Antonia Avila Matias",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Salvador Guzman",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 19 d'abril de 1830 a la Ràpita.\n\nPadrins: Salvador Guzmán i Josefa María Guzmán.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

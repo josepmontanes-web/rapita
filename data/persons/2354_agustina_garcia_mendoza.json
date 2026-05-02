@@ -1,0 +1,77 @@
+{
+  "id": "2354_agustina_garcia_mendoza",
+  "source_id": "2354",
+  "row_ref": "2354. Agustina García Mendoza",
+  "name": "Agustina García Mendoza",
+  "gender": "female",
+  "birth": {
+    "date": "1762-01-01",
+    "place": "Morella"
+  },
+  "death": {
+    "date": "1805-04-28",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "5638_maria_basilia_vizcarro_garcia"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Luis García",
+      "Maria Teresa Mendoza"
+    ],
+    "father_name": "Luis García",
+    "mother_name": "Maria Teresa Mendoza",
+    "spouse_names": [
+      "Josef Biscarro"
+    ],
+    "children_names": [
+      "Maria Basilia Vizcarró García"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Morella [aprox. 1762].\n\nCasament: amb Manuel López de Madrid (o de Granada) [1750]. \n\nFills: Manuela López García [1788].\n\nCasament: el 20 de març de 1797 amb Pedro José Vizcarro Castell [o Biscarro] [o Vizcarrí] d'Ulldecona [1760]. Testimonis: Don José Viner i Don Vicente Fuster.\n\nFills: María Basilia [1798].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Fonda Vella (ACA BGRP Cajas 34).\n\nEs germana de Basilia García Mendoza [1760].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

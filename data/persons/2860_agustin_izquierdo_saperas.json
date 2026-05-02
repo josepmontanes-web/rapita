@@ -1,0 +1,91 @@
+{
+  "id": "2860_agustin_izquierdo_saperas",
+  "source_id": "2860",
+  "row_ref": "2860. Agustín Izquierdo Saperas",
+  "name": "Agustín Izquierdo Saperas",
+  "gender": "male",
+  "birth": {
+    "date": "1799-08-14",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2839_juan_izquierdo_carceller"
+    ],
+    "father": "2839_juan_izquierdo_carceller",
+    "mother": null,
+    "spouse": [
+      "1440_maria_chillida_querol"
+    ],
+    "children": [
+      "2844_manuel_izquierdo_chillida",
+      "2845_francisco_de_paula_izquierdo_chillida",
+      "2846_maria_rosa_izquierdo_chillida",
+      "2847_pablo_izquierdo_chillida",
+      "2848_agustin_izquierdo_chillida",
+      "2849_juan_izquierdo_chillida"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Izquierdo Carceller",
+      "Rosa Saperas Rauera"
+    ],
+    "father_name": "Juan Izquierdo Carceller",
+    "mother_name": "Rosa Saperas Rauera",
+    "spouse_names": [
+      "Maria Chillida Querol"
+    ],
+    "children_names": [
+      "Manuel Izquierdo Chillida",
+      "Francisco de Paula Izquierdo Chillida",
+      "María Rosa Izquierdo Chillida",
+      "Pablo Izquierdo Chillida",
+      "Agustín Izquierdo Chillida",
+      "Juan Izquierdo Chillida"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Agustín Fornesa",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 14 d'agost de 1799 a la Ràpita.\n\nPadrí: Agustín Fornesa.\n\nCasament: el 13 de febrer de 1826 amb María Chillida Querol d'Alcanar [1798].\n\nFills: Manuel [1826], Pablo [1828], Francisco de Paula [1834], María Rosa [1836], Agustín [1838] i Juan [1841].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

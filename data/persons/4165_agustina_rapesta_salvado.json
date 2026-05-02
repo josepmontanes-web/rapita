@@ -1,0 +1,68 @@
+{
+  "id": "4165_agustina_rapesta_salvado",
+  "source_id": "4165",
+  "row_ref": "4165. Agustina Rapesta Salvadó",
+  "name": "Agustina Rapesta Salvadó",
+  "gender": "female",
+  "birth": {
+    "date": "1854-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1854].\n\nCasament: amb Vicente Rapesta Castellà de Tortosa [1850].\n\nFills: Adela Agustina [1879] i María de las Mercedes [1880].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

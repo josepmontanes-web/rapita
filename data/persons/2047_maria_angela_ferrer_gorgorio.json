@@ -1,0 +1,83 @@
+{
+  "id": "2047_maria_angela_ferrer_gorgorio",
+  "source_id": "2047",
+  "row_ref": "2047. Maria Angela Ferrer Gorgorio",
+  "name": "Maria Angela Ferrer Gorgorio",
+  "gender": "female",
+  "birth": {
+    "date": "1770-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2055_josef_ferrer_marin"
+    ],
+    "father": "2055_josef_ferrer_marin",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "3587_pedro_nadal_ferrer",
+      "3588_raymunda_nadal_ferrer",
+      "3590_juan_nadal_ferrer"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Ferrer Marín",
+      "Josefa Gorgorio"
+    ],
+    "father_name": "Josef Ferrer",
+    "mother_name": "Josefa Gorgorio",
+    "spouse_names": [
+      "Josef Nadal Bigatana"
+    ],
+    "children_names": [
+      "Pedro Nadal Ferrer",
+      "Raymunda Nadal Ferrer",
+      "Juan Nadal Ferrer"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1770].\n\nFills: Miguel Ferreter [1790].\n\nCasament: amb José Nadal Bigatana de Gerri (Lleida) [1770].\n\nFills: Pedro [1791], Raymunda [1793], Juan [1796] i Antonio [1798].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Fonda Vella núm. 5 (ACA BGRP Cajas 34).\n\nDel novembre de 1795 al juliol de 1803 viu a la casa 5 de la Fonda Vella.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

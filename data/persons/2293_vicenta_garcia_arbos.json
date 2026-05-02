@@ -1,0 +1,73 @@
+{
+  "id": "2293_vicenta_garcia_arbos",
+  "source_id": "2293",
+  "row_ref": "2293. Vicenta García Arbós",
+  "name": "Vicenta García Arbós",
+  "gender": "female",
+  "birth": {
+    "date": "1781-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1848-02-03",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2350_antonio_garcia_llobell"
+    ],
+    "father": "2350_antonio_garcia_llobell",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio García Llobell",
+      "Vicenta Arbós"
+    ],
+    "father_name": "Antonio García",
+    "mother_name": "Vicenta Arbós",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1781].\n\nDefunció: el 3 de febrer de 1848 a la Ràpita. Va morir als 67 anys. No fa testament.\n\nPodria ser la mateixa persona que Vicenta García de Vinaròs [1775], però no es segur.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

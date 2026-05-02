@@ -1,0 +1,96 @@
+{
+  "id": "1517_jose_clua_cid",
+  "source_id": "1517",
+  "row_ref": "1517. José Clua Cid",
+  "name": "José Clua Cid",
+  "gender": "male",
+  "birth": {
+    "date": "1788-01-01",
+    "place": "La Galera"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "2945_teresa_llombart_roig"
+    ],
+    "children": [
+      "1524_francisca_teresa_clua_llombart",
+      "1525_tomasa_clua_llombart",
+      "1526_jose_agustin_clua_llombart",
+      "1534_maria_teresa_clua_vidal",
+      "1535_josefa_clua_vidal",
+      "1536_jose_clua_vidal",
+      "1537_miguel_clua_vidal",
+      "1538_tomas_clua_vidal",
+      "1539_jacinto_clua_vidal"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Clua",
+      "Paula Cid"
+    ],
+    "father_name": "Francisco Clua",
+    "mother_name": "Paula Cid",
+    "spouse_names": [
+      "Francisca Vidal Sastre",
+      "Teresa Llombart Roig"
+    ],
+    "children_names": [
+      "Francisca Teresa Clua Llombart",
+      "Tomasa Clua Llombart",
+      "José Agustín Clua Llombart",
+      "María Teresa Clua Vidal",
+      "Josefa Clua Vidal",
+      "José Clua Vidal",
+      "Miguel Clua Vidal",
+      "Tomàs Clua Vidal",
+      "Jacinto Clua Vidal"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Galera [aprox. 1788].\n\nCasament: el 15 d'abril de 1815 amb Francisca Vidal Sastre de la Ràpita [1795]. Es casa als 27 anys.\n\nFills: Miguel [1818], José [1819], Jacinto [1820], Tomás [1823], María Teresa [1826] i Josefa [1830].\n\nCasament: el 27 de gener de 1840 amb Teresa Llombart Roig de la Galera [1810].\n\nFills: Francisca Teresa [1840], Tomasa [1842] i José Agustín [1843].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

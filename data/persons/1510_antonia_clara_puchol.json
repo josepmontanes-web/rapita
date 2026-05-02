@@ -1,0 +1,76 @@
+{
+  "id": "1510_antonia_clara_puchol",
+  "source_id": "1510",
+  "row_ref": "1510. Antonia Clara Puchol",
+  "name": "Antonia Clara Puchol",
+  "gender": "female",
+  "birth": {
+    "date": "1780-01-01",
+    "place": "Vinaroz"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "4641_manuel_safont_pla"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Clara",
+      "Maria Vicenta Puchol"
+    ],
+    "father_name": "Antonio Clara",
+    "mother_name": "Maria Vicenta Puchol",
+    "spouse_names": [
+      "José Gabriel Santalla",
+      "Manuel Safont Pla"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1780].\n\nCasament: amb José Gabriel Santalla.\n\nCasament: el 20 de gener de 1837 amb Manuel Safont Pla d'Alcanar [1783].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

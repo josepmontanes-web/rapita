@@ -1,0 +1,68 @@
+{
+  "id": "2451_manuel_gasparin_reverte",
+  "source_id": "2451",
+  "row_ref": "2451. Manuel Gasparín Reverté",
+  "name": "Manuel Gasparín Reverté",
+  "gender": "male",
+  "birth": {
+    "date": "1860-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1860].\n\nProfessió: pagès.\n\nCasament: el 24 d'octubre de 1885 amb Cinta Albiol Lleixà de la Ràpita [1861]. Es casa als 25 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

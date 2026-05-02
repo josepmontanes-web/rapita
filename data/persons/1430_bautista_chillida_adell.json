@@ -1,0 +1,79 @@
+{
+  "id": "1430_bautista_chillida_adell",
+  "source_id": "1430",
+  "row_ref": "1430. Bautista Chillida Adell",
+  "name": "Bautista Chillida Adell",
+  "gender": "male",
+  "birth": {
+    "date": "1775-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1223_juan_castella_chillida"
+    ],
+    "father": "1223_juan_castella_chillida",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1431_andres_chillida_balada"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Castellà Chillida",
+      "Maria Adell"
+    ],
+    "father_name": "Juan Chillida",
+    "mother_name": "Maria Adell",
+    "spouse_names": [
+      "Antonia Balada Fibla"
+    ],
+    "children_names": [
+      "Andrés Chillida Balada"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1775].\n\nCasament: amb Antonia Balada Fibla d'Alcanar, filla de José i Agustina també d'Alcanar.\n\nFills: Andrés [1817].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

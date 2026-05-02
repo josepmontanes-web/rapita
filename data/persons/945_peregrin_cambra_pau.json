@@ -1,0 +1,83 @@
+{
+  "id": "945_peregrin_cambra_pau",
+  "source_id": "945",
+  "row_ref": "945. Peregrín Cambra Pau",
+  "name": "Peregrín Cambra Pau",
+  "gender": "male",
+  "birth": {
+    "date": "1780-01-01",
+    "place": "València"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "293_josefa_arroyo_perez"
+    ],
+    "children": [
+      "942_manuela_cambra_arroyo",
+      "943_josefa_cambra_arroyo",
+      "944_peregrina_cambra_arroyo"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Don Pablo Cambra",
+      "Mònica Pau"
+    ],
+    "father_name": "Don Pablo Cambra",
+    "mother_name": "Mònica Pau",
+    "spouse_names": [
+      "Josefa Arroyo Pérez"
+    ],
+    "children_names": [
+      "Manuela Cambra Arroyo",
+      "Josefa Cambra Arroyo",
+      "Peregrina Cambra Arroyo"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a València [aprox. 1780].\n\nProfessió: \"Ministro de Rs.Rs.\"\n\nCasament: amb Josefa Arroyo Pérez de València [1779].\n\nFills: Peregrina (València) [1803], María Luísa [1804], Manuela [1807] i Josefa [1809].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

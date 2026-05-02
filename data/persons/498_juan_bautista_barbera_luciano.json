@@ -1,0 +1,74 @@
+{
+  "id": "498_juan_bautista_barbera_luciano",
+  "source_id": "498",
+  "row_ref": "498. Juan Bautista Barberà Luciano",
+  "name": "Juan Bautista Barberà Luciano",
+  "gender": "male",
+  "birth": {
+    "date": "1837-03-22",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1837-04-03",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "501_jacinto_barbera_obiol",
+      "3053_clara_luciano_collado"
+    ],
+    "father": "501_jacinto_barbera_obiol",
+    "mother": "3053_clara_luciano_collado",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Jacinto Barberà Obiol",
+      "Clara Luciano Collado"
+    ],
+    "father_name": "Jacinto Barberà Obiol",
+    "mother_name": "Clara Luciano Collado",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Matamoros",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 22 de març de 1837 a la Ràpita.\n\nPadrins: Juan Matamoros de Benicarló i Mariana Martí del Perelló.\n\n\"Eulalia Planes lo bautizó por estar en peligro de perder la vida\".\n\nDefunció: el 3 d'abril de 1837 a la Ràpita. Va morir als 13 dies.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

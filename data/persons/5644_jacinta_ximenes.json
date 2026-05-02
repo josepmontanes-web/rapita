@@ -1,0 +1,71 @@
+{
+  "id": "5644_jacinta_ximenes",
+  "source_id": "5644",
+  "row_ref": "5644. Jacinta Ximenes",
+  "name": "Jacinta Ximenes",
+  "gender": "female",
+  "birth": {
+    "date": "1800-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1800-05-12",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Ximenes",
+      "Josefa López"
+    ],
+    "father_name": "Miguel Ximenes",
+    "mother_name": "Josefa López",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1800].\n\nDefunció: el 12 de maig de 1800 a la Ràpita. Va morir pàrvul.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

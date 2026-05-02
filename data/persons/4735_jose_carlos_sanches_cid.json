@@ -1,0 +1,71 @@
+{
+  "id": "4735_jose_carlos_sanches_cid",
+  "source_id": "4735",
+  "row_ref": "4735. José Carlos Sanches Cid",
+  "name": "José Carlos Sanches Cid",
+  "gender": "male",
+  "birth": {
+    "date": "1837-03-12",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Salvador Sanches Pascual",
+      "Maria Cid Cavallé"
+    ],
+    "father_name": "Salvador Sanches Pascual",
+    "mother_name": "Maria Cid Cavallé",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Antonio Pastor",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 12 de març de 1837 a la Ràpita.\n\nPadrins: Juan Antonio Pastor i Josefa Boix.\n\nProfessió: pagès.\n\nCasament: amb Rosa Garriga d'Alcanar [1840].\n\nFills: José, Agustín, Rosa, Maria [1871], Amalia, Juan i Prudencio [1876].\n\nDefunció: el 15 de juny de 1880 a la Ràpita als 42 anys de \"enteroragia\". La seua muller té 40 anys. Declara la mor la seua cunyada Rosa Brunet de 30 anys, casada.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

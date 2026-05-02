@@ -1,0 +1,68 @@
+{
+  "id": "2606_josefa_goday_bosch",
+  "source_id": "2606",
+  "row_ref": "2606. Josefa Goday Bosch",
+  "name": "Josefa Goday Bosch",
+  "gender": "female",
+  "birth": {
+    "date": "1845-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1845].\n\nCasament: amb Emeterio Canicio Sala de Villana (Alacant) [1843].\n\nFills: Federico [1878].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

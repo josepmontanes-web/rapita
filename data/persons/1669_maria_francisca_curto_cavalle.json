@@ -1,0 +1,73 @@
+{
+  "id": "1669_maria_francisca_curto_cavalle",
+  "source_id": "1669",
+  "row_ref": "1669. Maria Francisca Curto Cavallé",
+  "name": "Maria Francisca Curto Cavallé",
+  "gender": "female",
+  "birth": {
+    "date": "1812-01-29",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1812-02-02",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1690_francisco_curto_sabater"
+    ],
+    "father": "1690_francisco_curto_sabater",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Curto Sabater",
+      "Rosa Cavallé Roig"
+    ],
+    "father_name": "Francisco Curto Sabater",
+    "mother_name": "Rosa Cavallé Roig",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Capera",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 19 de gener de 1812 a la Ràpita.\n\nPadrins: Juan Capera i Francisca Herlandes.\n\nDefunció: el 2 de febrer de 1812 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

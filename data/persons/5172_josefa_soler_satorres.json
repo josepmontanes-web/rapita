@@ -1,0 +1,75 @@
+{
+  "id": "5172_josefa_soler_satorres",
+  "source_id": "5172",
+  "row_ref": "5172. Josefa Soler Satorres",
+  "name": "Josefa Soler Satorres",
+  "gender": "female",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Pobla de Claramunt"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3813_pedro_parra_valles"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Soler",
+      "Maria Angela Satorres"
+    ],
+    "father_name": "Antonio Soler",
+    "mother_name": "Maria Angela Satorres",
+    "spouse_names": [
+      "Pedro Parra Vallés"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Pobla de Claramunt [aprox. 1800]. \n\nCasament: el 4 de març de 1820 amb Pedro Parra Vallés del Bruc (Barcelona) [1800].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

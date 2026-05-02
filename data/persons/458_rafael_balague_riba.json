@@ -1,0 +1,81 @@
+{
+  "id": "458_rafael_balague_riba",
+  "source_id": "458",
+  "row_ref": "458. Rafael Balagué Riba",
+  "name": "Rafael Balagué Riba",
+  "gender": "male",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "449_jose_balague_navarro"
+    ],
+    "father": "449_jose_balague_navarro",
+    "mother": null,
+    "spouse": [
+      "1305_nicolasa_castella_navarro"
+    ],
+    "children": [
+      "416_jose_balague_castella"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Balagué Navarro",
+      "Angela Riba"
+    ],
+    "father_name": "José Balagué",
+    "mother_name": "Angela Riba",
+    "spouse_names": [
+      "Nicolasa Castellà Navarro"
+    ],
+    "children_names": [
+      "José Balagué Castellà"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1820].\n\nCasament: el 9 de maig de 1844 amb Nicolasa Castellà Navarro de Tortosa [1825]. Quan es va casar era veí de Tortosa.\n\nFills: José [1846], Buenaventura [1848] i Fernando [1854].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

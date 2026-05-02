@@ -1,0 +1,92 @@
+{
+  "id": "976_florencia_capilla_macian",
+  "source_id": "976",
+  "row_ref": "976. Florencia Capilla Macián",
+  "name": "Florencia Capilla Macián",
+  "gender": "female",
+  "birth": {
+    "date": "1782-01-01",
+    "place": "Begís (Castelló)"
+  },
+  "death": {
+    "date": "1832-06-08",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "973_jose_capilla",
+      "3056_josefa_macian"
+    ],
+    "father": "973_jose_capilla",
+    "mother": "3056_josefa_macian",
+    "spouse": [
+      "4767_blas_sanchez_marin"
+    ],
+    "children": [
+      "4726_francisco_jose_sanchez_capilla",
+      "4727_fernando_sanches_capilla",
+      "4728_maria_juliana_sanchez_capilla",
+      "4729_francisca_sanchez_capilla",
+      "4730_manuela_sanchez_capilla",
+      "4731_juan_sanchez_capilla"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Capilla",
+      "Josefa Macián"
+    ],
+    "father_name": "José Capilla",
+    "mother_name": "Josefa Macián",
+    "spouse_names": [
+      "Blas Sánchez Marín"
+    ],
+    "children_names": [
+      "Francisco José Sánchez Capilla",
+      "Fernando Sánches Capilla",
+      "María Juliana Sánchez Capilla",
+      "Francisca Sánchez Capilla",
+      "Manuela Sánchez Capilla",
+      "Juan Sánchez Capilla"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: Bejís (Castelló) [aprox. 1782].\n\nCasament: el 21 de setembre de 1813 amb Blas Sánchez Marín de El Toro (Castelló) o de Bejís [1775]. Quan es casa té 30 anys. \"Dispensa de 3er. Grado de parentesco\".\n\nFills: Francisca [1813], Francisco José [1816], Manuela [1818], Fernando [1820], Juan [1823] i María Juliana [1825].\n\nDefunció: el 8 de juny de 1832 a la Ràpita. Va morir als 50 anys. No fa testament. \"Su marido dotó su alma en 10 libras valencianas\". A la seva partida de defunció diu que va naixer a El Toro (Castelló).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

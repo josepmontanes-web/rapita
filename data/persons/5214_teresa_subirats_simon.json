@@ -1,0 +1,68 @@
+{
+  "id": "5214_teresa_subirats_simon",
+  "source_id": "5214",
+  "row_ref": "5214. Teresa Subirats Simón",
+  "name": "Teresa Subirats Simón",
+  "gender": "female",
+  "birth": {
+    "date": "1785-01-01",
+    "place": "Godall"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Godall [aprox. 1785].\n\nCasament: amb Pedro Ferrer Conillera de Salomó (Tarragona) [1785].\n\nFills: Raymunda [1811], Pedro [1814] i Jayme [1819].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

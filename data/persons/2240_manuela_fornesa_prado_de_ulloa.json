@@ -1,0 +1,73 @@
+{
+  "id": "2240_manuela_fornesa_prado_de_ulloa",
+  "source_id": "2240",
+  "row_ref": "2240. Manuela Fornesa Prado de Ulloa",
+  "name": "Manuela Fornesa Prado de Ulloa",
+  "gender": "female",
+  "birth": {
+    "date": "1807-01-18",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1807-02-06",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4031_ventura_prado_de_ulloa_munoz"
+    ],
+    "father": null,
+    "mother": "4031_ventura_prado_de_ulloa_munoz",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "D. Agustín Fornesa Orri",
+      "Ventura Prado de Ulloa Muñoz"
+    ],
+    "father_name": "D. Agustín Fornesa Orri",
+    "mother_name": "Ventura Prado de Ulloa Muñoz",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Lorenzo Casadevall",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 18 de gener de 1807 a la Ràpita.\n\nPadrí: Don Lorenzo Casadevall.\n\nDefunció: el 6 de febrer de 1807 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

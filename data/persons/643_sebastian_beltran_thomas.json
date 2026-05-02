@@ -1,0 +1,77 @@
+{
+  "id": "643_sebastian_beltran_thomas",
+  "source_id": "643",
+  "row_ref": "643. Sebastián Beltran Thomas",
+  "name": "Sebastián Beltran Thomas",
+  "gender": "male",
+  "birth": {
+    "date": "1828-01-01",
+    "place": "Alp (Catalunya)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "621_vicente_beltran_masdeu"
+    ],
+    "father": "621_vicente_beltran_masdeu",
+    "mother": null,
+    "spouse": [
+      "1291_maria_castella_navarro"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Beltran Masdeu",
+      "Maria Josefa Thomas"
+    ],
+    "father_name": "Vicente Beltràn Masdeu",
+    "mother_name": "Maria Josefa Thomas",
+    "spouse_names": [
+      "Maria Castellà Navarro"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alp (Catalunya) [aprox. 1828].\n\nCasament: el 12 de novembre de 1853 amb María Castellà Navarro de Tortosa [1831].  Es va casar als 25 anys. Testimonis: Vicente Beltran i Agustín Castellà. \n\nFills: Josefa [1855] i Martín [1859].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

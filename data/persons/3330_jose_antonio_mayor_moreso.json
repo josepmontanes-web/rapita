@@ -1,0 +1,71 @@
+{
+  "id": "3330_jose_antonio_mayor_moreso",
+  "source_id": "3330",
+  "row_ref": "3330. José Antonio Mayor Moreso",
+  "name": "José Antonio Mayor Moreso",
+  "gender": "male",
+  "birth": {
+    "date": "1828-01-01",
+    "place": "Xerta"
+  },
+  "death": {
+    "date": "1843-01-10",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Mayor",
+      "Salvadora Moreso"
+    ],
+    "father_name": "Antonio Mayor",
+    "mother_name": "Salvadora Moreso",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Xerta [aprox. 1828]. \n\nDefunció: el 10 de gener de 1843 a la Ràpita. Veí de Xerta. Va morir fadrí als 15 anys. Es va trobar mort fora de la població de mort violenta.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

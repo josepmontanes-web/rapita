@@ -1,0 +1,68 @@
+{
+  "id": "5179_juan_sorts",
+  "source_id": "5179",
+  "row_ref": "5179. Juan Sorts",
+  "name": "Juan Sorts",
+  "gender": "male",
+  "birth": {
+    "date": "1750-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Canals a Martorell: Nomenament de Juan Sorts com otro de los oficiales de la intervenci´n de estas R Obras y sus dependencias con el sueldo de 9 reales de vellon plata al dia 23 juny 1782. ACA_BGRP.RP. Cajas, 2.\n\nCanals a Martorell 25 set 1782_ el dador de la presente es dn Estanislao Vallescar que pasa a esa con la plaza de dn Juan Sor que ha permutado, le abonará vm su sueldo desde 1º de octubre próximo en adelante. (li dona permís per anar a Barcelona a buscar la familia y demana que li reserven al poble l’habitació que tenia Sors). ACA_BGRP.RP. Cajas, 2.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

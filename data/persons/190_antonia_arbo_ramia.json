@@ -1,0 +1,80 @@
+{
+  "id": "190_antonia_arbo_ramia",
+  "source_id": "190",
+  "row_ref": "190. Antonia Arbó Ramia",
+  "name": "Antonia Arbó Ramia",
+  "gender": "female",
+  "birth": {
+    "date": "1785-01-01",
+    "place": "Benicarló"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "3705_vicente_nogueron_arbo",
+      "3706_agustina_nogueron_arbo",
+      "3707_hilario_miguel_o_mario_nogueron_arbo",
+      "3708_manuel_nogueron_arbo"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Manuel Noguerón"
+    ],
+    "children_names": [
+      "Vicente Noguerón Arbó",
+      "Agustina Noguerón Arbó",
+      "Hilario Miguel [o Mario] Noguerón Arbó",
+      "Manuel Noguerón Arbó"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  a Benicarló [aprox. 1785].\n\nCasament: amb Manuel Noguerón Badia d'Arenys de Mar [1778].\n\nFills: Vicente [1807], Manuel [1811], Agustina [1818] i Hilario Miguel o Mario [1824].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

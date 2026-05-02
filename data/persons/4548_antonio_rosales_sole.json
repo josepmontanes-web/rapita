@@ -1,0 +1,104 @@
+{
+  "id": "4548_antonio_rosales_sole",
+  "source_id": "4548",
+  "row_ref": "4548. Antonio Rosales Solé",
+  "name": "Antonio Rosales Solé",
+  "gender": "male",
+  "birth": {
+    "date": "1756-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1819-06-08",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3277_antonio_matamoros_rosales",
+      "5170_teresa_sole_santapau"
+    ],
+    "father": "3277_antonio_matamoros_rosales",
+    "mother": "5170_teresa_sole_santapau",
+    "spouse": [
+      "5429_teresa_valls_peralta"
+    ],
+    "children": [
+      "4519_isabel_rosales_granell",
+      "4521_teresa_rosales_granell",
+      "4523_juan_bautista_rosales_granell",
+      "4524_engracia_rosales_granell",
+      "4552_gaspar_rosales_valls",
+      "4553_juan_bautista_rosales_valls",
+      "4554_isabel_rosales_valls",
+      "4555_miguel_rosales_valls",
+      "4556_jose_antonio_rosales_valls",
+      "4557_teresa_rosales_valls",
+      "4558_ramon_rosales_valls",
+      "4559_maria_rosales_valls"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Matamoros Rosales",
+      "Teresa Solé Santapau"
+    ],
+    "father_name": "Antonio Rosales",
+    "mother_name": "Teresa Solé Santapau",
+    "spouse_names": [
+      "Teresa Valls Peralta"
+    ],
+    "children_names": [
+      "Isabel Rosales Granell",
+      "Teresa Rosales Granell",
+      "Juan Bautista Rosales Granell",
+      "Engracia Rosales Granell",
+      "Gaspar Rosales Valls",
+      "Juan Bautista Rosales Valls",
+      "Isabel Rosales Valls",
+      "Miguel Rosales Valls",
+      "José Antonio Rosales Valls",
+      "Teresa Rosales Valls",
+      "Ramón Rosales Valls",
+      "Maria Rosales Valls"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Albañíl"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1756]. \n\nProfessió: \"Albañil\".\n\nAl gener de 1784 treballa com a paleta a una de les brigades de treballadors de les obres del Canal de Navegació (ACA BGRP caixa 47).\n\nAl 8 de juny de 1786 el contracten per a fer una casa per compte del Rei al costat de la de Guindulain juntament amb José Giner, Juan Bautista Moya i Juan Moya. Firma Juan Moya per comptes dels altres per que diu que no saben escriure. (ACA BGRP Correspondecia Caixa 8).\n\nCasament: amb Teresa Valls Peralta d'Arenys de Lledó (Terol) [1762].\n\nFills: Teresa (Amposta) [1783], José Antonio [1792], Juan Bautista [1792], Miguel (Arenys de Lledó) [1795], Ramón (Arenys de Lledó) [1801], Gaspar [1801], María [1805] i Isabel [1809].\n\nAntonio Rosales paleta ven a Mateu, Francisco i Josep Castellà pescadors una casa situada a la vora del mar que linda amb el venedor, amb els compradors, amb el Real Canal i amb el camí que va a aquest i al Molí que s’està fent, pel preu de 30 duros de plata. A 27 d’abril de 1794, notari Bartolomé Garcia de Tortosa.\n\nDefunció: el 8 de juny de 1819 a la Ràpita. Va morir als 64 anys de \"asma y sofocación de pecho pero repentinamente\". No fa testament.\n\nEs germà de Joaquina Rosales Solé [1767].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "4010_luis_pons_reverter",
+  "source_id": "4010",
+  "row_ref": "4010. Luís Pons Reverter",
+  "name": "Luís Pons Reverter",
+  "gender": "male",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3992_francisco_planas_pons",
+      "4176_francisca_reverter"
+    ],
+    "father": "3992_francisco_planas_pons",
+    "mother": "4176_francisca_reverter",
+    "spouse": [
+      "4649_mariana_sales_cabanes"
+    ],
+    "children": [
+      "4011_juan_bautista_pons_sales",
+      "4012_pasquala_pons_sales"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Planas Pons",
+      "Francisca Reverter"
+    ],
+    "father_name": "Francisco Pons",
+    "mother_name": "Francisca Reverter",
+    "spouse_names": [
+      "Mariana Sales Cabañes"
+    ],
+    "children_names": [
+      "Juan Bautista Pons Sales",
+      "Pasquala Pons Sales"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1810]. \n\nCasament: amb Mariana Sales Cabañes de Freginals [1810].\n\nFills: Juan Bautista [1838] i Pasquala [1839].\n\nEs germà de Manuel Pons Reverter [1800].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

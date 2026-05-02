@@ -1,0 +1,96 @@
+{
+  "id": "3338_vicenta_michavila_bayarri",
+  "source_id": "3338",
+  "row_ref": "3338. Vicenta Michavila Bayarri",
+  "name": "Vicenta Michavila Bayarri",
+  "gender": "female",
+  "birth": {
+    "date": "1776-01-01",
+    "place": "Traiguera"
+  },
+  "death": {
+    "date": "1846-03-25",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1094_ignacio_casajust_ballester"
+    ],
+    "children": [
+      "1112_antonia_casajust_michavila",
+      "1113_jose_casajust_michavila",
+      "1114_francisco_casajust_michavila",
+      "1115_rafael_casajust_michavila",
+      "1117_maria_casajust_michavila",
+      "1118_lorenzo_casajust_michavila",
+      "1119_francisca_casajust_michavila",
+      "1120_jose_maria_casajust_michavila",
+      "1121_juliana_casajust_michavila",
+      "1122_jose_maria_casajust_michavila"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Damian Michavila",
+      "Agustina Bayarri"
+    ],
+    "father_name": "Damian Michavila",
+    "mother_name": "Agustina Bayarri",
+    "spouse_names": [
+      "Ignacio Casajust Ballester"
+    ],
+    "children_names": [
+      "Antonia Casajust Michavila",
+      "José Casajust Michavila",
+      "Francisco Casajust Michavila",
+      "Rafael Casajust Michavila",
+      "Maria Casajust Michavila",
+      "Lorenzo Casajust Michavila",
+      "Francisca Casajust Michavila",
+      "José María Casajust Michavila",
+      "Juliana Casajust Michavila"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Traiguera [aprox. 1776]. \n\nCasament: amb Ignacio Casajust Ballester d'Ulldecona [1765].\n\nFills: José (Vinaròs) [1789], María [1790], Antonia [1793], Francisco [1796], Rafael [1799], Lorenzo [1801], Lorenzo [1802], Francisca [1804], José María [1806], Juliana [1809] i José María [1812].\n\nA l'estat de veïns de setembre de 1798 diu que viuen a la casa núm. 9 de la \"Calle Mayor\" amb Don Lorenzo Casadevall  (ACA BGRP Cajas 34).\n\nDefunció: el 25 de març de 1846 a la Ràpita. Va morir als 70 anys. Va fer testament davant de \"el escribano de Ulldecona\". \"Dotó su alma en un trentenario al fuero diocesano\".\n\nEs germana d'Agustina Michavila Bayerri [1769].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

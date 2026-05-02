@@ -1,0 +1,78 @@
+{
+  "id": "4529_ramona_rosales_junyent",
+  "source_id": "4529",
+  "row_ref": "4529. Ramona Rosales Junyent",
+  "name": "Ramona Rosales Junyent",
+  "gender": "female",
+  "birth": {
+    "date": "1826-10-30",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4555_miguel_rosales_valls",
+      "2903_catarina_junyent_llao"
+    ],
+    "father": "4555_miguel_rosales_valls",
+    "mother": "2903_catarina_junyent_llao",
+    "spouse": [
+      "3224_miguel_ramon_matamoros_lleti"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Rosales Valls",
+      "Catarina Junyent Llaó"
+    ],
+    "father_name": "Miguel Rosales Valls",
+    "mother_name": "Catarina Junyent Llaó",
+    "spouse_names": [
+      "Miguel Ramón Matamoros Lletí"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Ramón Rosales",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 30 d'octubre de 1826 a la Ràpita.\n\nPadrins: Ramón Rosales i Isabel Rosales.\n\nCasament: el 20 de setembre de 1851 amb Miguel Ramón Matamoros Lletí de la Ràpita [1825].\n\nFills: Miguel [1852], Pedro [1855], Carmen [1857], Antonio [1860] i Miguela [1865].\n\nEl cognom també apareix com Giuñench.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,12 +1,12 @@
 {
   "id": "3_sebastian_accensi",
   "source_id": "3",
-  "row_ref": "3",
+  "row_ref": "3. Sebastián Accensi",
   "name": "Sebastián Accensi",
   "gender": "male",
   "birth": {
     "date": "1792-01-01",
-    "place": "Tortosa [aprox"
+    "place": "Tortosa"
   },
   "death": {
     "date": null,
@@ -22,13 +22,41 @@
   },
   "family": {
     "parents": [],
+    "father": null,
+    "mother": null,
     "spouse": [],
-    "children": []
+    "children": [
+      "7_maria_accensi_accensi"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
   },
   "relations_detail": {
     "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
     "spouse_names": [],
-    "children_names": []
+    "children_names": [
+      "Maria Accensi Accensi"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
   },
   "occupation": {
     "title": null

@@ -1,0 +1,97 @@
+{
+  "id": "5389_juan_torta_sole",
+  "source_id": "5389",
+  "row_ref": "5389. Juan Torta Solé",
+  "name": "Juan Torta Solé",
+  "gender": "male",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": "1837-10-28",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5426_mariano_valldeperez_torta"
+    ],
+    "father": "5426_mariano_valldeperez_torta",
+    "mother": null,
+    "spouse": [
+      "5191_teresa_subirats_fabregat"
+    ],
+    "children": [
+      "5391_barbara_torta_subirats",
+      "5392_manuela_torta_subirats",
+      "5393_lucas_torta_subirats",
+      "5394_josefa_torta_subirats",
+      "5395_lorenzo_torta_subirats",
+      "5396_jose_torta_subirats",
+      "5397_concepcion_torta_subirats",
+      "5398_agustin_torta_subirats",
+      "5399_juan_torta_subirats"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Mariano Valldepérez Torta",
+      "Francisca Solé"
+    ],
+    "father_name": "Mariano Torta",
+    "mother_name": "Francisca Solé",
+    "spouse_names": [
+      "Teresa Subirats Fabregat"
+    ],
+    "children_names": [
+      "Bárbara Torta Subirats",
+      "Manuela Torta Subirats",
+      "Lucas Torta Subirats",
+      "Josefa Torta Subirats",
+      "Lorenzo Torta Subirats",
+      "José Torta Subirats",
+      "Concepción Torta Subirats",
+      "Agustín Torta Subirats",
+      "Juan Torta Subirats"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1790].\n\nCasament: amb Teresa Subirats Fabregat d'Amposta [1785].\n\nFills: Lucas (Amposta) [1813], Manuela (Amposta) [1814], Lorenzo (Amposta) [1815], Josefa [1817], José [1819], Bárbara [1823], Agustín [1825], Concepción [1828] i Juan [1832].\n\nDefunció: el 28 d'octubre de 1837 a la Ràpita. Fa testament.\n\nDe l'1 de gener de 1837 al 31 de desembre de 1837 ha de pagar un lloguer de 33,12 Rs mensuals per la casa 1 de la mançana 4. (AGP.PER.LEG.1073/23 [Juan Vecino]).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

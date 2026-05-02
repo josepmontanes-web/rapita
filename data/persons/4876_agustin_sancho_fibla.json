@@ -1,0 +1,87 @@
+{
+  "id": "4876_agustin_sancho_fibla",
+  "source_id": "4876",
+  "row_ref": "4876. Agustín Sancho Fibla",
+  "name": "Agustín Sancho Fibla",
+  "gender": "male",
+  "birth": {
+    "date": "1770-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1836-02-09",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4832_bautista_sancho"
+    ],
+    "father": "4832_bautista_sancho",
+    "mother": null,
+    "spouse": [
+      "2343_susana_garcia_lafont"
+    ],
+    "children": [
+      "4889_agustin_sancho_garcia",
+      "4890_josefa_sancho_garcia",
+      "4891_theresa_sancho_garcia",
+      "4892_ramon_sancho_garcia"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Sancho",
+      "Francisca Fibla"
+    ],
+    "father_name": "Bautista Sancho",
+    "mother_name": "Francisca Fibla",
+    "spouse_names": [
+      "Susana García Lafont"
+    ],
+    "children_names": [
+      "Agustín Sancho García",
+      "Josefa Sancho García",
+      "Theresa Sancho García",
+      "Ramón Sancho García"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1770]. \n\nCasament: amb Susana García Lafont d'Amposta [1772].\n\nFills: Agustín [1799], Ramón [1801], Teresa [1804] i Josefa [1814].\n\nDefunció: el 9 de febrer de 1836 a la Ràpita. No fa testament per no tenir.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

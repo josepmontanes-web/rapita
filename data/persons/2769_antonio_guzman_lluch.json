@@ -1,0 +1,75 @@
+{
+  "id": "2769_antonio_guzman_lluch",
+  "source_id": "2769",
+  "row_ref": "2769. Antonio Guzmán Lluch",
+  "name": "Antonio Guzmán Lluch",
+  "gender": "male",
+  "birth": {
+    "date": "1830-04-03",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2775_antonio_guzman_obiol"
+    ],
+    "father": "2775_antonio_guzman_obiol",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Guzmán Obiol",
+      "Maria Lluch Foix"
+    ],
+    "father_name": "Antonio Guzmán Obiol",
+    "mother_name": "Maria Lluch Foix",
+    "spouse_names": [
+      "Josefa Castellà Navarro"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Celma",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pescador"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 3 d'abril de 1830 a la Ràpita.\n\nPadrins: Francisco Celma i Rosa López.\n\nProfessió: pescador.\n\nCasament: el 20 d'agost de 1853 amb Josefa Castellà Navarro de Tortosa [1829].\n\nFills: Esperanza [1854] i Rosa [1856].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

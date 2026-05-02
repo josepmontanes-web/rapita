@@ -1,0 +1,73 @@
+{
+  "id": "217_josef_agustin_arbo_tomas",
+  "source_id": "217",
+  "row_ref": "217. Josef Agustín Arbó Tomás",
+  "name": "Josef Agustín Arbó Tomás",
+  "gender": "male",
+  "birth": {
+    "date": "1839-08-18",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "177_francisco_arbo_ingles"
+    ],
+    "father": "177_francisco_arbo_ingles",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Arbó Inglés",
+      "Maria Tomas Sanchez"
+    ],
+    "father_name": "Francisco Arbó Inglés",
+    "mother_name": "Maria Tomas Sanchez",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Agustín Reverter",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 18 d'agost de 1839 a la Ràpita.\n\nProfessió: pagès.\n\nCasament: Sinforosa Sánchez Guardia de la Ràpita [1853].\n\nFills: Francisca Sinforosa [1878] i Maria [1880].\n\nEls padrins son Agustín Reverter Forner d'Alcanar i Joaquina Rosales Junyent.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

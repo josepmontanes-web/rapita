@@ -1,0 +1,70 @@
+{
+  "id": "3108_carlos_marti",
+  "source_id": "3108",
+  "row_ref": "3108. Carlos Martí",
+  "name": "Carlos Martí",
+  "gender": "male",
+  "birth": {
+    "date": "1794-01-01",
+    "place": "Vinaròs"
+  },
+  "death": {
+    "date": "1834-09-22",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Teresa Ribera"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1794]. \n\nCasament: amb Teresa Ribera.\n\nDefunció: el 22 de setembre de 1834 a la Ràpita. Va morir als 40 anys. Era veí de Vinaròs.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

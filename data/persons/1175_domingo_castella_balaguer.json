@@ -1,0 +1,77 @@
+{
+  "id": "1175_domingo_castella_balaguer",
+  "source_id": "1175",
+  "row_ref": "1175. Domingo   Castellà Balaguer",
+  "name": "Domingo Castellà Balaguer",
+  "gender": "male",
+  "birth": {
+    "date": "1824-02-02",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1830-02-15",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1225_mariano_castella_cid"
+    ],
+    "father": "1225_mariano_castella_cid",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "391_maria_de_la_cinta_balague_bernis"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Mariano Castellà Cid",
+      "Càndia Balaguer Omedes"
+    ],
+    "father_name": "Mariano Castellà Mascorella",
+    "mother_name": "Càndia Balaguer Omedes",
+    "spouse_names": [],
+    "children_names": [
+      "María de la Cinta Balagué Bernis"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Josef Domingo Balaguer",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 2 de febrer de 1824 a la Ràpita.\n\nPadrins: José Domingo Balaguer i Lucia Navarro.\n\nDefunció: el 15 de febrer de 1830 a la Ràpita. Va morir de pulmonia.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "2113_manuel_ferreres_obiol",
+  "source_id": "2113",
+  "row_ref": "2113. Manuel Ferreres Obiol",
+  "name": "Manuel Ferreres Obiol",
+  "gender": "male",
+  "birth": {
+    "date": "1823-01-01",
+    "place": "Peñiscola"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2522_agustin_gil_ferreres"
+    ],
+    "father": "2522_agustin_gil_ferreres",
+    "mother": null,
+    "spouse": [
+      "5677_barbara_zaragoza_tora"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustín Gil Ferreres",
+      "Antonia Obiol"
+    ],
+    "father_name": "Agustín Ferreres",
+    "mother_name": "Antonia Obiol",
+    "spouse_names": [
+      "Barbara Zaragoza Tora"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Matriculado"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Peníscola [aprox. 1823].\n\nProfessió: \"matriculado\".\n\nCasament: el 13 de gener de 1849 amb Bárbara Zaragoza Tora de Vinaròs [1827].\n\nFills: Bautista [1851], Cinta [1857] i Agueda [1859].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

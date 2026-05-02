@@ -1,0 +1,87 @@
+{
+  "id": "4040_bautista_puig_bricart",
+  "source_id": "4040",
+  "row_ref": "4040. Bautista Puig Bricart",
+  "name": "Bautista Puig Bricart",
+  "gender": "male",
+  "birth": {
+    "date": "1770-01-01",
+    "place": "Traiguera"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "4043_maria_rosa_puig_granell",
+      "4044_raymunda_puig_granell",
+      "4047_jayme_puig_panicello",
+      "4048_maria_miguela_puig_panicello",
+      "4052_jose_puig_sales"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Puig",
+      "Dorotea Bricart"
+    ],
+    "father_name": "Pedro Puig",
+    "mother_name": "Dorotea Bricart",
+    "spouse_names": [
+      "Mariana Granell",
+      "Josefa Panicello Pedreta",
+      "Josefa Sales"
+    ],
+    "children_names": [
+      "Maria Rosa Puig Granell",
+      "Raymunda Puig Granell",
+      "Jayme Puig Panicello",
+      "Maria Miguela Puig Panicello",
+      "José Puig Sales"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Traiguera [aprox. 1770]. \n\nCasament: amb Mariana Granell de La Galera.\n\nFills: María Rosa (la Galera) [1791] i Raymunda (la Galera) [1800].\n\nCasament: amb Josefa Panicello Pedreta de Les Planes, filla de Rufo i Josefa també de Les Planes (Santa Bàrbara).\n\nFills: Jayme [1813] i María Miguela [1815].\n\nCasament: amb Josefa Sales de Miravet.\n\nFills: José [1818].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

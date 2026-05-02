@@ -1,0 +1,79 @@
+{
+  "id": "3552_juan_bautista_moia_revertone",
+  "source_id": "3552",
+  "row_ref": "3552. Juan Bautista Moia Revertone",
+  "name": "Juan Bautista Moia Revertone",
+  "gender": "male",
+  "birth": {
+    "date": "1760-01-01",
+    "place": "Oríno, Como (Milán)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "2985_maria_lopez_costa"
+    ],
+    "children": [
+      "1797_38_1800"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Moia",
+      "María Revertone"
+    ],
+    "father_name": "Josef Moia",
+    "mother_name": "María Revertone",
+    "spouse_names": [
+      "María López Costa"
+    ],
+    "children_names": [
+      "38 1800"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Orino (Italia) [aprox. 1760]. \n\nMolt probablement va naixer a Orino que en dialecte de la provincia de Varese es diu Urin. Es un poble que al 2020 té poc més de 800 habitants situat a la Valcuvia, una vall al nord de la provincia de Varese. Està a menys de kilòmetre i mig d'Azzio, el poble d'ont previsiblement va venir Francisco Gasparini Bertagna [1761].\n\nEl cognom Moya a Italia no es troba, el que hi ha es Moia. Al 2020 viuen al meny 7 persones a Orino amb el cognom Moia.\n\nProfessió: paleta i pagès.\n\nAl desembre de 1784 treballa com a paleta a una de les brigades de treballadors de les obres del Canal de Navegació (ACA BGRP caixa 47). Al 1791 diu que fa 7 anys que resideix a Espanya.\n\nAl 8 de juny de 1786 el contracten per a fer una casa per compte del Rei al costat de la de Guindulain juntament amb José Giner, Antonio Rosales i Juan Moya. Firma Juan Moya per comptes dels altres per que diu que no saben escriure. (ACA BGRP Correspondecia Caixa 8).\n\nCasament: amb María López Costa de Serós (Lleida) [1771].\n\nFills: María [1791], María Manuela [1795] i Manuel [1795].\n\nAl desembre de 1804 la seva dona era vidua i es torna a casa, per lo que previsiblement ell havia mor abans d'aquesta data. Probablement va morir abans de 1796, la seva dona consta com a vidua a la relació de lloguers a novembre de 1795 (ACA BGRP caixa 34).\n\n9.7.1788 Martorell a Naudin: Según el estado de las obras de las cavallerizas y lo acordado con este arquitecto, creo quedarán concluidas por toda la próxima semana, y en la actual cubiertas del todo.\nCon motivo de haberse corrido que concluidas las referidas cavallerizas se paraban del todo estas obras, a dado lugar para que los albañiles Moya el Menor y el Botonero se ayen buscando trabajo a otra parte, quedando los demás que son Moya el Mayor, Gené, y un soldado valon con las mismas obras…\nNaudin li contesta el 12.7. 1788 dient: Animará a los trabajadores que quedan…y les dirá que luego que se concluyan las cavallerizas se continuaran con tesón las demás casas y que no faltará jamás trabajo de bastante entidad en que ocuparlos y que si por algun accidente que considero sumamente remoto, se diese alguna tregua a los trabajos, que se les prevendría un mes antes para darles tiempo a nuevo acomodo. (ACA BGRP caixa 13).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

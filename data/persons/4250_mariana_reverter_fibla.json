@@ -1,0 +1,91 @@
+{
+  "id": "4250_mariana_reverter_fibla",
+  "source_id": "4250",
+  "row_ref": "4250. Mariana Reverter Fibla",
+  "name": "Mariana Reverter Fibla",
+  "gender": "female",
+  "birth": {
+    "date": "1781-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1848-01-23",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "3252_bautista_matamoros_reverter",
+      "3253_miguel_matamoros_reverter",
+      "3255_francisca_matamoros_reverte",
+      "3256_raymunda_matamoros_reverte",
+      "3257_manuel_matamoros_reverte",
+      "3258_jose_antonio_matamoros_reverter",
+      "3259_agustin_matamoros_reverter",
+      "3260_narciso_matamoros_reverter"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Reverté",
+      "Bernarda Fibla"
+    ],
+    "father_name": "Miguel Reverté",
+    "mother_name": "Bernarda Fibla",
+    "spouse_names": [
+      "Agustín Matamoros Reverter"
+    ],
+    "children_names": [
+      "Bautista Matamoros Reverter",
+      "Miguel Matamoros Reverter",
+      "Francisca Matamoros Reverté",
+      "Raymunda Matamoros Reverté",
+      "Manuel Matamoros Reverté",
+      "José Antonio Matamoros Reverter",
+      "Agustín Matamoros Reverter",
+      "Narciso Matamoros Reverter"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1781]. \n\nCasament: amb Agustín Matamoros Reverter d'Alcanar [1787].\n\nFills: Narciso (Alcanar) [1810], Bautista (Alcanar) [1812], Agustín (Alcanar) [1820], José Antonio [1821], Miguel [1822], Tomás [1824], Manuel [1826], Raymunda [1827] i Francisca [1831].\n\nDefunció: el 23 de gener de 1848 a la Ràpita. Va morir als 67 anys. No fa testament.\n\nEs germana de María Reverter Fibla [1790].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

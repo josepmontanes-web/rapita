@@ -1,0 +1,74 @@
+{
+  "id": "67_jose_albiol_o_obiol_simo",
+  "source_id": "67",
+  "row_ref": "67. José Albiol [o Obiol] Simó",
+  "name": "José Albiol [o Obiol] Simó",
+  "gender": "male",
+  "birth": {
+    "date": "1845-01-01",
+    "place": "Peníscola"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "5138_juan_francisco_simo_obiol",
+      "55_manuel_albiol_o_obiol_domenech"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Juan Francisco Simó Obiol",
+      "Manuel Albiol [o Obiol] Domenech"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Peníscola [aprox. 1845].\n\nProfessió: mariner.\n\nCasament: amb Josefa Domenech Chillida de Benicarló [1850].\n\nFills: Manuel [1877].\n\nNo signa la declaració de naixement del fill al registre civil per no saber.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

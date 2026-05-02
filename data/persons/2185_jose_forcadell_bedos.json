@@ -1,0 +1,87 @@
+{
+  "id": "2185_jose_forcadell_bedos",
+  "source_id": "2185",
+  "row_ref": "2185. José Forcadell Bedós",
+  "name": "José Forcadell Bedós",
+  "gender": "male",
+  "birth": {
+    "date": "1789-01-01",
+    "place": "R. Salines dels Alfacs"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2179_francisco_forcadell_adell"
+    ],
+    "father": "2179_francisco_forcadell_adell",
+    "mother": null,
+    "spouse": [
+      "2578_isabel_giner_hernandez"
+    ],
+    "children": [
+      "2199_esteban_joaquin_forcadell_giner",
+      "2200_antonia_forcadell_giner",
+      "2201_antonio_pio_forcadell_giner",
+      "2202_cristoval_forcadell_giner"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Forcadell Adell",
+      "Benita Bedós"
+    ],
+    "father_name": "Francisco Forcadell",
+    "mother_name": "Benita Bedós",
+    "spouse_names": [
+      "Isabel Giner Hernández"
+    ],
+    "children_names": [
+      "Esteban Joaquín Forcadell Giner",
+      "Antonia Forcadell Giner",
+      "Antonio Pío Forcadell Giner",
+      "Cristoval Forcadell Giner"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a les Salines dels Alfacs [aprox. 1789].\n\nCasament: el 16 de novembre de 1811 amb Isabel Giner Hernández d'Amposta [1789]. Es casa als 22 anys.\n\nFills: Esteban Joaquín [1812], Antonia [1815], Antonio Pío [1824] i Cristoval [1826].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

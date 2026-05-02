@@ -1,0 +1,76 @@
+{
+  "id": "3965_josefa_pinana_zaragoza",
+  "source_id": "3965",
+  "row_ref": "3965. Josefa Piñana Zaragoza",
+  "name": "Josefa Piñana Zaragoza",
+  "gender": "female",
+  "birth": {
+    "date": "1830-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3959_domingo_pinana_omedes",
+      "5670_tomasa_zaragoza_omedes"
+    ],
+    "father": "3959_domingo_pinana_omedes",
+    "mother": "5670_tomasa_zaragoza_omedes",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Domingo Piñana Omedes",
+      "Tomasa Zaragoza Omedes"
+    ],
+    "father_name": "Domingo Piñana Omedes",
+    "mother_name": "Tomasa Zaragoza Omedes",
+    "spouse_names": [
+      "Marcelino Pablo Navarro Comí"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1830]. \n\nCasament: el 5 de novembre de 1849 amb Marcelino Pablo Navarro Comí de la Ràpita [1827].\n\nFills: Carlos [1849], Felipa [1850] i Domingo [1855].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

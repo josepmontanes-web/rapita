@@ -1,0 +1,94 @@
+{
+  "id": "4984_rafaela_sans_cruelles",
+  "source_id": "4984",
+  "row_ref": "4984. Rafaela Sans Cruelles",
+  "name": "Rafaela Sans Cruelles",
+  "gender": "female",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5019_andres_sanz_sanarau",
+      "1652_antonia_cruelles_remisa"
+    ],
+    "father": "5019_andres_sanz_sanarau",
+    "mother": "1652_antonia_cruelles_remisa",
+    "spouse": [
+      "5240_antonio_talarn_bosch"
+    ],
+    "children": [
+      "5252_francisca_talarn_sans",
+      "5253_maria_teresa_talarn_sans",
+      "5254_andres_agustin_talarn_sans",
+      "5255_tomas_talarn_sans",
+      "5256_maria_de_la_cinta_talarn_sans",
+      "5257_antonia_talarn_sans",
+      "5258_josefa_talarn_sans"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Andrés Sanz Sanarau",
+      "Antonia Cruelles Remisa"
+    ],
+    "father_name": "Andrés Sanz Sanarau",
+    "mother_name": "Antonia Cruelles Remisa",
+    "spouse_names": [
+      "Antonio Talarn Bosch"
+    ],
+    "children_names": [
+      "Francisca Talarn Sans",
+      "Maria Teresa Talarn Sans",
+      "Andrés Agustín Talarn Sans",
+      "Tomás Talarn Sans",
+      "María de la Cinta Talarn Sans",
+      "Antonia Talarn Sans",
+      "Josefa Talarn Sans"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1806]. \n\nCasament: el 20 de novembre de 1826 amb Antonio Talarn Bosch de la Ràpita [1801].\n\nFills: María Teresa [1827], Francisca [1829], Andrés Agustín [1830], Tomás [1833], María Cinta [1836], Antonia [1839] i Josefa [1842].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "3704_salvadora_noguera_martorell",
+  "source_id": "3704",
+  "row_ref": "3704. Salvadora Noguera Martorell",
+  "name": "Salvadora Noguera Martorell",
+  "gender": "female",
+  "birth": {
+    "date": "1824-04-14",
+    "place": "SC"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Carlos Noguera",
+      "Salvadora Martorell"
+    ],
+    "father_name": "Carlos Noguera",
+    "mother_name": "Salvadora Martorell",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Roque Velasco",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 14 d'abril de 1824 a la Ràpita.\n\nMare: Salvadora Martorell Martí es de Benimaclet i es filla de José i María.\n\nPadrins: Roque Velasco i Francisca Ramos.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

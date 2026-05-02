@@ -1,0 +1,68 @@
+{
+  "id": "2949_vicenta_llopis_molina",
+  "source_id": "2949",
+  "row_ref": "2949. Vicenta Llopis Molina",
+  "name": "Vicenta Llopis Molina",
+  "gender": "female",
+  "birth": {
+    "date": "1854-01-01",
+    "place": "Benicarló"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Benicarló [aprox. 1854].\n\nCasament: amb Luís De San Francisco de Benicarló [1852].\n\nFills: Asunción [1881].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

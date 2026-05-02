@@ -1,0 +1,76 @@
+{
+  "id": "1997_francisco_ferrer",
+  "source_id": "1997",
+  "row_ref": "1997. Francisco Ferrer",
+  "name": "Francisco Ferrer",
+  "gender": "male",
+  "birth": {
+    "date": "1759-01-01",
+    "place": "Portell de Morella"
+  },
+  "death": {
+    "date": "1810-02-20",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1019_vicenta_carceller"
+    ],
+    "children": [
+      "2007_joaquin_ferrer_bellobi"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Vicenta Carceller"
+    ],
+    "children_names": [
+      "Joaquín Ferrer Bellobí"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Portell de Morella [aprox. 1759].\n\nCasament: amb Vicenta Carceller del Portell de Morella [1760].\n\nDefunció: el 20 de febrer de 1810 a la Ràpita. Va morir als 51 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

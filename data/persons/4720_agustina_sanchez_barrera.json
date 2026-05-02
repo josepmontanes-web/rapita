@@ -1,0 +1,74 @@
+{
+  "id": "4720_agustina_sanchez_barrera",
+  "source_id": "4720",
+  "row_ref": "4720. Agustina Sánchez Barrera",
+  "name": "Agustina Sánchez Barrera",
+  "gender": "female",
+  "birth": {
+    "date": "1842-01-24",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1842-01-30",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4778_jose_sanchez_pasqual",
+      "529_rosa_barrera_sancho"
+    ],
+    "father": "4778_jose_sanchez_pasqual",
+    "mother": "529_rosa_barrera_sancho",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Sánchez Pasqual",
+      "Rosa Barrera Sancho"
+    ],
+    "father_name": "José Sánchez Sanjuan",
+    "mother_name": "Rosa Barrera Sancho",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Barrera",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 24 de gener de 1842 a la Ràpita.\n\nPadrins: José Barrera i Agustina Noguerón.\n\nDefunció: el 30 de gener de 1842 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "3808_jose_agustin_parra_sancho",
+  "source_id": "3808",
+  "row_ref": "3808. José Agustín Parra Sancho",
+  "name": "José Agustín Parra Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1811-08-17",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3803_jose_parra_pardo",
+      "4854_josefa_sancho_biosca"
+    ],
+    "father": "3803_jose_parra_pardo",
+    "mother": "4854_josefa_sancho_biosca",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Parra Pardo",
+      "Josefa Sancho Biosca"
+    ],
+    "father_name": "José Parra Pardo",
+    "mother_name": "Josefa Sancho Biosca",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Safon",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 17 d'agost de 1811 a la Ràpita.\n\nPadrins: José Safont i Francisca Planes.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

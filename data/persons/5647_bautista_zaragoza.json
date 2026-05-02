@@ -1,0 +1,78 @@
+{
+  "id": "5647_bautista_zaragoza",
+  "source_id": "5647",
+  "row_ref": "5647. Bautista Zaragoza",
+  "name": "Bautista Zaragoza",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Vinaròs"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "5677_barbara_zaragoza_tora",
+      "5678_tomas_zaragoza_tora",
+      "5679_maria_zaragoza_tora"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Francisca Torá"
+    ],
+    "children_names": [
+      "Barbara Zaragoza Tora",
+      "Tomás Zaragoza Tora",
+      "Maria Zaragoza Torà"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1800].\n\nCasament: amb Francisca Torá Gombau de Vinaròs [1801].\n\nFills: Bautista, Manuel, Cristobal, Agustina, Bárbara (Vinaròs) [1827], Tomás (Vinaròs) [1828] i María [1831].\n\nAl gener de 1881 mor la seua dona i ell ja era mor.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

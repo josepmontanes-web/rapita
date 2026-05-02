@@ -1,0 +1,68 @@
+{
+  "id": "4702_anastasia_samper_saez",
+  "source_id": "4702",
+  "row_ref": "4702. Anastasia Samper Saez",
+  "name": "Anastasia Samper Saez",
+  "gender": "female",
+  "birth": {
+    "date": "1850-01-01",
+    "place": "Benidorm"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Benidorm [aprox. 1850].\n\nCasament: amb Juan Reverté Pla d'Alcanar [1850].\n\nFills: Jaime [1858] i Estacia [1877].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

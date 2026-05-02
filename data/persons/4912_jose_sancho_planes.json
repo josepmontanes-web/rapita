@@ -1,0 +1,84 @@
+{
+  "id": "4912_jose_sancho_planes",
+  "source_id": "4912",
+  "row_ref": "4912. José Sancho Planes",
+  "name": "José Sancho Planes",
+  "gender": "male",
+  "birth": {
+    "date": "1815-12-23",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4855_jose_sancho_biosca"
+    ],
+    "father": "4855_jose_sancho_biosca",
+    "mother": null,
+    "spouse": [
+      "326_antonia_balada_balada"
+    ],
+    "children": [
+      "4849_mariana_francisca_sancho_balada",
+      "4851_buenaventura_josef_sancho_balada"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Sancho Biosca",
+      "Mª. Francisca Planes Govern"
+    ],
+    "father_name": "José Sancho Biosca",
+    "mother_name": "Mª. Francisca Planes Govern",
+    "spouse_names": [
+      "Antonia Balada Balada",
+      "Maria Miguel Fibla"
+    ],
+    "children_names": [
+      "Mariana Francisca Sancho Balada",
+      "Buenaventura Josef Sancho Balada"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Santiago Porta",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 23 de desembre de 1815 a la Ràpita.\n\nPadrins: Santiago Porta i Rita Balada.\n\nProfessió: pagès.\n\nCasament: el 19 de maig de 1836 amb Antonia Balada Balada de la Ràpita [1821].\n\nFills: Mariana Francisca [1837], Buenaventura José [1839], María [1842] i Toribio [1843].\n\nCasament: el 20 de maig de 1848 amb María Miguel Fibla de la Ràpita [1822].\n\nFills: Ramón [1851].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

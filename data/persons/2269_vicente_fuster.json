@@ -1,0 +1,68 @@
+{
+  "id": "2269_vicente_fuster",
+  "source_id": "2269",
+  "row_ref": "2269. Vicente Fuster",
+  "name": "Vicente Fuster",
+  "gender": "male",
+  "birth": {
+    "date": "1735-01-01",
+    "place": "Figueres"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Figueres [aprox. 1735].\n\nEl 22 d'octubre de 1782 es nomenat Oficial de la Intervenció de les Obres i Agent Fiscal del Jutjat. Sou 9 R.v. plata diaris. (ACA BGRP Correspondència Caixa 2).\n\n5 Nov 1782. Canals a Martorell: quedo enterado por la de vm de 3 del corriente de a ver llegado a estas Reales obras  Dn Vizente Fuster y de quedar enterado de sus encargos  ACA_BGRP.RP. Cajas, 2\n\nEmpleat de les Obres des de 1783. Al 1787 Naudín diu que serà \"empleado para dirigir las mediciones\". (ACA_BGRP_Correspondència_caixa 9).\n\nEs veí de la Ràpita a 1796 (ACA Processos 1796 7F).\n\nTestimoni del casament de Josef Biscarro i Agustina García 20-3-1797. Idem del casament de Jayme Alemany i Rosa Pardo 27-3-1797. \nApareix un Don Vicente Fuster com a contribuient d'aigua per 2 jornals en partida indeterminada (Doc. 1). \nHi ha un Vicente Fuster que és oficial de llistes de les Reials Obres de Sant Carles, amb sou fix aprovat per Carles III, el gener de 1785, de 2920 rals de billó anuals\n\nA l'estat de veïns de setembre de 1798 diu que viu a la casa núm. 39 de la \"Calle Mayor\" (ACA BGRP Cajas 34). Al gener de 1799 paga un lloguer de 20,23 Rv per aquesta casa. Al juny de 1799 ja no paga el lloguer d'aquesta casa.\n\nDon Vicente Fuster se ha ausentado el año 1817 dejando a deber 12 meses de alquiler.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "2757_pedro_gueche_subirats",
+  "source_id": "2757",
+  "row_ref": "2757. Pedro Gueche Subirats",
+  "name": "Pedro Gueche Subirats",
+  "gender": "male",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2757_pedro_gueche_subirats",
+      "5183_josefa_subirats"
+    ],
+    "father": "2757_pedro_gueche_subirats",
+    "mother": "5183_josefa_subirats",
+    "spouse": [
+      "3787_josefa_panisello_roe"
+    ],
+    "children": [
+      "2755_jose_antonio_gueche_panisello",
+      "2756_francisca_gueche_subirats",
+      "2757_pedro_gueche_subirats"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Gueche Subirats",
+      "Josefa Subirats"
+    ],
+    "father_name": "Pedro Gueché",
+    "mother_name": "Josefa Subirats",
+    "spouse_names": [
+      "Josefa Panisello Roe"
+    ],
+    "children_names": [
+      "José Antonio Gueche Panisello",
+      "Francisca Gueche Subirats",
+      "Pedro Gueche Subirats"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1790].\n\nCasament: amb Josefa Panisello Roé de la Galera [1790].\n\nFills: José Antonio [1815].\n\nEs germà de Francisca Gueche Subirats [1800].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

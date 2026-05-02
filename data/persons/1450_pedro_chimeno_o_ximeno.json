@@ -1,0 +1,74 @@
+{
+  "id": "1450_pedro_chimeno_o_ximeno",
+  "source_id": "1450",
+  "row_ref": "1450. Pedro Chimeno [o Ximeno]",
+  "name": "Pedro Chimeno [o Ximeno]",
+  "gender": "male",
+  "birth": {
+    "date": "1770-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1796_2_1846"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Tomasa Simó"
+    ],
+    "children_names": [
+      "2 1846"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1770].\n\nCasament: amb Tomasa Simó.\n\nFills: María [1790] i Josefa [1793].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

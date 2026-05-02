@@ -1,0 +1,75 @@
+{
+  "id": "1545_rita_colls_dias",
+  "source_id": "1545",
+  "row_ref": "1545. Rita Colls Dias",
+  "name": "Rita Colls Dias",
+  "gender": "female",
+  "birth": {
+    "date": "1792-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "5147_jose_sociats_termins"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "D. Isidro Colls",
+      "Dña. Isabel Dias"
+    ],
+    "father_name": "D. Isidro Colls",
+    "mother_name": "Dña. Isabel Dias",
+    "spouse_names": [
+      "José Sociats Termins"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1792].\n\nCasament: el 14 de febrer de 1814 amb José Sociats Termins de Barcelona [1788].\n\nEs germana d'Isidro Colls Dias [1780].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

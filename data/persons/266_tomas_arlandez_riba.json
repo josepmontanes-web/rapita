@@ -1,0 +1,91 @@
+{
+  "id": "266_tomas_arlandez_riba",
+  "source_id": "266",
+  "row_ref": "266. Tomás Arlández Riba",
+  "name": "Tomás Arlández Riba",
+  "gender": "male",
+  "birth": {
+    "date": "1767-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1837-09-17",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1483_francisco_cid_arlandez"
+    ],
+    "father": "1483_francisco_cid_arlandez",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "239_teresa_arlandez_cartes",
+      "250_tomas_arlandez_cid",
+      "252_ramon_arlandez_cid",
+      "253_lorenza_arlandez_cid",
+      "254_lorenzo_arlandez_cid",
+      "255_juan_bautista_arlandez_cid",
+      "256_tomasa_arlandez_cid"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Cid Arlández",
+      "Mª. Angela Riba"
+    ],
+    "father_name": "Francisco Arlández",
+    "mother_name": "Mª. Angela Riba",
+    "spouse_names": [
+      "Mª. Cinta Cid"
+    ],
+    "children_names": [
+      "Teresa Arlández Cartes",
+      "Tomas Arlández Cid",
+      "Ramón Arlández Cid",
+      "Lorenza Arlández Cid",
+      "Lorenzo Arlández Cid",
+      "Juan Bautista Arlández Cid",
+      "Tomasa Arlández Cid"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  a Tortosa [aprox. 1767].\n\nCasament: amb María de la Cinta Cid Ferré de Tortosa [1798].\n\nFills: Tomás (Tortosa) [aprox 1820], Juana María [1821], Engracia [1823], Ramón [1825], Juan Bautista 1828], Lorenza [1831], Lorenzo [1831] i Tomasa 1834].\n\nDefunció: el 17 de setembre de 1837 a la Ràpita. Va morir als 70 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

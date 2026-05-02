@@ -1,0 +1,74 @@
+{
+  "id": "3970_magdalena_pinol",
+  "source_id": "3970",
+  "row_ref": "3970. Magdalena Piñol",
+  "name": "Magdalena Piñol",
+  "gender": "female",
+  "birth": {
+    "date": "1760-01-01",
+    "place": "Perelló"
+  },
+  "death": {
+    "date": "1794-11-12",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1996_jose_ferrer",
+      "535_jayme_bastet"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "José Ferrer",
+      "Jayme Bastet"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: al Perelló [aprox. 1760]. \n\nCasament: amb José Ferrer de Tivenys.\n\nFills: Teresa (El Perelló) [1783].\n\nCasament: el 27 de maig de 1792 amb Jayme Bastet [1760].\n\nDefunció: el 12 de novembre de 1794 a la Ràpita. No fa testament perquè no té res.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

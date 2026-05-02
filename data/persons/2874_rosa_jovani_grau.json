@@ -1,0 +1,81 @@
+{
+  "id": "2874_rosa_jovani_grau",
+  "source_id": "2874",
+  "row_ref": "2874. Rosa Jovani Grau",
+  "name": "Rosa Jovani Grau",
+  "gender": "female",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2866_juan_jovani"
+    ],
+    "father": "2866_juan_jovani",
+    "mother": null,
+    "spouse": [
+      "3438_juan_miro_sole"
+    ],
+    "children": [
+      "3433_alejandro_rafael_miro_jovani"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Jovani",
+      "Maria Grau"
+    ],
+    "father_name": "Juan Jovani",
+    "mother_name": "Maria Grau",
+    "spouse_names": [
+      "Juan Miró Solé"
+    ],
+    "children_names": [
+      "Alejandro Rafael Miró Jovani"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1800].\n\nCasament: l'1 de març de 1824 amb Juan Miró Solé d'Amposta [1800].\n\nFills: Juan [1824], Alejandro [1827], Benita [1835], Jayme [1838] i Pascuala [1840].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

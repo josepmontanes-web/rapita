@@ -1,0 +1,82 @@
+{
+  "id": "5221_juan_talarn",
+  "source_id": "5221",
+  "row_ref": "5221. Juan Talarn",
+  "name": "Juan Talarn",
+  "gender": "male",
+  "birth": {
+    "date": "1731-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1804-12-29",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "5259_teresa_talarn_valldeperez",
+      "5261_francisca_talarn_valldeperez",
+      "5262_geronimo_talarn_valldeperez",
+      "5263_salvador_talarn_valldeperez",
+      "1797_38_1800"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Theresa Valldeperez"
+    ],
+    "children_names": [
+      "Teresa Talarn Valldeperez",
+      "Francisca Talarn Valldeperez",
+      "Gerónimo Talarn Valldepérez",
+      "Salvador Talarn Valldeperez",
+      "38 1800"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1731]. \n\nProfessió: pagès i guarda de sanitat (ACA BGRP Correspondencia caixa 25). A 1780 treballa a les Obres del Canal de Navegació (ACA BGRP caixa 43).\n\nCasament: amb Teresa Valldeperez de la Galera [1738]. Al estat de veïns de setembre de 1798 diu que viuen a una casa \"enfrente de la torra\" (ACA BGRP Cajas 34).\n\nFills: Gerónimo (Tortosa) [1770], Teresa (Tortosa) [1775], Salvador (Amposta) [1780], Juan [1780] i Francisca [1782].\n\nDefunció: el 29 de desembre de 1804 a la Ràpita. \"Hace testamento ante el cura\".\n\nEs veí de la Ràpita a 1796 (ACA Processos 1796 7F). Té 64 anys.\n\nAl 1787 diu que fa de secretari amb Diago i fill per a fer un embargament (ACA BGPR Correspondencia Caixa 9).\n\nQue al principi de les obres hi havia una muntanyeta de polvora en un racó de l’església, que no van voler treure els guardes de sanitat (Juan Talarn i tomás Roé, i que es va posar un soldat de sentinella i es va avisar el governador de Tortosa (ACA caixa 25). Entonces ya vivían en la casa de aquellas monjas pared en medio sus colonos y criados, y junto a ellas, los guardas de sanidad los de Rts.Rs y algunos pescadores y, regularmente, un destacamento de tropa en la torre de la ràpita",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

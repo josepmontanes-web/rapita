@@ -1,0 +1,68 @@
+{
+  "id": "1268_cinta_castella_fortuna",
+  "source_id": "1268",
+  "row_ref": "1268. Cinta Castellà Fortuna",
+  "name": "Cinta Castellà Fortuna",
+  "gender": "female",
+  "birth": {
+    "date": "1864-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1864].\n\nCasament: al 17 de juliol de 1882 amb Miguel Rosales Castellà de la Ràpita [1860]. Es casa als 18 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

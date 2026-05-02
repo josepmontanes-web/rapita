@@ -1,0 +1,68 @@
+{
+  "id": "3385_miguel_millan_bel",
+  "source_id": "3385",
+  "row_ref": "3385. Miguel Millán Bel",
+  "name": "Miguel Millán Bel",
+  "gender": "male",
+  "birth": {
+    "date": "1863-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1863].\n\nProfessió: pastor.\n\nDefunció: el 8 de juny de 1880 a la Ràpita als 17 anys de \" una fractura del hueso con herida de las membranas y derreme cerebral\". Declara la mor la seua tia Miguela Beltran de la Ràpita de 30 anys, casada.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

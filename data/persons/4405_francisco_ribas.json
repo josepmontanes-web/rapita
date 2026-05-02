@@ -1,0 +1,68 @@
+{
+  "id": "4405_francisco_ribas",
+  "source_id": "4405",
+  "row_ref": "4405. Francisco Ribas",
+  "name": "Francisco Ribas",
+  "gender": "male",
+  "birth": {
+    "date": "1780-01-01",
+    "place": "Malilla (Granada)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Malilla (Granada) [aprox. 1780].\n\n\"Administrador de la Real Aduana\".\n\nCasament: amb Doña Isabel Cavallero de Fregenal de la Sierra (Sevilla).\n\nFills: María del Carmen Ribas Cavallero (Baza) [1810].\n\nDes de l'1 de març de 1834 al 30 d'abril de 1834 paga lloguer de 40 Rs. mensuals per la casa 4 de la mançana 1 (actual casa de la vila). (AGP.PER.LEG.1073/23 [Juan Vecino]).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

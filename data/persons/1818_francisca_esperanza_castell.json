@@ -1,0 +1,71 @@
+{
+  "id": "1818_francisca_esperanza_castell",
+  "source_id": "1818",
+  "row_ref": "1818. Francisca Esperanza Castell",
+  "name": "Francisca Esperanza Castell",
+  "gender": "female",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Vinaròs"
+  },
+  "death": {
+    "date": "1810-07-28",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Christoval Esperanza",
+      "Vicenta Rosa Castell"
+    ],
+    "father_name": "Christoval Esperanza",
+    "mother_name": "Vicenta Rosa Castell",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1810].\n\nDefunció: el 28 de juliol de 1810 a la Ràpita. Va morir als 10 mesos. \"Murió en este puerto\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

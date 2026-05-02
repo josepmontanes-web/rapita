@@ -1,0 +1,73 @@
+{
+  "id": "3927_josefa_peris_vines",
+  "source_id": "3927",
+  "row_ref": "3927. Josefa Peris Viñes",
+  "name": "Josefa Peris Viñes",
+  "gender": "female",
+  "birth": {
+    "date": "1792-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1801-08-08",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3919_tomas_peris_pavia"
+    ],
+    "father": "3919_tomas_peris_pavia",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomàs Peris Pavia",
+      "Francisca Viñes"
+    ],
+    "father_name": "Tomàs Peris",
+    "mother_name": "Francisca Viñes",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1792]. \n\nDefunció: el 8 d'agost de 1801 a la Ràpita. Va morir als 9 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

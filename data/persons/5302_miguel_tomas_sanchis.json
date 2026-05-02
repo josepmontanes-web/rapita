@@ -1,0 +1,80 @@
+{
+  "id": "5302_miguel_tomas_sanchis",
+  "source_id": "5302",
+  "row_ref": "5302. Miguel Tomás Sanchís",
+  "name": "Miguel Tomás Sanchís",
+  "gender": "male",
+  "birth": {
+    "date": "1805-01-01",
+    "place": "Godall"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5288_joaquin_tomas",
+      "4710_joaquina_sanchis_o_sanchez"
+    ],
+    "father": "5288_joaquin_tomas",
+    "mother": "4710_joaquina_sanchis_o_sanchez",
+    "spouse": [],
+    "children": [
+      "5303_ramon_tomas_sole"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Tomás",
+      "Joaquina Sanchís [o Sánchez]"
+    ],
+    "father_name": "Joaquín Tomas",
+    "mother_name": "Joaquina Sanchis",
+    "spouse_names": [
+      "Teresa Reverter Forné"
+    ],
+    "children_names": [
+      "Ramón Tomas Solé"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Godall [aprox. 1805].\n\nCasament: el 29 d'agost de 1838 amb Teresa Reverter Forné d'Alcanar [1802].\n\nFills: Teresa [1840] i Juan [1842].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

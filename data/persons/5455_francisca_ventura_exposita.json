@@ -1,0 +1,82 @@
+{
+  "id": "5455_francisca_ventura_exposita",
+  "source_id": "5455",
+  "row_ref": "5455. Francisca Ventura Expósita",
+  "name": "Francisca Ventura Expósita",
+  "gender": "female",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "4815_peregrin_vicente_sanchiz_ventura",
+      "4816_andres_sanchiz_ventura",
+      "4820_teresa_maria_sanchis_ventura",
+      "4821_francisco_sanchiz_ventura",
+      "4822_christoval_sanchez_ventura"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Pelegrín Sánchez Yserte"
+    ],
+    "children_names": [
+      "Peregrín Vicente Sanchiz Ventura",
+      "Andrés Sanchiz Ventura",
+      "Teresa Maria Sanchis Ventura",
+      "Francisco Sanchiz Ventura",
+      "Christoval Sánchez Ventura"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1790].\n\nCasament: el 29 de març de 1824 amb Pelegrín Sánchez Yserte [o Iserte] d'Amposta [1790].\n\nFills: Teresa María [1825], Josefa [1828], Peregrín Vicente [1829], Andrés [1831], Teresa María [1833], Francisco [1835], Christoval [1838], María de la Concepción [1840] i Pelegrín [1846].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

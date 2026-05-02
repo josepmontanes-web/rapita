@@ -1,0 +1,75 @@
+{
+  "id": "2902_teresa_julve_serrania",
+  "source_id": "2902",
+  "row_ref": "2902. Teresa Julve Serranía",
+  "name": "Teresa Julve Serranía",
+  "gender": "female",
+  "birth": {
+    "date": "1795-01-01",
+    "place": "La Sénia de Rossell"
+  },
+  "death": {
+    "date": "1826-03-16",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "5335_joaquin_torres_serret"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Carlos Julve",
+      "Vicenta Serranía"
+    ],
+    "father_name": "Carlos Julve",
+    "mother_name": "Vicenta Serranía",
+    "spouse_names": [
+      "Joaquín Torres Serret"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Senia de Rossell [aprox. 1795].\n\nFills: Francisco [1823] i Agustín [1824].\n\nDefunció: el 16 de març de 1826 a la Ràpita. Va morir als 31 anys de \"enfermedad inflamatoria\".\n\nEl cognom també apareix com a Chulvi.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

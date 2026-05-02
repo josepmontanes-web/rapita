@@ -1,0 +1,78 @@
+{
+  "id": "360_juan_balada_planes",
+  "source_id": "360",
+  "row_ref": "360. Juan Balada Planes",
+  "name": "Juan Balada Planes",
+  "gender": "male",
+  "birth": {
+    "date": "1824-09-13",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "342_francisco_balada_forcadell",
+      "3995_eulalia_planes_gubern"
+    ],
+    "father": "342_francisco_balada_forcadell",
+    "mother": "3995_eulalia_planes_gubern",
+    "spouse": [
+      "4198_francisca_reverter_balada"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Balada Forcadell",
+      "Eulalia Planes Gubern"
+    ],
+    "father_name": "Francisco Balada Forcadell",
+    "mother_name": "Eulalia Planes Gubern",
+    "spouse_names": [
+      "Francisca Reverter Balada"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Juan Marcoval",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 13 de setembre de 1824 a la Ràpita.\n\nPadrins: Don Juan Marcoval i Doña Francisca Vives d'Ulldecona. El padrí es de la Senia i \"Capitán de la sexta Compañía del 12 batallón de línea\".\n\nProfessió: pagès.\n\nEs bessó de Rosa.\n\nCasament: el 19 de juny de 1852 amb Francisca Reverter Balada de la Ràpita [1823].\n\nFills: Agustín [1853], José [1855], Francisca [1855] i Antonia [1856].\n\nDefunció: el 25 de juny de 1878 a la Ràpita. Mor de Hematemesis. Declara la mor la seua germana Rosa Balada.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

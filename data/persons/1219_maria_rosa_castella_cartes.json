@@ -1,0 +1,73 @@
+{
+  "id": "1219_maria_rosa_castella_cartes",
+  "source_id": "1219",
+  "row_ref": "1219. Maria Rosa Castellà Cartes",
+  "name": "Maria Rosa Castellà Cartes",
+  "gender": "female",
+  "birth": {
+    "date": "1840-02-04",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1206_agustin_castella_caldero"
+    ],
+    "father": "1206_agustin_castella_caldero",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustín Castellà Calderó",
+      "Maria Cartes Homedes"
+    ],
+    "father_name": "Agustín Castellà Calderó",
+    "mother_name": "Maria Cartes Homedes",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Manuel Noguerón",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 4 de febrer de 1840 a la Ràpita.\n\nPadrins: Manuel Noguerón i Rosa Cartes.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

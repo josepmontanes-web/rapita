@@ -1,0 +1,90 @@
+{
+  "id": "1670_jose_curto_cavaller",
+  "source_id": "1670",
+  "row_ref": "1670. José Curto Cavaller",
+  "name": "José Curto Cavaller",
+  "gender": "male",
+  "birth": {
+    "date": "1805-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1690_francisco_curto_sabater"
+    ],
+    "father": "1690_francisco_curto_sabater",
+    "mother": null,
+    "spouse": [
+      "4922_maria_sancho_reverte"
+    ],
+    "children": [
+      "1677_agustin_curto_lleixa",
+      "1691_maria_de_los_dolores_curto_sancho",
+      "1692_rosa_curto_sancho",
+      "1693_tomas_curto_sancho",
+      "1694_maria_de_los_dolores_curto_sancho",
+      "1695_peregrin_curto_sancho"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Curto Sabater",
+      "Rosa Cavaller"
+    ],
+    "father_name": "Francisco Curto",
+    "mother_name": "Rosa Cavaller",
+    "spouse_names": [
+      "Maria Sancho Reverté"
+    ],
+    "children_names": [
+      "Agustín Curto Lleixà",
+      "Maria de los Dolores Curto Sancho",
+      "Rosa Curto Sancho",
+      "Tomás Curto Sancho",
+      "Peregrín Curto Sancho"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tivenys [aprox. 1805].\n\nCasament: el 26 de febrer de 1829 amb María Sancho Reverté d'Alcanar [1806].\n\nFills: Tomás [1831], Rosa [1833], María Dolores [1836], María Dolores [1838], Peregrín [1841], José [1845] i Agustín [1845].\n\nVenta: de Miguel Ramón Matamoros (podría ser Miguel Ramón Matamoros Lletí fill de Juan Bautista Matamoros Reverter i de Tomasa Lletí Navarro y casat amb Ramona Rosales Junyent filla de Miguel Rosales Valls i Catarina Junyent Llaó), labrador, a José Curto (podría ser José Curto Cavaller casat amb Maria Sancho Reverté), labrador, de porción de casa en la calle de Valencia que a del primer piso alto hacia arriba y cuyos bajos son ya del comprador. Linda con Juan Moya, con Josefa Matamoros y con patio de la viuda de Miguel Reverter. 31 de marzo de 1858. Escribano Juan Ventosa de Amposta. Valor 845.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

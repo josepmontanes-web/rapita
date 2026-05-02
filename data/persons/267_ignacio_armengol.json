@@ -1,0 +1,68 @@
+{
+  "id": "267_ignacio_armengol",
+  "source_id": "267",
+  "row_ref": "267. Ignacio Armengol",
+  "name": "Ignacio Armengol",
+  "gender": "male",
+  "birth": {
+    "date": "1750-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Doctor"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1750].\n\nProfessió: \"Doctor\".\n\nEstá a La Ràpita a l'agost de 1792.\n\nel 27 de desembre de 1790 Martorell li concedeix 100 jornals de terra a la Punta Grosa. Notari Bartolomé Garcia de Tortosa.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

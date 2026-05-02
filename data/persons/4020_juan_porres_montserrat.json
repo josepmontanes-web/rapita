@@ -1,0 +1,68 @@
+{
+  "id": "4020_juan_porres_montserrat",
+  "source_id": "4020",
+  "row_ref": "4020. Juan Porres Montserrat",
+  "name": "Juan Porres Montserrat",
+  "gender": "male",
+  "birth": {
+    "date": "1852-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1852].\n\nProfessió: pagès.\n\nCasament: el 16 de desembre de 1876 amb Josefa Sabaté Matamoros de la Ràpita [1856].\n\nFills: Juan [1877] i José [1880].\n\nNo signa la declaració de naixement del fill al registre civil per no saber.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

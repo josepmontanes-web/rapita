@@ -1,0 +1,73 @@
+{
+  "id": "1325_lazaro_castella_talarn",
+  "source_id": "1325",
+  "row_ref": "1325. Lázaro Castellà Talarn",
+  "name": "Lázaro Castellà Talarn",
+  "gender": "male",
+  "birth": {
+    "date": "1833-12-17",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1835-04-25",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1172_pedro_castella_alegret"
+    ],
+    "father": "1172_pedro_castella_alegret",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Castellà Alegret",
+      "Francisca Talarn Blanch"
+    ],
+    "father_name": "Pedro Castellà Alegret",
+    "mother_name": "Francisca Talarn Blanch",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Manuel Noguerón menor",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 17 de desembre de 1833 a la Ràpita.\n\nPadrins: Manuel Noguerón menor i María Reverter.\n\nDefunció: el 25 d'abril de 1835 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

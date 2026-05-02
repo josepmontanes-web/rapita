@@ -1,0 +1,68 @@
+{
+  "id": "612_cesar_beltran_fibla",
+  "source_id": "612",
+  "row_ref": "612. Cesar Beltran Fibla",
+  "name": "Cesar Beltran Fibla",
+  "gender": "male",
+  "birth": {
+    "date": "1845-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1845].\n\nProfessió: farmaceutic o apotecari.\n\nCasament: amb Rosa Rubio Forcadell d'Alcanar [1845]. Viuen a \"la Plaza Mayor número 37\" (podria ser la Plaça Carles III, 37, \"la casa de Laureano\"). La Plaça del Coc només té 19 números.\n\nFills: Joaquín Lucas [1875] i Olegario José Hermógenes [1877] i Enrique Federico [1879].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

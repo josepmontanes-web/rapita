@@ -1,0 +1,82 @@
+{
+  "id": "4922_maria_sancho_reverte",
+  "source_id": "4922",
+  "row_ref": "4922. María Sancho Reverté",
+  "name": "María Sancho Reverté",
+  "gender": "female",
+  "birth": {
+    "date": "1806-01-01",
+    "place": "ALCANAR"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4833_jose_sancho"
+    ],
+    "father": "4833_jose_sancho",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1691_maria_de_los_dolores_curto_sancho",
+      "1694_maria_de_los_dolores_curto_sancho",
+      "1695_peregrin_curto_sancho"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Sancho",
+      "María Reverté"
+    ],
+    "father_name": "José Sancho",
+    "mother_name": "María Reverté",
+    "spouse_names": [
+      "José Curto Cavallé"
+    ],
+    "children_names": [
+      "Maria de los Dolores Curto Sancho",
+      "Peregrín Curto Sancho"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1806]. \n\nCasament: el 26 de febrer de 1829 amb José Curto Cavallé de Tivenys [1805].\n\nFills: Tomás [1831], Rosa [1833], María Dolores [1836], María Dolores [1838], Peregrín [1841], José [1845] i Agustín [1845].\n\nDefunció: el 15 de març de 1877 a la Ràpita als 71 anys de disenteria. Declara la mor al registre civil Encarnación Rabasa de Cartagena.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

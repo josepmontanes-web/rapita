@@ -1,0 +1,74 @@
+{
+  "id": "4238_teresa_reverte_ferre",
+  "source_id": "4238",
+  "row_ref": "4238. Teresa Reverté Ferré",
+  "name": "Teresa Reverté Ferré",
+  "gender": "female",
+  "birth": {
+    "date": "1848-10-13",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4193_bautista_reverter_balada",
+      "2028_teresa_ferre_fabregat"
+    ],
+    "father": "4193_bautista_reverter_balada",
+    "mother": "2028_teresa_ferre_fabregat",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Reverter Balada",
+      "Teresa Ferré Fabregat"
+    ],
+    "father_name": "Bautista Reverté Balada",
+    "mother_name": "Teresa Ferré Fabregat",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 13 d'octubre de 1848 a la Ràpita.\n\nCasament: el 13 de juliol de 1872 amb Mariano Andrés Pepiol Chillida [1849]. Viuen a la Plaça Major (Plaça Carles III).\n\nFills: Josefa [1874], Francisca [1877] i Cinta Serafina [1880].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "930_rosa_caldero_ferre",
+  "source_id": "930",
+  "row_ref": "930. Rosa Calderó Ferré",
+  "name": "Rosa Calderó Ferré",
+  "gender": "female",
+  "birth": {
+    "date": "1775-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "2840_manuel_izquierdo_carceller"
+    ],
+    "children": [
+      "2834_josefa_izquierdo_caldero",
+      "2835_miguel_izquierdo_caldero",
+      "2836_maria_rosa_izquierdo_caldero",
+      "2837_josefa_agustina_izquierdo_caldero",
+      "2838_manuel_izquierdo_caldero"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Calderó",
+      "Francisca Ferré"
+    ],
+    "father_name": "Pedro Calderó",
+    "mother_name": "Francisca Ferré",
+    "spouse_names": [
+      "Manuel Izquierdo Carceller"
+    ],
+    "children_names": [
+      "Josefa Izquierdo Calderó",
+      "Miguel Izquierdo Calderó",
+      "Maria Rosa Izquierdo Calderó",
+      "Josefa Agustina Izquierdo Calderó",
+      "Manuel Izquierdo Calderó"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1775].\n\nCasament: el 29 de juny de 1796 a la Catedral de Tortosa amb Manuel Izquierdo Carceller d'Arnes [1772].\n\nFills: Josefa (Tortosa) [1788], María Rosa [1797], Miguel [1798], Josefa Agustina [1811] i Manuel [1814].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Fonda Vella (ACA BGRP Cajas 34).\n\nGermana de Josefa Calderó Ferré [1765] i María Calderó Ferré [1769].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

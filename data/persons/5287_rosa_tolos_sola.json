@@ -1,0 +1,75 @@
+{
+  "id": "5287_rosa_tolos_sola",
+  "source_id": "5287",
+  "row_ref": "5287. Rosa Tolós Solà",
+  "name": "Rosa Tolós Solà",
+  "gender": "female",
+  "birth": {
+    "date": "1762-01-01",
+    "place": "Calig"
+  },
+  "death": {
+    "date": "1803-01-17",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "2509_melchor_geser"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Vicente Tolós",
+      "Aufrecia Solà"
+    ],
+    "father_name": "Antonio Vicente Tolós",
+    "mother_name": "Aufrecia Solà",
+    "spouse_names": [
+      "Melchor Geser"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Càlig [aprox. 1762].\n\nCasament: amb Don Carlos Wandensampele de Flandes [1740].\n\nA l'estat de veïns de setembre de 1798 diu que viu a la casa núm. 2 de la \"Calle Mayor\" i diu que ja es vidua (ACA BGRP Cajas 34).\n\nCasament: el 5 de gener de 1800 amb Melchor Geser de Lindau (Alemania) [1760].\n\nDefunció: el 17 de gener de 1803 a la Ràpita. Fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

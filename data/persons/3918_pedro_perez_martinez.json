@@ -1,0 +1,68 @@
+{
+  "id": "3918_pedro_perez_martinez",
+  "source_id": "3918",
+  "row_ref": "3918. Pedro Pérez Martínez",
+  "name": "Pedro Pérez Martínez",
+  "gender": "male",
+  "birth": {
+    "date": "1847-01-01",
+    "place": "Alacant"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alacant [aprox. 1847].\n\nProfessió: \"ayudante militar de marina\".\n\nCasament: amb Brígida Gómez Navarro d'Alacant [1858].\n\nFills: Carlos Pedro [1880].\n\nCasament: el 13 d'abril de 1882 amb Dolores Sánchez Santana d'Alacant [1860]. Es casa als 35 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

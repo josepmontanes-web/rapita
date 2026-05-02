@@ -1,0 +1,83 @@
+{
+  "id": "855_juan_bautista_brunet_cases",
+  "source_id": "855",
+  "row_ref": "855. Juan Bautista Brunet Cases",
+  "name": "Juan Bautista Brunet Cases",
+  "gender": "male",
+  "birth": {
+    "date": "1760-01-01",
+    "place": "Xerta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3441_theresa_monlleo_ortiz"
+    ],
+    "children": [
+      "860_rosa_brunet_monllao",
+      "862_agustin_brunet_monlleo",
+      "864_raimundo_brunet_monlleo"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Brunet",
+      "Josefa Cases"
+    ],
+    "father_name": "Bautista Brunet",
+    "mother_name": "Josefa Cases",
+    "spouse_names": [
+      "Theresa Monlleó Ortíz"
+    ],
+    "children_names": [
+      "Rosa Brunet Monllaó",
+      "Agustín Brunet Monlleó",
+      "Raimundo Brunet Monlleó"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Xerta [aprox. 1760].\n\nCasament: amb Teresa Monlleó Ortíz de Xerta [1760].\n\nFills: Rosa (Xerta) [1780], Bautista (Xerta) [1782], Francisco [1790], Agustín [1794], José Antonio [1785] i Raimundo [1797].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Mansana Vella núm. 9 (ACA BGRP Cajas 34). Al gener de 1799 paga un lloguer de 6 Rv per la mateixa casa.\n\nEs germà de Teresa Brunet Cases de Xerta [1768].\n\nDe l'1 de juny de 1834 al 31 de juliol de 1839 ha de pagar un lloguer de 7 Rs mensuals per la casa 4 del carrer del Forn (podria ser ell o el seu fill Bautista Brument Monlleó). (AGP.PER.LEG.1073/23 [Juan Vecino]).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

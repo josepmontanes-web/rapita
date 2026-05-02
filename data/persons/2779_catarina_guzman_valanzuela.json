@@ -1,0 +1,73 @@
+{
+  "id": "2779_catarina_guzman_valanzuela",
+  "source_id": "2779",
+  "row_ref": "2779. Catarina Guzmán Valanzuela",
+  "name": "Catarina Guzmán Valanzuela",
+  "gender": "female",
+  "birth": {
+    "date": "1842-12-23",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2777_domingo_guzman_obiol"
+    ],
+    "father": "2777_domingo_guzman_obiol",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Domingo Guzmán Obiol",
+      "Josefa Maria Balanzuela Fontanet"
+    ],
+    "father_name": "Domingo Gusmán Obiol",
+    "mother_name": "Josefa Maria Balanzuela Fontanet",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Tomás Castellà",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 23 de desembre de 1842 a la Ràpita.\n\nPadrins: Tomás Castellà i Catarina Silvestre.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

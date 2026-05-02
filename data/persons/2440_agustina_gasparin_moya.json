@@ -1,0 +1,77 @@
+{
+  "id": "2440_agustina_gasparin_moya",
+  "source_id": "2440",
+  "row_ref": "2440. Agustina Gasparín Moya",
+  "name": "Agustina Gasparín Moya",
+  "gender": "female",
+  "birth": {
+    "date": "1823-01-02",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2437_lorenzo_gasparin_matamoros"
+    ],
+    "father": "2437_lorenzo_gasparin_matamoros",
+    "mother": null,
+    "spouse": [
+      "4279_manuel_reverte_izquierdo"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Lorenzo Gasparín Matamoros",
+      "Rosa Moya Villarroya"
+    ],
+    "father_name": "Lorenzo Gasparín Matamoros",
+    "mother_name": "Rosa Moya Villarroya",
+    "spouse_names": [
+      "Manuel Reverté Izquierdo"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Agustín Izquierdo",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 2 de gener de 1823 a la Ràpita.\n\nPadrins: Agustín Izquierdo i María Chillida.\n\nCasament: el 6 de maig de 1848 amb Manuel Reverté Izquierdo de la Ràpita [1821].\n\nFills: Pedro [1856] i Lorenzo [1860].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

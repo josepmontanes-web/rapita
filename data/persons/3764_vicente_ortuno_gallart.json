@@ -1,0 +1,77 @@
+{
+  "id": "3764_vicente_ortuno_gallart",
+  "source_id": "3764",
+  "row_ref": "3764. Vicente Ortuño Gallart",
+  "name": "Vicente Ortuño Gallart",
+  "gender": "male",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "València"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3763_vicente_ortuno_brull"
+    ],
+    "father": "3763_vicente_ortuno_brull",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "3763_vicente_ortuno_brull"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Ortuño Brull",
+      "Tadea Gallart"
+    ],
+    "father_name": "Vicente Ortuño",
+    "mother_name": "Tadea Gallart",
+    "spouse_names": [],
+    "children_names": [
+      "Vicente Ortuño Brull"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a València [aprox. 1810]. \n\nCasament: amb Antonia Brull Natales del Perelló (València), filla de Pedro i Antonia també del Perelló.\n\nFills: Vicente [1837].\n\nEs germà de María Ortuño Gallart [1802].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

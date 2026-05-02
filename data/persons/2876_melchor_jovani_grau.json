@@ -1,0 +1,82 @@
+{
+  "id": "2876_melchor_jovani_grau",
+  "source_id": "2876",
+  "row_ref": "2876. Melchor Jovani Grau",
+  "name": "Melchor Jovani Grau",
+  "gender": "male",
+  "birth": {
+    "date": "1805-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2866_juan_jovani"
+    ],
+    "father": "2866_juan_jovani",
+    "mother": null,
+    "spouse": [
+      "4227_antonia_reverter_chillida"
+    ],
+    "children": [
+      "2877_trinitario_carlos_jovani_lleti"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Jovani",
+      "Maria Grau"
+    ],
+    "father_name": "Juan Jovani",
+    "mother_name": "Maria Grau",
+    "spouse_names": [
+      "Teodora Lletí Ausens",
+      "Antonia Reverter Chillida"
+    ],
+    "children_names": [
+      "Trinitario Carlos Jovani Lletí"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1805].\n\nCasament: amb Teodora Lletí Ausensi [o Acsensi] de Freginals [1808].\n\nFills: Trinitario Carlos [1836].\n\nCasament: el 27 d'abril de 1839 amb Antonia Reverter Chillida d'Alcanar [1810].\n\nVenta: de Melchor Jovani y Grau, labrador, a Tomás Clua y Vidal, de casita de sólo plan terreno juntamente con todo el patio … de la misma existente parte del cual es cercado de pared y de extensión este de unos 30 palmos por la parte de la calle que antes situada dicha casita y patio en la calle de Carlos tercero que hace esquina y linda con otra calle que dirige al mar lindante con Domingo Pepiol, María Jovani y Miguel Reverter. Por precio de 23 duros. 25 de diciembre de 1859. Esc. Juan Ventosa de Amposta. Valor 460.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

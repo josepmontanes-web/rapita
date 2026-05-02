@@ -1,0 +1,72 @@
+{
+  "id": "1404_antonio_chaler",
+  "source_id": "1404",
+  "row_ref": "1404. Antonio Chaler",
+  "name": "Antonio Chaler",
+  "gender": "male",
+  "birth": {
+    "date": "1763-01-01",
+    "place": "Vinaroz"
+  },
+  "death": {
+    "date": "1807-12-05",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "4581_maria_rubert"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Maria Rubert"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1763].\n\nCasament: amb María Rubert de Barcelona [1767].\n\nDefunció: el 5 de desembre de 1807 a la Ràpita. No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

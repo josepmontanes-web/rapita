@@ -1,0 +1,74 @@
+{
+  "id": "4508_francisco_rosales_castella",
+  "source_id": "4508",
+  "row_ref": "4508. Francisco Rosales Castellà",
+  "name": "Francisco Rosales Castellà",
+  "gender": "male",
+  "birth": {
+    "date": "1835-08-21",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4558_ramon_rosales_valls",
+      "1235_antonia_castella_colomines"
+    ],
+    "father": "4558_ramon_rosales_valls",
+    "mother": "1235_antonia_castella_colomines",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Ramón Rosales Valls",
+      "Antonia Castellà Colomines"
+    ],
+    "father_name": "Ramón Rosales Valls",
+    "mother_name": "Antonia Castellà Colomines",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Castellà",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 21 d'agost de 1835 a la Ràpita.\n\nPadrins: José Castellà i Francisca Borràs.\n\nProfessió: marino.\n\nCasament: amb Dolores Gasparín.\n\nCasament: el 18 de març de 1871 amb Teresa Oms Amargo de Peníscola [1843].\n\nFills: José [1876] i Carlota [1878].\n\nNo signa la declaració de naixement del fill al registre civil per no saber.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

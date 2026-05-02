@@ -1,0 +1,74 @@
+{
+  "id": "4581_maria_rubert",
+  "source_id": "4581",
+  "row_ref": "4581. María Rubert",
+  "name": "María Rubert",
+  "gender": "female",
+  "birth": {
+    "date": "1767-01-01",
+    "place": "Barcelona"
+  },
+  "death": {
+    "date": "1831-12-28",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1404_antonio_chaler",
+      "5016_jose_sans_sanarau"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Antonio Chaler",
+      "José Sans Sanarau"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Barcelona [aprox. 1767]. \n\nCasament: amb Antonio Chaler de Vinaròs [1763].\n\nCasament: el 9 de desembre de 1809 amb José Sans Sanarau de Tivenys [1765]. Es casa als 42 anys. Testimonis: Ignacio Casajust i Diego Ruíz \"Dependiente de Ronda\". A la partida de casament el seu nom es Marina.\n\nDefunció: el 28 de desembre de 1831 a la Ràpita. Va morir als 64 anys de \"aproplegia\". No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

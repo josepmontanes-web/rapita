@@ -1,0 +1,68 @@
+{
+  "id": "1823_francisco_espuny_lluciano",
+  "source_id": "1823",
+  "row_ref": "1823. Francisco Espuny Lluciano",
+  "name": "Francisco Espuny Lluciano",
+  "gender": "male",
+  "birth": {
+    "date": "1850-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1850].\n\nProfessió: mariner.\n\nCasament: el 30 d'octubre 1875 amb Rosa Gallén Puigcerver de la Ràpita [1855]. Es casa als 25 anys.\n\nFills: Francisco Ramón [1876].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

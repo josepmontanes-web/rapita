@@ -1,0 +1,74 @@
+{
+  "id": "3537_maria_moya_lopez",
+  "source_id": "3537",
+  "row_ref": "3537. Maria Moya López",
+  "name": "Maria Moya López",
+  "gender": "female",
+  "birth": {
+    "date": "1791-01-26",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3544_juan_bautista_moya_masia",
+      "2985_maria_lopez_costa"
+    ],
+    "father": "3544_juan_bautista_moya_masia",
+    "mother": "2985_maria_lopez_costa",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Bautista Moya Masià",
+      "María López Costa"
+    ],
+    "father_name": "Juan Bautista Moya Rebertona",
+    "mother_name": "María López Costa",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Gasparín",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 26 de gener de 1791 a la Ràpita.\n\nPadrí: Francisco Gasparín.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

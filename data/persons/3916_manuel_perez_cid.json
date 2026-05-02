@@ -1,0 +1,73 @@
+{
+  "id": "3916_manuel_perez_cid",
+  "source_id": "3916",
+  "row_ref": "3916. Manuel Pérez Cid",
+  "name": "Manuel Pérez Cid",
+  "gender": "male",
+  "birth": {
+    "date": "1805-01-01",
+    "place": "Lucena (Andalusia)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Fermín Pérez",
+      "Gerónima Cid"
+    ],
+    "father_name": "Fermín Pérez",
+    "mother_name": "Gerónima Cid",
+    "spouse_names": [
+      "Madalena Adell Llagostera"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Armero"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Lucena (Córdoba) [aprox. 1805]. \n\nProfessió: \"armero\".\n\nCasament: el 10 d'abril de 1853 amb Madalena Adell Llagostera de la Ràpita [1817]. Es casa als 48 anys. Testimonis: Juan Pepiol i Bautista Castellà.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

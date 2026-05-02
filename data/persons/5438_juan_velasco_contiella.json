@@ -1,0 +1,73 @@
+{
+  "id": "5438_juan_velasco_contiella",
+  "source_id": "5438",
+  "row_ref": "5438. Juan Velasco Contiella",
+  "name": "Juan Velasco Contiella",
+  "gender": "female",
+  "birth": {
+    "date": "1825-04-28",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1825-04-28",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1609_raymunda_contiella_querol"
+    ],
+    "father": null,
+    "mother": "1609_raymunda_contiella_querol",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Don Roque Velasco (Belasco) Arnaiz",
+      "Raymunda Contiella Querol"
+    ],
+    "father_name": "Don Roque Velasco (Belasco) Arnaiz",
+    "mother_name": "Raymunda Contiella Querol",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 28 d'abril de 1825 a la Ràpita.\n\nDefunció: el 28 d'abril de 1825 a la Ràpita. Va morir inmediatament desprès de naixer. La bateja Juan Segarra per necessitat.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "674_julian_bercedo_fernandez",
+  "source_id": "674",
+  "row_ref": "674. Julián Bercedo Fernández",
+  "name": "Julián Bercedo Fernández",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Osorro (Castilla la Vieja)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Don Bernardo Bercedo",
+      "Doña Rafaela Fernández"
+    ],
+    "father_name": "Don Bernardo Bercedo",
+    "mother_name": "Doña Rafaela Fernández",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Osorro (Castilla la Vieja) [podría ser Osorno (Palencia] [aprox. 1800]\n\n\"Interventor de esta Real Aduana\".\n\nCasament: amb Doña Clara Mipell Brunet de Barcelona, filla de Pedro i Teresa.\n\nFills: Camila Carmen [1829].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

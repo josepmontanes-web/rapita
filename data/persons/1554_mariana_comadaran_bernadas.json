@@ -1,0 +1,81 @@
+{
+  "id": "1554_mariana_comadaran_bernadas",
+  "source_id": "1554",
+  "row_ref": "1554. Mariana Comadaran Bernadas",
+  "name": "Mariana Comadaran Bernadas",
+  "gender": "female",
+  "birth": {
+    "date": "1758-01-01",
+    "place": "Ripollet"
+  },
+  "death": {
+    "date": "1803-09-17",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1825_ramon_estape"
+    ],
+    "children": [
+      "1646_juan_modesto_cruelles_comadaran"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Fcº.o Bernardo Comadaran",
+      "Rosa Bernadas"
+    ],
+    "father_name": "Fcº.o Bernardo Comadaran",
+    "mother_name": "Rosa Bernadas",
+    "spouse_names": [
+      "Ramón Estapé",
+      "Jayme Cruelles Riera",
+      "Pedro Francisco Alegre"
+    ],
+    "children_names": [
+      "Juan Modesto Cruelles Comadaran"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagesa"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Ripollet [aprox. 1758].\n\nProfessió: pagesa.\n\nCasament: amb Ramón Estapé [1755].\n\nFills: Juan [1790], Antonia [1790], José [1791] i Engracia [1793].\n\nCasament: el 31 de març de 1794 amb Jayme Cruelles Riera de Lliçà d'Amunt [1750]. Testimonis: Joaquín Fibla i Silvestre Lluch.\n\nFills: Juan Modesto [1795].\n\nCasament: amb Pedro Francisco Alegre.\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Mansana Vella (carrer del Forn) núm. 21 (ACA BGRP Cajas 34). Al gener de 1799 paga un lloguer de 8 Rv per la mateixa casa.\n\nDefunció: el 17 de setembre de 1803 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

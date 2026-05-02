@@ -1,0 +1,83 @@
+{
+  "id": "4501_jacinto_romeu_vidiella",
+  "source_id": "4501",
+  "row_ref": "4501. Jacinto Romeu Vidiella",
+  "name": "Jacinto Romeu Vidiella",
+  "gender": "male",
+  "birth": {
+    "date": "1771-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1838-07-19",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "4483_maria_luisa_romeu_pla",
+      "4484_rafael_romeu_pla",
+      "4485_jose_romeu_pla",
+      "4486_manuel_romeu_pla"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Romeu",
+      "Cándida Bediella"
+    ],
+    "father_name": "Juan Romeu",
+    "mother_name": "Cándida Bediella",
+    "spouse_names": [
+      "Eugenia Pla Sánchez"
+    ],
+    "children_names": [
+      "María Luísa Romeu Pla",
+      "Rafael Romeu Pla",
+      "José Romeu Pla",
+      "Manuel Romeu Pla"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Ferré"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1771]. \n\nProfessió: ferré.\n\nCasament: amb Eugenia Pla Sánchez [o Sancho] d'Alcanar [1775].\n\nFills: José [1793], María Luísa [1796], Manuel [1800] i Rafael [1805].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Fonda Vella núm. 7 (ACA BGRP Cajas 34). Del novembre de 1795 a, com a mínim, el desembre de 1807 paga un lloguer de 4 Rs mensuals per la casa 7 de la Fonda Vella. Al 1807 consta com a \"el herrero de Freginals\".\n\nDefunció: el 19 de juliol de 1838 a la Ràpita. Va morir quan tenia més o menys 70 anys. No fa testament.\n\nEs germà de José Romeu Vidiella [1775].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

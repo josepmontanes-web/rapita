@@ -1,0 +1,103 @@
+{
+  "id": "3250_jose_matamoros_reverter",
+  "source_id": "3250",
+  "row_ref": "3250. José Matamoros Reverter",
+  "name": "José Matamoros Reverter",
+  "gender": "male",
+  "birth": {
+    "date": "1784-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3159_bautista_matamoros"
+    ],
+    "father": "3159_bautista_matamoros",
+    "mother": null,
+    "spouse": [
+      "706_agustina_biosca_cid"
+    ],
+    "children": [
+      "3164_francisco_matamoros_biosca",
+      "3165_serafin_matamoros_biosca",
+      "3166_bautista_matamoros_biosca",
+      "3167_agustina_matamoros_biosca",
+      "3168_manuel_matamoros_biosca",
+      "3169_maria_matamoros_biosca",
+      "3170_jose_agustin_matamoros_biosca",
+      "3171_jose_matamoros_biosca",
+      "3172_jose_antonio_matamoros_biosca",
+      "3173_josefa_matamoros_biosca",
+      "3174_tomasa_matamoros_biosca",
+      "3175_feliciano_matamoros_biosca"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Matamoros",
+      "Teresa Reverter"
+    ],
+    "father_name": "Bautista Matamoros",
+    "mother_name": "Teresa Reverter",
+    "spouse_names": [
+      "Agustina Biosca Cid"
+    ],
+    "children_names": [
+      "Francisco Matamoros Biosca",
+      "Serafín Matamoros Biosca",
+      "Bautista Matamoros Biosca",
+      "Agustina Matamoros Biosca",
+      "Manuel Matamoros Biosca",
+      "María Matamoros Biosca",
+      "José Agustín Matamoros Biosca",
+      "José Matamoros Biosca",
+      "José Antonio Matamoros Biosca",
+      "Josefa Matamoros Biosca",
+      "Tomasa Matamoros Biosca",
+      "Feliciano Matamoros Biosca"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1784]. \n\nCasament: el 13 d'agost de 1808 amb Agustina Biosca Cid de Freginals [1785]. Es casa als 24 anys.\n\nFills: José Agustín [1809], María [1811], José [1814], Manuel [1816], José Antonio [1819], Josefa [1821], Agustina [1823], Francisco [1825], Tomasa [1827], Bautista [1830], Feliciano [1833] i Serafín [1835].\n\nNota del folio 3 del libro de súplica de San Carlos \nJosé Matamoros y Reverter labrador en la disposición testamentaria entre otras cosas que el difunto dejó a su hijo Antonio todo aquel patio para edificar sito en la carretera Real colindante con Ramón Ausensi y Antonio Caparós – A su otro hijo Felix le legó la huerta de la parte que tenía de aquella casa que era la en que habitaba sita en el Arrabal de dicha Nueva Población de San Carlos y de la parte [] con Antonio Caparós. A su otra hija Tomasa la huerta de la parte que tenía dicho testador de aquella expresada casa en que habitaba de la parte confrontante con la de Miguel Jovani. A su consorte Agustina Biosca le dejó el usufructo de sus bienes. [] por sus herederos a sus hijos José, Antonio Felix, Josefa y Tomasa su parte [].\n4 de diciembre de 1848\n[notari: D Juan Ventura de Amposta]\nTestamento: José Matamoros de San Carlos murió? En San Carlos a 18 de febrero de 1857\nValor 14633",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

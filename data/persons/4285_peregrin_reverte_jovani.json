@@ -1,0 +1,73 @@
+{
+  "id": "4285_peregrin_reverte_jovani",
+  "source_id": "4285",
+  "row_ref": "4285. Peregrín Reverté Jovani",
+  "name": "Peregrín Reverté Jovani",
+  "gender": "male",
+  "birth": {
+    "date": "1829-02-14",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4264_miguel_reverter_forner"
+    ],
+    "father": "4264_miguel_reverter_forner",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Reverter Forner",
+      "Maria Jovani Grau"
+    ],
+    "father_name": "Miguel Reverter Forner",
+    "mother_name": "Maria Jovani Grau",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Peregrín Silvestre",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 14 de febrer de 1829 a la Ràpita.\n\nPadrins: Peregrín Silvestre i Josefa Jovani.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "556_josef_bel_baima",
+  "source_id": "556",
+  "row_ref": "556. Josef Bel Baima",
+  "name": "Josef Bel Baima",
+  "gender": "male",
+  "birth": {
+    "date": "1846-05-28",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1846-06-12",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "558_manuel_bel_castell"
+    ],
+    "father": "558_manuel_bel_castell",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel Bel Castell",
+      "Francisca Mayma"
+    ],
+    "father_name": "Manuel Bel",
+    "mother_name": "Francisca Mayma",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 28 de maig de 1846.\n\nDefunció: el 12 de juny de 1846 a la Ràpita. Va morir als 14 dies.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

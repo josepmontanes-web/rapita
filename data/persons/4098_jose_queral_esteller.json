@@ -1,0 +1,83 @@
+{
+  "id": "4098_jose_queral_esteller",
+  "source_id": "4098",
+  "row_ref": "4098. José Queral Esteller",
+  "name": "José Queral Esteller",
+  "gender": "male",
+  "birth": {
+    "date": "1825-01-01",
+    "place": "Freginals"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1861_mariana_esteller_navarro"
+    ],
+    "father": null,
+    "mother": "1861_mariana_esteller_navarro",
+    "spouse": [
+      "3938_teresa_pino_bedos"
+    ],
+    "children": [
+      "1869_0_1950",
+      "4100_miguel_queral_fibla"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Queral",
+      "Mariana Esteller Navarro"
+    ],
+    "father_name": "Pedro Queral",
+    "mother_name": "Mariana Esteller Navarro",
+    "spouse_names": [
+      "Teresa Pino Bedós"
+    ],
+    "children_names": [
+      "0 1950",
+      "Miguel Queral Fibla"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Freginals [aprox. 1825]. \n\nCasament: el 28 de juny de 1846 amb Teresa Pino Bedós de la Ràpita [1829]. Quan es va casar era veí de Freginals.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

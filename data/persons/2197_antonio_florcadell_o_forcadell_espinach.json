@@ -1,0 +1,77 @@
+{
+  "id": "2197_antonio_florcadell_o_forcadell_espinach",
+  "source_id": "2197",
+  "row_ref": "2197. Antonio Florcadell [o Forcadell] Espinach",
+  "name": "Antonio Florcadell [o Forcadell] Espinach",
+  "gender": "male",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2196_maria_teresa_florcadell_o_forcadell_fornos"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Ramon Florcadell",
+      "Tecla Espinach"
+    ],
+    "father_name": "Ramon Florcadell",
+    "mother_name": "Tecla Espinach",
+    "spouse_names": [
+      "Antonia Fornós Comavella"
+    ],
+    "children_names": [
+      "María Teresa Florcadell [o Forcadell] Fornós"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1810].\n\nCasament: amb Antonia Fornós Comavella d'Amposta, filla de Manuel i Antonia també d'Amposta.\n\nFills: María Teresa [1840].\n\nEs germà de Pelegrín [1810].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

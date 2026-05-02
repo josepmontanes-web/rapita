@@ -1,0 +1,97 @@
+{
+  "id": "1442_tomasa_chillida_querol",
+  "source_id": "1442",
+  "row_ref": "1442. Tomasa Chillida Querol",
+  "name": "Tomasa Chillida Querol",
+  "gender": "female",
+  "birth": {
+    "date": "1805-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1429_gabriel_chillida"
+    ],
+    "father": "1429_gabriel_chillida",
+    "mother": null,
+    "spouse": [
+      "1971_nicolas_fatsini_pons"
+    ],
+    "children": [
+      "1962_maria_de_la_cinta_facsini_chillida",
+      "1963_francisco_ramon_facsini_chillida",
+      "1964_maria_francisca_fatsini_chillida",
+      "1965_candido_faxini_chillida",
+      "1966_rosa_josefa_faxini_chillida",
+      "1967_juan_de_la_cruz_faxini_chillida",
+      "1968_jose_facsini_chillida",
+      "1969_maria_juana_facsini_chillida",
+      "1970_candida_fatsini_chillida"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Gabriel Chillida",
+      "Teresa Querol"
+    ],
+    "father_name": "Gabriel Chillida",
+    "mother_name": "Teresa Querol",
+    "spouse_names": [
+      "Nicolás Fatsini Pons"
+    ],
+    "children_names": [
+      "María de la Cinta Facsini Chillida",
+      "Francisco Ramón Facsini Chillida",
+      "Maria Francisca Fatsini Chillida",
+      "Candido Faxini Chillida",
+      "Rosa Josefa Faxini Chillida",
+      "Juan de la Cruz Faxini Chillida",
+      "José Facsini Chillida",
+      "Maria Juana Facsini Chillida",
+      "Candida Fatsini Chillida"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1805].\n\nCasament: el 23 de gener de 1828 amb Nicolás Fatsini Pons de Tortosa [1810].\n\nFills: Rosa Josefa [1828], María Francisca [1830], Candida [1830] , Candido [1831], Juan de la Cruz [1833], María de la Cinta [1835], Francisco Ramón [1839], María Juana [1842] i José [1846].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

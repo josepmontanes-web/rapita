@@ -1,0 +1,90 @@
+{
+  "id": "2965_manuela_llorens_garcia",
+  "source_id": "2965",
+  "row_ref": "2965. Manuela Llorens García",
+  "name": "Manuela Llorens García",
+  "gender": "female",
+  "birth": {
+    "date": "1796-01-01",
+    "place": "Vandellós"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2956_pedro_llorens",
+      "2289_vicenta_garcia"
+    ],
+    "father": "2956_pedro_llorens",
+    "mother": "2289_vicenta_garcia",
+    "spouse": [],
+    "children": [
+      "4064_victorio_puigcerver_llorens",
+      "4065_manuela_puigcerver_llorens",
+      "4066_pedro_puigcerver_llorens",
+      "4067_vicente_puigcerver_llorens",
+      "4068_vicenta_puigcerver_llorens",
+      "4069_jose_puigcerver_llorens"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Llorens",
+      "Vicenta García"
+    ],
+    "father_name": "Pedro Llorens",
+    "mother_name": "Vicenta García",
+    "spouse_names": [
+      "Mariano Puigcerver Expósito"
+    ],
+    "children_names": [
+      "Victorio Puigcerver Llorens",
+      "Manuela Puigcerver Llorens",
+      "Pedro Puigcerver Llorens",
+      "Vicente Puigcerver Llorens",
+      "Vicenta Puigcerver Llorens",
+      "José Puigcerver Llorens"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vandellós [aprox. 1796].\n\nCasament: el 31 d'octubre de 1822 amb Mariano Puigcerver Martínez [Expósito] del Cabanyal (València) [1790].\n\nFills: Vicente [1825], Pedro [1828], Manuela [1830], Victorio [1832], Vicenta [1835] i José [1841].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

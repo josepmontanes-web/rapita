@@ -1,0 +1,70 @@
+{
+  "id": "1550_ramon_colomer",
+  "source_id": "1550",
+  "row_ref": "1550. Ramon Colomer",
+  "name": "Ramon Colomer",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Vinarós"
+  },
+  "death": {
+    "date": "1830-07-05",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Antonia Gombau"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1800].\n\nCasament: amb Antonia Gombau.\n\nDefunció: el 5 de juliol de 1830. \"Murió en la Palma Marina de la costa de afuera, en este puerto de los Alfaques. Enterrado en el mismo expresado paraje\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

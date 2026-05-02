@@ -1,0 +1,68 @@
+{
+  "id": "702_elisa_bignell_lane",
+  "source_id": "702",
+  "row_ref": "702. Elisa Bignell Lane",
+  "name": "Elisa Bignell Lane",
+  "gender": "female",
+  "birth": {
+    "date": "1822-01-01",
+    "place": "Andover (Anglaterra)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Andover (Anglaterra) [aprox. 1822].\n\nCasament: amb James Bignell [1820].\n\nFills: James, Adela, Luisa, Florentina i Medina.\n\nDefunció: el 13 de novembre de 1878 a la Ràpita (a la Casa Blanca), als 56 anys de terciana maligna. L'enterren a la Casa Blanca. Declara la mor al Registre Civil el seu fill James Bignell que sap escriure i signa la declaració.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

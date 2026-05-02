@@ -1,0 +1,74 @@
+{
+  "id": "1778_ignes_esbri_castell",
+  "source_id": "1778",
+  "row_ref": "1778. Ignés Esbrí Castell",
+  "name": "Ignés Esbrí Castell",
+  "gender": "female",
+  "birth": {
+    "date": "1834-04-20",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1775_vicente_esbri_bayarri",
+      "1149_antonia_castell_comes"
+    ],
+    "father": "1775_vicente_esbri_bayarri",
+    "mother": "1149_antonia_castell_comes",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Esbrí Bayarri",
+      "Antonia Castell Comes"
+    ],
+    "father_name": "Vicente Esbrí Bayarri",
+    "mother_name": "Antonia Castell Comes",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Balanzá",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 20 d'abril de 1834 a la Ràpita.\n\nPadrins: José Balanzá i Joaquina Sans.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

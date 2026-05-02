@@ -1,0 +1,86 @@
+{
+  "id": "293_josefa_arroyo_perez",
+  "source_id": "293",
+  "row_ref": "293. Josefa Arroyo Pérez",
+  "name": "Josefa Arroyo Pérez",
+  "gender": "female",
+  "birth": {
+    "date": "1779-01-01",
+    "place": "Valencia"
+  },
+  "death": {
+    "date": "1827-08-03",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1654_francisco_cruelles_remisa"
+    ],
+    "children": [
+      "941_maria_luisa_cambra_arroyo",
+      "942_manuela_cambra_arroyo",
+      "943_josefa_cambra_arroyo",
+      "944_peregrina_cambra_arroyo"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Arroyo",
+      "Manuela Pérez"
+    ],
+    "father_name": "José Arroyo",
+    "mother_name": "Manuela Pérez",
+    "spouse_names": [
+      "Pelegrín Cambra",
+      "Francisco Cruelles Remisa"
+    ],
+    "children_names": [
+      "María Luísa Cambra Arroyo",
+      "Manuela Cambra Arroyo",
+      "Josefa Cambra Arroyo",
+      "Peregrina Cambra Arroyo"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  a València [aprox. 1779].\n\nCasament: amb Pelegrín Cambra Pau de València [1780].\n\nFills: Peregrina (València) [1803], María Luísa [1804], Manuela [1807] i Josefa [1809].\n\nCasament: el 28 de setembre de 1821 amb Francisco Cruelles Remisa de Llissà d'Amunt [1775]. Al casament diu que es veïna de Barcelona.\n\nDefunció: el 3 d'agost de 1827 a la Ràpita. A la partida de defunció apareix com a Peregrina Royo. Va morir als 48 anys de \"calenturas\". No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "4666_raimunda_salvador_beltran",
+  "source_id": "4666",
+  "row_ref": "4666. Raimunda Salvador Beltran",
+  "name": "Raimunda Salvador Beltran",
+  "gender": "female",
+  "birth": {
+    "date": "1875-11-12",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 12 de novembre de 1875 al carrer Sant Sebastià de la Ràpita.\n\nDefunció: el 6 de febrer de 1879 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

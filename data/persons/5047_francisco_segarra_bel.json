@@ -1,0 +1,84 @@
+{
+  "id": "5047_francisco_segarra_bel",
+  "source_id": "5047",
+  "row_ref": "5047. Francisco Segarra Bel",
+  "name": "Francisco Segarra Bel",
+  "gender": "male",
+  "birth": {
+    "date": "1768-01-01",
+    "place": "Ulldecona"
+  },
+  "death": {
+    "date": "1813-06-20",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5040_jose_segarra",
+      "545_pascuala_bel"
+    ],
+    "father": "5040_jose_segarra",
+    "mother": "545_pascuala_bel",
+    "spouse": [
+      "4740_josefa_sanchez_ferre"
+    ],
+    "children": [
+      "5080_maria_luisa_segarra_sanchez",
+      "5081_bautista_segarra_sanchez"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Segarra",
+      "Pascuala Bel"
+    ],
+    "father_name": "José Segarra",
+    "mother_name": "Pascuala Bel",
+    "spouse_names": [
+      "Josefa Sánchez Ferré"
+    ],
+    "children_names": [
+      "María Luísa Segarra Sánchez",
+      "Bautista Segarra Sánchez"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Ulldecona [aprox. 1768]. \n\nCasament: l'1 de novembre de 1798 amb Josefa Sánchez Ferré d'Amposta [1775].\n\nFills: María Luísa [1801] i Bautista [1805].\n\nDefunció: el 20 de juny de 1813 a la Ràpita. Va morir als 45 anys.\n\nProfessió: pagès.\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Mansana Vella (carrer del Forn) núm. 18 (ACA BGRP Cajas 34). Al gener de 1799 paga un lloguer de 9 Rv per la mateixa casa.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

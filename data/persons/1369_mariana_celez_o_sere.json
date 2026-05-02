@@ -1,0 +1,72 @@
+{
+  "id": "1369_mariana_celez_o_sere",
+  "source_id": "1369",
+  "row_ref": "1369. Mariana Célez [o Sere]",
+  "name": "Mariana Célez [o Sere]",
+  "gender": "female",
+  "birth": {
+    "date": "1755-01-01",
+    "place": "Almassora"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "294_maria_artero_celez"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Maria Artero Célez"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Almassora [aprox. 1755].\n\nCasament: amb Pasqual Artero Taurá de Vila-real (Castelló) [1753].\n\nFills: María [1791].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Mansana Vella núm. 11  (ACA BGRP Cajas 34).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "4950_baltasar_francisco_sancho_vives",
+  "source_id": "4950",
+  "row_ref": "4950. Baltasar Francisco Sancho Vives",
+  "name": "Baltasar Francisco Sancho Vives",
+  "gender": "male",
+  "birth": {
+    "date": "1820-09-15",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4344_miguel_reverter_sancho"
+    ],
+    "father": "4344_miguel_reverter_sancho",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Reverter Sancho",
+      "Vicenta Vives Sales"
+    ],
+    "father_name": "Miguel Sancho Esteller",
+    "mother_name": "Vicenta Vives Sales",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 15 de setembre de 1820 a la Ràpita.\n\nPadrina: Miguela Husano.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

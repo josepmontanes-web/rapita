@@ -1,0 +1,98 @@
+{
+  "id": "806_teresa_bort_lleti",
+  "source_id": "806",
+  "row_ref": "806. Teresa Bort Lletí",
+  "name": "Teresa Bort Lletí",
+  "gender": "female",
+  "birth": {
+    "date": "1793-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "802_jose_bort",
+      "2933_magdalena_lleti"
+    ],
+    "father": "802_jose_bort",
+    "mother": "2933_magdalena_lleti",
+    "spouse": [],
+    "children": [
+      "2714_maria_francisca_guardia_bort",
+      "2715_juan_bautista_guardia_bort",
+      "2716_engracia_guardia_bort",
+      "2717_antonia_guardia_bort",
+      "2718_clara_guardia_bort",
+      "2719_bautista_guardia_bort",
+      "2720_jose_guardia_bort",
+      "2721_josefa_antonia_guardia_bort",
+      "2722_alexandra_guardia_bort",
+      "2723_maria_agustina_guardia_bort"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Bort",
+      "Magdalena Lletí"
+    ],
+    "father_name": "José Bort",
+    "mother_name": "Magdalena Lletí",
+    "spouse_names": [
+      "Bautista Guardia Sancho"
+    ],
+    "children_names": [
+      "María Francisca Guardia Bort",
+      "Juan Bautista Guardia Bort",
+      "Engracia Guardia Bort",
+      "Antonia Guardia Bort",
+      "Clara Guardia Bort",
+      "Bautista Guardia Bort",
+      "José Guardia Bort",
+      "Josefa Antonia Guardia Bort",
+      "Alexandra Guardia Bort",
+      "Maria Agustina Guardia Bort"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1793].\n\nCasament: amb Bautista Guardia Sancho [o Sánchez] d'Alcanar [1775].\n\nFills: Clara [1811], Bautista [1814], Alexandra [1816], Antonia [1819], Engracia [1821], José [1823], Josefa Antonia [1826], María Francisca [1828], María Agustina [1831] i Juan Bautista [1834].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

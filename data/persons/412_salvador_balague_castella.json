@@ -1,0 +1,68 @@
+{
+  "id": "412_salvador_balague_castella",
+  "source_id": "412",
+  "row_ref": "412. Salvador Balagué Castellà",
+  "name": "Salvador Balagué Castellà",
+  "gender": "male",
+  "birth": {
+    "date": "1847-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1847].\n\nProfessió: mariner.\n\nCasament: anb Cinta Mateu Silvestre de la Ràpita [1846].\n\nFills: Salvador [1870], José [1870], Cinta [1875], Rosa [1875] i Paulina [1878].\n\nDefunció: el 18 de juny de 1879 a la Ràpita als 32 anys de \"calentura reumática\". Declara la mor la seua cosina Tomasa Míes.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

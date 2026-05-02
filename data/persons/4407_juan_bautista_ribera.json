@@ -1,0 +1,68 @@
+{
+  "id": "4407_juan_bautista_ribera",
+  "source_id": "4407",
+  "row_ref": "4407. Juan Bautista Ribera",
+  "name": "Juan Bautista Ribera",
+  "gender": "male",
+  "birth": {
+    "date": "1810-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Cabo de Sanidad de la Población de San carlos de la Rápita.\n\nEl M. y S. D. Antonio Burgedo? Bayle general del Real Patrimonio de Cataluña en el Real nombre de S.M. y en virtud del ministerio que ejercía, concedió en enfiteusis a D. Juan Bautista Ribera Cabo de Sanidad de la Población de San Carlos de la Rápita perpetuamente todo aquel solar del terreno o patio señalado de número 7, conteniendo 437 palmos con [] , junto con 46 y media canas de pared de 3 palmos grueso que en el mismo existen situado en la población de San Carlos de la Rápita lindante por oriente con el mar, a medio dia con casa de Mª Sancho, por poniente con la plaza vieja y por cierzo con el patio nº 6 del Real Patrimonio con las condiciones siguientes que fueron para el establecimiento en pública de dicho patio. Primero: por el establecimiento del patio nº 7 sólo se transfiere el dominio útil con reserva a favor de S.M. del mayor y directo y todos los derechos de laudemio, fadigas y demás de enfiteusis entendiéndose la concesión sin perjuicio de tercero. Segunda: el valor del referido patio se fija en la cantidad de 1832 reales y no se admitirá postura que no cubra este importe, ni la que se haga por quien sea deudor al Real Patrimonio. Tercera: []\n7 de septiembre de 1857.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

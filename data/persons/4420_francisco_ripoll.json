@@ -1,0 +1,76 @@
+{
+  "id": "4420_francisco_ripoll",
+  "source_id": "4420",
+  "row_ref": "4420. Francisco Ripoll",
+  "name": "Francisco Ripoll",
+  "gender": "male",
+  "birth": {
+    "date": "1752-01-01",
+    "place": "Altea"
+  },
+  "death": {
+    "date": "1829-07-17",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "4421_antonia_ripoll_ivanes",
+      "4422_maria_ripoll_ivanes"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Maria Mañer (Ibañez)"
+    ],
+    "children_names": [
+      "Antonia Ripoll Ivañes",
+      "Maria Ripoll Ivañes"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Altea [aprox. 1752]. \n\nCasament: amb Ana María Ivañes (o Mañer).\n\nFills: Antonia (Vinaròs) [1800] i María (Vinaròs) [1810].\n\nDefunció: el 17 de juliol de 1829 a la Ràpita. Va morir als 77 anys de \"calenturas\". No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

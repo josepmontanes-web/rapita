@@ -1,0 +1,71 @@
+{
+  "id": "2931_alexandro_lleo_sid",
+  "source_id": "2931",
+  "row_ref": "2931. Alexandro Lleó Sid",
+  "name": "Alexandro Lleó Sid",
+  "gender": "male",
+  "birth": {
+    "date": "1792-07-11",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Lleó",
+      "María Sid"
+    ],
+    "father_name": "Francisco Lleó",
+    "mother_name": "María Sid",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Alexandro Lanti",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'11 de juliol de 1792 a la Ràpita.\n\nPadrí: Alexandro Lanti.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

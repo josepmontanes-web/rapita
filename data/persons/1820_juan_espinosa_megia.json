@@ -1,0 +1,79 @@
+{
+  "id": "1820_juan_espinosa_megia",
+  "source_id": "1820",
+  "row_ref": "1820. Juan Espinosa Megia",
+  "name": "Juan Espinosa Megia",
+  "gender": "male",
+  "birth": {
+    "date": "1770-01-01",
+    "place": "Ciudad Real"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1820_juan_espinosa_megia"
+    ],
+    "father": "1820_juan_espinosa_megia",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1820_0_1900"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Espinosa Megia",
+      "Rita Megia"
+    ],
+    "father_name": "Juan Espinosa",
+    "mother_name": "Rita Megia",
+    "spouse_names": [
+      "Mariana Benlloch"
+    ],
+    "children_names": [
+      "0 1900"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Ciudad Real [aprox. 1770].\n\nEs \"Cabo de este Real Resguardo\".\n\nCasament: el 3 d'abril de 1793 amb Mariana Benlloch Feu de Rialp [1770].\n\nFills: Fernando [1809].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

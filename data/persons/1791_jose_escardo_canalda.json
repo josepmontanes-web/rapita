@@ -1,0 +1,75 @@
+{
+  "id": "1791_jose_escardo_canalda",
+  "source_id": "1791",
+  "row_ref": "1791. José Escardó Canalda",
+  "name": "José Escardó Canalda",
+  "gender": "male",
+  "birth": {
+    "date": "1780-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1788_57_1816",
+      "1789_23_1850",
+      "1790_23_1850"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "57 1816",
+      "23 1850"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Al gener de 1799 José Escardó té llogada la casa 8 de la Mansana Vella per 6 Rs. No podem afirmar que sigui José Escardó Canalda.\n\nAl 9 de maig de 1828 diu que José Escardó es Cabo de Sanidad del Puerto de San Carlos. No podem afirmar que sigui José Escardó Canalda.\n\nDe l'1 d'octubre de 1836 al 28 de febrer de 1839 ha de pagar un lloguer de 14 Rs mensuals pel pis alt de la casa 4 de la mançana 4. (AGP.PER.LEG.1073/23 [Juan Vecino]).\n\nVenta: José Francisco Bernis en calidad de apoderado de Antonio Francisco Maria Vidal de Morella vende a José Escardó y Canalda, tratante, un pedazo de tierra en la Plaza del Mar. 50 palmos de ancho y 44 de hondo. Linda por un lado con casa de Francisco Cid y por otro con José Segura, por detrás con Plaza del Mar y por delante con carretera que dirige a la pesquera de la encañizada. Precio 16 duros de plata. 14 de enero de 1846.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

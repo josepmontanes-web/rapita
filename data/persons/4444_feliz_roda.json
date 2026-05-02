@@ -1,0 +1,73 @@
+{
+  "id": "4444_feliz_roda",
+  "source_id": "4444",
+  "row_ref": "4444. Feliz Roda",
+  "name": "Feliz Roda",
+  "gender": "male",
+  "birth": {
+    "date": "1760-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1019_vicenta_carceller"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Antonia Borràs",
+      "Vicenta Carceller"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1760]. \n\nCasament: amb Antonia Borràs.\n\nCasament: el 2 de juliol de 1812 amb Vicenta Carceller del Portell de Morella [1760].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

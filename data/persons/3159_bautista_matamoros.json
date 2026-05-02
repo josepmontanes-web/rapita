@@ -1,0 +1,82 @@
+{
+  "id": "3159_bautista_matamoros",
+  "source_id": "3159",
+  "row_ref": "3159. Bautista Matamoros",
+  "name": "Bautista Matamoros",
+  "gender": "male",
+  "birth": {
+    "date": "1750-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "3247_agustin_matamoros_reverter",
+      "3248_jacinto_matamoros_reverte",
+      "3249_bautista_matamoros_reverte",
+      "3250_jose_matamoros_reverter",
+      "3251_pascual_matamoros_reverter"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Teresa Reverter"
+    ],
+    "children_names": [
+      "Agustín Matamoros Reverter",
+      "Jacinto Matamoros Reverté",
+      "Bautista Matamoros Reverté",
+      "José Matamoros Reverter",
+      "Pascual Matamoros Reverter"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1750]. \n\nCasament: amb Teresa Reverter Ballester d'Alcanar [1758]. Son veïns d'Alcanar.\n\nFills: Bautista (Alcanar) [1773], José (Alcanar) [1784], Agustín (Alcanar) [1787], Jacinto (Alcanar) [1789] i Pascual (Alcanar) [1790].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

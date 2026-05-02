@@ -1,0 +1,86 @@
+{
+  "id": "5582_barbara_vidal_talarn",
+  "source_id": "5582",
+  "row_ref": "5582. Bárbara Vidal Talarn",
+  "name": "Bárbara Vidal Talarn",
+  "gender": "female",
+  "birth": {
+    "date": "1804-02-17",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1836-06-04",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5537_joaquin_vidal_palos",
+      "5259_teresa_talarn_valldeperez"
+    ],
+    "father": "5537_joaquin_vidal_palos",
+    "mother": "5259_teresa_talarn_valldeperez",
+    "spouse": [
+      "3571_joaquin_munoz_ibanez"
+    ],
+    "children": [
+      "3578_vicenta_munoz_vidal",
+      "3579_maria_teresa_munos_vidal",
+      "3580_francisca_teresa_munos_vidal"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Vidal Palos",
+      "Teresa Talarn Valldeperez"
+    ],
+    "father_name": "Joaquín Vidal Palos",
+    "mother_name": "Teresa Talarn Valldeperez",
+    "spouse_names": [
+      "Joaquín Muñoz Ibáñez"
+    ],
+    "children_names": [
+      "Vicenta Muñoz Vidal",
+      "Maria Teresa Muños Vidal",
+      "Francisca Teresa Muños Vidal"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Cachot",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 17 de febrer de 1804 a la Ràpita.\n\nPadrins: Francisco Cachot i Barbera Gombau.\n\nel pare té 34 anys i es pagès. La mare té 33 anys.\n\nCasament: el 24 de maig de 1823 amb Joaquín Muñoz Ibáñez de Vinaròs [1799].\n\nFills: Vicenta [1826], María Teresa [1827] i Francisca Teresa [1830].\n\nDefunció: el 4 de juny de 1836 a la Ràpita. No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

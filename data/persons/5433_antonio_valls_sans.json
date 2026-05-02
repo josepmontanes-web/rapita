@@ -1,0 +1,83 @@
+{
+  "id": "5433_antonio_valls_sans",
+  "source_id": "5433",
+  "row_ref": "5433. Antonio Valls Sans",
+  "name": "Antonio Valls Sans",
+  "gender": "male",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5431_jose_valls_sancho"
+    ],
+    "father": "5431_jose_valls_sancho",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "5430_josef_antonio_valls_sancho",
+      "5431_jose_valls_sancho",
+      "5432_teresa_valls_sancho"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Valls Sancho",
+      "Rosa Sans"
+    ],
+    "father_name": "José Valls",
+    "mother_name": "Rosa Sans",
+    "spouse_names": [
+      "Antonia Sancho Fibla"
+    ],
+    "children_names": [
+      "Josef Antonio Valls Sancho",
+      "José Valls Sancho",
+      "Teresa Valls Sancho"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1820].\n\nCasament: amb Antonia Sancho Fibla d'Alcanar [1815].\n\nFills: José Antonio [1840], José [1842] i Teresa [1847].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

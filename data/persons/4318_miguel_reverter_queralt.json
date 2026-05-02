@@ -1,0 +1,90 @@
+{
+  "id": "4318_miguel_reverter_queralt",
+  "source_id": "4318",
+  "row_ref": "4318. Miguel Reverter Queralt",
+  "name": "Miguel Reverter Queralt",
+  "gender": "male",
+  "birth": {
+    "date": "1787-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1843-06-20",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4173_jose_reverter",
+      "4096_teresa_queralt"
+    ],
+    "father": "4173_jose_reverter",
+    "mother": "4096_teresa_queralt",
+    "spouse": [],
+    "children": [
+      "1456_maria_josefa_chimeno_o_ximeno_reverter",
+      "1457_juan_chimeno_o_ximeno_reverter",
+      "1458_francisca_josefa_chimeno_o_ximeno_reverter",
+      "4215_paula_reverter_caubet",
+      "4216_maria_francisca_reverter_caubet",
+      "4218_jose_reverter_caubet"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Reverter",
+      "Teresa Queralt"
+    ],
+    "father_name": "José Reverter",
+    "mother_name": "Teresa Queralt",
+    "spouse_names": [
+      "Rosa Calvet Rodríguez"
+    ],
+    "children_names": [
+      "Maria Josefa Chimeno [o Ximeno] Reverter",
+      "Juan Chimeno [o Ximeno] Reverter",
+      "Francisca Josefa Chimeno [o Ximeno] Reverter",
+      "Paula Reverter Caubet",
+      "Maria Francisca Reverter Caubet",
+      "José Reverter Caubet"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1787]. \n\nCasament: amb Rosa Caubet Rodríguez de Tortosa [1800].\n\nFills: José [1823], Antonia Teresa [1824], Paula [1827], María Francisca [1827], Vicenta Leonor [1829], Mariano [1831] i Antonia [1834].\n\nDefunció: el 20 de juny de 1843 a la Ràpita. Va morir als 56 anys. No fa testament.\n\nEs germà de María Reverter Queralt [1791] i Bernarda Reverter Queralt [1800].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

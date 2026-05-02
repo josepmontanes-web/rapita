@@ -1,0 +1,78 @@
+{
+  "id": "4348_teresa_reverter_sancho",
+  "source_id": "4348",
+  "row_ref": "4348. Teresa Reverter Sancho",
+  "name": "Teresa Reverter Sancho",
+  "gender": "female",
+  "birth": {
+    "date": "1830-07-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4265_agustin_reverter_forner",
+      "4921_teresa_sancho_querol"
+    ],
+    "father": "4265_agustin_reverter_forner",
+    "mother": "4921_teresa_sancho_querol",
+    "spouse": [
+      "980_jose_capilla_reverte"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustín Reverter Forner",
+      "Teresa Sancho Querol"
+    ],
+    "father_name": "Agustín Reverter Forné",
+    "mother_name": "Teresa Sancho Querol",
+    "spouse_names": [
+      "José Capilla Reverté"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Aragonés",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'1 de juliol de 1830 a la Ràpita.\n\nPadrins: Juan Aragonés i María Fabregat.\n\nCasament: el 26 de febrer de 1848 amb José Capilla Reverté de la Ràpita [1826]. \"Capitulos matrimoniales Juan Manchon de Alcanar (Escribano)\".\n\nFills: María [1850] i Trinitario [1855].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

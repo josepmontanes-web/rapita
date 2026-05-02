@@ -1,0 +1,78 @@
+{
+  "id": "3966_juan_pinana_zaragoza",
+  "source_id": "3966",
+  "row_ref": "3966. Juan Piñana Zaragoza",
+  "name": "Juan Piñana Zaragoza",
+  "gender": "male",
+  "birth": {
+    "date": "1826-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3959_domingo_pinana_omedes",
+      "5670_tomasa_zaragoza_omedes"
+    ],
+    "father": "3959_domingo_pinana_omedes",
+    "mother": "5670_tomasa_zaragoza_omedes",
+    "spouse": [
+      "3622_teresa_navarro_comi"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Domingo Piñana Omedes",
+      "Tomasa Zaragoza Omedes"
+    ],
+    "father_name": "Domingo Piñana Omedes",
+    "mother_name": "Tomasa Zaragoza Omedes",
+    "spouse_names": [
+      "Teresa Navarro Comí"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Matriculado"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1826]. \n\nProfessió: \"matriculado\".\n\nCasament: el 5 de novembre de 1849 amb Teresa Navarro Comí de la Ràpita [1829]. Es casa als 23 anys.\n\nFills: Juan [1855].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

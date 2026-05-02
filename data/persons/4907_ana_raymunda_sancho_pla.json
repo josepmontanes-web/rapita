@@ -1,0 +1,77 @@
+{
+  "id": "4907_ana_raymunda_sancho_pla",
+  "source_id": "4907",
+  "row_ref": "4907. Ana Raymunda Sancho Pla",
+  "name": "Ana Raymunda Sancho Pla",
+  "gender": "female",
+  "birth": {
+    "date": "1803-09-28",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4853_pedro_sancho_biosca"
+    ],
+    "father": "4853_pedro_sancho_biosca",
+    "mother": null,
+    "spouse": [
+      "2057_fermin_ferrer_marti"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Sancho Biosca",
+      "Thomasa Pla Sancho"
+    ],
+    "father_name": "Pedro Sancho Biosca",
+    "mother_name": "Thomasa Pla Sancho",
+    "spouse_names": [
+      "Fermín Ferrer Martí"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Francisco Simeón Guillamon",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 28 de setembre de 1803 a la Ràpita.\n\nPadrins: Don Francisco Simeón Guillamon de \"Ricotete Reyno de Francia\" i Raymunda Muriel.\n\nCasament: l'11 de maig de 1822 amb Fermín Ferrer Martí [1795].\n\nFills: José [1825], Francisco Tomás [1827], Juan Manuel [1830], Severo [1832], Tomasa [1835], María de la Concepción [1837], Buenaventura [1840] i Manuel [1842].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

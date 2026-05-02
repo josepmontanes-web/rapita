@@ -1,0 +1,73 @@
+{
+  "id": "2678_jose_grau_fibla",
+  "source_id": "2678",
+  "row_ref": "2678. José Grau Fibla",
+  "name": "José Grau Fibla",
+  "gender": "male",
+  "birth": {
+    "date": "1792-09-09",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2120_josefa_fibla"
+    ],
+    "father": null,
+    "mother": "2120_josefa_fibla",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Grau",
+      "Josefa Fibla"
+    ],
+    "father_name": "Josef Grau",
+    "mother_name": "Josefa Fibla",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Pedro Breciano",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 9 de setembre de 1792 a la Ràpita.\n\nPadrins: Pedro Breciano i Francisca Sastre.\n\nEs germà de Tomás Grau Fibla [1795].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "2599_maria_godall_sanchez",
+  "source_id": "2599",
+  "row_ref": "2599. María Godall Sánchez",
+  "name": "María Godall Sánchez",
+  "gender": "female",
+  "birth": {
+    "date": "1845-01-01",
+    "place": "Tamarit"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tamarit [aprox. 1845].\n\nCasament: amb Manuel de la Fuente Núñez de Justel de la Sierra (Zamora) [1840].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

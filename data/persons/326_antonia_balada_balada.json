@@ -1,0 +1,84 @@
+{
+  "id": "326_antonia_balada_balada",
+  "source_id": "326",
+  "row_ref": "326. Antonia Balada Balada",
+  "name": "Antonia Balada Balada",
+  "gender": "female",
+  "birth": {
+    "date": "1821-02-08",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1848-01-25",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "345_miguel_balada_lluch",
+      "350_joaquina_balada_miralles"
+    ],
+    "father": "345_miguel_balada_lluch",
+    "mother": "350_joaquina_balada_miralles",
+    "spouse": [
+      "4912_jose_sancho_planes"
+    ],
+    "children": [
+      "4849_mariana_francisca_sancho_balada",
+      "4851_buenaventura_josef_sancho_balada"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Balada Lluch",
+      "Joaquina Balada Miralles"
+    ],
+    "father_name": "Miguel Balada Lluch",
+    "mother_name": "Joaquina Balada Miralles",
+    "spouse_names": [
+      "José Sancho Planes"
+    ],
+    "children_names": [
+      "Mariana Francisca Sancho Balada",
+      "Buenaventura Josef Sancho Balada"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Agustín Castellà",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 8 de febrer de 1821 a la Ràpita.\n\nPadrins: Agustín Castellà i Antonia Navarro.\n\nCasament: el 19 de maig de 1836 amb José Sancho Planes de la Ràpita [1815].\n\nFills: Mariana Francisca [1837], Buenaventura José [1839], María [1842] i Toribio [1843].\n\nDefunció: el 25 de gener de 1848 a la Ràpita. Va testar davant de V. Sabaté.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

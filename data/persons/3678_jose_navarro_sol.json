@@ -1,0 +1,79 @@
+{
+  "id": "3678_jose_navarro_sol",
+  "source_id": "3678",
+  "row_ref": "3678. José Navarro Sol",
+  "name": "José Navarro Sol",
+  "gender": "male",
+  "birth": {
+    "date": "1815-04-20",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3663_jose_navarro_paulo"
+    ],
+    "father": "3663_jose_navarro_paulo",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "3607_teresa_navarro_beltran"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Navarro Paulo",
+      "Josefa Sol D'Amaré"
+    ],
+    "father_name": "José Navarro Paulo",
+    "mother_name": "Josefa Sol D'Amaré",
+    "spouse_names": [
+      "Josefa Beltran Brunet"
+    ],
+    "children_names": [
+      "Teresa Navarro Beltrán"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Adell",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 20 d'abril de 1815 a la Ràpita.\n\nPadrins: José Adell i Rosa Cavallé.\n\nCasament: el 30 d'octubre de 1841 amb Josefa Beltran Brunet de la Ràpita [1817].\n\nFills: Teresa [1843].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

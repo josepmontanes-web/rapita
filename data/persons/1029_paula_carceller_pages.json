@@ -1,0 +1,81 @@
+{
+  "id": "1029_paula_carceller_pages",
+  "source_id": "1029",
+  "row_ref": "1029. Paula Carceller Pagès",
+  "name": "Paula Carceller Pagès",
+  "gender": "female",
+  "birth": {
+    "date": "1821-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "5471_manuel_verge_montserrat",
+      "2009_francisco_ferrer_brull"
+    ],
+    "children": [
+      "5461_manuel_pablo_verge_carceller"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Carceller",
+      "Paula Pagès"
+    ],
+    "father_name": "Pedro Carceller",
+    "mother_name": "Paula Pagès",
+    "spouse_names": [
+      "Manuel Verge Montserrat",
+      "Francisco Ferrer Brull"
+    ],
+    "children_names": [
+      "Manuel Pablo Verge Carceller"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1821].\n\nCasament: el 18 de març de 1842 amb Manuel Verge Montserrat de la Ràpita [1814].\n\nFills: Manuel Pablo [1842] i Cinta [1845].\n\nCasament: el 12 d'abril de 1855 amb Francisco Ferrer Brull del Perelló [1824]. Es casa als 34 anys. Testimonis: Bautista Ferré i Felix Samper.\n\nFills: Vicenta [1856].\n\nEs germana de Pedro Vicente Carceller Pagès [1825].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

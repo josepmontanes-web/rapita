@@ -1,0 +1,80 @@
+{
+  "id": "802_jose_bort",
+  "source_id": "802",
+  "row_ref": "802. José Bort",
+  "name": "José Bort",
+  "gender": "male",
+  "birth": {
+    "date": "1760-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "2933_magdalena_lleti"
+    ],
+    "children": [
+      "805_agustina_bort_lleti",
+      "806_teresa_bort_lleti",
+      "807_josefa_bort_lleti"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Magdalena Lletí"
+    ],
+    "children_names": [
+      "Agustina Bort Lletí",
+      "Teresa Bort Lletí",
+      "Josefa Bort Lletí"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1760].\n\nCasament: amb Magdalena Lletí de Freginals [1761].\n\nFills: Josefa (Alcanar) [1787], Teresa (Alcanar) [1793] i Agustina (Alcanar) [1796].\n\nQuan va morir la seua dona, ell ja havia mort.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

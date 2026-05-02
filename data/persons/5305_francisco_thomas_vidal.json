@@ -1,0 +1,78 @@
+{
+  "id": "5305_francisco_thomas_vidal",
+  "source_id": "5305",
+  "row_ref": "5305. Francisco Thomas Vidal",
+  "name": "Francisco Thomas Vidal",
+  "gender": "male",
+  "birth": {
+    "date": "1791-04-11",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1830-01-22",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5293_juan_thomas_martinez",
+      "5536_teresa_vidal_palos"
+    ],
+    "father": "5293_juan_thomas_martinez",
+    "mother": "5536_teresa_vidal_palos",
+    "spouse": [
+      "1785_agustina_esbri_segarra"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Thomas Martínez",
+      "Teresa Vidal Palos"
+    ],
+    "father_name": "Juan Thomas Martínez",
+    "mother_name": "Teresa Vidal Palos",
+    "spouse_names": [
+      "Agustina Esbrí Segarra"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Ferrer",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'11 d'abril de 1791 a la Ràpita.\n\nPadrins: Francisco Ferrer i Francisca Hernández.\n\nCasament: el 28 de novembre de 1826 amb Agustina Esbrí Segarra d'Ulldecona [1800].\n\nDefunció: el 22 de gener de 1830 a la Ràpita. Va morir de \"enfermedad apropletica\". No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

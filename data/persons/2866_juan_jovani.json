@@ -1,0 +1,79 @@
+{
+  "id": "2866_juan_jovani",
+  "source_id": "2866",
+  "row_ref": "2866. Juan Jovani",
+  "name": "Juan Jovani",
+  "gender": "male",
+  "birth": {
+    "date": "1770-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1842-01-23",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2874_rosa_jovani_grau",
+      "2875_maria_jovani_grau",
+      "2876_melchor_jovani_grau"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Maria Grau",
+      "Francisca Fibla"
+    ],
+    "children_names": [
+      "Rosa Jovani Grau",
+      "Maria Jovani Grau",
+      "Melchor Jovani Grau"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1770].\n\nCasament: amb María Grau d'Alcanar.\n\nFills: Rosa (Alcanar) [1800], María (Alcanar) [1800] i Melchor (Alcanar) [1805].\n\nCasament: amb Francisca Fibla.\n\nDefunció: el 23 de gener de 1842 a la Ràpita.\n\nPodria ser germà de José Jovani Sancho [1763], però no es segur.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

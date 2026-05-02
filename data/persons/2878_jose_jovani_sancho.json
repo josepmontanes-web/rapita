@@ -1,0 +1,89 @@
+{
+  "id": "2878_jose_jovani_sancho",
+  "source_id": "2878",
+  "row_ref": "2878. José Jovani Sancho",
+  "name": "José Jovani Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1763-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1843-11-15",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "2688_antonia_grau_sans"
+    ],
+    "children": [
+      "2869_antonio_jovani_grau",
+      "2870_maria_jovani_grau",
+      "2871_josefa_jovani_grau",
+      "2872_dolores_jovani_grau",
+      "2873_miguel_jovani_grau",
+      "4857_pascuala_sancho_bonet"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Christoval Jovani",
+      "María Sancho"
+    ],
+    "father_name": "Christoval Jovani",
+    "mother_name": "María Sancho",
+    "spouse_names": [
+      "Antonia Grau Sans"
+    ],
+    "children_names": [
+      "Antonio Jovani Grau",
+      "María Jovani Grau",
+      "Josefa Jovani Grau",
+      "Dolores Jovani Grau",
+      "Miguel Jovani Grau",
+      "Pascuala Sancho Bonet"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1763].\n\nCasament: amb Antonia Grau Sans d'Alcanar [1772].\n\nFills: María (Alcanar) [1790], Antonio (Alcanar) [1800], Josefa [1810], Miguel [1812] i Dolores [1816].\n\nDefunció: el 15 de novembre de 1843 a la Ràpita. Va morir als 80 anys.\n\nPodria ser germà de Juan Jovani [1770], però no es segur.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

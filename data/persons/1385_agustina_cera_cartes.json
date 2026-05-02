@@ -1,0 +1,78 @@
+{
+  "id": "1385_agustina_cera_cartes",
+  "source_id": "1385",
+  "row_ref": "1385. Agustina Cera Cartes",
+  "name": "Agustina Cera Cartes",
+  "gender": "female",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1393_jose_cera_marman",
+      "1064_agustina_cartes_fonollosa"
+    ],
+    "father": "1393_jose_cera_marman",
+    "mother": "1064_agustina_cartes_fonollosa",
+    "spouse": [
+      "3575_juan_munoz_tomas"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Cera Marmañ",
+      "Agustina Cartes Fonollosa"
+    ],
+    "father_name": "José Cera Marmañ",
+    "mother_name": "Agustina Cartes Fonollosa",
+    "spouse_names": [
+      "Juan Muñoz Tomas"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1820].\n\nCasament: el 29 d'agost de 1843 amb Juan Muñóz Tomás de Vinaròs [1820].\n\nFills: Rafael [1856].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

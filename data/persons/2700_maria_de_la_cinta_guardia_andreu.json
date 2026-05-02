@@ -1,0 +1,74 @@
+{
+  "id": "2700_maria_de_la_cinta_guardia_andreu",
+  "source_id": "2700",
+  "row_ref": "2700. María de la Cinta Guardia Andreu",
+  "name": "María de la Cinta Guardia Andreu",
+  "gender": "female",
+  "birth": {
+    "date": "1841-01-21",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1842-08-17",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2711_agustin_guardia_bort",
+      "97_rosa_andreu_fontanet"
+    ],
+    "father": "2711_agustin_guardia_bort",
+    "mother": "97_rosa_andreu_fontanet",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustín Guardia Bort",
+      "Rosa Andreu Fontanet"
+    ],
+    "father_name": "Agustín Guardia Bort",
+    "mother_name": "Rosa Andreu Fontanet",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Castellà",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 21 de gener de 1841 a la Ràpita.\n\nPadrins: José Castellà i Cinta Borràs.\n\nDefunció: el 17 d'agost de 1842 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

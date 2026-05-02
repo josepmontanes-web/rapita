@@ -1,0 +1,74 @@
+{
+  "id": "3964_carlos_pinana_zaragoza",
+  "source_id": "3964",
+  "row_ref": "3964. Carlos Piñana Zaragoza",
+  "name": "Carlos Piñana Zaragoza",
+  "gender": "male",
+  "birth": {
+    "date": "1827-03-02",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3959_domingo_pinana_omedes",
+      "5670_tomasa_zaragoza_omedes"
+    ],
+    "father": "3959_domingo_pinana_omedes",
+    "mother": "5670_tomasa_zaragoza_omedes",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Domingo Piñana Omedes",
+      "Tomasa Zaragoza Omedes"
+    ],
+    "father_name": "Domingo Piñana Omedes",
+    "mother_name": "Tomasa Zaragoza Omedes",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Cartes",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Mariner"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 2 de març de 1827 a la Ràpita.\n\nPadrins: Francisco Cartes i Antonia Mayals.\n\nProfessió: mariner.\n\nCasament: amb Manuela Paulí de Tortosa. Quan mor el marit té 50 anys.\n\nDefunció: el 17 de novembre de 1878 a la Ràpita de laringitis ulcerosa. Declara la mor Juan Izquierdo, barber.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

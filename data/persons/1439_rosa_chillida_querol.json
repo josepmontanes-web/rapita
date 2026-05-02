@@ -1,0 +1,77 @@
+{
+  "id": "1439_rosa_chillida_querol",
+  "source_id": "1439",
+  "row_ref": "1439. Rosa Chillida Querol",
+  "name": "Rosa Chillida Querol",
+  "gender": "female",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1429_gabriel_chillida"
+    ],
+    "father": "1429_gabriel_chillida",
+    "mother": null,
+    "spouse": [
+      "3863_juan_pepiol"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Gabriel Chillida",
+      "Teresa Querol"
+    ],
+    "father_name": "Gabriel Chillida",
+    "mother_name": "Teresa Querol",
+    "spouse_names": [
+      "Juan Pepiol"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1820].\n\nCasament: el 8 d'agost de 1846 amb Juan Pepiol de Salomó (Tarragona) [1815].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

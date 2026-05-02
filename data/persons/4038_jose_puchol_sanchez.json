@@ -1,0 +1,71 @@
+{
+  "id": "4038_jose_puchol_sanchez",
+  "source_id": "4038",
+  "row_ref": "4038. José Puchol Sánchez",
+  "name": "José Puchol Sánchez",
+  "gender": "male",
+  "birth": {
+    "date": "1841-05-18",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Puchol Franquet",
+      "Teresa Sánchez Almo"
+    ],
+    "father_name": "Antonio Puchol Franquet",
+    "mother_name": "Teresa Sánchez Almo",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 18 de maig de 1841 a la Ràpita.\n\nPadrina: Agustina Reverter.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

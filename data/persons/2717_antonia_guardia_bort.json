@@ -1,0 +1,74 @@
+{
+  "id": "2717_antonia_guardia_bort",
+  "source_id": "2717",
+  "row_ref": "2717. Antonia Guardia Bort",
+  "name": "Antonia Guardia Bort",
+  "gender": "female",
+  "birth": {
+    "date": "1819-09-26",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1820-06-22",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2744_bautista_guardia_sanchez",
+      "806_teresa_bort_lleti"
+    ],
+    "father": "2744_bautista_guardia_sanchez",
+    "mother": "806_teresa_bort_lleti",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Guardia Sánchez",
+      "Teresa Bort Lletí"
+    ],
+    "father_name": "Bautista Guardia Sánchez",
+    "mother_name": "Teresa Bort Lletí",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Guardia",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 26 de setembre de 1819 a la Ràpita.\n\nPadrins: Francisco Guardia i Antonia Borràs.\n\nDefunció: el 22 de juny de 1820 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

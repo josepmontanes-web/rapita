@@ -1,0 +1,74 @@
+{
+  "id": "4991_felipe_sanz_fabregat",
+  "source_id": "4991",
+  "row_ref": "4991. Felipe Sanz Fabregat",
+  "name": "Felipe Sanz Fabregat",
+  "gender": "male",
+  "birth": {
+    "date": "1815-04-19",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1816-05-16",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5017_domingo_sans_sanarau",
+      "1928_pascuala_fabregat_obiol"
+    ],
+    "father": "5017_domingo_sans_sanarau",
+    "mother": "1928_pascuala_fabregat_obiol",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Domingo Sans Sanarau",
+      "Pascuala Fabregat Obiol"
+    ],
+    "father_name": "Domingo Sans Sanarau",
+    "mother_name": "Pascuala Fabregat Obiol",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Felipe Tortel",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 19 d'abril de 1815 a la Ràpita.\n\nPadrins: Felipe Tortel i Francisca Fabregat.\n\nDefunció: el 16 de maig de 1816 a la Ràpita. Va morir de \"espasmo\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

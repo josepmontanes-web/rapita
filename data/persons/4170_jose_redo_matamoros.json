@@ -1,0 +1,75 @@
+{
+  "id": "4170_jose_redo_matamoros",
+  "source_id": "4170",
+  "row_ref": "4170. José Redó Matamoros",
+  "name": "José Redó Matamoros",
+  "gender": "male",
+  "birth": {
+    "date": "1808-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1838-11-12",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "4828_josefa_sancho"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Alexandro Redó",
+      "Francisca Matamoros"
+    ],
+    "father_name": "Alexandro Redó",
+    "mother_name": "Francisca Matamoros",
+    "spouse_names": [
+      "Josefa Sancho"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1808]. \n\nCasament: amb Josefa Sancho.\n\nDefunció: el 12 de novembre de 1838 a la Ràpita. Va morir als 30 anys. No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

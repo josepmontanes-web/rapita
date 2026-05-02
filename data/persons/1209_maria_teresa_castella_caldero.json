@@ -1,0 +1,74 @@
+{
+  "id": "1209_maria_teresa_castella_caldero",
+  "source_id": "1209",
+  "row_ref": "1209. María Teresa Castellà Calderó",
+  "name": "María Teresa Castellà Calderó",
+  "gender": "female",
+  "birth": {
+    "date": "1805-07-25",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1164_bautista_castella",
+      "928_josefa_caldero_ferre"
+    ],
+    "father": "1164_bautista_castella",
+    "mother": "928_josefa_caldero_ferre",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Castellà",
+      "Josefa Calderó Ferré"
+    ],
+    "father_name": "Bautista Castellà Zaragozí",
+    "mother_name": "Josefa Calderó Ferré",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Cachot",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 25 de juliol de 1805 a la Ràpita. El pare té 46 anys i es pescador i la mare en té 40.\n\nPadrins: Francisco Cachot i Francisca Castellà.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

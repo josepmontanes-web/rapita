@@ -1,0 +1,89 @@
+{
+  "id": "1928_pascuala_fabregat_obiol",
+  "source_id": "1928",
+  "row_ref": "1928. Pascuala Fabregat Obiol",
+  "name": "Pascuala Fabregat Obiol",
+  "gender": "female",
+  "birth": {
+    "date": "1792-01-01",
+    "place": "Peñiscola"
+  },
+  "death": {
+    "date": "1837-07-11",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "5017_domingo_sans_sanarau"
+    ],
+    "children": [
+      "4986_rafaela_sans_fabregat",
+      "4987_francisca_sans_fabregat",
+      "4988_agustin_sans_fabregat",
+      "4989_joaquina_sanz_fabregat",
+      "4990_eusebia_sans_fabregat",
+      "4991_felipe_sanz_fabregat"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Fabregat",
+      "Joaquina Obiol"
+    ],
+    "father_name": "José Fabregat",
+    "mother_name": "Joaquina Obiol",
+    "spouse_names": [
+      "Domingo Sans Sanarau"
+    ],
+    "children_names": [
+      "Rafaela Sans Fabregat",
+      "Francisca Sans Fabregat",
+      "Agustín Sans Fabregat",
+      "Joaquina Sanz Fabregat",
+      "Eusebia Sans Fabregat",
+      "Felipe Sanz Fabregat"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Peníscola [aprox. 1792].\n\nCasament: el 28 de juliol de 1810 amb Domingo Sans Sanarau de Tortosa [1785]. Es casa als 18 anys.\n\nFills: Agustín [1811], Felipe [1815], Joaquina [1817], Francisca [1820], Rafaela [1826] i Eusebia [1829].\n\nDefunció: l'11 de juliol de 1837 a la Ràpita. No fa testament.\n\nEs germana d'Antonia [1776], Francisca [1782] i Teresa [1789].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

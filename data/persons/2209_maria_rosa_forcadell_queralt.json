@@ -1,0 +1,73 @@
+{
+  "id": "2209_maria_rosa_forcadell_queralt",
+  "source_id": "2209",
+  "row_ref": "2209. Maria Rosa Forcadell Queralt",
+  "name": "Maria Rosa Forcadell Queralt",
+  "gender": "female",
+  "birth": {
+    "date": "1841-12-15",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2182_francisco_forcadell_badoch"
+    ],
+    "father": "2182_francisco_forcadell_badoch",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Forcadell Badoch",
+      "Maria Queralt Uguet"
+    ],
+    "father_name": "Francisco Forcadell Badoch",
+    "mother_name": "Maria Queralt Uguet",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Jovani",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 15 de desembre de 1841 a la Ràpita.\n\nPadrins: José Jovani i Rosa Miguel.\n\nCasament: amb José Bo Arqués de Tortosa [1825].\n\nFills: Francisco [1878].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

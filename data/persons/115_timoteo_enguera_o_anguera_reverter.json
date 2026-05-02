@@ -1,0 +1,74 @@
+{
+  "id": "115_timoteo_enguera_o_anguera_reverter",
+  "source_id": "115",
+  "row_ref": "115. Timoteo Enguera [o Anguera] Reverter",
+  "name": "Timoteo Enguera [o Anguera] Reverter",
+  "gender": "male",
+  "birth": {
+    "date": "1832-01-23",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4919_jose_sancho_querol",
+      "4204_vicenta_reverter_balaguer"
+    ],
+    "father": "4919_jose_sancho_querol",
+    "mother": "4204_vicenta_reverter_balaguer",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Sancho Querol",
+      "Vicenta Reverter Balaguer"
+    ],
+    "father_name": "José Enguera Sancho",
+    "mother_name": "Vicenta Reverter Balaguer",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Reverter",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  el 23 de gener de 1832 a la Ràpita.\n\nEls padrins son els iaios José Reverter Sancho i Pascuala Sancho Bonet.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

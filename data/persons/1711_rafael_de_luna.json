@@ -1,0 +1,68 @@
+{
+  "id": "1711_rafael_de_luna",
+  "source_id": "1711",
+  "row_ref": "1711. Rafael De Luna",
+  "name": "Rafael De Luna",
+  "gender": "male",
+  "birth": {
+    "date": "1750-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naudin demana a Martorell que li faciliti habitació a la casa num 9 al capità del port D, Rafael de Luna que ha de passar 2 mesos al poble per la seva feina, pagant el lloguer corresponent. 12.8.1788.\nMartorell li contesta que li donen l’habitació baixa, i que ha tingut avís d’aquest senyor que mañana lunes vendrà a comer a este población. 17 agost 1788 (ACA BGRP caixa 13).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

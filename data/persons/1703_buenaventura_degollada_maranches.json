@@ -1,0 +1,75 @@
+{
+  "id": "1703_buenaventura_degollada_maranches",
+  "source_id": "1703",
+  "row_ref": "1703. Buenaventura Degollada Maranches",
+  "name": "Buenaventura Degollada Maranches",
+  "gender": "male",
+  "birth": {
+    "date": "1824-01-01",
+    "place": "Puigcerdà"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "4618_esperanza_safont_castella"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pablo Degollada",
+      "Mariana Maranches"
+    ],
+    "father_name": "Pablo Degollada",
+    "mother_name": "Mariana Maranches",
+    "spouse_names": [
+      "Esperanza Safont Castellà"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Puigcerdà [aprox. 1824].\n\nCasament: el 12 de febrer de 1850 amb Esperanza Safont Castellà de la Ràpita [1825]. Es va casar als 26 anys.\n\nFills: María [1853] i Ramón [1855].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

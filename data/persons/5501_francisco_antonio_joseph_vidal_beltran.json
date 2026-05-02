@@ -1,0 +1,74 @@
+{
+  "id": "5501_francisco_antonio_joseph_vidal_beltran",
+  "source_id": "5501",
+  "row_ref": "5501. Francisco Antonio Joseph Vidal Beltran",
+  "name": "Francisco Antonio Joseph Vidal Beltran",
+  "gender": "male",
+  "birth": {
+    "date": "1805-12-17",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5535_francisco_vidal_palos",
+      "637_juana_beltran_sancho"
+    ],
+    "father": "5535_francisco_vidal_palos",
+    "mother": "637_juana_beltran_sancho",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Vidal Palos",
+      "Juana Beltran Sancho"
+    ],
+    "father_name": "Francisco Vidal Palos",
+    "mother_name": "Juana Beltran Sancho",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Gasparín",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 17 de desembre de 1805 a la Ràpita.\n\nPadrí: Francisco Gasparín.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

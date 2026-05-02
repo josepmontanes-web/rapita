@@ -1,0 +1,71 @@
+{
+  "id": "313_jose_baijoli_blanca",
+  "source_id": "313",
+  "row_ref": "313. José Baijolí Blanca",
+  "name": "José Baijolí Blanca",
+  "gender": "male",
+  "birth": {
+    "date": "1793-10-19",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Domingo Baijolí",
+      "Mariana Blanca"
+    ],
+    "father_name": "Domingo Baijolí",
+    "mother_name": "Mariana Blanca",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Josef Saperas",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 19 d'octubre de 1793 a la Ràpita.\n\nPadrins: José Saperas i María Guardia.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "5509_antonia_isabel_vidal_briciano",
+  "source_id": "5509",
+  "row_ref": "5509. Antonia Isabel Vidal Briciano",
+  "name": "Antonia Isabel Vidal Briciano",
+  "gender": "female",
+  "birth": {
+    "date": "1841-01-15",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5586_francisco_vidal_talarn"
+    ],
+    "father": "5586_francisco_vidal_talarn",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Vidal Talarn",
+      "Apolonia Breciano Pascual"
+    ],
+    "father_name": "Francisco Vidal Talarn",
+    "mother_name": "Apolonia Breciano Pascual",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Salvador Talarn",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 15 de gener de 1841 a la Ràpita.\n\nPadrins: Salvador Talarn i María Rosales.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

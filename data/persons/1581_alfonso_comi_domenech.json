@@ -1,0 +1,79 @@
+{
+  "id": "1581_alfonso_comi_domenech",
+  "source_id": "1581",
+  "row_ref": "1581. Alfonso Comi Domenech",
+  "name": "Alfonso Comi Domenech",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1701_candia_dalmau_fabregat"
+    ],
+    "children": [
+      "1580_francisco_antonio_comi_dalmau"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Comi",
+      "Manuela Domenech"
+    ],
+    "father_name": "Pedro Comi",
+    "mother_name": "Manuela Domenech",
+    "spouse_names": [
+      "Candia Dalmau Fabregat"
+    ],
+    "children_names": [
+      "Francisco Antonio Comi Dalmau"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1800].\n\nCasament: amb Candia Dalmau Fabregat de Tortosa [1800].\n\nFills: Francisco Antonio [1823].\n\nEs germà de Juan Comí Domenech [1800].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

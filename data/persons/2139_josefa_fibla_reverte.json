@@ -1,0 +1,77 @@
+{
+  "id": "2139_josefa_fibla_reverte",
+  "source_id": "2139",
+  "row_ref": "2139. Josefa Fibla Reverté",
+  "name": "Josefa Fibla Reverté",
+  "gender": "female",
+  "birth": {
+    "date": "1825-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2119_jose_fibla"
+    ],
+    "father": "2119_jose_fibla",
+    "mother": null,
+    "spouse": [
+      "528_jose_barrera_sancho"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Fibla",
+      "Antonia Reverté Chillida"
+    ],
+    "father_name": "José Fibla",
+    "mother_name": "Antonia Reverté Chillida",
+    "spouse_names": [
+      "José Barrera Sancho"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1825].\n\nCasament: el 9 de gener de 1847 amb José Barrera Sancho d'Alcanar [1820].\n\nFills: María [1850], Bautista [1848], Josefa [1849] i Teresa [1850].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

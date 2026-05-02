@@ -1,0 +1,74 @@
+{
+  "id": "3488_maria_antonia_morando",
+  "source_id": "3488",
+  "row_ref": "3488. María Antonia Morando",
+  "name": "María Antonia Morando",
+  "gender": "female",
+  "birth": {
+    "date": "1760-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1791-10-01",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1796_2_1846"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Don Francisco Ayarza"
+    ],
+    "children_names": [
+      "2 1846"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1760]. \n\nFills: Leonor [aprox 1790] i José [1791].\n\nDefunció: l'1 d'octubre de 1791 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

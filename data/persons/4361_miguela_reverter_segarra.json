@@ -1,0 +1,73 @@
+{
+  "id": "4361_miguela_reverter_segarra",
+  "source_id": "4361",
+  "row_ref": "4361. Miguela Reverter Segarra",
+  "name": "Miguela Reverter Segarra",
+  "gender": "female",
+  "birth": {
+    "date": "1821-12-22",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1821-12-31",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4260_jose_reverter_forner"
+    ],
+    "father": "4260_jose_reverter_forner",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Reverter Forner",
+      "Casilda Segarra Puchol"
+    ],
+    "father_name": "José Reverter Forner",
+    "mother_name": "Casilda Segarra Puchol",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Miguel Ferrer",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 22 de desembre de 1821 a la Ràpita.\n\nPadrins: Miguel Ferrer i María Forner.\n\nDefunció: el 31 de desembre de 1821 a la Ràpita.\n\nEs bessona de María.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

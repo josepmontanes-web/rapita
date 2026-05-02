@@ -1,0 +1,68 @@
+{
+  "id": "649_lluc_beltran_ulldemolins",
+  "source_id": "649",
+  "row_ref": "649. Lluc Beltran Ulldemolins",
+  "name": "Lluc Beltran Ulldemolins",
+  "gender": "male",
+  "birth": {
+    "date": "1879-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1879]\n\nProfessió: Advocat.\n\nCasament: amb Elena Castellà Vila de la Ràpita.\n\nFills: Josepa, Maria Teresa i Montserrat.\n\nDefunció: l'11 de febrer de 1968 a la Ràpita. Va viure al carrer de Sant Francesc i al Maset. Apareix com alcalde al 1931. Jutge municipal 1942-1945.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

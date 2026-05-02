@@ -1,0 +1,78 @@
+{
+  "id": "439_candia_balague_homedes_o_omedes",
+  "source_id": "439",
+  "row_ref": "439. Candia Balagué Homedes [o Omedes]",
+  "name": "Candia Balagué Homedes [o Omedes]",
+  "gender": "female",
+  "birth": {
+    "date": "1795-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "461_jose_balague_saragosi",
+      "2793_teresa_homedes_cartes"
+    ],
+    "father": "461_jose_balague_saragosi",
+    "mother": "2793_teresa_homedes_cartes",
+    "spouse": [
+      "1225_mariano_castella_cid"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Balagué Saragosí",
+      "Teresa Homedes Cartes"
+    ],
+    "father_name": "José Balagué Salvadó",
+    "mother_name": "Teresa Homedes Cartes",
+    "spouse_names": [
+      "Mariano Castellà Cid"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1795].\n\nCasament: amb Mariano Castellà Cid de Tortosa [1790].\n\nFills: José [1813], Carlina [1815], Francisco [1819], Mateo [1821], Domingo [1824], Carlota [1826], María Rosa [1828], Mariano [1830] i Juan [1832].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

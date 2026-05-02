@@ -1,0 +1,89 @@
+{
+  "id": "4834_jose_sancho",
+  "source_id": "4834",
+  "row_ref": "4834. José Sancho",
+  "name": "José Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4832_bautista_sancho"
+    ],
+    "father": "4832_bautista_sancho",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "4842_mariano_sancho_balada",
+      "4850_maria_sancho_balada",
+      "4914_mariana_sancho_queral",
+      "4915_teresa_sancho_queral",
+      "4916_juan_sancho_queralt",
+      "4917_jose_manuel_sancho_queralt"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Sancho",
+      "Francisca"
+    ],
+    "father_name": "Bautista Sancho",
+    "mother_name": "Francisca",
+    "spouse_names": [
+      "Josefa Queralt"
+    ],
+    "children_names": [
+      "Mariano Sancho Balada",
+      "María Sancho Balada",
+      "Mariana Sancho Queral",
+      "Teresa Sancho Queral",
+      "Juan Sancho Queralt",
+      "José Manuel Sancho Queralt"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1810]. \n\nCasament: amb Josefa Queralt d'Alcanar.\n\nFills: Teresa [1830], Mariana [1833], Juan [1835], José Pascual [1839] i José Manuel [1843].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

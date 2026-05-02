@@ -1,0 +1,78 @@
+{
+  "id": "355_tomasa_balada_planes",
+  "source_id": "355",
+  "row_ref": "355. Tomasa Balada Planes",
+  "name": "Tomasa Balada Planes",
+  "gender": "female",
+  "birth": {
+    "date": "1814-03-13",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "342_francisco_balada_forcadell",
+      "3995_eulalia_planes_gubern"
+    ],
+    "father": "342_francisco_balada_forcadell",
+    "mother": "3995_eulalia_planes_gubern",
+    "spouse": [
+      "3842_casimiro_pascual_tomas"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Balada Forcadell",
+      "Eulalia Planes Gubern"
+    ],
+    "father_name": "Francisco Balada Forcadell",
+    "mother_name": "Eulalia Planes Gubern",
+    "spouse_names": [
+      "Casimiro Pascual Tomas"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Manuel Cosciola ?",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 13 de març de 1814 a la Ràpita.\n\nPadrins: Manuel Cosciola? genovés i Tomasa Pla.\n\nCasament: el 23 de maig de 1844 amb Casimiro Pascual Tomás de la Ràpita [1814].\n\nFills: Josefa [1855].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

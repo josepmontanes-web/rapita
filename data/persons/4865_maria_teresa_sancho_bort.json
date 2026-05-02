@@ -1,0 +1,78 @@
+{
+  "id": "4865_maria_teresa_sancho_bort",
+  "source_id": "4865",
+  "row_ref": "4865. Maria Teresa Sancho Bort",
+  "name": "Maria Teresa Sancho Bort",
+  "gender": "female",
+  "birth": {
+    "date": "1831-07-12",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4895_jose_sancho_gil",
+      "805_agustina_bort_lleti"
+    ],
+    "father": "4895_jose_sancho_gil",
+    "mother": "805_agustina_bort_lleti",
+    "spouse": [
+      "1936_pedro_fabregat_sancho"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Sancho Gil",
+      "Agustina Bort Lletí"
+    ],
+    "father_name": "José Sancho Gil",
+    "mother_name": "Agustina Bort Lletí",
+    "spouse_names": [
+      "Pedro Fabregat Sancho"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Agustín Arbó",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 12 de juliol de 1831 a la Ràpita.\n\nPadrins: Agustín Arbó i Teresa Guardia.\n\nCasament: el 14 de juliol de 1849 amb Pedro Fabregat Sancho de la Ràpita [1827].\n\nFills: José [1850] i Francisco [1857].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

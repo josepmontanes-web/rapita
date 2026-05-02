@@ -1,0 +1,77 @@
+{
+  "id": "1060_cosme_cartes_fabregat",
+  "source_id": "1060",
+  "row_ref": "1060. Cosme Cartes Fabregat",
+  "name": "Cosme Cartes Fabregat",
+  "gender": "male",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1049_maria_cartes_arbones"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Cartes",
+      "Teresa Fabregat"
+    ],
+    "father_name": "Juan Cartes",
+    "mother_name": "Teresa Fabregat",
+    "spouse_names": [
+      "Maria Arbonés Andreu"
+    ],
+    "children_names": [
+      "María Cartes Arbonés"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1790].\n\nCasament: amb María Arbonés Andreu de Tortosa.\n\nFills: María [1813].\n\nEs germà de María de la Cinta Cartes Fabregat [1790].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

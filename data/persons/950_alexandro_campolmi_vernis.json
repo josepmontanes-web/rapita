@@ -1,0 +1,79 @@
+{
+  "id": "950_alexandro_campolmi_vernis",
+  "source_id": "950",
+  "row_ref": "950. Alexandro Campolmi Vernis",
+  "name": "Alexandro Campolmi Vernis",
+  "gender": "male",
+  "birth": {
+    "date": "1780-01-01",
+    "place": "Vinaròs"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "949_francisco_campolmi"
+    ],
+    "father": "949_francisco_campolmi",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "951_josefa_maria_campolmi_bort"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Campolmi",
+      "Margarita Vernis"
+    ],
+    "father_name": "Francisco Campolmi",
+    "mother_name": "Margarita Vernis",
+    "spouse_names": [
+      "Josefa Bort Lleixà"
+    ],
+    "children_names": [
+      "Josefa María Campolmi Bort"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1780].\n\nCasament: amb Josefa Bort Lleixà de la Galera.\n\nFills: Josefa María [1809].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "4265_agustin_reverter_forner",
+  "source_id": "4265",
+  "row_ref": "4265. Agustín Reverter Forner",
+  "name": "Agustín Reverter Forner",
+  "gender": "male",
+  "birth": {
+    "date": "1793-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4177_agustin_reverter",
+      "2232_maria_forner_felip"
+    ],
+    "father": "4177_agustin_reverter",
+    "mother": "2232_maria_forner_felip",
+    "spouse": [
+      "4921_teresa_sancho_querol"
+    ],
+    "children": [
+      "4347_miguel_reverte_sancho",
+      "4348_teresa_reverter_sancho",
+      "4349_agustin_reverter_sancho",
+      "4350_josefa_reverter_sancho",
+      "4351_maria_reverter_sancho",
+      "4352_tomas_reverte_sancho",
+      "4353_juan_bautista_reverter_sancho",
+      "4354_agustin_carlos_reverter_sancho"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustín Reverter",
+      "Maria Forner Felip"
+    ],
+    "father_name": "Agustín Reverter",
+    "mother_name": "Maria Forner Felip",
+    "spouse_names": [
+      "Teresa Sancho Querol"
+    ],
+    "children_names": [
+      "Miguel Reverté Sancho",
+      "Teresa Reverter Sancho",
+      "Agustín Reverter Sancho",
+      "Josefa Reverter Sancho",
+      "María Reverter Sancho",
+      "Tomás Reverté Sancho",
+      "Juan Bautista Reverter Sancho",
+      "Agustín Carlos Reverter Sancho"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1793]. Viu al Codonyol.\n\nProfessió: pagès.\n\nCasament: amb Teresa Sancho Querol d'Alcanar [1800].\n\nFills: Josefa [1819], María [1821], Miguel [1824], Tomás [1827], Juan Bautista [1828], Teresa [1830], Agustín Carlos [1836] i Agustín [1839].\n\nDonación: de Agustín Reverter (Forner) a su hija Josefa Reverter (Sancho) por la celebración de su matrimonio con Tomás Curto (Cavaller), casa en el callejón de la Iglesia. Linda con Lucas Torta (Subirats, casat amb Francisca Accensi Lozaro), Ramón Accensi (casat amb Maria Lozano) y Manuel Barrera. Febrero de 1858. Esc. Lorenzo Figueres de Alcanar. \n\nDonación: de Agustín Reverter (Forner) a Agustín Reverter (Sancho). Agustín Reverter hizo donación a su hijo Agustín por razón de su celebración matrimonio con Teresa Masiá (Biosca) de una casa en San Carlos. 21 de junio de 1859. Esc. Lorenzo Figueras de Alcanar. (Es el fill petit que es casa als 19 anys el 2 de juliol de 1859).\n\nVenta de un solar para edificar prop del Pas de Carrasca a la Comandancia de Carrabiners i en el seu nom a Don Luís Calero tinent de carrabiners de 44 anys. El solar per edificar té 20 vares quadrades forman una superficie de \"plan terreno\" de 312 metres situat al terme de San Carlos de la Ràpita, linda a migdia amb un lligall al costat d'una noria vella i per la resta amb terres del mateix Agustí Reverter Forner. El preu son 500 Rv. i l'escritura es fa el 7 de setembre de 1863, en aquest moment diu que té 70 anys. Notari: Pedro Llopart. La terra l'havia comprat el 2 d'agost de 1850 a Antonio Morales i Teresa Lafont. Notari de la compra de 1850 Juan Ventosa.\n\nEs un dels 28 veïns de la Ràpita que figuren al primer cens electoral de San Carlos de la Ràpita de 1867, diu que viu a la \"Plaza Mayor\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

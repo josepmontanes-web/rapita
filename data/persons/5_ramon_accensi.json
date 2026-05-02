@@ -1,12 +1,12 @@
 {
   "id": "5_ramon_accensi",
   "source_id": "5",
-  "row_ref": "5",
+  "row_ref": "5. Ramón Accensi",
   "name": "Ramón Accensi",
   "gender": "male",
   "birth": {
     "date": "1790-01-01",
-    "place": "Santa Barbara"
+    "place": "Santa Bàrbara"
   },
   "death": {
     "date": null,
@@ -21,16 +21,58 @@
     "lng": null
   },
   "family": {
-    "parents": [],
+    "parents": [
+      "2_jose_antonio_accensi",
+      "4826_madalena_sancho"
+    ],
+    "father": "2_jose_antonio_accensi",
+    "mother": "4826_madalena_sancho",
     "spouse": [],
-    "children": []
+    "children": [
+      "8_maria_rosa_accensi_lazaro",
+      "9_raymunda_accensi_lazaro",
+      "10_tomasa_accensi_lazaro",
+      "11_josefa_accensi_lazaro",
+      "12_francisca_accensi_lazaro"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
   },
   "relations_detail": {
-    "parents_names": [],
+    "parents_names": [
+      "José Antonio Accensi",
+      "Madalena Sancho"
+    ],
+    "father_name": null,
+    "mother_name": null,
     "spouse_names": [
       "Maria Lozano"
     ],
-    "children_names": []
+    "children_names": [
+      "Maria Rosa Accensi Lazaro",
+      "Raymunda Accensi Lazaro",
+      "Tomasa Accensi Lazaro",
+      "Josefa Accensi Lazaro",
+      "Francisca Accensi Lazaro"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
   },
   "occupation": {
     "title": null

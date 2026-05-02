@@ -1,7 +1,7 @@
 {
   "id": "30_juan_bautista_adell_miralles",
   "source_id": "30",
-  "row_ref": "30",
+  "row_ref": "30. Juan Bautista Adell Miralles",
   "name": "Juan Bautista Adell Miralles",
   "gender": "male",
   "birth": {
@@ -21,17 +21,47 @@
     "lng": null
   },
   "family": {
-    "parents": [],
+    "parents": [
+      "743_pascual_bordes_adell"
+    ],
+    "father": "743_pascual_bordes_adell",
+    "mother": null,
     "spouse": [],
-    "children": []
+    "children": [
+      "3420_juan_bautista_miralles_gasulla"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
   },
   "relations_detail": {
     "parents_names": [
-      "Pascual Adell",
+      "Pascual Bordes Adell",
       "Mariana Miralles"
     ],
+    "father_name": "Pascual Adell",
+    "mother_name": "Mariana Miralles",
     "spouse_names": [],
-    "children_names": []
+    "children_names": [
+      "Juan Bautista Miralles Gasulla"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
   },
   "occupation": {
     "title": null

@@ -1,0 +1,73 @@
+{
+  "id": "3675_ignacio_jayme_navarro_sol",
+  "source_id": "3675",
+  "row_ref": "3675. Ignacio Jayme Navarro Sol",
+  "name": "Ignacio Jayme Navarro Sol",
+  "gender": "male",
+  "birth": {
+    "date": "1819-09-17",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3663_jose_navarro_paulo"
+    ],
+    "father": "3663_jose_navarro_paulo",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Navarro Paulo",
+      "Josefa Sol Damé"
+    ],
+    "father_name": "José Navarro Paulo",
+    "mother_name": "Josefa Sol Damé",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Ignacio Esteller",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 17 de setembre de 1819 a la Ràpita.\n\nPadrins: Ignacio Esteller i María Balaguer.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

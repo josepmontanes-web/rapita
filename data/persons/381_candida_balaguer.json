@@ -1,0 +1,74 @@
+{
+  "id": "381_candida_balaguer",
+  "source_id": "381",
+  "row_ref": "381. Càndida Balaguer",
+  "name": "Càndida Balaguer",
+  "gender": "female",
+  "birth": {
+    "date": "1730-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1905_juan_fabregat_balaguer"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Bautista Fabregat"
+    ],
+    "children_names": [
+      "Juan Fabregat Balaguer"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1730].\n\nCasament: amb Bautista Fabregat.\n\nFills: Juan (Tortosa) [1761].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

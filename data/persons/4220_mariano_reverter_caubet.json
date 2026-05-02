@@ -1,0 +1,74 @@
+{
+  "id": "4220_mariano_reverter_caubet",
+  "source_id": "4220",
+  "row_ref": "4220. Mariano Reverter Caubet",
+  "name": "Mariano Reverter Caubet",
+  "gender": "male",
+  "birth": {
+    "date": "1831-05-10",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4791_miguel_sanchez_reverter",
+      "1358_rosa_caubet_rodriguez"
+    ],
+    "father": "4791_miguel_sanchez_reverter",
+    "mother": "1358_rosa_caubet_rodriguez",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Sánchez Reverter",
+      "Rosa Caubet Rodríguez"
+    ],
+    "father_name": "Miguel Reverter Querol",
+    "mother_name": "Rosa Caubet Rodriguez",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Alexandro Monserrat",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 10 de maig de 1831 a la Ràpita.\n\nPadrins: Alexandro Montserrat i Francisca Escardó.\n\nCasament: amb Nicasia Sans Balada de la Ràpita [1831].\n\nFills: Ramona [1857].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "1923_juan_fabregat_mateu",
+  "source_id": "1923",
+  "row_ref": "1923. Juan Fabregat Mateu",
+  "name": "Juan Fabregat Mateu",
+  "gender": "male",
+  "birth": {
+    "date": "1808-03-09",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1845-09-07",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1905_juan_fabregat_balaguer",
+      "3301_mariana_mateu_sancho"
+    ],
+    "father": "1905_juan_fabregat_balaguer",
+    "mother": "3301_mariana_mateu_sancho",
+    "spouse": [],
+    "children": [
+      "1906_0",
+      "1907_maria_anna_fabregat_fabra",
+      "1908_teresa_francisca_fabregat_fabra",
+      "1909_agustina_fabregat_fabra",
+      "1910_manuela_fabregat_fabra"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Fabregat Balaguer",
+      "Mariana Mateu Sancho"
+    ],
+    "father_name": "Juan Fabregat Balaguer",
+    "mother_name": "Mariana Mateu Sancho",
+    "spouse_names": [
+      "Antonia Fabra Miralles"
+    ],
+    "children_names": [
+      "0",
+      "Maria Anna Fabregat Fabra",
+      "Teresa Francisca Fabregat Fabra",
+      "Agustina Fabregat Fabra",
+      "Manuela Fabregat Fabra"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Gasparín",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 9 de març de 1808 a la Ràpita.\n\nPadrins: Francisco Gasparín i Teresa Christofol.\n\nCasament: amb Antonia Fabra Miralles de Freginals [1810].\n\nFills: Pedro Nolasco [1834], María Anna [1836], Teresa Francisca [1838], Agustina [1840] i Manuela [1842].\n\nDefunció: el 7 de setembre de 1845 a la Ràpita. \"Testó en poder de Joaquín Figueras Rgte.\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

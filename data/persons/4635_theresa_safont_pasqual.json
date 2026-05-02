@@ -1,0 +1,74 @@
+{
+  "id": "4635_theresa_safont_pasqual",
+  "source_id": "4635",
+  "row_ref": "4635. Theresa Safont Pasqual",
+  "name": "Theresa Safont Pasqual",
+  "gender": "female",
+  "birth": {
+    "date": "1809-08-24",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1810-02-10",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1668_josef_cugat_pla",
+      "3824_mariana_pascual_fuster"
+    ],
+    "father": "1668_josef_cugat_pla",
+    "mother": "3824_mariana_pascual_fuster",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Cugat Pla",
+      "Mariana Pascual Fuster"
+    ],
+    "father_name": "Josef Safont Pla",
+    "mother_name": "Mariana Pascual Fuster",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Pedro Ferrer",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 24 d'agost de 1809 a la Ràpita.\n\nPadrins: Pedro Ferrer i Teresa Carbó.\n\nDefunció: el 10 de febrer de 1810 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

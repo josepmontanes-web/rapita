@@ -1,0 +1,80 @@
+{
+  "id": "3364_mariano_mies_montes",
+  "source_id": "3364",
+  "row_ref": "3364. Mariano Míes Montes",
+  "name": "Mariano Míes Montes",
+  "gender": "male",
+  "birth": {
+    "date": "1760-01-01",
+    "place": "Cassà de la Selva(Girona)"
+  },
+  "death": {
+    "date": "1799-07-06",
+    "place": null
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3734_madalena_obiol"
+    ],
+    "children": [
+      "3374_mariano_mies_temprado"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Míes",
+      "Margarita Montes"
+    ],
+    "father_name": "Josef Míes",
+    "mother_name": "Margarita Montes",
+    "spouse_names": [
+      "Teresa Temprado",
+      "Madalena Obiol"
+    ],
+    "children_names": [
+      "Mariano Míes Temprado"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Cassà de la Selva (Girona) [aprox. 1760]. \n\nCasament: amb Teresa Temprado d'Alcalà de Xivert. Podría ser germana de Mariana Temprado Cucala [1770], però no es segur.\n\nFills: Mariano [1792].\n\nCasament: amb Madalena Obiol [1770].\n\nFills: Madalena [1798].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu al barri dels pescadors  (ACA BGRP Cajas 34).\n\nEs germà de Sebastián Míes Montes [1763] i José Míes Montes [1771].\n\nDefunció: el 6 de juliol de 1799 a la Ràpita. No va fer testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "1968_jose_facsini_chillida",
+  "source_id": "1968",
+  "row_ref": "1968. José Facsini Chillida",
+  "name": "José Facsini Chillida",
+  "gender": "male",
+  "birth": {
+    "date": "1846-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1848-05-02",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1971_nicolas_fatsini_pons",
+      "1442_tomasa_chillida_querol"
+    ],
+    "father": "1971_nicolas_fatsini_pons",
+    "mother": "1442_tomasa_chillida_querol",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Nicolás Fatsini Pons",
+      "Tomasa Chillida Querol"
+    ],
+    "father_name": "Nicolás Facsini Pons",
+    "mother_name": "Tomasa Chillida Querol",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1846].\n\nDefunció: el 2 de maig de 1848 a la Ràpita. Va morir als 2 anys i mig.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

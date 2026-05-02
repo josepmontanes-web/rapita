@@ -1,0 +1,73 @@
+{
+  "id": "3563_francisca_moya_vilarroya",
+  "source_id": "3563",
+  "row_ref": "3563. Francisca Moya Vilarroya",
+  "name": "Francisca Moya Vilarroya",
+  "gender": "female",
+  "birth": {
+    "date": "1806-07-13",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1807-06-04",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3550_juan_moia_oruspina_o_ruspina"
+    ],
+    "father": "3550_juan_moia_oruspina_o_ruspina",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Moia Oruspina [o Ruspina]",
+      "Theresa Vilarroya Perolada"
+    ],
+    "father_name": "Juan Moya Oruspina",
+    "mother_name": "Theresa Vilarroya Perolada",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Salvador Rosales",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 13 de juliol de 1806 a la Ràpita.\n\nPadrins: Salvador Rosales i Francisca Castellà.\n\nDefunció: el 4 de juny de 1807 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "4037_teresa_puchol_ferrer",
+  "source_id": "4037",
+  "row_ref": "4037. Teresa Puchol Ferrer",
+  "name": "Teresa Puchol Ferrer",
+  "gender": "female",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Vinaròs"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1162_camilo_castells_miro"
+    ],
+    "children": [
+      "1163_vicenta_cinta_castells_puchol"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Puchol",
+      "Teresa Ferrer"
+    ],
+    "father_name": "Juan Puchol",
+    "mother_name": "Teresa Ferrer",
+    "spouse_names": [
+      "Camilo Castells Miró"
+    ],
+    "children_names": [
+      "Vicenta Cinta Castells Puchol"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1820]. \n\nCasament: amb Camilo Castells Miró de Tortosa [1820].\n\nFills: Vicenta Cinta [1841].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

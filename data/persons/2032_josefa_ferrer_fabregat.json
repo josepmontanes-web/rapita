@@ -1,0 +1,73 @@
+{
+  "id": "2032_josefa_ferrer_fabregat",
+  "source_id": "2032",
+  "row_ref": "2032. Josefa Ferrer Fabregat",
+  "name": "Josefa Ferrer Fabregat",
+  "gender": "female",
+  "birth": {
+    "date": "1834-04-19",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2062_miguel_ferre_ortiz"
+    ],
+    "father": "2062_miguel_ferre_ortiz",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Ferré Ortiz",
+      "Teresa Fabregat Mateu"
+    ],
+    "father_name": "Miguel Ferré Ortiz",
+    "mother_name": "Teresa Fabregat Mateu",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Bautista Comí",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 19 d'abril de 1834 a la Ràpita.\n\nPadrins: Bautista Comí i Rosa Navarro.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

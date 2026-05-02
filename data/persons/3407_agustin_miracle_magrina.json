@@ -1,0 +1,74 @@
+{
+  "id": "3407_agustin_miracle_magrina",
+  "source_id": "3407",
+  "row_ref": "3407. Agustín Miracle Magriña",
+  "name": "Agustín Miracle Magriña",
+  "gender": "male",
+  "birth": {
+    "date": "1841-11-11",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3402_juan_miracle_baset",
+      "3088_teresa_magrina_rosales"
+    ],
+    "father": "3402_juan_miracle_baset",
+    "mother": "3088_teresa_magrina_rosales",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Miracle Baset",
+      "Teresa Magriñá Rosales"
+    ],
+    "father_name": "Juan Miracle Batet",
+    "mother_name": "Teresa Magriña Rosales",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Agustín Magriña",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'11 de novembre de 1841 a la Ràpita.\n\nPadrins: Agustín Magriñá i Casilda Magriñá.\n\nProfessió: fuster.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

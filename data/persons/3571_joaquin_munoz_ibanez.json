@@ -1,0 +1,87 @@
+{
+  "id": "3571_joaquin_munoz_ibanez",
+  "source_id": "3571",
+  "row_ref": "3571. Joaquín Muñoz Ibáñez",
+  "name": "Joaquín Muñoz Ibáñez",
+  "gender": "male",
+  "birth": {
+    "date": "1799-01-01",
+    "place": "Vinaroz"
+  },
+  "death": {
+    "date": "1845-12-30",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3570_vicente_munoz_ibanez"
+    ],
+    "father": "3570_vicente_munoz_ibanez",
+    "mother": null,
+    "spouse": [
+      "5582_barbara_vidal_talarn",
+      "658_maria_ana_beltri_falco"
+    ],
+    "children": [
+      "3566_joaquin_munos_beltri",
+      "3567_jose_munos_beltri",
+      "3578_vicenta_munoz_vidal"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Muñoz Ibáñez",
+      "Vicenta Ibáñez"
+    ],
+    "father_name": "Vicente Muñoz",
+    "mother_name": "Vicenta Ibáñez",
+    "spouse_names": [
+      "Bàrbara Vidal Talarn",
+      "María Ana Beltri Falcó"
+    ],
+    "children_names": [
+      "Joaquín Muños Beltri",
+      "José Muños Beltri",
+      "Vicenta Muñoz Vidal"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1799]. \n\nCasament: el 24 de maig de 1823 amb Bàrbara Vidal Talarn de la Ràpita [1804]. Es casa als 24 anys.\n\nFills: Vicenta [1826], María Teresa [1827] i Francisca Teresa [1830].\n\nCasament: el 9 de juliol de 1836 amb María Ana Beltri Falcó de Xerta [1810].\n\nFills: Joaquín [1841] i José [1841].\n\nDefunció: el 30 de desembre de 1845 a la Ràpita. Va morir als 47 anys. No fa testament.\n\nEs germà de Vicente Muñoz Ibáñez [1785] i Ana María Muñoz Ibáñez [1810].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

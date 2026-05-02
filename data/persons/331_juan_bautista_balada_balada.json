@@ -1,0 +1,74 @@
+{
+  "id": "331_juan_bautista_balada_balada",
+  "source_id": "331",
+  "row_ref": "331. Juan Bautista Balada Balada",
+  "name": "Juan Bautista Balada Balada",
+  "gender": "male",
+  "birth": {
+    "date": "1817-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1817-10-28",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "345_miguel_balada_lluch",
+      "350_joaquina_balada_miralles"
+    ],
+    "father": "345_miguel_balada_lluch",
+    "mother": "350_joaquina_balada_miralles",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Balada Lluch",
+      "Joaquina Balada Miralles"
+    ],
+    "father_name": "Miguel Balada Lluch",
+    "mother_name": "Joaquina Balada Miralles",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1817].\n\nDefunció: el 28 d'octubre de 1817 a la Ràpita. Va morir als 8 mesos de \"resfriado\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

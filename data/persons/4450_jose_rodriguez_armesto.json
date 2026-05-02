@@ -1,0 +1,68 @@
+{
+  "id": "4450_jose_rodriguez_armesto",
+  "source_id": "4450",
+  "row_ref": "4450. José Rodríguez Armesto",
+  "name": "José Rodríguez Armesto",
+  "gender": "male",
+  "birth": {
+    "date": "1850-01-01",
+    "place": "Fiolleda-Monforte de Lemos (Lugo)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Fiolleda-Monforte de Lemos (Lugo) [aprox. 1850].\n\nCasament: amb María Sanabra Roig de Torredembarra [1850].\n\nFills: Angel Alfonso Adolfo [1879].\n\nSap escriure, signa la declaració de naixement del fill al registre civil.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

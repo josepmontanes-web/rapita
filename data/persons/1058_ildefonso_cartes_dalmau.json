@@ -1,0 +1,74 @@
+{
+  "id": "1058_ildefonso_cartes_dalmau",
+  "source_id": "1058",
+  "row_ref": "1058. Ildefonso Cartes Dalmau",
+  "name": "Ildefonso Cartes Dalmau",
+  "gender": "male",
+  "birth": {
+    "date": "1814-03-29",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1066_juan_cartes_fonollosa",
+      "1700_joaquina_dalmau_fabregat"
+    ],
+    "father": "1066_juan_cartes_fonollosa",
+    "mother": "1700_joaquina_dalmau_fabregat",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Cartes Fonollosa",
+      "Joaquina Dalmau Fabregat"
+    ],
+    "father_name": "Juan Cartes Fonollosa",
+    "mother_name": "Joaquina Dalmau? Fabregat",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Ildefonso Comí",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 29 de març de 1814 a la Ràpita.\n\nPadrins: Ildefonso Comí i Rosa Saperes.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

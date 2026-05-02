@@ -1,0 +1,74 @@
+{
+  "id": "493_jayme_barbera",
+  "source_id": "493",
+  "row_ref": "493. Jayme Barberà",
+  "name": "Jayme Barberà",
+  "gender": "male",
+  "birth": {
+    "date": "1740-01-01",
+    "place": "Fresneda (Zaragoza)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "503_maria_antonia_barbera_sabater"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Mª. Antonia Sabater"
+    ],
+    "children_names": [
+      "María Antonia Barberà Sabater"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  a La Freixneda [aprox. 1740]\n\nCasament: amb María Antonia Sabater de La Freixneda.\n\nFills: María Antonia de la Freixneda [aprox 1770].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "60_bautista_albiol_marin",
+  "source_id": "60",
+  "row_ref": "60. Bautista Albiol Marín",
+  "name": "Bautista Albiol Marín",
+  "gender": "male",
+  "birth": {
+    "date": "1843-01-01",
+    "place": "Estivella"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "57_maria_rosa_albiol_folch",
+      "58_manuela_albiol_folch"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "María Rosa Albiol Folch",
+      "Manuela Albiol Folch"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Estivella (València) [aprox. 1843]. Quan naix la filla té 35 anys.\n\nProfessió: jornaler.\n\nCasament: amb Magdalena Folch General d'Alcalá (Castelló) [1850].\n\nFills: María Rosa [1878] i Manuela [1881]. Sap escriure i signa la declaració de la filla al registre civil.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

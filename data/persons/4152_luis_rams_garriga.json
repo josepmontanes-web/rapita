@@ -1,0 +1,74 @@
+{
+  "id": "4152_luis_rams_garriga",
+  "source_id": "4152",
+  "row_ref": "4152. Luís Rams Garriga",
+  "name": "Luís Rams Garriga",
+  "gender": "male",
+  "birth": {
+    "date": "1832-10-10",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4155_andres_rams_puell",
+      "2383_magdalena_garriga_segura"
+    ],
+    "father": "4155_andres_rams_puell",
+    "mother": "2383_magdalena_garriga_segura",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Andrés Rams Puell",
+      "Magdalena Garriga Segura"
+    ],
+    "father_name": "Andrés Rams Puell",
+    "mother_name": "Magdalena Garriga Segura",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Manuel Difeu",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 10 d'octubre de 1832 a la Ràpita.\n\nPadrins: Manuel Difeu i Agustina Porcar.\n\nProfessió: ferrer.\n\nCasament: amb Joaquina Segarra Nolla d'Alcanar [1838].\n\nFills: Magdalena [1855], Manuela [1860], Encarnación [1865], Pablo [1870] i Joaquín [1875].\n\nEl 4 de setembre de 1860 compra un pati per a edificar al carrer Sant Miquel.\n\nVenta: de Dolores Arbó (Tomás) consorte de Domingo Vidal (Serrano), Tomás Arlández (Balada) viudo de Prudencia Arbó (Providencia Arbó Tomás) , Rafaela Arbó (Tomás) consorte de Bartolomé Silvestre (Jovani) y Ramón Cid (Herlandes) marido de Simona Arbó (Tomás), todos labradores, a Luís Rams Herrero y Joaquina Segarra consortes, de una casa en la calle de San Isidro que aún estaba para …, esto es, a madera colocada. Linda con Tomás Vidal y terrenos de las Monjas. 4 de diciembre de 1857. Escribano Lorenzo Jimenez de Alcanar. Valor 2880. (El pare de les germanes es Francisco Arbó Inglés de Benicarló i el iaio Tomás Arbó).\n\nDefunció: el 10 de juliol de 1880 a la Ràpita de \"derrame de serosidad en el cerebro\". Declara la mor Antonia Míes de 51 anys, vidua. La seua dona Joaquina Segarra ja estava morta.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

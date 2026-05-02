@@ -1,0 +1,77 @@
+{
+  "id": "1095_agustin_casajust_castella",
+  "source_id": "1095",
+  "row_ref": "1095. Agustín Casajust Castellà",
+  "name": "Agustín Casajust Castellà",
+  "gender": "male",
+  "birth": {
+    "date": "1821-06-23",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1114_francisco_casajust_michavila"
+    ],
+    "father": "1114_francisco_casajust_michavila",
+    "mother": null,
+    "spouse": [
+      "365_raimunda_balada_reverte"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Casajust Michavila",
+      "Teresa Castellà Calderó"
+    ],
+    "father_name": "Francisco Casajust Michavila",
+    "mother_name": "Teresa Castellà Calderó",
+    "spouse_names": [
+      "Raimunda Balada Reverté"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Agustín Castellà",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 23 de juny de 1821 a la Ràpita.\n\nPadrins: Agustín Castellà i Vicenta Michavila.\n\nProfessió: pagès.\n\nCasament: el 26 d'agost de 1848 amb Raimunda Balada Reverté de la Ràpita [1826].\n\nFills: María [1850], Agustín [1853], Juan [1856], Francisco [1858], Cinta [1860], Rosa [1860] i Dolores [1862].\n\nAl 1879 ja està mort.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

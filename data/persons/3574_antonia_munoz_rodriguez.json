@@ -1,0 +1,77 @@
+{
+  "id": "3574_antonia_munoz_rodriguez",
+  "source_id": "3574",
+  "row_ref": "3574. Antonia Muñoz Rodríguez",
+  "name": "Antonia Muñoz Rodríguez",
+  "gender": "female",
+  "birth": {
+    "date": "1750-01-01",
+    "place": "Sant Feliu de Guixols"
+  },
+  "death": {
+    "date": "1803-07-09",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "4091_jose_pujol_munoz"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Gabriel Muñoz",
+      "Elena Rodríguez"
+    ],
+    "father_name": "Gabriel Muñoz",
+    "mother_name": "Elena Rodríguez",
+    "spouse_names": [
+      "Josef Puigol"
+    ],
+    "children_names": [
+      "José Pujol Muñoz"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Sant Feliu de Guixols [aprox. 1750]. \n\nCasament: amb José Pujol [o Puigol] de Mont-roig [1750].\n\nFills: José (Marçà) [1770] i Antonia (Marçà) [1775].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Fonda Vella (ACA BGRP Cajas 34).\n\nDefunció: el 9 de juliol de 1803 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

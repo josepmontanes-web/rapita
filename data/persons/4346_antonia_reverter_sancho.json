@@ -1,0 +1,92 @@
+{
+  "id": "4346_antonia_reverter_sancho",
+  "source_id": "4346",
+  "row_ref": "4346. Antonia Reverter Sancho",
+  "name": "Antonia Reverter Sancho",
+  "gender": "female",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4173_jose_reverter",
+      "4825_rosa_sancho"
+    ],
+    "father": "4173_jose_reverter",
+    "mother": "4825_rosa_sancho",
+    "spouse": [
+      "323_miguel_balada_balada"
+    ],
+    "children": [
+      "364_maria_balada_reverter",
+      "365_raimunda_balada_reverte",
+      "366_maria_antonia_balada_reverte",
+      "367_jayme_balada_reverte",
+      "368_juan_balada_reverte",
+      "369_vicenta_rita_balada_reverter"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Reverter",
+      "Rosa Sancho"
+    ],
+    "father_name": "José Reverter",
+    "mother_name": "Rosa Sancho",
+    "spouse_names": [
+      "Miguel Balada Balada"
+    ],
+    "children_names": [
+      "María Balada Reverter",
+      "Raimunda Balada Reverté",
+      "María Antonia Balada Reverté",
+      "Jayme Balada Reverté",
+      "Juan Balada Reverté",
+      "Vicenta Rita Balada Reverter"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1800]. \n\nCasament: el 3 de febrer de 1820 amb Miguel Balada Balada de la Ràpita [1800].\n\nFills: Juan [1821], María [1824], Raimunda [1826], María Antonia [1829], Jayme [1832] i Vicenta Rita [1836].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

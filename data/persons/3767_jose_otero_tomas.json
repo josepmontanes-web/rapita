@@ -1,0 +1,79 @@
+{
+  "id": "3767_jose_otero_tomas",
+  "source_id": "3767",
+  "row_ref": "3767. José Otero Tomás",
+  "name": "José Otero Tomás",
+  "gender": "male",
+  "birth": {
+    "date": "1822-01-01",
+    "place": "Benicarló"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3767_jose_otero_tomas"
+    ],
+    "father": "3767_jose_otero_tomas",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "3767_jose_otero_tomas"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Otero Tomás",
+      "Josefa Antonia Tomás"
+    ],
+    "father_name": "José Otero",
+    "mother_name": "Josefa Antonia Tomás",
+    "spouse_names": [
+      "Vicenta Coscollano Melo"
+    ],
+    "children_names": [
+      "José Otero Tomás"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Sastre"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Benicarló [aprox. 1822]. \n\nProfessió: sastre.\n\nCasament: el 27 de març de 1855 amb Vicenta Coscollano Melo de Benicarló, filla de José i María Francisca també de Benicarló. Ell té 33 anys i ella 32. Testimonis: Don José Alegret (Llicenciat en medicina) i Don Agustín Castillo Albeytar.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

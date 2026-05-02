@@ -1,0 +1,77 @@
+{
+  "id": "2245_josefa_fornesa_prado_de_ulloa",
+  "source_id": "2245",
+  "row_ref": "2245. Josefa Fornesa Prado de Ulloa",
+  "name": "Josefa Fornesa Prado de Ulloa",
+  "gender": "female",
+  "birth": {
+    "date": "1804-05-24",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4031_ventura_prado_de_ulloa_munoz"
+    ],
+    "father": null,
+    "mother": "4031_ventura_prado_de_ulloa_munoz",
+    "spouse": [
+      "4437_domingo_roca_martinez"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "D. Agustín Fornesa Orri",
+      "Ventura Prado de Ulloa Muñoz"
+    ],
+    "father_name": "D. Agustín Fornesa Orri",
+    "mother_name": "Ventura Prado de Ulloa Muñoz",
+    "spouse_names": [
+      "Domingo Roca Martínez"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Lorenzo Casadevall",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 24 de maig de 1804 a la Ràpita.\n\nPadrí: Don Lorenzo Casadevall. \"El padrino la sacó de pila en nombre de su principal Don Josef Sancho y Segura, abogado de los reales Concejos, natural de Theresa\".\n\nCasament: el 4 de març de 1826 amb Domingo Roca Martínez de Vinaròs (o de Barcelona) [1800]. El segón cognom podria no ser Martínez.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

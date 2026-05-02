@@ -1,0 +1,68 @@
+{
+  "id": "4742_maria_sanchez_garriga",
+  "source_id": "4742",
+  "row_ref": "4742. Maria Sánchez Garriga",
+  "name": "Maria Sánchez Garriga",
+  "gender": "female",
+  "birth": {
+    "date": "1871-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1871].\n\nDefunció: el 24 de juliol de 1880 a la Ràpita als 9 anys de colitis. Declara la mor la seua tia Rosa Brunet de 30 anys, casada.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

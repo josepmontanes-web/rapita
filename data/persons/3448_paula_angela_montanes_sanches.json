@@ -1,0 +1,71 @@
+{
+  "id": "3448_paula_angela_montanes_sanches",
+  "source_id": "3448",
+  "row_ref": "3448. Paula Angela Montañés Sanches",
+  "name": "Paula Angela Montañés Sanches",
+  "gender": "female",
+  "birth": {
+    "date": "1839-10-02",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Muntañes Royo",
+      "Manuela Sanches Reverter"
+    ],
+    "father_name": "Josef Muntañes Royo",
+    "mother_name": "Manuela Sanches Reverter",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 2 d'octubre de 1839 a la Ràpita.\n\nPadrina: Paula Sanches.\n\nCasament: amb Ramón Cruelles Beltran de la Ràpita [1840].\n\nFills: Manuela [1860].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

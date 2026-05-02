@@ -1,0 +1,87 @@
+{
+  "id": "3600_jose_navarro_balaguer",
+  "source_id": "3600",
+  "row_ref": "3600. José Navarro Balaguer",
+  "name": "José Navarro Balaguer",
+  "gender": "male",
+  "birth": {
+    "date": "1805-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3593_pedro_navarro"
+    ],
+    "father": "3593_pedro_navarro",
+    "mother": null,
+    "spouse": [
+      "1236_margarita_castella_colomines"
+    ],
+    "children": [
+      "3608_francisco_navarro_castella",
+      "3609_alexandro_navarro_castella",
+      "3610_jose_navarro_castella",
+      "3611_francisca_navarro_castella"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Navarro",
+      "Antonia Balaguer"
+    ],
+    "father_name": "Pedro Navarro",
+    "mother_name": "Antonia Balaguer",
+    "spouse_names": [
+      "Margarita Castellà Colomines"
+    ],
+    "children_names": [
+      "Francisco Navarro Castellá",
+      "Alexandro Navarro Castellá",
+      "José Navarro Castellá",
+      "Francisca Navarro Castellá"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1805]. \n\nCasament: el 7 de setembre de 1827 amb Margarita Castellà Colomines de Tortosa [1805]. \"Dispensa de consanguinidad de cuarto grado\".\n\nFills: Francisco [1831], Alexandro [1833], José [1835], Francisca [1837], Ramón [1839] i María Josefa [1840].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

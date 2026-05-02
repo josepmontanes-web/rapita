@@ -1,0 +1,74 @@
+{
+  "id": "1815_jose_agustin_escorriola_zaragoza",
+  "source_id": "1815",
+  "row_ref": "1815. José Agustín Escorriola Zaragoza",
+  "name": "José Agustín Escorriola Zaragoza",
+  "gender": "male",
+  "birth": {
+    "date": "1826-04-20",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1813_carlos_escorriola_alegret",
+      "5652_francisca_zaragoza_carbo"
+    ],
+    "father": "1813_carlos_escorriola_alegret",
+    "mother": "5652_francisca_zaragoza_carbo",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Carlos Escorriola Alegret",
+      "Francisca Zaragoza Carbó"
+    ],
+    "father_name": "Carlos Escorriola Alegret",
+    "mother_name": "Francisca Zaragoza Carbó",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Casajust",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 20 d'abril de 1826 a la Ràpita.\n\nPadrins: José Casajust i Esperanza Izquierdo.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

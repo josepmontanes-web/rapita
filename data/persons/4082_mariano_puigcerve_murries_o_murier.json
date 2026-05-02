@@ -1,0 +1,81 @@
+{
+  "id": "4082_mariano_puigcerve_murries_o_murier",
+  "source_id": "4082",
+  "row_ref": "4082. Mariano Puigcervé Murries [o Murier]",
+  "name": "Mariano Puigcervé Murries [o Murier]",
+  "gender": "male",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Cabañal (València)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4060_mariano_puigcerve_cid"
+    ],
+    "father": "4060_mariano_puigcerve_cid",
+    "mother": null,
+    "spouse": [
+      "1482_felipa_cid_arlandez"
+    ],
+    "children": [
+      "4060_mariano_puigcerve_cid"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Mariano Puigcervé Cid",
+      "Francisca Murries (o Murier)"
+    ],
+    "father_name": "Mariano Puigcervé",
+    "mother_name": "Francisca Murries (o Murier)",
+    "spouse_names": [
+      "Felipa Cid Arlández"
+    ],
+    "children_names": [
+      "Mariano Puigcervé Cid"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: al Cabanyal (València) [aprox. 1810]. \n\nCasament: el 12 de juliol de 1838 amb Felipa Cid Arlández de Tortosa [1810]. Quan es casa es veí de Peníscola.\n\nFills: Mariano [1841], Francisco [1844], Felipa [1850] i Juan [1857].\n\nHipoteca: Felipa Cid a los menores Rosales. Felipa Cid …29 duros … su esposo Mariano Puigcerver … de los menores Rosales … una casa en la calle San Roque. 23 de mayo de 1859. Esc. Juan Ventosa de Amposta",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

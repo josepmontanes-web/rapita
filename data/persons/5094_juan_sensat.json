@@ -1,0 +1,70 @@
+{
+  "id": "5094_juan_sensat",
+  "source_id": "5094",
+  "row_ref": "5094. Juan Sensat",
+  "name": "Juan Sensat",
+  "gender": "male",
+  "birth": {
+    "date": "1776-01-01",
+    "place": "Masnou"
+  },
+  "death": {
+    "date": "1814-02-09",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Eulalia Sensat"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Masnou [aprox. 1776]. \n\nCasament: amb Eulalia Sensat de Masnou.\n\nDefunció: el 9 de febrer de 1814 a la Ràpita. Va morir als 38 anys. Fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

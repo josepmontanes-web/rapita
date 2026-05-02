@@ -1,0 +1,73 @@
+{
+  "id": "3299_juan_mateu_bellobi",
+  "source_id": "3299",
+  "row_ref": "3299. Juan Mateu Bellobi",
+  "name": "Juan Mateu Bellobi",
+  "gender": "male",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Godall"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Jacinto Mateu",
+      "Francisca Bellobi"
+    ],
+    "father_name": "Jacinto Mateu",
+    "mother_name": "Francisca Bellobi",
+    "spouse_names": [
+      "Dolores Silvestre Sánchez"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Godall [aprox. 1820]. \n\nCasament: el 27 de juliol de 1844 amb Dolores Silvestre Sánchez de la Ràpita [1826]. Quan es casa es veí de Godall.\n\nFills: Cinta [1846].\n\nToda aquella porción de huerto que está una Barraca y que se ha edificado el comprador Juan Mateu sita en la población de San Carlos de la Rápita y calle de San Roque o sea de Pescadores que confronta por un lado con casa de los herederos de Pelegrín Silvestre por otro con un callejón y por otro con huerto de Mariano Castellá. Por precio de 48 duros [].\n22 de noviembre de 1857 o 1856\n[notari: D Juan N? de Amposta 2 de enero de 1857] \nVenta: Tomás Castellá [Alegret] y Catalina Silvestre [Sánchez] consortes labradores de San Carlos a Juan Mateu y Villaubí albañíl [Juan Mateu Bellobi está casat amb Dolores Silvestre Sánchez].\nValor 960\n\nVenta: de Mariano Castellá y Cid, propietario, a Miguel Romeu y Reverter, labrador, de sitio para edificar que era parte de aquella mayor finca sita en los bajos de las inmediaciones de San Carlos dicha la Dársena y cuya porción comprende 32 palmos de ancho por la parte de la calle del Mar o de Pescadores , carretera de la Encañizada, y de fondo 47. Linda por detrás y por un lado con dicho restante terreno y por el otro lado con casa de Juan Mateu. 4 de diciembre de 1857. Escribano Juan Ventosa de Amposta. Valor 1000.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

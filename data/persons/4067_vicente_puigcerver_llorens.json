@@ -1,0 +1,74 @@
+{
+  "id": "4067_vicente_puigcerver_llorens",
+  "source_id": "4067",
+  "row_ref": "4067. Vicente Puigcerver Llorens",
+  "name": "Vicente Puigcerver Llorens",
+  "gender": "male",
+  "birth": {
+    "date": "1825-05-05",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4070_mariano_puigcerver_martinez",
+      "2965_manuela_llorens_garcia"
+    ],
+    "father": "4070_mariano_puigcerver_martinez",
+    "mother": "2965_manuela_llorens_garcia",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Mariano Puigcerver Martínez",
+      "Manuela Llorens García"
+    ],
+    "father_name": "Mariano Puigcerver Martínez",
+    "mother_name": "Manuela Llorens Garcia",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Gasparín",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 5 de maig de 1825 a la Ràpita.\n\nPadrins: Francisco Gasparín i Vicenta García.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

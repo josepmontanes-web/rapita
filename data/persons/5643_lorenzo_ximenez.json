@@ -1,0 +1,68 @@
+{
+  "id": "5643_lorenzo_ximenez",
+  "source_id": "5643",
+  "row_ref": "5643. Lorenzo Ximenez",
+  "name": "Lorenzo Ximenez",
+  "gender": "male",
+  "birth": {
+    "date": "1770-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Al gener de 1799 paga un lloguer de 6 Rv per la casa núm. 2 de la mansana vella (ACA BGRP Caixa 34). Al juny de 1799 paga un lloguer de 20,33 Rv per la Casa 39 de la Mansana 1.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

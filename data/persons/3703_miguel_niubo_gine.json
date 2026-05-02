@@ -1,0 +1,68 @@
+{
+  "id": "3703_miguel_niubo_gine",
+  "source_id": "3703",
+  "row_ref": "3703. Miguel Niubó Giné",
+  "name": "Miguel Niubó Giné",
+  "gender": "male",
+  "birth": {
+    "date": "1840-01-01",
+    "place": "Torregrossa (Lleida)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Torregrossa (Lleida) [aprox. 1840].\n\nProfessió: Tinent d'infanteria, alferes de carrabiners.\n\nCasament: amb Raimunda Compte Aragonés de Torroja del Priorat [1840].\n\nFills: Francisco [1876].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

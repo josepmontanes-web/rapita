@@ -1,0 +1,71 @@
+{
+  "id": "836_joaquin_brienzo_domenech",
+  "source_id": "836",
+  "row_ref": "836. Joaquín Brienzo Domenech",
+  "name": "Joaquín Brienzo Domenech",
+  "gender": "male",
+  "birth": {
+    "date": "1790-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1794-05-08",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Brienzo",
+      "Teresa Domenech"
+    ],
+    "father_name": "José Brienzo",
+    "mother_name": "Teresa Domenech",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1790].\n\nDefunció: el 8 de maig de 1794 a la Ràpita. Va morir pàrvul.\n\nEs germà de Josefa Brienzo Domenech [1790].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

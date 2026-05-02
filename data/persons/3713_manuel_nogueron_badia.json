@@ -1,0 +1,85 @@
+{
+  "id": "3713_manuel_nogueron_badia",
+  "source_id": "3713",
+  "row_ref": "3713. Manuel Noguerón Badia",
+  "name": "Manuel Noguerón Badia",
+  "gender": "male",
+  "birth": {
+    "date": "1778-01-01",
+    "place": "Arenys de Mar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "190_antonia_arbo_ramia"
+    ],
+    "children": [
+      "3705_vicente_nogueron_arbo",
+      "3706_agustina_nogueron_arbo",
+      "3707_hilario_miguel_o_mario_nogueron_arbo",
+      "3708_manuel_nogueron_arbo"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Noguerón",
+      "Teresa Abadia"
+    ],
+    "father_name": "Vicente Noguerón",
+    "mother_name": "Teresa Abadia",
+    "spouse_names": [
+      "Antonia Arbó Ramia"
+    ],
+    "children_names": [
+      "Vicente Noguerón Arbó",
+      "Agustina Noguerón Arbó",
+      "Hilario Miguel [o Mario] Noguerón Arbó",
+      "Manuel Noguerón Arbó"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 22 de maig de 1778 a Arenys de Mar. Noms de bateig: Emmanuel, Francisco i Zenon.\n\nPadrins: Francisco Gener, ministre de rendes, i Emmanuela Gener.\n\nProfessió: pagès.\n\nCasament: amb Antonia Arbó Ramia de Benicarló [1780].\n\nFills: Vicente [1807], Manuel [1811], Agustina  [1818] i Hilario Miguel [o Mario] [1824].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

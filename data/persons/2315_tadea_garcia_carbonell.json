@@ -1,0 +1,74 @@
+{
+  "id": "2315_tadea_garcia_carbonell",
+  "source_id": "2315",
+  "row_ref": "2315. Tadea Garcia Carbonell",
+  "name": "Tadea Garcia Carbonell",
+  "gender": "female",
+  "birth": {
+    "date": "1834-12-06",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2378_vicente_garcia_valero",
+      "1017_peregrina_carbonell_gallart"
+    ],
+    "father": "2378_vicente_garcia_valero",
+    "mother": "1017_peregrina_carbonell_gallart",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente García Valero",
+      "Peregrina Carbonell Gallart"
+    ],
+    "father_name": "Vicente García Valero",
+    "mother_name": "Peregrina Carbonell Gallart",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Vicente Garcia",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 6 de desembre de 1834 a la Ràpita.\n\nPadrins: Vicente García i Manuela Beltran.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

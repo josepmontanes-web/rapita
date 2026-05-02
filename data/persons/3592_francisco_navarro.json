@@ -1,0 +1,82 @@
+{
+  "id": "3592_francisco_navarro",
+  "source_id": "3592",
+  "row_ref": "3592. Francisco Navarro",
+  "name": "Francisco Navarro",
+  "gender": "male",
+  "birth": {
+    "date": "1757-01-01",
+    "place": "Vall del Duc"
+  },
+  "death": {
+    "date": "1827-08-07",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3850_manuela_paulo"
+    ],
+    "children": [
+      "3645_pedro_navarro_lluis",
+      "3660_francisca_navarro_paulo",
+      "3663_jose_navarro_paulo",
+      "3664_josefa_navarro_paulo"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Manuela Paulo"
+    ],
+    "children_names": [
+      "Pedro Navarro Lluís",
+      "Francisca Navarro Paulo",
+      "José Navarro Paulo",
+      "Josefa Navarro Paulo"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Vall del Duc [aprox. 1757].\n\nLa Vall d'Uixó també es coneguda com la Vall-llarga, la Vall del Duc o simplement la Vall.\n\nCasament: amb Manuela Paulo de la Vall del Duc [1755].\n\nFills: Josefa (la Vall d'Uixó) [1775], Francisca [1786], Jayme [1782], Mariano [1783] i José [1784].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Mansana Vella (carrer del Forn) núm. 22 (ACA BGRP Cajas 34). Al gener de 1799 paga un lloguer de 4 Rv per la mateixa casa. Al juny de 1799 passa a la casa 20 pagant 8 Rv.\n\nDefunció: el 7 d'agost de 1827 a la Ràpita. Va morir als 70 anys de \"pujos\". \"Hizo testamento ante el cura\".\n\nSépase por esta pública escritura como yo Dn Pedro Balaguer, Pbro y Beneficiado de la Santa Igla. Cath. De esta Ciudad de Tortosa en calidad de Pror. Para lo infrascrito de la Iltre Priora y Comunidad de Religiosas de San Juan de Jerusalén de dcha ciudad, instituido y nombrado en la escritura autortizada por el escribano infro en treinta de mayo del año anterior mil ochocientos diez. Para mejorar y en nada deteriorar, y sin perjuicio de tercero. Establezco en enfiteusis a Francisco Navarro, vecino de la Nueva Población de San Carlos presente y baxo acceptante y a quien querrá perpétuamente, un pedazo de tierra hierma de la heredad que dicha comunidad tiene en el término o territorios de la Rapita y partida de la Dehesa de 4 jornales de extensión, que linda por una parte con tierras de Ygnacio Casajust, por otra con el paredón que sostiene la calle de la Manzana y por otra con el algarroval de la dicha heredad. El qual establecimiento hago y hacen entiendo en dicho nombre con los pactos y condiciones siguientes…\n11 de febrer de 1811.\nTestimonis Josef Biosca i Blas Silvestre.\nSignat Pedro Balaguer i Fco Navarro.\n\nFont: Arxiu Tortosa, protocols notarials de Mariano Montserrat\nAquestes terres, situades al costat de l’actual carrer de Sant Josep, tocant de les alamedes,  van ser venudes per Navarro per fer cases al poble.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

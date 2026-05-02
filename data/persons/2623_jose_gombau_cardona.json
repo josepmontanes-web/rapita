@@ -1,0 +1,81 @@
+{
+  "id": "2623_jose_gombau_cardona",
+  "source_id": "2623",
+  "row_ref": "2623. José Gombau Cardona",
+  "name": "José Gombau Cardona",
+  "gender": "male",
+  "birth": {
+    "date": "1771-01-01",
+    "place": "Vinaroz"
+  },
+  "death": {
+    "date": "1806-04-16",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2618_francisco_gombau"
+    ],
+    "father": "2618_francisco_gombau",
+    "mother": null,
+    "spouse": [
+      "3712_maria_nogueron_badia"
+    ],
+    "children": [
+      "2641_jose_gombau_nogueron"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Gombau",
+      "Agna Maria Cardona"
+    ],
+    "father_name": "Francisco Gombau",
+    "mother_name": "Agna Maria Cardona",
+    "spouse_names": [
+      "Maria Noguerón Badia"
+    ],
+    "children_names": [
+      "José Gombau Noguerón"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1771].\n\nCasament: el 25 de juny de 1802 amb María Noguerón Badia de Calella [1779].\n\nFills: José [1805].\n\nDefunció: el 16 d'abril de 1806 a la Ràpita.\n\nEn doc.  52 apareix una Josepha Noguerón, vídua de Josef Gombau, que ven 4 jornals de terra al Rajolar, a Gabriel Roca Giol el 4-7-1806.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

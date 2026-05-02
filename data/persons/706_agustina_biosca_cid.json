@@ -1,0 +1,103 @@
+{
+  "id": "706_agustina_biosca_cid",
+  "source_id": "706",
+  "row_ref": "706. Agustina Biosca Cid",
+  "name": "Agustina Biosca Cid",
+  "gender": "female",
+  "birth": {
+    "date": "1785-01-01",
+    "place": "Freginals"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1488_josefa_cid_beltri"
+    ],
+    "father": null,
+    "mother": "1488_josefa_cid_beltri",
+    "spouse": [
+      "3250_jose_matamoros_reverter"
+    ],
+    "children": [
+      "3164_francisco_matamoros_biosca",
+      "3165_serafin_matamoros_biosca",
+      "3166_bautista_matamoros_biosca",
+      "3167_agustina_matamoros_biosca",
+      "3168_manuel_matamoros_biosca",
+      "3169_maria_matamoros_biosca",
+      "3170_jose_agustin_matamoros_biosca",
+      "3171_jose_matamoros_biosca",
+      "3172_jose_antonio_matamoros_biosca",
+      "3173_josefa_matamoros_biosca",
+      "3174_tomasa_matamoros_biosca",
+      "3175_feliciano_matamoros_biosca"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Biosca Segarra",
+      "Josefa Cid Beltri"
+    ],
+    "father_name": "Josef Biosca Segarra",
+    "mother_name": "Josefa Cid Beltri",
+    "spouse_names": [
+      "José Matamoros Reverter"
+    ],
+    "children_names": [
+      "Francisco Matamoros Biosca",
+      "Serafín Matamoros Biosca",
+      "Bautista Matamoros Biosca",
+      "Agustina Matamoros Biosca",
+      "Manuel Matamoros Biosca",
+      "María Matamoros Biosca",
+      "José Agustín Matamoros Biosca",
+      "José Matamoros Biosca",
+      "José Antonio Matamoros Biosca",
+      "Josefa Matamoros Biosca",
+      "Tomasa Matamoros Biosca",
+      "Feliciano Matamoros Biosca"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Freginals [aprox. 1785].\n\nCasament: el 13 d'agost de 1808 amb José Matamoros Reverter d'Alcanar [1784].\n\nFills: José Agustín [1809], María [1811], José [1814], Manuel [1816], José Antonio [1819], Josefa [1821], Agustina [1823], Francisco [1825], Tomasa [1827], Bautista [1830], Feliciano [1833] i Serafín [1835].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

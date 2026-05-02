@@ -1,0 +1,76 @@
+{
+  "id": "4827_bartolome_sancho",
+  "source_id": "4827",
+  "row_ref": "4827. Bartolomé Sancho",
+  "name": "Bartolomé Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1780-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "4877_blas_sancho_fibla",
+      "4878_antonia_sancho_fibla"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "María Fibla"
+    ],
+    "children_names": [
+      "Blas Sancho Fibla",
+      "Antonia Sancho Fibla"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1780]. \n\nCasament: amb María Fibla d'Alcanar.\n\nFills: Blas (Alcanar) [1810] i Antonia (Alcanar) [1815].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

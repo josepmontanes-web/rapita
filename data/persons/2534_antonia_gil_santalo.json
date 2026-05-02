@@ -1,0 +1,75 @@
+{
+  "id": "2534_antonia_gil_santalo",
+  "source_id": "2534",
+  "row_ref": "2534. Antonia Gil Santaló",
+  "name": "Antonia Gil Santaló",
+  "gender": "female",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Zaragoza"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3584_don_antonio_muria_borrell"
+    ],
+    "father": "3584_don_antonio_muria_borrell",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Don Antonio Muria Borrell",
+      "Doña Antonia"
+    ],
+    "father_name": "Don Antonio",
+    "mother_name": "Doña Antonia",
+    "spouse_names": [
+      "D. Josef Antº. Cid Ferreres"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Zaragoza [aprox. 1790].\n\nCasament: amb Don José Antonio Cid Ferreres de Tortosa [1780] \"conservador de estas Reales Obras\".\n\nFills: Felipa [1816], Agustín Ignacio [1820] i Ruperto Nicolás [1820].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "5407_sebastian_trillero",
+  "source_id": "5407",
+  "row_ref": "5407. Sebastián Trillero",
+  "name": "Sebastián Trillero",
+  "gender": "male",
+  "birth": {
+    "date": "1755-01-01",
+    "place": "Calanda (Aragón)"
+  },
+  "death": {
+    "date": "1833-08-31",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3384_vicenta_milian"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Vicenta Milian"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Calanda [aprox. 1755].\n\nCasament: amb Vicenta Milian de Villarluengo (Teruel) [1768].\n\nFills: Joaquín [1782].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Fonda Vella (ACA BGRP Cajas 34).\n\nDefunció: el 31 d'agost de 1833 a la Ràpita. Va morir als 78 anys. No fa testament. \"No dotó su alma por ser pobre de solemnidad\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

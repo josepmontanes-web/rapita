@@ -1,0 +1,73 @@
+{
+  "id": "614_francisca_beltran_gasparin",
+  "source_id": "614",
+  "row_ref": "614. Francisca Beltrán Gasparín",
+  "name": "Francisca Beltrán Gasparín",
+  "gender": "female",
+  "birth": {
+    "date": "1846-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1847-02-17",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "638_bautista_beltran_subirats"
+    ],
+    "father": "638_bautista_beltran_subirats",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Beltran Subirats",
+      "Teresa Gasparín"
+    ],
+    "father_name": "Bautista Beltrán",
+    "mother_name": "Teresa Gasparín",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1846].\n\nDefunció: el 17 de febrer de 1847 a la Ràpita. Va morir quan tenia un any.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

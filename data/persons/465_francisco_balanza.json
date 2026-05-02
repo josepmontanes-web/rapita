@@ -1,0 +1,80 @@
+{
+  "id": "465_francisco_balanza",
+  "source_id": "465",
+  "row_ref": "465. Francisco Balanzá",
+  "name": "Francisco Balanzá",
+  "gender": "male",
+  "birth": {
+    "date": "1777-01-01",
+    "place": "Meliana (València)"
+  },
+  "death": {
+    "date": "1847-11-19",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "467_jose_balanza_comes",
+      "468_felipa_balanza_comes",
+      "469_miguel_balanza_comes",
+      "470_cristobal_balanza_comes"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Pascuala Comes"
+    ],
+    "children_names": [
+      "José Balanzá Comes",
+      "Felipa Balanzá Comes",
+      "Miguel Balanzá Comes",
+      "Cristobal Balanzá Comes"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Meliana (València) [aprox. 1777].\n\nCasament: amb Pascuala Comes de Benicarló.\n\nFills: José (Benicarló) [1810], Felipa (Benicarló) [1815], Miguel (Benicarló) [1820] i Cristobal (Benicarló) [1824].\n\nDefunció: el 19 de novembre de 1847 a la Ràpita. Va morir als 70 anys. No va fer testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

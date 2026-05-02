@@ -1,0 +1,79 @@
+{
+  "id": "2489_pau_gavarda_romero",
+  "source_id": "2489",
+  "row_ref": "2489. Pau Gavarda Romero",
+  "name": "Pau Gavarda Romero",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "València"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2481_pablo_gavarda_reverte"
+    ],
+    "father": "2481_pablo_gavarda_reverte",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2482_francisco_gavarda_reverte"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pablo Gavarda Reverté",
+      "Vicenta Romero"
+    ],
+    "father_name": "Pablo Gavarda",
+    "mother_name": "Vicenta Romero",
+    "spouse_names": [
+      "Bernarde Reverter Queralt"
+    ],
+    "children_names": [
+      "Francisco Gavarda Reverté"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a València [aprox. 1800].\n\nCasament: el 8 de novembre de 1823 amb Bernarda Reverter Queralt d'Alcanar [1800].\n\nFills: Antonia (València) [1825], Pablo [1828], Francisco [1830], Norberto [1833], María Teresa [1836], José Rafael [1839], Cinta [1841] i Manuela [1845].\n\nel segón cognom també podria ser Expósito o Romeu.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "1729_carlos_diago_michavila",
+  "source_id": "1729",
+  "row_ref": "1729. Carlos Diago Michavila",
+  "name": "Carlos Diago Michavila",
+  "gender": "male",
+  "birth": {
+    "date": "1791-01-09",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1807-03-21",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1717_joaquin_diago_campanals"
+    ],
+    "father": "1717_joaquin_diago_campanals",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Diago Campanals",
+      "Agustina Michavila"
+    ],
+    "father_name": "Joaquín Diago",
+    "mother_name": "Agustina Michavila",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Antonio Diago",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 9 de gener de 1791 a la Ràpita.\n\nPadrins: Antonio Diago i Isabel Corch.\n\nDefunció: el 21 de març de 1807 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

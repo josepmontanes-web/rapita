@@ -1,0 +1,68 @@
+{
+  "id": "4886_maria_sancho_fibla",
+  "source_id": "4886",
+  "row_ref": "4886. María Sancho Fibla",
+  "name": "María Sancho Fibla",
+  "gender": "female",
+  "birth": {
+    "date": "1853-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1853].\n\nCasament: el 10 de maig de 1873 amb Sebastián Juan Rubert de Vinaròs [1851]. Es casa als 20 anys. Viuen al carrer València. (Juan es el primer cognom).\n\nFills: María de la Cinta [1875], Bautista [1877], Sebastián [1878] i Josefa [1880].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "4179_jose_reverter_alcoverro",
+  "source_id": "4179",
+  "row_ref": "4179. José Reverter Alcoverro",
+  "name": "José Reverter Alcoverro",
+  "gender": "male",
+  "birth": {
+    "date": "1842-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1844-11-30",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4228_jose_reverter_chillida"
+    ],
+    "father": "4228_jose_reverter_chillida",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Reverter Chillida",
+      "Josefa Alcoverro"
+    ],
+    "father_name": "José Reverter Chillida",
+    "mother_name": "Josefa Alcoverro",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1842]. \n\nDefunció: el 30 de novembre de 1844 a la Ràpita. Va morir pàrvul de 2 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

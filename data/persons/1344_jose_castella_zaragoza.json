@@ -1,0 +1,77 @@
+{
+  "id": "1344_jose_castella_zaragoza",
+  "source_id": "1344",
+  "row_ref": "1344. José Castellà Zaragoza",
+  "name": "José Castellà Zaragoza",
+  "gender": "male",
+  "birth": {
+    "date": "1760-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1262_bautista_castella_font"
+    ],
+    "father": "1262_bautista_castella_font",
+    "mother": null,
+    "spouse": [
+      "929_maria_caldero_ferre"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Castellà Font",
+      "Josefa Zaragoza"
+    ],
+    "father_name": "Bautista Castellà",
+    "mother_name": "Josefa Zaragoza",
+    "spouse_names": [
+      "Maria Calderó Ferré"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pescador"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1760].\n\nProfessió: pescador.\n\nCasament: amb María Calderó Ferré de Tortosa [1769].\n\nFills: Francisca (Tortosa) [1785], José Antonio [1790], Manuela (Tortosa) [1793], Teresa (Tortosa) [1796] i Agustín [1798].\n\nAntonio Rosales paleta ven a Mateu, Francisco i Josep Castellà pescadors una casa situada a la vora del mar que linda amb el venedor, amb els compradors, amb el Real Canal i amb el camí que va a aquest i al Molí que s’està fent, pel preu de 30 duros de plata. A 27 d’abril de 1794, notari Bartolomé Garcia de Tortosa.\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu al barri dels pescadors  (ACA BGRP Cajas 34).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

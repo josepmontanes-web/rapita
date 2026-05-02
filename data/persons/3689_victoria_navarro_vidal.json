@@ -1,0 +1,73 @@
+{
+  "id": "3689_victoria_navarro_vidal",
+  "source_id": "3689",
+  "row_ref": "3689. Victoria Navarro Vidal",
+  "name": "Victoria Navarro Vidal",
+  "gender": "female",
+  "birth": {
+    "date": "1833-07-26",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1833-08-14",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3647_tomas_navarro_lluis"
+    ],
+    "father": "3647_tomas_navarro_lluis",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomás Navarro Lluís",
+      "Maria Vidal Talarn"
+    ],
+    "father_name": "Tomás Navarro Lluis",
+    "mother_name": "Maria Vidal Talarn",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Tomás Cid",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 26 de juliol de 1833 a la Ràpita.\n\nPadrins: Tomás Cid i María Safont.\n\nDefunció: el 14 d'agost de 1833 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

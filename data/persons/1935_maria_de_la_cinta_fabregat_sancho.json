@@ -1,0 +1,77 @@
+{
+  "id": "1935_maria_de_la_cinta_fabregat_sancho",
+  "source_id": "1935",
+  "row_ref": "1935. María de la Cinta Fabregat Sancho",
+  "name": "María de la Cinta Fabregat Sancho",
+  "gender": "female",
+  "birth": {
+    "date": "1825-06-27",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1934_vicente_fabregat_sancho"
+    ],
+    "father": "1934_vicente_fabregat_sancho",
+    "mother": null,
+    "spouse": [
+      "4859_joaquin_sancho_bort"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Fabregat Sancho",
+      "Francisca Sancho Safont"
+    ],
+    "father_name": "Vicente Fabregat Sancho",
+    "mother_name": "Francisca Sancho Safont",
+    "spouse_names": [
+      "Joaquín Sancho Bort"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Vicente Cartes",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 27 de juny de 1825 a la Ràpita.\n\nPadrins: Vicente Cartes i Cinta Vernis.\n\nCasament: el 4 de setembre de 1847 amb Joaquín Sancho Bort d'Alcanar [1828].\n\nFills: Joaquín [1850], Francisco [1855] i Juan [1857].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

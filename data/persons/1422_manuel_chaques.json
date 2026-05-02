@@ -1,0 +1,70 @@
+{
+  "id": "1422_manuel_chaques",
+  "source_id": "1422",
+  "row_ref": "1422. Manuel Chaques",
+  "name": "Manuel Chaques",
+  "gender": "male",
+  "birth": {
+    "date": "1758-01-01",
+    "place": "Pobla de Benifassar"
+  },
+  "death": {
+    "date": "1832-11-07",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Mariana Miralles"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Pobla de Benifassar [aprox. 1758].\n\nCasament: amb Mariana Miralles.\n\nDefunció: el 7 de novembre de 1832 a la Ràpita. Va morir als 74 anys. No fa testament. \"Dotó su alma en 40 R. vellón\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "435_felipe_balague_grego",
+  "source_id": "435",
+  "row_ref": "435. Felipe Balagué Grego",
+  "name": "Felipe Balagué Grego",
+  "gender": "male",
+  "birth": {
+    "date": "1850-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1850].\n\nProfessió: serraller.\n\nCasament: el 25 de gener de 1874 amb Teresa Balagué Calderó de Tortosa [1854]. Viuen a la Plaça Major (Plaça Carles III).\n\nFills: Francisco [1875] i Francisco Ismael [1880].\n\nSigna la declaració de naixement del fill al registre civil (sap escriure).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

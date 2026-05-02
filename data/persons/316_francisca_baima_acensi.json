@@ -1,0 +1,93 @@
+{
+  "id": "316_francisca_baima_acensi",
+  "source_id": "316",
+  "row_ref": "316. Francisca Baima Acensi",
+  "name": "Francisca Baima Acensi",
+  "gender": "female",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Freginals"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2509_melchor_geser"
+    ],
+    "father": "2509_melchor_geser",
+    "mother": null,
+    "spouse": [
+      "558_manuel_bel_castell"
+    ],
+    "children": [
+      "547_bernarda_bel_baima",
+      "548_agustin_bel_baima",
+      "549_tomas_bel_baima",
+      "551_rafael_bel_baima",
+      "552_josefa_bel_baima",
+      "553_jose_francisco_bel_baima",
+      "554_jose_bel_baima"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Melchor Geser",
+      "Susana"
+    ],
+    "father_name": "Melchor",
+    "mother_name": "Susana",
+    "spouse_names": [
+      "Manuel Bel Castell"
+    ],
+    "children_names": [
+      "Bernarda Bel Baima",
+      "Agustín Bel Baima",
+      "Tomás Bel Baima",
+      "Rafael Bel Baima",
+      "Josefa Bel Baima",
+      "José Francisco Bel Baima",
+      "José Bel Baima"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  a Freginals [aprox. 1800].\n\nCasament: amb Manuel Bel Castell de Freginals [1800].\n\nFills: Rafael (Freginals) [1820], Josefa [1824], Bernarda [1826], José Francisco [1829], Agustín [1830], Tomás [1833], Juan [1838], José [1841], Agustina [1845] i Josef [1846].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

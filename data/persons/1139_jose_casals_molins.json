@@ -1,0 +1,71 @@
+{
+  "id": "1139_jose_casals_molins",
+  "source_id": "1139",
+  "row_ref": "1139. José Casals Molins",
+  "name": "José Casals Molins",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Gisclareny"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Lazaro Casals",
+      "María Molins"
+    ],
+    "father_name": "Lazaro Casals",
+    "mother_name": "María Molins",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Gisclareny [aprox. 1800]\n\n\"Dependiente de este Resguardo\".\n\nCasament: amb Raimunda Maciá Millet de Reus, filla de Don Luís Maciá de Barcelona i de Doña Antonia Millet de Vilanova de Sitges.\n\nFills: Agustín Ramón naix el 6 d'agost de 1827 a La Ràpita. Els padrins son Don Agustín Lobo que es \"Cabo de la Ronda del Resguardo de Tortosa\" i Doña Antonia Millet.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "973_jose_capilla",
+  "source_id": "973",
+  "row_ref": "973. José Capilla",
+  "name": "José Capilla",
+  "gender": "male",
+  "birth": {
+    "date": "1762-01-01",
+    "place": "Canales de Begís"
+  },
+  "death": {
+    "date": "1812-06-06",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3056_josefa_macian"
+    ],
+    "children": [
+      "976_florencia_capilla_macian",
+      "977_tomas_capilla_macian",
+      "978_luis_capilla_macian",
+      "979_jose_capilla_macian"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Josefa Macián"
+    ],
+    "children_names": [
+      "Florencia Capilla Macián",
+      "Tomas Capilla Macián",
+      "Luís Capilla Macián",
+      "José Capilla Macián"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: Canales de Bejís (Castelló) [aprox. 1762].\n\nProfessió: pagès.\n\nCasament: amb Josefa Macián de Bejís (Castelló) [1760].\n\nFills: Florencia (Bejís) [1782], Luís [1787], Tomás (Canales de Bejís) [1790] i José [1796].\n\nDefunció: el 6 de juny de 1812 a la Ràpita. Va morir als 50 anys. Fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

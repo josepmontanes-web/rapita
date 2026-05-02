@@ -1,0 +1,73 @@
+{
+  "id": "5598_magdalena_vilar_temprado",
+  "source_id": "5598",
+  "row_ref": "5598. Magdalena Vilar Temprado",
+  "name": "Magdalena Vilar Temprado",
+  "gender": "female",
+  "birth": {
+    "date": "1790-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1795-09-08",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5283_mariana_temprado_cucala"
+    ],
+    "father": null,
+    "mother": "5283_mariana_temprado_cucala",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Vilar",
+      "Mariana Temprado Cucala"
+    ],
+    "father_name": "Antonio Vilar",
+    "mother_name": "Mariana Temprado Cucala",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1790].\n\nDefunció: el 8 de setembre de 1795 a la Ràpita. Va morir pàrvul.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

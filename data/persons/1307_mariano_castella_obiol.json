@@ -1,0 +1,68 @@
+{
+  "id": "1307_mariano_castella_obiol",
+  "source_id": "1307",
+  "row_ref": "1307. Mariano Castellà Obiol",
+  "name": "Mariano Castellà Obiol",
+  "gender": "male",
+  "birth": {
+    "date": "1847-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1847].\n\nProfessió: armador i patró de pesca.\n\nCasament: el 7 de setembre de 1873 amb Cinta García Gasparín de la Ràpita [1857]. Es casa als 26 anys.\n\nFills: José [1877] i Dolores Mercedes Cinta [1879], Ismael [1881], Mariano Josep, Cinta, Rafaela, Tomás, Albert, Germana i Mateu.\n\nNo signa la declaració de naixement del fill al registre civil per no saber.\n\nAl 1902, temporalment, es alcalde de la Ràpita.\n\nDefunció: el 24 de març de 1907 a la Ràpita als 60 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

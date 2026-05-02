@@ -1,0 +1,68 @@
+{
+  "id": "5107_saturnino_sierra_alonso",
+  "source_id": "5107",
+  "row_ref": "5107. Saturnino Sierra Alonso",
+  "name": "Saturnino Sierra Alonso",
+  "gender": "male",
+  "birth": {
+    "date": "1845-01-01",
+    "place": "Contreras (Burgos)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Contreras (Burgos) [aprox. 1845].\n\nProfessió: carrabiner.\n\nCasament: amb María Vargas Vargas de Jaramillo Quemado (Burgos) [1846].\n\nFills: Emilio [1881]. Sap escriure i signa la declaració del fill al registre.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

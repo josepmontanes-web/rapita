@@ -1,0 +1,73 @@
+{
+  "id": "4052_jose_puig_sales",
+  "source_id": "4052",
+  "row_ref": "4052. José Puig Sales",
+  "name": "José Puig Sales",
+  "gender": "male",
+  "birth": {
+    "date": "1818-04-15",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1818-05-29",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4040_bautista_puig_bricart"
+    ],
+    "father": "4040_bautista_puig_bricart",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Puig Bricart",
+      "Josefa Sales"
+    ],
+    "father_name": "Bautista Puig",
+    "mother_name": "Josefa Sales",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 15 d'abril de 1818 a la Ràpita.\n\nDefunció: el 29 de maig de 1818 a la Ràpita. Va morir al mes i mig.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

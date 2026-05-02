@@ -1,0 +1,79 @@
+{
+  "id": "2777_domingo_guzman_obiol",
+  "source_id": "2777",
+  "row_ref": "2777. Domingo Guzmán Obiol",
+  "name": "Domingo Guzmán Obiol",
+  "gender": "male",
+  "birth": {
+    "date": "1813-01-01",
+    "place": "Peñíscola"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2774_jose_guzman_obiol"
+    ],
+    "father": "2774_jose_guzman_obiol",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2779_catarina_guzman_valanzuela"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Guzmán Obiol",
+      "Salvadora Obiol"
+    ],
+    "father_name": "José Guzmán",
+    "mother_name": "Salvadora Obiol",
+    "spouse_names": [
+      "Josefa Mª. Valanzuela Fontanet"
+    ],
+    "children_names": [
+      "Catarina Guzmán Valanzuela"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Peníscola [aprox. 1813].\n\nCasament: el 24 de desembre de 1835 amb Josefa María Valanzuela Fontanet de Vinaròs [1811].\n\nFills: Catarina [1842].\n\nEs germà de José [1800], Josefa María [1800] i Antonio [1803].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

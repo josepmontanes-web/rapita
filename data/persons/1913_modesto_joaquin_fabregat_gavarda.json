@@ -1,0 +1,68 @@
+{
+  "id": "1913_modesto_joaquin_fabregat_gavarda",
+  "source_id": "1913",
+  "row_ref": "1913. Modesto Joaquín Fabregat Gavarda",
+  "name": "Modesto Joaquín Fabregat Gavarda",
+  "gender": "male",
+  "birth": {
+    "date": "1876-03-21",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 21 de març de 1876 al carrer de Jesús de la Ràpita.\n\nDefunció: el 31 de març de 1878 a la Ràpita als 2 anys de \"parotiditis\". Declara la defunció Lorenza López.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

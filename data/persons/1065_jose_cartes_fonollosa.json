@@ -1,0 +1,85 @@
+{
+  "id": "1065_jose_cartes_fonollosa",
+  "source_id": "1065",
+  "row_ref": "1065. José Cartes Fonollosa",
+  "name": "José Cartes Fonollosa",
+  "gender": "male",
+  "birth": {
+    "date": "1780-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1082_agustin_cartes_rosell"
+    ],
+    "father": "1082_agustin_cartes_rosell",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1070_maria_rosa_cartes_omedes",
+      "1080_vicente_cartes_rosell",
+      "1081_antonia_cartes_rosell",
+      "1082_agustin_cartes_rosell"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustín Cartes Rosell",
+      "Josefa Fonollosa"
+    ],
+    "father_name": "Agustín Cartes",
+    "mother_name": "Josefa Fonollosa",
+    "spouse_names": [
+      "Rosa Rossell Castera?"
+    ],
+    "children_names": [
+      "Maria Rosa Cartes Omedes",
+      "Vicente Cartes Rosell",
+      "Antonia Cartes Rosell",
+      "Agustín Cartes Rosell"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1780].\n\nCasament: amb Rosa Rossell Castera (l'últim cognom no es veu molt clar) de Tortosa, filla de Juan i Antonia. Podria ser Rosa Rosell Pastora [1782].\n\nFills: Agustín (Tortosa) [1810], Vicente (Tortosa) [1812] i Antonia [1814].\n\nEs germà de Agustina Cartes Fonollosa [1790] i Juan Cartes Fonollosa [1795].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

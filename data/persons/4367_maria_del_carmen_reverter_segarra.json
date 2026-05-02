@@ -1,0 +1,73 @@
+{
+  "id": "4367_maria_del_carmen_reverter_segarra",
+  "source_id": "4367",
+  "row_ref": "4367. María del Carmen Reverter Segarra",
+  "name": "María del Carmen Reverter Segarra",
+  "gender": "female",
+  "birth": {
+    "date": "1836-07-15",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4260_jose_reverter_forner"
+    ],
+    "father": "4260_jose_reverter_forner",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Reverter Forner",
+      "Casilda Segarra Puchol"
+    ],
+    "father_name": "José Reverter Forner",
+    "mother_name": "Casilda Segarra Puchol",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 15 de juliol de 1836 a la Ràpita.\n\nPadrina: Francisca Sánchez.\n\nCasament: amb Mariano Gasparín Sancho de la Ràpita [1833].\n\nFills: Manuel [1860] i Mariano [1876].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

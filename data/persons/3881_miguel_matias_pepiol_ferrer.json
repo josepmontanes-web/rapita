@@ -1,0 +1,73 @@
+{
+  "id": "3881_miguel_matias_pepiol_ferrer",
+  "source_id": "3881",
+  "row_ref": "3881. Miguel Matías Pepiol Ferrer",
+  "name": "Miguel Matías Pepiol Ferrer",
+  "gender": "male",
+  "birth": {
+    "date": "1836-02-24",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3898_francisco_pepiol_pascual"
+    ],
+    "father": "3898_francisco_pepiol_pascual",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Pepiol Pascual",
+      "Ramona Ferrer Subirats"
+    ],
+    "father_name": "Francisco Pipiol Pascual",
+    "mother_name": "Ramona Ferrer Subirats",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Miguel Reverter",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 24 de febrer de 1836 a la Ràpita.\n\nPadrins: Miguel Reverter i Isabel Pipiol.\n\nCasament: amb Francisca Subirats d'Ulldecona [1846].\n\nFills: Juan [1878].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

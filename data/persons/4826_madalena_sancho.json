@@ -1,0 +1,76 @@
+{
+  "id": "4826_madalena_sancho",
+  "source_id": "4826",
+  "row_ref": "4826. Madalena Sancho",
+  "name": "Madalena Sancho",
+  "gender": "female",
+  "birth": {
+    "date": "1762-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "5_ramon_accensi",
+      "17_jose_antonio_accensi_o_ascensi_sancho",
+      "18_antonia_accensi_o_ausensi_sanches_o_sancho"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Ramón Accensi",
+      "José Antonio Accensi [o Ascensi] Sancho",
+      "Antonia Accensi [o Ausensi] Sanches [o Sancho]"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1762].\n\nCasament: amb José Antonio Accensi de Freginals [1760].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

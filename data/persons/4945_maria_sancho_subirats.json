@@ -1,0 +1,92 @@
+{
+  "id": "4945_maria_sancho_subirats",
+  "source_id": "4945",
+  "row_ref": "4945. María Sancho Subirats",
+  "name": "María Sancho Subirats",
+  "gender": "female",
+  "birth": {
+    "date": "1805-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1840-08-26",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4829_francisco_sancho",
+      "5183_josefa_subirats"
+    ],
+    "father": "4829_francisco_sancho",
+    "mother": "5183_josefa_subirats",
+    "spouse": [
+      "5275_pedro_teixidor_lucena"
+    ],
+    "children": [
+      "5276_maria_rosa_teixido_sancho",
+      "5277_peregrina_teixido_sancho",
+      "5278_juan_pedro_teixidor_sancho",
+      "5279_ramona_juana_teixidor_sancho",
+      "5280_catarina_teixidor_sancho",
+      "5281_jose_agustin_teixidor_sancho"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Sancho",
+      "Josefa Subirats"
+    ],
+    "father_name": "Francisco Sancho",
+    "mother_name": "Josefa Subirats",
+    "spouse_names": [
+      "Pedro Teixidor Lucena"
+    ],
+    "children_names": [
+      "Maria Rosa Teixidó Sancho",
+      "Peregrina Teixidó Sancho",
+      "Juan Pedro Teixidor Sancho",
+      "Ramona Juana Teixidor Sancho",
+      "Catarina Teixidor Sancho",
+      "José Agustín Teixidor Sancho"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1805]. \n\nCasament: amb Pedro Teixidor Lucena de la Ràpita [1793].\n\nFills: María Rosa [1825], Juan Pedro [1827], Ramona Juana [1829], Peregrina [1830], Catarina [1834] i José Agustín [1837].\n\nDefunció: el 26 d'agost de 1840 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "624_miguel_beltran_miguel",
+  "source_id": "624",
+  "row_ref": "624. Miguel Beltrán Miguel",
+  "name": "Miguel Beltrán Miguel",
+  "gender": "male",
+  "birth": {
+    "date": "1844-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1845-06-01",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "607_francisco_beltran_ferrer"
+    ],
+    "father": "607_francisco_beltran_ferrer",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Beltran Ferrer",
+      "Maria Miguel"
+    ],
+    "father_name": "Francisco Beltrán",
+    "mother_name": "Maria Miguel",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1844].\n\nDefunció: l'1 de juny de 1845 a la Ràpita. Va morir quan tenia un any.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "4937_matias_sancho_sancho",
+  "source_id": "4937",
+  "row_ref": "4937. Matías Sancho Sancho",
+  "name": "Matías Sancho Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1806-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1842-10-07",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4923_salvador_sancho_reverter",
+      "4830_antonia_sancho"
+    ],
+    "father": "4923_salvador_sancho_reverter",
+    "mother": "4830_antonia_sancho",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Salvador Sancho Reverter",
+      "Antonia Sancho"
+    ],
+    "father_name": "Salvador Sancho Reverter",
+    "mother_name": "Antonia Sancho",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1806]. \n\nDefunció: el 7 d'octubre de 1842 a la Ràpita. Va morir fadrí als 36 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

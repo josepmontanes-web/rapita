@@ -1,0 +1,84 @@
+{
+  "id": "5624_francisca_vines_sevilla",
+  "source_id": "5624",
+  "row_ref": "5624. Francisca Viñes Sevilla",
+  "name": "Francisca Viñes Sevilla",
+  "gender": "female",
+  "birth": {
+    "date": "1770-01-01",
+    "place": "València"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5615_antonio_vines_ferre",
+      "5106_francisca_sevilla"
+    ],
+    "father": "5615_antonio_vines_ferre",
+    "mother": "5106_francisca_sevilla",
+    "spouse": [
+      "3919_tomas_peris_pavia"
+    ],
+    "children": [
+      "3928_salvador_peris_vines",
+      "3929_antonia_peris_vines"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Viñes Ferré",
+      "Francisca Sevilla"
+    ],
+    "father_name": "Antonio Viñes",
+    "mother_name": "Francisca Sevilla",
+    "spouse_names": [
+      "Tomàs Peris Pavia"
+    ],
+    "children_names": [
+      "Salvador Peris Viñes",
+      "Antonia Peris Viñes"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a València [aprox. 1770].\n\nCasament: amb Tomás Peris Pavia de Russafa (València) [1770].\n\nFills: Josefa [1792], Salvador [1798] i Antonia [1801].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

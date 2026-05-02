@@ -1,0 +1,83 @@
+{
+  "id": "2242_jose_fornesa_prado_de_ulloa",
+  "source_id": "2242",
+  "row_ref": "2242. José Fornesa Prado de Ulloa",
+  "name": "José Fornesa Prado de Ulloa",
+  "gender": "male",
+  "birth": {
+    "date": "1788-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4031_ventura_prado_de_ulloa_munoz"
+    ],
+    "father": null,
+    "mother": "4031_ventura_prado_de_ulloa_munoz",
+    "spouse": [],
+    "children": [
+      "2246_maria_de_la_asuncion_fornesa_roca",
+      "2247_maria_ana_fornesa_roca",
+      "2248_agustin_domingo_fornesa_roca"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "D. Agustín Fornesa Orri",
+      "Ventura Prado de Ulloa Muñoz"
+    ],
+    "father_name": "D. Agustín Fornesa Orri",
+    "mother_name": "Ventura Prado de Ulloa Muñoz",
+    "spouse_names": [
+      "Vicenta Roca Molits"
+    ],
+    "children_names": [
+      "Maria de la Asunción Fornesa Roca",
+      "Maria Ana Fornesa Roca",
+      "Agustín Domingo Fornesa Roca"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1788].\n\nCasament: amb Vicenta Roca Molits de Vinaròs, filla de Juan i Mariana (o María Ana) de Barcelona. El segón cognom podria no ser Molits. Podria ser germana de Domingo Roca Martínez [1800] (marit de Josefa Fornesa [1804]).\n\nFills: María de la Asunción [1826], María Ana [1828] i Agustín Domingo [1830].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

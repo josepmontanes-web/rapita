@@ -1,0 +1,77 @@
+{
+  "id": "1692_rosa_curto_sancho",
+  "source_id": "1692",
+  "row_ref": "1692. Rosa Curto Sancho",
+  "name": "Rosa Curto Sancho",
+  "gender": "female",
+  "birth": {
+    "date": "1833-08-30",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1670_jose_curto_cavaller"
+    ],
+    "father": "1670_jose_curto_cavaller",
+    "mother": null,
+    "spouse": [
+      "3227_jose_matamoros_lleti"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Curto Cavaller",
+      "Maria Sancho Reverter"
+    ],
+    "father_name": "José Curto Cavaller",
+    "mother_name": "Maria Sancho Reverter",
+    "spouse_names": [
+      "José Matamoros Lletí"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Tomás Curto",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 30 d'agost de 1833 a la Ràpita.\n\nPadrins: Tomás Curto i María Miguel.\n\nCasament: el 26 d'agost de 1854 amb José Matamoros Lletí de la Ràpita [1829]. Testimonis: Alejandro Blanch i Juan Fibla.\n\nFills: María [1855] i Asunción [1858].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

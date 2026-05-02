@@ -1,0 +1,72 @@
+{
+  "id": "481_teresa_ballester",
+  "source_id": "481",
+  "row_ref": "481. Teresa Ballester",
+  "name": "Teresa Ballester",
+  "gender": "female",
+  "birth": {
+    "date": "1740-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1803-12-26",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "."
+    ],
+    "father_name": ".",
+    "mother_name": null,
+    "spouse_names": [
+      "Juan Casajust"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagesa"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1735].\n\nProfessió: pagesa.\n\nCasament: amb Juan Casajust d'Ulldecona.\n\nFills: Ignacio (Ulldecona) [1765].\n\nDel novembre de 1802 al desembre de 1803 consta que Teresa Casajust para un lloguer de 4 Rs. mensuals per la casa 2 de la Fonda Vella. (A vegades nomenen a les dones amb el cognom del marit).\n\nDefunció: el 26 de desembre de 1803 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

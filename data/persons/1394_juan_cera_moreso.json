@@ -1,0 +1,79 @@
+{
+  "id": "1394_juan_cera_moreso",
+  "source_id": "1394",
+  "row_ref": "1394. Juan Cera Moreso",
+  "name": "Juan Cera Moreso",
+  "gender": "male",
+  "birth": {
+    "date": "1806-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1809-05-18",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3493_isabel_moreso"
+    ],
+    "father": null,
+    "mother": "3493_isabel_moreso",
+    "spouse": [],
+    "children": [
+      "1391_francisca_cera_mangraner",
+      "1392_juan_bautista_cera_mangraner"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Domingo Cera",
+      "Isabel Moreso"
+    ],
+    "father_name": "Domingo Cera",
+    "mother_name": "Isabel Moreso",
+    "spouse_names": [],
+    "children_names": [
+      "Francisca Cera Mangraner",
+      "Juan Bautista Cera Mangraner"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1806].\n\nA la partida de defunció de Isabel Moreso diu que el seu marit es Juan (es podria confondre amb Isabel Mangraner muller de Juan Cera).\n\nDefunció: el 18 de maig de 1809 a la Ràpita. Va morir als 3 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

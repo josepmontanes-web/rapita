@@ -1,0 +1,68 @@
+{
+  "id": "4321_teresa_reverte_reverte",
+  "source_id": "4321",
+  "row_ref": "4321. Teresa Reverté Reverté",
+  "name": "Teresa Reverté Reverté",
+  "gender": "female",
+  "birth": {
+    "date": "1861-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1861].\n\nDefunció: l'1 de setembre de 1880 a la Ràpita als 19 anys de \"hidropesia\". Declara la mor Francisca Pepiol de 42 anys, casada. Podria ser Francisca Pepiol Chillida.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

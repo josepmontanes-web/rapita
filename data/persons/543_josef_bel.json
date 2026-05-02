@@ -1,0 +1,72 @@
+{
+  "id": "543_josef_bel",
+  "source_id": "543",
+  "row_ref": "543. Josef Bel",
+  "name": "Josef Bel",
+  "gender": "male",
+  "birth": {
+    "date": "1775-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1851_maria_esteller_matamoros"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Maria Esteller Matamoros"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1775].\n\nCasament: el 27 d'agost de 1796 amb María Esteller Matamoros d'Alcanar [1775]. Testimonis Francisco Gasparín i Josef Benlloch.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

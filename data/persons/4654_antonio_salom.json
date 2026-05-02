@@ -1,0 +1,74 @@
+{
+  "id": "4654_antonio_salom",
+  "source_id": "4654",
+  "row_ref": "4654. Antonio Salom",
+  "name": "Antonio Salom",
+  "gender": "male",
+  "birth": {
+    "date": "1766-01-01",
+    "place": "Palma de Mallorca"
+  },
+  "death": {
+    "date": "1799-02-28",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "4655_francisca_salom_ponset"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Isabel Pons"
+    ],
+    "children_names": [
+      "Francisca Salom Ponset"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Soldat"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Palma de Mallorca [aprox. 1766]. \n\n\"Soldado artillero de la 3ª Compañía\".\n\nCasament: amb Isabel Ponset de Calaceite.\n\nFills: Francisca (Sevilla) [1790].\n\nDefunció: el 28 de febrer de 1799 a la Ràpita. \"Muerto de resultas de una caída en la torre. Testigos: Lorenzo Casadevall y José Solà cabo de los artilleros de servicio en esta población\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

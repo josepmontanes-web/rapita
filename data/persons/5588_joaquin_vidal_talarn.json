@@ -1,0 +1,95 @@
+{
+  "id": "5588_joaquin_vidal_talarn",
+  "source_id": "5588",
+  "row_ref": "5588. Joaquín Vidal Talarn",
+  "name": "Joaquín Vidal Talarn",
+  "gender": "male",
+  "birth": {
+    "date": "1796-08-03",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1846-11-19",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5537_joaquin_vidal_palos"
+    ],
+    "father": "5537_joaquin_vidal_palos",
+    "mother": null,
+    "spouse": [
+      "4559_maria_rosales_valls"
+    ],
+    "children": [
+      "5552_teresa_paula_vidal_rosales",
+      "5553_maria_antonia_vidal_rosales",
+      "5554_gregorio_vidal_rosales",
+      "5555_miguela_maria_vidal_rosales",
+      "5556_jose_antonio_vidal_rosales",
+      "5557_marcelina_vidal_rosales",
+      "5558_francisca_maria_ana_vidal_rosales",
+      "5559_manuela_casilda_vidal_rosales"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Vidal Palos",
+      "Theresa Talarn Valldepérez"
+    ],
+    "father_name": "Joaquín Vidal Palos",
+    "mother_name": "Theresa Talarn Valldepérez",
+    "spouse_names": [
+      "Maria Rosales Valls"
+    ],
+    "children_names": [
+      "Teresa Paula Vidal Rosales",
+      "María Antonia Vidal Rosales",
+      "Gregorio Vidal Rosales",
+      "Miguela Maria Vidal Rosales",
+      "José Antonio Vidal Rosales",
+      "Marcelina Vidal Rosales",
+      "Francisca María Ana Vidal Rosales",
+      "Manuela Casilda Vidal Rosales"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Miguel Balada",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 3 d'agost de 1796 a la Ràpita.\n\nPadrins: Miguel Balada i Mariana Matheu.\n\nCasament: el 28 de setembre de 1822 amb María Rosales Valls de la Ràpita [1805].\n\nFills: María Antonia [1824], Miguela María [1825], Teresa Paula [1827], José Antonio [1830], Marcelina [1833], Francisca [1836], Manuela Casilda [1840] i Gregorio [1846].\n\nDefunció: el 19 de novembre de 1846 a la Ràpita. Va morir de \"mal de pecho\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

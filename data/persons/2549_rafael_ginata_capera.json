@@ -1,0 +1,68 @@
+{
+  "id": "2549_rafael_ginata_capera",
+  "source_id": "2549",
+  "row_ref": "2549. Rafael Ginata Capera",
+  "name": "Rafael Ginata Capera",
+  "gender": "male",
+  "birth": {
+    "date": "1850-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1850].\n\nProfessió: empleat i \"del comercio\".\n\nCasament: el 27 de juny de 1874 amb Amalia Costa Magriñá [1852]. Es casa als 24 anys.\n\nFills: Luís Rafael Pedro [1875], Rafael Francisco [1877], Concepción Amalia [1878], Rafael [1880] i Federico Ramón Pedro [1881].\n\nSap escriure, signa com a Secretari del registre civil.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "4125_josep_rabasa_vila",
+  "source_id": "4125",
+  "row_ref": "4125. Josep Rabasa Vilà",
+  "name": "Josep Rabasa Vilà",
+  "gender": "male",
+  "birth": {
+    "date": "1770-01-01",
+    "place": "la Vilella Alta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Vilella Alta [aprox. 1770].\n\nCasament: amb Maria Buscall Prats de Tírvia.\n\nFill: Francisco Manuel [1793].\n\nPagès de la Ràpita al febrer de 1786 (ACA BGPR correspondencia caixa 8).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

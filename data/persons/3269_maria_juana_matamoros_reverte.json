@@ -1,0 +1,78 @@
+{
+  "id": "3269_maria_juana_matamoros_reverte",
+  "source_id": "3269",
+  "row_ref": "3269. María Juana Matamoros Reverté",
+  "name": "María Juana Matamoros Reverté",
+  "gender": "female",
+  "birth": {
+    "date": "1825-02-02",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3248_jacinto_matamoros_reverte",
+      "4251_maria_reverter_fibla"
+    ],
+    "father": "3248_jacinto_matamoros_reverte",
+    "mother": "4251_maria_reverter_fibla",
+    "spouse": [
+      "1411_jose_chale_lopez"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Jacinto Matamoros Reverté",
+      "María Reverter Fibla"
+    ],
+    "father_name": "Jacinto Matamoros Reverté",
+    "mother_name": "Maria Reverter Fibla",
+    "spouse_names": [
+      "José Chalé López"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Fabregat",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 2 de febrer de 1825 a la Ràpita.\n\nPadrins: Juan Fabregat i María Fabregat.\n\nCasament: el 26 d'agost de 1854 amb José Chalé López de la Ràpita [1831]. Testimonis: Alejandro Blanch i Juan Fibla.\n\nFills: Juan [1856] i Trinitario [1857].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

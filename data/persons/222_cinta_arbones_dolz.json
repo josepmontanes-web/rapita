@@ -1,0 +1,68 @@
+{
+  "id": "222_cinta_arbones_dolz",
+  "source_id": "222",
+  "row_ref": "222. Cinta Arbonés Dolz",
+  "name": "Cinta Arbonés Dolz",
+  "gender": "female",
+  "birth": {
+    "date": "1818-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aporx. 1818].\n\nCasament: amb José Cristofol de Tortosa de 60 anys, mariner.\n\nFills: Rosa, Gracia, Nicolás, Juan, Cinta i Josefa.\n\nDefunció: el 9 de desembre de 1878 a la Ràpita, als 60 anys de \"un ataque de histerico\". Declara la mor el seu fill Nicolás Cristofol de Tortosa i constructor de carros.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

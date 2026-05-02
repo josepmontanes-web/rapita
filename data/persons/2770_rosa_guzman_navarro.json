@@ -1,0 +1,74 @@
+{
+  "id": "2770_rosa_guzman_navarro",
+  "source_id": "2770",
+  "row_ref": "2770. Rosa Guzmán Navarro",
+  "name": "Rosa Guzmán Navarro",
+  "gender": "female",
+  "birth": {
+    "date": "1836-08-05",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2775_antonio_guzman_obiol",
+      "3626_rosa_navarro_comi"
+    ],
+    "father": "2775_antonio_guzman_obiol",
+    "mother": "3626_rosa_navarro_comi",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Guzmán Obiol",
+      "Rosa Navarro Comí"
+    ],
+    "father_name": "Antonio Guzmán Obiol",
+    "mother_name": "Rosa Navarro Comí",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Salvador Guzman",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 5 d'agost de 1836 a la Ràpita.\n\nPadrins: Salvador Guzmán i Antonia Martí.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

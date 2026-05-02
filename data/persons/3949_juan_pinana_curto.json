@@ -1,0 +1,79 @@
+{
+  "id": "3949_juan_pinana_curto",
+  "source_id": "3949",
+  "row_ref": "3949. Juan Piñana Curto",
+  "name": "Juan Piñana Curto",
+  "gender": "male",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4575_francisco_rosell_pinana"
+    ],
+    "father": "4575_francisco_rosell_pinana",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "3952_maria_agustina_pinana_navarro"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Rosell Piñana",
+      "Francisca Curto"
+    ],
+    "father_name": "Francisco Piñana",
+    "mother_name": "Francisca Curto",
+    "spouse_names": [
+      "Candia Navarro Omedes"
+    ],
+    "children_names": [
+      "Maria Agustina Piñana Navarro"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1790]. \n\nCasament: amb Candia Navarro Homedes [o Omedes] de Tortosa [1790].\n\nFills: María Agustina [1814].\n\nEs germà de Tomasa Piñana Curto [1790].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

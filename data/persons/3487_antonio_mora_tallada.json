@@ -1,0 +1,68 @@
+{
+  "id": "3487_antonio_mora_tallada",
+  "source_id": "3487",
+  "row_ref": "3487. Antonio Mora Tallada",
+  "name": "Antonio Mora Tallada",
+  "gender": "male",
+  "birth": {
+    "date": "1848-01-01",
+    "place": "Ulldecona"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Ulldecona [aprox. 1848].\n\nProfessió: carrabiner d'infanteria de la Comandancia de Tarragona.\n\nCasament: el 8 de juliol de 1876 amb Isabel Dorotea de Xerta (filla de pares desconeguts). Quan es casen, ell té 28 anys i ella 19.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

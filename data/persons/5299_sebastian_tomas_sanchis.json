@@ -1,0 +1,74 @@
+{
+  "id": "5299_sebastian_tomas_sanchis",
+  "source_id": "5299",
+  "row_ref": "5299. Sebastián Tomás Sanchís",
+  "name": "Sebastián Tomás Sanchís",
+  "gender": "male",
+  "birth": {
+    "date": "1814-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1824-06-23",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5288_joaquin_tomas",
+      "4710_joaquina_sanchis_o_sanchez"
+    ],
+    "father": "5288_joaquin_tomas",
+    "mother": "4710_joaquina_sanchis_o_sanchez",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Tomás",
+      "Joaquina Sanchís [o Sánchez]"
+    ],
+    "father_name": "Joaquín Tomas",
+    "mother_name": "Joaquina Sanchis",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1814].\n\nDefunció: el 23 de juny de 1824 a la Ràpita. Va morir als 10 u 11 anys de \"treciana\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

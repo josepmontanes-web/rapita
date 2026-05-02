@@ -1,0 +1,74 @@
+{
+  "id": "981_juan_bautista_capilla_reverte",
+  "source_id": "981",
+  "row_ref": "981. Juan Bautista Capilla Reverté",
+  "name": "Juan Bautista Capilla Reverté",
+  "gender": "male",
+  "birth": {
+    "date": "1829-01-21",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1829-04-01",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "977_tomas_capilla_macian",
+      "4345_serafina_reverter_sancho"
+    ],
+    "father": "977_tomas_capilla_macian",
+    "mother": "4345_serafina_reverter_sancho",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomas Capilla Macián",
+      "Serafina Reverter Sancho"
+    ],
+    "father_name": "Tomás Capilla Macián",
+    "mother_name": "Serafina Reverter Sancho",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Castellà",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 21 de gener de 1829 a la Ràpita.\n\nPadrins: Juan Castellà i María de la Cinta Navarro.\n\nDefunció: l'1 d'abril de 1829 a la Ràpita. Va morir als 2 mesos de \"calentura\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "913_agustin_cabrera_martinez",
+  "source_id": "913",
+  "row_ref": "913. Agustín Cabrera Martínez",
+  "name": "Agustín Cabrera Martínez",
+  "gender": "male",
+  "birth": {
+    "date": "1818-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4973_mariano_sans_cabrera"
+    ],
+    "father": "4973_mariano_sans_cabrera",
+    "mother": null,
+    "spouse": [
+      "2503_vicenta_geira_salomo"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Mariano Sans Cabrera",
+      "Rosa Martínez"
+    ],
+    "father_name": "Mariano Cabrera",
+    "mother_name": "Rosa Martínez",
+    "spouse_names": [
+      "Barbara Sanches Reverté",
+      "Vicenta Geira Salomó"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pastor"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1818].\n\nProfessió: pastor.\n\nCasament: el 15 de juliol de 1847 amb Bàrbara Sanches Reverté de la Ràpita [1822].\n\nCasament: el 22 d'abril de 1854 amb Vicenta Geira Salomó de la Ràpita [1826]. Testimonis: José Chalé i Bautista Sancho. Té 27 anys quan es casa.\n\nFills: Rosa [1857], Agustín [1858], Jaime [1860], Teresa [1864] i María [1860].\n\nDefunció: el 22 de juliol de 1877 a la Ràpita als 59 anys de \"intermitente maligna\".Declara la mor al registre civil Escolástica Montserrat, vidua.\n\nEs germà de Ramon Cabrera Martínez [1823].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

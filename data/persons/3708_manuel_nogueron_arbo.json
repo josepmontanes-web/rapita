@@ -1,0 +1,88 @@
+{
+  "id": "3708_manuel_nogueron_arbo",
+  "source_id": "3708",
+  "row_ref": "3708. Manuel Noguerón Arbó",
+  "name": "Manuel Noguerón Arbó",
+  "gender": "male",
+  "birth": {
+    "date": "1811-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3713_manuel_nogueron_badia",
+      "190_antonia_arbo_ramia"
+    ],
+    "father": "3713_manuel_nogueron_badia",
+    "mother": "190_antonia_arbo_ramia",
+    "spouse": [
+      "2968_vicenta_llorens_garcia"
+    ],
+    "children": [
+      "3718_vicente_nogueron_llorens",
+      "3719_manuel_rafael_nogueron_llorens",
+      "3720_manel_nogueron_llorens",
+      "3721_antonia_eulalia_nogueron_llorens"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel Noguerón Badia",
+      "Antonia Arbó Ramia"
+    ],
+    "father_name": "Manuel Noguerón Badia",
+    "mother_name": "Antonia Arbó Ramia",
+    "spouse_names": [
+      "Vicenta Llorens García"
+    ],
+    "children_names": [
+      "Vicente Noguerón Llorens",
+      "Manuel Rafael Noguerón Llorens",
+      "Manel Noguerón Llorens",
+      "Antonia Eulalia Noguerón Llorens"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Gasparín",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'1 de gener de 1811 a la Ràpita.\n\nPadrins: Francisco Gasparín i Bárbara Gombau.\n\nCasament: el 22 de novembre de 1834 amb Vicenta Llorens García de Cambrils [1813].\n\nFills: Vicente [1835], Manuel Rafael [1837], Manel [1840], Antonia Eulalia [1842], Manuela [1845], Vicenta [1845], Esperanza [1850], Pedro [1856] i Ramón [1856].\n\nAl abril de 1877 mor la seua dona i diu que ja es vidua.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

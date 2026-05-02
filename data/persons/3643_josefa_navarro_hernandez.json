@@ -1,0 +1,75 @@
+{
+  "id": "3643_josefa_navarro_hernandez",
+  "source_id": "3643",
+  "row_ref": "3643. Josefa Navarro Hernández",
+  "name": "Josefa Navarro Hernández",
+  "gender": "female",
+  "birth": {
+    "date": "1792-02-29",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3641_juan_navarro_hernandez"
+    ],
+    "father": "3641_juan_navarro_hernandez",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Navarro Hernández",
+      "Paula Hernández"
+    ],
+    "father_name": "Juan Navarro",
+    "mother_name": "Paula Hernández",
+    "spouse_names": [
+      "Domingo Castellà Coromines"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Josef Garcia",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 29 de febrer de 1792 a la Ràpita.\n\nPadrins: José García i Josefa Aiet.\n\nCasament: el 27 de juny de 1813 amb Domingo Castellà Coromines de Tortosa [1790].\n\nFills: José (Tortosa) [1820], Nicolasa (Tortosa) [1825], Francisco (Tortosa) [1828] i Josefa (Tortosa) [1832].\n\nEs germana de Juan Navarro Hernández [1775] i Domingo Navarro Hernández [1779].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

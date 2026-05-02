@@ -1,0 +1,73 @@
+{
+  "id": "4294_agustin_reverter_jovani",
+  "source_id": "4294",
+  "row_ref": "4294. Agustín Reverter Jovani",
+  "name": "Agustín Reverter Jovani",
+  "gender": "male",
+  "birth": {
+    "date": "1813-05-02",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1837-12-04",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4264_miguel_reverter_forner"
+    ],
+    "father": "4264_miguel_reverter_forner",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Reverter Forner",
+      "Maria Jovani Grau"
+    ],
+    "father_name": "Miguel Reverter Forner",
+    "mother_name": "Maria Jovani Grau",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Manuel Safont",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 2 de maig de 1813 a la Ràpita.\n\nPadrins: Manuel Safont i Vicenta Pascual.\n\nDefunció: el 4 de febrer de 1837 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

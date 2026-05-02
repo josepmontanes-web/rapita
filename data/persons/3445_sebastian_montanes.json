@@ -1,0 +1,72 @@
+{
+  "id": "3445_sebastian_montanes",
+  "source_id": "3445",
+  "row_ref": "3445. Sebastián Montañés",
+  "name": "Sebastián Montañés",
+  "gender": "male",
+  "birth": {
+    "date": "1866-01-19",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1290_rosa_castella_moreso"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Rosa Castellà Moreso"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pescador"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 19 de gener de 1866 a Tortosa.\n\nPadrina: María Pitart.\n\nProfessió: pescador.\n\nCasament: el 6 d'abril de 1890 amb Rosa Castellà Moreso de la Ràpita [1869].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "3363_sebastian_mies_montes",
+  "source_id": "3363",
+  "row_ref": "3363. Sebastián Míes Montes",
+  "name": "Sebastián Míes Montes",
+  "gender": "male",
+  "birth": {
+    "date": "1756-01-01",
+    "place": "Cassà de la Selva(Girona)"
+  },
+  "death": {
+    "date": "1842-11-30",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "3354_jose_mies_guinjuan",
+      "3355_juan_bautista_mies_guinjuan",
+      "3356_maria_josefa_mies_guinjuan",
+      "3357_peregrina_mies_guinjuan",
+      "3358_casimiro_mies_guinjuan",
+      "3359_sebastian_mies_guinjuan",
+      "3360_antonia_mies_guinjuan",
+      "3361_tomas_mies_guinjuan",
+      "3362_andres_mies_guinjuan"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Míes",
+      "Margarita Montes"
+    ],
+    "father_name": "Josef Míes",
+    "mother_name": "Margarita Montes",
+    "spouse_names": [
+      "Antonia Guinjuan Rivé"
+    ],
+    "children_names": [
+      "José Míes Guinjuan",
+      "Juan Bautista Míes Guinjuan",
+      "María Josefa Míes Guinjuan",
+      "Peregrina Míes Guinjuan",
+      "Casimiro Míes Guinjuan",
+      "Sebastián Míes Guinjuan",
+      "Antonia Míes Guinjuan",
+      "Tomás Míes Guinjuan",
+      "Andrés Míes Guinjuan"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pescatero"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Cassà de la Selva (Girona) [aprox. 1756]. L'any de naixement també podria ser 1763. Mias Montes, Sebastian pag 53 Cassà 1743-1794. Mias Montes Maria pag 95.\nel 14 de novembre de 1763 Sebastià Crespí i Josep fill legitim i natural de Joseph Mias mestre de cases del veinat de Llebrérs de baix i de Margarida Monté muller sua, net de part de mare de Sebastià Monté Fuster de Saret y de Francisca Casademont muller sua del bisbat de Elna del Rosselló y net de part de pare de Joan Mias mestre de cases de dit veïnat i de Margarida Vidal muller sua.\n\nProfessió: \"pescatero\" i paleta.\n\nEl 28 de març de 1787 Sebastiá i Mariano Míes signen una contrata per a acabar el que falta de la casa 9 inmediata a la que habita el tresorer Don Nicolás Costas davant del arquitecte principal de les obres Josef Fernández Parrado i el interventor Don Juan Antonio Gironda. El 9 de març de 1790 reclamen que s'els hi pagui els treballs fets a destall construint les cases 9, 10 i 11. Signa l'escrit com a Sebastia Mias. Naudín diu que s'evalui el que ha fet d'acord amb la contrata i s'els hi pagui. El 17 de desembre de 1790 Josef Fernández Parrado adjunta els calculs de la evaluació, resultant que s'el hi ha de pagar en total 1970 R. de vellón de plata, dels quals ja n'han rebut 1644 pel que manca pagar 326. El finiquit es signa el 14 de febrer de 1791. (ACA BGRP caixa 9).\n\nCasament: amb Antonia Guinjuan Rivé de Riudoms [1762].\n\nFills: José [1791], Peregrina [1792], Casimiro [1794], Antonia [1800], Sebastián [1801], Tomás [1803], Andrés [1805], María Josefa [1808] i Juan Bautista [1811].\n\nDefunció: el 30 de novembre de 1842 a la Ràpita. Va morir als 86 anys. Va testar davant de Joaquín Figueres.\n\nEs germà de Mariano Míes Montes [1760] i de José Míes Montes [1770].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

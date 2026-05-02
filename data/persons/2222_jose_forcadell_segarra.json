@@ -1,0 +1,82 @@
+{
+  "id": "2222_jose_forcadell_segarra",
+  "source_id": "2222",
+  "row_ref": "2222. José Forcadell Segarra",
+  "name": "José Forcadell Segarra",
+  "gender": "male",
+  "birth": {
+    "date": "1778-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2177_jose_forcadell",
+      "5041_teresa_segarra"
+    ],
+    "father": "2177_jose_forcadell",
+    "mother": "5041_teresa_segarra",
+    "spouse": [
+      "5261_francisca_talarn_valldeperez"
+    ],
+    "children": [
+      "2227_manuela_forcadell_talarn"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Forcadell",
+      "Teresa Segarra"
+    ],
+    "father_name": "José Forcadell",
+    "mother_name": "Teresa Segarra",
+    "spouse_names": [
+      "Francisca Talarn Valldeperez"
+    ],
+    "children_names": [
+      "Manuela Forcadell Talarn"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1778].\n\nA l'estat de veïns de setembre de 1798 diu que els seus pares i ell viuen a una \"casa de las Monjas de San Juan\" (ACA BGRP Cajas 34).\n\nProfessió: pagès.\n\nCasament: el 9 de setembre de 1802 amb Francisca Talarn Valldeperez [1782].\n\nFills: Dorotea [1803], José Antonio [1806], Joaquina [1807], Joaquín [1809] i Manuela [1812].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

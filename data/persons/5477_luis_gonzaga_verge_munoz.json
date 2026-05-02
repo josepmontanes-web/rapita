@@ -1,0 +1,73 @@
+{
+  "id": "5477_luis_gonzaga_verge_munoz",
+  "source_id": "5477",
+  "row_ref": "5477. Luís Gonzaga Verge Muñoz",
+  "name": "Luís Gonzaga Verge Muñoz",
+  "gender": "male",
+  "birth": {
+    "date": "1835-07-03",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1836-02-29",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5470_prudencio_verge_montserrat"
+    ],
+    "father": "5470_prudencio_verge_montserrat",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Prudencio Verge Montserrat",
+      "Juana Bautista Muñoz Tomàs"
+    ],
+    "father_name": "Prudencio Verge Montserrat",
+    "mother_name": "Juana Bautista Muñoz Tomàs",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Andrés Verge",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 3 de juliol de 1835 a la Ràpita.\n\nPadrins: Andrés Verge i Teresa Tomás.\n\nDefunció: el 29 de febrer de 1836 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

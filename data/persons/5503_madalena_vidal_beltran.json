@@ -1,0 +1,74 @@
+{
+  "id": "5503_madalena_vidal_beltran",
+  "source_id": "5503",
+  "row_ref": "5503. Madalena Vidal Beltran",
+  "name": "Madalena Vidal Beltran",
+  "gender": "female",
+  "birth": {
+    "date": "1796-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1808-09-23",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5535_francisco_vidal_palos",
+      "637_juana_beltran_sancho"
+    ],
+    "father": "5535_francisco_vidal_palos",
+    "mother": "637_juana_beltran_sancho",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Vidal Palos",
+      "Juana Beltran Sancho"
+    ],
+    "father_name": "Francisco Vidal Palos",
+    "mother_name": "Juana Beltran Sancho",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1796].\n\nDefunció: el 23 de setembre de 1808 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

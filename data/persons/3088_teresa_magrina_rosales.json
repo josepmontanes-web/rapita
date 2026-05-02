@@ -1,0 +1,84 @@
+{
+  "id": "3088_teresa_magrina_rosales",
+  "source_id": "3088",
+  "row_ref": "3088. Teresa Magriñá Rosales",
+  "name": "Teresa Magriñá Rosales",
+  "gender": "female",
+  "birth": {
+    "date": "1818-06-11",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3080_francisco_magrina_aliau",
+      "4557_teresa_rosales_valls"
+    ],
+    "father": "3080_francisco_magrina_aliau",
+    "mother": "4557_teresa_rosales_valls",
+    "spouse": [
+      "3402_juan_miracle_baset"
+    ],
+    "children": [
+      "3406_francisco_miracle_magrina",
+      "3407_agustin_miracle_magrina"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Magriñá Aliau",
+      "Teresa Rosales Valls"
+    ],
+    "father_name": "Francisco Magriñá Aliau",
+    "mother_name": "Teresa Rosales Valls",
+    "spouse_names": [
+      "Juan Miracle Baset"
+    ],
+    "children_names": [
+      "Francisco Miracle Magriña",
+      "Agustín Miracle Magriña"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Mateo Magriñà",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'11 de juny de 1818 a la Ràpita.\n\nPadrins: Mateo Magriñá i Casilda Gausé.\n\nCasament: el 23 de gener de 1836 amb Juan Miracle Baset de Rodoñá [1809].\n\nFills: Francisco [1836], Agustín [1841] i Ricardo [1845].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

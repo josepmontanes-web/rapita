@@ -1,0 +1,77 @@
+{
+  "id": "356_pelegrin_balada_planes",
+  "source_id": "356",
+  "row_ref": "356. Pelegrín Balada Planes",
+  "name": "Pelegrín Balada Planes",
+  "gender": "male",
+  "birth": {
+    "date": "1821-07-08",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "342_francisco_balada_forcadell",
+      "3995_eulalia_planes_gubern"
+    ],
+    "father": "342_francisco_balada_forcadell",
+    "mother": "3995_eulalia_planes_gubern",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Balada Forcadell",
+      "Eulalia Planes Gubern"
+    ],
+    "father_name": "Francisco Balada Forcadell",
+    "mother_name": "Eulalia Planes Gubern",
+    "spouse_names": [
+      "Teresa Talarn Sans",
+      "Agustina Guardia Bort"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Pelegrín Marguillas",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 8 de juliol de 1821 a la Ràpita.\n\nPadrins: Pelegrín Marguillas i María Vidal.\n\nProfessió: pagès.\n\nCasament: el 10 de novembre de 1849 amb Teresa Talarn Sans de la Ràpita [1827].\n\nCasament: el 13 de maig de 1854 amb Agustina Guardia Bort de la Ràpita [1831].\n\nFills: Rosa [1864].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

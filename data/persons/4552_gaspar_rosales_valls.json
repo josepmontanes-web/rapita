@@ -1,0 +1,73 @@
+{
+  "id": "4552_gaspar_rosales_valls",
+  "source_id": "4552",
+  "row_ref": "4552. Gaspar Rosales Valls",
+  "name": "Gaspar Rosales Valls",
+  "gender": "male",
+  "birth": {
+    "date": "1801-07-26",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1802-09-05",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4548_antonio_rosales_sole"
+    ],
+    "father": "4548_antonio_rosales_sole",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Rosales Solé",
+      "Theresa Valls Peralta"
+    ],
+    "father_name": "Antonio Rosales Solé",
+    "mother_name": "Theresa Valls Peralta",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Gaspar Dietgelm",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 26 de juliol de 1801 a la Ràpita.\n\nPadrí: Don Gaspar Dietgelm \"oficial del regimiento suizo ambulante de Rutiman\".\n\nDefunció: el 5 de setembre de 1802 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

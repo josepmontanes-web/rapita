@@ -1,0 +1,95 @@
+{
+  "id": "4921_teresa_sancho_querol",
+  "source_id": "4921",
+  "row_ref": "4921. Teresa Sancho Querol",
+  "name": "Teresa Sancho Querol",
+  "gender": "female",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4833_jose_sancho"
+    ],
+    "father": "4833_jose_sancho",
+    "mother": null,
+    "spouse": [
+      "4265_agustin_reverter_forner"
+    ],
+    "children": [
+      "4347_miguel_reverte_sancho",
+      "4348_teresa_reverter_sancho",
+      "4349_agustin_reverter_sancho",
+      "4350_josefa_reverter_sancho",
+      "4351_maria_reverter_sancho",
+      "4352_tomas_reverte_sancho",
+      "4353_juan_bautista_reverter_sancho",
+      "4354_agustin_carlos_reverter_sancho"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Sancho",
+      "Maria Querol"
+    ],
+    "father_name": "José Sancho",
+    "mother_name": "Maria Querol",
+    "spouse_names": [
+      "Agustín Reverter Forner"
+    ],
+    "children_names": [
+      "Miguel Reverté Sancho",
+      "Teresa Reverter Sancho",
+      "Agustín Reverter Sancho",
+      "Josefa Reverter Sancho",
+      "María Reverter Sancho",
+      "Tomás Reverté Sancho",
+      "Juan Bautista Reverter Sancho",
+      "Agustín Carlos Reverter Sancho"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1800]. \n\nCasament: amb Agustín Reverter Forner d'Alcanar [1793].\n\nFills: Josefa [1819], María [1821], Miguel [1824], Tomás [1827], Juan Bautista [1828], Teresa [1830], Agustín Carlos [1836] i Agustín [1839].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

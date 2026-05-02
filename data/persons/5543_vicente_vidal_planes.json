@@ -1,0 +1,75 @@
+{
+  "id": "5543_vicente_vidal_planes",
+  "source_id": "5543",
+  "row_ref": "5543. Vicente Vidal Planes",
+  "name": "Vicente Vidal Planes",
+  "gender": "male",
+  "birth": {
+    "date": "1826-05-03",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5500_francisco_vidal_beltran"
+    ],
+    "father": "5500_francisco_vidal_beltran",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Vidal Beltran",
+      "Francisca Planes Govern"
+    ],
+    "father_name": "Francisco Vidal Beltràn",
+    "mother_name": "Francisca Planes Govern",
+    "spouse_names": [
+      "Maria Sanches Capilla"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Vicente Sempere",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 3 de maig de 1826 a la Ràpita.\n\nPadrins: Vicente Sempere i Rosa Llorens.\n\nProfessió: pagès.\n\nCasament: el 10 de juny de 1848 amb María Sanches Capilla de la Ràpita [1825].\n\nFills: Vicente [1851], María [1856] i Rosa [1865].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

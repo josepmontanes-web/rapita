@@ -1,0 +1,81 @@
+{
+  "id": "4208_joaquin_reverter_barrera",
+  "source_id": "4208",
+  "row_ref": "4208. Joaquín Reverter Barrera",
+  "name": "Joaquín Reverter Barrera",
+  "gender": "male",
+  "birth": {
+    "date": "1775-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4173_jose_reverter"
+    ],
+    "father": "4173_jose_reverter",
+    "mother": null,
+    "spouse": [
+      "426_antonia_balaguer_esteller"
+    ],
+    "children": [
+      "4201_juan_jose_reverter_balaguer"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Reverter",
+      "Josefa María Barrera"
+    ],
+    "father_name": "José Reverter",
+    "mother_name": "Josefa María Barrera",
+    "spouse_names": [
+      "Antonia Balaguer Esteller"
+    ],
+    "children_names": [
+      "Juan José Reverter Balaguer"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1775]. \n\nCasament: amb Antonia Balaguer Esteller [1780].\n\nFills: Juan Jose [1812].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "2374_maria_de_la_cinta_garcia_tarrago",
+  "source_id": "2374",
+  "row_ref": "2374. Maria de la Cinta García Tarragó",
+  "name": "Maria de la Cinta García Tarragó",
+  "gender": "female",
+  "birth": {
+    "date": "1842-03-25",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2295_vicente_garcia_beltran",
+      "5269_dolores_tarrago_urquisu"
+    ],
+    "father": "2295_vicente_garcia_beltran",
+    "mother": "5269_dolores_tarrago_urquisu",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente García Beltran",
+      "Dolores Tarragó Urquisu"
+    ],
+    "father_name": "Vicente García Beltran",
+    "mother_name": "Dolores Tarragó Urquisu",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José García",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 25 de març de 1842 a la Ràpita.\n\nPadrins: José García i Cinta Borràs.\n\nCasament: amb Francisco Torné Navarro de Tortosa [1840]. Viuen al carrer Sant Rafel.\n\nFills: Manuela [1876] i Vicente [1881].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

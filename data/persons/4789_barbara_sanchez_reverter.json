@@ -1,0 +1,78 @@
+{
+  "id": "4789_barbara_sanchez_reverter",
+  "source_id": "4789",
+  "row_ref": "4789. Barbara Sánchez Reverter",
+  "name": "Barbara Sánchez Reverter",
+  "gender": "female",
+  "birth": {
+    "date": "1822-06-08",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4739_dionisio_sanchez_ferre",
+      "4278_agustina_reverter_gonzalez"
+    ],
+    "father": "4739_dionisio_sanchez_ferre",
+    "mother": "4278_agustina_reverter_gonzalez",
+    "spouse": [
+      "913_agustin_cabrera_martinez"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Dionisio Sánchez Ferré",
+      "Agustina Reverter González"
+    ],
+    "father_name": "Dionisio Sánchez Ferré",
+    "mother_name": "Agustina Reverter Gonzalez",
+    "spouse_names": [
+      "Agustín Cabrera Martínez"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Miguel Reverter",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 8 de juny de 1822 a la Ràpita.\n\nPadrins: Miguel Reverter i Bárbara Vidal.\n\nCasament: el 15 de juliol de 1847 amb Agustín Cabrera Martínez d'Amposta [1818].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

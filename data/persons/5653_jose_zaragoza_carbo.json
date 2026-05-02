@@ -1,0 +1,85 @@
+{
+  "id": "5653_jose_zaragoza_carbo",
+  "source_id": "5653",
+  "row_ref": "5653. José Zaragoza Carbó",
+  "name": "José Zaragoza Carbó",
+  "gender": "male",
+  "birth": {
+    "date": "1780-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5646_bautista_zaragoza"
+    ],
+    "father": "5646_bautista_zaragoza",
+    "mother": null,
+    "spouse": [
+      "1047_mariana_cartes",
+      "2063_teresa_ferrer_pinol"
+    ],
+    "children": [
+      "5655_jose_zaragoza_cartes",
+      "5656_joaquin_zaragoza_cartes"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Zaragoza",
+      "Madalena Carbó"
+    ],
+    "father_name": "Bautista Zaragoza",
+    "mother_name": "Madalena Carbó",
+    "spouse_names": [
+      "Mariana Cartes",
+      "Teresa Ferrer Piñol"
+    ],
+    "children_names": [
+      "José Zaragoza Cartes",
+      "Joaquín Zaragoza Cartes"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pescador"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1780].\n\nProfessió: pescador.\n\nCasament: amb Mariana Cartes [1780].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu al barri dels pescadors  (ACA BGRP Cajas 34).\n\nFills: Joaquín [1815] i José [1817].\n\nCasament: el 2 d'abril de 1822 amb Teresa Ferrer Piñol del Perelló [1783].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

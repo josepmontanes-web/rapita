@@ -1,0 +1,79 @@
+{
+  "id": "1377_rosa_cera_canalda",
+  "source_id": "1377",
+  "row_ref": "1377. Rosa Cera Canalda",
+  "name": "Rosa Cera Canalda",
+  "gender": "female",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1371_jacinto_cera"
+    ],
+    "father": "1371_jacinto_cera",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1754_maria_rosa_domenech_cera"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Jacinto Cera",
+      "Antonia Canalda"
+    ],
+    "father_name": "Jacinto Cera",
+    "mother_name": "Antonia Canalda",
+    "spouse_names": [
+      "José Domenech Bureta"
+    ],
+    "children_names": [
+      "Maria Rosa Domenech Cera"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1790].\n\nCasament: el 26 de desembre de 1813 amb José Domenech Bureta de Tortosa [1789]. Es casa als 23 anys.\n\nCasament: amb Joaquín Domenech Cid de Tortosa [1800].\n\nFills: María Rosa [1826].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

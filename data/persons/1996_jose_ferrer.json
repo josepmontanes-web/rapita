@@ -1,0 +1,74 @@
+{
+  "id": "1996_jose_ferrer",
+  "source_id": "1996",
+  "row_ref": "1996. José Ferrer",
+  "name": "José Ferrer",
+  "gender": "male",
+  "birth": {
+    "date": "1763-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1822-12-31",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2063_teresa_ferrer_pinol",
+      "2073_jose_ferrer_rostoll"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Teresa Ferrer Piñol",
+      "José Ferrer Rostoll"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1763].\n\nProfessió: pagès.\n\nVa treballar a l'horta de les monges, als pous de calç, a l'obra real i al malecó del canal.\n\nDefunció: el 31 de desembre de 1822 a la Ràpita. Va morir fadrí als 60 anys.\n\nEs veí de la Ràpita a 1796 (ACA Processos 1796 7F). Té 34 anys. va treballar a l’horta de les monges i a l’obra, als pous de calç, a l’obra de la carretera malecó del canal, en la talla de garrofers que reclamen les monges. diu k sí, per haber-ho sentit de Josef Hernandez, inquilino de ella.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

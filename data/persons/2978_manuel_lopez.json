@@ -1,0 +1,82 @@
+{
+  "id": "2978_manuel_lopez",
+  "source_id": "2978",
+  "row_ref": "2978. Manuel López",
+  "name": "Manuel López",
+  "gender": "male",
+  "birth": {
+    "date": "1750-01-01",
+    "place": "Madrid o Granada"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1614_ana_costa",
+      "2354_agustina_garcia_mendoza"
+    ],
+    "children": [
+      "2985_maria_lopez_costa",
+      "2986_ramon_lopez_costa",
+      "2997_manuela_lopez_garcia"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Ana Costa",
+      "Agustina García Mendoza"
+    ],
+    "children_names": [
+      "María López Costa",
+      "Ramón López Costa",
+      "Manuela López García"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Madrid (o a Granada)  [aprox. 1750]. \n\nCasament: amb Ana Costa de Baza (Granada) [1750].\n\nFills: Ramón López Costa (Baza) [1770] i María López Costa  (Serós) [1771]. José López (Granada) [1770] també podria ser fill però no està clar.\n\nAl 1786 les monges diuen que Francesch Canals li va donar terra que pertanyia al monasteri i que era resident a la Ràpita.\n\nCasament: amb Agustina García Mendoza de Morella [1762].\n\nFills: Manuela [1788].\n\nNo està clar del tot que el Manuel López  [1750] que es casa amb Ana Costa [1750] sigui el mateix que el que es casa amb Agustina García. Tampoc està clar del tot que Agustina García mare de Manuela López García [1788] sigui Agustina García Mendoza [1762]:\n\nAl març de 1797 Agustina García Mendoza [1762] es torna a casar, pot-ser ell ja era mort.\n\nA la partida de casament d'una filla diu que es veí de Cambrils.\n\n1783-1784 24. Autos criminales formados contra Manuel López y Félix Parra, ministros de Reales Rentas. (ACA Caixa 54).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

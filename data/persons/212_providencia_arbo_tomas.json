@@ -1,0 +1,77 @@
+{
+  "id": "212_providencia_arbo_tomas",
+  "source_id": "212",
+  "row_ref": "212. Providencia Arbó Tomas",
+  "name": "Providencia Arbó Tomas",
+  "gender": "female",
+  "birth": {
+    "date": "1827-03-21",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "177_francisco_arbo_ingles"
+    ],
+    "father": "177_francisco_arbo_ingles",
+    "mother": null,
+    "spouse": [
+      "230_tomas_arlandez_balada"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Arbó Inglés",
+      "Maria Tomas Sanches"
+    ],
+    "father_name": "Francisco Arbó Inglés",
+    "mother_name": "Maria Tomas Sanches",
+    "spouse_names": [
+      "Tomas Arlández Balada"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Josef Bros",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  el 21 de març de 1827 a la Ràpita.\n\nEls padrins son José Bros Escrivà i Rosa Bros Escrivà.\n\nCasament: el 8 de juny de 1850 amb Tomás Arlández Balada de la Ràpita [1824]. A la partida de casament li diuen Prudencia.\n\nFills: Eleuterio [1852] i Josefa [1853].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

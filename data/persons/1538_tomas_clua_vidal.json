@@ -1,0 +1,75 @@
+{
+  "id": "1538_tomas_clua_vidal",
+  "source_id": "1538",
+  "row_ref": "1538. Tomàs Clua Vidal",
+  "name": "Tomàs Clua Vidal",
+  "gender": "male",
+  "birth": {
+    "date": "1823-07-14",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1517_jose_clua_cid"
+    ],
+    "father": "1517_jose_clua_cid",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Clua Cid",
+      "Francisca Vidal Sastre"
+    ],
+    "father_name": "José Clua Cid",
+    "mother_name": "Francisca Vidal Sastre",
+    "spouse_names": [
+      "Josefa Sanches Ventura"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Antonio Vidal",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 14 de juliol de 1823 a la Ràpita.\n\nPadrins: Antonio Vidal i Francisca Borrell.\n\nCasament: el 12 de maig de 1847 amb Josefa Sanches Ventura de la Ràpita [1828].\n\nFills: Juan [1850] i Cinta [1865].\n\nVenta: de Melchor Jovani y Grau, labrador, a Tomás Clua y Vidal, de casita de sólo plan terreno juntamente con todo el patio … de la misma existente parte del cual es cercado de pared y de extensión este de unos 30 palmos por la parte de la calle que antes situada dicha casita y patio en la calle de Carlos tercero que hace esquina y linda con otra calle que dirige al mar lindante con Domingo Pepiol, María Jovani y Miguel Reverter. Por precio de 23 duros. 25 de diciembre de 1859. Esc. Juan Ventosa de Amposta. Valor 460.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

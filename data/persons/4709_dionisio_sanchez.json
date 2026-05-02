@@ -1,0 +1,83 @@
+{
+  "id": "4709_dionisio_sanchez",
+  "source_id": "4709",
+  "row_ref": "4709. Dionisio Sánchez",
+  "name": "Dionisio Sánchez",
+  "gender": "male",
+  "birth": {
+    "date": "1750-01-01",
+    "place": "Elx"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "4739_dionisio_sanchez_ferre",
+      "4740_josefa_sanchez_ferre",
+      "4752_maria_sanchez_gilabert",
+      "4753_theresa_sanchez_gilavert",
+      "4754_manuela_sanchez_gisbert"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Francisca Ferré",
+      "Josefa Gilabert"
+    ],
+    "children_names": [
+      "Dionisio Sánchez Ferré",
+      "Josefa Sánchez Ferré",
+      "Maria Sánchez Gilabert",
+      "Theresa Sánchez Gilavert",
+      "Manuela Sánchez Gisbert"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Elx [aprox. 1750]. \n\nA finals de maig de 1781 treballa a la Brigada de Luís Guindulain a les Obres del Canal de Navegació (ACA BGRP Caixa 44).\n\nAl agost de 1783 treballa a destall en l'apertura de 81 sèquies de desecació a les hisendes de la part inferior del Canal on el Teix fins a la barraca del esparter (ACA BGRP caixa 46).\n\nCasament: amb Francisca Ferré d'Amposta.\n\nFills: Josefa (Amposta) [1775], Francisco (Amposta) [1788] i Dionisio (Amposta) [1790].\n\nCasament: amb Josefa Gilabert.\n\nFills: María [1800], Teresa (les Salines dels Alfacs) [1806] i Manuela [1807].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "1443_teresa_chillida_querol",
+  "source_id": "1443",
+  "row_ref": "1443. Teresa Chillida Querol",
+  "name": "Teresa Chillida Querol",
+  "gender": "female",
+  "birth": {
+    "date": "1812-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1429_gabriel_chillida"
+    ],
+    "father": "1429_gabriel_chillida",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "3870_justo_pepiol_chillida",
+      "3871_josefa_maria_pepiol_chillida",
+      "3872_isabel_francisca_pepiol_chillida",
+      "3873_agustin_domingo_pepiol_chillida",
+      "3874_rosa_pepiol_chillida",
+      "3875_teresa_pepiol_chillida",
+      "3876_mariano_andres_pepiol_chillida"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Gabriel Chillida",
+      "Teresa Querol"
+    ],
+    "father_name": "Gabriel Chillida",
+    "mother_name": "Teresa Querol",
+    "spouse_names": [
+      "Domingo Pepiol Pasqual"
+    ],
+    "children_names": [
+      "Justo Pepiol Chillida",
+      "Josefa María Pepiol Chillida",
+      "Isabel Francisca Pepiol Chillida",
+      "Agustín Domingo Pepiol Chillida",
+      "Rosa Pepiol Chillida",
+      "Teresa Pepiol Chillida",
+      "Mariano Andrés Pepiol Chillida"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1812].\n\nCasament: el 6 d'octubre de 1832 amb Domingo Pepiol Pasqual de la Ràpita [1808]. Es casa als 20 anys.\n\nFills: Justo [1833], Josefa [1836], Isabel Francisca [1838], Agustín Domingo [1840], Rosa [1842], Teresa [1844], Mariano Andrés [1849], José [1853] i Juan [1852].\n\nAl 1854 el marit es torna a casar pel que pot-ser ella va morir abans.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

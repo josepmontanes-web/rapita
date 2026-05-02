@@ -1,0 +1,70 @@
+{
+  "id": "5434_carlos_vandensampele",
+  "source_id": "5434",
+  "row_ref": "5434. Carlos Vandensampele",
+  "name": "Carlos Vandensampele",
+  "gender": "male",
+  "birth": {
+    "date": "1740-01-01",
+    "place": "Flandes francesa"
+  },
+  "death": {
+    "date": "1797-09-19",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Rosa Tolós"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Militar"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a \"Flandes francesa\" [aprox. 1740].\n\nCasament: amb Rosa Tolós Solà de Càlig [1762].\n\nAl juliol de 1780 era responsable (Sobrestante) d'una de les Brigades de treballadors del Canal de Navegació (ACA BGRP Caixa 43).\n\n\"Teniente de cavaleria retirado y alcalde de esta Nva. y Real Población\". Encarregat de les obres.\n\nSegons Borràs Matamoros N (2015) Vicente Carrasco y de la Torre, encarregat de controlar la gestió de Martorell (subdelegat de les obres del canal i nova població de Sant Carles que havia subsituit a  Francesc Canals en aquest càrrec), escriu a Floridabalanca algunes queixes sobre la gestió de Martorell, entre les quals: No controlar la feina de l'encarregar Carlos Vandensompele, el qual, molts cops no apareix per les obres i els peons l'han d'anar a buscar a casa per rebre les instruccions diàries.\n\nAl 1787 Naudín diu que serà \"empleado para la Dirección de las Bandarolas\". (ACA_BGRP_Correspondència_caixa 9).\n\nDefunció: el 19 de setembre de 1797 a la Ràpita. Va morir als 57 anys.\n\nA l'estat de veïns de setembre de 1798 diu que la seva vidua viu a la casa núm. 2 de la \"Calle Mayor\" (ACA BGRP Cajas 34), pel que previsiblement, ell també vivia allí abans de morir.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "4700_gregorio_samper_moncho",
+  "source_id": "4700",
+  "row_ref": "4700. Gregorio Samper Moncho",
+  "name": "Gregorio Samper Moncho",
+  "gender": "male",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Benidorm"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "4704_bartolome_samper_vidal"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Gregorio Sempere",
+      "Rosa Moncho"
+    ],
+    "father_name": "Gregorio Sempere",
+    "mother_name": "Rosa Moncho",
+    "spouse_names": [
+      "Paula Vidal Talarn"
+    ],
+    "children_names": [
+      "Bartolomé Samper Vidal"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Benidorm [aprox. 1810]. \n\nEl primer cognom podria ser Sempere, Sampere o Samper i el segón cognom podria ser Moncho o Monjo.\n\nCasament: el 28 de febrer de 1832 amb Paula Vidal Talarn de la Ràpita [1810].\n\nFills: Bartolomé [1833].\n\nDe l'1 de maig de 1834 al 31 de juliol de 1839 ha de pagar un lloguer de 6 Rs mensuals pel pis alt de la dreta de la casa 6 del carrer del Forn. (AGP.PER.LEG.1073/23 [Juan Vecino]). Podria ser ell o el seu pare.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

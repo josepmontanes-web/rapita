@@ -1,0 +1,84 @@
+{
+  "id": "5397_concepcion_torta_subirats",
+  "source_id": "5397",
+  "row_ref": "5397. Concepción Torta Subirats",
+  "name": "Concepción Torta Subirats",
+  "gender": "female",
+  "birth": {
+    "date": "1828-04-21",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5389_juan_torta_sole",
+      "5191_teresa_subirats_fabregat"
+    ],
+    "father": "5389_juan_torta_sole",
+    "mother": "5191_teresa_subirats_fabregat",
+    "spouse": [
+      "4344_miguel_reverter_sancho"
+    ],
+    "children": [
+      "4378_miguel_agustin_reverter_torta",
+      "4379_teresa_reverter_torta"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Torta Solé",
+      "Teresa Subirats Fabregat"
+    ],
+    "father_name": "Juan Torta Soler",
+    "mother_name": "Teresa Subirats Fabregat",
+    "spouse_names": [
+      "Miguel Reverter Sancho"
+    ],
+    "children_names": [
+      "Miguel Agustín Reverter Torta",
+      "Teresa Reverter Torta"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Josef Ballester",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 21 d'abril de 1828 a la Ràpita.\n\nPadrins: Don José Ballester i Doña Magdalena Masip.\n\nCasament: el 27 d'agost de 1842 amb Miguel Reverter Sancho de la Ràpita [1824].\n\nFills: Miguel Agustín [1844], Teresa [1845] i Teresa [1850].\n\nAl 1853 el seu marit es torna a casar, pel que probablemet ella ja estava morta.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

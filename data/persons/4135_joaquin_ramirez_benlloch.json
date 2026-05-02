@@ -1,0 +1,74 @@
+{
+  "id": "4135_joaquin_ramirez_benlloch",
+  "source_id": "4135",
+  "row_ref": "4135. Joaquín Ramírez Benlloch",
+  "name": "Joaquín Ramírez Benlloch",
+  "gender": "male",
+  "birth": {
+    "date": "1813-01-01",
+    "place": "Mataró"
+  },
+  "death": {
+    "date": "1823-03-08",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4141_bernabe_ramirez_ruiz",
+      "665_buenaventura_benlloch_feu"
+    ],
+    "father": "4141_bernabe_ramirez_ruiz",
+    "mother": "665_buenaventura_benlloch_feu",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bernabé Ramírez Ruiz",
+      "Buenaventura Benlloch Feu"
+    ],
+    "father_name": "Bernabé Ramírez Ruiz",
+    "mother_name": "Buenaventura Benlloch Feu",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Mataró [aprox. 1813]. \n\nDefunció: el 8 de març de 1823 a la Ràpita. Va morir als 10 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

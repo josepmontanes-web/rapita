@@ -1,0 +1,73 @@
+{
+  "id": "2081_juan_manuel_ferre_sancho",
+  "source_id": "2081",
+  "row_ref": "2081. Juan Manuel Ferré Sancho",
+  "name": "Juan Manuel Ferré Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1830-01-24",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1834-10-20",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2057_fermin_ferrer_marti"
+    ],
+    "father": "2057_fermin_ferrer_marti",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Fermín Ferrer Martí",
+      "Ramona Sancho Pla"
+    ],
+    "father_name": "Fermín Ferrer Martí",
+    "mother_name": "Ramona Sancho Pla",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Castellà",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 24 de gener de 1830 a la Ràpita.\n\nPadrins: Juan Castellà i Manuela Llorens.\n\nDefunció: el 20 d'octubre de 1834 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

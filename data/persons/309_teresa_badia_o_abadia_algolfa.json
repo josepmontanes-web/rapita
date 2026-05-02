@@ -1,0 +1,79 @@
+{
+  "id": "309_teresa_badia_o_abadia_algolfa",
+  "source_id": "309",
+  "row_ref": "309. Teresa Badia [o Abadia] Algolfa",
+  "name": "Teresa Badia [o Abadia] Algolfa",
+  "gender": "female",
+  "birth": {
+    "date": "1745-01-01",
+    "place": "Pont de Suert"
+  },
+  "death": {
+    "date": "1805-07-13",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2181_francisco_forcadell_badia"
+    ],
+    "father": "2181_francisco_forcadell_badia",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "3712_maria_nogueron_badia"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Forcadell Badia",
+      "Mariana Algolfa?"
+    ],
+    "father_name": "Francisco Badia",
+    "mother_name": "Mariana Algolfa?",
+    "spouse_names": [
+      "Vicente Noguerón Bella"
+    ],
+    "children_names": [
+      "María Noguerón Badia"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  a Pont de Suert [aprox. 1745].\n\nCasament: amb Vicente Noguerón Bella de València [1750]. A l'estat de veïns de la Població de San Carlos  a 1 de setembre de 1798 consta que viuen a una casa d'empleats de sanitat (ACA BGRP caixa 34).\n\nFills: María (Calella) [1779] i Manuel (Arenys de Mar) [1778].\n\nDefunció: el 13 de juliol de 1805 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

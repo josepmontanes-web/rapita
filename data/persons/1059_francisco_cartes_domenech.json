@@ -1,0 +1,79 @@
+{
+  "id": "1059_francisco_cartes_domenech",
+  "source_id": "1059",
+  "row_ref": "1059. Francisco Cartes Domenech",
+  "name": "Francisco Cartes Domenech",
+  "gender": "male",
+  "birth": {
+    "date": "1758-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1838-08-26",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1046_francisco_cartes"
+    ],
+    "father": "1046_francisco_cartes",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1748_francisca_antonia_domenech_batiste"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Cartes",
+      "Teresa Domenech"
+    ],
+    "father_name": "Francisco Cartes",
+    "mother_name": "Teresa Domenech",
+    "spouse_names": [
+      "Teresa Castellà"
+    ],
+    "children_names": [
+      "Francisca Antonia Domenech Batiste"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1758].\n\nCasament: amb Teresa Castellà de Tortosa.\n\nDefunció: el 26 d'agost de 1838 a la Ràpita. Va morir als 80 anys. No fa testament. Quan va morir era vidú en segones nupcies de Teresa Castellà de Tortosa.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "2897_concepcion_julbe_barrera",
+  "source_id": "2897",
+  "row_ref": "2897. Concepción Julbe Barrera",
+  "name": "Concepción Julbe Barrera",
+  "gender": "female",
+  "birth": {
+    "date": "1880-11-20",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 20 de novembre de 1880 a la Ràpita. El pare té 47 anys i es pagès, la mare en té 30. Al registre sembla que el cognom sigui \"Culbe\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "971_catalina_cantero_pinar",
+  "source_id": "971",
+  "row_ref": "971. Catalina Cantero Pinar",
+  "name": "Catalina Cantero Pinar",
+  "gender": "female",
+  "birth": {
+    "date": "1810-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1818-07-18",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "968_blas_cantero_martinez",
+      "3932_antonia_pinar_baran"
+    ],
+    "father": "968_blas_cantero_martinez",
+    "mother": "3932_antonia_pinar_baran",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Blas Cantero Martínez",
+      "Antonia Pinar Baran"
+    ],
+    "father_name": "Blas Cantero Martínez",
+    "mother_name": "Antonia Pinar Baran",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1810].\n\nDefunció: el 18 de juliol de 1818 a la Ràpita. Va morir als 8 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

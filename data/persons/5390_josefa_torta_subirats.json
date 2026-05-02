@@ -1,0 +1,93 @@
+{
+  "id": "5390_josefa_torta_subirats",
+  "source_id": "5390",
+  "row_ref": "5390. Josefa Torta Subirats",
+  "name": "Josefa Torta Subirats",
+  "gender": "female",
+  "birth": {
+    "date": "1777-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": "1831-07-03",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5426_mariano_valldeperez_torta"
+    ],
+    "father": "5426_mariano_valldeperez_torta",
+    "mother": null,
+    "spouse": [
+      "814_francisco_bosch_montanes"
+    ],
+    "children": [
+      "816_francisco_bosch_torta",
+      "817_susana_bosch_torta",
+      "818_francisca_bosch_torta",
+      "819_pascuala_bosch_torta",
+      "820_mariana_bosch_torta",
+      "4381_jose_francisco_reverter_torta",
+      "4382_juan_agustin_reverter_torta"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Mariano Valldepérez Torta",
+      "Teresa Subirats"
+    ],
+    "father_name": "Mariano Torta",
+    "mother_name": "Teresa Subirats",
+    "spouse_names": [
+      "Francisco Bosch Montañés"
+    ],
+    "children_names": [
+      "Francisco Bosch Torta",
+      "Susana Bosch Torta",
+      "Francisca Bosch Torta",
+      "Pascuala Bosch Torta",
+      "Mariana Bosch Torta",
+      "José Francisco Reverter Torta",
+      "Juan Agustín Reverter Torta"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1777].\n\nCasament: amb Francisco Bosch Montañés d'Amposta [1768].\n\nFills: Mariana (Amposta) [1795], Pascuala (Amposta) [1806], Susana (Amposta) [1812], Francisco (Amposta) [1815] i Francisca [1818].\n\nDefunció: el 3 de juliol de 1831 a la Ràpita. Va morir als 53 anys de \"aproplegia\". No fa testament. \"Se celebraron para bien de su alma 750 R. vsm.\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

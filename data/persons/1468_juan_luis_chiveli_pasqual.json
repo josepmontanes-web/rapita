@@ -1,0 +1,74 @@
+{
+  "id": "1468_juan_luis_chiveli_pasqual",
+  "source_id": "1468",
+  "row_ref": "1468. Juan Luís Chiveli Pasqual",
+  "name": "Juan Luís Chiveli Pasqual",
+  "gender": "male",
+  "birth": {
+    "date": "1798-12-27",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1800-05-01",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1467_luis_chiveli_fortaner",
+      "3826_francisca_pasqual_fuster"
+    ],
+    "father": "1467_luis_chiveli_fortaner",
+    "mother": "3826_francisca_pasqual_fuster",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Luis Chiveli Fortaner",
+      "Francisca Pasqual Fuster"
+    ],
+    "father_name": "Luís Chiveli Fortaner",
+    "mother_name": "Francisca Pasqual Fuster",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Mariano Pasqual",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 27 de desembre de 1798 a la Ràpita.\n\nPadrins: Mariano Pasqual i María Dalmau.\n\nDefunció: l'1 de maig de 1800 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

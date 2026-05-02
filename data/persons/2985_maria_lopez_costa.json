@@ -1,0 +1,91 @@
+{
+  "id": "2985_maria_lopez_costa",
+  "source_id": "2985",
+  "row_ref": "2985. María López Costa",
+  "name": "María López Costa",
+  "gender": "female",
+  "birth": {
+    "date": "1771-01-01",
+    "place": "Serós (Lérida)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2978_manuel_lopez",
+      "1614_ana_costa"
+    ],
+    "father": "2978_manuel_lopez",
+    "mother": "1614_ana_costa",
+    "spouse": [
+      "3097_francisco_march_casals"
+    ],
+    "children": [
+      "3100_estevan_march_lopez",
+      "3101_teresa_march_lopez",
+      "3537_maria_moya_lopez",
+      "3538_maria_manuela_moya_lopez",
+      "3539_manuel_moya_lopez"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel López",
+      "Ana Costa"
+    ],
+    "father_name": "Manuel López",
+    "mother_name": "Ana Costa",
+    "spouse_names": [
+      "Juan Bautista Moya Rebertona",
+      "Francisco March Casals"
+    ],
+    "children_names": [
+      "Estevan March López",
+      "Teresa March López",
+      "Maria Moya López",
+      "María Manuela Moya López",
+      "Manuel Moya López"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Serós (Lleida)  [aprox. 1771]. \n\nCasament: amb Juan Bautista Moya Rebertona d'Orino (Italia) [1760].\n\nFills: María [1791], María Manuela [1795] i Manuel [1795].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Mansana Vella núm. 3 (ACA BGRP Cajas 34). Al gener de 1799 paga 6 Rv pel lloguer de la mateixa casa.\n\nCasament: el 24 de desembre de 1804 amb Francisco March Casals de Mont-roig (Tarragona) [1771]. Es casa vídua als 33 anys.\n\nFills: Josefa [1805], Estevan [1809] i Teresa [1813].\n\nEs germana de Ramón López Costa [1770], també podria ser germana de José López [1770] però no es segur.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

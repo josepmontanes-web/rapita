@@ -1,0 +1,74 @@
+{
+  "id": "5153_miguel_sola",
+  "source_id": "5153",
+  "row_ref": "5153. Miguel Solà",
+  "name": "Miguel Solà",
+  "gender": "male",
+  "birth": {
+    "date": "1744-01-01",
+    "place": "Premià de Dalt"
+  },
+  "death": {
+    "date": "1829-10-09",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "5161_teresa_sola_coll"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Teresa Coll"
+    ],
+    "children_names": [
+      "Teresa Solà Coll"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Premià de Dalt [aprox. 1744]. \n\nCasament: amb Teresa Coll de Calella.\n\nFills: Teresa (Calella) [1780].\n\nDefunció: el 9 d'octubre de 1829 a la Ràpita. Va morir als 85 anys de \"calenturas\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "662_benita_belzunegui_alemany",
+  "source_id": "662",
+  "row_ref": "662. Benita Belzunegui Alemany",
+  "name": "Benita Belzunegui Alemany",
+  "gender": "female",
+  "birth": {
+    "date": "1849-01-01",
+    "place": "Lumbier (Navarra)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Lumbier (Navarra) [aprox. 1849].\n\nCasament: amb Don Pedro Fernández de la Torre de Lugo [1837].\n\nFills: Rodolfo Eugenio [1881].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

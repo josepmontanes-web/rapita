@@ -1,0 +1,81 @@
+{
+  "id": "451_jayme_balague_navarro",
+  "source_id": "451",
+  "row_ref": "451. Jayme Balagué Navarro",
+  "name": "Jayme Balagué Navarro",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1841-05-01",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "434_juan_jayme_balague_grego"
+    ],
+    "father": "434_juan_jayme_balague_grego",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "395_juan_jayme_balague_bosch",
+      "396_josefa_rosa_balague_bosch"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Jayme Balagué Grego",
+      "Lucía Navarro"
+    ],
+    "father_name": "Juan Jayme Balagué",
+    "mother_name": "Lucía Navarro",
+    "spouse_names": [
+      "Angela Bosch"
+    ],
+    "children_names": [
+      "Juan Jayme Balagué Bosch",
+      "Josefa Rosa Balagué Bosch"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1800].\n\nCasament: amb Angela Bosch Bordera de Tortosa [1800].\n\nFills: Juan Jayme [1826] i Josefa Rosa [1830].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

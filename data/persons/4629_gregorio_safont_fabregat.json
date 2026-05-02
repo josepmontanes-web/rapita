@@ -1,0 +1,74 @@
+{
+  "id": "4629_gregorio_safont_fabregat",
+  "source_id": "4629",
+  "row_ref": "4629. Gregorio Safont Fabregat",
+  "name": "Gregorio Safont Fabregat",
+  "gender": "male",
+  "birth": {
+    "date": "1807-06-02",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1809-04-17",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4641_manuel_safont_pla",
+      "1927_francisca_fabregat_obiol"
+    ],
+    "father": "4641_manuel_safont_pla",
+    "mother": "1927_francisca_fabregat_obiol",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel Safont Pla",
+      "Francisca Fabregat Obiol"
+    ],
+    "father_name": "Manuel Safont Pla",
+    "mother_name": "Francisca Fabregat Obiol",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Gregorio Forcada",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 2 de juny de 1807 a la Ràpita.\n\nPadrins: Gregorio Forcada \"Cabo de Cavallería de Borbón, natural de La Muela (Arz. Zaragoza) i Francisca Beltri.\n\nDefunció: el 17 d'abril de 1809 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

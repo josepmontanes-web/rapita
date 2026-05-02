@@ -1,0 +1,90 @@
+{
+  "id": "2712_lorenza_guardia_bort",
+  "source_id": "2712",
+  "row_ref": "2712. Lorenza Guardia Bort",
+  "name": "Lorenza Guardia Bort",
+  "gender": "female",
+  "birth": {
+    "date": "1814-02-14",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2745_francisco_guardia_sanchez",
+      "807_josefa_bort_lleti"
+    ],
+    "father": "2745_francisco_guardia_sanchez",
+    "mother": "807_josefa_bort_lleti",
+    "spouse": [
+      "5088_antonio_segarra_zaragoza"
+    ],
+    "children": [
+      "5054_pablo_segarra_guardia",
+      "5055_juan_segarra_guardia",
+      "5056_ramona_bibiana_segarra_guardia",
+      "5057_maria_segarra_guardia",
+      "5058_maria_de_la_cinta_segarra_guardia"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Guardia Sánchez",
+      "Josefa Bort Lletí"
+    ],
+    "father_name": "Francisco Guardia Sanchis",
+    "mother_name": "Josefa Bort Lletí",
+    "spouse_names": [
+      "Antonio Segarra Zaragoza"
+    ],
+    "children_names": [
+      "Pablo Segarra Guardia",
+      "Juan Segarra Guardia",
+      "Ramona Bibiana Segarra Guardia",
+      "Maria Segarra Guardia",
+      "Maria de la Cinta Segarra Guardia"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Ramón Padrés",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 14 de febrer de 1814 a la Ràpita.\n\nPadrins: Don Ramón Padrés i Lorenza Fornesa.\n\nCasament: el 4 de desembre de 1830 amb Antonio Segarra Zaragoza de la Ràpita [1812].\n\nFills: Pablo [1832], Juan [1834], Ramona Bibiana [1837], María [1840], María de la Cinta [1842], Engracia [1850], Francisco [1852] i Francisca [1856].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

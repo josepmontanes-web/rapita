@@ -1,0 +1,71 @@
+{
+  "id": "2932_josefa_lleonart_rodriguez",
+  "source_id": "2932",
+  "row_ref": "2932. Josefa Lleonart Rodríguez",
+  "name": "Josefa Lleonart Rodríguez",
+  "gender": "female",
+  "birth": {
+    "date": "1841-03-15",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Don José Lleonart Calpe",
+      "Doña Antonia Rodríguez López"
+    ],
+    "father_name": "Don José Lleonart Calpe",
+    "mother_name": "Doña Antonia Rodríguez López",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don José Lleonart",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 15 de març de 1841 a la Ràpita.\n\nPadrins: Don José Lleonart i Antonia Lleonart, germans de Josefa.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

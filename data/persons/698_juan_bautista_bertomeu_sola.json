@@ -1,0 +1,71 @@
+{
+  "id": "698_juan_bautista_bertomeu_sola",
+  "source_id": "698",
+  "row_ref": "698. Juan Bautista Bertomeu Solà",
+  "name": "Juan Bautista Bertomeu Solà",
+  "gender": "male",
+  "birth": {
+    "date": "1812-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1814-04-24",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Paciari Bertomeu",
+      "Maria Solà"
+    ],
+    "father_name": "Paciari Bertomeu",
+    "mother_name": "Maria Solà",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1812].\n\nDefunció: el 24 d'abril de 1814 a la Ràpita. Va morir als 2 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

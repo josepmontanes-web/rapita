@@ -1,0 +1,74 @@
+{
+  "id": "3291_lorenzo_matamoros_torta",
+  "source_id": "3291",
+  "row_ref": "3291. Lorenzo Matamoros Torta",
+  "name": "Lorenzo Matamoros Torta",
+  "gender": "male",
+  "birth": {
+    "date": "1839-10-21",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1842-04-14",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3171_jose_matamoros_biosca",
+      "5392_manuela_torta_subirats"
+    ],
+    "father": "3171_jose_matamoros_biosca",
+    "mother": "5392_manuela_torta_subirats",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Matamoros Biosca",
+      "Manuela Torta Subirats"
+    ],
+    "father_name": "José Matamoros Biosca",
+    "mother_name": "Manuela Torta Subirats",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Lorenzo Torta",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 21 d'octubre de 1839 a la Ràpita.\n\nPadrins: Lorenzo Torta i Rafaela Reverter.\n\nDefunció: el 14 d'abril de 1842 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

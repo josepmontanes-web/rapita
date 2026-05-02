@@ -1,0 +1,73 @@
+{
+  "id": "4636_thomas_safon_pasqual",
+  "source_id": "4636",
+  "row_ref": "4636. Thomas Safon Pasqual",
+  "name": "Thomas Safon Pasqual",
+  "gender": "male",
+  "birth": {
+    "date": "1806-01-09",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1810-02-03",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1668_josef_cugat_pla"
+    ],
+    "father": "1668_josef_cugat_pla",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Cugat Pla",
+      "Mariana Pasqual Fuster"
+    ],
+    "father_name": "Josef Safont Pla",
+    "mother_name": "Mariana Pasqual Fuster",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Thomas Segarra",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 9 de gener de 1806 a la Ràpita.\n\nPadrins: Tomás Segarra i Isabel Moreso.\n\nDefunció: el 3 de febrer de 1810 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

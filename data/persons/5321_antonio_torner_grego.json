@@ -1,0 +1,77 @@
+{
+  "id": "5321_antonio_torner_grego",
+  "source_id": "5321",
+  "row_ref": "5321. Antonio Torner Grego",
+  "name": "Antonio Torner Grego",
+  "gender": "male",
+  "birth": {
+    "date": "1816-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1842-12-11",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5321_antonio_torner_grego"
+    ],
+    "father": "5321_antonio_torner_grego",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "5321_antonio_torner_grego"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Torner Grego",
+      "Maria Rosa Grego"
+    ],
+    "father_name": "Antonio Torner",
+    "mother_name": "Maria Rosa Grego",
+    "spouse_names": [],
+    "children_names": [
+      "Antonio Torner Grego"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1816].\n\nDefunció: l'11 de desembre de 1842 a la Ràpita. Va morir fadrí als 26 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

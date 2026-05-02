@@ -1,0 +1,74 @@
+{
+  "id": "3220_maria_de_la_cinta_matamoros_jovani",
+  "source_id": "3220",
+  "row_ref": "3220. Maria de la Cinta   Matamoros Jovani",
+  "name": "Maria de la Cinta Matamoros Jovani",
+  "gender": "female",
+  "birth": {
+    "date": "1837-07-08",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3264_jacinto_matamoros_reverter",
+      "2872_dolores_jovani_grau"
+    ],
+    "father": "3264_jacinto_matamoros_reverter",
+    "mother": "2872_dolores_jovani_grau",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Jacinto Matamoros Reverter",
+      "Dolores Jovani Grau"
+    ],
+    "father_name": "Jacinto Matamoros Reverter",
+    "mother_name": "Dolores Jovani Grau",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Jacinto Barberá",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 8 de juliol de 1837 a la Ràpita.\n\nPadrins: Jacinto Barberá i María Reverter.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

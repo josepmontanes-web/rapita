@@ -1,0 +1,70 @@
+{
+  "id": "2277_manuela_galinchon",
+  "source_id": "2277",
+  "row_ref": "2277. Manuela Galinchón",
+  "name": "Manuela Galinchón",
+  "gender": "female",
+  "birth": {
+    "date": "1754-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1814-05-09",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Don Antonio Llobet"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1754].\n\nCasament: amb Don Antonio Llobet \"Ayudante Mayor de la Plaza de Tortosa\".\n\nDefunció: el 9 de maig de 1814 a la Ràpita. Va morir als 60 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

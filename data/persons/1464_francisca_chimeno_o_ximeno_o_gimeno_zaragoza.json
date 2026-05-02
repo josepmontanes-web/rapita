@@ -1,0 +1,68 @@
+{
+  "id": "1464_francisca_chimeno_o_ximeno_o_gimeno_zaragoza",
+  "source_id": "1464",
+  "row_ref": "1464. Francisca Chimeno [o Ximeno, o Gimeno] Zaragoza",
+  "name": "Francisca Chimeno [o Ximeno, o Gimeno] Zaragoza",
+  "gender": "female",
+  "birth": {
+    "date": "1855-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1855].\n\nCasament: el 18 de juliol de 1874 amb Bautista Torta Accensi de la Ràpita [1850].\n\nFills: Bautista [1876], Lucas [1877] i Bautista [1881]. Fill adoptiu: Tomás Fort [1876].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

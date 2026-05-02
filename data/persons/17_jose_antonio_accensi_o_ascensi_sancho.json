@@ -1,7 +1,7 @@
 {
   "id": "17_jose_antonio_accensi_o_ascensi_sancho",
   "source_id": "17",
-  "row_ref": "17",
+  "row_ref": "17. José Antonio Accensi [o Ascensi] Sancho",
   "name": "José Antonio Accensi [o Ascensi] Sancho",
   "gender": "male",
   "birth": {
@@ -21,19 +21,56 @@
     "lng": null
   },
   "family": {
-    "parents": [],
+    "parents": [
+      "2_jose_antonio_accensi",
+      "4826_madalena_sancho"
+    ],
+    "father": "2_jose_antonio_accensi",
+    "mother": "4826_madalena_sancho",
     "spouse": [],
-    "children": []
+    "children": [
+      "13_francisco_accensi_navarro",
+      "14_maria_agustina_francisca_accensi_o_asensi_navarro",
+      "15_mariana_o_maria_anna_accensi_o_asensi_navarro",
+      "16_josef_manuel_benito_accensi_o_aucenci_navarro"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
   },
   "relations_detail": {
     "parents_names": [
-      "José Ascensi",
+      "José Antonio Accensi",
       "Madalena Sancho"
     ],
+    "father_name": "José Ascensi",
+    "mother_name": "Madalena Sancho",
     "spouse_names": [
       "Francisca Navarro Paul"
     ],
-    "children_names": []
+    "children_names": [
+      "Francisco Accensi Navarro",
+      "Maria Agustina Francisca Accensi [o Asensi] Navarro",
+      "Mariana [o Maria Anna] Accensi [o Asensi] Navarro",
+      "Josef Manuel Benito Accensi [o Aucenci] Navarro"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
   },
   "occupation": {
     "title": "Pagès"

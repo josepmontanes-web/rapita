@@ -1,0 +1,81 @@
+{
+  "id": "1016_andres_carbo_sarsa",
+  "source_id": "1016",
+  "row_ref": "1016. Andrés Carbó Sarsa",
+  "name": "Andrés Carbó Sarsa",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "988_jose_carbo"
+    ],
+    "father": "988_jose_carbo",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "998_maria_teresa_carbo_christofol",
+      "999_sebastiana_carbo_cristofol"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Carbó",
+      "Maria Sarsa"
+    ],
+    "father_name": "José Carbó",
+    "mother_name": "Maria Sarsa",
+    "spouse_names": [
+      "Josefa Christofol Mayals"
+    ],
+    "children_names": [
+      "Maria Teresa Carbó Christofol",
+      "Sebastiana Carbó Cristófol"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1800].\n\nCasament: amb Josefa Christofol Mayals de Tortosa.\n\nFills: María Teresa [1823] i Sebastiana [1829].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

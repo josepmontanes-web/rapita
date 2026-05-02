@@ -1,0 +1,68 @@
+{
+  "id": "5454_vicente_ventura",
+  "source_id": "5454",
+  "row_ref": "5454. Vicente Ventura",
+  "name": "Vicente Ventura",
+  "gender": "male",
+  "birth": {
+    "date": "1841-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1845-01-25",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1841].\n\nPertanyent a la Casa de la Caritat de Tortosa.\n\nDefunció: el 25 de gener de 1845 a la Ràpita. Va morir als 4 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

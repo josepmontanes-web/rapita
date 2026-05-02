@@ -1,0 +1,71 @@
+{
+  "id": "417_buenaventura_balaguer_castella",
+  "source_id": "417",
+  "row_ref": "417. Buenaventura Balaguer Castellà",
+  "name": "Buenaventura Balaguer Castellà",
+  "gender": "male",
+  "birth": {
+    "date": "1848-03-08",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1848-03-13",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Rafael Balaguer",
+      "Nicolasa Castellà"
+    ],
+    "father_name": "Rafael Balaguer",
+    "mother_name": "Nicolasa Castellà",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 8 de març de 1848 a la Ràpita.\n\nDefunció: el 13 de març de 1848 a la Ràpita. Va morir als 5 dies.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

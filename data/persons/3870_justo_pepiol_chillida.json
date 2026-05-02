@@ -1,0 +1,74 @@
+{
+  "id": "3870_justo_pepiol_chillida",
+  "source_id": "3870",
+  "row_ref": "3870. Justo Pepiol Chillida",
+  "name": "Justo Pepiol Chillida",
+  "gender": "male",
+  "birth": {
+    "date": "1833-08-05",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3899_domingo_pepiol_pascual",
+      "1443_teresa_chillida_querol"
+    ],
+    "father": "3899_domingo_pepiol_pascual",
+    "mother": "1443_teresa_chillida_querol",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Domingo Pepiol Pascual",
+      "Teresa Chillida Querol"
+    ],
+    "father_name": "Domingo Pepiol Pascual",
+    "mother_name": "Teresa Chillida Querol",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Miguel Ballester",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 5 d'agost de 1833 a la Ràpita.\n\nPadrins: Miguel Ballester i Isabel Pepiol.\n\nCasament: amb Teresa Navarro.\n\nFills: Teresa [1860].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

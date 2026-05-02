@@ -1,0 +1,74 @@
+{
+  "id": "1657_bonifacio_cruelles_reverter",
+  "source_id": "1657",
+  "row_ref": "1657. Bonifacio Cruelles Reverter",
+  "name": "Bonifacio Cruelles Reverter",
+  "gender": "male",
+  "birth": {
+    "date": "1814-06-21",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1816-04-08",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1654_francisco_cruelles_remisa",
+      "4341_matilde_reverter_sancho"
+    ],
+    "father": "1654_francisco_cruelles_remisa",
+    "mother": "4341_matilde_reverter_sancho",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Cruelles Remisa",
+      "Matilde Reverter Sancho"
+    ],
+    "father_name": "Francisco Cruelles Remisa",
+    "mother_name": "Matilde Reverter Sancho",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Pedro Lapuente",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 21 de juny de 1814 a la Ràpita.\n\nPadrins: Juan Pedro Lapuente de Lorca i \"Dependiente de este Resguardo\" i Manuela López.\n\nDefunció: el 8 d'abril de 1816 a la Ràpita. Va morir de \"resfriado\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

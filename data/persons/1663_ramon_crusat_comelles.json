@@ -1,0 +1,75 @@
+{
+  "id": "1663_ramon_crusat_comelles",
+  "source_id": "1663",
+  "row_ref": "1663. Ramón Crusat Comelles",
+  "name": "Ramón Crusat Comelles",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Barcelona"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1789_francisca_escardo_cachot"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Crusat",
+      "Teresa Comelles"
+    ],
+    "father_name": "Francisco Crusat",
+    "mother_name": "Teresa Comelles",
+    "spouse_names": [
+      "Francisca Escardó Cachot"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Barcelona [aprox. 1800].\n\nProfessió: metge cirujà.\n\nCasament: amb Francisca Escardó Cachot de Tortosa [1800].\n\nFills: Pedro [1833] i Amalia [1835].\n\nDe l'1 de juny de 1834 al 29 de febrer de 1836 ha de pagar un lloguer de 14 Rs pel pis alt de la casa 3 de la mançana 2. (AGP.PER.LEG.1073/23 [Juan Vecino]).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "3041_carlos_lostalo_costa_i_sarriels",
+  "source_id": "3041",
+  "row_ref": "3041. Carlos Lostaló Costa i Sarriels",
+  "name": "Carlos Lostaló Costa i Sarriels",
+  "gender": "male",
+  "birth": {
+    "date": "1765-01-01",
+    "place": "Serós (Lleida)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Serós (Lleida)  [aprox. 1765]. \n\n\n\n\"Ministro de Rs. Rs.\"\n\nCasament: amb Bárbara Arnal Gómez de Manresa, es filla de Pedro de \"Carpio en Castilla la Nueva\" i de Manuela d'Ávila.\n\nFills: Lorenzo Ventura [1802] i Magín Ramón [1805].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "1367_jose_antonio_cavaller_roig",
+  "source_id": "1367",
+  "row_ref": "1367. José Antonio Cavaller Roig",
+  "name": "José Antonio Cavaller Roig",
+  "gender": "male",
+  "birth": {
+    "date": "1769-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1814-08-12",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1360_francisco_cavaller"
+    ],
+    "father": "1360_francisco_cavaller",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1363_rosa_cavalle_pinol",
+      "1364_juan_luis_cavaller_pinol",
+      "1365_benito_cavaller_pinol"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Cavaller",
+      "Ana Roig"
+    ],
+    "father_name": "Francisco Cavaller",
+    "mother_name": "Ana Roig",
+    "spouse_names": [
+      "Manuela Piñol Curto"
+    ],
+    "children_names": [
+      "Rosa Cavallé Piñol",
+      "Juan Luís Cavaller Piñol",
+      "Benito Cavaller Piñol"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1769].\n\nProfessió: pagès.\n\nCasament: amb Manuela Piñol Curto de Tivenys, filla de Pedro i Madalena també de Tivenys.\n\nFills: Rosa (Tivenys) [1797], Juan Luís [1810] i Benito [1814].\n\nDefunció: el 12 d'agost de 1814 a la Ràpita. Va morir als 45 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

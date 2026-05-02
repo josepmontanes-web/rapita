@@ -1,0 +1,89 @@
+{
+  "id": "1577_francisco_comi_castella",
+  "source_id": "1577",
+  "row_ref": "1577. Francisco Comí Castellà",
+  "name": "Francisco Comí Castellà",
+  "gender": "male",
+  "birth": {
+    "date": "1811-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1104_maria_casajust_castella"
+    ],
+    "children": [
+      "1254_francisco_castella_falco",
+      "1567_mariana_comi_beltri",
+      "1570_maria_comi_casajust",
+      "1571_jose_comi_casajust",
+      "1572_francisca_comi_casajust",
+      "1573_raymunda_comi_casajust"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Comí",
+      "Josefa Castellà"
+    ],
+    "father_name": "Francisco Comí",
+    "mother_name": "Josefa Castellà",
+    "spouse_names": [
+      "Maria Casajust Castellà"
+    ],
+    "children_names": [
+      "Francisco Castellà Falcó",
+      "Mariana Comí Beltri",
+      "Maria Comí Casajust",
+      "José Comí Casajust",
+      "Francisca Comí Casajust",
+      "Raymunda Comí Casajust"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1811].\n\nCasament: el 9 de febrer de 1835 amb María Casajust Castellà de la Ràpita [1816].\n\nFills: José [1834], Francisca [1836], Raymunda [1840], María [1843], Francisco [1845], María [1850] i Juan [1852].\n\nAl 1858 ja estava mort.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

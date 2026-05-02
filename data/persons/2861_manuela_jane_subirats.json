@@ -1,0 +1,80 @@
+{
+  "id": "2861_manuela_jane_subirats",
+  "source_id": "2861",
+  "row_ref": "2861. Manuela Jané Subirats",
+  "name": "Manuela Jané Subirats",
+  "gender": "female",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Vinaròs"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "3921_manuel_peris_jane",
+      "3922_jose_peris_jane",
+      "3923_concepcion_peris_jane",
+      "3924_ambrosio_antonio_peris_jane",
+      "3925_elvira_peris_jane"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Manuel Peris Jané",
+      "José Peris Jané",
+      "Concepción Peris Jané",
+      "Ambrosio Antonio Peris Jané",
+      "Elvira Peris Jané"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1800]. \n\nCasament: amb José Agustín Peris Puig de Vinaròs [1800].\n\nFills: Manuel [1825], José [1827], Concepción [1829], Ambrosio Antonio [1830] i Elvira [1833].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "4476_maria_romeu_ferrer",
+  "source_id": "4476",
+  "row_ref": "4476. María Romeu Ferrer",
+  "name": "María Romeu Ferrer",
+  "gender": "female",
+  "birth": {
+    "date": "1819-02-02",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1820-07-24",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4502_jose_romeu_vidiella",
+      "2063_teresa_ferrer_pinol"
+    ],
+    "father": "4502_jose_romeu_vidiella",
+    "mother": "2063_teresa_ferrer_pinol",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Romeu Vidiella",
+      "Teresa Ferrer Piñol"
+    ],
+    "father_name": "José Romeu Vidiella",
+    "mother_name": "Teresa Ferrer Piñol",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Christoval Alegret",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 2 de febrer de 1819 a la Ràpita.\n\nPadrins: Christoval Alegret i Tomasa Castellà.\n\nDefunció: el 24 de juliol de 1820 a la Ràpita. Va morir al any i mig.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

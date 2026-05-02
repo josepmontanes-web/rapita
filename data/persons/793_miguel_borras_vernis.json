@@ -1,0 +1,82 @@
+{
+  "id": "793_miguel_borras_vernis",
+  "source_id": "793",
+  "row_ref": "793. Miguel Borràs Vernis",
+  "name": "Miguel Borràs Vernis",
+  "gender": "male",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Godall"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "785_miguel_borras_moles"
+    ],
+    "father": "785_miguel_borras_moles",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "775_miguel_borras_castella",
+      "776_miguel_borras_castella",
+      "777_carlota_borras_castella"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Borràs Moles",
+      "Jerònima Vernis Murall"
+    ],
+    "father_name": "Miguel Borràs Moles",
+    "mother_name": "Jerònima Vernis Murall",
+    "spouse_names": [
+      "Carlina Castellà"
+    ],
+    "children_names": [
+      "Miguel Borràs Castellà",
+      "Carlota Borràs Castellà"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Godall [aprox. 1820].\n\nProfessió: panader.\n\nCasament: el 31 de desembre de 1841 amb Carlina Castellà Balagué de la Ràpita [1815].\n\nFills: Miguel [1842], Miguel [1843], Carlota [1846] i Dolores [1851].\n\nDefunció: el 27 de gener de 1880 a la Ràpita als 60 anys de \"cauterorragia?\". A la defunció el segon cognom es Bernis. Va fer testament davant del notari d'Ulldecona José OCallagan.\n\nJutge municipal al 1875-1877 (responsable del registre civil).\n\nVenta de Bautista Silvestre (podría ser Juan Bautista Silvestre Sanchís [1812]), labrador, a D. José Castellá (podría ser José Castellá Balaguer casat amb Francisca Borrás Vernís i fill de Mariano Castellá Cid), negociante, de una casa en el barrio de pescadores o del Puerto en las inmediaciones del Mar. Linda por un lado con la de Juan Safont (Sabio)(podría ser Juan Safont Fabregat casat amb Mariana Balagué Homedes), por otro con José Francisco Bernís (Murall) mediante calle, por detrás con la de Miguel Borrás (podría ser Miguel Borrás Vernís casat amb Carlina Castellá Balagué) y por delante con la playa. Precio 100 duros. 7 de agosto de 1846.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "132_manuela_anguera_sans",
+  "source_id": "132",
+  "row_ref": "132. Manuela Anguera Sans",
+  "name": "Manuela Anguera Sans",
+  "gender": "female",
+  "birth": {
+    "date": "1881-04-08",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "111_manuel_anguera_pla"
+    ],
+    "father": "111_manuel_anguera_pla",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel Anguera Pla"
+    ],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 8 d'abril de 1881 a la Ràpita. El pare té 33 anys i es pagès, la mare en té 29.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

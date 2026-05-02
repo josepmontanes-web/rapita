@@ -1,0 +1,73 @@
+{
+  "id": "1688_maria_rosa_curto_ripoll",
+  "source_id": "1688",
+  "row_ref": "1688. María Rosa Curto Ripoll",
+  "name": "María Rosa Curto Ripoll",
+  "gender": "female",
+  "birth": {
+    "date": "1834-12-12",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1671_francisco_curto_cavaller"
+    ],
+    "father": "1671_francisco_curto_cavaller",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Curto Cavaller",
+      "Maria Ripoll Ivañez"
+    ],
+    "father_name": "Francisco Curto Cavaller",
+    "mother_name": "Maria Ripoll Ivañez",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Balansá",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 12 de desembre de 1834 a la Ràpita.\n\nPadrins: José Balansá i Rosa Muños.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

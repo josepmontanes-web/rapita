@@ -1,0 +1,68 @@
+{
+  "id": "4183_rosa_reverte_arbo",
+  "source_id": "4183",
+  "row_ref": "4183. Rosa Reverté Arbó",
+  "name": "Rosa Reverté Arbó",
+  "gender": "female",
+  "birth": {
+    "date": "1876-03-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1876].\n\nDefunció: el 23 de maig de 1877 a la Ràpita als 14 mesos de \"enteritis\". Declara la mor al registre civil la seua padrina Agustina Balada.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

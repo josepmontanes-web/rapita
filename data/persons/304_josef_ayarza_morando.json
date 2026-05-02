@@ -1,0 +1,71 @@
+{
+  "id": "304_josef_ayarza_morando",
+  "source_id": "304",
+  "row_ref": "304. Josef Ayarza Morando",
+  "name": "Josef Ayarza Morando",
+  "gender": "male",
+  "birth": {
+    "date": "1791-09-29",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1791-09-30",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Don Francisco Ayarza",
+      "Doña M. Antonia Morando"
+    ],
+    "father_name": "Don Francisco Ayarza",
+    "mother_name": "Doña M. Antonia Morando",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 29 de setembre de 1791 a la Ràpita.\n\n\"Por el aprieto en que nació, hecho agua de socorro la madrina\".\n\nDefunció: el 30 de setembre de 1791 a la Ràpita. La mare va morir al dia següent.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

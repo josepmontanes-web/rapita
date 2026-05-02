@@ -1,0 +1,73 @@
+{
+  "id": "3185_bautista_hermogenes_matamoros_castells",
+  "source_id": "3185",
+  "row_ref": "3185. Bautista Hermogenes Matamoros Castells",
+  "name": "Bautista Hermogenes Matamoros Castells",
+  "gender": "male",
+  "birth": {
+    "date": "1833-04-19",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3251_pascual_matamoros_reverter"
+    ],
+    "father": "3251_pascual_matamoros_reverter",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pascual Matamoros Reverter",
+      "Josefa Castells Roe"
+    ],
+    "father_name": "Pascual Matamoros Reverter",
+    "mother_name": "Josefa Castells Roe",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Bautista Matamoros",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 19 d'abril de 1833 a la Ràpita.\n\nPadrins: Bautista Matamoros i Tomasa Lletí.\nProfessió: pagès.\n\nCasament: amb Manuela Sancho Bort de la Ràpita [1839].\n\nFills: Rosa [1876].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

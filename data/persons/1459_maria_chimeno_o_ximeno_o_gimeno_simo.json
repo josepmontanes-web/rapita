@@ -1,0 +1,71 @@
+{
+  "id": "1459_maria_chimeno_o_ximeno_o_gimeno_simo",
+  "source_id": "1459",
+  "row_ref": "1459. María Chimeno [o Ximeno, o Gimeno] Simó",
+  "name": "María Chimeno [o Ximeno, o Gimeno] Simó",
+  "gender": "female",
+  "birth": {
+    "date": "1790-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1792-09-04",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Ximeno",
+      "Tomasa Simó"
+    ],
+    "father_name": "Pedro Ximeno",
+    "mother_name": "Tomasa Simó",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1790].\n\nDefunció: el 4 de setembre de 1792 a la Ràpita. Va morir pàrvul.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

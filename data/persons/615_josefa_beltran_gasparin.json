@@ -1,0 +1,68 @@
+{
+  "id": "615_josefa_beltran_gasparin",
+  "source_id": "615",
+  "row_ref": "615. Josefa Beltrán Gasparín",
+  "name": "Josefa Beltrán Gasparín",
+  "gender": "female",
+  "birth": {
+    "date": "1847-01-01",
+    "place": "la mor del marit al 1891 diu que té 44 anys"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1847]. A la mor del marit al 1891 diu que té 44 anys.\n\nCasament: amb Lluís Montserrat García de la Ràpita [1841].\n\nFills: Cinta, Teresa, Luís i Juan Bautista [1881].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "3102_pascual_marco_miralles",
+  "source_id": "3102",
+  "row_ref": "3102. Pascual Marco Miralles",
+  "name": "Pascual Marco Miralles",
+  "gender": "male",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Traiguera"
+  },
+  "death": {
+    "date": "1840-04-07",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "4590_francisca_sabate"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bernabé Marco",
+      "Joaquina Miralles"
+    ],
+    "father_name": "Bernabé Marco",
+    "mother_name": "Joaquina Miralles",
+    "spouse_names": [
+      "Francisca Sabaté"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Traiguera [aprox. 1790]. \n\nCasament: amb Francisca Sabaté.\n\nDefunció: el 7 d'abril de 1840 a la Ràpita. Va morir als 50 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

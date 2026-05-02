@@ -1,0 +1,89 @@
+{
+  "id": "785_miguel_borras_moles",
+  "source_id": "785",
+  "row_ref": "785. Miguel Borràs Moles",
+  "name": "Miguel Borràs Moles",
+  "gender": "male",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "755_jose_borras"
+    ],
+    "father": "755_jose_borras",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "790_cinta_borras_vernis",
+      "791_francisca_borras_vernis",
+      "792_jose_cristobal_borras_vernis",
+      "793_miguel_borras_vernis",
+      "794_juan_borras_vernis",
+      "795_geronima_borras_vernis"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Borràs",
+      "Francisca Moles"
+    ],
+    "father_name": "José Borràs",
+    "mother_name": "Francisca Moles",
+    "spouse_names": [
+      "Gerónima Bernis Murall"
+    ],
+    "children_names": [
+      "Cinta Borràs Vernis",
+      "Francisca Borràs Vernis",
+      "José Cristobal Borràs Vernis",
+      "Miguel Borràs Vernis",
+      "Juan Borràs Vernis",
+      "Gerónima Borràs Vernis"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1790].\n\nCasament amb Jerónima Bernís Murall de Tortosa [1790].\n\nFills: Francisca (Ulldecona) [1813], Miguel (Godall) [1815], Cinta (Godall) [1816], José [1817], Juan (Alcanar) [1832] i Gerónima [1835].\n\nDe l'1 d'abril de 1836 al 31 de juliol de 1839 ha de pagar un lloguer de 28 Rs mensuals pel pis de terra de la casa 2 de la mançana 4 (antiga casa 11). (AGP.PER.LEG.1073/23 [Juan Vecino]).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

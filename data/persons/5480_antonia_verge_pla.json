@@ -1,0 +1,81 @@
+{
+  "id": "5480_antonia_verge_pla",
+  "source_id": "5480",
+  "row_ref": "5480. Antonia Verge Pla",
+  "name": "Antonia Verge Pla",
+  "gender": "female",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Ulldecona"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "5608_antonio_villalta_masip"
+    ],
+    "children": [
+      "5609_manuel_josef_villalta_verge",
+      "5610_francisco_pedro_villalta_verge"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Verge",
+      "Manuela Pla"
+    ],
+    "father_name": "Pedro Verge",
+    "mother_name": "Manuela Pla",
+    "spouse_names": [
+      "Antonio Villalta Masip"
+    ],
+    "children_names": [
+      "Manuel Josef Villalta Verge",
+      "Francisco Pedro Villalta Verge"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Ulldecona [aprox. 1800].\n\nCasament: amb Antonio Villalta Masip d'Ulldecona [1800].\n\nFills: Manuel José [1825] i Francisco Pedro [1826].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

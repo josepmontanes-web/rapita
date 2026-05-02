@@ -1,0 +1,83 @@
+{
+  "id": "791_francisca_borras_vernis",
+  "source_id": "791",
+  "row_ref": "791. Francisca Borràs Vernis",
+  "name": "Francisca Borràs Vernis",
+  "gender": "female",
+  "birth": {
+    "date": "1813-01-01",
+    "place": "Ulldecona"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "785_miguel_borras_moles"
+    ],
+    "father": "785_miguel_borras_moles",
+    "mother": null,
+    "spouse": [
+      "1180_jose_castella_balaguer"
+    ],
+    "children": [
+      "1188_jose_castella_borras",
+      "1191_francisca_castella_borras"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Borràs Moles",
+      "Jerònima Vernis Murall"
+    ],
+    "father_name": "Miguel Borràs Moles",
+    "mother_name": "Jerònima Vernis Murall",
+    "spouse_names": [
+      "José Castellà Balaguer"
+    ],
+    "children_names": [
+      "José Castellà Borràs",
+      "Francisca Castellà Borràs"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Ulldecona [aprox. 1813].\n\nCasament: el 13 d'agost de 1835 amb José Castellà Balaguer de la Ràpita [1813]. Es casa als 22 anys.\n\nFills: José [1836], María [1837], Miguel [1842] i Francisca [1844].\n\nJoaquín Fernández y [] [podría ser el marit de Dolores Ibañez] en consideración a que el primer día del mes de setiembre de 1856 por el [] Bayle General del Real Patrimonio de S.M. de Cataluña en escritura pública otorgada por ante el escribano de Nº y colegio [] y de Baylia D. Jayme Burgues? Le fuera? el establecimiento y en enfiteusis cedidos en el Real nombre de S.M. 2 [] de terreno para edificar integrados en el reducto? de la población de San Carlos de la Rápita de las cuales el [] en la calle de San Francisco lindante con otra calle nombrada de la mar, por otro con casa? de Pablo Goday y por otro con una calle sin nombre conteniendo todo unos 300 palmos cuadrados catalanes superficie y en consideración a que dicho Fernández aceptó dicho establecimiento [] en cuanto a este patio por el precio de 776  16[] en que fue [] por consortes José Castellá y Balagué y Francisca Borrás y Bernís propietarios por haber satisfecho su [] parte entrada y [] gastos competentes. Por tanto dicho Fernández se aparta? De cualquier derecho que [] pertenezca sobre dicho terreno encargándose …\n10 de junio de 1857\nNotari: D. Juan Ventose? De Amposta.\nReconocimiento: Joaquín Fernández de San Carlos a José Castellá y Francisca Borrás.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

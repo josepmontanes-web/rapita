@@ -1,0 +1,73 @@
+{
+  "id": "4692_gregorio_samper_llorens",
+  "source_id": "4692",
+  "row_ref": "4692. Gregorio Samper Llorens",
+  "name": "Gregorio Samper Llorens",
+  "gender": "male",
+  "birth": {
+    "date": "1829-06-12",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4699_vicente_samper_moncho"
+    ],
+    "father": "4699_vicente_samper_moncho",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Samper Moncho",
+      "Rosa Llorens García"
+    ],
+    "father_name": "Vicente Sempere Moncho",
+    "mother_name": "Rosa Llorens García",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Mariano Puigcervé",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 12 de juny de 1829 a la Ràpita. A la partida de bateig el cognom es Sempere.\n\nPadrins: Mariano Puigcervé i Vicenta Llorens.\n\nCasament: amb Agustina Guardino de Vinaròs.\n\nFills: Josefa [1850], Gregorio [1853] i Rosa [1860].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

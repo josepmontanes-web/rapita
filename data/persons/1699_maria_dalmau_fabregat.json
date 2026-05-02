@@ -1,0 +1,93 @@
+{
+  "id": "1699_maria_dalmau_fabregat",
+  "source_id": "1699",
+  "row_ref": "1699. María Dalmau Fabregat",
+  "name": "María Dalmau Fabregat",
+  "gender": "female",
+  "birth": {
+    "date": "1764-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1834-02-14",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1343_francisco_castella_zaragoza"
+    ],
+    "children": [
+      "1246_maria_castella_dalmau",
+      "1247_teresa_castella_dalmau",
+      "1248_francisco_castella_dalmau",
+      "1249_pablo_castella_dalmau",
+      "1250_mariano_castella_dalmau",
+      "1251_juan_antonio_castella_dalmau",
+      "1252_francisca_castella_dalmau",
+      "1253_francisca_teresa_castella_dalmau"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Dalmau",
+      "Josefa Fabregat"
+    ],
+    "father_name": "Pedro Dalmau",
+    "mother_name": "Josefa Fabregat",
+    "spouse_names": [
+      "Francisco Castellà Zaragoza"
+    ],
+    "children_names": [
+      "María Castellà Dalmau",
+      "Teresa Castellà Dalmau",
+      "Francisco Castellà Dalmau",
+      "Pablo Castellà Dalmau",
+      "Mariano Castellà Dalmau",
+      "Juan Antonio Castellà Dalmau",
+      "Francisca Castellà Dalmau",
+      "Francisca Teresa Castellà Dalmau"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1764].\n\nCasament: amb Francisco Castellà Zaragoza de Tortosa [1760].\n\nFills: Teresa [1785], Francisca (Tortosa) [1788], María [1793], Francisca Teresa [1797], Francisco [1801], Pablo [1801], Juan Antonio [1803] i Mariano [1805].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu al barri dels pescadors  (ACA BGRP Cajas 34).\n\nDefunció: el 14 de febrer de 1834 a la Ràpita. Va morir als 70 anys. \"Hizo testamento ante Francisco Queralt y Rubio de Tortosa el día 14 de mayo de 1832. Dotó su alma en 120 libras ardites\".\n\nEs germana de Joaquina Dalmau Fabregat [1795] i Candia Dalmau Fabregat [1800].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

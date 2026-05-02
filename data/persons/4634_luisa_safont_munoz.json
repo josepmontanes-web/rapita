@@ -1,0 +1,74 @@
+{
+  "id": "4634_luisa_safont_munoz",
+  "source_id": "4634",
+  "row_ref": "4634. Luísa Safont Muñoz",
+  "name": "Luísa Safont Muñoz",
+  "gender": "female",
+  "birth": {
+    "date": "1842-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1843-07-05",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4638_pedro_safont_pasqual",
+      "3577_rosa_munoz_thomas"
+    ],
+    "father": "4638_pedro_safont_pasqual",
+    "mother": "3577_rosa_munoz_thomas",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Safont Pasqual",
+      "Rosa Muñoz Thomas"
+    ],
+    "father_name": "Pedro Safont Pasqual",
+    "mother_name": "Rosa Muñoz Thomas",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1842]. \n\nDefunció: el 5 de juliol de 1843 a la Ràpita. Va morir al any.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

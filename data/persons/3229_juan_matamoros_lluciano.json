@@ -1,0 +1,78 @@
+{
+  "id": "3229_juan_matamoros_lluciano",
+  "source_id": "3229",
+  "row_ref": "3229. Juan Matamoros Lluciano",
+  "name": "Juan Matamoros Lluciano",
+  "gender": "male",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Benicarló"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3160_juan_matamoros",
+      "3053_clara_luciano_collado"
+    ],
+    "father": "3160_juan_matamoros",
+    "mother": "3053_clara_luciano_collado",
+    "spouse": [
+      "4389_rafaela_reverter_vidal"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Matamoros",
+      "Clara Luciano Collado"
+    ],
+    "father_name": "Juan Matamoros",
+    "mother_name": "Clara Luciano Collado",
+    "spouse_names": [
+      "Rafaela Reverter Vidal"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Benicarló [aprox. 1820]. \n\nCasament: el 22 de maig de 1841 amb Rafaela Reverter Vidal de Traiguera [1820].\n\nFills: Jacinto [1850], Teresa [1950] i Maria [1854].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

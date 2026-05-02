@@ -1,0 +1,77 @@
+{
+  "id": "370_francisca_balada_reverter",
+  "source_id": "370",
+  "row_ref": "370. Francisca Balada Reverter",
+  "name": "Francisca Balada Reverter",
+  "gender": "female",
+  "birth": {
+    "date": "1831-10-03",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "324_rafael_balada_balada"
+    ],
+    "father": "324_rafael_balada_balada",
+    "mother": null,
+    "spouse": [
+      "4281_ramon_reverte_izquierdo"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Rafael Balada Balada",
+      "Peregrina Reverter Obiol"
+    ],
+    "father_name": "Rafael Balada Balada",
+    "mother_name": "Peregrina Reverter Obiol",
+    "spouse_names": [
+      "Ramon Reverté Izquierdo"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Pedro Navarro",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 3 d'octubre de 1831 a la Ràpita.\n\nPadrins: Pedro Navarro i Raymunda Balada.\n\nCasament: el 30 de gener de 1850 amb Ramón Reverté Izquierdo de la Ràpita [1828].\n\n Fills: Ramón [1855] i María [1862].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

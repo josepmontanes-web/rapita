@@ -1,0 +1,74 @@
+{
+  "id": "134_salvador_anguera_subirats",
+  "source_id": "134",
+  "row_ref": "134. Salvador Anguera Subirats",
+  "name": "Salvador Anguera Subirats",
+  "gender": "male",
+  "birth": {
+    "date": "1843-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1844-09-09",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "131_jayme_anguera_sancho",
+      "5203_madalena_subirats_obiol"
+    ],
+    "father": "131_jayme_anguera_sancho",
+    "mother": "5203_madalena_subirats_obiol",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Jayme Anguera Sancho",
+      "Madalena Subirats Obiol"
+    ],
+    "father_name": "Jayme Anguera Sancho",
+    "mother_name": "Madalena Subirats Obiol",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  [aprox. 1843].\n\nDefunció: el 9 de setembre de 1844 a la Ràpita. Va morir pàrvul d'un any.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

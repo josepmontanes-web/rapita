@@ -1,0 +1,84 @@
+{
+  "id": "2378_vicente_garcia_valero",
+  "source_id": "2378",
+  "row_ref": "2378. Vicente García Valero",
+  "name": "Vicente García Valero",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Benidorm"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2288_vicente_garcia",
+      "5419_esperanza_valero"
+    ],
+    "father": "2288_vicente_garcia",
+    "mother": "5419_esperanza_valero",
+    "spouse": [
+      "1017_peregrina_carbonell_gallart"
+    ],
+    "children": [
+      "2310_eleuterio_garcia_bonet",
+      "2315_tadea_garcia_carbonell"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente García",
+      "Esperanza Valero"
+    ],
+    "father_name": "Vicente García",
+    "mother_name": "Esperanza Valero",
+    "spouse_names": [
+      "Peregrina Carbonell Gallart"
+    ],
+    "children_names": [
+      "Eleuterio García Bonet",
+      "Tadea Garcia Carbonell"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Benidorm [aprox. 1800].\n\nCasament: amb Peregrina Carbonell Gallart de València [1800].\n\nFills: Tadea [1834].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

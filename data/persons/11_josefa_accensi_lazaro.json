@@ -1,12 +1,12 @@
 {
   "id": "11_josefa_accensi_lazaro",
   "source_id": "11",
-  "row_ref": "11",
+  "row_ref": "11. Josefa Accensi Lazaro",
   "name": "Josefa Accensi Lazaro",
   "gender": "female",
   "birth": {
     "date": "1825-01-01",
-    "place": "Santa Barbara"
+    "place": "Santa Bàrbara"
   },
   "death": {
     "date": null,
@@ -22,20 +22,55 @@
   },
   "family": {
     "parents": [
-      "5_ramon_accensi"
+      "5_ramon_accensi",
+      "2916_maria_lazaro_domenech"
     ],
-    "spouse": [],
-    "children": []
+    "father": "5_ramon_accensi",
+    "mother": "2916_maria_lazaro_domenech",
+    "spouse": [
+      "1889_jose_esteve_millan"
+    ],
+    "children": [
+      "1874_0_1900",
+      "1875_0_1877",
+      "1876_0_1950"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
   },
   "relations_detail": {
     "parents_names": [
       "Ramón Accensi",
-      "Maria Lazaro"
+      "María Lázaro Domenech"
     ],
+    "father_name": "Ramon Accensi",
+    "mother_name": "Maria Lazaro",
     "spouse_names": [
       "José Esteve Millán"
     ],
-    "children_names": []
+    "children_names": [
+      "0 1900",
+      "0 1877",
+      "0 1950"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
   },
   "occupation": {
     "title": null

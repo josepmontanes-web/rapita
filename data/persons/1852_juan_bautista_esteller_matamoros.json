@@ -1,0 +1,83 @@
+{
+  "id": "1852_juan_bautista_esteller_matamoros",
+  "source_id": "1852",
+  "row_ref": "1852. Juan Bautista Esteller Matamoros",
+  "name": "Juan Bautista Esteller Matamoros",
+  "gender": "male",
+  "birth": {
+    "date": "1770-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1871_juan_bautista_esteller_valles",
+      "3157_maria_matamoros"
+    ],
+    "father": "1871_juan_bautista_esteller_valles",
+    "mother": "3157_maria_matamoros",
+    "spouse": [
+      "3664_josefa_navarro_paulo"
+    ],
+    "children": [
+      "1861_0_1900",
+      "1862_0_1900"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Bautista Esteller Vallés",
+      "Maria Matamoros"
+    ],
+    "father_name": "Juan Bautista Esteller",
+    "mother_name": "María Matamoros",
+    "spouse_names": [
+      "Josefa Navarro Paulo"
+    ],
+    "children_names": [
+      "0 1900"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1770].\n\nCasament: amb Josefa Navarro Paulo de la Vall d'Uixó [1775].\n\nFills: Mariana [1796] i Francisco [1800].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Mansana Vella (carrer del Forn) núm. 20 (ACA BGRP Cajas 34). Al gener de 1799 paga un lloguer de 8 Rv per la mateixa casa. Al juny de 1799 passa a la casa 19 pagant 10 Rv.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

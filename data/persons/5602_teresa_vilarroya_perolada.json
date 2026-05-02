@@ -1,0 +1,81 @@
+{
+  "id": "5602_teresa_vilarroya_perolada",
+  "source_id": "5602",
+  "row_ref": "5602. Teresa Vilarroya Perolada",
+  "name": "Teresa Vilarroya Perolada",
+  "gender": "female",
+  "birth": {
+    "date": "1777-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1847-05-12",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5599_miguel_vilarroya_balanza"
+    ],
+    "father": "5599_miguel_vilarroya_balanza",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "3557_francisco_moya_vilarroya",
+      "3560_maria_francisca_moya_vilarroya"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Vilarroya Balanzá",
+      "Maria Perolada"
+    ],
+    "father_name": "Miguel Vilarroya",
+    "mother_name": "Maria Perolada",
+    "spouse_names": [
+      "Juan Moya Oruspina"
+    ],
+    "children_names": [
+      "Francisco Moya Vilarroya",
+      "Maria Francisca Moya Vilarroya"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1777].\n\nCasament: amb Juan Moya Oruspina d'Orino (Italia) [1753]. A l'estat de veïns de setembre de 1798 diu que viuen a la casa núm. 40 de la \"Calle Mayor\" (ACA BGRP Cajas 34).\n\nFills: Francisco [1794], Juan Francisco [1796], Rosa [1797], Francisco Juan [1799], María Francisca [1801], Juan Francisco [1804], Francisca [1806] i Juan [1808].\n\nDefunció: el 12 de maig de 1847 a la Ràpita. Va morir als 70 anys. No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

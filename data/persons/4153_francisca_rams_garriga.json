@@ -1,0 +1,74 @@
+{
+  "id": "4153_francisca_rams_garriga",
+  "source_id": "4153",
+  "row_ref": "4153. Francisca Rams Garriga",
+  "name": "Francisca Rams Garriga",
+  "gender": "female",
+  "birth": {
+    "date": "1836-05-26",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4155_andres_rams_puell",
+      "2383_magdalena_garriga_segura"
+    ],
+    "father": "4155_andres_rams_puell",
+    "mother": "2383_magdalena_garriga_segura",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Andrés Rams Puell",
+      "Magdalena Garriga Segura"
+    ],
+    "father_name": "Andrés Rams Puell",
+    "mother_name": "Magdalena Garriga Segura",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Balaguer",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 26 de maig de 1836 a la Ràpita.\n\nPadrins: José Balaguer i Francisca Adell.\n\nCasament: amb Domingo Vizcarro d'Ulldecona.\n\nFills: Francisca [1855] i Agustí [1867].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

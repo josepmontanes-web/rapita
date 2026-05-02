@@ -1,0 +1,95 @@
+{
+  "id": "4558_ramon_rosales_valls",
+  "source_id": "4558",
+  "row_ref": "4558. Ramón Rosales Valls",
+  "name": "Ramón Rosales Valls",
+  "gender": "male",
+  "birth": {
+    "date": "1801-01-01",
+    "place": "Areñs de Aragón"
+  },
+  "death": {
+    "date": "1846-11-12",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4548_antonio_rosales_sole"
+    ],
+    "father": "4548_antonio_rosales_sole",
+    "mother": null,
+    "spouse": [
+      "1235_antonia_castella_colomines"
+    ],
+    "children": [
+      "4506_manuel_pascual_rosales_castella",
+      "4507_jose_antonio_rosales_castella",
+      "4508_francisco_rosales_castella",
+      "4509_miguel_rosales_castella",
+      "4510_manuel_rosales_castella",
+      "4511_manuela_rosales_castella",
+      "4512_juan_bautista_rosales_castella",
+      "4513_ramon_rosales_castella"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Rosales Solé",
+      "Teresa Valls"
+    ],
+    "father_name": "Antonio Rosales Solé",
+    "mother_name": "Teresa Valls",
+    "spouse_names": [
+      "Antonia Castellà Colomines"
+    ],
+    "children_names": [
+      "Manuel Pascual Rosales Castellà",
+      "José Antonio Rosales Castellà",
+      "Francisco Rosales Castellà",
+      "Miguel Rosales Castellà",
+      "Manuel Rosales Castellà",
+      "Manuela Rosales Castellà",
+      "Juan Bautista Rosales Castellà",
+      "Ramón Rosales Castellà"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Arenys de Lledó (Terol) [aprox. 1801]. \n\nCasament: el 8 de juny de 1821 amb Antonia Castellà Colomines de Tortosa [1800].\n\nFills: Ramón [1822], Manuel Pascual [1825], José Antonio [1827], Miguel [1829], Juan Bautista [1831], Manuel [1832], Francisco [1835] i Manuela [1838].\n\nDefunció: el 12 de novembre de 1846 a la Ràpita. Va morir als 45 anys de \"enfermedad: mal de costado\". Va fer testament davant de Vicente Sabater.\n\nDivisión: Los hermanos Manuel, Miguel y Francisco Rosales (Castellà?) y Daniela Capara viuda del difunto hermano José, en representación de sus hijos ¿?, Ramón y José, ¿? Con su primera difunta esposa Josefa Cid (Arlández?) … de Mª Rosales hija de dicha Daniela y del difunto José Rosales, todos … testamentaria … proceden a la división de los bienes que fueron de su difunto padre llamado Ramón (Rosales Valls) … en aquellas dos casas sitas en la marina o bajos de la población de San Carlos en la calle de San Roque. Linda la una con Antonio Rosales, con Vicente Beltran y por detrás con tierras de Mariano Castellá. Ha sido justipreciada en 224 duros. Y la otra, linda con Tomás Navarro, con Juan Balaguer y por detrás con casa de José Navarro. Precio ¿? Y en total 352 duros … y una cuarta parte a cada uno … 88. Procedieron a la división en la forma siguiente: Manuel tomó la mitad de la casa de la calle San Roque, Daniela Capara acepta la otra mitad de esta casa, desde el primer piso hacia arriba. Francisco tomó … y toda aquella otra casa … antigua… 18 de mayo de 1858. Esc. Juan Ventosa de Amposta.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

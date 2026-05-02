@@ -1,0 +1,73 @@
+{
+  "id": "4372_jose_reverter_talarn",
+  "source_id": "4372",
+  "row_ref": "4372. José Reverter Talarn",
+  "name": "José Reverter Talarn",
+  "gender": "male",
+  "birth": {
+    "date": "1838-08-07",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4261_juan_reverter_forner"
+    ],
+    "father": "4261_juan_reverter_forner",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Reverter Forner",
+      "Rosa Talarn Bosch"
+    ],
+    "father_name": "Juan Reverter Forner",
+    "mother_name": "Rosa Talarn Bosch",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Josef Ferrer",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 7 d'agost de 1838 a la Ràpita.\n\nPadrins: José Ferrer i Rafaela Talarn.\n\nCasament: amb Consuelo Sánchez Cid de la Ràpita [1846].\n\nFills: Magín, Consuelo i Maria.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

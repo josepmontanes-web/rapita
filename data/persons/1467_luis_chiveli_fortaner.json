@@ -1,0 +1,79 @@
+{
+  "id": "1467_luis_chiveli_fortaner",
+  "source_id": "1467",
+  "row_ref": "1467. Luis Chiveli Fortaner",
+  "name": "Luis Chiveli Fortaner",
+  "gender": "male",
+  "birth": {
+    "date": "1775-01-01",
+    "place": "Portell de Morella"
+  },
+  "death": {
+    "date": "1799-09-16",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3826_francisca_pasqual_fuster"
+    ],
+    "children": [
+      "1468_juan_luis_chiveli_pasqual"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Chiveli",
+      "Maria Fortaner"
+    ],
+    "father_name": "Pedro Chiveli",
+    "mother_name": "Maria Fortaner",
+    "spouse_names": [
+      "Francisca Pasqual Fuster"
+    ],
+    "children_names": [
+      "Juan Luís Chiveli Pasqual"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Portell de Morella [aprox. 1775].\n\nCasament: el 13 d'abril de 1798 amb Francisca Pasqual Fuster de Vinaròs [1778]. Testimonis: Francisco Stopani i Lorenzo Casadevall.\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu al barri dels pescadors  (ACA BGRP Cajas 34).\n\nFills: Juan Luís [1798].\n\nDefunció: el 16 de setembre de 1799 a la Ràpita. No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

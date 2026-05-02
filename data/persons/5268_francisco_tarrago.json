@@ -1,0 +1,76 @@
+{
+  "id": "5268_francisco_tarrago",
+  "source_id": "5268",
+  "row_ref": "5268. Francisco Tarragó",
+  "name": "Francisco Tarragó",
+  "gender": "male",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Vinaròs"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "5269_dolores_tarrago_urquisu",
+      "5270_francisco_tarrago_urquisu"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Agustina Urquisu"
+    ],
+    "children_names": [
+      "Dolores Tarragó Urquisu",
+      "Francisco Tarragó Urquisu"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1790]. \n\nCasament: amb Agustina Urquisu de Benicarló.\n\nFills: Dolores (Vinaròs) [1817] i Francisco [1820].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

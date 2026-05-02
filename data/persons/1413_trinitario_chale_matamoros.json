@@ -1,0 +1,68 @@
+{
+  "id": "1413_trinitario_chale_matamoros",
+  "source_id": "1413",
+  "row_ref": "1413. Trinitario Chalé Matamoros",
+  "name": "Trinitario Chalé Matamoros",
+  "gender": "male",
+  "birth": {
+    "date": "1857-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1857].\n\nProfessió: pagès.\n\nCasament: el 28 d'abril de 1883 amb Teresa Roig Solà de Masdenverge [1858]. Es casa als 25 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

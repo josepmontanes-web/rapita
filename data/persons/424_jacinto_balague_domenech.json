@@ -1,0 +1,75 @@
+{
+  "id": "424_jacinto_balague_domenech",
+  "source_id": "424",
+  "row_ref": "424. Jacinto Balagué Domenech",
+  "name": "Jacinto Balagué Domenech",
+  "gender": "male",
+  "birth": {
+    "date": "1832-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3692_barbara_navarro_vidal"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Sebatián Balagué",
+      "Francisca Domenech"
+    ],
+    "father_name": "Sebatián Balagué",
+    "mother_name": "Francisca Domenech",
+    "spouse_names": [
+      "Barbara Navarro Vidal"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Zoguero"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1832].\n\nProfessió: Soguero.\n\nCasament: el 27 de gener de 1855 amb Bàrbara Navarro Vidal de la Ràpita [1827].\n\nFills: Antonio [1860].\n\nCasament: amb Francisca Peris Nicolau de València [1840].\n\nFills: Jacinto [1876], Juan Bautista [1878] i Carlota [1880].\n\nVenta: de Mariano Castellá y Cid, propietario, a Jacinto Balaguer y Domenech, soguero, de sitio para edificar que comprende de ancho por la parte de la calle del Mar o de Pescadores, carretera de la Encañizada 24 palmos por 50 de fondo. Linda a oriente con terreno de Vicente Ferrer y Nadal, a mediodía con dicha calle o camino, a poniente con terreno vendido el mismo día a Bautista Castellá y al norte con su expresada restante hacienda. Con el pacto que de dichos 50 palmos de fondo sólo podrá obrar o edificar 46 y debiendo poner aún por dicha parte de detrás rejas en las puertas o ventanas; pudiendo empero echar aguas pluviales. 4 de febrero de 1859. Esc. Juan Ventosa de Amposta. Valor 900.\n\nCasament: el 12 de febrer de 1883 amb Teresa Carreres de Barcelona [1858] (filla de pares desconeguts). Es casa als 48 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

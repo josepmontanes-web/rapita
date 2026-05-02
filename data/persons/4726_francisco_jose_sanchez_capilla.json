@@ -1,0 +1,74 @@
+{
+  "id": "4726_francisco_jose_sanchez_capilla",
+  "source_id": "4726",
+  "row_ref": "4726. Francisco José Sánchez Capilla",
+  "name": "Francisco José Sánchez Capilla",
+  "gender": "male",
+  "birth": {
+    "date": "1816-04-26",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1831-03-15",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4767_blas_sanchez_marin",
+      "976_florencia_capilla_macian"
+    ],
+    "father": "4767_blas_sanchez_marin",
+    "mother": "976_florencia_capilla_macian",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Blas Sánchez Marín",
+      "Florencia Capilla Macián"
+    ],
+    "father_name": "Blas Sánchez Marín",
+    "mother_name": "Florencia Capilla Macián",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Vidal",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 26 d'abril de 1816 a la Ràpita.\n\nPadrins: Francisco Vidal i Rosa Moya.\n\nDefunció: el 15 de març de 1831 a la Ràpita. Va morir de \"gangrena\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

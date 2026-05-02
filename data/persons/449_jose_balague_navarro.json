@@ -1,0 +1,93 @@
+{
+  "id": "449_jose_balague_navarro",
+  "source_id": "449",
+  "row_ref": "449. José Balagué Navarro",
+  "name": "José Balagué Navarro",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "434_juan_jayme_balague_grego"
+    ],
+    "father": "434_juan_jayme_balague_grego",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "383_maria_theresa_balaguer_balaguer",
+      "384_narcisa_balague_balague",
+      "385_lucia_o_luisa_balague_balague",
+      "386_jose_balague_balague",
+      "387_josefa_balague_balague",
+      "388_domingo_balague_balague",
+      "458_rafael_balague_riba",
+      "3613_maria_josefa_navarro_castella"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Jayme Balagué Grego",
+      "Lucia Navarro"
+    ],
+    "father_name": "Juan Jayme Balagué",
+    "mother_name": "Lucia Navarro",
+    "spouse_names": [
+      "Rosa Balagué Homedes"
+    ],
+    "children_names": [
+      "Maria Theresa Balaguer Balaguer",
+      "Narcisa Balagué Balagué",
+      "Lucía [o Luísa] Balagué Balagué",
+      "José Balagué Balagué",
+      "Josefa Balagué Balagué",
+      "Domingo Balagué Balagué",
+      "Rafael Balagué Riba",
+      "María Josefa Navarro Castellà"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1800].\n\nCasament: el 16 d'agost de 1828 amb Rosa Balagué Homedes de Tortosa [1800].\n\nFills: Lucía [1828], José [1831], Narcisa [1833], María Teresa [1837], Josefa [1840] i Domingo [1843].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

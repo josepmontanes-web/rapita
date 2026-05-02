@@ -1,0 +1,68 @@
+{
+  "id": "5330_joana_torrent_jorda",
+  "source_id": "5330",
+  "row_ref": "5330. Joana Torrent Jordà",
+  "name": "Joana Torrent Jordà",
+  "gender": "female",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Vinaròs"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1800].\n\nCasament: amb Bautista Arnau de Vinaròs.\n\nFills: Bautista [1837] i Cristobal [1850].\n\nDefunció: el 16 de maig de 1878 a la Ràpita al domicili del seu fill Cristobal. Mor de \"apoplegia cerebral\" als 78 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

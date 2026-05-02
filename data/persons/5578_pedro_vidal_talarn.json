@@ -1,0 +1,74 @@
+{
+  "id": "5578_pedro_vidal_talarn",
+  "source_id": "5578",
+  "row_ref": "5578. Pedro Vidal Talarn",
+  "name": "Pedro Vidal Talarn",
+  "gender": "male",
+  "birth": {
+    "date": "1793-03-11",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1794-05-18",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5537_joaquin_vidal_palos",
+      "5259_teresa_talarn_valldeperez"
+    ],
+    "father": "5537_joaquin_vidal_palos",
+    "mother": "5259_teresa_talarn_valldeperez",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Vidal Palos",
+      "Teresa Talarn Valldeperez"
+    ],
+    "father_name": "Joaquín Vidal Palos",
+    "mother_name": "Teresa Talarn Valldeperez",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Pedro Ferran",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'11 de març de 1793 a la Ràpita.\n\nPadrins: Pedro Ferran i Teresa Valldeperez.\n\nDefunció: el 18 de maig de 1794 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

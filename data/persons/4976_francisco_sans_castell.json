@@ -1,0 +1,87 @@
+{
+  "id": "4976_francisco_sans_castell",
+  "source_id": "4976",
+  "row_ref": "4976. Francisco Sans Castell",
+  "name": "Francisco Sans Castell",
+  "gender": "male",
+  "birth": {
+    "date": "1797-01-09",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1834-08-29",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1152_mariana_castell_ortiz"
+    ],
+    "father": null,
+    "mother": "1152_mariana_castell_ortiz",
+    "spouse": [],
+    "children": [
+      "4954_jose_francisco_sans_harlandes",
+      "4955_teresa_paula_sans_arlandez",
+      "4956_rosa_pascuala_sans_arlandez",
+      "4957_felicia_sans_arlandez",
+      "4958_arcangel_sans_arlandes"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Sans Sanarau",
+      "Mariana Castell Ortíz"
+    ],
+    "father_name": "Josef Sans Sanarau",
+    "mother_name": "Mariana Castell Ortiz",
+    "spouse_names": [
+      "Rosa Arlández Cavaller"
+    ],
+    "children_names": [
+      "José Francisco Sans Harlandes",
+      "Teresa Paula Sans Arlández",
+      "Rosa Pascuala Sans Arlández",
+      "Felicia Sans Arlández",
+      "Arcangel Sans Arlandes"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Cartes",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 9 de gener de 1797 a la Ràpita.\n\nPadrins: Francisco Cartes i Agueda Alegret.\n\nCasament: el 13 de febrer de 1822 amb Rosa Arlández Cavaller de les Salines dels Alfacs [1797].\n\nFills: José Francisco [1823], Teresa Paula [1826], Rosa Pascuala [1829], Felicia [1831] i Arcangel [1834].\n\nDefunció: el 29 d'agost de 1834 a la Ràpita. Va morir de \"un cólico nervioso\". No fa testament. S'enterra el mateix dia.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "5334_agustin_torres_julve",
+  "source_id": "5334",
+  "row_ref": "5334. Agustín Torres Julve",
+  "name": "Agustín Torres Julve",
+  "gender": "male",
+  "birth": {
+    "date": "1824-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1826-04-23",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5335_joaquin_torres_serret"
+    ],
+    "father": "5335_joaquin_torres_serret",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Torres Serret",
+      "Teresa Julve"
+    ],
+    "father_name": "Joaquín Torres",
+    "mother_name": "Teresa Julve",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1824].\n\nDefunció: el 23 d'abril de 1826 a la Ràpita. Va morir als 2 anys i mig de \"enfermedad espasmódica\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

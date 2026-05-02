@@ -1,0 +1,79 @@
+{
+  "id": "1340_maria_francisca_castella_vilas",
+  "source_id": "1340",
+  "row_ref": "1340. María Francisca Castellà Vilàs",
+  "name": "María Francisca Castellà Vilàs",
+  "gender": "female",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1165_salvador_castella"
+    ],
+    "father": "1165_salvador_castella",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "3860_maria_francisca_pedro_castella"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Salvador Castellà",
+      "María Antonia Vilàs o Vilaró"
+    ],
+    "father_name": "Salvador Castellà",
+    "mother_name": "María Antonia Vilàs o Vilaró",
+    "spouse_names": [
+      "Jayme Pedro del Campo"
+    ],
+    "children_names": [
+      "María Francisca Pedro Castellà"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1790].\n\nCasament: amb Jayme Pedro del Campo de Tortosa, fill de José i María també de Tortosa.\n\nFills: Maria Francisca naix el 13 de febrer de 1814 a la Ràpita. Els padrins són Domingo Comí i Teresa Castellà.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

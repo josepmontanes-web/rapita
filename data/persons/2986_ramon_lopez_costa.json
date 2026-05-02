@@ -1,0 +1,80 @@
+{
+  "id": "2986_ramon_lopez_costa",
+  "source_id": "2986",
+  "row_ref": "2986. Ramón López Costa",
+  "name": "Ramón López Costa",
+  "gender": "male",
+  "birth": {
+    "date": "1770-01-01",
+    "place": "Baza (Granada)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2978_manuel_lopez",
+      "1614_ana_costa"
+    ],
+    "father": "2978_manuel_lopez",
+    "mother": "1614_ana_costa",
+    "spouse": [],
+    "children": [
+      "2984_jose_antonio_lopez_barbera"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel López",
+      "Ana Costa"
+    ],
+    "father_name": "Manuel López",
+    "mother_name": "Ana Costa",
+    "spouse_names": [
+      "Mª. Antonia Barberà Sabater"
+    ],
+    "children_names": [
+      "José Antonio López Barberà"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Baza (Granada)  [aprox. 1770]. \n\nCasament: amb María Antonia Barberà Sabater de la Freixneda [1770].\n\nFills: José Antonio [1794].\n\nEs germà de María López Costa [1771], també podría ser germà de José López [1770] però no es segur.\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Fonda Vella núm. 8 (ACA BGRP Cajas 34). De l'agost de 1786 al 15 de febrer de 1803 paga un lloguer de 2 Rs mensuals per la casa 8 de la Fonda Vella, però hi ha mesos que consta que el lloguer el paga José Antonio Pascual (José Antonio Pascual i la seua dona Agustina Rubio de Granada son els padrins del seu fill).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

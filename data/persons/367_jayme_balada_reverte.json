@@ -1,0 +1,74 @@
+{
+  "id": "367_jayme_balada_reverte",
+  "source_id": "367",
+  "row_ref": "367. Jayme Balada Reverté",
+  "name": "Jayme Balada Reverté",
+  "gender": "male",
+  "birth": {
+    "date": "1832-07-24",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "323_miguel_balada_balada",
+      "4346_antonia_reverter_sancho"
+    ],
+    "father": "323_miguel_balada_balada",
+    "mother": "4346_antonia_reverter_sancho",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Balada Balada",
+      "Antonia Reverter Sancho"
+    ],
+    "father_name": "Miguel Balada Balada",
+    "mother_name": "Antonia Reverter Sancho",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Fabregat",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 24 de juliol de 1832 a la Ràpita.\n\nPadrins: Juan Fabregat i Antonia Fabra.\n\nProfessió: pagès.\n\nCasament: amb Tomasa Míes Silvestre de la Ràpita [1841].\n\nFills: Antonia [1863], María Cinta [1875] i Tomás [1880].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

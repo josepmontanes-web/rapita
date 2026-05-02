@@ -1,0 +1,74 @@
+{
+  "id": "5117_bartolome_silvestre_jovani",
+  "source_id": "5117",
+  "row_ref": "5117. Bartolomé Silvestre Jovani",
+  "name": "Bartolomé Silvestre Jovani",
+  "gender": "male",
+  "birth": {
+    "date": "1832-08-23",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5132_peregrin_silvestre_sanchis",
+      "2871_josefa_jovani_grau"
+    ],
+    "father": "5132_peregrin_silvestre_sanchis",
+    "mother": "2871_josefa_jovani_grau",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Peregrín Silvestre Sanchís",
+      "Josefa Jovani Grau"
+    ],
+    "father_name": "Peregrín Silvestre Sánchez",
+    "mother_name": "Josefa Jovani Grau",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Tomás Reverter",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 23 d'agost de 1832 a la Ràpita.\n\nPadrins: Tomás Reverter i Josefa Sancho.\n\nCasament: amb Rafaela Arbó Tomás de la Ràpita [1831].\n\nFills: Francisco [1855], Rafael [1856], Juan [1857], Vicente [1858] i Josefa [1860].\n\nDefunció: el 2 d'agost de 1877 a la Ràpita de tuberculosi pulmonar.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

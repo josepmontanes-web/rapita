@@ -1,0 +1,68 @@
+{
+  "id": "1612_isabel_coscolles",
+  "source_id": "1612",
+  "row_ref": "1612. Isabel Coscolles",
+  "name": "Isabel Coscolles",
+  "gender": "female",
+  "birth": {
+    "date": "1855-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1855].\n\nCasament: el 22 de gener de 1876 amb Pedro José Carceller García de la Ràpita [1850]. Es casa als 21 anys.\n\nFills: José María [1876], Antonia Petronila [1878], Pedro Vicente [1879] i Ezequiel [1881].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

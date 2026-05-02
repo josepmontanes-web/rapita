@@ -1,0 +1,74 @@
+{
+  "id": "133_josefa_maria_anguera_subirats",
+  "source_id": "133",
+  "row_ref": "133. Josefa Maria Anguera Subirats",
+  "name": "Josefa Maria Anguera Subirats",
+  "gender": "female",
+  "birth": {
+    "date": "1842-07-09",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1842-10-04",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "131_jayme_anguera_sancho",
+      "5203_madalena_subirats_obiol"
+    ],
+    "father": "131_jayme_anguera_sancho",
+    "mother": "5203_madalena_subirats_obiol",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Jayme Anguera Sancho",
+      "Madalena Subirats Obiol"
+    ],
+    "father_name": "Jayme Anguera Sancho",
+    "mother_name": "Madalena Subirats Obiol",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Barrera",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  el 9 de juliol de 1842 a la Ràpita.\n\nPadrins: José Barrera i Josefa Fibla.\n\nDefunció: el 4 d'octubre de 1842 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

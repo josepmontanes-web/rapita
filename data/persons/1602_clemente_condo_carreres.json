@@ -1,0 +1,77 @@
+{
+  "id": "1602_clemente_condo_carreres",
+  "source_id": "1602",
+  "row_ref": "1602. Clemente Condó Carreres",
+  "name": "Clemente Condó Carreres",
+  "gender": "male",
+  "birth": {
+    "date": "1795-01-01",
+    "place": "La vall d'Aràn"
+  },
+  "death": {
+    "date": "1820-10-22",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1603_raymunda_condo_monrras"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Condó",
+      "Maria Carreres"
+    ],
+    "father_name": "Juan Condó",
+    "mother_name": "Maria Carreres",
+    "spouse_names": [
+      "Maria Monrras Fabrigues"
+    ],
+    "children_names": [
+      "Raymunda Condó Monrras"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a es Bòrdes a la Vall d'Aràn [aprox. 1795].\n\nCasament: amb María Monràs Fabrigues de Barcelona, filla de Joaquín de Mataró i Raymunda de Barcelona.\n\nFills: Raymunda [1820].\n\nDefunció: el 22 d'octubre de 1820 a la Ràpita. Va morir de \"pujos de sangre\". No fa testament per no tenir que testar.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

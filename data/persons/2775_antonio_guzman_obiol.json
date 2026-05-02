@@ -1,0 +1,88 @@
+{
+  "id": "2775_antonio_guzman_obiol",
+  "source_id": "2775",
+  "row_ref": "2775. Antonio Guzmán Obiol",
+  "name": "Antonio Guzmán Obiol",
+  "gender": "male",
+  "birth": {
+    "date": "1803-01-01",
+    "place": "Peñíscola"
+  },
+  "death": {
+    "date": "1847-07-24",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3626_rosa_navarro_comi"
+    ],
+    "children": [
+      "2769_antonio_guzman_lluch",
+      "2770_rosa_guzman_navarro",
+      "2771_juan_bautista_guzman_navarro",
+      "2772_jose_guzman_navarro",
+      "2773_francisco_guzman_navarro"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Guzmán",
+      "Salvadora Obiol"
+    ],
+    "father_name": "José Guzmán",
+    "mother_name": "Salvadora Obiol",
+    "spouse_names": [
+      "Maria Lluch Foix",
+      "Rosa Navarro Comí"
+    ],
+    "children_names": [
+      "Antonio Guzmán Lluch",
+      "Rosa Guzmán Navarro",
+      "Juan Bautista Guzmán Navarro",
+      "José Guzmán Navarro",
+      "Francisco Guzmán Navarro"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Peníscola [aprox. 1803].\n\nCasament: amb María Lluch Foix de Benicarló, filla de Casimiro i Josefa María també de Benicarló.\n\nFills: Antonio [1830].\n\nCasament: el 13 de juny de 1835 amb Rosa Navarro Comí de Tortosa [1809]. Es casa als 29 anys.\n\nFills: Rosa [1836], Juan Bautista [1840],  José [1842] i Francisco [1845].\n\nDefunció: el 24 de juliol de 1847 a la Ràpita. Va morir als 44 anys. No fa testament.\n\nEs germà de José [1800], Josefa María [1800] i Domingo [1813].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

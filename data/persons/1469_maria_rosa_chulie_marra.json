@@ -1,0 +1,71 @@
+{
+  "id": "1469_maria_rosa_chulie_marra",
+  "source_id": "1469",
+  "row_ref": "1469. Maria Rosa Chulie Marra",
+  "name": "Maria Rosa Chulie Marra",
+  "gender": "female",
+  "birth": {
+    "date": "1814-05-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Chulie Castellet",
+      "Francisca Marra Guimerana?"
+    ],
+    "father_name": "Pedro Chulie Castellet",
+    "mother_name": "Francisca Marra Guimerana?",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Deube",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'1 de maig de 1814 a la Ràpita.\n\nPadrins: Francisco Deube \"Dependiente del Resguardo\" i Manuela López.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

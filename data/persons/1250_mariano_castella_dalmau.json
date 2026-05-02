@@ -1,0 +1,74 @@
+{
+  "id": "1250_mariano_castella_dalmau",
+  "source_id": "1250",
+  "row_ref": "1250. Mariano Castellà Dalmau",
+  "name": "Mariano Castellà Dalmau",
+  "gender": "male",
+  "birth": {
+    "date": "1805-10-19",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1806-06-19",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1343_francisco_castella_zaragoza",
+      "1699_maria_dalmau_fabregat"
+    ],
+    "father": "1343_francisco_castella_zaragoza",
+    "mother": "1699_maria_dalmau_fabregat",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Castellà Zaragoza",
+      "María Dalmau Fabregat"
+    ],
+    "father_name": "Francisco Castellà Zaragoza",
+    "mother_name": "Maria Dalmau Fabregat",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 19 d'octubre de 1805 a la Ràpita.\n\nDefunció: el 19 de juny de 1806 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

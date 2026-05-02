@@ -1,0 +1,85 @@
+{
+  "id": "264_rosa_hernandez_o_arlandez_pla",
+  "source_id": "264",
+  "row_ref": "264. Rosa Hernández [o Arlández] Pla",
+  "name": "Rosa Hernández [o Arlández] Pla",
+  "gender": "female",
+  "birth": {
+    "date": "1768-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1813-01-13",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3975_antonia_pla"
+    ],
+    "father": null,
+    "mother": "3975_antonia_pla",
+    "spouse": [
+      "2569_salvador_giner_ferran"
+    ],
+    "children": [
+      "2579_tomas_giner_hernandez",
+      "2580_jose_giner_hernandez",
+      "2584_agustin_pedro_giner_hernandez"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Hernández",
+      "Antonia Pla"
+    ],
+    "father_name": "Josef Hernández",
+    "mother_name": "Antonia Pla",
+    "spouse_names": [
+      "Salvador Giner Ferrán"
+    ],
+    "children_names": [
+      "Tomás Giner Hernández",
+      "José Giner Hernández",
+      "Agustín Pedro Giner Hernández"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  a Tortosa [aprox. 1768].\n\nCasament: amb Salvador Giner Ferràn de Tortosa [1765].\n\nFills: Isabel (Amposta) [1789], Tomás [1790], José [1793], Agustín Pedro [1796], Francisco [1799], Joaquín [1802] i Mariana [1803].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu al carrer davant el canal i l'horta  (ACA BGRP Cajas 34).\n\nDefunció: el 13 de gener de 1813 a la Ràpita. Va morir als 35 anys. A la partida de defunció es diu Rosa Erlández.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

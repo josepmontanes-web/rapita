@@ -1,0 +1,68 @@
+{
+  "id": "4017_francisca_porres_beltri",
+  "source_id": "4017",
+  "row_ref": "4017. Francisca Porres Beltri",
+  "name": "Francisca Porres Beltri",
+  "gender": "female",
+  "birth": {
+    "date": "1843-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1843].\n\nCasament: amb José Sol de la Ràpita.\n\nCasament: el 13 d'abril de 1873 amb Francisco Puigcerver Cid de la Ràpita [1844]. Es casa als 30 anys.\n\nFills: Francisco [1877].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

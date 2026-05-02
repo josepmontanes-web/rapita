@@ -1,0 +1,77 @@
+{
+  "id": "3839_miguel_pasqual_thomas",
+  "source_id": "3839",
+  "row_ref": "3839. Miguel Pasqual Thomas",
+  "name": "Miguel Pasqual Thomas",
+  "gender": "male",
+  "birth": {
+    "date": "1804-01-06",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1805-06-30",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3827_juan_bautista_pasqual_fuster"
+    ],
+    "father": "3827_juan_bautista_pasqual_fuster",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "5297_theresa_thomas_reverter"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Bautista Pasqual Fuster",
+      "Francisca Thomas Vidal"
+    ],
+    "father_name": "Juan Bautista Pasqual Fuster",
+    "mother_name": "Francisca Thomas Vidal",
+    "spouse_names": [],
+    "children_names": [
+      "Theresa Thomas Reverter"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Miguel Alsó",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 6 de gener de 1804 a la Ràpita.\n\nPadrins: Miguel Alsó i Teresa Thomas.\n\nDefunció: el 3 de juny de 1805 a la Ràpita. A la partida de defunció es diu Manuel.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

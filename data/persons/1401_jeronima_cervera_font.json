@@ -1,0 +1,77 @@
+{
+  "id": "1401_jeronima_cervera_font",
+  "source_id": "1401",
+  "row_ref": "1401. Jerònima Cervera Font",
+  "name": "Jerònima Cervera Font",
+  "gender": "female",
+  "birth": {
+    "date": "1775-01-01",
+    "place": "La Torre del Conde (Zgza)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "2218_jose_forcadell_reverter",
+      "2569_salvador_giner_ferran"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Cervera",
+      "Josefa Font"
+    ],
+    "father_name": "Antonio Cervera",
+    "mother_name": "Josefa Font",
+    "spouse_names": [
+      "José Forcadell Reverter",
+      "Salvador Giner Ferrán"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Torre del Conde (Zaragoza) [aprox. 1775].\n\nCasament: el 7 de desembre de 1800 amb José Forcadell Reverter d'Alcanar [1780].\n\nCasament: el 6 de novembre de 1816 amb Salvador Giner Ferran de Tortosa [1765].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "1189_maria_castella_borras",
+  "source_id": "1189",
+  "row_ref": "1189. María Castellà Borràs",
+  "name": "María Castellà Borràs",
+  "gender": "female",
+  "birth": {
+    "date": "1837-09-08",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1180_jose_castella_balaguer"
+    ],
+    "father": "1180_jose_castella_balaguer",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Castellà Balaguer",
+      "Francisca Borràs Bernis"
+    ],
+    "father_name": "José Castellà Balaguer",
+    "mother_name": "Francisca Borràs Bernis",
+    "spouse_names": [
+      "Miguel Rosales Castellà"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Miguel Borràs",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 8 de setembre de 1837 a la Ràpita.\n\nPadrins: Miguel Borràs i Gerónima Bernis.\n\nCasament: el 24 de març de 1854 amb Miguel Rosales Castellà de la Ràpita [1829]. \"Dispensados de impedimento de parentesco de 3º con 4º grado de consanguinidad\". Testimonis: Manuel Míes i Don Manuel Labora (Subteniente de carabineros).\n\nFills: Josefa [1855] i Miguel [1860].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "2270_antonia_fuster",
+  "source_id": "2270",
+  "row_ref": "2270. Antonia Fuster",
+  "name": "Antonia Fuster",
+  "gender": "female",
+  "birth": {
+    "date": "1755-01-01",
+    "place": "Vinaròs"
+  },
+  "death": {
+    "date": "1811-08-27",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3817_mariano_pascual_antequera"
+    ],
+    "children": [
+      "3822_josefa_pasqual_fuster",
+      "3823_blas_pasqual_fuster",
+      "3824_mariana_pascual_fuster",
+      "3825_vicenta_pascual_fuster",
+      "3826_francisca_pasqual_fuster",
+      "3827_juan_bautista_pasqual_fuster",
+      "3828_gertrudis_pasqual_fuster",
+      "3829_teresa_pasqual_fuster",
+      "3830_juliana_pasqual_fuster"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Mariano Pascual Antequera"
+    ],
+    "children_names": [
+      "Josefa Pasqual Fuster",
+      "Blas Pasqual Fuster",
+      "Mariana Pascual Fuster",
+      "Vicenta Pascual Fuster",
+      "Francisca Pasqual Fuster",
+      "Juan Bautista Pasqual Fuster",
+      "Gertrudis Pasqual Fuster",
+      "Teresa Pasqual Fuster",
+      "Juliana Pasqual Fuster"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1755].\n\nCasament: amb Mariano Pascual Antequera de València [1740].\n\nFills: Juan Bautista (Vinaròs) [1775], Francisca (Vinaròs) [1778], Mariana (Vinaròs) [1779], Blas [1783], Gertrudis (Vinaròs) [1783], Teresa (Amposta) [1786], Juliana (Amposta) [1789], Josefa [1791] i Vicenta [1793].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu al barri dels pescadors  (ACA BGRP Cajas 34).\n\nDefunció: el 27 d'agost de 1811 a la Ràpita. Va morir als 56 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

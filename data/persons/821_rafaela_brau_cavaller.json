@@ -1,0 +1,71 @@
+{
+  "id": "821_rafaela_brau_cavaller",
+  "source_id": "821",
+  "row_ref": "821. Rafaela Brau Cavaller",
+  "name": "Rafaela Brau Cavaller",
+  "gender": "female",
+  "birth": {
+    "date": "1809-01-01",
+    "place": "Vinaròs"
+  },
+  "death": {
+    "date": "1810-08-22",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Brau",
+      "Rafaela Cavaller"
+    ],
+    "father_name": "Vicente Brau",
+    "mother_name": "Rafaela Cavaller",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1809].\n\nDefunció: el 22 d'agost de 1810 a la Ràpita. Va morir als 18 mesos.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

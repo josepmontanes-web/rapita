@@ -1,12 +1,12 @@
 {
   "id": "32_joaquina_adell_royo",
   "source_id": "32",
-  "row_ref": "32",
+  "row_ref": "32. Joaquina Adell Royo",
   "name": "Joaquina Adell Royo",
   "gender": "female",
   "birth": {
     "date": "1844-01-01",
-    "place": "Huesca [aprox"
+    "place": "Huesca"
   },
   "death": {
     "date": null,
@@ -22,13 +22,45 @@
   },
   "family": {
     "parents": [],
+    "father": null,
+    "mother": null,
     "spouse": [],
-    "children": []
+    "children": [
+      "1423_teresa_cherta_adell",
+      "1424_manuel_pedro_cherta_adell",
+      "1425_juan_bautista_cherta_adell"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
   },
   "relations_detail": {
     "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
     "spouse_names": [],
-    "children_names": []
+    "children_names": [
+      "Teresa Cherta Adell",
+      "Manuel Pedro Cherta Adell",
+      "Juan Bautista Cherta Adell"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
   },
   "occupation": {
     "title": null

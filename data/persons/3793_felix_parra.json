@@ -1,0 +1,68 @@
+{
+  "id": "3793_felix_parra",
+  "source_id": "3793",
+  "row_ref": "3793. Felix Parra",
+  "name": "Felix Parra",
+  "gender": "male",
+  "birth": {
+    "date": "1755-01-01",
+    "place": "Valdepeñas o a la Solana (Ciudad Real)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Valdepeñas o a la Solana (Ciudad Real) [aprox. 1855].\n\nProfessió: Ministre Resguardo de Rentas.\n\nCasament: amb Rosa Pardo Pavia de Russafa (València) [1858].\n\nFills: José [1785].\n\nAl 1797 la dona es torna a casar pel que ell debia haver mor.\n\n1783-1784 \"24. Autos criminales formados contra Manuel López y Félix Parra, ministros de Reales Rentas. \" (ACA Caixa 54).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

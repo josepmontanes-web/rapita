@@ -1,0 +1,72 @@
+{
+  "id": "4712_joaquin_sanchis_o_sanchez",
+  "source_id": "4712",
+  "row_ref": "4712. Joaquín Sanchís [o Sánchez]",
+  "name": "Joaquín Sanchís [o Sánchez]",
+  "gender": "male",
+  "birth": {
+    "date": "1773-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1833-11-03",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "2776_josefa_maria_guzman_obiol"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Josefa Maria Guzmán Obiol"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1773]. \n\nCasament: amb Josefa María Guzman Obiol de Peníscola [1800].\n\nDefunció: el 3 de novembre de 1833 a la Ràpita. Va morir al 60 anys. \"No hizo testamento ni dotó su alma por ser pobre de solemnidad\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

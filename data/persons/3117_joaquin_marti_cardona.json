@@ -1,0 +1,83 @@
+{
+  "id": "3117_joaquin_marti_cardona",
+  "source_id": "3117",
+  "row_ref": "3117. Joaquín Martí Cardona",
+  "name": "Joaquín Martí Cardona",
+  "gender": "male",
+  "birth": {
+    "date": "1765-01-01",
+    "place": "Zorita"
+  },
+  "death": {
+    "date": "1835-03-20",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3115_francisco_marti_cabrera"
+    ],
+    "father": "3115_francisco_marti_cabrera",
+    "mother": null,
+    "spouse": [
+      "5201_rosa_subirats_miro"
+    ],
+    "children": [
+      "3132_theresa_marti_subirats",
+      "3133_maria_vicenta_marti_subirats"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Martí Cabrera",
+      "Teresa Cardona"
+    ],
+    "father_name": "Francisco Martí",
+    "mother_name": "Teresa Cardona",
+    "spouse_names": [
+      "Rosa Subirats Miró"
+    ],
+    "children_names": [
+      "Theresa Martí Subirats",
+      "Maria Vicenta Martí Subirats"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Zorita (Sorita de Morella) [aprox. 1765]. \n\nCasament: amb Rosa Subirats Miró de Freginals [1781].\n\nFills: Teresa [1812] i María Vicenta [1817].\n\nDefunció: el 20 de març de 1835 a la Ràpita. Va morir als 70 anys. No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

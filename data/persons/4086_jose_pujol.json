@@ -1,0 +1,76 @@
+{
+  "id": "4086_jose_pujol",
+  "source_id": "4086",
+  "row_ref": "4086. José Pujol",
+  "name": "José Pujol",
+  "gender": "male",
+  "birth": {
+    "date": "1750-01-01",
+    "place": "Montroig"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3574_antonia_munoz_rodriguez"
+    ],
+    "children": [
+      "4092_antonia_pujol_munoz"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Antonia Muñoz Rodríguez"
+    ],
+    "children_names": [
+      "Antonia Pujol Muñoz"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Maestro albañil"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Mont-roig [aprox. 1750]. \n\nProfessió: \"maestro albañil\".\n\nCasament: amb Antonia Muñoz Rodríguez de Sant Feliu de Guixols [1750].\n\nFills: José (Marçà) [1770] i Antonia (Marçà) [1775].\n\nEl seu cognom també apareix com Puigol, Puchol i Puxol.\n\nA l'estat de veïns de la Població de San Carlos consta que la seua dona viu a la Fonda Vella amb els seus dos fills i que es vidua (ACA BGRP caixa 34).\n\nPotser no sigui ell però el 27 de març de 1746 fou batejat a Riudoms Joan Joseph Baltasar fill llegitim i natural de Francech Pujol pagés i Gertrudis Pujol i Gudí. Padrins Joseph Pujol pages de Riudoms i Magdalena Forné de Cambrils.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "3811_domingo_parra_sancho",
+  "source_id": "3811",
+  "row_ref": "3811. Domingo Parra Sancho",
+  "name": "Domingo Parra Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1813-12-16",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1814-01-04",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3803_jose_parra_pardo"
+    ],
+    "father": "3803_jose_parra_pardo",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "4899_joaquin_sancho_matamoros"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Parra Pardo",
+      "Rosa Sancho Biosca"
+    ],
+    "father_name": "José Parra Pardo",
+    "mother_name": "Rosa Sancho Biosca",
+    "spouse_names": [],
+    "children_names": [
+      "Joaquín Sancho Matamoros"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Domingo Royo",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 16 de desembre de 1813 a la Ràpita.\n\nPadrins: Domingo Royo i María Fabregat.\n\nDefunció: el 4 de gener de 1814 a la Ràpita.\n\nEs bessó de Santiago.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

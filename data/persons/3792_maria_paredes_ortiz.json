@@ -1,0 +1,80 @@
+{
+  "id": "3792_maria_paredes_ortiz",
+  "source_id": "3792",
+  "row_ref": "3792. María Paredes Ortíz",
+  "name": "María Paredes Ortíz",
+  "gender": "female",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Cartagena"
+  },
+  "death": {
+    "date": "1841-01-02",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1764_manuel_domenech_saura"
+    ],
+    "children": [
+      "1761_jose_estevan_domenech_paredes",
+      "1762_jose_manuel_domenech_paredes",
+      "1763_juan_bautista_domenech_paredes"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Manuel Domenech Saura"
+    ],
+    "children_names": [
+      "José Estevan Domenech Paredes",
+      "José Manuel Domenech Paredes",
+      "Juan Bautista Domenech Paredes"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Cartagena [aprox. 1800]. Podria ser d'Aguilas.\n\nCasament: amb Manuel Domenech Saura de Vinaròs [1800].\n\nFills: José Manuel [1823], José Estevan [1826] i Juan Bautista [1831].\n\nDefunció: el 2 de gener de 1841 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

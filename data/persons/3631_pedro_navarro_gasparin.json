@@ -1,0 +1,74 @@
+{
+  "id": "3631_pedro_navarro_gasparin",
+  "source_id": "3631",
+  "row_ref": "3631. Pedro Navarro Gasparín",
+  "name": "Pedro Navarro Gasparín",
+  "gender": "male",
+  "birth": {
+    "date": "1837-10-28",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3601_pedro_navarro_balaguer",
+      "2422_francisca_gasparin_gombau"
+    ],
+    "father": "3601_pedro_navarro_balaguer",
+    "mother": "2422_francisca_gasparin_gombau",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Navarro Balaguer",
+      "Francisca Gasparín Gombau"
+    ],
+    "father_name": "Pedro Navarro Balaguer",
+    "mother_name": "Francisca Gasparín Gombau",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Gasparín",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 28 d'octubre de 1837 a la Ràpita.\n\nPadrins: Francisco Gasparín i Bárbara Gombau (iaios).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

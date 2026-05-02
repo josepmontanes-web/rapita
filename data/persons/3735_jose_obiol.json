@@ -1,0 +1,74 @@
+{
+  "id": "3735_jose_obiol",
+  "source_id": "3735",
+  "row_ref": "3735. José Obiol",
+  "name": "José Obiol",
+  "gender": "male",
+  "birth": {
+    "date": "1760-01-01",
+    "place": "Penyscola"
+  },
+  "death": {
+    "date": "1829-01-20",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "3743_ana_maria_obiol_masip"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Josefa Maria Viscarro"
+    ],
+    "children_names": [
+      "Ana Maria Obiol Masip"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Peníscola [aprox. 1760]. \n\nCasament: amb Josefa María Viscarro de Peníscola.\n\nFills: Margarita (Peníscola) [1785] i José Antonio (Peníscola) [1790].\n\nDefunció: el 20 de gener de 1829 a la Ràpita. Va morir als 70 anys de \"una mortifucación\". No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

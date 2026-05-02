@@ -1,0 +1,77 @@
+{
+  "id": "1988_thomasa_fernando_elernan",
+  "source_id": "1988",
+  "row_ref": "1988. Thomasa Fernando Elernañ",
+  "name": "Thomasa Fernando Elernañ",
+  "gender": "female",
+  "birth": {
+    "date": "1772-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1818-01-12",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "4566_rafaela_rosell_fernando"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Antonio Fernando",
+      "Francisca Elernañ"
+    ],
+    "father_name": "Josef Antonio Fernando",
+    "mother_name": "Francisca Elernañ",
+    "spouse_names": [
+      "Thomas Rosell"
+    ],
+    "children_names": [
+      "Rafaela Rosell Fernando"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1772].\n\nCasament: amb Tomás Rosell Cartes de Tortosa [1790].\n\nFills: Rafaela (Tortosa) [1816] i Antonio [1817].\n\nDefunció: el 12 de gener de 1818 a la Ràpita. Va morir als 46 anys \"de inflamación interna, repentinamente\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

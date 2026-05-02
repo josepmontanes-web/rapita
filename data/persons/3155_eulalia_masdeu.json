@@ -1,0 +1,80 @@
+{
+  "id": "3155_eulalia_masdeu",
+  "source_id": "3155",
+  "row_ref": "3155. Eulalia Masdeu",
+  "name": "Eulalia Masdeu",
+  "gender": "female",
+  "birth": {
+    "date": "1760-01-01",
+    "place": "San Jorge"
+  },
+  "death": {
+    "date": "1822-07-02",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "626_vicente_beltran_minana"
+    ],
+    "children": [
+      "620_pedro_beltran_masdeu",
+      "621_vicente_beltran_masdeu",
+      "3892_blas_pepiol_masdeu"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Vicente Beltran Miñana"
+    ],
+    "children_names": [
+      "Pedro Beltran Masdeu",
+      "Vicente Beltran Masdeu",
+      "Blas Pepiol Masdeu"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a San Jorge [o Alcalà de Xivert] [aprox. 1760]. \n\nCasament: amb Joaquín Pepiol de La Riera de Gaià (Tarragona).\n\nFills: Blas (Amposta) [1781].\n\nCasament: amb Vicente Beltran Miñana d'Alcalà de Xivert [1760].\n\nFills: Pedro (Amposta) [1791] i Vicente (Tortosa) [1795].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Fonda Vella núm. 3 (ACA BGRP Cajas 34).\n\nDefunció: el 2 de juliol de 1822 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

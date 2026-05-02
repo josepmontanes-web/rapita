@@ -1,0 +1,77 @@
+{
+  "id": "198_juan_arbo_sanchez",
+  "source_id": "198",
+  "row_ref": "198. Juan Arbó Sánchez",
+  "name": "Juan Arbó Sánchez",
+  "gender": "male",
+  "birth": {
+    "date": "1816-04-12",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1841-08-16",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "175_tomas_arbo_ingles"
+    ],
+    "father": "175_tomas_arbo_ingles",
+    "mother": null,
+    "spouse": [
+      "468_felipa_balanza_comes"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomás Arbó Inglés",
+      "Teresa Sánchez Yserte"
+    ],
+    "father_name": "Tomas Arbó Inglés",
+    "mother_name": "Teresa Sánchez Yserte",
+    "spouse_names": [
+      "Felipa Balanzá Comes"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Vilans",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  el 12 d'abril de 1816 a la Ràpita.\n\nLa padrina es Antonia Arbó Ramia i el padrí Juan Vilans diu que es de \"Nación Reuico o Reuso\" (no s'entén molt bé).\n\nCasament: el 29 de gener de 1838 amb Felipa Balanzá Comes de Benicarló [1815].\n\nFills: Juan [1841].\n\nDefunció: el 16 d'agost de 1841 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

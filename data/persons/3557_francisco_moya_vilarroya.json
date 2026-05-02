@@ -1,0 +1,96 @@
+{
+  "id": "3557_francisco_moya_vilarroya",
+  "source_id": "3557",
+  "row_ref": "3557. Francisco Moya Vilarroya",
+  "name": "Francisco Moya Vilarroya",
+  "gender": "male",
+  "birth": {
+    "date": "1794-02-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3550_juan_moia_oruspina_o_ruspina",
+      "5602_teresa_vilarroya_perolada"
+    ],
+    "father": "3550_juan_moia_oruspina_o_ruspina",
+    "mother": "5602_teresa_vilarroya_perolada",
+    "spouse": [],
+    "children": [
+      "3540_juan_bautista_joseph_moya_macia",
+      "3541_buenaventura_francisco_moya_macian",
+      "3542_vicente_moya_macian",
+      "3543_maria_moya_macian",
+      "3544_juan_bautista_moya_masia",
+      "3545_tomasa_moya_macian",
+      "3546_josefa_moya_macian",
+      "3547_teresa_moya_masia",
+      "3548_maria_encarnacion_moya_masia"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Moia Oruspina [o Ruspina]",
+      "Teresa Vilarroya Perolada"
+    ],
+    "father_name": "Juan Moya Oruspina",
+    "mother_name": "Teresa Vilarroya Perolada",
+    "spouse_names": [
+      "Vicenta Macián Sanchís"
+    ],
+    "children_names": [
+      "Juan Bautista Joseph Moya Maciá",
+      "Buenaventura Francisco Moya Macián",
+      "Vicente Moya Macián",
+      "Maria Moya Macián",
+      "Juan Bautista Moya Masià",
+      "Tomasa Moya Macián",
+      "Josefa Moya Macián",
+      "Teresa Moya Masià",
+      "Maria Encarnación Moya Masià"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Gaspari",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'1 de febrer de 1794 a la Ràpita.\n\nPadrí: Francisco Gasparini.\n\nProfessió: pagès.\n\nCasament: el 5 de maig de 1815 amb Vicenta Macián Sanchís de la Ràpita [1798].\n\nFills: Juan Bautista José [1816], Josefa [1819], María de la Encarnación [1821], Teresa [1824], Juan Bautista [1827], Tomasa [1830], María [1832], Vicente [1835] i Buenaventura Francisco [1838].\n\nDefunció: el 27 de juliol de 1880 a la Ràpita de \"apoplegia\". Declara la mor la seua filla Maria Moya de 45 anys, casada. Fa testament davant del notari d'Amposta Pedro Llopart.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

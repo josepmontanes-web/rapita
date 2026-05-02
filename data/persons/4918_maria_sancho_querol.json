@@ -1,0 +1,92 @@
+{
+  "id": "4918_maria_sancho_querol",
+  "source_id": "4918",
+  "row_ref": "4918. María Sancho Querol",
+  "name": "María Sancho Querol",
+  "gender": "female",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4833_jose_sancho"
+    ],
+    "father": "4833_jose_sancho",
+    "mother": null,
+    "spouse": [
+      "2438_manuel_gasparin_matamoros"
+    ],
+    "children": [
+      "2453_francisco_gasparin_sancho",
+      "2454_francisco_gasparin_sancho",
+      "2455_ambrosio_pedro_gasparin_sancho",
+      "2456_mariano_gasparin_sancho",
+      "2457_maria_teresa_gasparin_sancho",
+      "2458_agustina_teresa_gasparin_sancho",
+      "2459_felipa_gasparin_sancho"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Sancho",
+      "Maria Querol"
+    ],
+    "father_name": "José Sancho",
+    "mother_name": "Maria Querol",
+    "spouse_names": [
+      "Manuel Gasparín Matamoros"
+    ],
+    "children_names": [
+      "Francisco Gasparín Sancho",
+      "Ambrosio Pedro Gasparín Sancho",
+      "Mariano Gasparín Sancho",
+      "María Teresa Gasparín Sancho",
+      "Agustina Teresa Gasparín Sancho",
+      "Felipa Gasparín Sancho"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1800]. \n\nCasament: el 3 de gener de 1824 amb Manuel Gasparín Matamoros de la Ràpita [1800].\n\nFills: Francisco [1826], Francisco [1828], Ambrosio Pedro [1830], Mariano [1833], María Teresa [1836], Agustina [1840] i Felipa [1842].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

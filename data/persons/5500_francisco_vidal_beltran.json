@@ -1,0 +1,97 @@
+{
+  "id": "5500_francisco_vidal_beltran",
+  "source_id": "5500",
+  "row_ref": "5500. Francisco Vidal Beltran",
+  "name": "Francisco Vidal Beltran",
+  "gender": "male",
+  "birth": {
+    "date": "1784-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1834-11-18",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5535_francisco_vidal_palos",
+      "637_juana_beltran_sancho"
+    ],
+    "father": "5535_francisco_vidal_palos",
+    "mother": "637_juana_beltran_sancho",
+    "spouse": [
+      "5200_thecla_subirats_miro"
+    ],
+    "children": [
+      "5543_vicente_vidal_planes",
+      "5544_francisco_vicente_vidal_planes",
+      "5545_maria_teresa_vidal_planes",
+      "5546_rafael_vidal_planes",
+      "5547_cipriano_vidal_planes",
+      "5548_juan_vidal_planes",
+      "5549_francisco_vidal_planes",
+      "5576_maria_teresa_vidal_subirats"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Vidal Palos",
+      "Juana Beltran Sancho"
+    ],
+    "father_name": "Francisco Vidal Palos",
+    "mother_name": "Juana Beltran Sancho",
+    "spouse_names": [
+      "Thecla Subirats Miró",
+      "Francisca Planes Govern"
+    ],
+    "children_names": [
+      "Vicente Vidal Planes",
+      "Francisco Vicente Vidal Planes",
+      "María Teresa Vidal Planes",
+      "Rafael Vidal Planes",
+      "Cipriano Vidal Planes",
+      "Juan Vidal Planes",
+      "Francisco Vidal Planes",
+      "María Teresa Vidal Subirats"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1784].\n\nProfessió: pagès.\n\nCasament: el 15 d'abril de 1815 amb Thecla Subirats Miró de Freginals [1794].\n\nFills: María Teresa [1816].\n\nCasament: el 29 de maig de 1820 amb Francisca Planes Govern d'Amposta [1793].\n\nFills: Francisco [1821], Juan [1823], Francisco Vicente [1825], Vicente [1826], María Teresa [1829], Rafael [1831] i Cipriano [1832].\n\nDefunció: el 18 de novembre de 1834 a la Ràpita. Va morir als 50 anys. No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

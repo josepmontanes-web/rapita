@@ -1,0 +1,91 @@
+{
+  "id": "3507_rafaela_moreso_besalduch",
+  "source_id": "3507",
+  "row_ref": "3507. Rafaela Moreso Besalduch",
+  "name": "Rafaela Moreso Besalduch",
+  "gender": "female",
+  "birth": {
+    "date": "1805-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3497_manuel_moreso_avella"
+    ],
+    "father": "3497_manuel_moreso_avella",
+    "mother": null,
+    "spouse": [
+      "1631_francisco_christofol_omedes"
+    ],
+    "children": [
+      "1625_agustina_christofol_moreso",
+      "1626_josefa_christofol_moreso",
+      "1627_maria_francisca_cristofol_moreso",
+      "1628_vicenta_cristofol_moreso",
+      "1629_rosa_cristofol_moreso",
+      "1630_manuel_cristofol_moreso"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel Moreso Avellà",
+      "Teresa Besalduch"
+    ],
+    "father_name": "Manuel Moreso",
+    "mother_name": "Teresa Besalduch",
+    "spouse_names": [
+      "Francisco Christofol Omedes"
+    ],
+    "children_names": [
+      "Agustina Christofol Moreso",
+      "Josefa Christofol Moreso",
+      "Maria Francisca Cristofol Moreso",
+      "Vicenta Cristofol Moreso",
+      "Rosa Cristofol Moreso",
+      "Manuel Cristofol Moreso"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1805]. \n\nCasament: amb Francisco Christofol Omedes de la Ràpita [1805].\n\nFills: Manuel [1829], Rosa [1833], Vicenta [1834], María Francisca [1837], Agustina [1839] i Josefa [1839].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

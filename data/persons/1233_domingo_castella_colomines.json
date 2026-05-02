@@ -1,0 +1,85 @@
+{
+  "id": "1233_domingo_castella_colomines",
+  "source_id": "1233",
+  "row_ref": "1233. Domingo Castellà Colomines",
+  "name": "Domingo Castellà Colomines",
+  "gender": "male",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1164_bautista_castella"
+    ],
+    "father": "1164_bautista_castella",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1302_francisco_castella_navarro",
+      "1303_josefa_castella_navarro",
+      "1304_jose_castella_navarro",
+      "1305_nicolasa_castella_navarro"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Castellà",
+      "Francisca Colomines"
+    ],
+    "father_name": "Bautista Castellà",
+    "mother_name": "Francisca Colomines",
+    "spouse_names": [
+      "Josefa Navarro Arlández"
+    ],
+    "children_names": [
+      "Francisco Castellà Navarro",
+      "Josefa Castellà Navarro",
+      "José Castellà Navarro",
+      "Nicolasa Castellà Navarro"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1790].\n\nCasament: el 27 de juny de 1813 amb Josefa Navarro Arlández [o Hernández] de la Ràpita [1792].\n\nFills: José (Tortosa) [1820], Nicolasa (Tortosa) [1825], Francisco (Tortosa) [1828] i Josefa (Tortosa) [1832].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "1708_margarita_del_real_tuduri",
+  "source_id": "1708",
+  "row_ref": "1708. Margarita Del Real Tuduri",
+  "name": "Margarita Del Real Tuduri",
+  "gender": "female",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Mahón"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "D. Miguel Del Real",
+      "Dª Margarita Tuduri"
+    ],
+    "father_name": "D. Miguel Del Real",
+    "mother_name": "Dª Margarita Tuduri",
+    "spouse_names": [
+      "D. Luís Erville",
+      "D. Juan Rodríguez de Alcántara"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Maó [aprox. 1790].\n\nCasament: amb Don Luís Erville.\n\nCasament: el 31 de gener de 1830 amb Don Juan Rodríguez de Alcántara de Madrid [1787], Administrador de la Aduana. Quan es casa es veïna de Tarragona. Es casen a Tarragona el 25 de gener, matrimoni celebrat \"per procuratorem\". Testimonis: Don Agustín Fornesa, conservador de les obres i Don Julián Bercedo, interventor de la Aduana.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

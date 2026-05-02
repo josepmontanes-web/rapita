@@ -1,0 +1,88 @@
+{
+  "id": "3420_juan_bautista_miralles_gasulla",
+  "source_id": "3420",
+  "row_ref": "3420. Juan Bautista Miralles Gasulla",
+  "name": "Juan Bautista Miralles Gasulla",
+  "gender": "male",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Vinaroz"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "30_juan_bautista_adell_miralles"
+    ],
+    "father": "30_juan_bautista_adell_miralles",
+    "mother": null,
+    "spouse": [
+      "5095_francisca_serral_bedos"
+    ],
+    "children": [
+      "3427_jose_miralles_serral",
+      "3428_lorenzo_miralles_serral",
+      "3429_juan_bautista_miralles_serral",
+      "3430_miguel_miralles_serral"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Bautista Adell Miralles",
+      "Maria Gasulla"
+    ],
+    "father_name": "Juan Bautista Miralles",
+    "mother_name": "Maria Gasulla",
+    "spouse_names": [
+      "Agustina Ferràn",
+      "Francisca Serral Bedós"
+    ],
+    "children_names": [
+      "José Miralles Serral",
+      "Lorenzo Miralles Serral",
+      "Juan Bautista Miralles Serral",
+      "Miguel Miralles Serral"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1810]. \n\nCasament: amb Agustina Ferràn.\n\nCasament: el 15 de març de 1836 amb Francisca Serral Bedós de Xerta [1810].\n\nFills: José [1837], Lorenzo [1837], Juan Bautista [1839] i Miguel [1841].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

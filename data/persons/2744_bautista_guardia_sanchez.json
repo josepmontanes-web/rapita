@@ -1,0 +1,97 @@
+{
+  "id": "2744_bautista_guardia_sanchez",
+  "source_id": "2744",
+  "row_ref": "2744. Bautista Guardia Sánchez",
+  "name": "Bautista Guardia Sánchez",
+  "gender": "male",
+  "birth": {
+    "date": "1775-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2698_blas_guardia"
+    ],
+    "father": "2698_blas_guardia",
+    "mother": null,
+    "spouse": [
+      "806_teresa_bort_lleti"
+    ],
+    "children": [
+      "2715_juan_bautista_guardia_bort",
+      "2716_engracia_guardia_bort",
+      "2717_antonia_guardia_bort",
+      "2718_clara_guardia_bort",
+      "2719_bautista_guardia_bort",
+      "2720_jose_guardia_bort",
+      "2721_josefa_antonia_guardia_bort",
+      "2722_alexandra_guardia_bort",
+      "2723_maria_agustina_guardia_bort"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Blas Guardia",
+      "Josefa Sánchez"
+    ],
+    "father_name": "Blas Guardia",
+    "mother_name": "Josefa Sánchez",
+    "spouse_names": [
+      "Teresa Bort Lletí"
+    ],
+    "children_names": [
+      "Juan Bautista Guardia Bort",
+      "Engracia Guardia Bort",
+      "Antonia Guardia Bort",
+      "Clara Guardia Bort",
+      "Bautista Guardia Bort",
+      "José Guardia Bort",
+      "Josefa Antonia Guardia Bort",
+      "Alexandra Guardia Bort",
+      "Maria Agustina Guardia Bort"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1775].\n\nCasament: amb Teresa Bort Lletí d'Alcanar [1793].\n\nFills: Clara [1811], Bautista [1814], Alexandra [1816], Antonia [1819], Engracia [1821], José [1823], Josefa Antonia [1826], María Francisca [1828], María Agustina [1831] i Juan Bautista [1834].\n\nDonación: Francisco Guardia, labrador, en atención a que su hijo Agustín Guardia le ha facilitado cantidades que ascienden a 40 duros, en pago de esta cantidad le cede la casa que posee en el barrio de San Isidro, calle sin nombre, en las inmediaciones de la carretera Real de Valencia. Linda a tramontana con la de Bautista Guardia, a poniente con la de Agustín Torta y a cierzo con tierras del otorgante, y a levante con dicha calle. Esta casa es parte de una heredad que posee en la partida de la Devesa. 6 de agosto de 1846.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "4177_agustin_reverter",
+  "source_id": "4177",
+  "row_ref": "4177. Agustín Reverter",
+  "name": "Agustín Reverter",
+  "gender": "male",
+  "birth": {
+    "date": "1765-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1809-11-20",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "2232_maria_forner_felip"
+    ],
+    "children": [
+      "4258_antonio_reverter_forner",
+      "4259_francisco_reverter_forner",
+      "4260_jose_reverter_forner",
+      "4261_juan_reverter_forner",
+      "4262_maria_reverter_forner",
+      "4263_teresa_reverter_forner",
+      "4264_miguel_reverter_forner",
+      "4265_agustin_reverter_forner"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Maria Forner Felip"
+    ],
+    "children_names": [
+      "Antonio Reverter Forner",
+      "Francisco Reverter Forner",
+      "José Reverter Forner",
+      "Juan Reverter Forner",
+      "María Reverter Forner",
+      "Teresa Reverter Forner",
+      "Miguel Reverter Forner",
+      "Agustín Reverter Forner"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1765]. \n\nCasament: amb María Forner Felip d'Alcanar [1763].\n\nFills: Francisco (Alcanar) [1788], Miguel (Alcanar) [1790], Agustín (Alcanar) [1793], José (Alcanar) [1794], Juan (Alcanar) [1795], Antonio (Alcanar) [1800], María (Alcanar) [1801] i Teresa (Alcanar) [1802].\n\nDefunció: el 20 de novembre de 1809 a la Ràpita. Va morir als 44 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

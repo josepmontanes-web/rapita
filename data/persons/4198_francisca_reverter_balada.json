@@ -1,0 +1,78 @@
+{
+  "id": "4198_francisca_reverter_balada",
+  "source_id": "4198",
+  "row_ref": "4198. Francisca Reverter Balada",
+  "name": "Francisca Reverter Balada",
+  "gender": "female",
+  "birth": {
+    "date": "1823-02-14",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4314_bautista_reverter_pla",
+      "362_josefa_balada_queralt"
+    ],
+    "father": "4314_bautista_reverter_pla",
+    "mother": "362_josefa_balada_queralt",
+    "spouse": [
+      "360_juan_balada_planes"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Reverter Pla",
+      "Josefa Balada Queralt"
+    ],
+    "father_name": "Bautista Reverter Pla",
+    "mother_name": "Josefa Balada Queralt",
+    "spouse_names": [
+      "Juan Balada Planes"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Salvador Talarn",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 14 de febrer de 1823 a la Ràpita.\n\nPadrins: Salvador Talarn i Francisca Blanch.\n\nCasament: el 19 de juny de 1852 amb Juan Balada Planes de la Ràpita [1824]. Testimonis: Casimiro Míes i José Clua.\n\nFills: Agustín [1853], José [1855], Francisca [1855] i Antonia [1856].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

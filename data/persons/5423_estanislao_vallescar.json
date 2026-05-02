@@ -1,0 +1,68 @@
+{
+  "id": "5423_estanislao_vallescar",
+  "source_id": "5423",
+  "row_ref": "5423. Estanislao Vallescar",
+  "name": "Estanislao Vallescar",
+  "gender": "male",
+  "birth": {
+    "date": "1750-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Canals a Martorell 25 set 1782_ el dador de la presente es dn Estanislao Vallescar que pasa a esa con la plaza de dn Juan Sor que ha permutado, le abonará vm su sueldo desde 1º de octubre próximo en adelante. (li dona permís per anar a Barcelona a buscar la familia y demana que li reserven al poble l’habitació que tenia Sors). ACA_BGRP.RP. Cajas, 2.\n\nNaudín al 1787 diu que es \"empleado para sus apuntaciones\". (ACA_BGRP_Correspondència_caixa 9).\n\nEl 29 de març de 1787 diu que té deutes amb els germans Lanti per la seua estança a la fonda amb la seua dona Antonia Vallescar i amb la criada. A aquesta data ja no estàn. Tenen casa edificada al poble (ACA BGPR Correspondencia Caixa 9).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

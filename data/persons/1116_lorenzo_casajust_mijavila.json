@@ -1,0 +1,75 @@
+{
+  "id": "1116_lorenzo_casajust_mijavila",
+  "source_id": "1116",
+  "row_ref": "1116. Lorenzo Casajust Mijavila",
+  "name": "Lorenzo Casajust Mijavila",
+  "gender": "male",
+  "birth": {
+    "date": "1802-01-07",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1836-04-07",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1094_ignacio_casajust_ballester"
+    ],
+    "father": "1094_ignacio_casajust_ballester",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Ignacio Casajust Ballester",
+      "Vicenta Mijavila Bayarri"
+    ],
+    "father_name": "Ignacio Casajust Ballester",
+    "mother_name": "Vicenta Mijavila Bayarri",
+    "spouse_names": [
+      "Teresa Reverté Forné"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Lorenzo Casadevall",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 7 de gener de 1802 a la Ràpita.\n\nPadrins: Don Lorenzo Casadevall i Doña Juana Müller de Fridberg.\n\nCasament: el 10 d'abril de 1828 amb Teresa Reverté Forné d'Alcanar [1802].\n\nFills: Ignacio Lorenzo [1830], Ignés [1832] i Manuel [1834].\n\nDefunció: el 7 d'abril de 1836 a la Ràpita. No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

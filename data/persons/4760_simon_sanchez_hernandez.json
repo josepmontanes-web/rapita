@@ -1,0 +1,77 @@
+{
+  "id": "4760_simon_sanchez_hernandez",
+  "source_id": "4760",
+  "row_ref": "4760. Simón Sánchez Hernández",
+  "name": "Simón Sánchez Hernández",
+  "gender": "male",
+  "birth": {
+    "date": "1827-01-01",
+    "place": "Villa de Quesada (Jaen)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3367_juan_antonio_mies_sanchez"
+    ],
+    "father": "3367_juan_antonio_mies_sanchez",
+    "mother": null,
+    "spouse": [
+      "2962_eugenia_llorens_cambra"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Antonio Míes Sánchez",
+      "Agueda Hernández"
+    ],
+    "father_name": "Juan Antonio Sánchez",
+    "mother_name": "Agueda Hernández",
+    "spouse_names": [
+      "Eugenia Llorens Cambra"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Gimnastic"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Quesada (Jaén) [aprox. 1827]. \n\nProfessió: gimnastic.\n\nCasament: el 23 de juny de 1854 amb Eugenia Llorens Cambra de la Ràpita [1833]. Es casa als 27 anys. Testimonis: Tomás Borràs i Vicente Uguet.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

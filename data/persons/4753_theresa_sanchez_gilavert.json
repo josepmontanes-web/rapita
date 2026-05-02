@@ -1,0 +1,73 @@
+{
+  "id": "4753_theresa_sanchez_gilavert",
+  "source_id": "4753",
+  "row_ref": "4753. Theresa Sánchez Gilavert",
+  "name": "Theresa Sánchez Gilavert",
+  "gender": "female",
+  "birth": {
+    "date": "1806-01-01",
+    "place": "Salinas Alfaques"
+  },
+  "death": {
+    "date": "1817-04-09",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4709_dionisio_sanchez"
+    ],
+    "father": "4709_dionisio_sanchez",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Dionisio Sánchez",
+      "Josepha Gilavert"
+    ],
+    "father_name": "Dionisio Sánchez",
+    "mother_name": "Josepha Gilavert",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Les Salines dels Alfacs [aprox. 1806]. \n\nDefunció: el 9 d'abril de 1817 a la Ràpita. Va morir als 11 anys de \"espasmo\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

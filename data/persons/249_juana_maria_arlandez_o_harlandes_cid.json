@@ -1,0 +1,71 @@
+{
+  "id": "249_juana_maria_arlandez_o_harlandes_cid",
+  "source_id": "249",
+  "row_ref": "249. Juana Maria  Arlández [o Harlandes] Cid",
+  "name": "Juana Maria Arlández [o Harlandes] Cid",
+  "gender": "female",
+  "birth": {
+    "date": "1821-09-03",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Thomas Harlandes Riba",
+      "Mª.de la Cinta Cid Ferrer"
+    ],
+    "father_name": "Thomas Harlandes Riba",
+    "mother_name": "Mª.de la Cinta Cid Ferrer",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Castellà",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 3 de setembre de 1821 a la Ràpita.\n\nPadrins: Juan Castellà i María Safon.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

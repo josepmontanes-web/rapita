@@ -1,0 +1,74 @@
+{
+  "id": "815_francisco_bosch_subirats",
+  "source_id": "815",
+  "row_ref": "815. Francisco Bosch Subirats",
+  "name": "Francisco Bosch Subirats",
+  "gender": "male",
+  "birth": {
+    "date": "1841-03-29",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1842-06-10",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "816_francisco_bosch_torta",
+      "5217_tomasa_subirats_torta"
+    ],
+    "father": "816_francisco_bosch_torta",
+    "mother": "5217_tomasa_subirats_torta",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Bosch Torta",
+      "Tomasa Subirats Torta"
+    ],
+    "father_name": "Francisco Bosch Torta",
+    "mother_name": "Tomasa Subirats Torta",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Miguel Borràs",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 29 de març de 1841 a la Ràpita.\n\nPadrins: Miguel Borràs i Gerónima Bernis.\n\nDefunció: el 10 de juny de 1842 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

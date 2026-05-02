@@ -1,0 +1,74 @@
+{
+  "id": "3609_alexandro_navarro_castella",
+  "source_id": "3609",
+  "row_ref": "3609. Alexandro Navarro Castellá",
+  "name": "Alexandro Navarro Castellá",
+  "gender": "male",
+  "birth": {
+    "date": "1833-05-03",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3600_jose_navarro_balaguer",
+      "1236_margarita_castella_colomines"
+    ],
+    "father": "3600_jose_navarro_balaguer",
+    "mother": "1236_margarita_castella_colomines",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Navarro Balaguer",
+      "Margarita Castellà Colomines"
+    ],
+    "father_name": "José Navarro Balaguer",
+    "mother_name": "Margarita Castellà Colomines",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Pedro Navarro",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 3 de maig de 1833 a la Ràpita. \"Por encontrarse en peligro de morir, fue bautizado en la casa de sus padres por Andrés Verge cirujano de 48 años\".\n\nPadrins: Pedro Navarro i Teresa Montserrat.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

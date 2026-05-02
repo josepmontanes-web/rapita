@@ -1,0 +1,73 @@
+{
+  "id": "4483_maria_luisa_romeu_pla",
+  "source_id": "4483",
+  "row_ref": "4483. María Luísa Romeu Pla",
+  "name": "María Luísa Romeu Pla",
+  "gender": "female",
+  "birth": {
+    "date": "1796-11-18",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1799-07-10",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4501_jacinto_romeu_vidiella"
+    ],
+    "father": "4501_jacinto_romeu_vidiella",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Jacinto Romeu Vidiella",
+      "Eugenia Pla Sánchez"
+    ],
+    "father_name": "Jacinto Romeu Bediella",
+    "mother_name": "Eugenia Pla Sánchez",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Luís Chiveli",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 18 de novembre de 1796 a la Ràpita.\n\nPadrins: Luís Chiveli i María Guardia.\n\nDefunció: el 10 de juliol de 1799 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

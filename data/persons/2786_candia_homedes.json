@@ -1,0 +1,78 @@
+{
+  "id": "2786_candia_homedes",
+  "source_id": "2786",
+  "row_ref": "2786. Candia Homedes",
+  "name": "Candia Homedes",
+  "gender": "female",
+  "birth": {
+    "date": "1785-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1840-09-27",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "4658_jose_antonio_salomo_homedes",
+      "5668_rafael_zaragoza_homedes",
+      "5669_buenaventura_zaragoza_homedes"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Antonio Salamó"
+    ],
+    "children_names": [
+      "José Antonio Salomó Homedes",
+      "Rafael Zaragoza Homedes",
+      "Buenaventura Zaragoza Homedes"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1785].\n\nCasament: amb Antonio Salomó de Vinaròs [o Tortosa] [1785].\n\nFills: Rosa (Vinaròs) [1805], Dolores (Vinaròs) [1811] i José Antonio (Vinaròs) [1814].\n\nDefunció: el 27 de setembre de 1840 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

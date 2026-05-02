@@ -1,0 +1,80 @@
+{
+  "id": "3977_maria_pla",
+  "source_id": "3977",
+  "row_ref": "3977. María Pla",
+  "name": "María Pla",
+  "gender": "female",
+  "birth": {
+    "date": "1753-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1833-06-05",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "4632_jose_safont_gimeno"
+    ],
+    "children": [
+      "4314_bautista_reverter_pla",
+      "4640_jose_safont_pla",
+      "4641_manuel_safont_pla"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "José Safont Gimeno"
+    ],
+    "children_names": [
+      "Bautista Reverter Pla",
+      "José Safont Pla",
+      "Manuel Safont Pla"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1753]. Es veïna del Codonyol.\n\nCasament: amb José Safont Gimeno d'Alcalá de la Selva (Teruel) [1743].\n\nFills: José (Alcanar) [1775], Manuel (Alcanar) [1778], Agustín [1784], Bautista [1781] i Juan [1791].\n\nA l'estat de veïns de setembre de 1798 diu que viuen a la casa núm. 13 de la \"Calle Mayor\"  amb Don Josef Bitner (ACA BGRP Cajas 34).\n\nDel juliol de 1822 al juny de 1823 paga 8 Rv mensuals pel lloguer d'una part de la casa núm. 1 de la mansana 1 (es la que avui està a la cantonada de la Plaça Carles III amb el carrer Sant Antoni).\n\nDefunció: el 5 de juny de 1833 a la Ràpita. Va morir als 80 anys. Fa testament davant de Fray Narciso Esteller el 5 de febrer de 1824. \"Dotó su alma en 120 reales de vellón\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "5037_tomas_sastre",
+  "source_id": "5037",
+  "row_ref": "5037. Tomás Sastre",
+  "name": "Tomás Sastre",
+  "gender": "male",
+  "birth": {
+    "date": "1743-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1815-10-20",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "5038_teresa_sastre_borrell",
+      "5039_francisca_sastre_borrell"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Francisca Borrell"
+    ],
+    "children_names": [
+      "Teresa Sastre Borrell",
+      "Francisca Sastre Borrell"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Teixidor"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1743]. \n\nVeí de la Torre del Codonyol.\n\nProfessió: teixidor i torrer de la torre del Codonyol.\n\nCasament: amb Francisca Borrell Foguet de Tortosa [1744].\n\nFills: Teresa (Tortosa) [1770] i Francisca (Tortosa) [1773].\n\nA l’estat de veïns de la població de San Carlos de l’1 de setembre de 1798 (ACA BGRP caixa 34) consta que Tomás Sastre viu a la Torre del Codonyol. Viu amb tota la família extensa: la seua dona Cisca Borrell i Foguet de Tortosa, la seua sogra Cisca Foguet i Agramunt, la seua filla Teresa, el seu gendre Jacint Vidal i Palos, els fills d’aquesta parella, Tomàs, Josep Antoni, Francesc, Francesca, Francesc Antoni i tres criats.\n\nA partir del juny de 1803, Tomás Sastre viu a la casa número 8 (aproximadament a l’actual Plaça Carles III, 48) (ACA BGRP caixa 34). \n\nDefunció: el 20 d'octubre de 1815 a la Ràpita. Va morir als 72 anys. Fa testament davant del capellà.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

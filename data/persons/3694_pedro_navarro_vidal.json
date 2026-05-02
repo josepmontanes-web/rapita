@@ -1,0 +1,75 @@
+{
+  "id": "3694_pedro_navarro_vidal",
+  "source_id": "3694",
+  "row_ref": "3694. Pedro Navarro Vidal",
+  "name": "Pedro Navarro Vidal",
+  "gender": "male",
+  "birth": {
+    "date": "1829-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3647_tomas_navarro_lluis"
+    ],
+    "father": "3647_tomas_navarro_lluis",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomás Navarro Lluís",
+      "Maria Vidal Talarn"
+    ],
+    "father_name": "Tomás Navarro Lluis",
+    "mother_name": "Maria Vidal Talarn",
+    "spouse_names": [
+      "Antonia Obiol Simó"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pescador"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1829]. \n\nProfessió: pescador.\n\nCasament: el 18 de desembre de 1852 amb Antonia Obiol Simó de Peníscola [1832]. Es casa als 23 anys. Testimonis: José Vernis i Sebastián Sabaté.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

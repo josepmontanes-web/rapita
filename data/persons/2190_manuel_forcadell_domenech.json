@@ -1,0 +1,81 @@
+{
+  "id": "2190_manuel_forcadell_domenech",
+  "source_id": "2190",
+  "row_ref": "2190. Manuel Forcadell Domenech",
+  "name": "Manuel Forcadell Domenech",
+  "gender": "male",
+  "birth": {
+    "date": "1745-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1802-12-10",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "310_josefa_badia_peris"
+    ],
+    "children": [
+      "2180_manuel_forcadell_badia",
+      "2218_jose_forcadell_reverter"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Forcadell",
+      "Josefa Domenech"
+    ],
+    "father_name": "Bautista Forcadell",
+    "mother_name": "Josefa Domenech",
+    "spouse_names": [
+      "Josefa Badia Peris"
+    ],
+    "children_names": [
+      "Manuel Forcadell Badia",
+      "José Forcadell Reverter"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1745].\n\nCasament: amb Josefa Badia Peris d'Ulldecona [1745].\n\nFills: Manuel (Alcanar) [1773] i Francisco [1775].\n\nDel novembre de 1795 al agost 1798 la seua dona paga un lloguer de 4 Rs mensuals per la casa 1 de la Fonda Vella.\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Mansana Vella núm. 5 (ACA BGRP Cajas 34).\n\nDel setembre de 1798 al juny de 1801 paga un lloguer de 6 Rs mensuals per la casa 5 de la Mansana Vella.\n\nDefunció: el 10 de desembre de 1802 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

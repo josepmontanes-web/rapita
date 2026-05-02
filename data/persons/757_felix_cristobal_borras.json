@@ -1,0 +1,73 @@
+{
+  "id": "757_felix_cristobal_borras",
+  "source_id": "757",
+  "row_ref": "757. Felix Cristobal Borràs",
+  "name": "Felix Cristobal Borràs",
+  "gender": "male",
+  "birth": {
+    "date": "1842-07-15",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "770_rosa_borras_carbo"
+    ],
+    "father": null,
+    "mother": "770_rosa_borras_carbo",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Incognito",
+      "Rosa Borràs Carbó"
+    ],
+    "father_name": "Incognito",
+    "mother_name": "Rosa Borràs Carbó",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Christobal Alegret",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 15 de juliol de 1842 a la Ràpita.\n\nPadrins: Christobal Alegret i Teresa Montserrat.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

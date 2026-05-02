@@ -1,0 +1,97 @@
+{
+  "id": "5124_blas_silvestre_moreno",
+  "source_id": "5124",
+  "row_ref": "5124. Blas Silvestre Moreno",
+  "name": "Blas Silvestre Moreno",
+  "gender": "male",
+  "birth": {
+    "date": "1772-01-01",
+    "place": "Mequinenza (Zaragoza)"
+  },
+  "death": {
+    "date": "1832-11-18",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "5125_antonia_silvestre_sanchez",
+      "5126_catalina_vicenta_silvestre_sanches",
+      "5127_blas_silvestre_sanchis",
+      "5128_juan_silvestre_sanchis",
+      "5129_tomasa_silvestre_sanchis",
+      "5130_catarina_silvestre_sanchis",
+      "5131_dolores_silvestre_sanchis",
+      "5132_peregrin_silvestre_sanchis",
+      "5133_francisco_silvestre_sanchis",
+      "5134_juan_bautista_silvestre_sanchis",
+      "5135_casimiro_silvestre_sanches"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Silvestre",
+      "Josefa Moreno"
+    ],
+    "father_name": "José Silvestre",
+    "mother_name": "Josefa Moreno",
+    "spouse_names": [
+      "Pascuala Sanchis Yserte"
+    ],
+    "children_names": [
+      "Antonia Silvestre Sánchez",
+      "Catalina Vicenta Silvestre Sanches",
+      "Blas Silvestre Sanchís",
+      "Juan Silvestre Sanchís",
+      "Tomasa Silvestre Sanchís",
+      "Catarina Silvestre Sanchís",
+      "Dolores Silvestre Sanchís",
+      "Peregrín Silvestre Sanchís",
+      "Francisco Silvestre Sanchís",
+      "Juan Bautista Silvestre Sanchís",
+      "Casimiro Silvestre Sanches"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Mequinenza (Zaragoza) [aprox. 1772]. \n\nProfessió: pagès i pescater.\n\nCasament: a Amposta el 4 de desembre de 1797 amb Pascuala Sanchís [o Sánchez] Iserte [o Yserte] de Sarrión (Teruel) [1775].\n\nFills: Catalina Vicenta [1798], Blas [1801], Juan [1804], Peregrín [1807], Tomasa [1809], Juan Bautista [1812], Francisco [1815], Antonia [1817], Casimiro [1820], Catarina [1823] i Dolores [1826].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Fonda Vella (ACA BGRP Cajas 34).\n\nDefunció: el 18 de novembre de 1832 a la Ràpita.Va morir als 60 anys. \"Hzo testamento ante mi (el cura), a los 27 de noviembre de 1830, dotó su alma en 280 reales de vellón\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

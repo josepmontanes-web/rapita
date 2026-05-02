@@ -1,0 +1,73 @@
+{
+  "id": "5295_asuncion_tomas_rams",
+  "source_id": "5295",
+  "row_ref": "5295. Asunción Tomàs Rams",
+  "name": "Asunción Tomàs Rams",
+  "gender": "female",
+  "birth": {
+    "date": "1844-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1847-02-21",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3575_juan_munoz_tomas"
+    ],
+    "father": "3575_juan_munoz_tomas",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Muñoz Tomas",
+      "Cinta Rams"
+    ],
+    "father_name": "Juan Tomàs",
+    "mother_name": "Cinta Rams",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1844].\n\nDefunció: el 21 de febrer de 1847 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

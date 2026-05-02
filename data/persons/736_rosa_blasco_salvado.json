@@ -1,0 +1,68 @@
+{
+  "id": "736_rosa_blasco_salvado",
+  "source_id": "736",
+  "row_ref": "736. Rosa Blasco Salvadó",
+  "name": "Rosa Blasco Salvadó",
+  "gender": "female",
+  "birth": {
+    "date": "1850-01-01",
+    "place": "Peníscola"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Peníscola [aprox. 1850]. Potser ha nascut a 1846.\n\nCasament: amb Francisco García Tarragó de Calpe [1840].\n\nFills: Luís [1877], Agustín Ramón [1879] i José [1881].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

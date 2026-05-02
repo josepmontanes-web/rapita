@@ -1,0 +1,96 @@
+{
+  "id": "3037_rafaela_lopez_segarra",
+  "source_id": "3037",
+  "row_ref": "3037. Rafaela López Segarra",
+  "name": "Rafaela López Segarra",
+  "gender": "female",
+  "birth": {
+    "date": "1800-06-02",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2996_juan_lopez_flores",
+      "5045_maria_segarra_bel"
+    ],
+    "father": "2996_juan_lopez_flores",
+    "mother": "5045_maria_segarra_bel",
+    "spouse": [
+      "4009_manuel_pons_reverter"
+    ],
+    "children": [
+      "4001_gervasio_pons_lopez",
+      "4002_gervasia_pons_lopez",
+      "4003_isidro_pons_lopez",
+      "4004_juan_bautista_pons_lopez",
+      "4005_vicente_pons_lopez",
+      "4006_francisca_pons_lopez",
+      "4007_tomas_pons_lopez",
+      "4008_manuel_pons_lopez"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan López Flores",
+      "María Segarra Bel"
+    ],
+    "father_name": "Juan López Flores",
+    "mother_name": "María Segarra Bel",
+    "spouse_names": [
+      "Manuel Pons Reverter"
+    ],
+    "children_names": [
+      "Gervasio Pons López",
+      "Gervasia Pons López",
+      "Isidro Pons López",
+      "Juan Bautista Pons López",
+      "Vicente Pons López",
+      "Francisca Pons López",
+      "Tomás Pons López",
+      "Manuel Pons López"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Manuel Benlloc",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 2 de juny de 1800 a la Ràpita.\n\nPadrins: Manuel Benlloch i Rafaela Guasch.\n\nCasament: el 4 de setembre de 1820 amb Manuel Pons Reverter d'Amposta [1800].\n\nFills: María Francisca [1821], Vicente [1823], Juan Bautista [1825], Gervasio [1828], Gervasia [1830], Isidro [1832], Tomás [1835] i Manuel [1838].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

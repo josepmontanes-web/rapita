@@ -1,0 +1,74 @@
+{
+  "id": "2732_agustina_guardia_matamoros",
+  "source_id": "2732",
+  "row_ref": "2732. Agustina Guardia Matamoros",
+  "name": "Agustina Guardia Matamoros",
+  "gender": "female",
+  "birth": {
+    "date": "1847-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1848-01-22",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2719_bautista_guardia_bort",
+      "3173_josefa_matamoros_biosca"
+    ],
+    "father": "2719_bautista_guardia_bort",
+    "mother": "3173_josefa_matamoros_biosca",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Guardia Bort",
+      "Josefa Matamoros Biosca"
+    ],
+    "father_name": "Bautista Guardia Bort",
+    "mother_name": "Josefa Matamoros Biosca",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1847].\n\nDefunció: el 22 de gener de 1848 a la Ràpita. Va morir quan tenia 1 any.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "id": "4009_manuel_pons_reverter",
+  "source_id": "4009",
+  "row_ref": "4009. Manuel Pons Reverter",
+  "name": "Manuel Pons Reverter",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4176_francisca_reverter"
+    ],
+    "father": null,
+    "mother": "4176_francisca_reverter",
+    "spouse": [
+      "3037_rafaela_lopez_segarra"
+    ],
+    "children": [
+      "4001_gervasio_pons_lopez",
+      "4002_gervasia_pons_lopez",
+      "4003_isidro_pons_lopez",
+      "4004_juan_bautista_pons_lopez",
+      "4005_vicente_pons_lopez",
+      "4006_francisca_pons_lopez",
+      "4007_tomas_pons_lopez",
+      "4008_manuel_pons_lopez"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Pons",
+      "Francisca Reverter"
+    ],
+    "father_name": "Francisco Pons",
+    "mother_name": "Francisca Reverter",
+    "spouse_names": [
+      "Rafaela López Segarra"
+    ],
+    "children_names": [
+      "Gervasio Pons López",
+      "Gervasia Pons López",
+      "Isidro Pons López",
+      "Juan Bautista Pons López",
+      "Vicente Pons López",
+      "Francisca Pons López",
+      "Tomás Pons López",
+      "Manuel Pons López"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1800]. \n\nCasament: el 4 de setembre de 1820 amb Rafaela López Segarra de la Ràpita [1800].\n\nFills: María Francisca [1821], Vicente [1823], Juan Bautista [1825], Gervasio [1828], Gervasia [1830], Isidro [1832], Tomás [1835] i Manuel [1838].\n\nDe l'1 de gener de 1832 al 31 de juliol de 1839 ha de pagar un lloguer de 8 Rs mensuals per la casa 10 del carrer del Forn. (AGP.PER.LEG.1073/23 [Juan Vecino]).\n\nEs germà de Luís Pons Reverter [1810].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "2898_ramon_julbe_calduch",
+  "source_id": "2898",
+  "row_ref": "2898. Ramón Julbe Calduch",
+  "name": "Ramón Julbe Calduch",
+  "gender": "male",
+  "birth": {
+    "date": "1831-01-01",
+    "place": "Freginals"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Ramon Julbe",
+      "Antonia Calduch"
+    ],
+    "father_name": "Ramon Julbe",
+    "mother_name": "Antonia Calduch",
+    "spouse_names": [
+      "Mª.del Consuelo Rams Garriga"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Jornaler"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Freginals [aprox. 1831].\n\nProfessió: jornaler.\n\nCasament: el 22 d'abril de 1854 amb Consuelo Rams Garriga de la Ràpita [1830]. Es casa als 23 anys. Testimonis: José Chalé i Bautista Sancho.\n\nFills: Ramón [1855].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

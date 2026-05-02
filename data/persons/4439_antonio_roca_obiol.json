@@ -1,0 +1,79 @@
+{
+  "id": "4439_antonio_roca_obiol",
+  "source_id": "4439",
+  "row_ref": "4439. Antonio Roca Obiol",
+  "name": "Antonio Roca Obiol",
+  "gender": "male",
+  "birth": {
+    "date": "1831-01-01",
+    "place": "Penyiscola"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4439_antonio_roca_obiol"
+    ],
+    "father": "4439_antonio_roca_obiol",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "4439_antonio_roca_obiol"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Roca Obiol",
+      "Vicenta Obiol"
+    ],
+    "father_name": "Antonio Roca",
+    "mother_name": "Vicenta Obiol",
+    "spouse_names": [
+      "Maria Añó Diago"
+    ],
+    "children_names": [
+      "Antonio Roca Obiol"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pescador"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Peníscola [aprox. 1831]. \n\nProfessió: pescador.\n\nCasament: el 3 d'abril de 1854 amb María Añó Diago de la Ràpita [1830]. Es casa als 23 anys. Testimonis: Tomás Navarro i Bautista Castellà.\n\nFills: Francisco [1856].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

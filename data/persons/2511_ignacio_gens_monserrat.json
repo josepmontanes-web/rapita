@@ -1,0 +1,78 @@
+{
+  "id": "2511_ignacio_gens_monserrat",
+  "source_id": "2511",
+  "row_ref": "2511. Ignacio Gens Monserrat",
+  "name": "Ignacio Gens Monserrat",
+  "gender": "male",
+  "birth": {
+    "date": "1810-09-09",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2510_pablo_gens_miyso",
+      "3475_lorenza_monserrat_guasch"
+    ],
+    "father": "2510_pablo_gens_miyso",
+    "mother": "3475_lorenza_monserrat_guasch",
+    "spouse": [],
+    "children": [
+      "2510_pablo_gens_miyso"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pablo Gens Miysó",
+      "Lorenza Monserrat Guasch"
+    ],
+    "father_name": "Pablo Gens Miysó",
+    "mother_name": "Lorenza Monserrat Guasch",
+    "spouse_names": [],
+    "children_names": [
+      "Pablo Gens Miysó"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Ignacio Gens",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 9 de setembre de 1810 a la Ràpita.\n\nPadrins: Ignacio Gens i Madalena Miysó.\n\nEs bessó de María Cinta.\n\n\"Fueron bautizados en caso de necesidad por el Doctor Don Francisco Fonollosa Beneficiales de la Parroquia de Vinaroz los que nacieron  dia nueve de agosto dentro de este Puerto\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

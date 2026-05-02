@@ -1,0 +1,73 @@
+{
+  "id": "1100_eleuterio_casajust_castella",
+  "source_id": "1100",
+  "row_ref": "1100. Eleuterio Casajust Castellà",
+  "name": "Eleuterio Casajust Castellà",
+  "gender": "male",
+  "birth": {
+    "date": "1832-09-05",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1114_francisco_casajust_michavila"
+    ],
+    "father": "1114_francisco_casajust_michavila",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Casajust Michavila",
+      "Teresa Castellà Calderó"
+    ],
+    "father_name": "Francisco Casajust Michavila",
+    "mother_name": "Teresa Castellà Calderó",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 5 de setembre de 1832 a la Ràpita.\n\nPadrina: María Calderó.\n\nCasament: amb Manuela Reverté Segarra de la Ràpita [1830].\n\nFills: Agustín [1859] i Teresa [1862].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

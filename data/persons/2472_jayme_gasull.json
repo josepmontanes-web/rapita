@@ -1,0 +1,70 @@
+{
+  "id": "2472_jayme_gasull",
+  "source_id": "2472",
+  "row_ref": "2472. Jayme Gasull",
+  "name": "Jayme Gasull",
+  "gender": "male",
+  "birth": {
+    "date": "1780-01-01",
+    "place": "Perelló"
+  },
+  "death": {
+    "date": "1825-03-25",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Francisca Escodana"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: al Perelló [aprox. 1780].\n\nCasament: amb Francisca Escodana.\n\nDefunció: el 25 de març de 1825 a la Ràpita. Va morir \"en el mar de desgracia por haberle caído la antena del barco en que iba sobre la cabeza\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

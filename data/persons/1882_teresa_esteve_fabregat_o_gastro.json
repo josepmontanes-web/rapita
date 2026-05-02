@@ -1,0 +1,68 @@
+{
+  "id": "1882_teresa_esteve_fabregat_o_gastro",
+  "source_id": "1882",
+  "row_ref": "1882. Teresa Esteve Fabregat [o Gastro]",
+  "name": "Teresa Esteve Fabregat [o Gastro]",
+  "gender": "female",
+  "birth": {
+    "date": "1876-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1876]. Viuen a Amposta.\n\nDefunció: el 5 de gener de 1878 a la Ràpita als 21 mesos d'erisipela al domicili de Miguel Reverté.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

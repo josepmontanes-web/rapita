@@ -1,0 +1,74 @@
+{
+  "id": "826_pedro_jose_breciano_pasqual",
+  "source_id": "826",
+  "row_ref": "826. Pedro José Breciano Pasqual",
+  "name": "Pedro José Breciano Pasqual",
+  "gender": "male",
+  "birth": {
+    "date": "1806-06-04",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1806-06-08",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "823_pedro_bresciano_burastero",
+      "3826_francisca_pasqual_fuster"
+    ],
+    "father": "823_pedro_bresciano_burastero",
+    "mother": "3826_francisca_pasqual_fuster",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Bresciano Burastero",
+      "Francisca Pasqual Fuster"
+    ],
+    "father_name": "Pedro Bresciano Borastero",
+    "mother_name": "Francisca Pasqual Fuster",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Antonio Rosales",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 4 de juny de 1806 a la Ràpita.\n\nPadrins: Antonio Rosales i Mariana Pasqual.\n\nDefunció: el 8 de juny de 1806 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

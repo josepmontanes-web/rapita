@@ -1,0 +1,83 @@
+{
+  "id": "3994_miguel_planes_fabrega",
+  "source_id": "3994",
+  "row_ref": "3994. Miguel Planes Fabrega",
+  "name": "Miguel Planes Fabrega",
+  "gender": "male",
+  "birth": {
+    "date": "1750-01-01",
+    "place": "San Clemente de Sesevas"
+  },
+  "death": {
+    "date": "1801-11-09",
+    "place": "Sant Carles de la Rapita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "2754_rita_gubern"
+    ],
+    "children": [
+      "3995_eulalia_planes_gubern",
+      "3996_lorenzo_planes_gubern",
+      "3997_francisca_planes_guvern"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "N. Planes",
+      "Clementa Fabrega"
+    ],
+    "father_name": "N. Planes",
+    "mother_name": "Clementa Fabrega",
+    "spouse_names": [
+      "Rita Gubern"
+    ],
+    "children_names": [
+      "Eulalia Planes Gubern",
+      "Lorenzo Planes Gubern",
+      "Francisca Planes Guvern"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Sant Climent Sescebes (Girona) [aprox. 1750]. \n\nAl estiu de 1781 treballa a les Obres del Canal de Navegació, també ven fornades de calç (ACA BGRP caixa 44).\n\nAl febrer de 1784 treballa com a paleta a una de les brigades de treballadors de les obres del Canal de Navegació. Al setembre de 1784 li paguen 225 Rs per eixamplar el pont del primer barranc cap a Alcanar. Al novembre de 1784 li paguen 825 Rs per arrancar, llaurar i colocar la pedra per al coronament dels ampits (\"pretiles\") del pont del barranc dels Penjats. (ACA BGRP caixa 47).\n\nCasament: amb Rita Gubern de Sant Feliu de Llobregat [o Reus] [1755].\n\nFills: Eulalia (Amposta) [1775], Lorenzo [1790] i Francisca (Amposta) [1793].\n\nDefunció: el 9 de novembre de 1801 a la Ràpita.\n\nEl 29 de maig de 1784 demana permís per a fer una casa. A l'estat de veïns de setembre de 1798 diu que viuen a una casa al costat de l'esglesia (ACA BGRP Cajas 34).\n\nAparellador interí de les Obres des de 1786. (ACA_BGRP_Correspondència_caixa 9).\n\nEs veí de la Ràpita a 1796 (ACA Processos 1796 7F).\n\nHaviendo pegado fuego a la maleza de la otra parte del barranco del puente inmediato de esta población, con motivo del viento de Levecho, atravesó aquel el barranco con tanta furia que a no haber mediado tocar en la casa y acudir a todos estos trabajadores, y muchos otros a apagarlo, hubieran sucedido algunas desgracias, respecto hallarse como a cosa de unos 20 pasos de los pajares de la era de las monjas y otro tanto de las casas del hornero y Planas que havia mui inmediato a la del primero, un pajar bastante grande, lleno de trigo, pero se cortó su furia en poco tiempo a fuerza de agua y demas disposiciones dejandolo enteramente apagado y al [arbde] que es la única novedad digna de participar a vm, 15.7.1789 a José Naudin (ACA BGRP caixa 10).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

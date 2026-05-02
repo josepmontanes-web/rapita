@@ -1,0 +1,77 @@
+{
+  "id": "914_ramon_cabrera_martinez",
+  "source_id": "914",
+  "row_ref": "914. Ramón Cabrera Martínez",
+  "name": "Ramón Cabrera Martínez",
+  "gender": "male",
+  "birth": {
+    "date": "1823-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4973_mariano_sans_cabrera"
+    ],
+    "father": "4973_mariano_sans_cabrera",
+    "mother": null,
+    "spouse": [
+      "4792_paula_sanchez_reverter"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Mariano Sans Cabrera",
+      "Rosa Martínez"
+    ],
+    "father_name": "Mariano Cabrera",
+    "mother_name": "Rosa Martínez",
+    "spouse_names": [
+      "Paula Sánchez Reverter"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1823].\n\nCasament: l'1 d'octubre de 1842 amb Paula Sánchez Reverter [1824].\n\nFills: Bautista [1845], Ramón [1846] i María [1857].\n\nEs germà d'Agustín Cabrera Martínez [1827].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

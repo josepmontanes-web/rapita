@@ -1,0 +1,71 @@
+{
+  "id": "5420_jose_martin_vallcorba_ferre",
+  "source_id": "5420",
+  "row_ref": "5420. José Martín Vallcorba Ferré",
+  "name": "José Martín Vallcorba Ferré",
+  "gender": "male",
+  "birth": {
+    "date": "1841-12-12",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Cayetano Vallcorba Mulà",
+      "Ramona Ferré Roca"
+    ],
+    "father_name": "Cayetano Vallcorba Mulà",
+    "mother_name": "Ramona Ferré Roca",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Martín Ferrer",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 12 de desembre de 1841 a la Ràpita.\n\nPadrins: Martín Ferrer i Rosa Roca.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

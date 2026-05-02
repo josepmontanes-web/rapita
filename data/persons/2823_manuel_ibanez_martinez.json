@@ -1,0 +1,85 @@
+{
+  "id": "2823_manuel_ibanez_martinez",
+  "source_id": "2823",
+  "row_ref": "2823. Manuel Ibáñez Martínez",
+  "name": "Manuel Ibáñez Martínez",
+  "gender": "male",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "El Cabañal de Valéncia"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2822_sebastian_ibanez_martinez"
+    ],
+    "father": "2822_sebastian_ibanez_martinez",
+    "mother": null,
+    "spouse": [
+      "2279_vicenta_gallart_prime"
+    ],
+    "children": [
+      "2164_juan_bautista_fonollosa_guardino",
+      "2814_escolastica_ibanez_gallart",
+      "2815_antonia_ibanez_gallart"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Sebastián Ibáñez Martínez",
+      "María Martínez"
+    ],
+    "father_name": "Sebastián Ibáñez",
+    "mother_name": "María Martínez",
+    "spouse_names": [
+      "Vicenta Gallart Primé"
+    ],
+    "children_names": [
+      "Juan Bautista Fonollosa Guardino",
+      "Escolastica Ibáñez Gallart",
+      "Antonia Ibáñez Gallart"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: al Cabanyal (València) [aprox. 1810].\n\nCasament: amb Vicenta Gallart Primé del Perelló (València) [1810].\n\nFills: Antonia [1833] i Escolástica [1837].\n\nEs germà de Sebastián Ibáñez Martínez [1800].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

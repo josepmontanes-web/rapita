@@ -1,0 +1,74 @@
+{
+  "id": "5326_manuela_torralva_zaragoza",
+  "source_id": "5326",
+  "row_ref": "5326. Manuela Torralva Zaragoza",
+  "name": "Manuela Torralva Zaragoza",
+  "gender": "female",
+  "birth": {
+    "date": "1794-03-26",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5325_angelo_torralva_claramunt",
+      "5671_vicenta_zaragoza_ripolles"
+    ],
+    "father": "5325_angelo_torralva_claramunt",
+    "mother": "5671_vicenta_zaragoza_ripolles",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Angelo Torralva Claramunt",
+      "Vicenta Zaragoza Ripollés"
+    ],
+    "father_name": "Angelo Torralva Claramunt",
+    "mother_name": "Vicenta Zaragoza Ripollés",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Manuel Izquierdo",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 26 de març de 1794 a la Ràpita.\n\nPadrins: Manuel Izquierdo i Agueda Alegret.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

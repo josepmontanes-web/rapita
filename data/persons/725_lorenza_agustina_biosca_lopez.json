@@ -1,0 +1,74 @@
+{
+  "id": "725_lorenza_agustina_biosca_lopez",
+  "source_id": "725",
+  "row_ref": "725. Lorenza Agustina Biosca López",
+  "name": "Lorenza Agustina Biosca López",
+  "gender": "female",
+  "birth": {
+    "date": "1813-03-20",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "707_pedro_biosca_cid",
+      "3033_isabel_lopez_segarra"
+    ],
+    "father": "707_pedro_biosca_cid",
+    "mother": "3033_isabel_lopez_segarra",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Biosca Cid",
+      "Isabel López Segarra"
+    ],
+    "father_name": "Pedro Biosca Cid",
+    "mother_name": "Isabel López Segarra",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Vidal",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 20 de març de 1813 a la Ràpita.\n\nPadrins: Francisco Vidal i Lorenza Fornesa.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

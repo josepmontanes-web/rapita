@@ -1,0 +1,73 @@
+{
+  "id": "1907_maria_anna_fabregat_fabra",
+  "source_id": "1907",
+  "row_ref": "1907. Maria Anna Fabregat Fabra",
+  "name": "Maria Anna Fabregat Fabra",
+  "gender": "female",
+  "birth": {
+    "date": "1836-08-22",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1839-08-19",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1923_juan_fabregat_mateu"
+    ],
+    "father": "1923_juan_fabregat_mateu",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Fabregat Mateu",
+      "Antonia Fabra Miralles"
+    ],
+    "father_name": "Juan Fabregat Mateu",
+    "mother_name": "Antonia Fabra Miralles",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Fabra",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 22 d'agost de 1836 a la Ràpita.\n\nPadrins: José Fabra i Mariana Subirats.\n\nDefunció: el 19 d'agost de 1839 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

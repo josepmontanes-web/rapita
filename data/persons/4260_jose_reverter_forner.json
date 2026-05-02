@@ -1,0 +1,94 @@
+{
+  "id": "4260_jose_reverter_forner",
+  "source_id": "4260",
+  "row_ref": "4260. José Reverter Forner",
+  "name": "José Reverter Forner",
+  "gender": "male",
+  "birth": {
+    "date": "1794-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1836-11-15",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4177_agustin_reverter",
+      "2232_maria_forner_felip"
+    ],
+    "father": "4177_agustin_reverter",
+    "mother": "2232_maria_forner_felip",
+    "spouse": [],
+    "children": [
+      "4360_maria_reverter_segarra",
+      "4361_miguela_reverter_segarra",
+      "4362_alexandro_reverter_segarra",
+      "4363_jose_antonio_reverte_segarra",
+      "4364_francisca_reverte_segarra",
+      "4365_maria_manuela_reverter_segarra",
+      "4366_pedro_reverter_segarra",
+      "4367_maria_del_carmen_reverter_segarra"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustín Reverter",
+      "Maria Forner Felip"
+    ],
+    "father_name": "Agustín Reverter",
+    "mother_name": "Maria Forner Felip",
+    "spouse_names": [
+      "Casilda Segarra Puchol"
+    ],
+    "children_names": [
+      "María Reverter Segarra",
+      "Miguela Reverter Segarra",
+      "Alexandro Reverter Segarra",
+      "José Antonio Reverté Segarra",
+      "Francisca Reverté Segarra",
+      "María Manuela Reverter Segarra",
+      "Pedro Reverter Segarra",
+      "María del Carmen Reverter Segarra"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1794]. \n\nCasament: el 24 de juliol de 1820 amb Casilda Segarra Puchol de la Ràpita [1799].\n\nFills: María [1821], Miguela [1821], Alexandro [1823], José Antonio [1826], Francisca [1828], María Manuela [1830], Pedro [1834] i María del Carmen [1836].\n\nDefunció: el 15 de novembre de 1836 a la Ràpita. Va morir als 42 anys. No fa testament.\n\nDe l'1 de març de 1831 al 31 de juliol de 1839 ha de pagar un lloguer de 8 Rs mensuals per la casa 7 del carrer del Forn. (AGP.PER.LEG.1073/23 [Juan Vecino]). Podria ser un altre José Reverter.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "5331_fernando_torreno_manchego",
+  "source_id": "5331",
+  "row_ref": "5331. Fernando Torreño Manchego",
+  "name": "Fernando Torreño Manchego",
+  "gender": "male",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Ergastor"
+  },
+  "death": {
+    "date": "1840-08-05",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5331_fernando_torreno_manchego"
+    ],
+    "father": "5331_fernando_torreno_manchego",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "5331_fernando_torreno_manchego"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Fernando Torreño Manchego",
+      "Ana Manchego"
+    ],
+    "father_name": "Fernando Torreño",
+    "mother_name": "Ana Manchego",
+    "spouse_names": [],
+    "children_names": [
+      "Fernando Torreño Manchego"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a El Gastor (Cádiz) [aprox. 1810].\n\n\"Soldado de la Cia. de Grau. del 3er. Batallón del regimiento de infanteria de Africa, 7ª línea\".\n\nDefunció: el 5 d'agost de 1840 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

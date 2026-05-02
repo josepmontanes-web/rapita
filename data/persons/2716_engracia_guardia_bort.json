@@ -1,0 +1,74 @@
+{
+  "id": "2716_engracia_guardia_bort",
+  "source_id": "2716",
+  "row_ref": "2716. Engracia Guardia Bort",
+  "name": "Engracia Guardia Bort",
+  "gender": "female",
+  "birth": {
+    "date": "1821-04-16",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1822-12-16",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2744_bautista_guardia_sanchez",
+      "806_teresa_bort_lleti"
+    ],
+    "father": "2744_bautista_guardia_sanchez",
+    "mother": "806_teresa_bort_lleti",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Guardia Sánchez",
+      "Teresa Bort Lletí"
+    ],
+    "father_name": "Bautista Guardia Sánchez",
+    "mother_name": "Teresa Bort Lletí",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Nicolás Fadgini",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 16 d'abril de 1821 a la Ràpita.\n\nPadrins: Nicolás Fadgini i Manuela Roig.\n\nDefunció: el 16 de desembre de 1822 a la Ràpita. A la partida de defunció el seu nom es María Gracia.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

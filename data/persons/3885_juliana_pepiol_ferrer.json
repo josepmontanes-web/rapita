@@ -1,0 +1,73 @@
+{
+  "id": "3885_juliana_pepiol_ferrer",
+  "source_id": "3885",
+  "row_ref": "3885. Juliana Pepiol Ferrer",
+  "name": "Juliana Pepiol Ferrer",
+  "gender": "female",
+  "birth": {
+    "date": "1843-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1845-01-26",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3898_francisco_pepiol_pascual"
+    ],
+    "father": "3898_francisco_pepiol_pascual",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Pepiol Pascual",
+      "Ramona Ferrer"
+    ],
+    "father_name": "Francisco Pepiol",
+    "mother_name": "Ramona Ferrer",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1843]. \n\nDefunció: el 26 de gener de 1845 a la Ràpita. Va morir pàrvula de 2 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

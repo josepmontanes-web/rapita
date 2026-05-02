@@ -1,0 +1,73 @@
+{
+  "id": "5358_josefa_maria_torta_fabregat",
+  "source_id": "5358",
+  "row_ref": "5358. Josefa María Torta Fabregat",
+  "name": "Josefa María Torta Fabregat",
+  "gender": "female",
+  "birth": {
+    "date": "1840-11-08",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5396_jose_torta_subirats"
+    ],
+    "father": "5396_jose_torta_subirats",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Torta Subirats",
+      "Josefa Fabregat Mateu"
+    ],
+    "father_name": "José Torta Llasat",
+    "mother_name": "Josefa Fabregat Mateu",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Torta",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 8 de novembre de 1840 a la Ràpita.\n\nPadrins: José Torta i Teresa Ferrer.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

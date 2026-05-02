@@ -1,0 +1,73 @@
+{
+  "id": "499_francisco_barbera_lluciano",
+  "source_id": "499",
+  "row_ref": "499. Francisco Barberà Lluciano",
+  "name": "Francisco Barberà Lluciano",
+  "gender": "male",
+  "birth": {
+    "date": "1839-05-12",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "501_jacinto_barbera_obiol"
+    ],
+    "father": "501_jacinto_barbera_obiol",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Jacinto Barberà Obiol",
+      "Clara Lluciano Collado"
+    ],
+    "father_name": "Jacinto Barberà Obiol",
+    "mother_name": "Clara Lluciano Collado",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Matamoros",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 12 de maig de 1839 a la Ràpita.\n\nPadrins: Juan Matamoros de Benicarló i Rafaela Reverter de Traiguera.\n\nSembla que no està viu quan mor la seva mare al març de 1879.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

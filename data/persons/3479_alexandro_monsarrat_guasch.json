@@ -1,0 +1,81 @@
+{
+  "id": "3479_alexandro_monsarrat_guasch",
+  "source_id": "3479",
+  "row_ref": "3479. Alexandro Monsarrat Guasch",
+  "name": "Alexandro Monsarrat Guasch",
+  "gender": "male",
+  "birth": {
+    "date": "1806-08-18",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3463_antonio_monserrat_famadas"
+    ],
+    "father": "3463_antonio_monserrat_famadas",
+    "mother": null,
+    "spouse": [
+      "2358_josefa_garcia_puchol"
+    ],
+    "children": [
+      "3465_vicente_luis_montserrat_garcia"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Monserrat Famadas",
+      "Rafaela Guasch Monpou"
+    ],
+    "father_name": "Antonio Monsarrat Famadas",
+    "mother_name": "Rafaela Guasch Monpou",
+    "spouse_names": [
+      "Josefa García Puchol"
+    ],
+    "children_names": [
+      "Vicente Luís Montserrat García"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Alexandro Beltri",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 18 d'agost de 1806 a la Ràpita.\n\nPadrins: Alexandro Beltri i Lorenza Monsarrat.\n\nCasament: amb Josefa García Puchol de Vinaròs [1810].\n\nFills: Vicente Luís [1841], Francisco [1844], Rafael [1847], Teresa [1850] i Alejandro [1850].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

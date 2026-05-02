@@ -1,0 +1,97 @@
+{
+  "id": "4555_miguel_rosales_valls",
+  "source_id": "4555",
+  "row_ref": "4555. Miguel Rosales Valls",
+  "name": "Miguel Rosales Valls",
+  "gender": "male",
+  "birth": {
+    "date": "1795-01-01",
+    "place": "Arenys de Lledó"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4548_antonio_rosales_sole"
+    ],
+    "father": "4548_antonio_rosales_sole",
+    "mother": null,
+    "spouse": [
+      "2903_catarina_junyent_llao"
+    ],
+    "children": [
+      "4528_joaquina_rosales_junyent",
+      "4529_ramona_rosales_junyent",
+      "4530_tomasa_rosales_junyent",
+      "4531_francisca_rosales_junyent",
+      "4532_juan_rosales_junyent",
+      "4533_josefa_rosales_junyent",
+      "4534_teresa_rosales_junyent",
+      "4535_susana_rosales_junyent",
+      "4536_manuel_rosales_junyent"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Rosales Solé",
+      "Teresa Valls"
+    ],
+    "father_name": "Antonio Rosales",
+    "mother_name": "Teresa Valls",
+    "spouse_names": [
+      "Catarina Junyent Llaó"
+    ],
+    "children_names": [
+      "Joaquina Rosales Junyent",
+      "Ramona Rosales Junyent",
+      "Tomasa Rosales Junyent",
+      "Francisca Rosales Junyent",
+      "Juan Rosales Junyent",
+      "Josefa Rosales Junyent",
+      "Teresa Rosales Junyent",
+      "Susana Rosales Junyent",
+      "Manuel Rosales Junyent"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Arenys de Lledó (Terol) [aprox. 1795]. \n\nCasament: amb Catarina Junyent Llaó de Tortosa [1795].\n\nFills: Juan [1815], Francisca [1816], Tomasa [1817], Susana [1819], Manuel [1820], Joaquina [1822], Josefa [1824], Ramona [1826] i Teresa [1829].\n\nMiguel Rosales hipoteca la casa que posee en la calle San José. Linda con la misma calle, con barranco, con tierras de un vecino de Santa Bárbara y José Matamoros.\n\nToda aquella porción de tierra para [impasto?] o sitio para edificar que contiene 24 palmos catalanes de luz o de ancho y de unos sesenta de profundidad [¿?], sita [] la Población de San Carlos de la Rápita y en la calle del Arrabal de San Isidro que confronta con esta misma calle por la parte de medio dia a oriente con José [Brenal o Crunal ¿?] y a poniente y norte con la [] de Fernando [o Francisco] Guardia y Sancho que tiene bajo directo y alodial dominio de la Amortización el censo de []. Porque no de 46 duros plata que recibió el vendedor []. \n20 de noviembre de 1856\n[Notari don Juan Navaro de Amposta ¿? 2 enero 1857]\nVenta: D. Miguel Rosales propietario de San Carlos a Gabriel Gilabert y Vizcarro labrador.\nValor de la finca 920\n\nMiguel Rosales y Valls en su disposición testamentaria, entre otras cosas que dispuso, dejó el usufructo a su conyuge [] Catarina Junyent e instituyó pro herederos a partes iguales a sus hijas llamadas Joaquina, Tomasa, Ramona y Francisca en [] y a sus nietas llamadas Miguela y Magdalena Rosales hijas de su difunto hijo Juan en [].\n20 de mayo de 1857\n[notari: D. Juan Ventura de Amposta]\nTestamento: Miguel Rosales de San Carlos. Murió el 24 de mayo de 1857.\nValor 15043",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

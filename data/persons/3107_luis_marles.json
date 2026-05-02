@@ -1,0 +1,68 @@
+{
+  "id": "3107_luis_marles",
+  "source_id": "3107",
+  "row_ref": "3107. Luís Marles",
+  "name": "Luís Marles",
+  "gender": "male",
+  "birth": {
+    "date": "1750-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "5 Nov 1782. Canals a Martorell: dice haber señalado a dn Luis Marles 80  jornales y son 120 les que se le han establecido y debe vm señalarle con 6 o 7 de frente al canal pareciéndome muy bien haya vm dispuesto la rotura que les corresponde para que pueda verificarse la siembra en la próxima cosecha. ACA_BGRP.RP. Cajas, 2.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

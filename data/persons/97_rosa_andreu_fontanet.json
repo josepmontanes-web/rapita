@@ -1,0 +1,87 @@
+{
+  "id": "97_rosa_andreu_fontanet",
+  "source_id": "97",
+  "row_ref": "97. Rosa Andreu Fontanet",
+  "name": "Rosa Andreu Fontanet",
+  "gender": "female",
+  "birth": {
+    "date": "1811-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "2711_agustin_guardia_bort"
+    ],
+    "children": [
+      "2699_pedro_nolasco_guardia_andreu",
+      "2700_maria_de_la_cinta_guardia_andreu",
+      "2701_miguel_francisco_guardia_andreu",
+      "2702_jose_guardia_andreu",
+      "2703_francisca_rafaela_guardia_andreu"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Andreu",
+      "Maria Fontanet"
+    ],
+    "father_name": "Pedro Andreu",
+    "mother_name": "Maria Fontanet",
+    "spouse_names": [
+      "Agustín Guardia Bort"
+    ],
+    "children_names": [
+      "Pedro Nolasco Guardia Andreu",
+      "María de la Cinta Guardia Andreu",
+      "Miguel Francisco Guardia Andreu",
+      "José Guardia Andreu",
+      "Francisca Rafaela Guardia Andreu"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  a Tortosa [aprox. 1811].\n\nEs germana de Francisca Andreu Fontanet de Tortosa [1800].\n\nCasament: el 6 d'octubre de 1832 amb Agustín Guardia Bort de la Ràpita [1812].\n\nFills: Pedro Nolasco [1833], José [1835], Francisca Rafaela [1837], Miguel Francisco [1838], María de la Cinta [1841], Agustín [1848] i Benito [1850].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

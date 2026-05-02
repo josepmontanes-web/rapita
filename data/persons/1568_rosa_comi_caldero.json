@@ -1,0 +1,87 @@
+{
+  "id": "1568_rosa_comi_caldero",
+  "source_id": "1568",
+  "row_ref": "1568. Rosa Comí Calderó",
+  "name": "Rosa Comí Calderó",
+  "gender": "female",
+  "birth": {
+    "date": "1780-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "3619_juan_navarro_comi",
+      "3620_francisco_navarro_comi",
+      "3621_pablo_marcelino_navarro_comi",
+      "3622_teresa_navarro_comi",
+      "3623_manuela_navarro_comi",
+      "3624_josefa_navarro_comi",
+      "3627_calamanda_navarro_comi"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Cosme Comí",
+      "Cecilia Calderó"
+    ],
+    "father_name": "Cosme Comí",
+    "mother_name": "Cecilia Calderó",
+    "spouse_names": [],
+    "children_names": [
+      "Juan Navarro Comí",
+      "Francisco Navarro Comí",
+      "Pablo Marcelino Navarro Comí",
+      "Teresa Navarro Comí",
+      "Manuela Navarro Comí",
+      "Josefa Navarro Comí",
+      "Calamanda Navarro Comí"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1780].\n\nCasament: amb Juan Navarro Hernández de Tortosa [1775].\n\nFills: Esperanza (Tortosa) [1807], Rosa (Tortosa) [1809], Juan [1814], Manuela [1816], Josefa [1818], Calamanda [1821], Francisco [1823], Pablo Marcelino [1827] i Teresa [1829].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

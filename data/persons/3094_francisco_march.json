@@ -1,0 +1,74 @@
+{
+  "id": "3094_francisco_march",
+  "source_id": "3094",
+  "row_ref": "3094. Francisco March",
+  "name": "Francisco March",
+  "gender": "male",
+  "birth": {
+    "date": "1750-01-01",
+    "place": "Vilaseca"
+  },
+  "death": {
+    "date": "1795-08-14",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "3097_francisco_march_casals"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Francisca Casals"
+    ],
+    "children_names": [
+      "Francisco March Casals"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vilaseca (Tarragona)  [aprox. 1750]. \n\nCasament: amb Francisca Casals de Montbrió (o Mont-roig).\n\nFills: Francisco March Casals de Mont-roig (Tarragona) [1771].\n\nDefunció: el 14 d'agost de 1795 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

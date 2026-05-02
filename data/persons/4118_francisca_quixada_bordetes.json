@@ -1,0 +1,73 @@
+{
+  "id": "4118_francisca_quixada_bordetes",
+  "source_id": "4118",
+  "row_ref": "4118. Francisca Quixada Bordetes",
+  "name": "Francisca Quixada Bordetes",
+  "gender": "female",
+  "birth": {
+    "date": "1804-05-21",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4116_francisco_ventura_quixada_belaire"
+    ],
+    "father": "4116_francisco_ventura_quixada_belaire",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Ventura Quixada Belaire",
+      "Manuela Bordetes Crimalle"
+    ],
+    "father_name": "Francisco Ventura Quixada  Belaire",
+    "mother_name": "Manuela Bordetes Crimalle",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Cruelles",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 21 de maig de 1804 a la Ràpita.\n\nel pare té 22 anys i es \"cedacero\". La mare té 29 anys.\n\nPadrins: Francisco Cruelles i Matilde Reverté.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

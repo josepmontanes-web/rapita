@@ -1,0 +1,73 @@
+{
+  "id": "2433_jose_antonio_gasparin_matamoros",
+  "source_id": "2433",
+  "row_ref": "2433. José Antonio Gasparín Matamoros",
+  "name": "José Antonio Gasparín Matamoros",
+  "gender": "male",
+  "birth": {
+    "date": "1790-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1793-09-22",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3261_theresa_matamoros_reverter"
+    ],
+    "father": null,
+    "mother": "3261_theresa_matamoros_reverter",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Gaspari Bretaña",
+      "Theresa Matamoros Reverter"
+    ],
+    "father_name": "Francisco Gaspari Bretaña",
+    "mother_name": "Theresa Matamoros Reverter",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1790].\n\nDefunció: el 22 de setembre de 1793 a la Ràpita. Va morir pàrvul.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

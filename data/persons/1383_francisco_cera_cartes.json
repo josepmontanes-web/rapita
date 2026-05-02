@@ -1,0 +1,74 @@
+{
+  "id": "1383_francisco_cera_cartes",
+  "source_id": "1383",
+  "row_ref": "1383. Francisco Cera Cartes",
+  "name": "Francisco Cera Cartes",
+  "gender": "male",
+  "birth": {
+    "date": "1812-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1826-07-17",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1393_jose_cera_marman",
+      "1064_agustina_cartes_fonollosa"
+    ],
+    "father": "1393_jose_cera_marman",
+    "mother": "1064_agustina_cartes_fonollosa",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Cera Marmañ",
+      "Agustina Cartes Fonollosa"
+    ],
+    "father_name": "José Cera Marmañ",
+    "mother_name": "Agustina Cartes Fonollosa",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1812].\n\nDefunció: el 17 de juliol de 1826 a la Ràpita. Va morir als 14 anys ofegat.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

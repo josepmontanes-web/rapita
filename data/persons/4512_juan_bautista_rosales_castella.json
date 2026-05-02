@@ -1,0 +1,74 @@
+{
+  "id": "4512_juan_bautista_rosales_castella",
+  "source_id": "4512",
+  "row_ref": "4512. Juan Bautista Rosales Castellà",
+  "name": "Juan Bautista Rosales Castellà",
+  "gender": "male",
+  "birth": {
+    "date": "1831-03-31",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1831-07-12",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4558_ramon_rosales_valls",
+      "1235_antonia_castella_colomines"
+    ],
+    "father": "4558_ramon_rosales_valls",
+    "mother": "1235_antonia_castella_colomines",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Ramón Rosales Valls",
+      "Antonia Castellà Colomines"
+    ],
+    "father_name": "Ramón Rosales Valls",
+    "mother_name": "Antonia Castellà Colomines",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Castellà",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 31 de març de 1831 a la Ràpita.\n\nPadrins: Juan Castellà i Vicenta Llorens.\n\nDefunció: el 12 de juliol de 1837 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

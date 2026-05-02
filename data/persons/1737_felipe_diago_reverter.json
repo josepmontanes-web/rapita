@@ -1,0 +1,78 @@
+{
+  "id": "1737_felipe_diago_reverter",
+  "source_id": "1737",
+  "row_ref": "1737. Felipe Diago Reverter",
+  "name": "Felipe Diago Reverter",
+  "gender": "male",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Vinaroz"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1719_pascual_diago_campanals",
+      "4342_candia_reverter_sancho"
+    ],
+    "father": "1719_pascual_diago_campanals",
+    "mother": "4342_candia_reverter_sancho",
+    "spouse": [
+      "196_josefa_arbo_sanchez"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pascual Diago Campanals",
+      "Candia Reverter Sancho"
+    ],
+    "father_name": "Pascual Diago Campanals",
+    "mother_name": "Candia Reverter Sancho",
+    "spouse_names": [
+      "Josefa Arbó Sánchez"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1820].\n\nCasament: el 2 de desembre de 1843 amb Josefa Arbó Sánchez de la Ràpita [1820].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

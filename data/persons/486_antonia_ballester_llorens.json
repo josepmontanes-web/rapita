@@ -1,0 +1,78 @@
+{
+  "id": "486_antonia_ballester_llorens",
+  "source_id": "486",
+  "row_ref": "486. Antonia Ballester Llorens",
+  "name": "Antonia Ballester Llorens",
+  "gender": "female",
+  "birth": {
+    "date": "1825-01-01",
+    "place": "Benidorm"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "482_jose_ballester",
+      "2957_antonia_llorens"
+    ],
+    "father": "482_jose_ballester",
+    "mother": "2957_antonia_llorens",
+    "spouse": [
+      "4698_juan_samper_moncho"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Ballester",
+      "Antonia Llorens"
+    ],
+    "father_name": "José Ballester",
+    "mother_name": "Antonia Llorens",
+    "spouse_names": [
+      "Juan Samper Moncho"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Benidorm [aprox. 1825].\n\nGermana de María Ballester Llorens de Benidorm [1820].\n\nCasament: el 12 de gener de 1850 amb Juan Samper Moncho de Benidorm [1817].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

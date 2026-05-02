@@ -1,0 +1,76 @@
+{
+  "id": "2966_maria_rosa_llorens_garcia",
+  "source_id": "2966",
+  "row_ref": "2966. Maria Rosa Llorens García",
+  "name": "Maria Rosa Llorens García",
+  "gender": "female",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Perelló"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2956_pedro_llorens",
+      "2289_vicenta_garcia"
+    ],
+    "father": "2956_pedro_llorens",
+    "mother": "2289_vicenta_garcia",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Llorens",
+      "Vicenta García"
+    ],
+    "father_name": "Pedro Llorens",
+    "mother_name": "Vicenta García",
+    "spouse_names": [
+      "Vicente Sempere Moncho"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: al Perelló  [aprox. 1800].\n\nCasament: el 26 de febrer de 1826 amb Vicente Samper [o Sempere] Moncho de Benidorm [1800].\n\nFills: Rosa Joana [1827], Gregorio [1829], Miguel [1831], Felíz [1833], Pedro Pablo [1836] i Francisco [1842].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

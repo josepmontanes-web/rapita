@@ -1,0 +1,72 @@
+{
+  "id": "82_domingo_alemany_beltran",
+  "source_id": "82",
+  "row_ref": "82. Domingo Alemany Beltran",
+  "name": "Domingo Alemany Beltran",
+  "gender": "male",
+  "birth": {
+    "date": "1849-01-01",
+    "place": "Xerta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "83_juan_domingo_jose_alemany_luna"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Juan Domingo José Alemany Luna"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Xerta [aprox. 1849].\n\nProfessió: \"cerrajero\".\n\nCasament: el 24 d'abril de 1874 amb Elena Luna Sanz [1852]. Es casa als 25 anys.\n\nFills: Juan [1879].\n\nTestimoni d'anotacions al registre civil des de 1875.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "3984_juan_pla_beltran",
+  "source_id": "3984",
+  "row_ref": "3984. Juan Pla Beltran",
+  "name": "Juan Pla Beltran",
+  "gender": "male",
+  "birth": {
+    "date": "1833-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3983_juan_pla_beltran"
+    ],
+    "father": "3983_juan_pla_beltran",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Pla Beltran",
+      "Agustina Beltran"
+    ],
+    "father_name": "Juan Pla",
+    "mother_name": "Agustina Beltran",
+    "spouse_names": [
+      "Liberata L. Solsona Ribera"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Jornaler"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1833]. \n\nProfessió: jornaler.\n\nCasament: el 10 de juny de 1854 amb Liberata Solsona Ribera de la Ràpita [1833]. Es casa als 21 anys. Testimonis: Lorenzo Casajust i Miguel López.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

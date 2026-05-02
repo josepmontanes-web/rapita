@@ -1,0 +1,73 @@
+{
+  "id": "2024_sebastiana_antonia_ferrer_estelle",
+  "source_id": "2024",
+  "row_ref": "2024. Sebastiana Antonia Ferrer Estellé",
+  "name": "Sebastiana Antonia Ferrer Estellé",
+  "gender": "female",
+  "birth": {
+    "date": "1839-07-19",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2055_josef_ferrer_marin"
+    ],
+    "father": "2055_josef_ferrer_marin",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Ferrer Marín",
+      "Theresa Estellé Calbo"
+    ],
+    "father_name": "Josef Ferrer Forcadell",
+    "mother_name": "Theresa Estellé Calbo",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Antonio Ferrer",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 19 de juliol de 1839 a la Ràpita.\n\nPadrins: José Antonio Ferrer i Sebastiana Pla.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

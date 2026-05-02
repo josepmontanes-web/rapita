@@ -1,0 +1,73 @@
+{
+  "id": "242_maria_francisca_arlandez_o_herlandes_castella",
+  "source_id": "242",
+  "row_ref": "242. María Francisca Arlández [o Herlandes] Castellà",
+  "name": "María Francisca Arlández [o Herlandes] Castellà",
+  "gender": "female",
+  "birth": {
+    "date": "1812-04-12",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "258_jose_arlandez_o_arlandes_homedes"
+    ],
+    "father": "258_jose_arlandez_o_arlandes_homedes",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Arlández [o Arlandes] Homedes",
+      "Francisca Castellà Calderó"
+    ],
+    "father_name": "José Herlandes Homedes",
+    "mother_name": "Francisca Castellà Calderó",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Mauro Herlandes",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 12 d'abril de 1812 a la Ràpita.\n\nPadrins: Mauro Herlandes i María Cruz de Tortosa.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

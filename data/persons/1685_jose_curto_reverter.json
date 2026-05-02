@@ -1,0 +1,74 @@
+{
+  "id": "1685_jose_curto_reverter",
+  "source_id": "1685",
+  "row_ref": "1685. José Curto Reverter",
+  "name": "José Curto Reverter",
+  "gender": "male",
+  "birth": {
+    "date": "1844-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1845-03-14",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1693_tomas_curto_sancho",
+      "4350_josefa_reverter_sancho"
+    ],
+    "father": "1693_tomas_curto_sancho",
+    "mother": "4350_josefa_reverter_sancho",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomás Curto Sancho",
+      "Josefa Reverter Sancho"
+    ],
+    "father_name": "Tomás Curto Cavaller",
+    "mother_name": "Josefa Reverter Sancho",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1844].\n\nDefunció: el 14 de març de 1845 a la Ràpita. Va morir al any.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

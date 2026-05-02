@@ -1,0 +1,77 @@
+{
+  "id": "1411_jose_chale_lopez",
+  "source_id": "1411",
+  "row_ref": "1411. José Chalé López",
+  "name": "José Chalé López",
+  "gender": "male",
+  "birth": {
+    "date": "1831-03-07",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2997_manuela_lopez_garcia"
+    ],
+    "father": null,
+    "mother": "2997_manuela_lopez_garcia",
+    "spouse": [
+      "3272_maria_matamoros_reverte"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Esteban Chaler Perayre",
+      "Manuela López García"
+    ],
+    "father_name": "Esteban Chaler Perayre",
+    "mother_name": "Manuela López García",
+    "spouse_names": [
+      "Maria Matamoros Reverté"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Alejandro Monserrat",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Jornaler"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 7 de març de 1831 a la Ràpita.\n\nPadrins: Alejandro Montserrat i Josefa Esteve.\n\nProfessió: jornaler.\n\nCasament: el 26 d'agost de 1854 amb María Matamoros Reverté de la Ràpita [1825]. Testimonis: Alejandro Blanch i Juan Fibla.\n\nFills: Juan [1856] i Trinitario [1857].\n\nDefunció: el 3 de desembre de 1878 a la Ràpita de pleuroneumonia. Declara la mor la seua neboda Cinta Beltran.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

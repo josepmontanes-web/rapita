@@ -1,0 +1,78 @@
+{
+  "id": "3850_manuela_paulo",
+  "source_id": "3850",
+  "row_ref": "3850. Manuela Paulo",
+  "name": "Manuela Paulo",
+  "gender": "female",
+  "birth": {
+    "date": "1755-01-01",
+    "place": "Vall del Duc (Tortosa)"
+  },
+  "death": {
+    "date": "1837-01-09",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "3660_francisca_navarro_paulo",
+      "3663_jose_navarro_paulo",
+      "3664_josefa_navarro_paulo"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Francisco Navarro"
+    ],
+    "children_names": [
+      "Francisca Navarro Paulo",
+      "José Navarro Paulo",
+      "Josefa Navarro Paulo"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a La Vall del Duc (La Vall d'Uixó)  [aprox. 1755]. \n\nCasament: amb Francisco Navarro de la Vall del Duc [1757].\n\nFills: Josefa (la Vall d'Uixó) [1775], Francisca [1786], Jayme [1790], Mariano[1790] i José [1795].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Mansana Vella (carrer del Forn) núm. 22 (ACA BGRP Cajas 34).\n\nDefunció: el 9 de gener de 1837 a la Ràpita.\n\nA la partida de defunció diu que va morir als 102 anys però si fora així, hagués tingut un fill als 60 anys. Sembla més raonable que tingués 82 anys, tenint en compte que el seu marit va naixer aproximadament al 1757. No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

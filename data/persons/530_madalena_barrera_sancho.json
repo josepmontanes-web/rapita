@@ -1,0 +1,78 @@
+{
+  "id": "530_madalena_barrera_sancho",
+  "source_id": "530",
+  "row_ref": "530. Madalena Barrera Sancho",
+  "name": "Madalena Barrera Sancho",
+  "gender": "female",
+  "birth": {
+    "date": "1826-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "513_manuel_barrera",
+      "4828_josefa_sancho"
+    ],
+    "father": "513_manuel_barrera",
+    "mother": "4828_josefa_sancho",
+    "spouse": [
+      "2220_jose_forcadell_sancho"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel Barrera",
+      "Josefa Sancho"
+    ],
+    "father_name": "Manuel Barrera",
+    "mother_name": "Josefa Sancho",
+    "spouse_names": [
+      "José Forcadell Sancho"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1826].\n\nCasament: el 16 de gener de 1852 amb José Forcadell Sancho d'Alcanar [1819]. Es casa als 26 anys.\n\nFills: Tomasa [1858] i Manuela [1861].\n\nCasament: el 31 d'octubre de 1871 amb Miguel Matamoros Cervera de Godall [1816]. Es casa als 49 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

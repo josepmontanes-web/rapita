@@ -1,0 +1,74 @@
+{
+  "id": "3623_manuela_navarro_comi",
+  "source_id": "3623",
+  "row_ref": "3623. Manuela Navarro Comí",
+  "name": "Manuela Navarro Comí",
+  "gender": "female",
+  "birth": {
+    "date": "1816-11-15",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3641_juan_navarro_hernandez",
+      "1568_rosa_comi_caldero"
+    ],
+    "father": "3641_juan_navarro_hernandez",
+    "mother": "1568_rosa_comi_caldero",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Navarro Hernández",
+      "Rosa Comí Calderó"
+    ],
+    "father_name": "Juan Navarro Hernández",
+    "mother_name": "Rosa Comí Calderó",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Manuel Cid",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 15 de novembre de 1816 a la Ràpita.\n\nPadrí: Don Manuel Cid.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

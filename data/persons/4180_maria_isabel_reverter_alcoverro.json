@@ -1,0 +1,73 @@
+{
+  "id": "4180_maria_isabel_reverter_alcoverro",
+  "source_id": "4180",
+  "row_ref": "4180. Maria Isabel Reverter Alcoverro",
+  "name": "Maria Isabel Reverter Alcoverro",
+  "gender": "female",
+  "birth": {
+    "date": "1841-10-13",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1844-12-01",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4228_jose_reverter_chillida"
+    ],
+    "father": "4228_jose_reverter_chillida",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Reverter Chillida",
+      "Josefa Alcoverro Segura"
+    ],
+    "father_name": "José Reverter Chillida",
+    "mother_name": "Josefa Alcoverro Segura",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Gisbert",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 13 d'octubre de 1841 a la Ràpita.\n\nPadrins: Juan Gisbert i Isabel Reverter.\n\nDefunció: l'1 de desembre de 1844 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

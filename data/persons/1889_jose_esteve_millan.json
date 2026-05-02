@@ -1,0 +1,78 @@
+{
+  "id": "1889_jose_esteve_millan",
+  "source_id": "1889",
+  "row_ref": "1889. José Esteve Millan",
+  "name": "José Esteve Millan",
+  "gender": "male",
+  "birth": {
+    "date": "1821-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1886_jose_esteve_garcia"
+    ],
+    "father": "1886_jose_esteve_garcia",
+    "mother": null,
+    "spouse": [
+      "11_josefa_accensi_lazaro"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Esteve García",
+      "Carmen Millan"
+    ],
+    "father_name": "José Esteve",
+    "mother_name": "Carmen Millan",
+    "spouse_names": [
+      "Teresa Forcadell",
+      "Josefa Accensi Lázaro"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1821].\n\nCasament: amb Teresa Forcadell.\n\nCasament: el 6 d'agost de 1842 amb Josefa Accensi Lázaro de Santa Bàrbara [1825]. José Esteve Millán es veí d'Amposta.\n\nFills: José [1849], María [1850] i Cinta [1859].\n\nDefunció: el 5 de juny de 1877 a la Ràpita als 56 anys de pulmonia. Declara la mor al registre civil Tomasa Casanova.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

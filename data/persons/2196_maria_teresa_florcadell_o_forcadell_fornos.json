@@ -1,0 +1,73 @@
+{
+  "id": "2196_maria_teresa_florcadell_o_forcadell_fornos",
+  "source_id": "2196",
+  "row_ref": "2196. María Teresa Florcadell [o Forcadell] Fornós",
+  "name": "María Teresa Florcadell [o Forcadell] Fornós",
+  "gender": "female",
+  "birth": {
+    "date": "1840-10-22",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2197_antonio_florcadell_o_forcadell_espinach"
+    ],
+    "father": "2197_antonio_florcadell_o_forcadell_espinach",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Florcadell [o Forcadell] Espinach",
+      "Antonia Fornós Comavella"
+    ],
+    "father_name": "Antonio Florcadell Espinach",
+    "mother_name": "Antonia Fornós Comavella",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Agustín Reverter",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 22 d'octubre de 1840 a la Ràpita.\n\nPadrins: Agustín Reverter i Teresa Sancho.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

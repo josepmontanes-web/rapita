@@ -1,0 +1,74 @@
+{
+  "id": "4840_jose_miguel_sancho_balada",
+  "source_id": "4840",
+  "row_ref": "4840. José Miguel Sancho Balada",
+  "name": "José Miguel Sancho Balada",
+  "gender": "male",
+  "birth": {
+    "date": "1831-07-12",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1834-02-19",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4919_jose_sancho_querol",
+      "325_raymunda_balada_balada"
+    ],
+    "father": "4919_jose_sancho_querol",
+    "mother": "325_raymunda_balada_balada",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Sancho Querol",
+      "Raymunda Balada Balada"
+    ],
+    "father_name": "José Sancho Querol",
+    "mother_name": "Raymunda Balada Balada",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Mariano Miralles",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 12 de juliol de 1831 a la Ràpita.\n\nPadrins: Mariano Miralles i Teresa Sancho.\n\nDefunció: el 19 de febrer de 1834 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

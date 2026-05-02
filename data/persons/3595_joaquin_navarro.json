@@ -1,0 +1,78 @@
+{
+  "id": "3595_joaquin_navarro",
+  "source_id": "3595",
+  "row_ref": "3595. Joaquín Navarro",
+  "name": "Joaquín Navarro",
+  "gender": "male",
+  "birth": {
+    "date": "1770-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "3644_candia_navarro_homedes_o_omedes",
+      "3681_josefa_navarro_torne",
+      "3682_joaquin_navarro_torne"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Candia Homedes"
+    ],
+    "children_names": [
+      "Candia Navarro Homedes [o Omedes]",
+      "Josefa Navarro Torné",
+      "Joaquín Navarro Torné"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1770]. \n\nCasament: amb Candia Homedes de Tortosa [1771].\n\nFills: Candia (Tortosa) [1790].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

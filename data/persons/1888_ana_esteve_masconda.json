@@ -1,0 +1,81 @@
+{
+  "id": "1888_ana_esteve_masconda",
+  "source_id": "1888",
+  "row_ref": "1888. Ana Esteve Masconda",
+  "name": "Ana Esteve Masconda",
+  "gender": "female",
+  "birth": {
+    "date": "1770-01-01",
+    "place": "Allembilles (Girona)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "156_andres_ano_esteve"
+    ],
+    "father": "156_andres_ano_esteve",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "3345_maria_mies_esteve",
+      "3346_jose_maria_mies_esteve"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Andrés Añó Esteve",
+      "Margarita Masconda"
+    ],
+    "father_name": "Andrés Esteve",
+    "mother_name": "Margarita Masconda",
+    "spouse_names": [
+      "Josef Míes Montes"
+    ],
+    "children_names": [
+      "María Míes Esteve",
+      "José María Míes Esteve"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Llambilles (Girona) [aprox. 1770].\n\nCasament: amb José Míes Montes de Cassà de la Selva (Girona) [1770].\n\nFills: María [1792] i José María [1794].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "3576_batista_munoz_tomas",
+  "source_id": "3576",
+  "row_ref": "3576. Batista Muñoz Tomàs",
+  "name": "Batista Muñoz Tomàs",
+  "gender": "female",
+  "birth": {
+    "date": "1816-01-01",
+    "place": "Vinaròs"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3570_vicente_munoz_ibanez",
+      "5306_teresa_thomas_vidal"
+    ],
+    "father": "3570_vicente_munoz_ibanez",
+    "mother": "5306_teresa_thomas_vidal",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Muñoz Ibáñez",
+      "Teresa Thomas Vidal"
+    ],
+    "father_name": "Vicente Muñoz Ibáñez",
+    "mother_name": "Teresa Thomas Vidal",
+    "spouse_names": [
+      "Prudencio Verge Monserrat"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1816]. \n\nCasament: el 27 d'agost de 1834 amb Prudencio Verge Montserrat de les Salines [1810]. Es casa als 18 anys.\n\nFills: Luís Gonzaga [1835], Trinitario Carlos [1836], José [1840] i Vicenta [1842].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

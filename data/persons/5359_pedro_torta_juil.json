@@ -1,0 +1,81 @@
+{
+  "id": "5359_pedro_torta_juil",
+  "source_id": "5359",
+  "row_ref": "5359. Pedro Torta Juil",
+  "name": "Pedro Torta Juil",
+  "gender": "male",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5336_jose_torta"
+    ],
+    "father": "5336_jose_torta",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "5347_teresa_torta_arques",
+      "5348_francisco_torta_arques"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Torta",
+      "Rosa Juil"
+    ],
+    "father_name": "José Torta",
+    "mother_name": "Rosa Juil",
+    "spouse_names": [
+      "María Arqués Verge"
+    ],
+    "children_names": [
+      "Teresa Torta Arqués",
+      "Francisco Torta Arqués"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1790].\n\nCasament: amb María Arqués Verge de les Salines dels Alfacs, filla de Francisco i Teresa naturals de Tortosa i veïns de les Salines dels Alfacs.\n\nFills: Teresa (Amposta) [1815] i Francisco [1817].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

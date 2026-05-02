@@ -1,0 +1,79 @@
+{
+  "id": "3586_jose_nadal_bigatana",
+  "source_id": "3586",
+  "row_ref": "3586. José Nadal Bigatana",
+  "name": "José Nadal Bigatana",
+  "gender": "male",
+  "birth": {
+    "date": "1770-01-01",
+    "place": "Gerri (Obpdo. Urgel)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "2047_maria_angela_ferrer_gorgorio"
+    ],
+    "children": [
+      "1796_2_1846"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Jacinto Nadal",
+      "Maria Bigatana"
+    ],
+    "father_name": "Jacinto Nadal",
+    "mother_name": "Maria Bigatana",
+    "spouse_names": [
+      "María Angela Ferrer Gorgorio"
+    ],
+    "children_names": [
+      "2 1846"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Gerri (Lleida) [aprox. 1770]. \n\nCasament: amb María Angela Ferrer Gorgorio d'Amposta [1770].\n\nFills: Pedro [1791], Raymunda [1793], Miguela [1795], Juan [1796] i Antonio [1798].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Fonda Vella núm. 5 (ACA BGRP Cajas 34).\n\nDel novembre de 1795 al abril de 1803 paga un lloguer de 4 Rs mensuals per la casa 5 de la Fonda Vella. Del maig de 1803 al juliol de 1803 els paga la seua vidua.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

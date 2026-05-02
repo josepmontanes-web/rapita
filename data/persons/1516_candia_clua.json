@@ -1,0 +1,71 @@
+{
+  "id": "1516_candia_clua",
+  "source_id": "1516",
+  "row_ref": "1516. Candia Clua",
+  "name": "Candia Clua",
+  "gender": "female",
+  "birth": {
+    "date": "1750-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Jayme Zaragoza",
+      "Antonio Hernández"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1750].\n\nCasament: amb Jayme Zaragoza.\n\nCasament: el 18 de novembre de 1797 amb Antonio Hernández [o Arlández] de Tortosa [1729].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

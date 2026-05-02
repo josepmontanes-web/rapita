@@ -1,0 +1,74 @@
+{
+  "id": "228_francisco_arlandes_balada",
+  "source_id": "228",
+  "row_ref": "228. Francisco Arlandes Balada",
+  "name": "Francisco Arlandes Balada",
+  "gender": "male",
+  "birth": {
+    "date": "1822-12-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1824-02-04",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "243_vicente_arlandez_o_hernandez_cavaller",
+      "358_rita_balada_planes"
+    ],
+    "father": "243_vicente_arlandez_o_hernandez_cavaller",
+    "mother": "358_rita_balada_planes",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Arlández [o Hernández] Cavaller",
+      "Rita Balada Planes"
+    ],
+    "father_name": "Vicente Hernández Cavaller",
+    "mother_name": "Rita Balada Planes",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Balada",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'1 de desembre de 1822 a la Ràpita.\n\nEls padrins són els iaios Francisco Balada i María Francisca Cavallé.\n\nDefunció: el 4 de febrer de 1824 a la Ràpita. Va morir de \"muerte natural\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

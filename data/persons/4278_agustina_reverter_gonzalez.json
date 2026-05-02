@@ -1,0 +1,80 @@
+{
+  "id": "4278_agustina_reverter_gonzalez",
+  "source_id": "4278",
+  "row_ref": "4278. Agustina Reverter González",
+  "name": "Agustina Reverter González",
+  "gender": "female",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "4788_agustin_jose_sanchez_reverter",
+      "4789_barbara_sanchez_reverter",
+      "4790_manuela_sanchez_reverter",
+      "4791_miguel_sanchez_reverter",
+      "4792_paula_sanchez_reverter"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Agustín José Sánchez Reverter",
+      "Barbara Sánchez Reverter",
+      "Manuela Sánchez Reverter",
+      "Miguel Sánchez Reverter",
+      "Paula Sánchez Reverter"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1790]. \n\nCasament: amb Dionisio Sánchez Ferré d'Amposta [1790].\n\nFills: Miguel [1811], Manuela [1814], Bárbara [1822], Paula [1824] i Agustín José [1825].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

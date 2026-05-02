@@ -1,0 +1,86 @@
+{
+  "id": "4729_francisca_sanchez_capilla",
+  "source_id": "4729",
+  "row_ref": "4729. Francisca Sánchez Capilla",
+  "name": "Francisca Sánchez Capilla",
+  "gender": "female",
+  "birth": {
+    "date": "1813-10-05",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4767_blas_sanchez_marin",
+      "976_florencia_capilla_macian"
+    ],
+    "father": "4767_blas_sanchez_marin",
+    "mother": "976_florencia_capilla_macian",
+    "spouse": [
+      "24_miguel_adell_llagostera",
+      "2106_pedro_ferrer_subirats"
+    ],
+    "children": [
+      "2076_teresa_ferrer_sanchez",
+      "2077_florencia_ramona_ferrer_sanchez"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Blas Sánchez Marín",
+      "Florencia Capilla Macián"
+    ],
+    "father_name": "Blas Sánchez Marín",
+    "mother_name": "Florencia Capilla Macián",
+    "spouse_names": [
+      "Miguel Adell Llagostera",
+      "Pedro Ferrer Subirats"
+    ],
+    "children_names": [
+      "Teresa Ferrer Sánchez",
+      "Florencia Ramona Ferrer Sánchez"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Blas Sánchez",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 5 d'octubre de 1813 a la Ràpita.\n\nPadrins: Blas Sánchez i Catarina Sánchez.\n\nCasament: el 25 de juny de 1835 amb Miguel Adell Llagostera d'Alcanar [1809].\n\nFills: Miguel Carlos [1836]. El pare ja estava mort quan naix el seu fill.\n\nCasament: el 30 d'octubre de 1838 amb Pedro Ferrer Subirats de la Ràpita [1814].\n\nFills: Teresa [1840], Florencia Ramona [1842], Josefa [1845], Vicenta [1850] i Pedro [1857].\n\nDefunció: el 25 de febrer de 1879 a la Ràpita de una \"gastralgia\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

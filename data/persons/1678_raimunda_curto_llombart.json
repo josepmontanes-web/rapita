@@ -1,0 +1,68 @@
+{
+  "id": "1678_raimunda_curto_llombart",
+  "source_id": "1678",
+  "row_ref": "1678. Raimunda Curto Llombart",
+  "name": "Raimunda Curto Llombart",
+  "gender": "female",
+  "birth": {
+    "date": "1840-01-01",
+    "place": "Santa Bàrbara"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Santa Bàrbara [aprox. 1840].\n\nCasament: amb José Cid de la Senia [1837].\n\nFills: Agustín [1880].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

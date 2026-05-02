@@ -1,0 +1,72 @@
+{
+  "id": "3103_marta_marin",
+  "source_id": "3103",
+  "row_ref": "3103. Marta Marín",
+  "name": "Marta Marín",
+  "gender": "female",
+  "birth": {
+    "date": "1750-01-01",
+    "place": "Portell de Morella"
+  },
+  "death": {
+    "date": "1807-09-04",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2055_josef_ferrer_marin"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Josef Ferrer Marín"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Portell de Morella [aprox. 1750]. \n\nDefunció: el 4 de setembre de 1807 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

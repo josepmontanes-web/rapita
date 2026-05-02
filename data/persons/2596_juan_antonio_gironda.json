@@ -1,0 +1,74 @@
+{
+  "id": "2596_juan_antonio_gironda",
+  "source_id": "2596",
+  "row_ref": "2596. Juan Antonio Gironda",
+  "name": "Juan Antonio Gironda",
+  "gender": "male",
+  "birth": {
+    "date": "1760-01-01",
+    "place": "Trujillo (Extremadura)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1797_38_1800"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Doña Josefa Difé"
+    ],
+    "children_names": [
+      "38 1800"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Trujillo [aprox. 1760].\n\nCasament: amb Josefa Difé.\n\nFills: Clara [1792].\n\nDes de 1781 Oficial interventor i secretari de la subdelegació de les Reials Obres de San Carlos. (ACA_BGRP_Correspodència_caixa 9).\n\nA la carpeta de setembre 1782 es nomena un incident Relacionat amb injurias de Constans a la dona de Gironda, però no hi ha els escrits ni de Constans ni de Gironda. ACA_BGRP.RP. Cajas, 2.\n\nSou fix aprovat per Carles III 4380 rals de billó anuals (Borràs Matamoros, N. 2015)\n\nEl 3 de març de 1788 Luís Guindualin ven a Juan Antonio Gironda un troç de terra i un solar amb una casa començada situat al carrer principal de San Carlos que linda amb la casa que viu el Subdelegat Martorell i amb la del guarda almacen Miguel Ricart i amb terreny de les Monges. El preu son 60 duros de plata. Notari Bartolomé Garcia de Tortosa.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

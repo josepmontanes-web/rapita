@@ -1,0 +1,81 @@
+{
+  "id": "2357_magdalena_garcia_puchol",
+  "source_id": "2357",
+  "row_ref": "2357. Magdalena García Puchol",
+  "name": "Magdalena García Puchol",
+  "gender": "female",
+  "birth": {
+    "date": "1818-01-01",
+    "place": "Vinaròs"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "179_agustin_arbo_angles"
+    ],
+    "children": [
+      "186_agustin_carlos_arbo_garcia",
+      "187_josef_arbo_garcia"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel García",
+      "Juliana Puchol"
+    ],
+    "father_name": "Miguel García",
+    "mother_name": "Juliana Puchol",
+    "spouse_names": [
+      "Agustín Arbó Anglès"
+    ],
+    "children_names": [
+      "Agustín Carlos Arbó García",
+      "Josef Arbó García"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1810].\n\nCasament: amb Agustín Arbó Anglès de la Ràpita [1808].\n\nFills: Agustín Carlos [1836], José [1846], José María [1848] i Madalena [1848].\n\nEs germana d'Agustina García Puchol [1807] i Josefa García Puchol [1810].\n\nDefunció: el 23 de gener de 1878 a la Ràpita, a casa del seu fill Agustí, als 60 anys de neumonia. Declara la defunció la seua neboda Josefa Arbó que sap escriure i signa la declaració.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

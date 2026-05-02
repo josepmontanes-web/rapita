@@ -1,0 +1,94 @@
+{
+  "id": "4857_pascuala_sancho_bonet",
+  "source_id": "4857",
+  "row_ref": "4857. Pascuala Sancho Bonet",
+  "name": "Pascuala Sancho Bonet",
+  "gender": "female",
+  "birth": {
+    "date": "1778-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2878_jose_jovani_sancho"
+    ],
+    "father": "2878_jose_jovani_sancho",
+    "mother": null,
+    "spouse": [
+      "3911_jose_pepiol_soler"
+    ],
+    "children": [
+      "127_sebastian_joaquin_anguera_sancho",
+      "128_francisco_enguera_sancho",
+      "129_sebastian_anguera_sancho",
+      "130_jose_antonio_anguera_sancho",
+      "131_jayme_anguera_sancho",
+      "3909_lorenzo_serafin_pipiol_sancho",
+      "3910_juan_bautista_pepiol_sancho"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Jovani Sancho",
+      "Josefa Bonet"
+    ],
+    "father_name": "Jose Sancho",
+    "mother_name": "Josefa Bonet",
+    "spouse_names": [
+      "Agustín Anguera Torres",
+      "José Pepiol Soler"
+    ],
+    "children_names": [
+      "Sebastián Joaquín Anguera Sancho",
+      "Francisco Enguera Sancho",
+      "Sebastian Anguera Sancho",
+      "José Antonio Anguera Sancho",
+      "Jayme Anguera Sancho",
+      "Lorenzo Serafín Pipiol Sancho",
+      "Juan Bautista Pepiol Sancho"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1778]. El cognom podria ser Sánchez.\n\nCasament: amb Agustín Anguera Torres de Tortosa [1767].\n\nFills: Agustín [1797], Jayme [1798], Sebastián [1801], José Antonio [1802], Sebastián Joaquín [1806], Francisco [1809] i Josefa [1811].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Fonda Vella (ACA BGRP Cajas 34).\n\nCasament: l'1 de desembre de 1812 amb José Pepiol Soler de la Riera de Gaià (Tarragona) [1766]. Es casa als 34 anys.\n\nFills: Juan Bautista [1813] i Serafín [1817].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

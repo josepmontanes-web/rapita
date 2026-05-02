@@ -1,0 +1,76 @@
+{
+  "id": "3978_jayme_pla",
+  "source_id": "3978",
+  "row_ref": "3978. Jayme Pla",
+  "name": "Jayme Pla",
+  "gender": "male",
+  "birth": {
+    "date": "1740-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1807-08-19",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "3989_eugenia_pla_sancho_o_sanchez",
+      "3990_tomasa_pla_sancho"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "María Sánchez"
+    ],
+    "children_names": [
+      "Eugenia Pla Sancho [o Sánchez]",
+      "Tomasa Pla Sancho"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa (o Alcanar) [aprox. 1740]. \n\nProfessió: pagès.\n\nCasament: amb María Sánchez [o Sancho].\n\nFills: Eugenia (Alcanar) [1775] i Tomasa (Alcanar) [1776].\n\nDefunció: el 19 d'agost de 1807 a la Ràpita. Va morir de \"apoplexia\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

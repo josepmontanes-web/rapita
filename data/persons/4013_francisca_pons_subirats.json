@@ -1,0 +1,72 @@
+{
+  "id": "4013_francisca_pons_subirats",
+  "source_id": "4013",
+  "row_ref": "4013. Francisca Pons Subirats",
+  "name": "Francisca Pons Subirats",
+  "gender": "female",
+  "birth": {
+    "date": "1775-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "3328_pablo_juan_antonio_maymo_pons"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Pablo Juan Antonio Maymó Pons"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1775].\n\nCasament: amb Francisco Maymó Beltran de San Mateo [1775].\n\nFills: Susana [1795], Pere [1795] i Pablo [1800].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Mansana Vella (carrer del Forn) núm. 22 (ACA BGRP Cajas 34).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

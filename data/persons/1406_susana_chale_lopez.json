@@ -1,0 +1,77 @@
+{
+  "id": "1406_susana_chale_lopez",
+  "source_id": "1406",
+  "row_ref": "1406. Susana Chalé López",
+  "name": "Susana Chalé López",
+  "gender": "female",
+  "birth": {
+    "date": "1825-12-20",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2997_manuela_lopez_garcia"
+    ],
+    "father": null,
+    "mother": "2997_manuela_lopez_garcia",
+    "spouse": [
+      "3930_manuel_pijoan_ferre"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Esteban Chaler Perayre",
+      "Manuela López García"
+    ],
+    "father_name": "Esteban Chaler Perayre",
+    "mother_name": "Manuela López García",
+    "spouse_names": [
+      "Manuel Pijoan Ferré"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Agustín Magriñá",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 20 de desembre de 1825 a la Ràpita.\n\nPadrins: Agustín Magriñá i María Tomás.\n\nCasament: el 24 de novembre de 1847 amb Manuel Pijoan Ferré de Cambrils [1825].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

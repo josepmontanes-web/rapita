@@ -1,0 +1,68 @@
+{
+  "id": "3309_francisco_mauri_llambrich",
+  "source_id": "3309",
+  "row_ref": "3309. Francisco Mauri Llambrich",
+  "name": "Francisco Mauri Llambrich",
+  "gender": "male",
+  "birth": {
+    "date": "1813-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1813].\n\nProfessió: pagès.\n\nCasament: amb Josefa Royo d'Amposta.\n\nFills: Teresa [1850], Concepción [1855], Susana [1855] i Juan [1860].\n\nDefunció: el 18 de febrer de 1878 a la Ràpita als 65 anys d'una gastritis crónica. Declara la defunció Rosa Brunet.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

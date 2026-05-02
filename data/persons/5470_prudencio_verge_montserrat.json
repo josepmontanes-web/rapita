@@ -1,0 +1,85 @@
+{
+  "id": "5470_prudencio_verge_montserrat",
+  "source_id": "5470",
+  "row_ref": "5470. Prudencio Verge Montserrat",
+  "name": "Prudencio Verge Montserrat",
+  "gender": "male",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Las Salinas"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5463_andres_verge_gilabert"
+    ],
+    "father": "5463_andres_verge_gilabert",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "5476_jose_verge_munos",
+      "5477_luis_gonzaga_verge_munoz",
+      "5478_trinitario_carlos_verge_munoz",
+      "5479_vicenta_verge_munos"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Andrés Verge Gilabert",
+      "Vicenta Montserrat Guasch"
+    ],
+    "father_name": "Andrés Verge Gilabert",
+    "mother_name": "Vicenta Montserrat Guasch",
+    "spouse_names": [
+      "Batista Muños Tomàs"
+    ],
+    "children_names": [
+      "José Verge Muños",
+      "Luís Gonzaga Verge Muñoz",
+      "Trinitario Carlos Verge Muñoz",
+      "Vicenta Verge Muños"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Les Salines [aprox. 1810].\n\nCasament: el 27 d'agost de 1834 amb Batista Muños Tomás de Vinaròs [1816]. Es casa als 24 anys.\n\nFills: Luís Gonzaga [1835], Trinitario Carlos [1836], José [1840] i Vicenta [1842].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

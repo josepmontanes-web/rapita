@@ -1,0 +1,84 @@
+{
+  "id": "5242_juan_talarn_bosch",
+  "source_id": "5242",
+  "row_ref": "5242. Juan Talarn Bosch",
+  "name": "Juan Talarn Bosch",
+  "gender": "male",
+  "birth": {
+    "date": "1795-03-20",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1827-07-25",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5262_geronimo_talarn_valldeperez",
+      "812_maria_bosch_castell"
+    ],
+    "father": "5262_geronimo_talarn_valldeperez",
+    "mother": "812_maria_bosch_castell",
+    "spouse": [
+      "728_teresa_biosca_subirats"
+    ],
+    "children": [
+      "5227_juan_talarn_biosca",
+      "5228_rafaela_talarn_biosca"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Gerónimo Talarn Valldepérez",
+      "María Bosch Castell"
+    ],
+    "father_name": "Gerónimo Talarn Valldepérez",
+    "mother_name": "Maria Bosch Castell",
+    "spouse_names": [
+      "Teresa Biosca Subirats"
+    ],
+    "children_names": [
+      "Juan Talarn Biosca",
+      "Rafaela Talarn Biosca"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Moya",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 20 de març de 1795 a la Ràpita.\n\nPadrins: Juan Moya i Teresa Valldepérez.\n\nCasament: amb Teresa Biosca Subirats de Freginals [1802].\n\nFills: Juan [1820] i Rafaela [1822].\n\nDefunció: el 25 de juliol de 1827 a la Ràpita. Va morir de \"un tiro de fusil\". No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

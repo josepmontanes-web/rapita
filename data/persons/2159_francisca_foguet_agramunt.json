@@ -1,0 +1,71 @@
+{
+  "id": "2159_francisca_foguet_agramunt",
+  "source_id": "2159",
+  "row_ref": "2159. Francisca Foguet Agramunt",
+  "name": "Francisca Foguet Agramunt",
+  "gender": "female",
+  "birth": {
+    "date": "1724-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1802-08-27",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Domingo Foguet",
+      "Teresa Agramunt"
+    ],
+    "father_name": "Domingo Foguet",
+    "mother_name": "Teresa Agramunt",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1724].\n\nFills: Francisca Borrell Foguet de Tortosa [1744].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu al Codonyol amb la seua filla i el seu gendre (ACA BGRP caixa 34).\n\nDefunció: el 27 d'agost de 1802 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

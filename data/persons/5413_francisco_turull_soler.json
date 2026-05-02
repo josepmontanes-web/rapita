@@ -1,0 +1,71 @@
+{
+  "id": "5413_francisco_turull_soler",
+  "source_id": "5413",
+  "row_ref": "5413. Francisco Turull Soler",
+  "name": "Francisco Turull Soler",
+  "gender": "male",
+  "birth": {
+    "date": "1786-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1811-02-18",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel Turull",
+      "Francisca Soler"
+    ],
+    "father_name": "Manuel Turull",
+    "mother_name": "Francisca Soler",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1786].\n\nDefunció: el 18 de febrer de 1811 a la Ràpita. Va morir als 25 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

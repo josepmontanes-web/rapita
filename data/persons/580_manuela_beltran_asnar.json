@@ -1,0 +1,93 @@
+{
+  "id": "580_manuela_beltran_asnar",
+  "source_id": "580",
+  "row_ref": "580. Manuela Beltran Asnar",
+  "name": "Manuela Beltran Asnar",
+  "gender": "female",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "El Cabañal (València)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3497_manuel_moreso_avella"
+    ],
+    "father": "3497_manuel_moreso_avella",
+    "mother": null,
+    "spouse": [
+      "2377_jose_garcia_valero"
+    ],
+    "children": [
+      "2295_vicente_garcia_beltran",
+      "2296_miguela_garcia_beltran",
+      "2297_gaspar_garcia_beltran",
+      "2298_jose_garcia_beltran",
+      "2300_juan_garcia_beltran",
+      "2301_dolores_garcia_beltran",
+      "2302_andres_garcia_beltran"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel Moreso Avellà",
+      "Miguela"
+    ],
+    "father_name": "Manuel",
+    "mother_name": "Miguela",
+    "spouse_names": [
+      "José García Valero"
+    ],
+    "children_names": [
+      "Vicente García Beltran",
+      "Miguela García Beltran",
+      "Gaspar García Beltran",
+      "José García Beltran",
+      "Juan García Beltrán",
+      "Dolores García Beltrán",
+      "Andrés García Beltrán"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: al Cabanyal (València) [aprox. 1800].\n\nCasament: amb José García Valero de Benidorm [1795].\n\nFills: Vicente (València) [1815], Miguela (El Perelló) [1820], Gaspar (El Perelló) [1822], José [1824], Manuel [1830], Juan [1832], Dolores [1834] i Andrés [1837].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

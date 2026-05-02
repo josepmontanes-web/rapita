@@ -1,0 +1,91 @@
+{
+  "id": "2921_beatriz_llagostera_bonamich",
+  "source_id": "2921",
+  "row_ref": "2921. Beatriz Llagostera Bonamich",
+  "name": "Beatriz Llagostera Bonamich",
+  "gender": "female",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "34_andres_adell_sancho"
+    ],
+    "children": [
+      "21_andres_adell_llagostera",
+      "22_vicenta_maria_adell_llagostera",
+      "23_dorotea_adell_llagostera",
+      "24_resuelto_dorotea_adell_llagostera",
+      "25_francisca_adell_llagostera",
+      "26_beatriz_adell_llagostera",
+      "27_magdalena_adell_llagostera"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Mariano Llagostera",
+      "Francisca Bonamich"
+    ],
+    "father_name": "Mariano Llagostera",
+    "mother_name": "Francisca Bonamich",
+    "spouse_names": [
+      "Andrés Adell Sancho"
+    ],
+    "children_names": [
+      "Andrés Adell Llagostera",
+      "Vicenta María Adell Llagostera",
+      "Dorotea Adell Llagostera",
+      "resuelto Dorotea Adell Llagostera",
+      "Francisca Adell Llagostera",
+      "Beatriz Adell Llagostera",
+      "Magdalena Adell Llagostera"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1790].\n\nCasament: amb Andrés Adell Sancho d'Alcanar [1790]. Viuen a la partida del Codonyol terme d'Amposta.\n\nFills: Miguel (Alcanar) [aprox. 1809], Francisca (Alcanar) [aprox 1810], Dorotea (Alcanar) [aprox 1815], Magdalena [1817], Vicenta María [1819], Beatríz [1822] i Andrés [1824].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

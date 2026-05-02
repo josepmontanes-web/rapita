@@ -1,0 +1,82 @@
+{
+  "id": "2722_alexandra_guardia_bort",
+  "source_id": "2722",
+  "row_ref": "2722. Alexandra Guardia Bort",
+  "name": "Alexandra Guardia Bort",
+  "gender": "female",
+  "birth": {
+    "date": "1816-12-30",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2744_bautista_guardia_sanchez",
+      "806_teresa_bort_lleti"
+    ],
+    "father": "2744_bautista_guardia_sanchez",
+    "mother": "806_teresa_bort_lleti",
+    "spouse": [],
+    "children": [
+      "4755_theresa_sanchez_guardia",
+      "4757_francisca_sanchez_guardia"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Guardia Sánchez",
+      "Teresa Bort Lletí"
+    ],
+    "father_name": "Bautista Guardia Sancho",
+    "mother_name": "Teresa Bort Lletí",
+    "spouse_names": [
+      "Vicente Sánchez Pasqual"
+    ],
+    "children_names": [
+      "Theresa Sánchez Guardia",
+      "Francisca Sánchez Guardia"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Alexandro Lavalla",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 30 de desembre de 1816 a la Ràpita.\n\nPadrins: Alexandro Lavalla es de \"Lovano Reyno de Sardeña\" (probablement es Loano) i María Bel.\n\nCasament: el 9 de juny de 1834 amb Vicente Sánchez Pasqual de la Ràpita [1812].\n\nFills: Teresa [1838], María [1840], Francisca [1841], Sinforosa [1845] i Vicente [1854].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "607_francisco_beltran_ferrer",
+  "source_id": "607",
+  "row_ref": "607. Francisco Beltran Ferrer",
+  "name": "Francisco Beltran Ferrer",
+  "gender": "male",
+  "birth": {
+    "date": "1814-12-22",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1819-07-24",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "620_pedro_beltran_masdeu",
+      "2056_teodora_ferrer_marti"
+    ],
+    "father": "620_pedro_beltran_masdeu",
+    "mother": "2056_teodora_ferrer_marti",
+    "spouse": [],
+    "children": [
+      "624_miguel_beltran_miguel"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Beltran Masdeu",
+      "Teodora Ferrer Martí"
+    ],
+    "father_name": "Pedro Beltran Masdeu",
+    "mother_name": "Teodora Ferrer Martí",
+    "spouse_names": [],
+    "children_names": [
+      "Miguel Beltrán Miguel"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Gasparín",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 22 de desembre de 1814 a la Ràpita.\n\nPadrí: Francisco Gasparín.\n\nDefunció: el 24 de juliol de 1819 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

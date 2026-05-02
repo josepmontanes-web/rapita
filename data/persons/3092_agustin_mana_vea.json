@@ -1,0 +1,83 @@
+{
+  "id": "3092_agustin_mana_vea",
+  "source_id": "3092",
+  "row_ref": "3092. Agustín Maña Vea",
+  "name": "Agustín Maña Vea",
+  "gender": "male",
+  "birth": {
+    "date": "1795-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3092_agustin_mana_vea"
+    ],
+    "father": "3092_agustin_mana_vea",
+    "mother": null,
+    "spouse": [
+      "1601_manuela_compte_arin",
+      "2490_agustina_gavas_ines"
+    ],
+    "children": [
+      "3092_agustin_mana_vea"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustín Maña Vea",
+      "Teresa Vea"
+    ],
+    "father_name": "Agustín Maña",
+    "mother_name": "Teresa Vea",
+    "spouse_names": [
+      "Manuela Compte Arín",
+      "Agustina Gavás Inés"
+    ],
+    "children_names": [
+      "Agustín Maña Vea"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Mestre"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1795]. \n\n\"maestro de primeras letras\".\n\nCasament: amb Manuela Compte Arín de Benicarló [1797].\n\nCasament: el 15 de setembre de 1845 amb Agustina Gavás Inés de Tortosa [1800].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "1326_mariano_castella_talarn",
+  "source_id": "1326",
+  "row_ref": "1326. Mariano Castellà Talarn",
+  "name": "Mariano Castellà Talarn",
+  "gender": "male",
+  "birth": {
+    "date": "1836-03-14",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1837-10-22",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1172_pedro_castella_alegret"
+    ],
+    "father": "1172_pedro_castella_alegret",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Castellà Alegret",
+      "Francisca Talarn Blanch"
+    ],
+    "father_name": "Pedro Castellà Alegret",
+    "mother_name": "Francisca Talarn Blanch",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Mariano Castellà",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 14 de març de 1836 a la Ràpita.\n\nPadrins: Mariano Castellà i Manuela Sanchís.\n\nDefunció: el 22 d'octubre de 1837 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

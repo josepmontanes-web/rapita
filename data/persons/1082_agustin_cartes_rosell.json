@@ -1,0 +1,87 @@
+{
+  "id": "1082_agustin_cartes_rosell",
+  "source_id": "1082",
+  "row_ref": "1082. Agustín Cartes Rosell",
+  "name": "Agustín Cartes Rosell",
+  "gender": "male",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1065_jose_cartes_fonollosa"
+    ],
+    "father": "1065_jose_cartes_fonollosa",
+    "mother": null,
+    "spouse": [
+      "1232_tomasa_castella_cubina"
+    ],
+    "children": [
+      "1051_francisco_cartes_castella",
+      "1064_agustina_cartes_fonollosa",
+      "1065_jose_cartes_fonollosa",
+      "1066_juan_cartes_fonollosa"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Cartes Fonollosa",
+      "Rosa Rosell Castera?"
+    ],
+    "father_name": "José Cartes Fonollosa",
+    "mother_name": "Rosa Rosell Castera?",
+    "spouse_names": [
+      "Tomasa Castellà Cubina"
+    ],
+    "children_names": [
+      "Francisco Cartes Castellà",
+      "Agustina Cartes Fonollosa",
+      "José Cartes Fonollosa",
+      "Juan Cartes Fonollosa"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1810].\n\nCasament: amb Tomasa Castellà Cubina de Tortosa [1810].\n\nFills: Francisco [1839].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

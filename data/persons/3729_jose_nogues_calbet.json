@@ -1,0 +1,72 @@
+{
+  "id": "3729_jose_nogues_calbet",
+  "source_id": "3729",
+  "row_ref": "3729. José Nogués Calbet",
+  "name": "José Nogués Calbet",
+  "gender": "male",
+  "birth": {
+    "date": "1760-01-01",
+    "place": "Santa Coloma de Queralt"
+  },
+  "death": {
+    "date": "1793-11-09",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "2594_theresa_giro_zaragoza"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Theresa Giró Zaragoza"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Santa Coloma de Queralt [aprox. 1760]. \n\n\"Dependiente de las Reales Obras\". \"Interventor de la Real Aduana de San Carlos\".\n\nCasament: el 13 de juny de 1792 amb Teresa Giró Zaragoza [1760].\n\nCasament: amb Doña Gerónima Vuinan Torruella de Barcelona, filla de Don José i Doña María Gracia.\n\nFills: Juana [1816].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

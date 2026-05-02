@@ -1,0 +1,68 @@
+{
+  "id": "1710_gabriel_de_los_santos",
+  "source_id": "1710",
+  "row_ref": "1710. Gabriel De los Santos",
+  "name": "Gabriel De los Santos",
+  "gender": "male",
+  "birth": {
+    "date": "1854-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1854].\n\nProfessió: mariner.\n\nCasament: el 13 de desembre de 1879 amb María Esteve Vizcarro d'Ulldecona [1854]. Es casa als 25 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

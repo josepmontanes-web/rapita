@@ -1,0 +1,74 @@
+{
+  "id": "1109_juan_casajust_castella",
+  "source_id": "1109",
+  "row_ref": "1109. Juan Casajust Castellà",
+  "name": "Juan Casajust Castellà",
+  "gender": "male",
+  "birth": {
+    "date": "1831-02-08",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1831-02-08",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1108_jose_agustin_casajust_castella",
+      "1204_manuela_castella_caldero"
+    ],
+    "father": "1108_jose_agustin_casajust_castella",
+    "mother": "1204_manuela_castella_caldero",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Agustín Casajust Castellà",
+      "Manuela Castellà Calderó"
+    ],
+    "father_name": "José Agustín Casajust Michavila",
+    "mother_name": "Manuela Castellà Calderó",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 8 de febrer de 1831 a la Ràpita. \"Por hallarse en peligro de muerte fue bautizado en casa de los padres por Don Antonio Mira cirujano de esta población de 32 años de edad\".\n\nPadrina: María Ana Viscarro.\n\nDefunció: el 8 de febrer de 1831 a la Ràpita. Va morir una hora i mitja desprès de naixer de \"espasmo\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

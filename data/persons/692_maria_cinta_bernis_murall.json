@@ -1,0 +1,78 @@
+{
+  "id": "692_maria_cinta_bernis_murall",
+  "source_id": "692",
+  "row_ref": "692. Maria Cinta Bernis Murall",
+  "name": "Maria Cinta Bernis Murall",
+  "gender": "female",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "679_francisco_bernis",
+      "3581_francisca_murall"
+    ],
+    "father": "679_francisco_bernis",
+    "mother": "3581_francisca_murall",
+    "spouse": [
+      "448_domingo_balague_navarro"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Bernis",
+      "Francisca Murall"
+    ],
+    "father_name": "Francisco Bernis",
+    "mother_name": "Francisca Murall",
+    "spouse_names": [
+      "Domingo Balagué Navarro"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1810].\n\nCasament: el 26 de febrer de 1828 amb Domingo Balagué Navarro de Tortosa [1800].\n\nFills: María Cinta [1828], Francisca [1830], Rosalía [1832] i Josefa [1835].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

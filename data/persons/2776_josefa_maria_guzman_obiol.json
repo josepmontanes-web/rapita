@@ -1,0 +1,74 @@
+{
+  "id": "2776_josefa_maria_guzman_obiol",
+  "source_id": "2776",
+  "row_ref": "2776. Josefa Maria Guzmán Obiol",
+  "name": "Josefa Maria Guzmán Obiol",
+  "gender": "female",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Peníscola"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Guzmán",
+      "Salvadora Obiol"
+    ],
+    "father_name": "José Guzmán",
+    "mother_name": "Salvadora Obiol",
+    "spouse_names": [
+      "Joaquín Sanchiz",
+      "Antonio Arbó Anglés"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Peníscola [aprox. 1800].\n\nCasament: amb Joaquín Sanchíz [1773].\n\nCasament: l'1 de novembre de 1835 amb Antonio Arbó Anglès de Benicarló [1798].\n\nEs germana de José [1800], Antonio [1803] i Domingo [1813].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

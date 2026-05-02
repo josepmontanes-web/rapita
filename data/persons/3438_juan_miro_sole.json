@@ -1,0 +1,87 @@
+{
+  "id": "3438_juan_miro_sole",
+  "source_id": "3438",
+  "row_ref": "3438. Juan Miró Solé",
+  "name": "Juan Miró Solé",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "2874_rosa_jovani_grau"
+    ],
+    "children": [
+      "3432_juan_esteban_miro_juani_o_jovani",
+      "3433_alejandro_rafael_miro_jovani",
+      "3434_benita_vicenta_miro_juani_o_jovani",
+      "3435_jayme_matheo_miro_joani_o_jovani",
+      "3436_pasquala_francisca_miro_joani_o_jovani"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Miró",
+      "Josefa Solé"
+    ],
+    "father_name": "José Miró",
+    "mother_name": "Josefa Solé",
+    "spouse_names": [
+      "Rosa Jovani Grau"
+    ],
+    "children_names": [
+      "Juan Estebán Miró Juaní [o Jovani]",
+      "Alejandro Rafael Miró Jovani",
+      "Benita Vicenta Miró Juaní [o Jovani]",
+      "Jayme Matheo Miró Joaní [o Jovani]",
+      "Pasquala Francisca Miró Joaní [o Jovani]"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1800]. \n\nCasament: l'1 de març de 1824 amb Rosa Jovani Grau d'Alcanar [1800].\n\nFills: Juan [1824], Alejandro [1827], Benita [1835], Jayme [1838] i Pascuala [1840].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

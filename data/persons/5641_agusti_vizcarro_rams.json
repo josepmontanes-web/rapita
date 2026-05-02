@@ -1,0 +1,68 @@
+{
+  "id": "5641_agusti_vizcarro_rams",
+  "source_id": "5641",
+  "row_ref": "5641. Agustí Vizcarro Rams",
+  "name": "Agustí Vizcarro Rams",
+  "gender": "male",
+  "birth": {
+    "date": "1867-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [1867].\n\nProfessió: ferrer.\n\nCasament: amb Manuela Cabrera Juaní de la Ràpita [1870].\n\nFills: Manuela [1893].\n\nCasament: amb Purificación Cabrera Juaní de la Ràpita [1874].\n\nFills: Agustina [1895], Agustí [1897], Ramón [1899], Pepito [1902], Puri [1908], Eronides [1910] i Juanito [1912].\n\nDefunció: el 1943.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

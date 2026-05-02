@@ -1,0 +1,86 @@
+{
+  "id": "4317_bernarda_reverter_queralt",
+  "source_id": "4317",
+  "row_ref": "4317. Bernarda Reverter Queralt",
+  "name": "Bernarda Reverter Queralt",
+  "gender": "female",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4173_jose_reverter",
+      "4096_teresa_queralt"
+    ],
+    "father": "4173_jose_reverter",
+    "mother": "4096_teresa_queralt",
+    "spouse": [],
+    "children": [
+      "2481_pablo_gavarda_reverte",
+      "2484_maria_teresa_gavarda_reverte",
+      "2486_cinta_gavarda_reverter",
+      "2487_antonia_gavarda_reverter"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Reverter",
+      "Teresa Queralt"
+    ],
+    "father_name": "José Reverter",
+    "mother_name": "Teresa Queralt",
+    "spouse_names": [
+      "Pablo Gavarda Expósito"
+    ],
+    "children_names": [
+      "Pablo Gavarda Reverté",
+      "María Teresa Gavarda Reverté",
+      "Cinta Gavarda Reverter",
+      "Antonia Gavarda Reverter"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1800]. \n\nCasament: el 8 de noviembre de 1823 amb Pablo Gavarda Expósito [o Romero] de València [1800].\n\nFills: Antonia (València) [1825], Pablo [1828], Francisco [1830], Norberto [1833], María Teresa [1836], José Rafael [1839], Cinta [1841] i Manuela [1845].\n\nEs germana de Miguel Reverter Queralt [1787] i María Reverter Queralt [1791].\n\nDefunció: el 7 d'octubre de 1879 a la Ràpita als 78 anys de \"intermitente asmática\". Declara la mor Mariana Ibáñez de 40 anys, casada.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

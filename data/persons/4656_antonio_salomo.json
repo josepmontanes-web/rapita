@@ -1,0 +1,80 @@
+{
+  "id": "4656_antonio_salomo",
+  "source_id": "4656",
+  "row_ref": "4656. Antonio Salomó",
+  "name": "Antonio Salomó",
+  "gender": "male",
+  "birth": {
+    "date": "1785-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "4659_dolores_salomo_homedes",
+      "4660_rosa_salomo_omedes",
+      "4661_josefa_theresa_salomo_sancho",
+      "4662_juan_antonio_salomo_sancho"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Candia Homedes"
+    ],
+    "children_names": [
+      "Dolores Salomó Homedes",
+      "Rosa Salomo Omedes",
+      "Josefa Theresa Salomó Sancho",
+      "Juan Antonio Salomó Sancho"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs (o a Tortosa) [aprox. 1785]. \n\nCasament: amb Candia Homedes de Tortosa [1785].\n\nFills: Rosa (Vinaròs) [1805], Dolores (Vinaròs) [1811] i José Antonio (Vinaròs) [1814].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

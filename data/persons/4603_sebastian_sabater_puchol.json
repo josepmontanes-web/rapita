@@ -1,0 +1,79 @@
+{
+  "id": "4603_sebastian_sabater_puchol",
+  "source_id": "4603",
+  "row_ref": "4603. Sebastian Sabater Puchol",
+  "name": "Sebastian Sabater Puchol",
+  "gender": "male",
+  "birth": {
+    "date": "1815-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3226_josefa_matamoros_lleti"
+    ],
+    "children": [
+      "4594_josefa_sabater_matamoros"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Zabater",
+      "Rosa Puchol"
+    ],
+    "father_name": "Francisco Zabater",
+    "mother_name": "Rosa Puchol",
+    "spouse_names": [
+      "Josefa Matamoros Lletí"
+    ],
+    "children_names": [
+      "Josefa Sabater Matamoros"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1815]. \n\nProfessió: mariner.\n\nCasament: el 25 de maig de 1836 amb Josefa Matamoros Lletí de la Ràpita [1822]. Es casa als 21 anys.\n\nFills: Josefa [1843], Manuela [1848], Sebastiana [1853] i Josefa [1856].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

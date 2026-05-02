@@ -1,0 +1,78 @@
+{
+  "id": "3621_pablo_marcelino_navarro_comi",
+  "source_id": "3621",
+  "row_ref": "3621. Pablo Marcelino Navarro Comí",
+  "name": "Pablo Marcelino Navarro Comí",
+  "gender": "male",
+  "birth": {
+    "date": "1827-02-25",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3641_juan_navarro_hernandez",
+      "1568_rosa_comi_caldero"
+    ],
+    "father": "3641_juan_navarro_hernandez",
+    "mother": "1568_rosa_comi_caldero",
+    "spouse": [
+      "3965_josefa_pinana_zaragoza"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Navarro Hernández",
+      "Rosa Comí Calderó"
+    ],
+    "father_name": "Juan Navarro Hernández",
+    "mother_name": "Rosa Comí Calderó",
+    "spouse_names": [
+      "Josefa Piñana Zaragoza"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Pablo Carsí",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Matriculado"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 25 de febrer de 1827 a la Ràpita.\n\nPadrins: Don Pablo Carsi i Doña Margarita Fillol.\n\nProfessió: mariner \"matriculado\".\n\nCasament: el 5 de novembre de 1849 amb Josefa Piñana Zaragoza [1830].\n\nFills: Carlos [1849], Felipa [1850] i Domingo [1855].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "3989_eugenia_pla_sancho_o_sanchez",
+  "source_id": "3989",
+  "row_ref": "3989. Eugenia Pla Sancho [o Sánchez]",
+  "name": "Eugenia Pla Sancho [o Sánchez]",
+  "gender": "female",
+  "birth": {
+    "date": "1775-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1831-08-27",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3978_jayme_pla"
+    ],
+    "father": "3978_jayme_pla",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1797_38_1800"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Jayme Pla",
+      "María Sánchez"
+    ],
+    "father_name": "Jayme Pla",
+    "mother_name": "María Sánchez",
+    "spouse_names": [
+      "Jacinto Romeu Bediella"
+    ],
+    "children_names": [
+      "38 1800"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1775]. \n\nCasament: amb Jacinto Romeu Bediella [o Vidiella] de Tortosa [1771].\n\nFills: José [1793], María Luísa [1796], Manuel [1800] i Rafael [1805].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Fonda Vella núm. 7 (ACA BGRP Cajas 34).\n\nDefunció: el 27 d'agost de 1831 a la Ràpita. Va morir als 66 anys de \"hidropesia\". No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

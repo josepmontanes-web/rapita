@@ -1,0 +1,74 @@
+{
+  "id": "527_vicenta_barrera_sancho",
+  "source_id": "527",
+  "row_ref": "527. Vicenta Barrera Sancho",
+  "name": "Vicenta Barrera Sancho",
+  "gender": "female",
+  "birth": {
+    "date": "1817-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1823-11-21",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "513_manuel_barrera",
+      "4828_josefa_sancho"
+    ],
+    "father": "513_manuel_barrera",
+    "mother": "4828_josefa_sancho",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel Barrera",
+      "Josefa Sancho"
+    ],
+    "father_name": "Manuel Barrera",
+    "mother_name": "Josefa Sancho",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1817].\n\nDefunció: el 21 de novembre de 1823 a la Ràpita. Va morir  als 6 anys de \"muerte natural\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

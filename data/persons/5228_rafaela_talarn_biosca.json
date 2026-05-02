@@ -1,0 +1,82 @@
+{
+  "id": "5228_rafaela_talarn_biosca",
+  "source_id": "5228",
+  "row_ref": "5228. Rafaela Talarn Biosca",
+  "name": "Rafaela Talarn Biosca",
+  "gender": "female",
+  "birth": {
+    "date": "1822-01-12",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5242_juan_talarn_bosch",
+      "728_teresa_biosca_subirats"
+    ],
+    "father": "5242_juan_talarn_bosch",
+    "mother": "728_teresa_biosca_subirats",
+    "spouse": [
+      "642_bernardo_beltran_thomas"
+    ],
+    "children": [
+      "639_vicente_beltran_talarn"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Talarn Bosch",
+      "Teresa Biosca Subirats"
+    ],
+    "father_name": "Juan Talarn Bosch",
+    "mother_name": "Teresa Biosca Subirats",
+    "spouse_names": [
+      "Bernardo Beltran Thomas"
+    ],
+    "children_names": [
+      "Vicente Beltrán Talarn"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Manuel Noguerón",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 12 de gener de 1822 a la Ràpita.\n\nPadrins: Manuel Noguerón i Rafaela Sanz.\n\nCasament: el 13 de juliol de 1840 amb Bernardo Beltran Thomas de la Ràpita [1821].\n\nFills: Vicente [1841], María [1842] i José [1846].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

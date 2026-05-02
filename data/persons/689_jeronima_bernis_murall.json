@@ -1,0 +1,78 @@
+{
+  "id": "689_jeronima_bernis_murall",
+  "source_id": "689",
+  "row_ref": "689. Jerónima Bernis Murall",
+  "name": "Jerónima Bernis Murall",
+  "gender": "female",
+  "birth": {
+    "date": "1790-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "679_francisco_bernis",
+      "3581_francisca_murall"
+    ],
+    "father": "679_francisco_bernis",
+    "mother": "3581_francisca_murall",
+    "spouse": [
+      "785_miguel_borras_moles"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Bernis",
+      "Francisca Murall"
+    ],
+    "father_name": "Francisco Bernis",
+    "mother_name": "Francisca Murall",
+    "spouse_names": [
+      "Miguel Borràs Moles"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1790].\n\nCasament: amb Miguel Borràs Moles de Tortosa [1790].\n\nFills: Francisca (Ulldecona) [1813], Miguel (Godall) [1815], Cinta (Godall) [1816], José [1817], Juan (Alcanar) [1832] i Gerónima [1835].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

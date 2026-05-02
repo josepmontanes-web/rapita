@@ -1,0 +1,73 @@
+{
+  "id": "4928_lorenzo_antonio_sancho_roig",
+  "source_id": "4928",
+  "row_ref": "4928. Lorenzo Antonio Sancho Roig",
+  "name": "Lorenzo Antonio Sancho Roig",
+  "gender": "male",
+  "birth": {
+    "date": "1819-10-31",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "34_andres_adell_sancho"
+    ],
+    "father": "34_andres_adell_sancho",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Andrés Adell Sancho",
+      "María Roig Matamoros"
+    ],
+    "father_name": "Andrés Sancho Rubio",
+    "mother_name": "María Roig Matamoros",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Pasqual Sancho",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 31 d'octubre de 1819 a la Ràpita.\n\nPadrins: Pasqual Sancho i Josefa Balada.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

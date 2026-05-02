@@ -1,0 +1,68 @@
+{
+  "id": "2215_ramon_forcadell_reverte",
+  "source_id": "2215",
+  "row_ref": "2215. Ramón Forcadell Reverté",
+  "name": "Ramón Forcadell Reverté",
+  "gender": "male",
+  "birth": {
+    "date": "1851-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1851].\n\nProfessió: pagès.\n\nCasament: el 28 de març de 1875 amb Ramona Clua Llaó de la Ràpita [1855]. Es casa als 24 anys. Viuen al carrer de la Pau, 5.\n\nFills: Ramón [1876] i Pedro Tomás [1880].\n\nDefunció: el 29 d'octubre de 1880 a la Ràpita als 29 anys de \"epilepsia\". La consort Ramona Clua té 28 anys. Declara la mor la seua tia Francisca Borras de 40 anys, casada.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

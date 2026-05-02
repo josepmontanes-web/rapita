@@ -1,0 +1,73 @@
+{
+  "id": "3478_vicente_monsarrat_guasch",
+  "source_id": "3478",
+  "row_ref": "3478. Vicente Monsarrat Guasch",
+  "name": "Vicente Monsarrat Guasch",
+  "gender": "male",
+  "birth": {
+    "date": "1801-01-16",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3463_antonio_monserrat_famadas"
+    ],
+    "father": "3463_antonio_monserrat_famadas",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Monserrat Famadas",
+      "Rafaela Guasch Monpou"
+    ],
+    "father_name": "Antonio Monsarrat Famadas",
+    "mother_name": "Rafaela Guasch Monpou",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Vicente Fusté",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 16 de gener de 1801 a la Ràpita.\n\nPadrí: Don Vicente Fusté.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

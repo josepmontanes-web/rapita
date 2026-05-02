@@ -1,0 +1,87 @@
+{
+  "id": "5074_manuel_segarra_puchol",
+  "source_id": "5074",
+  "row_ref": "5074. Manuel Segarra Puchol",
+  "name": "Manuel Segarra Puchol",
+  "gender": "male",
+  "birth": {
+    "date": "1811-10-17",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5048_tomas_segarra_bel"
+    ],
+    "father": "5048_tomas_segarra_bel",
+    "mother": null,
+    "spouse": [
+      "2713_josefa_guardia_bort"
+    ],
+    "children": [
+      "5062_ramon_segarra_guardia",
+      "5063_jose_segarra_guardia",
+      "5064_trinitaria_segarra_guardia",
+      "5065_josefa_segarra_guardia"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomàs Segarra Bel",
+      "Antonia Puchol Muños"
+    ],
+    "father_name": "Tomàs Segarra Bel",
+    "mother_name": "Antonia Puchol Muños",
+    "spouse_names": [
+      "Josefa Guardia Bort"
+    ],
+    "children_names": [
+      "Ramón Segarra Guardia",
+      "José Segarra Guardia",
+      "Trinitaria Segarra Guardia",
+      "Josefa Segarra Guardia"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Manuel Benlloch",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 17 d'octubre de 1811 a la Ràpita.\n\nPadrins: Manuel Benlloch i Raymunda Cortiella.\n\nCasament: el 28 de març de 1835 amb Josefa Guardia Bort de la Ràpita [1816].\n\nFills: Trinitaria [1836], Ramón [1840], José [1842], Josefa [1847], Baldomero [1850] i Tomás [1853].\n\nAl març de 1877 mor la seua dona i ja era vidua.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

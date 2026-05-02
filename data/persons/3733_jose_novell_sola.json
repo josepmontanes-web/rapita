@@ -1,0 +1,68 @@
+{
+  "id": "3733_jose_novell_sola",
+  "source_id": "3733",
+  "row_ref": "3733. José Novell Solà",
+  "name": "José Novell Solà",
+  "gender": "male",
+  "birth": {
+    "date": "1770-01-01",
+    "place": "Barcelona"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Barcelona [aprox. 1770]. \n\n\"Cabo principal del Resguardo general de este Principado\".\n\nCasament: amb Doña Vicenta Vallés y Cabeza de Barcelona, es filla de José de Barcelona i Teresa d'Esparreguera.\n\nFill 1: Agustina naix el 7 d'abril de 1806 a La Ràpita i mor el 8 d'agost de 1806. El padrí es Don Agustín Fornesa.\n\nFill 2: Raymunda naix el 3 de setembre de 1808 a La Ràpita. Els padrins son Estevan Novell (iaio) i Raymunda Cortiella.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

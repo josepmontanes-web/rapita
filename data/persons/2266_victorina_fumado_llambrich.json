@@ -1,0 +1,68 @@
+{
+  "id": "2266_victorina_fumado_llambrich",
+  "source_id": "2266",
+  "row_ref": "2266. Victorina Fumadó Llambrich",
+  "name": "Victorina Fumadó Llambrich",
+  "gender": "female",
+  "birth": {
+    "date": "1836-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1836].\n\nCasament: amb José Porres.\n\nFills: Josefa, José, Gerónimo i Victorina.\n\nCasament: amb Bernardo Franch de Tortosa.\n\nDefunció: el 4 d'abril de 1879 a la Ràpita a casa del seu germà Gerónimo, tenia 43 anys, va morir de pleuresia. Vivia a la ribera.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

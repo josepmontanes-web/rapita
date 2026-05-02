@@ -1,0 +1,76 @@
+{
+  "id": "4680_gregorio_samper",
+  "source_id": "4680",
+  "row_ref": "4680. Gregorio Samper",
+  "name": "Gregorio Samper",
+  "gender": "male",
+  "birth": {
+    "date": "1775-01-01",
+    "place": "Benidorm"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "4698_juan_samper_moncho",
+      "4699_vicente_samper_moncho"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Rosa Moncho"
+    ],
+    "children_names": [
+      "Juan Samper Moncho",
+      "Vicente Samper Moncho"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a La Nucia (Alacant) o a Benidorm [aprox. 1775]. \n\nCasament: amb Rosa Moncho de Benidorm.\n\nFills: Vicente (Benidorm) [1800], Gregorio (Benidorm) [1810] i Juan (Benidorm) [1817].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

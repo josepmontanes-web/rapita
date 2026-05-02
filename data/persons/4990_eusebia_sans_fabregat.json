@@ -1,0 +1,74 @@
+{
+  "id": "4990_eusebia_sans_fabregat",
+  "source_id": "4990",
+  "row_ref": "4990. Eusebia Sans Fabregat",
+  "name": "Eusebia Sans Fabregat",
+  "gender": "female",
+  "birth": {
+    "date": "1829-12-23",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1830-09-23",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5017_domingo_sans_sanarau",
+      "1928_pascuala_fabregat_obiol"
+    ],
+    "father": "5017_domingo_sans_sanarau",
+    "mother": "1928_pascuala_fabregat_obiol",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Domingo Sans Sanarau",
+      "Pascuala Fabregat Obiol"
+    ],
+    "father_name": "Domingo Sans Sanarau",
+    "mother_name": "Pascuala Fabregat Obiol",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Safon",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 23 de desembre de 1829 a la Ràpita.\n\nPadrins: Juan Safont i Agueda Prats.\n\nDefunció: el 23 de setembre de 1830 a la Ràpita. Va morir de \"espasmo\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

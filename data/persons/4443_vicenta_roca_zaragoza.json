@@ -1,0 +1,68 @@
+{
+  "id": "4443_vicenta_roca_zaragoza",
+  "source_id": "4443",
+  "row_ref": "4443. Vicenta Roca Zaragoza",
+  "name": "Vicenta Roca Zaragoza",
+  "gender": "female",
+  "birth": {
+    "date": "1850-01-01",
+    "place": "Benicarló"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Benicarló [aprox. 1850].\n\nCasament: amb José Mascarell Roig de Santa Bàrbara [1850].\n\nFills: María Cinta [1876] i Juan [1879].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

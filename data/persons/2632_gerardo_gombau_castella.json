@@ -1,0 +1,74 @@
+{
+  "id": "2632_gerardo_gombau_castella",
+  "source_id": "2632",
+  "row_ref": "2632. Gerardo Gombau Castellà",
+  "name": "Gerardo Gombau Castellà",
+  "gender": "male",
+  "birth": {
+    "date": "1839-06-30",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2643_vicente_gombau_ortiz",
+      "1247_teresa_castella_dalmau"
+    ],
+    "father": "2643_vicente_gombau_ortiz",
+    "mother": "1247_teresa_castella_dalmau",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Gombau Ortiz",
+      "Teresa Castellà Dalmau"
+    ],
+    "father_name": "Vicente Gombau Ortiz",
+    "mother_name": "Teresa Castellà Dalmau",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Andrés García",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 30 de juny de 1839 a la Ràpita.\n\nPadrins: Andrés García i Manuela Gasparín.\n\nProfessió: pagès.\n\nCasament: amb Francisca Castellà Talarn de la Ràpita [1850].\n\nFills: Teresa [1879].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

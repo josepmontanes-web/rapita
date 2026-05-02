@@ -1,0 +1,78 @@
+{
+  "id": "3657_enrique_navarro_martinez",
+  "source_id": "3657",
+  "row_ref": "3657. Enrique Navarro Martínez",
+  "name": "Enrique Navarro Martínez",
+  "gender": "male",
+  "birth": {
+    "date": "1880-04-12",
+    "place": "la Ràpita, al carrer Santa Eulalia"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3630_jose_navarro_garcia",
+      "3147_teresa_martinez_sabate"
+    ],
+    "father": "3630_jose_navarro_garcia",
+    "mother": "3147_teresa_martinez_sabate",
+    "spouse": [],
+    "children": [
+      "3616_enrique_navarro_castella"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Navarro García",
+      "Teresa Martínez Sabaté"
+    ],
+    "father_name": "José Navarro Martín",
+    "mother_name": "Teresa Martínez Sabaté",
+    "spouse_names": [],
+    "children_names": [
+      "Enrique Navarro Castellá"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Chalé",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 12 d'abril de 1880 a la Ràpita, al carrer Santa Eulalia. El pare té 43 anys i la mare 32. Declara al registre civil la seua iaia Carmen Sabaté de Xerta de 63 anys\n\nPadrins: Juan Chalé i Dolors Reverté.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

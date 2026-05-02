@@ -1,0 +1,77 @@
+{
+  "id": "731_jose_blanco_aleman",
+  "source_id": "731",
+  "row_ref": "731. José Blanco Aleman",
+  "name": "José Blanco Aleman",
+  "gender": "male",
+  "birth": {
+    "date": "1760-01-01",
+    "place": "Zaragoza"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1796_2_1846"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Don José Blanco",
+      "Maria Aleman"
+    ],
+    "father_name": "Don José Blanco",
+    "mother_name": "Maria Aleman",
+    "spouse_names": [
+      "Doña Felipa Climent Bilbé"
+    ],
+    "children_names": [
+      "2 1846"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Zaragoza [aprox. 1760].\n\nCasament: amb Doña Felipa Climent Bilbé de Tortosa [1770].\n\nFills: Justo [1791] i María Teresa [1793].\n\nSobreestante de les Obres des de 1785. Al 1787 Naudín diu que serà \"empleado para la apuntación de los estadales\". (ACA_BGRP_Correspondència_caixa 9).\n\nAl 1786 les monges diuen que Francesch Canals li dona terra que pertanyia al monasteri i que era resident a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

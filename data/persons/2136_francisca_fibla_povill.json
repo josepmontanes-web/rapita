@@ -1,0 +1,71 @@
+{
+  "id": "2136_francisca_fibla_povill",
+  "source_id": "2136",
+  "row_ref": "2136. Francisca Fibla Povill",
+  "name": "Francisca Fibla Povill",
+  "gender": "female",
+  "birth": {
+    "date": "1826-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1827-07-30",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Don Clemente Fibla Forcadell",
+      "Doña Francisca Povill Catá"
+    ],
+    "father_name": "Don Clemente Fibla Forcadell",
+    "mother_name": "Doña Francisca Povill Catá",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1826].\n\nDefunció: el 30 de juliol de 1827 a la Ràpita. Va morir al mes i mig de \"calenturas\".\n\nEs germana de Fernando Wenceslao Fibla Povill [1827].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

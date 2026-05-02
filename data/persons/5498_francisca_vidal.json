@@ -1,0 +1,70 @@
+{
+  "id": "5498_francisca_vidal",
+  "source_id": "5498",
+  "row_ref": "5498. Francisca Vidal",
+  "name": "Francisca Vidal",
+  "gender": "female",
+  "birth": {
+    "date": "1768-01-01",
+    "place": "Benissanet"
+  },
+  "death": {
+    "date": "1815-05-07",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Juan Balaguer"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Benissanet [aprox. 1768].\n\nCasament: el 19 de febrer de 1791 amb Juan Balaguer [1760].\n\nDefunció: el 7 de maig de 1815 a la Ràpita. Va morir als 47 anys. A la partida de defunció diu que es vidua de José Balaguer.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

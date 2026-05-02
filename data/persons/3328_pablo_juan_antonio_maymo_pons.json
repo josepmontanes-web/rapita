@@ -1,0 +1,74 @@
+{
+  "id": "3328_pablo_juan_antonio_maymo_pons",
+  "source_id": "3328",
+  "row_ref": "3328. Pablo Juan Antonio Maymó Pons",
+  "name": "Pablo Juan Antonio Maymó Pons",
+  "gender": "male",
+  "birth": {
+    "date": "1800-05-23",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1801-04-02",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3325_francisco_maymo_beltran",
+      "4013_francisca_pons_subirats"
+    ],
+    "father": "3325_francisco_maymo_beltran",
+    "mother": "4013_francisca_pons_subirats",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Maymó Beltran",
+      "Francisca Pons Subirats"
+    ],
+    "father_name": "Francisco Maymó Beltran",
+    "mother_name": "Francisca Pons Subirats",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Juan de Mata",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 23 de maig de 1800 a la Ràpita.\n\nPadrins Don Juan de Mata \"sargento del regimiento de Cav. de Algarve, natural de Alcazar de San Juan, Castilla la nueva\" i María Budesca.\n\nDefunció: el 2 d'abril de 1801 a la Ràpita.\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que els pares viuen a la Mansana Vella (carrer del Forn) núm. 22 (ACA BGRP Cajas 34).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

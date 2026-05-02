@@ -1,0 +1,97 @@
+{
+  "id": "1234_josefa_castella_colomines",
+  "source_id": "1234",
+  "row_ref": "1234. Josefa Castellà Colomines",
+  "name": "Josefa Castellà Colomines",
+  "gender": "female",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1164_bautista_castella"
+    ],
+    "father": "1164_bautista_castella",
+    "mother": null,
+    "spouse": [
+      "4637_mariano_safon_pasqual"
+    ],
+    "children": [
+      "4615_francisca_safon_castella",
+      "4616_miguel_safont_castella",
+      "4617_juan_bautista_safon_castella",
+      "4618_esperanza_safont_castella",
+      "4619_bruno_safont_castella",
+      "4620_mariana_safon_castella",
+      "4621_francisco_safont_castella",
+      "4622_francisca_de_asis_safon_castella",
+      "4623_maria_josefa_safon_castella"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Castellà",
+      "Francisca Colomines"
+    ],
+    "father_name": "Bautista Castellà",
+    "mother_name": "Francisca Colomines",
+    "spouse_names": [
+      "Mariano Safon Pasqual"
+    ],
+    "children_names": [
+      "Francisca Safon Castellà",
+      "Miguel Safont Castellà",
+      "Juan Bautista Safon Castellà",
+      "Esperanza Safont Castellà",
+      "Bruno Safont Castellà",
+      "Mariana Safon Castellà",
+      "Francisco Safont Castellà",
+      "Francisca de Asis Safón Castellà",
+      "Maria Josefa Safón Castellà"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1800].\n\nCasament: el 31 de desembre de 1820 amb Mariano Safont Pasqual de la Ràpita [1800].\n\nFills: Francisca [1821], Juan [1823], Esperanza [1825], Miguel [1827], Francisco [1828], Bruno [1832], Mariana [1834], Francisca de Asis [1837] i María Josefa [1840].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

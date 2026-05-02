@@ -1,0 +1,78 @@
+{
+  "id": "2296_miguela_garcia_beltran",
+  "source_id": "2296",
+  "row_ref": "2296. Miguela García Beltran",
+  "name": "Miguela García Beltran",
+  "gender": "female",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Perelló"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2377_jose_garcia_valero",
+      "580_manuela_beltran_asnar"
+    ],
+    "father": "2377_jose_garcia_valero",
+    "mother": "580_manuela_beltran_asnar",
+    "spouse": [
+      "1028_pedro_vicente_carceller_pages"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José García Valero",
+      "Manuela Beltran Asnar"
+    ],
+    "father_name": "José García Valero",
+    "mother_name": "Manuela Beltran Asnar",
+    "spouse_names": [
+      "Pedro Vicente Carceller Pagès"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: al Perelló (València) [aprox. 1820].\n\nCasament: el 20 d'agost de 1845 amb Pedro Vicente Carceller Pagès de Tortosa [1825].\n\nFills: Manuela [1850], Pedro José [1850] i Ramón [1850].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

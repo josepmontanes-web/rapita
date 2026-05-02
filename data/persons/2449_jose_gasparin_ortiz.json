@@ -1,0 +1,84 @@
+{
+  "id": "2449_jose_gasparin_ortiz",
+  "source_id": "2449",
+  "row_ref": "2449. José Gasparín Ortiz",
+  "name": "José Gasparín Ortiz",
+  "gender": "male",
+  "birth": {
+    "date": "1807-06-08",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3758_francisca_ortiz_albacar"
+    ],
+    "father": null,
+    "mother": "3758_francisca_ortiz_albacar",
+    "spouse": [
+      "1503_teresa_cid_marti"
+    ],
+    "children": [
+      "2406_jose_gasparin_cid",
+      "2408_feliz_gasparin_cid",
+      "2410_jose_gasparin_cid"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Gaspari Bretaña",
+      "Francisca Ortiz Albacar"
+    ],
+    "father_name": "Francisco Gaspari Bretaña",
+    "mother_name": "Francisca Ortiz Albacar",
+    "spouse_names": [
+      "Teresa Cid Martí"
+    ],
+    "children_names": [
+      "José Gasparín Cid",
+      "Feliz Gasparín Cid"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Gasparín",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 8 de juny de 1807 a la Ràpita.\n\nPadrins: Francisco Gasparín i Bárbara Gombau.\n\nCasament: el 8 de juliol de 1829 amb Teresa Cid Martí de Santa Bàrbara [1807].\n\nFills: José [1831], Feliz [1833], María Dolores [1836], Francisco [1839] i José [1841].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

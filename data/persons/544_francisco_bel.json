@@ -1,0 +1,78 @@
+{
+  "id": "544_francisco_bel",
+  "source_id": "544",
+  "row_ref": "544. Francisco Bel",
+  "name": "Francisco Bel",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Freginals"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3415_rosa_miralles"
+    ],
+    "children": [
+      "568_jose_bel_miralles",
+      "569_vicenta_bel_miralles"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Rosa Miralles"
+    ],
+    "children_names": [
+      "José Bel Miralles",
+      "Vicenta Bel Miralles"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  a Freginals [aprox. 1800].\n\nCasament: amb Rosa Miralles de Freginals [1802].\n\nFills: Vicenta [1827] i José [1831].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

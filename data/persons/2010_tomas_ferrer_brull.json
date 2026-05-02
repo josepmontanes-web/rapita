@@ -1,0 +1,74 @@
+{
+  "id": "2010_tomas_ferrer_brull",
+  "source_id": "2010",
+  "row_ref": "2010. Tomás Ferrer Brull",
+  "name": "Tomás Ferrer Brull",
+  "gender": "male",
+  "birth": {
+    "date": "1845-01-01",
+    "place": "la Cala de l'Ametlla"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2009_francisco_ferrer_brull",
+      "2042_jose_ferrer_forcadell"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Francisco Ferrer Brull",
+      "Jose Ferrer Forcadell"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Cala de l'Ametlla [aprox. 1845].\n\nProfessió: mariner.\n\nCasament: amb Cinta Verge Carcellé de la Ràpita [1850].\n\nFills: Francisco [1878] i Manuel [1881].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

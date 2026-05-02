@@ -1,0 +1,78 @@
+{
+  "id": "4935_maria_sancho_sancho",
+  "source_id": "4935",
+  "row_ref": "4935. María Sancho Sancho",
+  "name": "María Sancho Sancho",
+  "gender": "female",
+  "birth": {
+    "date": "1795-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4923_salvador_sancho_reverter",
+      "4830_antonia_sancho"
+    ],
+    "father": "4923_salvador_sancho_reverter",
+    "mother": "4830_antonia_sancho",
+    "spouse": [
+      "4100_miguel_queral_fibla"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Salvador Sancho Reverter",
+      "Antonia Sancho"
+    ],
+    "father_name": "Salvador Sancho Reverter",
+    "mother_name": "Antonia Sancho",
+    "spouse_names": [
+      "Miguel Queral Fibla"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1795]. \n\nCasament: el 20 de març de 1819 amb Miguel Queral Fibla.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

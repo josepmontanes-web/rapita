@@ -1,0 +1,74 @@
+{
+  "id": "2950_damian_llorach",
+  "source_id": "2950",
+  "row_ref": "2950. Damian Llorach",
+  "name": "Damian Llorach",
+  "gender": "male",
+  "birth": {
+    "date": "1761-01-01",
+    "place": "Benicarló"
+  },
+  "death": {
+    "date": "1817-03-01",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2951_thomasa_llorach_ferrer"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Josefa Pinos"
+    ],
+    "children_names": [
+      "Thomasa Llorach Ferrer"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Benicarló [aprox. 1761].\n\nCasament: amb Josefa Pinos [o Ferrer] de Benicarló.\n\nFills: Thomasa [1810].\n\nDefunció: l'1 de març de 1817 a la Ràpita. Va morir als 56 anys de \"miseria y calenturas\". \"Hizó testamento ante mi y queda en el archivo de esta parroquia\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

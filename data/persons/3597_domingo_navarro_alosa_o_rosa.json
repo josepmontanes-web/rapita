@@ -1,0 +1,68 @@
+{
+  "id": "3597_domingo_navarro_alosa_o_rosa",
+  "source_id": "3597",
+  "row_ref": "3597. Domingo Navarro Alosa [o Rosa]",
+  "name": "Domingo Navarro Alosa [o Rosa]",
+  "gender": "male",
+  "birth": {
+    "date": "1730-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1730].\n\nFills: Joaquín [1770], Domingo, Josefa [1760], Teresa, Rosa i María.\n\nDefunció: el 26 de gener de 1798 a Tortosa.\n\nFa testament. Hereu universal el seu fill Joaquín, pescador, si mor la seua filla Candia Navarro Omedes [1790] i si mor la seua mare Candia Omedes [1771]. Altres fills Domingo Navarro conjuge de Rosa Omedes, Josefa Navarro conjuge de Pedro Mayals, Teresa Navarro conjuge de Francisco Colomines, Rosa Navarro conjuge de José Bala... i María Navarro conjuge de Pablo Porcar.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

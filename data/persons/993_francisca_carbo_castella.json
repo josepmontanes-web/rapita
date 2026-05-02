@@ -1,0 +1,83 @@
+{
+  "id": "993_francisca_carbo_castella",
+  "source_id": "993",
+  "row_ref": "993. Francisca Carbó Castellà",
+  "name": "Francisca Carbó Castellà",
+  "gender": "female",
+  "birth": {
+    "date": "1814-08-31",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1247_teresa_castella_dalmau"
+    ],
+    "father": null,
+    "mother": "1247_teresa_castella_dalmau",
+    "spouse": [
+      "1387_benito_cera_cartes"
+    ],
+    "children": [
+      "1378_jose_agustin_cera_carbo",
+      "1379_benita_cera_carbo"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Feliz Carbó Cartes",
+      "Teresa Castellà Dalmau"
+    ],
+    "father_name": "Feliz Carbó Cartes",
+    "mother_name": "Teresa Castellà Dalmau",
+    "spouse_names": [
+      "Benito Cera Cartes"
+    ],
+    "children_names": [
+      "José Agustín Cera Carbó",
+      "Benita Cera Carbó"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Gasparín",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 31 d'agost de 1814 a la Ràpita.\n\nPadrins: Francisco Gasparín i Bàrbara Gombau.\n\nCasament: el 4 d'agost de 1838 amb Benito Cera Cartes de Tortosa [1815].\n\nFills: José Agustín [1839], Benita [1842], Benito [1850], Francisco [1850] i Rosa [1854].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

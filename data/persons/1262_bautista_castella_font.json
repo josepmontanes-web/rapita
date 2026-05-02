@@ -1,0 +1,78 @@
+{
+  "id": "1262_bautista_castella_font",
+  "source_id": "1262",
+  "row_ref": "1262. Bautista Castellà Font",
+  "name": "Bautista Castellà Font",
+  "gender": "male",
+  "birth": {
+    "date": "1730-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1342_bautista_castella_zaragoza",
+      "1343_francisco_castella_zaragoza",
+      "1344_jose_castella_zaragoza"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Josefa Zaragoza"
+    ],
+    "children_names": [
+      "Bautista Castellà Zaragoza",
+      "Francisco Castellà Zaragoza",
+      "José Castellà Zaragoza"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1730].\n\nProfessió: pescador.\n\nCasament: amb Josefa Zaragoza [o Saragosí] Calderó de Tortosa [1735].\n\nFills: Bautista (Tortosa) [1759], Mateo [1760], José (Tortosa) [1760] i Francisco (Tortosa) [1760].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

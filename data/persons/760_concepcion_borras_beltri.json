@@ -1,0 +1,68 @@
+{
+  "id": "760_concepcion_borras_beltri",
+  "source_id": "760",
+  "row_ref": "760. Concepción Borràs Beltri",
+  "name": "Concepción Borràs Beltri",
+  "gender": "female",
+  "birth": {
+    "date": "1862-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1862].\n\nCasament: el 26 de setembre de 1883 amb José Queralt Roig del Perelló [1858]. Es casa als 21 anys. Al casament la seua mare es diu Francisca.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

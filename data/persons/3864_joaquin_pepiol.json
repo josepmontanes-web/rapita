@@ -1,0 +1,74 @@
+{
+  "id": "3864_joaquin_pepiol",
+  "source_id": "3864",
+  "row_ref": "3864. Joaquín Pepiol",
+  "name": "Joaquín Pepiol",
+  "gender": "male",
+  "birth": {
+    "date": "1750-01-01",
+    "place": "la Riera de Gaià (Tarragona)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "3892_blas_pepiol_masdeu",
+      "3911_jose_pepiol_soler"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Blas Pepiol Masdeu",
+      "José Pepiol Soler"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Riera de Gaià (Tarragona) [aprox. 1750]. \n\nCasament: amb Eulalia Masdeu de San Jorge [1760].\n\nFills: Blas (Amposta) [1780].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

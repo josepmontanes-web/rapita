@@ -1,0 +1,79 @@
+{
+  "id": "1162_camilo_castells_miro",
+  "source_id": "1162",
+  "row_ref": "1162. Camilo Castells Miró",
+  "name": "Camilo Castells Miró",
+  "gender": "male",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "4037_teresa_puchol_ferrer"
+    ],
+    "children": [
+      "1163_vicenta_cinta_castells_puchol"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Castells",
+      "Cinta Miró"
+    ],
+    "father_name": "Juan Castells",
+    "mother_name": "Cinta Miró",
+    "spouse_names": [
+      "Teresa Puchol? Ferrer"
+    ],
+    "children_names": [
+      "Vicenta Cinta Castells Puchol"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1820].\n\nCasament: amb Teresa Puchol Ferrer de Vinaròs [1820].\n\nFills: Vicenta Cinta [1841].\n\nGermà de Magín Castells Miró [1815].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

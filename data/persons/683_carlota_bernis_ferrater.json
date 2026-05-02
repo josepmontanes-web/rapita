@@ -1,0 +1,74 @@
+{
+  "id": "683_carlota_bernis_ferrater",
+  "source_id": "683",
+  "row_ref": "683. Carlota Bernis Ferrater",
+  "name": "Carlota Bernis Ferrater",
+  "gender": "female",
+  "birth": {
+    "date": "1842-01-12",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "691_jose_francisco_bernis_murall",
+      "1994_teresa_ferrater_pares"
+    ],
+    "father": "691_jose_francisco_bernis_murall",
+    "mother": "1994_teresa_ferrater_pares",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Francisco Bernis Murall",
+      "Teresa Ferrater Parés"
+    ],
+    "father_name": "José Francisco Bernis Murall",
+    "mother_name": "Teresa Ferrater Parés",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Sebastián Vidal",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 12 de gener de 1842 a la Ràpita.\n\nPadrins: Sebastián Vidal i Francisca Bernis.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

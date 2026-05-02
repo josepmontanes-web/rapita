@@ -1,0 +1,73 @@
+{
+  "id": "3607_teresa_navarro_beltran",
+  "source_id": "3607",
+  "row_ref": "3607. Teresa Navarro Beltrán",
+  "name": "Teresa Navarro Beltrán",
+  "gender": "female",
+  "birth": {
+    "date": "1843-03-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1846-09-23",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3678_jose_navarro_sol"
+    ],
+    "father": "3678_jose_navarro_sol",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Navarro Sol",
+      "Josefa Beltrán Brunet"
+    ],
+    "father_name": "José Navarro Sol",
+    "mother_name": "Josefa Beltrán Brunet",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1843]. \n\nDefunció: el 23 de setembre de 1846 a la Ràpita. Va morir als 3 anys i mig de terciana.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

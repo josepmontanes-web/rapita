@@ -1,0 +1,73 @@
+{
+  "id": "1515_josefa_climent_cordovet",
+  "source_id": "1515",
+  "row_ref": "1515. Josefa Climent Cordovet",
+  "name": "Josefa Climent Cordovet",
+  "gender": "female",
+  "birth": {
+    "date": "1793-01-20",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1514_ramon_climent_bilbe"
+    ],
+    "father": "1514_ramon_climent_bilbe",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Ramon Climent Bilbé",
+      "María Antonia Cordovet"
+    ],
+    "father_name": "Ramon Climent",
+    "mother_name": "María Antonia Cordovet",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Joaquín Climent",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 20 de gener de 1793 a la Ràpita.\n\nPadrins: Joaquín Climent i Teresa Bilvé.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

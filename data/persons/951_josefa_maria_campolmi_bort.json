@@ -1,0 +1,73 @@
+{
+  "id": "951_josefa_maria_campolmi_bort",
+  "source_id": "951",
+  "row_ref": "951. Josefa María Campolmi Bort",
+  "name": "Josefa María Campolmi Bort",
+  "gender": "female",
+  "birth": {
+    "date": "1809-03-21",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "950_alexandro_campolmi_vernis"
+    ],
+    "father": "950_alexandro_campolmi_vernis",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Alexandro Campolmi Vernis",
+      "Josefa Bort Lleixà"
+    ],
+    "father_name": "Alexandro Campolmi Vernis",
+    "mother_name": "Josefa Bort Lleixà",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Lorenzo Casadevall",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 21 de març de 1809 a la Ràpita.\n\nPadrí: Don Lorenzo Casadevall, es Alcalde i natural de Barcelona.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

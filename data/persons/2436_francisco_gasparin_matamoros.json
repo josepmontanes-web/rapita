@@ -1,0 +1,95 @@
+{
+  "id": "2436_francisco_gasparin_matamoros",
+  "source_id": "2436",
+  "row_ref": "2436. Francisco Gasparín Matamoros",
+  "name": "Francisco Gasparín Matamoros",
+  "gender": "male",
+  "birth": {
+    "date": "1793-12-19",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3261_theresa_matamoros_reverter"
+    ],
+    "father": null,
+    "mother": "3261_theresa_matamoros_reverter",
+    "spouse": [
+      "2642_barbara_gombau_ortiz"
+    ],
+    "children": [
+      "2420_barbara_gasparin_gombau",
+      "2421_mariana_gasparin_gombau",
+      "2422_francisca_gasparin_gombau",
+      "2423_manuela_gasparin_gombau",
+      "2424_teresa_gasparin_gombau",
+      "2425_gerardo_sixto_gasparin_gombau",
+      "2426_maria_teresa_gasparin_gombau",
+      "2427_francisco_gasparin_gombau"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Gaspari Bretaña",
+      "Theresa Matamoros Reverter"
+    ],
+    "father_name": "Francisco Gaspari Bretaña",
+    "mother_name": "Theresa Matamoros Reverter",
+    "spouse_names": [
+      "Barbara Gombau Ortiz"
+    ],
+    "children_names": [
+      "Bàrbara Gasparín Gombau",
+      "Mariana Gasparín Gombau",
+      "Francisca Gasparín Gombau",
+      "Manuela Gasparín Gombau",
+      "Teresa Gasparín Gombau",
+      "Gerardo Sixto Gasparín Gombau",
+      "María Teresa Gasparín Gombau",
+      "Francisco Gasparín Gombau"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Castellà",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 19 de desembre de 1793 a la Ràpita.\n\nPadrins: Francisco Castellà i María Dalmau.\n\nCasament: el 20 de juliol de 1809 amb Bàrbara Gombau Ortíz d'Amposta [1790].\n\nFills: Francisco [1814], Francisca [1816], Manuela [1819], Teresa [1821], Gerardo [1823], Mariana [1825], María Teresa [1828] i Bàrbara [1831].\n\nEl 3 de març de 1829 es un dels 7 veïns que forma part de la Junta de Foment de la Agricultura i volen demanar 1000 jornals de terra per a veïns del poble..",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

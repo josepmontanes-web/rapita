@@ -1,0 +1,91 @@
+{
+  "id": "5017_domingo_sans_sanarau",
+  "source_id": "5017",
+  "row_ref": "5017. Domingo Sans Sanarau",
+  "name": "Domingo Sans Sanarau",
+  "gender": "male",
+  "birth": {
+    "date": "1785-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1842-08-22",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4952_rufo_sans"
+    ],
+    "father": "4952_rufo_sans",
+    "mother": null,
+    "spouse": [
+      "1928_pascuala_fabregat_obiol"
+    ],
+    "children": [
+      "4986_rafaela_sans_fabregat",
+      "4987_francisca_sans_fabregat",
+      "4988_agustin_sans_fabregat",
+      "4989_joaquina_sanz_fabregat",
+      "4990_eusebia_sans_fabregat",
+      "4991_felipe_sanz_fabregat"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Rufo Sans",
+      "Francisca Sanarau"
+    ],
+    "father_name": "Rufo Sans",
+    "mother_name": "Francisca Sanarau",
+    "spouse_names": [
+      "Pascuala Fabregat Obiol"
+    ],
+    "children_names": [
+      "Rafaela Sans Fabregat",
+      "Francisca Sans Fabregat",
+      "Agustín Sans Fabregat",
+      "Joaquina Sanz Fabregat",
+      "Eusebia Sans Fabregat",
+      "Felipe Sanz Fabregat"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1785]. \n\nProfessió: pagès.\n\nCasament: el 28 de juliol de 1810 amb Pascuala Fabregat Obiol de Peníscola [1792]. Es casa als 25 anys.\n\nFills: Agustín [1811], Felipe [1815], Joaquina [1817], Francisca [1820], Rafaela [1826] i Eusebia [1829].\n\nDefunció: el 22 d'agost de 1842 a la Ràpita. Va testar davant de Joaquín Figueres.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

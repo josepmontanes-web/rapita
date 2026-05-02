@@ -1,0 +1,76 @@
+{
+  "id": "482_jose_ballester",
+  "source_id": "482",
+  "row_ref": "482. José Ballester",
+  "name": "José Ballester",
+  "gender": "male",
+  "birth": {
+    "date": "1775-01-01",
+    "place": "Sant Mateu"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "485_maria_ballester_llorens",
+      "486_antonia_ballester_llorens"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Doña Magdalena Masip"
+    ],
+    "children_names": [
+      "Maria Ballester Llorens",
+      "Antonia Ballester Llorens"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Metge"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Sant Mateu [aprox. 1775].\n\nProfessió: metge. \"Don José Ballester médico de esta vecindad\".\n\nCasament: amb Magdalena Masip d'Ulldecona.\n\nFills: Josefa Antonia (Xert) [aprox 1805].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

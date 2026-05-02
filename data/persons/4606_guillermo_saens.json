@@ -1,0 +1,68 @@
+{
+  "id": "4606_guillermo_saens",
+  "source_id": "4606",
+  "row_ref": "4606. Guillermo Saens",
+  "name": "Guillermo Saens",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "San Javier (Murcia)"
+  },
+  "death": {
+    "date": "1823-01-15",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Soldat"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a San Javier (Murcia) [aprox. 1800]. \n\n\"Iba con dirección a Barcelona destinado al Regimiento de León\".\n\nDefunció: el 15 de gener de 1823 a la Ràpita. Va morir als 23 anys. \"Murió de muerte natural, según declaración de este facultativo, a bordo del land San Jaime, anclado en este puerto de Alfaques, patroneado por Antonio Bigren de la matrícula de Denia\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

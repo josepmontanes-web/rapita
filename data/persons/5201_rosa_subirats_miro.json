@@ -1,0 +1,83 @@
+{
+  "id": "5201_rosa_subirats_miro",
+  "source_id": "5201",
+  "row_ref": "5201. Rosa Subirats Miró",
+  "name": "Rosa Subirats Miró",
+  "gender": "female",
+  "birth": {
+    "date": "1781-01-01",
+    "place": "Freginals"
+  },
+  "death": {
+    "date": "1833-12-28",
+    "place": null
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5184_andres_subirats"
+    ],
+    "father": "5184_andres_subirats",
+    "mother": null,
+    "spouse": [
+      "3117_joaquin_marti_cardona"
+    ],
+    "children": [
+      "3132_theresa_marti_subirats",
+      "3133_maria_vicenta_marti_subirats"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Andrés Subirats",
+      "Teresa Miró"
+    ],
+    "father_name": "Andrés Subirats",
+    "mother_name": "Teresa Miró",
+    "spouse_names": [
+      "Joaquín Martí Cardona"
+    ],
+    "children_names": [
+      "Theresa Martí Subirats",
+      "Maria Vicenta Martí Subirats"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Freginals [aprox. 1781]. \n\nCasament: amb Joaquín Martí Cardona de Sorita de Morella [1765].\n\nFills: Teresa [1812] i María Vicenta [1817].\n\nDefunció: el 28 de desembre de 1833 a la Ràpita. Va morir als 52 anys. No fa testament. Dota la seva ànima amb 80 Rs. V.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

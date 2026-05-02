@@ -1,0 +1,68 @@
+{
+  "id": "1533_francisco_clua_tomas",
+  "source_id": "1533",
+  "row_ref": "1533. Francisco Clua Tomás",
+  "name": "Francisco Clua Tomás",
+  "gender": "male",
+  "birth": {
+    "date": "1841-01-01",
+    "place": "la Galera"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Galera [aprox. 1841].\n\nProfessió: pagès.\n\nCasament: amb Rosa Reverté Gasparín de la Ràpita [1851].\n\nFills: Francisca [1877] i Francisco [1881].\n\nNo signa la declaració de naixement de la seva filla al registre civil per no saber.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

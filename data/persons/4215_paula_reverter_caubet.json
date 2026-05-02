@@ -1,0 +1,74 @@
+{
+  "id": "4215_paula_reverter_caubet",
+  "source_id": "4215",
+  "row_ref": "4215. Paula Reverter Caubet",
+  "name": "Paula Reverter Caubet",
+  "gender": "female",
+  "birth": {
+    "date": "1827-01-30",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1827-01-30",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4318_miguel_reverter_queralt",
+      "1358_rosa_caubet_rodriguez"
+    ],
+    "father": "4318_miguel_reverter_queralt",
+    "mother": "1358_rosa_caubet_rodriguez",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Reverter Queralt",
+      "Rosa Caubet Rodríguez"
+    ],
+    "father_name": "Miguel Reverter Queralt",
+    "mother_name": "Rosa Caubet Rodriguez",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Pablo Gavarda",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 30 de gener de 1827 a la Ràpita.\n\nPadrí: Pablo Gavarda.\n\nDefunció: el 30 de gener de 1827 a la Ràpita. Va morir de \"espasmo\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

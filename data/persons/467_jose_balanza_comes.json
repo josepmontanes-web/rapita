@@ -1,0 +1,85 @@
+{
+  "id": "467_jose_balanza_comes",
+  "source_id": "467",
+  "row_ref": "467. José Balanzá Comes",
+  "name": "José Balanzá Comes",
+  "gender": "male",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Benicarló"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "465_francisco_balanza"
+    ],
+    "father": "465_francisco_balanza",
+    "mother": null,
+    "spouse": [
+      "4989_joaquina_sanz_fabregat"
+    ],
+    "children": [
+      "478_pascuala_balanza_sanz",
+      "479_peregrin_balanza_sans",
+      "480_lorenza_balanza_sanz"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Balanzá",
+      "Pascuala Comes"
+    ],
+    "father_name": "Francisco Balanzá",
+    "mother_name": "Pascuala Comes",
+    "spouse_names": [
+      "Joaquina Sanz Fabregat"
+    ],
+    "children_names": [
+      "Pascuala Balanzá Sanz",
+      "Peregrín Balanzá Sans",
+      "Lorenza Balanzá Sanz"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Benicarló [aprox. 1810].\n\nCasament: el 28 de desembre de 1836 amb Joaquina Sanz Fabregat de la Ràpita [1817].\n\nFills: Pascuala [1837], Peregrín [1842] i Lorenza [1847].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

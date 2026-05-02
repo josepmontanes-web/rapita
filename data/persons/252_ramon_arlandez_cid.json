@@ -1,0 +1,73 @@
+{
+  "id": "252_ramon_arlandez_cid",
+  "source_id": "252",
+  "row_ref": "252. Ramón Arlández Cid",
+  "name": "Ramón Arlández Cid",
+  "gender": "male",
+  "birth": {
+    "date": "1825-12-27",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1827-11-01",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "266_tomas_arlandez_riba"
+    ],
+    "father": "266_tomas_arlandez_riba",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomás Arlández Riba",
+      "Mª.de la Cinta Cid Ferré"
+    ],
+    "father_name": "Tomas Arlández Rabas",
+    "mother_name": "Mª.de la Cinta Cid Ferré",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Ramón Castellà",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 27 de desembre de 1825 a la Ràpita.\n\nPadrins: Ramón Castellà i María Zaragoza.\n\nDefunció: l'1 de novembre de 1827 a la Ràpita. Va morir als 2 anys de \"espasmo\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

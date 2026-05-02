@@ -1,0 +1,74 @@
+{
+  "id": "5514_magdalena_vidal_caubet",
+  "source_id": "5514",
+  "row_ref": "5514. Magdalena Vidal Caubet",
+  "name": "Magdalena Vidal Caubet",
+  "gender": "female",
+  "birth": {
+    "date": "1831-12-23",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5502_juan_vidal_beltran",
+      "1359_josefa_caubet_rodriguez"
+    ],
+    "father": "5502_juan_vidal_beltran",
+    "mother": "1359_josefa_caubet_rodriguez",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Vidal Beltran",
+      "Josefa Caubet Rodríguez"
+    ],
+    "father_name": "Juan Vidal Beltràn",
+    "mother_name": "Josefa Caubet Rodríguez",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Alexandro Monserrat",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 23 de desembre de 1831 a la Ràpita.\n\nPadrins: Alexandro Montserrat i Bárbara Vidal.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

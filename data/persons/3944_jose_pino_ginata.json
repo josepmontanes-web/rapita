@@ -1,0 +1,68 @@
+{
+  "id": "3944_jose_pino_ginata",
+  "source_id": "3944",
+  "row_ref": "3944. José Pino Ginata",
+  "name": "José Pino Ginata",
+  "gender": "male",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1820].\n\nProfessió: pastor de bous.\n\nCasament: amb Narcisa Pujol de Tortosa.\n\nFills: Teresa.\n\nCasament: amb Candida Panicello de Tortosa [1850].\n\nDefunció: el 8 de febrer de 1881 a la Ràpita als 60 anys de \"pleuro-neumonia\". Declara la mor Vicenta Geida de 60 anys, vidua.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

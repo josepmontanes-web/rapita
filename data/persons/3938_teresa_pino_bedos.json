@@ -1,0 +1,77 @@
+{
+  "id": "3938_teresa_pino_bedos",
+  "source_id": "3938",
+  "row_ref": "3938. Teresa Pino Bedós",
+  "name": "Teresa Pino Bedós",
+  "gender": "female",
+  "birth": {
+    "date": "1829-07-02",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3935_victorio_pino_aliau"
+    ],
+    "father": "3935_victorio_pino_aliau",
+    "mother": null,
+    "spouse": [
+      "4098_jose_queral_esteller"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Victorio Pino Aliau",
+      "Mariana Bedós Rullo"
+    ],
+    "father_name": "Victorio Pino Aliau",
+    "mother_name": "Mariana Bedós Rullo",
+    "spouse_names": [
+      "José Queral Esteller"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Vicente Amella",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 2 de juliol de 1829 a la Ràpita.\n\nPadrins: Don Vicente Amella \"Subteniente de Infanteria del Regimiento de Zaragoza undécimo de Línea\" i Teresa Rosales.\n\nCasament: el 28 de juny de 1846 amb José Queral Esteller de Freginals [1825].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

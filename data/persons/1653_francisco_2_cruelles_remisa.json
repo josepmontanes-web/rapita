@@ -1,0 +1,89 @@
+{
+  "id": "1653_francisco_2_cruelles_remisa",
+  "source_id": "1653",
+  "row_ref": "1653. Francisco (2) Cruelles Remisa",
+  "name": "Francisco (2) Cruelles Remisa",
+  "gender": "male",
+  "birth": {
+    "date": "1775-01-01",
+    "place": "Llissà d'Amunt"
+  },
+  "death": {
+    "date": "1827-01-14",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "4341_matilde_reverter_sancho",
+      "293_josefa_arroyo_perez",
+      "5202_bernarda_subirats_miro"
+    ],
+    "children": [
+      "1647_francisco_cruelles_gras",
+      "1655_francisca_cruelles_reverter",
+      "1656_cipriano_cruelles_reverter",
+      "1657_bonifacio_cruelles_reverter"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Jayme Cruelles Riera",
+      "Coloma Remisa"
+    ],
+    "father_name": "Jayme Cruelles Riera",
+    "mother_name": "Coloma Remisa",
+    "spouse_names": [
+      "Matilde Reverter Sancho",
+      "Josefa Arroyo Pérez",
+      "Bernarda Subirats Miró"
+    ],
+    "children_names": [
+      "Francisco Cruelles Gras",
+      "Francisca Cruelles Reverter",
+      "Cipriano Cruelles Reverter",
+      "Bonifacio Cruelles Reverter"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès i \"Dependiente de Rentas del Resguardo\"."
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Lliçà d'Amunt [aprox. 1775].\n\nProfessió: pagès.\n\nApareix un Francisco Cruelles que paga censos a les monges per 18 jornals de terra a Coves de la Sansa, i un altre Francisco Cruelles soldado, que paga per 4 jornals.\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Mansana Vella núm. 15 amb el seu germà Francisco Cruells (ACA BGRP Cajas 34).\n\nCasament: l'1 de juliol de 1803 amb Matilde Reverter Sancho d'Alcanar [1783]. Té 27 anys quan es casa. (No es segur que el Francisco Cruelles que es casa amb Matilde Reverter sigui Francisco Cruelles Remisa).\n\nFills: Francisca [1806], Cipriano [1809] i Bonifacio [1814].\n\nDefunció: el 14 de gener de 1827 a la Ràpita. Va morir als 53 anys de \"inflamación a la cabeza\". No fa testament. Diu que es Francisco Cruelles marit de Matilde Reverté però no podem estar segur que es Francisco Cruelles Remisa.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "4042_vicente_puig_argento",
+  "source_id": "4042",
+  "row_ref": "4042. Vicente Puig Argentó",
+  "name": "Vicente Puig Argentó",
+  "gender": "male",
+  "birth": {
+    "date": "1829-01-01",
+    "place": "Santa Barbara"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4042_vicente_puig_argento"
+    ],
+    "father": "4042_vicente_puig_argento",
+    "mother": null,
+    "spouse": [
+      "3424_dominga_miralles_mauri"
+    ],
+    "children": [
+      "4042_vicente_puig_argento",
+      "4050_ignacio_pasqual_puig_puigol"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Puig Argentó",
+      "Antonia Argentó"
+    ],
+    "father_name": "Vicente Puig",
+    "mother_name": "Antonia Argentó",
+    "spouse_names": [
+      "Teresa Curto",
+      "Dominga Miralles Mauri"
+    ],
+    "children_names": [
+      "Vicente Puig Argentó",
+      "Ignacio Pasqual Puig Puigol"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Santa Bàrbara [aprox. 1829]. \n\nCasament: amb Teresa Curto.\n\nCasament: l'1 de febrer de 1854 amb Dominga Miralles Mauri de Freginals [1834]. Es casa als 25 anys. Testimonis: José Puig i Francisco Villobí.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "550_juan_bel_baima",
+  "source_id": "550",
+  "row_ref": "550. Juan Bel Baima",
+  "name": "Juan Bel Baima",
+  "gender": "male",
+  "birth": {
+    "date": "1838-02-14",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "558_manuel_bel_castell"
+    ],
+    "father": "558_manuel_bel_castell",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel Bel Castell",
+      "Francisca Baÿma Ausensi"
+    ],
+    "father_name": "Manuel Bel Castell",
+    "mother_name": "Francisca Baÿma Ausensi",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Homedes",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 14 de febrer de 1838 a la Ràpita.\n\nPadrins: Juan Homedes de Tortosa i Raymunda Sancho.\n\nProfessió: mariner.\n\nCasament: amb Francisca Castellà Navarro de la Ràpita [1837].\n\nFills: Francisca [1860], Carmen [1860], Angelina [1860] i Juan [1860].\n\nCasament: el 5 de juliol de 1880 amb Rosario Baila Brió de Vinaròs [1830].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

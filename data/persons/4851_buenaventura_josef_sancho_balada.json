@@ -1,0 +1,74 @@
+{
+  "id": "4851_buenaventura_josef_sancho_balada",
+  "source_id": "4851",
+  "row_ref": "4851. Buenaventura Josef Sancho Balada",
+  "name": "Buenaventura Josef Sancho Balada",
+  "gender": "male",
+  "birth": {
+    "date": "1839-09-26",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4912_jose_sancho_planes",
+      "326_antonia_balada_balada"
+    ],
+    "father": "4912_jose_sancho_planes",
+    "mother": "326_antonia_balada_balada",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Sancho Planes",
+      "Antonia Balada Balada"
+    ],
+    "father_name": "José Sancho Planes",
+    "mother_name": "Antonia Balada Balada",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Buenaventura Baluenga",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 26 de setembre de 1839 a la Ràpita.\n\nPadrins: Buenaventura Baluenga i Rafaela Reverter.\n\nProfessió: pagès.\n\nCasament: amb Francisca Torta Accensi de la Ràpita [1850].\n\nFills: Miguel [1878].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

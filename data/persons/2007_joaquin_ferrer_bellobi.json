@@ -1,0 +1,81 @@
+{
+  "id": "2007_joaquin_ferrer_bellobi",
+  "source_id": "2007",
+  "row_ref": "2007. Joaquín Ferrer Bellobí",
+  "name": "Joaquín Ferrer Bellobí",
+  "gender": "male",
+  "birth": {
+    "date": "1795-01-01",
+    "place": "La Galera"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1997_francisco_ferrer"
+    ],
+    "father": "1997_francisco_ferrer",
+    "mother": null,
+    "spouse": [
+      "5566_sebastiana_vidal_sastre"
+    ],
+    "children": [
+      "2011_jose_antonio_ferrer_busquets"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Ferrer",
+      "Josefa Bellobí"
+    ],
+    "father_name": "Francisco Ferrer",
+    "mother_name": "Josefa Bellobí",
+    "spouse_names": [
+      "Sebastiana Vidal Sastre"
+    ],
+    "children_names": [
+      "José Antonio Ferrer Busquets"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Galera [aprox. 1795].\n\nCasament: el 27 de setembre de 1819 amb Sebastiana Vidal Sastre.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

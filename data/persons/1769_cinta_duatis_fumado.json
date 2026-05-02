@@ -1,0 +1,68 @@
+{
+  "id": "1769_cinta_duatis_fumado",
+  "source_id": "1769",
+  "row_ref": "1769. Cinta Duatis Fumadó",
+  "name": "Cinta Duatis Fumadó",
+  "gender": "female",
+  "birth": {
+    "date": "1848-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1848].\n\nCasament: amb D. Juan Bertomeu de Tortosa.\n\nFills: Francisco, Juan i Pepe.\n\nDefunció: el 3 de juny de 1878 a la Ràpita, als 30 anys d'una ulcera cangrenosa complicada con pulmonia. Declara la mor la seua tia Teresa Porres.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

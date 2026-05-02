@@ -1,0 +1,77 @@
+{
+  "id": "2673_maria_carmela_gras_gil",
+  "source_id": "2673",
+  "row_ref": "2673. Maria Carmela Gras Gil",
+  "name": "Maria Carmela Gras Gil",
+  "gender": "female",
+  "birth": {
+    "date": "1771-01-01",
+    "place": "Ulldecona"
+  },
+  "death": {
+    "date": "1813-12-19",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2515_maria_gil"
+    ],
+    "father": null,
+    "mother": "2515_maria_gil",
+    "spouse": [
+      "1719_pascual_diago_campanals"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Gras",
+      "María Gil"
+    ],
+    "father_name": "Josef Gras",
+    "mother_name": "Maria Gil",
+    "spouse_names": [
+      "Pascual Diago Campanals"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Ulldecona [aprox. 1771].\n\nCasament: el 17 de febrer de 1799 amb Pascual Diago Campanals de Maella [1778].\n\nFills: Rafael Antonio [1799], Agustín [1802], Basilia [1805], Agustina [1807] i Tomás [1810].\n\nDefunció: el 19 de desembre de 1813 a la Ràpita. Va morir als 42 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

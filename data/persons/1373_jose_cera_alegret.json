@@ -1,0 +1,74 @@
+{
+  "id": "1373_jose_cera_alegret",
+  "source_id": "1373",
+  "row_ref": "1373. José Cera Alegret",
+  "name": "José Cera Alegret",
+  "gender": "male",
+  "birth": {
+    "date": "1844-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1845-09-14",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1386_jose_cera_cartes",
+      "72_felipa_alegret_gala"
+    ],
+    "father": "1386_jose_cera_cartes",
+    "mother": "72_felipa_alegret_gala",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Cera Cartes",
+      "Felipa Alegret Gala"
+    ],
+    "father_name": "José Cera Cartes",
+    "mother_name": "Felipa Alegret Gala",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1844].\n\nDefunció: el 14 de setembre de 1845 a la Ràpita. Va morir al any.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

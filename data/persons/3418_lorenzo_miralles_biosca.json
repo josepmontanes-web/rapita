@@ -1,0 +1,73 @@
+{
+  "id": "3418_lorenzo_miralles_biosca",
+  "source_id": "3418",
+  "row_ref": "3418. Lorenzo Miralles Biosca",
+  "name": "Lorenzo Miralles Biosca",
+  "gender": "male",
+  "birth": {
+    "date": "1758-01-01",
+    "place": "Freginals"
+  },
+  "death": {
+    "date": "1834-03-01",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1759_sebastian_domenech_miralles"
+    ],
+    "father": "1759_sebastian_domenech_miralles",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Sebastián Domenech Miralles",
+      "Rita Biosca"
+    ],
+    "father_name": "Sebastián Miralles",
+    "mother_name": "Rita Biosca",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Freginals [aprox. 1758]. \n\nDefunció: l'1 de març de 1834 a la Ràpita. Va morir fadrí als 76 anys. \"No hizo testamento ni dotó su alma por ser pobre de solemnidad\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

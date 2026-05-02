@@ -1,0 +1,68 @@
+{
+  "id": "5410_rosa_tudo_busquets",
+  "source_id": "5410",
+  "row_ref": "5410. Rosa Tudó Busquets",
+  "name": "Rosa Tudó Busquets",
+  "gender": "female",
+  "birth": {
+    "date": "1852-01-01",
+    "place": "Corbera"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Corbera [aprox. 1852].\n\nCasament: el 24 de març de 1877 amb Rafael Lucas Climent de Tortosa [1853] (Lucas es el primer cognom).\n\nFills: Josefa [1878] i Rafael [1881].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

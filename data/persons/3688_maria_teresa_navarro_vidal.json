@@ -1,0 +1,73 @@
+{
+  "id": "3688_maria_teresa_navarro_vidal",
+  "source_id": "3688",
+  "row_ref": "3688. Maria Teresa Navarro Vidal",
+  "name": "Maria Teresa Navarro Vidal",
+  "gender": "female",
+  "birth": {
+    "date": "1826-02-06",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1826-05-26",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3647_tomas_navarro_lluis"
+    ],
+    "father": "3647_tomas_navarro_lluis",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomás Navarro Lluís",
+      "Maria Vidal Talarn"
+    ],
+    "father_name": "Tomás Navarro Lluis",
+    "mother_name": "Maria Vidal Talarn",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Pedro Navarro",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 6 de febrer de 1826 a la Ràpita.\n\nPadrins: Pedro Navarro i Bárbara Vidal.\n\nDefunció: el 26 de maig de 1826 a la Ràpita. Va morir de \"calenturas\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

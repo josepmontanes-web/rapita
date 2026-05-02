@@ -1,0 +1,77 @@
+{
+  "id": "1932_joaquin_fabregat_roca",
+  "source_id": "1932",
+  "row_ref": "1932. Joaquín Fabregat Roca",
+  "name": "Joaquín Fabregat Roca",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1917_maria_antonia_fabregat_masdeu"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pablo Fabregat",
+      "Isabel Roca"
+    ],
+    "father_name": "Pablo Fabregat",
+    "mother_name": "Isabel Roca",
+    "spouse_names": [
+      "Rosa Masdeu Chiro"
+    ],
+    "children_names": [
+      "Maria Antonia Fabregat Masdeu"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1800].\n\nCasament: amb Rosa Masdeu Chiro de Reus, filla de Miguel de la Selva del Camp i Tecla de Constantí.\n\nFills: María Antonia [1828].\n\nEs germà de Lorenzo Fabregat Roca [1805].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

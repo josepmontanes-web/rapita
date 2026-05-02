@@ -1,0 +1,74 @@
+{
+  "id": "3029_juan_bautista_lopez_rullo",
+  "source_id": "3029",
+  "row_ref": "3029. Juan Bautista López Rullo",
+  "name": "Juan Bautista López Rullo",
+  "gender": "male",
+  "birth": {
+    "date": "1828-10-13",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3038_juan_lopez_segarra",
+      "4585_teresa_rullo_borras"
+    ],
+    "father": "3038_juan_lopez_segarra",
+    "mother": "4585_teresa_rullo_borras",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan López Segarra",
+      "Teresa Rullo Borràs"
+    ],
+    "father_name": "Juan López Segarra",
+    "mother_name": "Teresa Rullo Borràs",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Juan Ibañez",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 13 d'octubre de 1828 a la Ràpita.\n\nPadrins: Don Juan Ibáñez \"Teniente Coronel\" i Rosa Caubet.\n\nProfessió: paleta.\n\nCasament: amb Josefa Jovani [ o Joani] Sans de la Ràpita [1831].\n\nFills: Francisco [1859], Teresa, Tomasa, Ramón, Juan i Agustina.\n\nDefunció: el 14 de febrer de 1881 a la Ràpita de \"hipertrofia cardiaca\". Declara la mor la seua germana Antonia López, casada.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

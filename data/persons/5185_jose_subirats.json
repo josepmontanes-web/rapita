@@ -1,0 +1,80 @@
+{
+  "id": "5185_jose_subirats",
+  "source_id": "5185",
+  "row_ref": "5185. José Subirats",
+  "name": "José Subirats",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "5207_mariano_subirats_pinol",
+      "5215_joaquin_subirats_sorolla",
+      "5217_tomasa_subirats_torta",
+      "5218_jose_subirats_torta"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Tomasa Torta"
+    ],
+    "children_names": [
+      "Mariano Subirats Piñol",
+      "Joaquín Subirats Sorolla",
+      "Tomasa Subirats Torta",
+      "José Subirats Torta"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1800]. \n\nCasament: amb Tomasa Torta.\n\nFills: Tomasa (Amposta) [1820] i José (Amposta) [1824].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

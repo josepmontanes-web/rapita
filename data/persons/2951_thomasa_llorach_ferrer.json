@@ -1,0 +1,73 @@
+{
+  "id": "2951_thomasa_llorach_ferrer",
+  "source_id": "2951",
+  "row_ref": "2951. Thomasa Llorach Ferrer",
+  "name": "Thomasa Llorach Ferrer",
+  "gender": "female",
+  "birth": {
+    "date": "1810-06-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1811-04-16",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2950_damian_llorach"
+    ],
+    "father": "2950_damian_llorach",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Damian Llorach",
+      "Josefa Ferrer"
+    ],
+    "father_name": "Damian Llorach",
+    "mother_name": "Josefa Ferrer",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1810].\n\nDefunció: el 16 d'abril de 1811 a la Ràpita. Va morir als 10 mesos.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

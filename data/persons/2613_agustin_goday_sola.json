@@ -1,0 +1,86 @@
+{
+  "id": "2613_agustin_goday_sola",
+  "source_id": "2613",
+  "row_ref": "2613. Agustín Goday Solà",
+  "name": "Agustín Goday Solà",
+  "gender": "male",
+  "birth": {
+    "date": "1811-01-15",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2602_pablo_goday_andreu",
+      "5161_teresa_sola_coll"
+    ],
+    "father": "2602_pablo_goday_andreu",
+    "mother": "5161_teresa_sola_coll",
+    "spouse": [
+      "817_susana_bosch_torta"
+    ],
+    "children": [
+      "2603_juan_goday_bosch",
+      "2604_francisco_goday_bosch",
+      "2605_maria_de_los_dolores_goday_bosch"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pablo Goday Andreu",
+      "Teresa Solà Coll"
+    ],
+    "father_name": "Pablo Goday Andreu",
+    "mother_name": "Teresa Solà Coll",
+    "spouse_names": [
+      "Susana Bosch Torta"
+    ],
+    "children_names": [
+      "Juan Goday Bosch",
+      "Francisco Goday Bosch",
+      "Maria de los Dolores Goday Bosch"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Paliari Bertomeu",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 15 de gener de 1811 a la Ràpita.\n\nPadrins: Paliari Bertomeu i María Solà.\n\nCasament: el 31 d'octubre de 1832 amb Susana Bosch Torta d'Amposta [1812].\n\nFills: Juan [1833], Francisco [1834], María Dolores [1838] i Josefa [1845].\n\nEstablecimiento: a D. Agustín Goday (Solà), propietario, solar para edificar 2200 palmos catalanes cuadrados en la calle de Rampar lindante con dicha calle y por los demás lados con la bajada de la marina, con la pla… y con terreno de D. Narciso Colomer. 7 de setiembre de 1857. Valor 516.\n\nEs un dels 28 veïns de la Ràpita que figuren al primer cens electoral de San Carlos de la Rápita de 1867, diu que viu al carrer Rampart.\n\nDefunció: el 30 de gener de 1880 a la Ràpita de congestió pulmonar. Declara la mor Teresa Pallarés comadrona de 55 anys. Va testar davant de D. Pedro Lllompart notari d'Amposta.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

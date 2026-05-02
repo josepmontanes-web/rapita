@@ -1,0 +1,74 @@
+{
+  "id": "3823_blas_pasqual_fuster",
+  "source_id": "3823",
+  "row_ref": "3823. Blas Pasqual Fuster",
+  "name": "Blas Pasqual Fuster",
+  "gender": "male",
+  "birth": {
+    "date": "1783-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1797-08-09",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3817_mariano_pascual_antequera",
+      "2270_antonia_fuster"
+    ],
+    "father": "3817_mariano_pascual_antequera",
+    "mother": "2270_antonia_fuster",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Mariano Pascual Antequera",
+      "Antonia Fuster"
+    ],
+    "father_name": "Mariano Pascual Antequera",
+    "mother_name": "Antonia Fuster",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1783]. \n\nDefunció: el 9 d'agost de 1797 a la Ràpita. Va morir als 14 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

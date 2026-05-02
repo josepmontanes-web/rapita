@@ -1,0 +1,72 @@
+{
+  "id": "3751_teresa_oliva_capdevila",
+  "source_id": "3751",
+  "row_ref": "3751. Teresa Oliva Capdevila",
+  "name": "Teresa Oliva Capdevila",
+  "gender": "female",
+  "birth": {
+    "date": "1768-01-01",
+    "place": "Cabra (Arz"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "534_cecilio_jose_barriach_oliva"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Cecilio José Barriach Oliva"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Cabra (Arz. Tarragona) [aprox. 1768]. Quan naix el fill té 39 anys. Podria ser Cabra del Camp.\n\nCasament: amb Francisco Barriach Estrada del Pla (Tarragona) [1769].\n\nFills: Cecilio José [1807].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

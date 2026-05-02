@@ -1,0 +1,82 @@
+{
+  "id": "1871_juan_bautista_esteller_valles",
+  "source_id": "1871",
+  "row_ref": "1871. Juan Bautista Esteller Vallés",
+  "name": "Juan Bautista Esteller Vallés",
+  "gender": "male",
+  "birth": {
+    "date": "1731-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1801-12-13",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3157_maria_matamoros",
+      "270_maria_arnau"
+    ],
+    "children": [
+      "1851_0_1900",
+      "1852_0_1900"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joseph Esteller",
+      "Antonia Vallés"
+    ],
+    "father_name": "Joseph Esteller",
+    "mother_name": "Antonia Vallés",
+    "spouse_names": [
+      "Maria Matamoros",
+      "Maria Arnau"
+    ],
+    "children_names": [
+      "0 1900"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1731].\n\nCasament: amb María Matamoros d'Alcanar [1735].\n\nFills: Juan Bautista (Alcanar) [1770] i María (Alcanar) [1775].\n\nA la última carpeta hi ha alguns oficis de canals referint-se al cas d’Esteller d’Alcanar, crec que és per la negativa d’aquest d’anar a treballar per a Patrimoni…no diu gaire però si treballo el cas, tenir-ho en compte pq parla de com afrontar el cas. 1782. ACA_BGRP.RP. Cajas, 2.\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Mansana Vella (carrer del Forn) núm. 19 (ACA BGRP Cajas 34). Al gener de 1799 paga un lloguer de 8 Rv per la mateixa casa.\n\nCasament: l'11 de febrer de 1799 amb María Arnau.\n\nDefunció: el 13 de desembre de 1801 a la Ràpita. Fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "2755_jose_antonio_gueche_panisello",
+  "source_id": "2755",
+  "row_ref": "2755. José Antonio Gueche Panisello",
+  "name": "José Antonio Gueche Panisello",
+  "gender": "male",
+  "birth": {
+    "date": "1815-01-18",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1815-07-21",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2757_pedro_gueche_subirats",
+      "3787_josefa_panisello_roe"
+    ],
+    "father": "2757_pedro_gueche_subirats",
+    "mother": "3787_josefa_panisello_roe",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Gueche Subirats",
+      "Josefa Panisello Roe"
+    ],
+    "father_name": "Pedro Gueche Subirats",
+    "mother_name": "Josefa Panisello Roe",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Casajust",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 18 de gener de 1815 a la Ràpita.\n\nPadrins: José Casajust i María Antonia Marí.\n\nDefunció: el 21 de juliol de 1815 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

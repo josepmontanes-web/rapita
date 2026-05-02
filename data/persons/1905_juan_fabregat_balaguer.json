@@ -1,0 +1,91 @@
+{
+  "id": "1905_juan_fabregat_balaguer",
+  "source_id": "1905",
+  "row_ref": "1905. Juan Fabregat Balaguer",
+  "name": "Juan Fabregat Balaguer",
+  "gender": "male",
+  "birth": {
+    "date": "1761-09-06",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1830-08-09",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "381_candida_balaguer"
+    ],
+    "father": null,
+    "mother": "381_candida_balaguer",
+    "spouse": [
+      "3301_mariana_mateu_sancho"
+    ],
+    "children": [
+      "1918_maria_josefa_fabregat_mateu",
+      "1919_maria_ana_fabregat_mateu",
+      "1920_maria_josefa_fabregat_mateu",
+      "1921_maria_teresa_fabregat_mateu",
+      "1922_josefa_magdalena_fabregat_mateu",
+      "1923_juan_fabregat_mateu"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Fabregat",
+      "Càndida Balaguer"
+    ],
+    "father_name": "Bautista Fabregat",
+    "mother_name": "Càndida Balaguer",
+    "spouse_names": [
+      "Mariana Mateu Sancho"
+    ],
+    "children_names": [
+      "Maria Josefa Fabregat Mateu",
+      "María Ana Fabregat Mateu",
+      "María Josefa Fabregat Mateu",
+      "Maria Teresa Fabregat Mateu",
+      "Josefa Magdalena Fabregat Mateu",
+      "Juan Fabregat Mateu"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 6 de setembre de 1761 a Tortosa.\n\nProfessió: pagès.\n\nCasament: amb Mariana Mateu Sancho de la Galera [1772]. A l'estat de veïns de setembre de 1798 diu que viuen a una \"casa de las Monjas de San Juan\" (ACA BGRP Cajas 34).\n\nFills: María Josefa [1794], María Josefa [1795], María Teresa [1797], María Ana [1799], Josefa Magdalena [1800] i Juan [1808].\n\nApareix un Juan Fabregat com a testimoni d'un casament el 18 de gener de 1823 i diu que es  \"actual alcalde constitucional\".\n\nApareix un Juan Fabregat que paga censos a les monges per 58 jornals de terra a Pas de la Carrasca. \n\nApareix un Juan Fabregat a qui les monges demanen que l'ajuntament d'Amposta lliuri el delme de corders que tenen embargat i a càrrec d'un pastor dels que pasturen el terme de La Ràpita (7 de maig de 1818).\n\nDefunció: el 9 d'agost de 1830 a la Ràpita. Va morir de \"insulto aproplético\". \"Fué enterrado antes de las 24 horas por haberlo así dispuesto el médico de esta población\". No fa testament.  \n\nEl 14 de maig de 1817 diu que es Alcalde de la Ràpita (document de les Monges 51).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

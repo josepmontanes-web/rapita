@@ -1,0 +1,91 @@
+{
+  "id": "2448_agustin_gasparin_ortiz",
+  "source_id": "2448",
+  "row_ref": "2448. Agustín Gasparín Ortiz",
+  "name": "Agustín Gasparín Ortiz",
+  "gender": "male",
+  "birth": {
+    "date": "1804-05-10",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3758_francisca_ortiz_albacar"
+    ],
+    "father": null,
+    "mother": "3758_francisca_ortiz_albacar",
+    "spouse": [],
+    "children": [
+      "2392_maria_francisca_gasparin_briciano",
+      "2393_francisco_gasparin_briciano",
+      "2394_juan_bautista_gasparin_briciano",
+      "2395_maria_teresa_gasparin_brisciano",
+      "2396_maria_teresa_gasparin_briciano",
+      "2397_manuel_gasparin_briciano",
+      "2407_maria_de_los_dolores_gasparin_cid"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Gaspari Bretaña",
+      "Francisca Ortiz Albacar"
+    ],
+    "father_name": "Francisco Gaspari Bretaña",
+    "mother_name": "Francisca Ortiz Albacar",
+    "spouse_names": [
+      "Teresa Briciano Pasqual"
+    ],
+    "children_names": [
+      "María Francisca Gasparín Briciano",
+      "Francisco Gasparín Briciano",
+      "Juan Bautista Gasparín Briciano",
+      "Maria Teresa Gasparín Brisciano",
+      "María Teresa Gasparín Briciano",
+      "Manuel Gasparín Briciano",
+      "María de los Dolores Gasparín Cid"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Agustín Fornesa",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 10 de maig de 1804 a la Ràpita.\n\nPadrí: Agustín Fornesa.\n\nCasament: el 24 de maig de 1826 amb Teresa Briciano [o Bresciano] Pasqual de la Ràpita [1808].\n\nFills: María Francisca [1830], María Teresa [1834], Francisco [1835], Juan Bautista [1838], María Teresa [1841], Manuel [1848] i Agustín [1850].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

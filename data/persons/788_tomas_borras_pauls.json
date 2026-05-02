@@ -1,0 +1,99 @@
+{
+  "id": "788_tomas_borras_pauls",
+  "source_id": "788",
+  "row_ref": "788. Tomas Borràs Pauls",
+  "name": "Tomas Borràs Pauls",
+  "gender": "male",
+  "birth": {
+    "date": "1793-01-01",
+    "place": "Vilanova d'Alcolea"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "756_bautista_borras"
+    ],
+    "father": "756_bautista_borras",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "764_tomasa_francisca_borras_carbo",
+      "765_juan_borras_carbo",
+      "766_juana_borras_carbo",
+      "767_francisco_tomas_borras_carbo",
+      "768_vicenta_francisca_borras_carbo",
+      "769_bautista_borras_carbo",
+      "770_rosa_borras_carbo",
+      "771_maria_borras_carbo",
+      "772_bartolome_borras_carbo",
+      "773_josefa_tomasa_borras_carbo",
+      "774_manuela_borras_carbo"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Borràs",
+      "Teresa Pauls"
+    ],
+    "father_name": "Bautista Borràs",
+    "mother_name": "Teresa Pauls",
+    "spouse_names": [
+      "Tadea Carbó Fibla"
+    ],
+    "children_names": [
+      "Tomasa Francisca Borràs Carbó",
+      "Juan Borràs Carbó",
+      "Juana Borràs Carbó",
+      "Francisco Tomás Borràs Carbó",
+      "Vicenta Francisca Borràs Carbó",
+      "Bautista Borràs Carbó",
+      "Rosa Borràs Carbó",
+      "María Borràs Carbó",
+      "Bartolomé Borràs Carbó",
+      "Josefa Tomasa Borràs Carbó",
+      "Manuela Borràs Carbó"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vilanova d'Alcolea (o a Torreblanca)[aprox. 1793].\n\nCasament: el 22 de novembre de 1815 amb Tadea Carbó Fibla de la Ràpita [1791].\n\nFills: Rosa [1817], María [1823], Bautista [1824] , Bartolomé [1825], Vicenta Francisca [1827], Josefa Tomasa [1828], Manuela [1830], Tomasa Francisca [1831], Juan [1833], Juana [1833] i Francisco Tomás [1836].\n\nDe l'1 d'abril de 1829 al 31 de desembre de 1838 ha de pagar un lloguer de 8 Rs mensuals per la casa 3 de la mançana 3. (AGP.PER.LEG.1073/23 [Juan Vecino]).\n\n[] M M a D. Antonio Burgeres Bayle general del Real Patrimonio en Cataluña con el renombre de S. M. y en [] del Ministerio que [] en enfiteusis a D Tomás Borrás y Pauls labrador vecino de la Real Población de San Carlos de la Rápita primero todo aquel [] de terreno que contiene y [] superficie de 1600 palmos, en el que hay edificado una casa sito en la bajada que conduce a la calle de San Francisco en las inmediaciones de la dicha Población lindando por un lado con la Plaza mediante un [vibaro?] , por otro con terreno cultivado por el mismo Borrás por la espalda con terreno también cultivado por Borrás y por el frente con la dicha bajada que conduce a la calle de San Francisco, (toda aquella suerte de tierra [] de extensión 3 jornales sita en las inmediaciones de la referida Población dividida en 2 pedazos en uno con pozo de noria, confronta por un lado con dicha casa, por otro con la rampa de la izquierda que va a la calle de Pescadores y siguiendo el circulo que forma la pared de esta rampa o bajada hasta la esquina de la [] de las Moreras, cuyo terreno está establecido a Mariano Castellá y por el frente con José Francisco Bernís mediante calle proyectada. El otro pedazo o porción de tierra para cultivo linda por un cabo por la rampa o bajada de la derecha que va a la calle de San Francisco cual rampa debe sacrificarse y volverse al estado que tenia antes de la [] de dichas tierras, por otro con terreno del Real Patrimonio contiguo al [] y por otro lado con casa de la viuda de Sebastián Ibañéz y por otro con huerto de Francisco Gasparín mediante camino y con el espigón o muelle. Cuya [] con los pactos y condiciones ha haber satisfecho la cantidad de 155 reales 50 centimos por las [] a la Caja general del Real Patrimonio con las condiciones siguientes. Primera. Por el brea bec a que la [] conferido el domino útil con la reserva del [] de laudemio [] . Segunda. El valor del [] que se le concede es el que aparece en la tasación hecha por el arquitecto de la Baylia General en once [] el enteuta ha de satisfacer el mismo dia que confirme [] y por canon anual la cantidad que [] al correspondiente del capital de las dos terceras partes [] laudemios que se devengasen [] . Sexta. No se pueden variar ni alterar [] ni reconocer señor directo más que la Reina nuestra señora.[]                                                                                              16 de mayo de 1857 [notari: D.Jayme Brugera?] del Real Patrimonio de Cataluña a D Tomás Borrás y Pauls.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

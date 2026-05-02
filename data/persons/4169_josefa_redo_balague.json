@@ -1,0 +1,68 @@
+{
+  "id": "4169_josefa_redo_balague",
+  "source_id": "4169",
+  "row_ref": "4169. Josefa Redó Balagué",
+  "name": "Josefa Redó Balagué",
+  "gender": "female",
+  "birth": {
+    "date": "1878-01-01",
+    "place": "Masdenverge"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Masdenverge [aprox. 1878].\n\nDefunció: l'11 de juny de 1878 a la Ràpita, als 6 mesos de disenteria.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

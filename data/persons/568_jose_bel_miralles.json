@@ -1,0 +1,74 @@
+{
+  "id": "568_jose_bel_miralles",
+  "source_id": "568",
+  "row_ref": "568. José Bel Miralles",
+  "name": "José Bel Miralles",
+  "gender": "male",
+  "birth": {
+    "date": "1831-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1832-09-24",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "544_francisco_bel",
+      "3415_rosa_miralles"
+    ],
+    "father": "544_francisco_bel",
+    "mother": "3415_rosa_miralles",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Bel",
+      "Rosa Miralles"
+    ],
+    "father_name": "Francisco Bel",
+    "mother_name": "Rosa Miralles",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1831].\n\nDefunció: el 24 de setembre de 1832 a la Ràpita. Va morir als 20 mesos.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

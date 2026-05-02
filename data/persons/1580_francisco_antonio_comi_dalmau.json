@@ -1,0 +1,74 @@
+{
+  "id": "1580_francisco_antonio_comi_dalmau",
+  "source_id": "1580",
+  "row_ref": "1580. Francisco Antonio Comi Dalmau",
+  "name": "Francisco Antonio Comi Dalmau",
+  "gender": "male",
+  "birth": {
+    "date": "1823-07-07",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1581_alfonso_comi_domenech",
+      "1701_candia_dalmau_fabregat"
+    ],
+    "father": "1581_alfonso_comi_domenech",
+    "mother": "1701_candia_dalmau_fabregat",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Alfonso Comi Domenech",
+      "Candia Dalmau Fabregat"
+    ],
+    "father_name": "Alfonso Comi Domenech",
+    "mother_name": "Candia Dalmau Fabregat",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Cachot",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 7 de juliol de 1823 a la Ràpita.\n\nPadrins: Francisco Cachot i Francisca Cachot.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "680_margarida_bernis_o_vernis_de_piens",
+  "source_id": "680",
+  "row_ref": "680. Margarida Bernís [o Vernis] de Piens",
+  "name": "Margarida Bernís [o Vernis] de Piens",
+  "gender": "female",
+  "birth": {
+    "date": "1750-01-01",
+    "place": "Reus"
+  },
+  "death": {
+    "date": "1808-02-21",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "949_francisco_campolmi"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Francisco Campolmi"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Reus [aprox. 1750].\n\nCasament: amb Carlos Grausé de França. El cognom també podria ser Gauche.\n\nFills: Casilda [1780] i Lorenza [1780].\n\nCasament: amb Francisco Campolmi de Portici (Nàpols) [1752].\n\nFills: Alexandro (Vinaròs) [1780].\n\nA l'estat de veïns de setembre de 1798 diu que viuen a la casa Fonda núm. 5 i 6 de la \"Calle Mayor\" (ACA BGRP Cajas 34).\n\nDefunció: el 21 de febrer de 1808 a la Ràpita. No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

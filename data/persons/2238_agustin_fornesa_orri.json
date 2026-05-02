@@ -1,0 +1,79 @@
+{
+  "id": "2238_agustin_fornesa_orri",
+  "source_id": "2238",
+  "row_ref": "2238. Agustín Fornesa Orri",
+  "name": "Agustín Fornesa Orri",
+  "gender": "male",
+  "birth": {
+    "date": "1763-01-01",
+    "place": "Sant Celoni"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "4031_ventura_prado_de_ulloa_munoz"
+    ],
+    "children": [
+      "1797_38_1800"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Mariano Fornesa",
+      "Francisca Orri"
+    ],
+    "father_name": "Mariano Fornesa",
+    "mother_name": "Francisca Orri",
+    "spouse_names": [
+      "Ventura Prado de Ulloa Muñoz"
+    ],
+    "children_names": [
+      "38 1800"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Metge (cirujano)"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Sant Celoni [aprox. 1763].\n\nProfessió: metge cirujà.\n\nCasament: amb Ventura Prado de Ulloa Muñóz del Moral de València [1768]. A l'estat de veïns de setembre de 1798 diu que viuen a la casa núm. 15 de la \"Calle Mayor\" (ACA BGRP Cajas 34). Al gener de 1799 paga un lloguer de 27,17 Rv per la mateixa casa. A partir de gener de 1807 té llogada la casa 12 (la de la farmacia del Coc).\n\nFills: Lorenzo [1787], José [1788], Narcisa [1792], Lorenza [1796], María [1798], Josefa [1804] i Manuela [1807].\n\n\"Conservador de estas Reales Obras\". ¿Entre quines dates?\n\nEs contribuent d'aigua per vint jornals en partida indeterminada. Establiment de 40 jornals de terra erma al pas de la Carrasca a continuació dels que ja té. ¿Data?\n\nCirujà de les Obres des de 1786. Sou 5 R.v. diaris. (ACA_BGRP_Correspondència_caixa 9).\n\nEl 9 de maig de 1854 obrin el testament d'Agustí Fornesa perque diuen que ja està mor i enterrat. El testament el va fer al 1826 en presencia de Juan Gomez i José Francisco Bernis. Notari de l'apertura del testament: Francisco Queralt. Deixa usufructuaria a la dona i hereus als seus fills a parts iguales, només menciona que es rebaixi de la part \"que le cupo\" que li va correspondre al seu fill politic Don Miguel de Soto, del Barco que patronejava Miguel Montoya, per no considerar més acreedor a un fill que al altre.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

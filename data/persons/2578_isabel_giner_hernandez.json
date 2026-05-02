@@ -1,0 +1,77 @@
+{
+  "id": "2578_isabel_giner_hernandez",
+  "source_id": "2578",
+  "row_ref": "2578. Isabel Giner Hernández",
+  "name": "Isabel Giner Hernández",
+  "gender": "female",
+  "birth": {
+    "date": "1789-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2569_salvador_giner_ferran"
+    ],
+    "father": "2569_salvador_giner_ferran",
+    "mother": null,
+    "spouse": [
+      "2185_jose_forcadell_bedos"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Salvador Giner Ferrán",
+      "Rosa Hernández"
+    ],
+    "father_name": "Salvador Giner",
+    "mother_name": "Rosa Hernández",
+    "spouse_names": [
+      "José Forcadell Bedós"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1789].\n\nCasament: el 16 de novembre de 1811 amb José Forcadell Bedós de les Salines dels Alfacs [1789]. Es casa als 22 anys.\n\nFills: Esteban Joaquín [1812], Antonia [1815], Antonio Pío [1824] i Cristoval [1826].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

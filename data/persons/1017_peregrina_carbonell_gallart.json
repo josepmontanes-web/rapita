@@ -1,0 +1,72 @@
+{
+  "id": "1017_peregrina_carbonell_gallart",
+  "source_id": "1017",
+  "row_ref": "1017. Peregrina Carbonell Gallart",
+  "name": "Peregrina Carbonell Gallart",
+  "gender": "female",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "València"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2315_tadea_garcia_carbonell"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Tadea Garcia Carbonell"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a València [aprox. 1800].\n\nCasament: amb Vicente García Valero de Benidorm [1800].\n\nFills: Tadea [1834].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

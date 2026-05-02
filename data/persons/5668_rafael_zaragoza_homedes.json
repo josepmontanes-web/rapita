@@ -1,0 +1,81 @@
+{
+  "id": "5668_rafael_zaragoza_homedes",
+  "source_id": "5668",
+  "row_ref": "5668. Rafael Zaragoza Homedes",
+  "name": "Rafael Zaragoza Homedes",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5648_carlos_zaragoza"
+    ],
+    "father": "5648_carlos_zaragoza",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2793_teresa_homedes_cartes",
+      "5649_joaquin_zaragoza_alado"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Carlos Zaragoza",
+      "Candia Homedes"
+    ],
+    "father_name": "Carlos Zaragoza",
+    "mother_name": "Candia Homedes",
+    "spouse_names": [
+      "Teresa Alado Escoriola"
+    ],
+    "children_names": [
+      "Teresa Homedes Cartes",
+      "Joaquín Zaragoza Alado"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1800].\n\nCasament: amb Teresa Alado Escoriola de Tortosa, filla de Joaquín i María Rosa també de Tortosa.\n\nFills: Joaquín [1837].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

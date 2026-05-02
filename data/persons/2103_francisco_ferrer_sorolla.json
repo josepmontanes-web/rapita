@@ -1,0 +1,87 @@
+{
+  "id": "2103_francisco_ferrer_sorolla",
+  "source_id": "2103",
+  "row_ref": "2103. Francisco Ferrer Sorolla",
+  "name": "Francisco Ferrer Sorolla",
+  "gender": "male",
+  "birth": {
+    "date": "1739-01-01",
+    "place": "Portell de Morella"
+  },
+  "death": {
+    "date": "1818-05-17",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2055_josef_ferrer_marin"
+    ],
+    "father": "2055_josef_ferrer_marin",
+    "mother": null,
+    "spouse": [
+      "3111_salvadora_marti"
+    ],
+    "children": [
+      "2056_teodora_ferrer_marti",
+      "2057_fermin_ferrer_marti",
+      "2058_timoteo_ferrer_marti",
+      "2059_raymunda_ferrer_marti"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Ferrer Marín",
+      "Maria Sorolla"
+    ],
+    "father_name": "Josef Ferrer",
+    "mother_name": "Maria Sorolla",
+    "spouse_names": [
+      "Salvadora Martí"
+    ],
+    "children_names": [
+      "Teodora Ferrer Martí",
+      "Fermín Ferrer Martí",
+      "Timoteo Ferrer Martí",
+      "Raymunda Ferrer Martí"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Portell de Morella [aprox. 1739].\n\nCasament: amb Salvadora Martí de Morella [1762].\n\nFills: Raymunda (Portell de Morella) [1783], Teodora (Portell de Morella) [1789], Fermín (Portell de Morella) [1795] i Timoteo (Portell de Morella) [1800].\n\nDefunció: el 17 de maig de 1818 a la Ràpita. Va morir als 79 anys. Fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

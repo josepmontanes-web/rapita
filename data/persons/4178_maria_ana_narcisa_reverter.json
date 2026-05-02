@@ -1,0 +1,70 @@
+{
+  "id": "4178_maria_ana_narcisa_reverter",
+  "source_id": "4178",
+  "row_ref": "4178. María Ana Narcisa Reverter",
+  "name": "María Ana Narcisa Reverter",
+  "gender": "female",
+  "birth": {
+    "date": "1836-10-26",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Lorenza Reverter"
+    ],
+    "father_name": null,
+    "mother_name": "Lorenza Reverter",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 26 d'octubre de 1836 a la Ràpita.\n\nPadrina: María Rosa Cachot.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

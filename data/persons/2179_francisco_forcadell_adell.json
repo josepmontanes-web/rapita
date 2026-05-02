@@ -1,0 +1,81 @@
+{
+  "id": "2179_francisco_forcadell_adell",
+  "source_id": "2179",
+  "row_ref": "2179. Francisco Forcadell Adell",
+  "name": "Francisco Forcadell Adell",
+  "gender": "male",
+  "birth": {
+    "date": "1762-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1833-09-18",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2177_jose_forcadell"
+    ],
+    "father": "2177_jose_forcadell",
+    "mother": null,
+    "spouse": [
+      "3791_rosa_pardo_pavia"
+    ],
+    "children": [
+      "2185_jose_forcadell_bedos"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Forcadell",
+      "Teresa Adell"
+    ],
+    "father_name": "José Forcadell",
+    "mother_name": "Teresa Adell",
+    "spouse_names": [
+      "Rosa Pardo Pavia"
+    ],
+    "children_names": [
+      "José Forcadell Bedós"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1762].\n\nCasament: el 29 d'agost de 1817 amb Rosa Pardo Pavia de Russafa (València) [1758]. Es casa als 56 anys quan ja era vidu.\n\nDefunció: el 18 de setembre de 1833 a la Ràpita. Va morir als 70 anys. \"Hace testamento ante Don José Sabater regente el 10 de septiembre de 1833. Dotó su alma en 150 reales de vellón\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

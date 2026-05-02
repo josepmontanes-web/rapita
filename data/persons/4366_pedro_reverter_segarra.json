@@ -1,0 +1,73 @@
+{
+  "id": "4366_pedro_reverter_segarra",
+  "source_id": "4366",
+  "row_ref": "4366. Pedro Reverter Segarra",
+  "name": "Pedro Reverter Segarra",
+  "gender": "male",
+  "birth": {
+    "date": "1834-02-21",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4260_jose_reverter_forner"
+    ],
+    "father": "4260_jose_reverter_forner",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Reverter Forner",
+      "Casilda Segarra Puchol"
+    ],
+    "father_name": "José Reverter Forner",
+    "mother_name": "Casilda Segarra Puchol",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Agustín Sans",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 21 de febrer de 1834 a la Ràpita.\n\nPadrins: Agustín Sans i María Biosca.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

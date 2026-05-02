@@ -1,0 +1,68 @@
+{
+  "id": "2735_jose_guardia_puig",
+  "source_id": "2735",
+  "row_ref": "2735. José Guardia Puig",
+  "name": "José Guardia Puig",
+  "gender": "male",
+  "birth": {
+    "date": "1825-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1825].\n\nProfessió: panader.\n\nCasament: amb Rosa Cervera de Vallescá [o Ballestar]. Té 58 anys quan mor el marit.\n\nFills: Rosa [1861].\n\nDefunció: el 15 de desembre de 1878 a la Ràpita, als 53 anys de \"anasarca general\". Declara la mor la seua fillastra Tomasa Casanova Cervera [1845].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "2038_francisca_ferre_fibla",
+  "source_id": "2038",
+  "row_ref": "2038. Francisca Ferré Fibla",
+  "name": "Francisca Ferré Fibla",
+  "gender": "female",
+  "birth": {
+    "date": "1801-12-05",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1803-03-12",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2075_francisco_ferre_sanchez",
+      "2130_josefa_fibla_gargallo"
+    ],
+    "father": "2075_francisco_ferre_sanchez",
+    "mother": "2130_josefa_fibla_gargallo",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Ferré Sánchez",
+      "Josefa Fibla Gargallo"
+    ],
+    "father_name": "Francisco Ferré Sánchez",
+    "mother_name": "Josefa Fibla Gargallo",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Carlos Lostaló",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 5 de desembre de 1801 a la Ràpita.\n\nPadrí: Carlos Lostaló es de Serós.\n\nDefunció: el 12 de març de 1803 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

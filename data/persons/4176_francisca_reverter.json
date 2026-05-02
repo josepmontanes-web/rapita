@@ -1,0 +1,76 @@
+{
+  "id": "4176_francisca_reverter",
+  "source_id": "4176",
+  "row_ref": "4176. Francisca Reverter",
+  "name": "Francisca Reverter",
+  "gender": "female",
+  "birth": {
+    "date": "1770-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": "1836-06-02",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "4009_manuel_pons_reverter",
+      "4010_luis_pons_reverter"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Francisco Pons"
+    ],
+    "children_names": [
+      "Manuel Pons Reverter",
+      "Luís Pons Reverter"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1770]. \n\nCasament: amb Francisco Pons d'Amposta.\n\nFills: Manuel (Amposta) [1800] i Luís (Amposta) [1810].\n\nDefunció: el 2 de juny de 1836 a la Ràpita. Fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

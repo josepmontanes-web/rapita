@@ -1,0 +1,77 @@
+{
+  "id": "487_josefa_antonia_ballester_masip",
+  "source_id": "487",
+  "row_ref": "487. Josefa Antonia Ballester Masip",
+  "name": "Josefa Antonia Ballester Masip",
+  "gender": "female",
+  "birth": {
+    "date": "1805-01-01",
+    "place": "Xert"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1622_ramona_costas_ballester"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Dr.D.José Ballester",
+      "Dª Magdalena Masip"
+    ],
+    "father_name": "Dr.D.José Ballester",
+    "mother_name": "Dª Magdalena Masip",
+    "spouse_names": [
+      "Don Tomás Costes Caballero"
+    ],
+    "children_names": [
+      "Ramona Costas Ballester"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Xert [aprox. 1805].\n\nCasament: el 15 de desembre de 1828 amb Don Tomás Costas Caballero d'Alcanar [1800].\n\nFills: Ramona [1829].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

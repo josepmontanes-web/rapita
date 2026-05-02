@@ -1,0 +1,75 @@
+{
+  "id": "257_francisca_hernandez_o_arlandez_curto",
+  "source_id": "257",
+  "row_ref": "257. Francisca Hernández [o Arlández] Curto",
+  "name": "Francisca Hernández [o Arlández] Curto",
+  "gender": "female",
+  "birth": {
+    "date": "1760-01-01",
+    "place": "Tivenys"
+  },
+  "death": {
+    "date": "1827-03-20",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "144_mariano_ano_badia"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Arlandes",
+      "Tomasa Curto"
+    ],
+    "father_name": "José Arlandes",
+    "mother_name": "Tomasa Curto",
+    "spouse_names": [
+      "Mariano Añó Badia"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  a Tivenys [aprox. 1760]\n\nCasament: amb Mariano Añó Badia d'Amposta [1758].\n\nFills: Juan (Amposta) [aprox 1793] i Jayme [1802].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Fonda Vella núm. 4 (ACA BGRP Cajas 34).\n\nDefunció: el 20 de març de 1827 a la Ràpita. Va morir de \"calenturas\". No fa testament.\n\nApareix una vídua de Mariano Añó, veïna de La Ràpita, com a contribuient d'aigua a les monges per 4 jornals.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

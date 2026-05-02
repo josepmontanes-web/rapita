@@ -1,0 +1,79 @@
+{
+  "id": "3584_don_antonio_muria_borrell",
+  "source_id": "3584",
+  "row_ref": "3584. Don Antonio Muria Borrell",
+  "name": "Don Antonio Muria Borrell",
+  "gender": "male",
+  "birth": {
+    "date": "1798-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "4146_manuela_ramon_guardino"
+    ],
+    "children": [
+      "2534_antonia_gil_santalo"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Muria",
+      "Carmela Borrell"
+    ],
+    "father_name": "Juan Muria",
+    "mother_name": "Carmela Borrell",
+    "spouse_names": [
+      "Manuela Ramon Guardino"
+    ],
+    "children_names": [
+      "Antonia Gil Santaló"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1798]. \n\nCasament: el 20 de juny de 1833 amb Manuela Ramón Guardino. Es casa als 35 anys. Es veí de Vinaròs.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

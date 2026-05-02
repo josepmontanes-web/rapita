@@ -1,0 +1,70 @@
+{
+  "id": "2591_mariano_giro",
+  "source_id": "2591",
+  "row_ref": "2591. Mariano Giró",
+  "name": "Mariano Giró",
+  "gender": "male",
+  "birth": {
+    "date": "1730-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Leonarda Zaragoza"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Doctor en medicina"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1730].\n\nProfessió: \"doctor en medicina\"\n\nCasament: amb Leonarda Zaragosa.\n\nFills: Mariana [1760], Vicenta [1760], Teresa [1760] i Joaquín [1760].\n\nMetge, de  les Reials Obres de Sant Carles amb sou de 5 rals d'ardit diaris.Substitueix a Francisco Capse que havia estat l'anterior metge de les Reials Obres de Sant Carles de 1782 a 1786 amb un sou fix aprovat per Carles III, el gener de 1785 de 3650 rals de billó anuals (Borrás Matamoros, N. 2015)\n\nMetge des de 1787. Sou 15 R.v. diaris. (ACA_BGRP_Correspondència_caixa 9).\n\nAl 1789 demana medicines i diu que molta gent agafa tercianes (ACA BGPR Correspondencia caixa 10).\n\nAl abril de 1789 diuen que falta blat per a fer pa al poble (ACA BGPR correspondecia caixa 11).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

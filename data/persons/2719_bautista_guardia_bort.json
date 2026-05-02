@@ -1,0 +1,84 @@
+{
+  "id": "2719_bautista_guardia_bort",
+  "source_id": "2719",
+  "row_ref": "2719. Bautista Guardia Bort",
+  "name": "Bautista Guardia Bort",
+  "gender": "male",
+  "birth": {
+    "date": "1814-05-29",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2744_bautista_guardia_sanchez",
+      "806_teresa_bort_lleti"
+    ],
+    "father": "2744_bautista_guardia_sanchez",
+    "mother": "806_teresa_bort_lleti",
+    "spouse": [
+      "3173_josefa_matamoros_biosca"
+    ],
+    "children": [
+      "2714_maria_francisca_guardia_bort",
+      "2732_agustina_guardia_matamoros"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Guardia Sánchez",
+      "Teresa Bort Lletí"
+    ],
+    "father_name": "Bautista Guardia Sánchez",
+    "mother_name": "Teresa Bort Lletí",
+    "spouse_names": [
+      "Josefa Matamoros Biosca"
+    ],
+    "children_names": [
+      "María Francisca Guardia Bort",
+      "Agustina Guardia Matamoros"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Guardia",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 29 de maig de 1814 a la Ràpita.\n\nPadrins: Francisco Guardia i Teresa Solà.\n\nCasament: el 9 d'abril de 1842 amb Josefa Matamoros Biosca de la Ràpita [1821].\n\nFills: Agustina [1847].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

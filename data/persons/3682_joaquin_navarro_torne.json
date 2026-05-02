@@ -1,0 +1,73 @@
+{
+  "id": "3682_joaquin_navarro_torne",
+  "source_id": "3682",
+  "row_ref": "3682. Joaquín Navarro Torné",
+  "name": "Joaquín Navarro Torné",
+  "gender": "male",
+  "birth": {
+    "date": "1835-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1836-04-06",
+    "place": "Sant Carlos de la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3595_joaquin_navarro"
+    ],
+    "father": "3595_joaquin_navarro",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Navarro",
+      "Mª. Merced Torné"
+    ],
+    "father_name": "Joaquín Navarro",
+    "mother_name": "Mª. Merced Torné",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1834]. \n\nDefunció: el 6 d'abril de 1836 a la Ràpita. Va morir a l'any i mig.\n\nEs germà de Josefa Navarro Torné [1830].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

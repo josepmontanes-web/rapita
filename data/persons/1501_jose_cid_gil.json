@@ -1,0 +1,68 @@
+{
+  "id": "1501_jose_cid_gil",
+  "source_id": "1501",
+  "row_ref": "1501. José Cid Gil",
+  "name": "José Cid Gil",
+  "gender": "male",
+  "birth": {
+    "date": "1820-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Establecimiento: a D. José Cid y Gil, propietario, de solar de terreno de 40 palmos de ancho por 60 de largo formando una superficie de 2400 palmos cuadrados, situado en las inmediaciones de la población de San Carlos. Linda por levante y mediodía con terrenos baldíos del Real patrimonio, por poniente con la calle proyectada que conduce al barranco “dels penjats” y por cierzo con terreno solicitado por Antonio García Huertas. 6 de febrero de 1858. Notario Jayme Burgue… de Barcelona. Valor 964.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "4489_jose_tomas_romeu_puig",
+  "source_id": "4489",
+  "row_ref": "4489. José Tomás Romeu Puig",
+  "name": "José Tomás Romeu Puig",
+  "gender": "male",
+  "birth": {
+    "date": "1822-12-21",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4485_jose_romeu_pla"
+    ],
+    "father": "4485_jose_romeu_pla",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Romeu Pla",
+      "Rosa Puig Granell"
+    ],
+    "father_name": "José Romeu Pla",
+    "mother_name": "Rosa Puig Granell",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Safon",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 21 de desembre de 1822 a la Ràpita.\n\nPadrins: José Safont i Rosa Pardo.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

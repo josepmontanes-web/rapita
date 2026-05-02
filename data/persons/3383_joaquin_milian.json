@@ -1,0 +1,72 @@
+{
+  "id": "3383_joaquin_milian",
+  "source_id": "3383",
+  "row_ref": "3383. Joaquín Milian",
+  "name": "Joaquín Milian",
+  "gender": "male",
+  "birth": {
+    "date": "1753-01-01",
+    "place": "Almassora"
+  },
+  "death": {
+    "date": "1828-11-04",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "2271_josefa_fuster_cavalle"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Josefa Fuster Cavallé"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Almassora (Castelló) [aprox. 1753]. \n\nCasament: el 24 de novembre de 1795 amb Josefa Fuster Cavallé de Vinaròs [1763]. Testimonis: Joaquín Traillero i Mariano Añó.\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Fonda Vella núm. 2 (ACA BGRP Cajas 34).\n\nDel setembre de 1898 al juny de 1801 paga un lloguer de 4 Rs mensuals per la casa 2 de la Fonda Vella, desprès viu a la casa 1 fins com a mínim al juny de 1823.\n\nDefunció: el 4 de novembre de 1828 a la Ràpita. Va morir als 75 anys de \"accidente aproplético\". A la partida de defunció el cognom es Melian.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "2441_susana_gasparin_moya",
+  "source_id": "2441",
+  "row_ref": "2441. Susana Gasparín Moya",
+  "name": "Susana Gasparín Moya",
+  "gender": "female",
+  "birth": {
+    "date": "1827-08-30",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2437_lorenzo_gasparin_matamoros"
+    ],
+    "father": "2437_lorenzo_gasparin_matamoros",
+    "mother": null,
+    "spouse": [
+      "4781_manuel_sanchez_pascual"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Lorenzo Gasparín Matamoros",
+      "Rosa Moya Villarroya"
+    ],
+    "father_name": "Lorenzo Gasparín Matamoros",
+    "mother_name": "Rosa Moya Villarroya",
+    "spouse_names": [
+      "Manuel Sánchez Pascual"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Moya",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 30 d'agost de 1827 a la Ràpita.\n\nPadrins: Juan Moya i Susana Bosch.\n\nCasament: el 15 de novembre de 1851 amb Manuel Sánchez Pascual de la Ràpita [1827].\n\nFills: Lorenzo [1853] i Manuel [1859].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

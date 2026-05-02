@@ -1,0 +1,87 @@
+{
+  "id": "2944_tomasa_lleti_navarro",
+  "source_id": "2944",
+  "row_ref": "2944. Tomasa Lletí Navarro",
+  "name": "Tomasa Lletí Navarro",
+  "gender": "female",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Freginals"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3266_juan_bautista_matamoros_reverter"
+    ],
+    "children": [
+      "3224_miguel_ramon_matamoros_lleti",
+      "3225_ramona_matamoros_lleti",
+      "3226_josefa_matamoros_lleti",
+      "3227_jose_matamoros_lleti",
+      "3228_manuela_matamoros_lleti"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Chrisostomo Lletí",
+      "Agustina Navarro"
+    ],
+    "father_name": "Chrisostomo Lletí",
+    "mother_name": "Agustina Navarro",
+    "spouse_names": [
+      "Juan Bautista Matamoros Reverter"
+    ],
+    "children_names": [
+      "Miguel Ramón Matamoros Lletí",
+      "Ramona Matamoros Lletí",
+      "Josefa Matamoros Lletí",
+      "José Matamoros Lletí",
+      "Manuela Matamoros Lletí"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Freginals [aprox. 1790].\n\nCasament: amb Juan Bautista Matamoros Reverter d'Alcanar [1773].\n\nFills: Ramona [1819], Josefa [1822], Miguel Ramón [1825], José [1829] i Manuela [1834].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

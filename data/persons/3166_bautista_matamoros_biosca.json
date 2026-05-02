@@ -1,0 +1,74 @@
+{
+  "id": "3166_bautista_matamoros_biosca",
+  "source_id": "3166",
+  "row_ref": "3166. Bautista Matamoros Biosca",
+  "name": "Bautista Matamoros Biosca",
+  "gender": "male",
+  "birth": {
+    "date": "1830-01-20",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1840-06-01",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3250_jose_matamoros_reverter",
+      "706_agustina_biosca_cid"
+    ],
+    "father": "3250_jose_matamoros_reverter",
+    "mother": "706_agustina_biosca_cid",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Matamoros Reverter",
+      "Agustina Biosca Cid"
+    ],
+    "father_name": "José Matamoros Reverter",
+    "mother_name": "Agustina Biosca Cid",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Bautista Matamoros",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 20 de gener de 1830 a la Ràpita.\n\nPadrins: Bautista Matamoros i Teresa Cid.\n\nDefunció: l'1 de juny de 1840 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

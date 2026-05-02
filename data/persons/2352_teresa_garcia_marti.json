@@ -1,0 +1,79 @@
+{
+  "id": "2352_teresa_garcia_marti",
+  "source_id": "2352",
+  "row_ref": "2352. Teresa García Martí",
+  "name": "Teresa García Martí",
+  "gender": "female",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Perelló"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3971_jose_pinol_consalvo"
+    ],
+    "children": [
+      "3972_teresa_miguela_pinol_garcia"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan García",
+      "Teresa Martí"
+    ],
+    "father_name": "Juan García",
+    "mother_name": "Teresa Martí",
+    "spouse_names": [
+      "José Piñol Consalvo"
+    ],
+    "children_names": [
+      "Teresa Miguela Piñol García"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: al Perelló (València) [aprox. 1820].\n\nCasament: amb José Piñol Consalvo del Perelló (València) [1820].\n\nFills: Teresa Miguela [1842].\n\nEs germana d'Esperanza García Martí [1815].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

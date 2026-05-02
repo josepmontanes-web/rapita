@@ -1,0 +1,78 @@
+{
+  "id": "1128_felicia_casajust_reverte",
+  "source_id": "1128",
+  "row_ref": "1128. Felicia Casajust Reverté",
+  "name": "Felicia Casajust Reverté",
+  "gender": "female",
+  "birth": {
+    "date": "1832-02-21",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1115_rafael_casajust_michavila",
+      "4262_maria_reverter_forner"
+    ],
+    "father": "1115_rafael_casajust_michavila",
+    "mother": "4262_maria_reverter_forner",
+    "spouse": [
+      "1194_ramon_castella_buera"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Rafael Casajust Michavila",
+      "María Reverter Forner"
+    ],
+    "father_name": "Rafael Casajust Michavila",
+    "mother_name": "Maria Reverter Forner",
+    "spouse_names": [
+      "Ramon Castellà Buera"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Balaguer",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 21 de febrer de 1832 a la Ràpita.\n\nPadrins: José Balaguer i Francisca Mayor.\n\nCasament: el 28 de juliol de 1853 amb Ramón Castellà Buera de Tortosa [1836]. Testimonis: Agustín Reverté i Agustín Curto.\n\nFills: Francisco [1877].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

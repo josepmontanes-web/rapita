@@ -1,0 +1,73 @@
+{
+  "id": "5478_trinitario_carlos_verge_munoz",
+  "source_id": "5478",
+  "row_ref": "5478. Trinitario Carlos Verge Muñoz",
+  "name": "Trinitario Carlos Verge Muñoz",
+  "gender": "male",
+  "birth": {
+    "date": "1836-11-19",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5470_prudencio_verge_montserrat"
+    ],
+    "father": "5470_prudencio_verge_montserrat",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Prudencio Verge Montserrat",
+      "Juana Bautista Muñoz Tomàs"
+    ],
+    "father_name": "Prudencio Verge Montserrat",
+    "mother_name": "Juana Bautista Muñoz Tomàs",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Tomás Navarro",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 19 de novembre de 1836 a la Ràpita.\n\nPadrins: Tomás Navarro i Teresa Tomás.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

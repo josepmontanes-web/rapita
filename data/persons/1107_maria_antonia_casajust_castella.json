@@ -1,0 +1,74 @@
+{
+  "id": "1107_maria_antonia_casajust_castella",
+  "source_id": "1107",
+  "row_ref": "1107. Maria Antonia Casajust Castellà",
+  "name": "Maria Antonia Casajust Castellà",
+  "gender": "female",
+  "birth": {
+    "date": "1825-01-17",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1825-03-31",
+    "place": null
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1113_jose_casajust_michavila",
+      "1204_manuela_castella_caldero"
+    ],
+    "father": "1113_jose_casajust_michavila",
+    "mother": "1204_manuela_castella_caldero",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Casajust Michavila",
+      "Manuela Castellà Calderó"
+    ],
+    "father_name": "José Casajust Michavila",
+    "mother_name": "Manuela Castellà Calderó",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Roque Velasco",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 17 de gener de 1825 a la Ràpita.\n\nPadrins: Don Roque Velasco i María Reverté.\n\nDefunció: el 31 de març de 1825 a la Ràpita. Va morir de \"sofocación de sangre\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

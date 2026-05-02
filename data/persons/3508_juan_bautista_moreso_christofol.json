@@ -1,0 +1,73 @@
+{
+  "id": "3508_juan_bautista_moreso_christofol",
+  "source_id": "3508",
+  "row_ref": "3508. Juan Bautista Moreso Christofol",
+  "name": "Juan Bautista Moreso Christofol",
+  "gender": "male",
+  "birth": {
+    "date": "1813-05-14",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3516_juan_moreso_reverter"
+    ],
+    "father": "3516_juan_moreso_reverter",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Moreso Reverter",
+      "Theresa Christofol Homedes"
+    ],
+    "father_name": "Juan Moreso Reverter",
+    "mother_name": "Theresa Christofol Homedes",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Safon",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 14 de maig de 1813 a la Ràpita.\n\nPadrins: José Safont i Teresa Fabregat.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

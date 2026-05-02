@@ -1,0 +1,73 @@
+{
+  "id": "3982_jose_pla_beltran",
+  "source_id": "3982",
+  "row_ref": "3982. José Pla Beltran",
+  "name": "José Pla Beltran",
+  "gender": "male",
+  "birth": {
+    "date": "1815-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1823-08-03",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3981_juan_pla_ano"
+    ],
+    "father": "3981_juan_pla_ano",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Pla Añó",
+      "Agustina Beltran"
+    ],
+    "father_name": "Juan Pla",
+    "mother_name": "Agustina Beltran",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1815]. \n\nDefunció: el 3 d'agost de 1823 a la Ràpita. Va morir als 8 anys \"ahogado en el mar\".\n\nEl seu germà Juan Pla Beltran [1813] també va morir ofegat el mateix dia.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

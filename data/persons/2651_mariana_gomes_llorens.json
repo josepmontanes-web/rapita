@@ -1,0 +1,75 @@
+{
+  "id": "2651_mariana_gomes_llorens",
+  "source_id": "2651",
+  "row_ref": "2651. Mariana Gomes Llorens",
+  "name": "Mariana Gomes Llorens",
+  "gender": "female",
+  "birth": {
+    "date": "1791-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "2286_juan_bautista_garano_sapia"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Gomes",
+      "Joaquina Llorens"
+    ],
+    "father_name": "Antonio Gomes",
+    "mother_name": "Joaquina Llorens",
+    "spouse_names": [
+      "Juan Bautista Garano Sapia"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1791].\n\nCasament: el 29 de juliol de 1808 amb Juan Bautista Garano Sapia.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

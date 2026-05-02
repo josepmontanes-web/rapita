@@ -1,0 +1,87 @@
+{
+  "id": "1509_teresa_ciurana_llopis",
+  "source_id": "1509",
+  "row_ref": "1509. Teresa Ciurana Llopis",
+  "name": "Teresa Ciurana Llopis",
+  "gender": "female",
+  "birth": {
+    "date": "1796-01-01",
+    "place": "Benasal"
+  },
+  "death": {
+    "date": "1838-04-07",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3769_jayme_palatsi_julve"
+    ],
+    "children": [
+      "3770_tomasa_palatsi_ciurana",
+      "3771_jose_antonio_palatsi_ciurana",
+      "3772_juan_palatsi_ciurana",
+      "3773_roman_palatsi_ciurana",
+      "3774_vicente_palatsi_ciurana"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Rafael Ciurana",
+      "Antonia Llopis"
+    ],
+    "father_name": "Rafael Ciurana",
+    "mother_name": "Antonia Llopis",
+    "spouse_names": [
+      "Jayme Palatsí Julve"
+    ],
+    "children_names": [
+      "Tomasa Palatsí Ciurana",
+      "José Antonio Palatsí Ciurana",
+      "Juan Palatsí Ciurana",
+      "Román Palatsí Ciurana",
+      "Vicente Palatsí Ciurana"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Benassal [aprox. 1796].\n\nCasament: amb Jayme Palatsí Julve d'Orpesa [1795].\n\nFills: Tomasa (Calig) [1820], Román [1832], José Antonio [1834], Juan [1838] i Vicente [1838].\n\nDefunció: el 7 d'abril de 1838 a la Ràpita. Va morir als 42 anys de part (de dos fills). Va ser enterrada el mateix dia.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

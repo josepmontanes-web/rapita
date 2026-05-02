@@ -1,0 +1,73 @@
+{
+  "id": "3186_josefa_maria_matamoros_castells",
+  "source_id": "3186",
+  "row_ref": "3186. Josefa María Matamoros Castells",
+  "name": "Josefa María Matamoros Castells",
+  "gender": "female",
+  "birth": {
+    "date": "1836-01-13",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3251_pascual_matamoros_reverter"
+    ],
+    "father": "3251_pascual_matamoros_reverter",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pascual Matamoros Reverter",
+      "Josefa Castells Roe"
+    ],
+    "father_name": "Pascual Matamoros Reverter",
+    "mother_name": "Josefa Castells Roe",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Nicolás Facsini",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 13 de gener de 1836 a la Ràpita.\n\nPadrins: Nicolás Facsini i Josefa Matamoros.\n\nCasament: amb Miguel Reverté Jovani de la Ràpita [1838].\n\nFills: Josefa [1877] i Agustín [1880].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

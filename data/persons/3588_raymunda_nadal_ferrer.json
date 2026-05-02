@@ -1,0 +1,73 @@
+{
+  "id": "3588_raymunda_nadal_ferrer",
+  "source_id": "3588",
+  "row_ref": "3588. Raymunda Nadal Ferrer",
+  "name": "Raymunda Nadal Ferrer",
+  "gender": "female",
+  "birth": {
+    "date": "1793-10-31",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1795-10-23",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2047_maria_angela_ferrer_gorgorio"
+    ],
+    "father": null,
+    "mother": "2047_maria_angela_ferrer_gorgorio",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Nadal Bigatana",
+      "Maria Angela Ferrer Gorgorio"
+    ],
+    "father_name": "Josef Nadal Bigatana",
+    "mother_name": "María Angela Ferrer Gorgorio",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Gil Planes",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 31 d'octubre de 1793 a la Ràpita.\n\nPadrí: Gil Planes.\n\nDefunció: el 23 d'octubre de 1795 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "3076_jose_magi_marmana",
+  "source_id": "3076",
+  "row_ref": "3076. José Magí Marmaña",
+  "name": "José Magí Marmaña",
+  "gender": "male",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3078_francisco_magi_matamoros"
+    ],
+    "father": "3078_francisco_magi_matamoros",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Magí Matamoros",
+      "Cinta Marmaña"
+    ],
+    "father_name": "Francisco Magí",
+    "mother_name": "Cinta Marmaña",
+    "spouse_names": [
+      "Tomasa Accenci Lazaro"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1820]. \n\nCasament: el 28 de desembre de 1844 amb Tomasa Accenci Lázaro de Santa Bàrbara [1825].\n\nFills: José [1850].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

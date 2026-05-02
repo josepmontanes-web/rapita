@@ -1,0 +1,91 @@
+{
+  "id": "859_bautista_brunet_monlleo",
+  "source_id": "859",
+  "row_ref": "859. Bautista Brunet Monlleó",
+  "name": "Bautista Brunet Monlleó",
+  "gender": "male",
+  "birth": {
+    "date": "1782-01-01",
+    "place": "Xerta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1004_teresa_carbo_fibla"
+    ],
+    "children": [
+      "845_bartolome_brunet_carbo",
+      "846_juan_bautista_brunet_carbo",
+      "847_jose_antonio_brunet_carbo",
+      "848_bautista_brunet_carbo",
+      "849_miguel_brunet_carbo",
+      "850_antonio_brunet_carbo",
+      "851_maria_dolores_brunet_carbo"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Brunet",
+      "Teresa Monlleó"
+    ],
+    "father_name": "Bautista Brunet",
+    "mother_name": "Teresa Monlleó",
+    "spouse_names": [
+      "Teresa Carbó Fibla"
+    ],
+    "children_names": [
+      "Bartolomé Brunet Carbó",
+      "Juan Bautista Brunet Carbó",
+      "José Antonio Brunet Carbó",
+      "Bautista Brunet Carbó",
+      "Miguel Brunet Carbó",
+      "Antonio Brunet Carbó",
+      "María Dolores Brunet Carbó"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Xerta [aprox. 1782].\n\nProfessió: pagès.\n\nCasament: el 26 d'abril de 1810 amb Teresa Carbó Fibla d'Amposta [1788]. Es casa als 22 anys.\n\nFills: Bautista [1811], María Dolores [1814], Antonio [1815], Miguel [1817], Bartolomé [1821], José Antonio [1825] i Juan Bautista [1827].\n\nVenta de Juan Brunet a D. José Domingo Piñol Latorre de un patio en la Plaza de la Aduana Vieja. 30 palmos de frente y 60 de hondo. Linda por un lado con casa del comprador que antes fue de Cristoval Alegret, con Roman Cantanera por detrás con José (Soma? Loma?) y por delante con calle que baja al mar. Precio 36 duros. 7 de junio de 1846.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

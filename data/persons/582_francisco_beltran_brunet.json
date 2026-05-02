@@ -1,0 +1,78 @@
+{
+  "id": "582_francisco_beltran_brunet",
+  "source_id": "582",
+  "row_ref": "582. Francisco Beltran Brunet",
+  "name": "Francisco Beltran Brunet",
+  "gender": "male",
+  "birth": {
+    "date": "1804-10-17",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "631_domingo_beltran_querol",
+      "860_rosa_brunet_monllao"
+    ],
+    "father": "631_domingo_beltran_querol",
+    "mother": "860_rosa_brunet_monllao",
+    "spouse": [
+      "3379_maria_miguel_grau"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Domingo Beltrán Querol",
+      "Rosa Brunet Monllaó"
+    ],
+    "father_name": "Domingo Beltran Querol",
+    "mother_name": "Rosa Brunet Monllaó",
+    "spouse_names": [
+      "Maria Miguel Grau"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Diego Ruiz",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 17 d'octubre de 1804 a la Ràpita.\n\nPadrins: Diego Ruíz de Carrascosa de Huete (Cuenca) i María Ildefonso d'Alcañíz.\n\nCasament: el 8 d'abril de 1843 amb María Miguel Grau d'Alcanar [1820].\n\nFills: Miguel [1844], Miguela [1845], Teresa i Francisco.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "4818_teresa_maria_sanchez_ventura",
+  "source_id": "4818",
+  "row_ref": "4818. Teresa María Sánchez Ventura",
+  "name": "Teresa María Sánchez Ventura",
+  "gender": "female",
+  "birth": {
+    "date": "1825-05-27",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "197_peregrin_arbo_sanchez"
+    ],
+    "father": "197_peregrin_arbo_sanchez",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Peregrin Arbó Sánchez",
+      "Francisca Ventura"
+    ],
+    "father_name": "Peregrín Sánchez Yserte",
+    "mother_name": "Francisca Ventura",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Moya",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 27 de maig de 1825 a la Ràpita.\n\nPadrins: Francisco Moya i Teresa Sancho.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "1068_manuel_cartes_garcia",
+  "source_id": "1068",
+  "row_ref": "1068. Manuel Cartes García",
+  "name": "Manuel Cartes García",
+  "gender": "male",
+  "birth": {
+    "date": "1844-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1844].\n\nProfessió: mariner.\n\nCasament: amb Bienvenida Subirats.\n\nCasament: el 22 de febrer de 1882 amb Francisca Fusté Comí de Tortosa [1851]. Es casa als 37 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

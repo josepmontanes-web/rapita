@@ -1,12 +1,12 @@
 {
   "id": "36_manuel_adlert_baneras",
   "source_id": "36",
-  "row_ref": "36",
+  "row_ref": "36. Manuel Adlert Bañeras",
   "name": "Manuel Adlert Bañeras",
   "gender": "male",
   "birth": {
     "date": "1851-01-01",
-    "place": "Santiago de Compostela [aprox"
+    "place": "Santiago de Compostela"
   },
   "death": {
     "date": null,
@@ -22,13 +22,41 @@
   },
   "family": {
     "parents": [],
+    "father": null,
+    "mother": null,
     "spouse": [],
-    "children": []
+    "children": [
+      "37_celestino_faustino_adlert_baron"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
   },
   "relations_detail": {
     "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
     "spouse_names": [],
-    "children_names": []
+    "children_names": [
+      "Celestino Faustino Adlert Baron"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
   },
   "occupation": {
     "title": null

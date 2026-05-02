@@ -1,0 +1,77 @@
+{
+  "id": "1601_manuela_compte_arin",
+  "source_id": "1601",
+  "row_ref": "1601. Manuela Compte Arín",
+  "name": "Manuela Compte Arín",
+  "gender": "female",
+  "birth": {
+    "date": "1797-01-01",
+    "place": "Benicarló"
+  },
+  "death": {
+    "date": "1845-03-19",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3702_francisco_niubo_compte"
+    ],
+    "father": "3702_francisco_niubo_compte",
+    "mother": null,
+    "spouse": [
+      "3092_agustin_mana_vea"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Niubó Compte",
+      "Antonia Arín"
+    ],
+    "father_name": "Francisco Compte",
+    "mother_name": "Antonia Arín",
+    "spouse_names": [
+      "Agustín Mañá Vea"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Benicarló [aprox. 1797].\n\nCasament: amb Agustín Mañá Vea de Tortosa [1795].\n\nDefunció: el 19 de març de 1845 a la Ràpita. Va morir als 49 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,12 +1,12 @@
 {
   "id": "15_mariana_o_maria_anna_accensi_o_asensi_navarro",
   "source_id": "15",
-  "row_ref": "15",
+  "row_ref": "15. Mariana [o Maria Anna] Accensi [o Asensi] Navarro",
   "name": "Mariana [o Maria Anna] Accensi [o Asensi] Navarro",
   "gender": "female",
   "birth": {
-    "date": "1815-10-04",
-    "place": null
+    "date": "1815-04-10",
+    "place": "la Ràpita"
   },
   "death": {
     "date": null,
@@ -21,17 +21,44 @@
     "lng": null
   },
   "family": {
-    "parents": [],
+    "parents": [
+      "17_jose_antonio_accensi_o_ascensi_sancho",
+      "3660_francisca_navarro_paulo"
+    ],
+    "father": "17_jose_antonio_accensi_o_ascensi_sancho",
+    "mother": "3660_francisca_navarro_paulo",
     "spouse": [],
-    "children": []
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": "2_jose_antonio_accensi",
+      "paternal_grandmother": null,
+      "maternal_grandfather": "3592_francisco_navarro",
+      "maternal_grandmother": "3850_manuela_paulo"
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": "1861_mariana_esteller_navarro"
+    }
   },
   "relations_detail": {
     "parents_names": [
-      "José Antonio Ascensi Sancho",
+      "José Antonio Accensi [o Ascensi] Sancho",
       "Francisca Navarro Paulo"
     ],
+    "father_name": "José Antonio Ascensi Sancho",
+    "mother_name": "Francisca Navarro Paulo",
     "spouse_names": [],
-    "children_names": []
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "José Antonio Accensi",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "Francisco Navarro",
+      "maternal_grandmother": "Manuela Paulo"
+    },
+    "godparents_names": {
+      "godfather": "Pedro Queral",
+      "godmother": "Mariana Esteller Navarro"
+    }
   },
   "occupation": {
     "title": null

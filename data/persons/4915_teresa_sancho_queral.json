@@ -1,0 +1,73 @@
+{
+  "id": "4915_teresa_sancho_queral",
+  "source_id": "4915",
+  "row_ref": "4915. Teresa Sancho Queral",
+  "name": "Teresa Sancho Queral",
+  "gender": "female",
+  "birth": {
+    "date": "1830-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1848-01-12",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4834_jose_sancho"
+    ],
+    "father": "4834_jose_sancho",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Sancho",
+      "Josefa Queral"
+    ],
+    "father_name": "José Sancho",
+    "mother_name": "Josefa Queral",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1830]. \n\nDefunció: el 12 de gener de 1848 a la Ràpita. Va morir als 18 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

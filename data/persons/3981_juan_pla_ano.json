@@ -1,0 +1,77 @@
+{
+  "id": "3981_juan_pla_ano",
+  "source_id": "3981",
+  "row_ref": "3981. Juan Pla Añó",
+  "name": "Juan Pla Añó",
+  "gender": "male",
+  "birth": {
+    "date": "1791-01-16",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "3982_jose_pla_beltran",
+      "3983_juan_pla_beltran"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Pla",
+      "Michaela Añó"
+    ],
+    "father_name": "Pedro Pla",
+    "mother_name": "Michaela Añó",
+    "spouse_names": [],
+    "children_names": [
+      "José Pla Beltran",
+      "Juan Pla Beltran"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Mangrané",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 16 de gener de 1791 a la Ràpita.\n\nPadrins: Juan Mangrané i María Masdeu.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

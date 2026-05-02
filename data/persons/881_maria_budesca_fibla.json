@@ -1,0 +1,90 @@
+{
+  "id": "881_maria_budesca_fibla",
+  "source_id": "881",
+  "row_ref": "881. María Budesca Fibla",
+  "name": "María Budesca Fibla",
+  "gender": "female",
+  "birth": {
+    "date": "1761-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "878_pablo_budesca"
+    ],
+    "father": "878_pablo_budesca",
+    "mother": null,
+    "spouse": [
+      "2175_francisco_forcadell"
+    ],
+    "children": [
+      "2562_nicolas_giner_budesca",
+      "2563_jose_antonio_giner_budesca",
+      "2564_maria_barbara_giner_budesca",
+      "2565_antonia_francisca_giner_budesca",
+      "2566_manuela_giner_budesca"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pablo Budesca",
+      "Bárbara Fibla"
+    ],
+    "father_name": "Pablo Budesca",
+    "mother_name": "Bárbara Fibla",
+    "spouse_names": [
+      "Josef Antonio Giner Ferrán",
+      "Francisco Forcadell"
+    ],
+    "children_names": [
+      "Nicolás Giner Budesca",
+      "José Antonio Giner Budesca",
+      "Maria Bárbara Giner Budesca",
+      "Antonia Francisca Giner Budesca",
+      "Manuela Giner Budesca"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1761].\n\nCasament: amb José Antonio Giner Ferran de Tortosa [1760].\n\nFills: José Antonio (Alcanar) [1790], Nicolás [1791], Antonia Francisca [1794], María Bárbara [1798] i Manuela [1802].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Mansana Vella (carrer del Forn) núm. 23 (ACA BGRP Cajas 34).\n\nCasament: el 3 de juliol de 1810 amb Francisco Forcadell d'Ulldecona i veí del terme de Tortosa [1741]. Ella té 49 anys quan es casa.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

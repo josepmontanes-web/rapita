@@ -1,0 +1,71 @@
+{
+  "id": "5008_manuel_sans_queral",
+  "source_id": "5008",
+  "row_ref": "5008. Manuel Sans Queral",
+  "name": "Manuel Sans Queral",
+  "gender": "male",
+  "birth": {
+    "date": "1846-05-01",
+    "place": null
+  },
+  "death": {
+    "date": "1847-08-15",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Sans",
+      "Pilar Queral"
+    ],
+    "father_name": "Miguel Sans",
+    "mother_name": "Pilar Queral",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1846]. \n\nDefunció: el 15 d'agost de 1847 a la Ràpita. Va morir als 17 mesos.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

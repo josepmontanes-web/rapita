@@ -1,0 +1,74 @@
+{
+  "id": "4003_isidro_pons_lopez",
+  "source_id": "4003",
+  "row_ref": "4003. Isidro Pons López",
+  "name": "Isidro Pons López",
+  "gender": "male",
+  "birth": {
+    "date": "1832-05-14",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1834-12-30",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4009_manuel_pons_reverter",
+      "3037_rafaela_lopez_segarra"
+    ],
+    "father": "4009_manuel_pons_reverter",
+    "mother": "3037_rafaela_lopez_segarra",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel Pons Reverter",
+      "Rafaela López Segarra"
+    ],
+    "father_name": "Manuel Pons Reverter",
+    "mother_name": "Rafaela López Segarra",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Prudencio Verge",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 14 de maig de 1832 a la Ràpita.\n\nPadrins: Prudencio Verge i Juana Bautista Muñoz.\n\nDefunció: el 30 de desembre de 1834 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

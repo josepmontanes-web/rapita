@@ -1,0 +1,76 @@
+{
+  "id": "4282_agustin_reverter_izquierdo",
+  "source_id": "4282",
+  "row_ref": "4282. Agustín Reverter Izquierdo",
+  "name": "Agustín Reverter Izquierdo",
+  "gender": "male",
+  "birth": {
+    "date": "1823-10-18",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4259_francisco_reverter_forner",
+      "2834_josefa_izquierdo_caldero"
+    ],
+    "father": "4259_francisco_reverter_forner",
+    "mother": "2834_josefa_izquierdo_caldero",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Reverter Forner",
+      "Josefa Izquierdo Calderó"
+    ],
+    "father_name": "Francisco Reverter Forner",
+    "mother_name": "Josefa Izquierdo Calderó",
+    "spouse_names": [
+      "Agustina Ferré Fabregat"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Agustín Reverter",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 18 d'octubre de 1823 a la Ràpita.\n\nPadrins: Agustín Reverter i María Sancho.\n\nCasament: el 28 de novembre de 1849 amb Agustina Ferré Fabregat de la Ràpita [1825].\n\nFills: María [1850], Juan [1855], Teresa [1861], Agustín [1862] i María de la Cinta [1866].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

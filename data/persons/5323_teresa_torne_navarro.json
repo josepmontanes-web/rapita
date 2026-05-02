@@ -1,0 +1,73 @@
+{
+  "id": "5323_teresa_torne_navarro",
+  "source_id": "5323",
+  "row_ref": "5323. Teresa Torné Navarro",
+  "name": "Teresa Torné Navarro",
+  "gender": "female",
+  "birth": {
+    "date": "1833-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Forné",
+      "Cinta Navarro"
+    ],
+    "father_name": "Francisco Forné",
+    "mother_name": "Cinta Navarro",
+    "spouse_names": [
+      "Juan Fco. Simó Obiol"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1833].\n\nCasament: el 9 de setembre de 1848 amb Juan Francisco Simó Obiol de Peníscola [1825]. Es casa als 15 anys.\n\nFills: Cinta [1850], Francisco [1850] i Juan [1855].\n\nEs germana de Francisco [1840].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

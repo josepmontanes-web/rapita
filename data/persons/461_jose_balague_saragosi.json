@@ -1,0 +1,78 @@
+{
+  "id": "461_jose_balague_saragosi",
+  "source_id": "461",
+  "row_ref": "461. José Balagué Saragosí",
+  "name": "José Balagué Saragosí",
+  "gender": "male",
+  "birth": {
+    "date": "1720-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "434_juan_jayme_balague_grego",
+      "436_rosa_balague_homedes_o_omedes",
+      "439_candia_balague_homedes_o_omedes",
+      "440_maria_o_mariana_balague_homedes_o_omedes"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Juan Jayme Balagué Grego",
+      "Rosa Balagué Homedes [o Omedes]",
+      "Candia Balagué Homedes [o Omedes]",
+      "María [o Mariana] Balagué Homedes [o Omedes]"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1720].\n\nProfessió: pescador.\n\nCasament: amb Teresa Grego Christofol de Tortosa [1725].\n\nFills: José, Paulino, Juan Jayme [1763], Teresa, Josefa i María.\n\nDefunció: el 25 d'agost de 1799 a Tortosa.\n\nFa testament l'1 de juliol de 1795, diu que es de \"edad avanzada\". Fill hereu: José Balagué Grego (albacea). José Bestida diu que es toneler i que també es albacea.\nDemana ser enterrat a Tortosa, juntament amb els seus cofrares de Nuestra Sra. del Rosario en la Iglesia del Convento de P.P. Predicadores. Dona 28 lliures de plata valencianes.\nAltres fills: Paulino, Juan Jayme, Teresa consorte de Bautista Ripoll, pescador, Josefa consorte de Andrés Arandí, sastre, i a María consorte de José Domingo, toneler, els hi dona 20 lliures de plata valencianes pagaderes en el termini de dos anys des de la mort. L'us de fruit es per a la dona Teresa Grego.\n\nNomena per legitim i universal hereu al seu fill José, però en el cas de que no tingui fills només podrà disposar de 20 lliures de plata i la resta serà per als altres fills per parts iguales. Si té fills i mor, ho heretaran aquests fills.\n\nFa el testament a casa seua a Tortosa a la Plaça del Portal d'en Romeu. Testimonis: Mn. Gabriel Cartes Pbro. i Juan Besalduch, paleta.\n\nEl seu fill José casat amb Rosa Navarro, fa un altre testament el 4 de setembre de 1797.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

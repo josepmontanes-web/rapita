@@ -1,0 +1,68 @@
+{
+  "id": "3926_francisca_peris_nicolau",
+  "source_id": "3926",
+  "row_ref": "3926. Francisca Peris Nicolau",
+  "name": "Francisca Peris Nicolau",
+  "gender": "female",
+  "birth": {
+    "date": "1840-01-01",
+    "place": "València"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a València [aprox. 1840].\n\nCasament: amb Jacinto Balagué Domenech de Tortosa [1832].\n\nFills: Jacinto [1876], Juan Bautista [1878] i Carlota [1880].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

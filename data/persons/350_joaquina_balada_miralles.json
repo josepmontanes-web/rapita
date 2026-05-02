@@ -1,0 +1,101 @@
+{
+  "id": "350_joaquina_balada_miralles",
+  "source_id": "350",
+  "row_ref": "350. Joaquina Balada Miralles",
+  "name": "Joaquina Balada Miralles",
+  "gender": "female",
+  "birth": {
+    "date": "1780-01-01",
+    "place": "Ulldecona"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "340_jose_balada_balada"
+    ],
+    "father": "340_jose_balada_balada",
+    "mother": null,
+    "spouse": [
+      "345_miguel_balada_lluch",
+      "3419_mariano_miralles_forcadell"
+    ],
+    "children": [
+      "322_juan_balada_balada",
+      "323_miguel_balada_balada",
+      "324_rafael_balada_balada",
+      "325_raymunda_balada_balada",
+      "326_antonia_balada_balada",
+      "327_maria_balada_balada",
+      "328_alexandro_rafael_balada_balada",
+      "329_francisca_maria_balada_balada",
+      "330_francisca_balada_balada",
+      "331_juan_bautista_balada_balada"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Balada Balada",
+      "Maria Miralles"
+    ],
+    "father_name": "José Balada",
+    "mother_name": "Maria Miralles",
+    "spouse_names": [
+      "Miguel Balada Lluch",
+      "Mariano Miralles Forcadell"
+    ],
+    "children_names": [
+      "Juan Balada Balada",
+      "Miguel Balada Balada",
+      "Rafael Balada Balada",
+      "Raymunda Balada Balada",
+      "Antonia Balada Balada",
+      "Maria Balada Balada",
+      "Alexandro Rafael Balada Balada",
+      "Francisca María Balada Balada",
+      "Francisca Balada Balada",
+      "Juan Bautista Balada Balada"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Ulldecona [aprox. 1780].\n\nCasament: amb Miguel Balada Lluch de Benicarló [1777]. A l'estat de veïns de setembre de 1798 diu que viuen a una casa al costat de l'esglesia juntament amb Juan Reverter [1738] i María Balada [1740] (ACA BGRP Cajas 34).\n\nFills: Juan (Ulldecona) [aprox 1796], María [1797], Francisca María [1799], Miguel [1800], Alexandro Rafael [1803], Raymunda [1805], Francisca [1807], Rafael [1810], Juan Bautista [1817] i Antonia [1821].\n\nCasament: l'1 de juny de 1826 amb Mariano Miralles Forcadell de Freginals [1775].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

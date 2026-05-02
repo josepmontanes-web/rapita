@@ -1,0 +1,79 @@
+{
+  "id": "542_mariana_bedos_rallo",
+  "source_id": "542",
+  "row_ref": "542. Mariana Bedós Rallo",
+  "name": "Mariana Bedós Rallo",
+  "gender": "female",
+  "birth": {
+    "date": "1805-01-01",
+    "place": "Xerta"
+  },
+  "death": {
+    "date": "1841-10-05",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3935_victorio_pino_aliau"
+    ],
+    "children": [
+      "3936_jose_fernando_pino_bedos"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Bedós",
+      "Mariana Rallo"
+    ],
+    "father_name": "Pedro Bedós",
+    "mother_name": "Mariana Rallo",
+    "spouse_names": [
+      "Victorio Pino Aliau"
+    ],
+    "children_names": [
+      "José Fernando Pino Bedós"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  a Xerta [aprox. 1805].\n\nEl seu nom també podria ser María Ana i el seu segón cognom també podria ser Rullo.\n\nCasament: el 8 d'abril de 1826 amb Victorio Pino Aliau de Tortosa [1805].\n\nFills: José Fernando [1827], Teresa [1829], Francisco [1831], María Madrona [1833], Leandro [1833], Francisco Julián [1835], Juan Bautista [1837] i un altre que va morir a les 5 hores l'1 de novembre de 1839 \"Presignado por Eulalia Planes\".\n\nDefunció: el 5 d'octubre de 1841 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

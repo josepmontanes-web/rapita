@@ -1,0 +1,78 @@
+{
+  "id": "3627_calamanda_navarro_comi",
+  "source_id": "3627",
+  "row_ref": "3627. Calamanda Navarro Comí",
+  "name": "Calamanda Navarro Comí",
+  "gender": "female",
+  "birth": {
+    "date": "1821-08-18",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3641_juan_navarro_hernandez",
+      "1568_rosa_comi_caldero"
+    ],
+    "father": "3641_juan_navarro_hernandez",
+    "mother": "1568_rosa_comi_caldero",
+    "spouse": [
+      "3116_vicente_marti_cabrera"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Navarro Hernández",
+      "Rosa Comí Calderó"
+    ],
+    "father_name": "Juan Navarro Hernández",
+    "mother_name": "Rosa Comí Calderó",
+    "spouse_names": [
+      "Vicente Martí Cabrera"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Josef Antonio Cid",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 18 d'agost de 1821 a la Ràpita.\n\nPadrins: José Antonio Cid i Doña Calamanda Portocarrero.\n\nCasament: el 3 de desembre de 1842 amb Vicente Martí Cabrera de Calp (Alacant) [1820].\n\nFills: Cinta [1858]. Fill adoptiu: Ernesto (mor al 1877 als 3 anys).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

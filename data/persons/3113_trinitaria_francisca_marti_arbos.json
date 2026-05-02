@@ -1,0 +1,73 @@
+{
+  "id": "3113_trinitaria_francisca_marti_arbos",
+  "source_id": "3113",
+  "row_ref": "3113. Trinitaria Francisca Martí Arbós",
+  "name": "Trinitaria Francisca Martí Arbós",
+  "gender": "female",
+  "birth": {
+    "date": "1837-05-20",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3115_francisco_marti_cabrera"
+    ],
+    "father": "3115_francisco_marti_cabrera",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Martí Cabrera",
+      "Maria Arbós Aragonés"
+    ],
+    "father_name": "Francisco Martí Pallarés",
+    "mother_name": "Maria Arbós Aragonés",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Jayme Balaguer",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 20 de maig de 1837 a la Ràpita.\n\nMare: María Arbos Aragonés es de Prat i es filla de Pedro i Máxima també de Prat. Es germana de Juan Arbós Aragonés.\n\nPadrins: Juan Jayme Balaguer i Francisca Adell.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

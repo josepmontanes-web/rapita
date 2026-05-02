@@ -1,0 +1,77 @@
+{
+  "id": "2364_josefa_garcia_salvado",
+  "source_id": "2364",
+  "row_ref": "2364. Josefa García Salvadó",
+  "name": "Josefa García Salvadó",
+  "gender": "female",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2350_antonio_garcia_llobell"
+    ],
+    "father": "2350_antonio_garcia_llobell",
+    "mother": null,
+    "spouse": [
+      "3246_jacinto_matamoros_queralt"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio García Llobell",
+      "Marta Salvadó"
+    ],
+    "father_name": "Antonio García",
+    "mother_name": "Marta Salvadó",
+    "spouse_names": [
+      "Jacinto Matamoros Queralt"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1820].\n\nCasament: l'11 de gener de 1843 amb Jacinto Matamoros Queralt [1820].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

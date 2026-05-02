@@ -1,0 +1,74 @@
+{
+  "id": "2454_francisco_gasparin_sancho",
+  "source_id": "2454",
+  "row_ref": "2454. Francisco Gasparín Sancho",
+  "name": "Francisco Gasparín Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1828-12-07",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2438_manuel_gasparin_matamoros",
+      "4918_maria_sancho_querol"
+    ],
+    "father": "2438_manuel_gasparin_matamoros",
+    "mother": "4918_maria_sancho_querol",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel Gasparín Matamoros",
+      "María Sancho Querol"
+    ],
+    "father_name": "Manuel Gasparín Matamoros",
+    "mother_name": "Maria Sancho Querol",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Gasparin",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 7 de desembre de 1828 a la Ràpita.\n\nPadrins: Francisco Gasparín i Francisca Escardó.\n\nProfessió: pagès.\n\nCasament: amb Antonia López Rullo de la Ràpita [1835].\n\nFills: Juan [1876] i María [1879].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

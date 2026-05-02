@@ -1,0 +1,81 @@
+{
+  "id": "4668_juan_salvador_christofol",
+  "source_id": "4668",
+  "row_ref": "4668. Juan Salvador Christofol",
+  "name": "Juan Salvador Christofol",
+  "gender": "male",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3321_maria_mayals_navarro"
+    ],
+    "children": [
+      "4672_matheo_salvador_mayals",
+      "4673_concepcion_salvador_mayals"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Matheo Salvador",
+      "Paula Christofol"
+    ],
+    "father_name": "Matheo Salvador",
+    "mother_name": "Paula Christofol",
+    "spouse_names": [
+      "María Mayals Navarro"
+    ],
+    "children_names": [
+      "Matheo Salvador Mayals",
+      "Concepción Salvador Mayals"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1790]. \n\nProfessió: pescador.\n\nCasament: amb María Mayals Navarro de Tortosa [1790].\n\nFills: Mateo [1811] i Concepción [1814].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

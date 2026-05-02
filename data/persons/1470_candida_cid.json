@@ -1,0 +1,70 @@
+{
+  "id": "1470_candida_cid",
+  "source_id": "1470",
+  "row_ref": "1470. Candida Cid",
+  "name": "Candida Cid",
+  "gender": "female",
+  "birth": {
+    "date": "1754-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1821-11-04",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Mateo Castellà"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1754].\n\nCasament: amb Mateo Castellà Zaragoza de Tortosa [1750].\n\nFills: Mariano (Tortosa) [1790] i Joaquín [1790].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu al barri dels pescadors  (ACA BGRP Cajas 34).\n\nDefunció: el 4 de novembre de 1821 a la Ràpita. Va morir als 67 anys quan ja era vidua.\n\nPodria ser també la mare d'Agueda Alegret Cid [1774], però no es segú.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

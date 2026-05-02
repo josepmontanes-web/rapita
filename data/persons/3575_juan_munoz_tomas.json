@@ -1,0 +1,83 @@
+{
+  "id": "3575_juan_munoz_tomas",
+  "source_id": "3575",
+  "row_ref": "3575. Juan Muñoz Tomas",
+  "name": "Juan Muñoz Tomas",
+  "gender": "male",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Vinaroz"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3575_juan_munoz_tomas"
+    ],
+    "father": "3575_juan_munoz_tomas",
+    "mother": null,
+    "spouse": [
+      "1385_agustina_cera_cartes"
+    ],
+    "children": [
+      "3575_juan_munoz_tomas",
+      "5295_asuncion_tomas_rams"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Muñoz Tomas",
+      "Teresa Tomas"
+    ],
+    "father_name": "Juan Muñoz",
+    "mother_name": "Teresa Tomas",
+    "spouse_names": [
+      "Agustina Cera Cartes"
+    ],
+    "children_names": [
+      "Juan Muñoz Tomas",
+      "Asunción Tomàs Rams"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1820]. \n\nCasament: el 29 d'agost de 1843 amb Agustina Cera Cartes de Tortosa [1820].\n\nFills: Rafael [1856].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

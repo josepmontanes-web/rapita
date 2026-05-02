@@ -1,0 +1,74 @@
+{
+  "id": "1939_leandra_fabregat_sancho",
+  "source_id": "1939",
+  "row_ref": "1939. Leandra Fabregat Sancho",
+  "name": "Leandra Fabregat Sancho",
+  "gender": "female",
+  "birth": {
+    "date": "1834-03-13",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1834-11-20",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1934_vicente_fabregat_sancho",
+      "4908_francisca_sancho_pla"
+    ],
+    "father": "1934_vicente_fabregat_sancho",
+    "mother": "4908_francisca_sancho_pla",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Fabregat Sancho",
+      "Francisca Sancho Pla"
+    ],
+    "father_name": "Vicente Fabregat Sancho",
+    "mother_name": "Francisca Sancho Plà",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Vicente Cartes",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 13 de març de 1834 a la Ràpita.\n\nPadrins: Vicente Cartes i María Safont.\n\nDefunció: el 20 de novembre de 1834 a la Ràpita. A la partida de defunció es diu Alexandra.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

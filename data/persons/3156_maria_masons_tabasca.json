@@ -1,0 +1,84 @@
+{
+  "id": "3156_maria_masons_tabasca",
+  "source_id": "3156",
+  "row_ref": "3156. María Masons Tabascà",
+  "name": "María Masons Tabascà",
+  "gender": "female",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Martorell"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "5521_juan_vidal_masons",
+      "5522_candido_jacinto_vidal_masons",
+      "5523_tomas_silvestre_vidal_masons",
+      "5524_francisco_vidal_masons",
+      "5525_teresa_vidal_masons",
+      "5526_jose_vidal_masons",
+      "5527_maria_susana_vidal_masons"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Juan Vidal Masons",
+      "Candido Jacinto Vidal Masons",
+      "Tomás Silvestre Vidal Masons",
+      "Francisco Vidal Masons",
+      "Teresa Vidal Masons",
+      "José Vidal Masons",
+      "Maria Susana Vidal Masons"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Martorell [aprox. 1790].\n\nCasament: amb José Antonio Vidal Sastre d'Amposta [1789].\n\nFills: Francisco [1822], Teresa [1825], José [1826], María Susana [1829], Juan [1831], Candido Jacinto [1833] i Tomás Silvestre [1836].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

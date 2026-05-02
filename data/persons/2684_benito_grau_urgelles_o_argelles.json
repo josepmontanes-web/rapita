@@ -1,0 +1,73 @@
+{
+  "id": "2684_benito_grau_urgelles_o_argelles",
+  "source_id": "2684",
+  "row_ref": "2684. Benito Grau Urgellés [o Argellés]",
+  "name": "Benito Grau Urgellés [o Argellés]",
+  "gender": "male",
+  "birth": {
+    "date": "1829-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1834-03-04",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2679_tomas_grau_fibla"
+    ],
+    "father": "2679_tomas_grau_fibla",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomás Grau Fibla",
+      "Tomasa Argellés"
+    ],
+    "father_name": "Tomás Grau Fibla",
+    "mother_name": "Tomasa Argellés",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1829].\n\nDefunció: el 4 de març de 1834 a la Ràpita. Va morir als 5 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

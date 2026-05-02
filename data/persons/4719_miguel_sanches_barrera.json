@@ -1,0 +1,73 @@
+{
+  "id": "4719_miguel_sanches_barrera",
+  "source_id": "4719",
+  "row_ref": "4719. Miguel Sanches Barrera",
+  "name": "Miguel Sanches Barrera",
+  "gender": "male",
+  "birth": {
+    "date": "1847-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1848-05-16",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4778_jose_sanchez_pasqual"
+    ],
+    "father": "4778_jose_sanchez_pasqual",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Sánchez Pasqual",
+      "Rosa Barrera"
+    ],
+    "father_name": "José Sánchez Sanjuan",
+    "mother_name": "Rosa Barrera",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1847]. \n\nDefunció: el 16 de maig de 1848 a la Ràpita. Va morir als 16 mesos.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

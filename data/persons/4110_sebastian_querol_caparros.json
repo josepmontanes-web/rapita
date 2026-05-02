@@ -1,0 +1,71 @@
+{
+  "id": "4110_sebastian_querol_caparros",
+  "source_id": "4110",
+  "row_ref": "4110. Sebastián Querol Caparrós",
+  "name": "Sebastián Querol Caparrós",
+  "gender": "male",
+  "birth": {
+    "date": "1810-06-18",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Peregrín Querol Blasco",
+      "Maria del Carmen Caparrós Casals"
+    ],
+    "father_name": "Peregrín Querol Blasco",
+    "mother_name": "Maria del Carmen Caparrós Casals",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Sebastián Caparrón",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 18 de juny de 1810 a la Ràpita.\n\nPadrins: Don Sebastián Caparrós i Mariana Caparrós (iaio i tia).\n\n\"son transeuntes por esta población\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

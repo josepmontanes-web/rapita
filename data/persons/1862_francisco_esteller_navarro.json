@@ -1,0 +1,74 @@
+{
+  "id": "1862_francisco_esteller_navarro",
+  "source_id": "1862",
+  "row_ref": "1862. Francisco Esteller Navarro",
+  "name": "Francisco Esteller Navarro",
+  "gender": "male",
+  "birth": {
+    "date": "1800-03-02",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1852_juan_bautista_esteller_matamoros",
+      "3664_josefa_navarro_paulo"
+    ],
+    "father": "1852_juan_bautista_esteller_matamoros",
+    "mother": "3664_josefa_navarro_paulo",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Bautista Esteller Matamoros",
+      "Josefa Navarro Paulo"
+    ],
+    "father_name": "Juan Bautista Esteller Matamoros",
+    "mother_name": "Josefa Navarro Paulo",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Navarro Boils",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 2 de març de 1800 a la Ràpita.\n\nPadrins: Francisco Navarro Boils i Manuela Paulo, son los iaios.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

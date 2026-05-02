@@ -1,0 +1,71 @@
+{
+  "id": "901_joaquina_cabrera_forcadell",
+  "source_id": "901",
+  "row_ref": "901. Joaquina Cabrera Forcadell",
+  "name": "Joaquina Cabrera Forcadell",
+  "gender": "female",
+  "birth": {
+    "date": "1826-09-05",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Cabrera Pastor",
+      "Tecla Forcadell Bosch"
+    ],
+    "father_name": "Miguel Cabrera Pastor",
+    "mother_name": "Tecla Forcadell Bosch",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Estevan Cabrera",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 5 de setembre de 1826 a la Ràpita.\n\nPadrins: Estevan Cabrera i Joaquina Pastor.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

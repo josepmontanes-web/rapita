@@ -1,0 +1,74 @@
+{
+  "id": "2815_antonia_ibanez_gallart",
+  "source_id": "2815",
+  "row_ref": "2815. Antonia Ibáñez Gallart",
+  "name": "Antonia Ibáñez Gallart",
+  "gender": "female",
+  "birth": {
+    "date": "1833-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1837-04-04",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2823_manuel_ibanez_martinez",
+      "2279_vicenta_gallart_prime"
+    ],
+    "father": "2823_manuel_ibanez_martinez",
+    "mother": "2279_vicenta_gallart_prime",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel Ibáñez Martínez",
+      "Vicenta Gallart Primé"
+    ],
+    "father_name": "Manuel Ibáñez Martínez",
+    "mother_name": "Vicenta Gallart Primé",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1833].\n\nDefunció: el 4 d'abril de 1837 a la Ràpita. Va morir als 4 anys. Va ser enterrada el mateix dia.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

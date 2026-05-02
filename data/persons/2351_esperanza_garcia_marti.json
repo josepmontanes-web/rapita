@@ -1,0 +1,75 @@
+{
+  "id": "2351_esperanza_garcia_marti",
+  "source_id": "2351",
+  "row_ref": "2351. Esperanza García Martí",
+  "name": "Esperanza García Martí",
+  "gender": "female",
+  "birth": {
+    "date": "1815-01-01",
+    "place": "Perelló"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "839_jose_brull_subirats"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan García",
+      "Teresa Martí"
+    ],
+    "father_name": "Juan García",
+    "mother_name": "Teresa Martí",
+    "spouse_names": [
+      "José Brull Subirats"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: al Perelló (València) [aprox. 1815].\n\nCasament: l'1 d'agost de 1837 amb José Brull Subirats del Perelló (València) [1815].\n\nEs germana de Teresa García Martí [1820].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

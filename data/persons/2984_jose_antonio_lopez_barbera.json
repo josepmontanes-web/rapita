@@ -1,0 +1,73 @@
+{
+  "id": "2984_jose_antonio_lopez_barbera",
+  "source_id": "2984",
+  "row_ref": "2984. José Antonio López Barberà",
+  "name": "José Antonio López Barberà",
+  "gender": "male",
+  "birth": {
+    "date": "1794-01-25",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2986_ramon_lopez_costa"
+    ],
+    "father": "2986_ramon_lopez_costa",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Ramón López Costa",
+      "Mª. Antonia Barberà Sabater"
+    ],
+    "father_name": "Ramón López Costa",
+    "mother_name": "Mª. Antonia Barberà Sabater",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Josef Antonio Pascual",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 25 de gener de 1794 a la Ràpita.\n\nPadrins: José Antonio Pascual i Agustina Rubio.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

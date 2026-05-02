@@ -1,0 +1,68 @@
+{
+  "id": "3851_juan_paz_fernandez",
+  "source_id": "3851",
+  "row_ref": "3851. Juan Paz Fernández",
+  "name": "Juan Paz Fernández",
+  "gender": "male",
+  "birth": {
+    "date": "1829-01-01",
+    "place": "Ribadeo (Lugo)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Ribadeo (Lugo) [aprox. 1829].\n\nProfessió: Capità de la Guardia Civil.\n\nCasament: amb Teresa Bernis Ferrater de la Ràpita [1834].\n\nFills: Antonio i Teresa.\n\nDefunció: el 8 de gener de 1881 a la Ràpita als 52 anys de \"una tisis\". Declara la mor Rafaela Reverté de 60 anys, vidua.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

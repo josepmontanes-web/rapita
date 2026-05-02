@@ -1,0 +1,77 @@
+{
+  "id": "3599_juan_navarro_ayet",
+  "source_id": "3599",
+  "row_ref": "3599. Juan Navarro Ayet",
+  "name": "Juan Navarro Ayet",
+  "gender": "male",
+  "birth": {
+    "date": "1813-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1814-04-01",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3641_juan_navarro_hernandez"
+    ],
+    "father": "3641_juan_navarro_hernandez",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "400_francisca_balague_bosch"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Navarro Hernández",
+      "Theresa Ayet"
+    ],
+    "father_name": "Juan Navarro",
+    "mother_name": "Theresa Ayet",
+    "spouse_names": [],
+    "children_names": [
+      "Francisca Balagué Bosch"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1813]. \n\nDefunció: l'1 d'abril de 1814 a la Ràpita. Va morir a l'any.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

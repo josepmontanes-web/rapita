@@ -1,0 +1,83 @@
+{
+  "id": "5284_miguel_timoner_orosco",
+  "source_id": "5284",
+  "row_ref": "5284. Miguel Timoner Orosco",
+  "name": "Miguel Timoner Orosco",
+  "gender": "male",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Altea"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5284_miguel_timoner_orosco"
+    ],
+    "father": "5284_miguel_timoner_orosco",
+    "mother": null,
+    "spouse": [
+      "485_maria_ballester_llorens"
+    ],
+    "children": [
+      "5284_miguel_timoner_orosco",
+      "5286_maria_timoner_ballester"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Timoner Orosco",
+      "Marcela Orosco"
+    ],
+    "father_name": "Miguel Timoner",
+    "mother_name": "Marcela Orosco",
+    "spouse_names": [
+      "Maria Ballester Llorens"
+    ],
+    "children_names": [
+      "Miguel Timoner Orosco",
+      "María Timoner Ballester"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Altea [aprox. 1820]. \n\nCasament: el 10 de març de 1843 amb María Ballester Llorens de Benidorm [1820].\n\nFills: María [1844] i Miguel [1845].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

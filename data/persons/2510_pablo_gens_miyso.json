@@ -1,0 +1,81 @@
+{
+  "id": "2510_pablo_gens_miyso",
+  "source_id": "2510",
+  "row_ref": "2510. Pablo Gens Miysó",
+  "name": "Pablo Gens Miysó",
+  "gender": "male",
+  "birth": {
+    "date": "1785-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2511_ignacio_gens_monserrat"
+    ],
+    "father": "2511_ignacio_gens_monserrat",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2511_ignacio_gens_monserrat",
+      "2512_maria_cinta_gens_monserrat"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Ignacio Gens Monserrat",
+      "Madalena Miysó"
+    ],
+    "father_name": "Ignacio Gens",
+    "mother_name": "Madalena Miysó",
+    "spouse_names": [
+      "Lorenza Montserrat Guasch"
+    ],
+    "children_names": [
+      "Ignacio Gens Monserrat",
+      "Maria Cinta Gens Monserrat"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1785].\n\nCasament: amb Lorenza Monserrat Guasch de Tortosa [1790].\n\nFills: Ignacio [1810], María Cinta [1810], Rafael Andrés [1811] i Tomasa [1815].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "1488_josefa_cid_beltri",
+  "source_id": "1488",
+  "row_ref": "1488. Josefa Cid Beltri",
+  "name": "Josefa Cid Beltri",
+  "gender": "female",
+  "birth": {
+    "date": "1755-01-01",
+    "place": "Planes de la Galera"
+  },
+  "death": {
+    "date": "1821-03-20",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "706_agustina_biosca_cid",
+      "707_pedro_biosca_cid",
+      "708_josefa_biosca_cid"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Josef Biosca Segarra"
+    ],
+    "children_names": [
+      "Agustina Biosca Cid",
+      "Pedro Biosca Cid",
+      "Josefa Biosca Cid"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a les Planes de la Galera [aprox. 1755].\n\nCasament: el 20 de maig de 1776 a La Galera del Pla amb José Biosca Segarra de Freginals [1743].\n\nFills: José [1780], Agustina (Freginals) [aprox 1785], Pedro (Freginals) [aprox 1789] i Josefa [aprox 1794].\n\nA l'estat de veïns de setembre de 1798 diu que viuen a la casa núm. 7 de la \"Calle Mayor\" (ACA BGRP Cajas 34).\n\nDefunció: el 20 de març de 1821 a la Ràpita. Va morir als 76 anys. Testament en poder de Narciso Esteller. \"Dejó para el bien de su alma 50 pesos\".(Potser tenia 66 anys).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

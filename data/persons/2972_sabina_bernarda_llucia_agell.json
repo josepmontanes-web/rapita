@@ -1,0 +1,71 @@
+{
+  "id": "2972_sabina_bernarda_llucia_agell",
+  "source_id": "2972",
+  "row_ref": "2972. Sabina Bernarda Llucià Agell",
+  "name": "Sabina Bernarda Llucià Agell",
+  "gender": "female",
+  "birth": {
+    "date": "1821-01-13",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Diego Llucià Burià",
+      "Antonia Agell"
+    ],
+    "father_name": "Diego Llucià Burià",
+    "mother_name": "Antonia Agell",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Bernardo García",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 13 de gener de 1821 a la Ràpita.\n\nPadrins: Bernardo García i Josefa Soler.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

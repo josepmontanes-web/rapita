@@ -1,0 +1,79 @@
+{
+  "id": "2788_agustina_omedes_carles",
+  "source_id": "2788",
+  "row_ref": "2788. Agustina Omedes Carles",
+  "name": "Agustina Omedes Carles",
+  "gender": "female",
+  "birth": {
+    "date": "1764-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1636_jose_antonio_christofol_salvado"
+    ],
+    "children": [
+      "1631_francisco_christofol_omedes"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Antonio Omedes",
+      "Antonia Carles"
+    ],
+    "father_name": "José Antonio Omedes",
+    "mother_name": "Antonia Carles",
+    "spouse_names": [
+      "José Antonio Christofol Salvadó"
+    ],
+    "children_names": [
+      "Francisco Christofol Omedes"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1764].\n\nCasament: amb José Antonio Christofol Salvadó de Tortosa [1764].\n\nFills: Teresa (Tortosa) [1790], Vicens [1790], Francisca [1795], Ramón [1795] i Francisco [1805].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Fonda Vella núm. 6 (ACA BGRP Cajas 34).\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu al barri dels pescadors  (ACA BGRP Cajas 34).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

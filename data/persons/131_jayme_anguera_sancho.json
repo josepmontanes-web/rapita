@@ -1,0 +1,82 @@
+{
+  "id": "131_jayme_anguera_sancho",
+  "source_id": "131",
+  "row_ref": "131. Jayme Anguera Sancho",
+  "name": "Jayme Anguera Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1798-07-27",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "136_agustin_anguera_o_enguera_torres",
+      "4857_pascuala_sancho_bonet"
+    ],
+    "father": "136_agustin_anguera_o_enguera_torres",
+    "mother": "4857_pascuala_sancho_bonet",
+    "spouse": [],
+    "children": [
+      "133_josefa_maria_anguera_subirats",
+      "134_salvador_anguera_subirats",
+      "135_tomas_anguera_subirats"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustín Anguera [ o Enguera] Torres",
+      "Pascuala Sancho Bonet"
+    ],
+    "father_name": "Agustín Anguera Torrès",
+    "mother_name": "Pascuala Sancho Bonet",
+    "spouse_names": [],
+    "children_names": [
+      "Josefa Maria Anguera Subirats",
+      "Salvador Anguera Subirats",
+      "Tomás Anguera Subirats"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Jayme Alemañ",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  el 27 de juliol de 1798 a la Ràpita.\n\nEl padrins son els cònjuges Jayme Alemany de Tortosa i Rosa Pardo de Russafa (València).\n\nCasament: amb Madalena Subirats Obiol de Godall [o de Tortosa] [1820].\n\nFills: Josefa María [1842], Salvador [1843] i Tomás [1846].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "3336_jose_merga_jordan",
+  "source_id": "3336",
+  "row_ref": "3336. José Merga Jordán",
+  "name": "José Merga Jordán",
+  "gender": "male",
+  "birth": {
+    "date": "1788-01-01",
+    "place": "San Remo-Rep.Genova"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "294_maria_artero_celez"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Merga",
+      "Angela Maria Jordán"
+    ],
+    "father_name": "Pedro Merga",
+    "mother_name": "Angela Maria Jordán",
+    "spouse_names": [
+      "Maria Artero Célez"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Mariner"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a San Remo (República de Génova) [aprox. 1788]. \n\nProfessió: mariner.\n\nCasament: el 17 d'abril de 1808 amb María Artero Célez d'Almassora [1791]. Es casa als 20 anys.\n\nFills: Pedro [1809].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

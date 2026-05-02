@@ -1,0 +1,79 @@
+{
+  "id": "2827_ventura_iriarte_gombau",
+  "source_id": "2827",
+  "row_ref": "2827. Ventura Iriarte Gombau",
+  "name": "Ventura Iriarte Gombau",
+  "gender": "female",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "429_pedro_balaguer_ferrer"
+    ],
+    "children": [
+      "442_ramon_balaguer_iriarte"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Justo Iriarte",
+      "Josefa Gombau"
+    ],
+    "father_name": "Justo Iriarte",
+    "mother_name": "Josefa Gombau",
+    "spouse_names": [
+      "Pedro Balaguer Ferrer"
+    ],
+    "children_names": [
+      "Ramón Balaguer Iriarte"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1790].\n\nCasament: amb Pedro Balaguer Ferrer de Tortosa [1790].\n\nFills: Ramón [1814].\n\nEs tia de Lorenza Miguela Iriarte.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

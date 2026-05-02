@@ -1,0 +1,81 @@
+{
+  "id": "5105_rosa_servero_gurrea",
+  "source_id": "5105",
+  "row_ref": "5105. Rosa Servero Gurrea",
+  "name": "Rosa Servero Gurrea",
+  "gender": "female",
+  "birth": {
+    "date": "1775-01-01",
+    "place": "València (Parr. S.Andrés)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "5622_bautista_vines_sevilla"
+    ],
+    "children": [
+      "5620_rosa_vines_servero",
+      "5621_pascual_vines_servero"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bartolomé Servero",
+      "Rosa Gurrea"
+    ],
+    "father_name": "Bartolomé Servero",
+    "mother_name": "Rosa Gurrea",
+    "spouse_names": [
+      "Bautista Viñes Sevilla"
+    ],
+    "children_names": [
+      "Rosa Viñes Servero",
+      "Pascual Viñes Servero"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a València (Parròquia de San Andrés) [aprox. 1775]. \n\nCasament: amb Bautista Viñes Sevilla de València [1775].\n\nFills: Rosa [1795], Pascual [1798] i María Rosa [1800].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

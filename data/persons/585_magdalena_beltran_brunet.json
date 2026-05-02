@@ -1,0 +1,74 @@
+{
+  "id": "585_magdalena_beltran_brunet",
+  "source_id": "585",
+  "row_ref": "585. Magdalena Beltran Brunet",
+  "name": "Magdalena Beltran Brunet",
+  "gender": "female",
+  "birth": {
+    "date": "1814-07-22",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1816-05-13",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "631_domingo_beltran_querol",
+      "860_rosa_brunet_monllao"
+    ],
+    "father": "631_domingo_beltran_querol",
+    "mother": "860_rosa_brunet_monllao",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Domingo Beltrán Querol",
+      "Rosa Brunet Monllaó"
+    ],
+    "father_name": "Domingo Beltran Querol",
+    "mother_name": "Rosa Brunet Monllaó",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Picón",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 22 de juliol de 1814 a la Ràpita.\n\nPadrins: Juan Picón i Teresa Herlandes.\n\nDefunció: el 13 de maig de 1816 a la Ràpita. Va morir als 2 anys de \"resedo de cuartana\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

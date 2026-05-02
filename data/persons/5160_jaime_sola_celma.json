@@ -1,0 +1,81 @@
+{
+  "id": "5160_jaime_sola_celma",
+  "source_id": "5160",
+  "row_ref": "5160. Jaime Solà Celma",
+  "name": "Jaime Solà Celma",
+  "gender": "male",
+  "birth": {
+    "date": "1828-01-01",
+    "place": "Ulldecona"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5160_jaime_sola_celma"
+    ],
+    "father": "5160_jaime_sola_celma",
+    "mother": null,
+    "spouse": [
+      "5001_bernardina_sans_mies"
+    ],
+    "children": [
+      "5160_jaime_sola_celma"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Jaime Solà Celma",
+      "Rosa Celma"
+    ],
+    "father_name": "Jaime Solà",
+    "mother_name": "Rosa Celma",
+    "spouse_names": [
+      "Bernardina Sans Míes"
+    ],
+    "children_names": [
+      "Jaime Solà Celma"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Ulldecona [aprox. 1828]. \n\nCasament: el 16 de gener de 1852 amb Bernardina Sans Míes. Es casa als 24 anys. Es veí d'Ulldecona.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

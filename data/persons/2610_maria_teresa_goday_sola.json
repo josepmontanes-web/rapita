@@ -1,0 +1,76 @@
+{
+  "id": "2610_maria_teresa_goday_sola",
+  "source_id": "2610",
+  "row_ref": "2610. Maria Teresa Goday Solà",
+  "name": "Maria Teresa Goday Solà",
+  "gender": "female",
+  "birth": {
+    "date": "1823-01-03",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2602_pablo_goday_andreu",
+      "5161_teresa_sola_coll"
+    ],
+    "father": "2602_pablo_goday_andreu",
+    "mother": "5161_teresa_sola_coll",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pablo Goday Andreu",
+      "Teresa Solà Coll"
+    ],
+    "father_name": "Pablo Goday Andreu",
+    "mother_name": "Teresa Solà Coll",
+    "spouse_names": [
+      "José Pino Bedós"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Agustín Goday",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 3 de gener de 1823 a la Ràpita.\n\nPadrins: Agustín Goday i María Vidal.\n\nCasament: el 17 de juny de 1848 amb José Pino Bedós de la Ràpita [1827].\n\nFills: Pablo [1849].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

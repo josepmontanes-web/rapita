@@ -1,0 +1,83 @@
+{
+  "id": "3920_jose_agustin_peris_puig",
+  "source_id": "3920",
+  "row_ref": "3920. José Agustín Peris Puig",
+  "name": "José Agustín Peris Puig",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Vinaroz"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3922_jose_peris_jane"
+    ],
+    "father": "3922_jose_peris_jane",
+    "mother": null,
+    "spouse": [
+      "2861_manuela_jane_subirats"
+    ],
+    "children": [
+      "3922_jose_peris_jane",
+      "3923_concepcion_peris_jane"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Peris Jané",
+      "Salvadora Puig"
+    ],
+    "father_name": "José Peris",
+    "mother_name": "Salvadora Puig",
+    "spouse_names": [
+      "Manuela Jané Subirats"
+    ],
+    "children_names": [
+      "José Peris Jané",
+      "Concepción Peris Jané"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1800]. \n\nCasament: amb Manuela Jané Subirats de Vinaròs [1800].\n\nFills: Manuel [1825], José [1827], Concepción [1829], Ambrosio Antonio [1830] i Elvira [1833].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

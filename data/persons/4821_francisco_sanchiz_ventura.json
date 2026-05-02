@@ -1,0 +1,73 @@
+{
+  "id": "4821_francisco_sanchiz_ventura",
+  "source_id": "4821",
+  "row_ref": "4821. Francisco Sanchiz Ventura",
+  "name": "Francisco Sanchiz Ventura",
+  "gender": "male",
+  "birth": {
+    "date": "1835-07-28",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5455_francisca_ventura_exposita"
+    ],
+    "father": null,
+    "mother": "5455_francisca_ventura_exposita",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Peregrín Sanchiz Yserte",
+      "Francisca Ventura Expósita"
+    ],
+    "father_name": "Peregrín Sanchiz Yserte",
+    "mother_name": "Francisca Ventura Expósita",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Reverter",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 28 de juliol de 1835 a la Ràpita.\n\nPadrins: Francisco Reverter i Josefa Fonollosa.\n\nCasament: amb Bàrbara Guilar de la Senia de Rossell.\n\nCasament: el 16 de desembre de 1871 amb Rosa Sancho Fibla d'Alcanar [1842].\n\nFills: Francisco [1878] i Francisca [1881].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

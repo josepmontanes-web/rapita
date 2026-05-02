@@ -1,0 +1,93 @@
+{
+  "id": "1934_vicente_fabregat_sancho",
+  "source_id": "1934",
+  "row_ref": "1934. Vicente Fabregat Sancho",
+  "name": "Vicente Fabregat Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1794-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1838-11-22",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1934_vicente_fabregat_sancho"
+    ],
+    "father": "1934_vicente_fabregat_sancho",
+    "mother": null,
+    "spouse": [
+      "4908_francisca_sancho_pla"
+    ],
+    "children": [
+      "1934_vicente_fabregat_sancho",
+      "1935_maria_de_la_cinta_fabregat_sancho",
+      "1936_pedro_fabregat_sancho",
+      "1937_prudencio_fabregat_sancho",
+      "1938_silvestre_fabregat_sancho",
+      "1939_leandra_fabregat_sancho",
+      "1940_juan_bautista_fabregat_sancho"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Fabregat Sancho",
+      "Pascuala Sancho"
+    ],
+    "father_name": "Vicente Fabregat",
+    "mother_name": "Pascuala Sancho",
+    "spouse_names": [
+      "Francisca Sancho Pla"
+    ],
+    "children_names": [
+      "Vicente Fabregat Sancho",
+      "María de la Cinta Fabregat Sancho",
+      "Pedro Fabregat Sancho",
+      "Prudencio Fabregat Sancho",
+      "Silvestre Fabregat Sancho",
+      "Leandra Fabregat Sancho",
+      "Juan Bautista Fabregat Sancho"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1794].\n\nCasament: el 9 de març de 1824 amb Francisca Sancho Pla de la Ràpita [1805].\n\nFills: María de la Cinta [1825], Pedro [1827], Prudencio [1830], Silvestre [1831], Leandra [1834] i Juan Bautista [1836].\n\nDefunció: el 22 de novembre de 1838 a la Ràpita. Va morir als 44 anys. Va ser enterrat el mateix dia. No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "3314_encarnacion_mauri_roig",
+  "source_id": "3314",
+  "row_ref": "3314. Encarnación Mauri Roig",
+  "name": "Encarnación Mauri Roig",
+  "gender": "female",
+  "birth": {
+    "date": "1855-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1855].\n\nCasament: el 3 de juliol de 1875 amb Ramón Subirats Pla de Freginals [1850]. Es casa als 20 anys.\n\nDefunció: el 27 de maig de 1879 a la Ràpita als 22 anys de \"peritonitis parcial\". El segon cognom es Royo.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

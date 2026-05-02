@@ -1,0 +1,78 @@
+{
+  "id": "5184_andres_subirats",
+  "source_id": "5184",
+  "row_ref": "5184. Andrés Subirats",
+  "name": "Andrés Subirats",
+  "gender": "male",
+  "birth": {
+    "date": "1760-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1818-05-05",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "5200_thecla_subirats_miro",
+      "5201_rosa_subirats_miro",
+      "5202_bernarda_subirats_miro"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Teresa Miró"
+    ],
+    "children_names": [
+      "Thecla Subirats Miró",
+      "Rosa Subirats Miró",
+      "Bernarda Subirats Miró"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1760]. \n\nCasament: amb Teresa Miró de La Pobla de Montornés.\n\nFills: Bernarda (Freginals) [1780], Rosa (Freginals) [1781] i Tecla (Freginals) [1794].\n\nDefunció: el 5 de maig de 1818 a la Ràpita. Va morir als 58 anys. \"murió de un insulzo que no dió lugar para nada\". Misa de \"cuerpo presente\". No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

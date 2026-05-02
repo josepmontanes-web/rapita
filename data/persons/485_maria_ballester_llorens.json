@@ -1,0 +1,78 @@
+{
+  "id": "485_maria_ballester_llorens",
+  "source_id": "485",
+  "row_ref": "485. Maria Ballester Llorens",
+  "name": "Maria Ballester Llorens",
+  "gender": "female",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Benidorm"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "482_jose_ballester",
+      "2957_antonia_llorens"
+    ],
+    "father": "482_jose_ballester",
+    "mother": "2957_antonia_llorens",
+    "spouse": [
+      "5284_miguel_timoner_orosco"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Ballester",
+      "Antonia Llorens"
+    ],
+    "father_name": "José Ballester",
+    "mother_name": "Antonia Llorens",
+    "spouse_names": [
+      "Miguel Timoner Orosco"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Benidorm [aprox. 1820].\n\nGermana d'Antonia Ballester Llorens de Benidorm [1825].\n\nCasament: el 10 de març de 1843 amb Miguel Timoner Orosco d'Altea [1820].\n\nFills: María [1844] i Miguel [1845].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

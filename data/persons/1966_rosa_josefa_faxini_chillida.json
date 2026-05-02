@@ -1,0 +1,74 @@
+{
+  "id": "1966_rosa_josefa_faxini_chillida",
+  "source_id": "1966",
+  "row_ref": "1966. Rosa Josefa Faxini Chillida",
+  "name": "Rosa Josefa Faxini Chillida",
+  "gender": "female",
+  "birth": {
+    "date": "1828-10-19",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1971_nicolas_fatsini_pons",
+      "1442_tomasa_chillida_querol"
+    ],
+    "father": "1971_nicolas_fatsini_pons",
+    "mother": "1442_tomasa_chillida_querol",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Nicolás Fatsini Pons",
+      "Tomasa Chillida Querol"
+    ],
+    "father_name": "Nicolás Faxini Pons",
+    "mother_name": "Tomasa Chillida Querol",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José López",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 19 d'octubre de 1828 a la Ràpita.\n\nPadrins: José López \"Dependiente del Real Resguardo\" i Teresa Querol.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

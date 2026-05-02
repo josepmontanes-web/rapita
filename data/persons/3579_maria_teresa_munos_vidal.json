@@ -1,0 +1,74 @@
+{
+  "id": "3579_maria_teresa_munos_vidal",
+  "source_id": "3579",
+  "row_ref": "3579. Maria Teresa Muños Vidal",
+  "name": "Maria Teresa Muños Vidal",
+  "gender": "female",
+  "birth": {
+    "date": "1827-05-11",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1828-08-01",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3566_joaquin_munos_beltri",
+      "5582_barbara_vidal_talarn"
+    ],
+    "father": "3566_joaquin_munos_beltri",
+    "mother": "5582_barbara_vidal_talarn",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Muños Beltri",
+      "Bárbara Vidal Talarn"
+    ],
+    "father_name": "Joaquín Muñós Ibañes",
+    "mother_name": "Barbara Vidal Talarn",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Carbó",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'11 de maig de 1827 a la Ràpita.\n\nPadrins: Francisco Carbó i María Agustina Porcar.\n\nDefunció: l'1 d'agost de 1828 a la Ràpita. Va morir de \"sarampión\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

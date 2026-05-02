@@ -1,0 +1,68 @@
+{
+  "id": "3933_rosa_pino_accensi",
+  "source_id": "3933",
+  "row_ref": "3933. Rosa Pino Accensi",
+  "name": "Rosa Pino Accensi",
+  "gender": "female",
+  "birth": {
+    "date": "1852-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1852].\n\nCasament: el 3 d'agost de 1874 amb José Ignacio Vidal Fonollosa de la Ràpita [1849]. Viuen al carrer de la Aurora.\n\nFills: María Rosa [1876], Ramón [1878] i María [1879].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "5318_antonia_torne_grego",
+  "source_id": "5318",
+  "row_ref": "5318. Antonia Torné Grego",
+  "name": "Antonia Torné Grego",
+  "gender": "female",
+  "birth": {
+    "date": "1832-01-17",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5312_antonio_torne_caudet"
+    ],
+    "father": "5312_antonio_torne_caudet",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Torné Caudet",
+      "Maria Antonia Grego Omedes"
+    ],
+    "father_name": "Antonio Torné Caudet",
+    "mother_name": "Maria Antonia Grego Omedes",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Alexandro Monserrat",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 17 de gener de 1832 a la Ràpita.\n\nPadrins: Alexandro Montserrat i Teresa Montserrat.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

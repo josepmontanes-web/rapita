@@ -1,0 +1,68 @@
+{
+  "id": "3742_jose_obiol_castell",
+  "source_id": "3742",
+  "row_ref": "3742. José Obiol Castell",
+  "name": "José Obiol Castell",
+  "gender": "male",
+  "birth": {
+    "date": "1857-01-01",
+    "place": "Peníscola"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Peníscola [aprox. 1857].\n\nProfessió: jornaler.\n\nCasament: el 19 de març de 1883 amb Antonia Sancho Fibla de la Ràpita [1858]. Es casa als 25 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

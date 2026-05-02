@@ -1,0 +1,74 @@
+{
+  "id": "1046_francisco_cartes",
+  "source_id": "1046",
+  "row_ref": "1046. Francisco Cartes",
+  "name": "Francisco Cartes",
+  "gender": "male",
+  "birth": {
+    "date": "1770-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1059_francisco_cartes_domenech",
+      "1063_juan_cartes_ferrer_o_castella"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Francisco Cartes Domenech",
+      "Juan Cartes Ferrer [o Castellà]"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1770].\n\nCasament: amb Vicenta Ferrer de Tortosa [1770].\n\nFills: Francisco [1795] i Juan [1810].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu al barri de pescadors (ACA BGRP caixa 34).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

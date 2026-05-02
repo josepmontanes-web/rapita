@@ -1,0 +1,74 @@
+{
+  "id": "1694_maria_de_los_dolores_curto_sancho",
+  "source_id": "1694",
+  "row_ref": "1694. Maria de los Dolores Curto Sancho",
+  "name": "Maria de los Dolores Curto Sancho",
+  "gender": "female",
+  "birth": {
+    "date": "1836-04-03",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1838-02-19",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1670_jose_curto_cavaller",
+      "4922_maria_sancho_reverte"
+    ],
+    "father": "1670_jose_curto_cavaller",
+    "mother": "4922_maria_sancho_reverte",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Curto Cavaller",
+      "María Sancho Reverté"
+    ],
+    "father_name": "José Curto Cavaller",
+    "mother_name": "María Sancho Reverté",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don José Reguad",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 3 d'abril de 1836 a la Ràpita.\n\nPadrí: Don José Reguad de Carlet (València).\n\nDefunció: el 19 de febrer de 1838 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

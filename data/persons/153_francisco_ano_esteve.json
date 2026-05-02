@@ -1,0 +1,74 @@
+{
+  "id": "153_francisco_ano_esteve",
+  "source_id": "153",
+  "row_ref": "153. Francisco Añó Esteve",
+  "name": "Francisco Añó Esteve",
+  "gender": "male",
+  "birth": {
+    "date": "1815-11-07",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "142_juan_ano_arlandez",
+      "1885_josefa_esteve_garcia"
+    ],
+    "father": "142_juan_ano_arlandez",
+    "mother": "1885_josefa_esteve_garcia",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Añó Arlández",
+      "Josefa Esteve García"
+    ],
+    "father_name": "Juan Añó Hernández",
+    "mother_name": "Josefa Esteve García",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Gasparín",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  el 7 de novembre de 1815 a la Ràpita.\n\nEls padrins son Francisco Gasparín i Genara Fornesa.\n\nDe l'1 de desembre de 1836 al 31 de juliol de 1838 ha de pagar un lloguer de 4 Rs mensuals pel pis alt interior de la casa 1 del carrer del Forn. (AGP.PER.LEG.1073/23 [Juan Vecino]).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

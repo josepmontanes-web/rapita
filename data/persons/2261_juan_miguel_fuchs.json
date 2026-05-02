@@ -1,0 +1,76 @@
+{
+  "id": "2261_juan_miguel_fuchs",
+  "source_id": "2261",
+  "row_ref": "2261. Juan Miguel Fuchs",
+  "name": "Juan Miguel Fuchs",
+  "gender": "male",
+  "birth": {
+    "date": "1770-01-01",
+    "place": "Estrasburg"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2262_casilda_fuchs_calos",
+      "2263_jayme_miguel_fuchs_calos"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Ana María Lucie Calós"
+    ],
+    "children_names": [
+      "Casilda Fuchs Calós",
+      "Jayme Miguel Fuchs Calós"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Soldat"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Estrasburg [aprox. 1770].\n\nCasament: amb Ana Maria Lucie Calós d'Estrasburg, filla de Carlos Calós i Maria Nies de Piamonte.\n\nFills: Casilda [1799] i Jayme Miguel [1800].\n\n\"Soldado del regimiento de suizos de Riekeman de la 2ª compañía de Rabesrain\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

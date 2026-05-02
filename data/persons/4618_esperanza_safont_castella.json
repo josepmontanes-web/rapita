@@ -1,0 +1,78 @@
+{
+  "id": "4618_esperanza_safont_castella",
+  "source_id": "4618",
+  "row_ref": "4618. Esperanza Safont Castellà",
+  "name": "Esperanza Safont Castellà",
+  "gender": "female",
+  "birth": {
+    "date": "1825-05-02",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4637_mariano_safon_pasqual",
+      "1234_josefa_castella_colomines"
+    ],
+    "father": "4637_mariano_safon_pasqual",
+    "mother": "1234_josefa_castella_colomines",
+    "spouse": [
+      "1703_buenaventura_degollada_maranches"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Mariano Safon Pasqual",
+      "Josefa Castellà Colomines"
+    ],
+    "father_name": "Mariano Safont Pasqual",
+    "mother_name": "Josefa Castellà Colomines",
+    "spouse_names": [
+      "Buenaventura Degollada Maranches"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Bautista Castellá",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 2 de maig de 1825 a la Ràpita.\n\nPadrins: Bautista Castellà i Esperanza Navarro.\n\nCasament: el 12 de febrer de 1850 amb Buenaventura Degollada Maranches de Puigcerdà [1824].\n\nFills: María [1853] i Ramón [1855].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

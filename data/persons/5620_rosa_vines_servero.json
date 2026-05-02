@@ -1,0 +1,74 @@
+{
+  "id": "5620_rosa_vines_servero",
+  "source_id": "5620",
+  "row_ref": "5620. Rosa Viñes Servero",
+  "name": "Rosa Viñes Servero",
+  "gender": "female",
+  "birth": {
+    "date": "1795-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1799-05-26",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5622_bautista_vines_sevilla",
+      "5105_rosa_servero_gurrea"
+    ],
+    "father": "5622_bautista_vines_sevilla",
+    "mother": "5105_rosa_servero_gurrea",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Viñes Sevilla",
+      "Rosa Servero Gurrea"
+    ],
+    "father_name": "Bautista Viñes Sevilla",
+    "mother_name": "Rosa Servero Gurrea",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1795].\n\nDefunció: el 26 de maig de 1799 a la Ràpita. Va morir pàrvul.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

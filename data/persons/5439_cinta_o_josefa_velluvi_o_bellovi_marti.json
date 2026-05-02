@@ -1,0 +1,68 @@
+{
+  "id": "5439_cinta_o_josefa_velluvi_o_bellovi_marti",
+  "source_id": "5439",
+  "row_ref": "5439. Cinta [o Josefa] Velluví [o Belloví] Martí",
+  "name": "Cinta [o Josefa] Velluví [o Belloví] Martí",
+  "gender": "female",
+  "birth": {
+    "date": "1850-01-01",
+    "place": "Aldover"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Aldover [aprox. 1850].\n\nCasament: amb Francisco Guzmán Navarro de la Ràpita [1845].\n\nFills: Julieta [1875], Pilar [1879] i Francisco [1881].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

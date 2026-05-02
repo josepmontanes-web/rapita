@@ -1,0 +1,86 @@
+{
+  "id": "2353_basilia_garcia_mendoza",
+  "source_id": "2353",
+  "row_ref": "2353. Basilia Garcia Mendoza",
+  "name": "Basilia Garcia Mendoza",
+  "gender": "female",
+  "birth": {
+    "date": "1760-01-01",
+    "place": "Morella"
+  },
+  "death": {
+    "date": "1830-12-14",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1883_0_1950",
+      "1884_agustin_esteve_garcia",
+      "1885_josefa_esteve_garcia",
+      "1886_jose_esteve_garcia",
+      "1887_salvadora_esteve_garcia"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Luis Garcia",
+      "Maria Teresa Mendoza"
+    ],
+    "father_name": "Luis Garcia",
+    "mother_name": "Maria Teresa Mendoza",
+    "spouse_names": [
+      "Josef Esteve",
+      "Manuel Llenses Simón"
+    ],
+    "children_names": [
+      "0 1950",
+      "Agustín Esteve García",
+      "Josefa Esteve García",
+      "José Esteve García",
+      "Salvadora Esteve García"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Morella [aprox. 1760].\n\nCasament: amb José Esteve Rodón de Mataró [1752].\n\nFills: Salvadora [1785], José [1788], Josefa [1790], María [1791] i Agustín [1793].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu al carrer davant el canal i l'horta  (ACA BGRP Cajas 34).\n\nCasament: el 4 de febrer de 1805 amb Manuel Llenses [o Liences] Simón de Santillana de Campos (Palencia) [1751]. Es casa als 48 anys.\n\nDefunció: el 14 de desembre de 1830 a la Ràpita. Va morir als 63 anys de \"calenturas\". No fa testament.\n\nEs germana d'Agustina García Mendoza [1762].\n\n De l'1 de novembre de 1829 al 31 de març de 1835 ha de pagar un lloguer de 4 Rs mensuals pel pis alt interior de la casa 1 del carrer del Forn. (AGP.PER.LEG.1073/23 [Juan Vecino]).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

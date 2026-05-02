@@ -1,0 +1,74 @@
+{
+  "id": "892_francisca_cabanes_biosca",
+  "source_id": "892",
+  "row_ref": "892. Francisca Cabanes Biosca",
+  "name": "Francisca Cabanes Biosca",
+  "gender": null,
+  "birth": {
+    "date": "1867-10-01",
+    "place": "SC"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "898_rafael_cabanes_thomas",
+      "720_francisca_biosca_lopez"
+    ],
+    "father": "898_rafael_cabanes_thomas",
+    "mother": "720_francisca_biosca_lopez",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Rafael Cabanes Thomas",
+      "Francisca Biosca López"
+    ],
+    "father_name": "Rafael Cabanes Tomás",
+    "mother_name": "Francisca Biosca López",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'1 d'octubre de 1867 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

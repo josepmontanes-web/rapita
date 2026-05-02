@@ -1,0 +1,76 @@
+{
+  "id": "651_josefa_beltri",
+  "source_id": "651",
+  "row_ref": "651. Josefa Beltri",
+  "name": "Josefa Beltri",
+  "gender": "female",
+  "birth": {
+    "date": "1770-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "884_maria_burgues_beltri",
+      "885_joaquin_burgues_beltri"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Josef Burgués"
+    ],
+    "children_names": [
+      "María Burgués Beltri",
+      "Joaquín Burgués Beltri"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1770].\n\nCasament: amb José Burgués [1770].\n\nFills: María [1791], Joaquín [1793].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

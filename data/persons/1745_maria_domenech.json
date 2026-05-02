@@ -1,0 +1,76 @@
+{
+  "id": "1745_maria_domenech",
+  "source_id": "1745",
+  "row_ref": "1745. Maria Domenech",
+  "name": "Maria Domenech",
+  "gender": "female",
+  "birth": {
+    "date": "1764-01-01",
+    "place": "Rossell"
+  },
+  "death": {
+    "date": "1832-07-12",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "19_jose_adell_domech_o_domenech",
+      "2916_maria_lazaro_domenech"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Joaquín Lázaro"
+    ],
+    "children_names": [
+      "José Adell Domech [o Domenech].",
+      "María Lázaro Domenech"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Rossell [aprox. 1764].\n\nCasament: amb Joaquín Lázaro.\n\nFills: María Lázaro Domenech de Rossell [1790].\n\nDefunció: el 12 de juliol de 1832 a la Ràpita. Va morir als 68 anys. Ja era vidua. No fa testament. \"Donación intervivos de todos sus bienes a Ramón Accensi y María Lázaro su yerno e hija otorgada ante Mariano Monserrat escribano de Tortosa a 11 de agosto de 1830 en la que dotó su alma en 14 libras valencianas\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "3899_domingo_pepiol_pascual",
+  "source_id": "3899",
+  "row_ref": "3899. Domingo Pepiol Pascual",
+  "name": "Domingo Pepiol Pascual",
+  "gender": "male",
+  "birth": {
+    "date": "1808-08-04",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3892_blas_pepiol_masdeu",
+      "3829_teresa_pasqual_fuster"
+    ],
+    "father": "3892_blas_pepiol_masdeu",
+    "mother": "3829_teresa_pasqual_fuster",
+    "spouse": [
+      "1443_teresa_chillida_querol"
+    ],
+    "children": [
+      "3870_justo_pepiol_chillida",
+      "3871_josefa_maria_pepiol_chillida",
+      "3872_isabel_francisca_pepiol_chillida",
+      "3874_rosa_pepiol_chillida",
+      "3875_teresa_pepiol_chillida",
+      "3876_mariano_andres_pepiol_chillida"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Blas Pepiol Masdeu",
+      "Teresa Pasqual Fuster"
+    ],
+    "father_name": "Blas Pepiol Masdeu",
+    "mother_name": "Teresa Pasqual Fuster",
+    "spouse_names": [
+      "Teresa Chillida Querol",
+      "Lorenza Reverter Balagué"
+    ],
+    "children_names": [
+      "Justo Pepiol Chillida",
+      "Josefa María Pepiol Chillida",
+      "Isabel Francisca Pepiol Chillida",
+      "Rosa Pepiol Chillida",
+      "Teresa Pepiol Chillida",
+      "Mariano Andrés Pepiol Chillida"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Josef Chiscás",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Jornaler"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 4 d'agost de 1808 a la Ràpita. A la partida de bateig el nom es José Agustín Antonio.\n\nPadrins: Don José Chiscás i Marina Rubert.\n\nProfessió: jornaler.\n\nCasament: el 6 d'octubre de 1832 amb Teresa Chillida Querol d'Alcanar [1812]. Es casa als 24 anys.\n\nFills: Justo [1833], Josefa [1836], Isabel Francisca [1838], Agustín Domingo [1840], Rosa [1842], Teresa [1844], Mariano Andrés [1849], José [1853] i Juan [1852].\n\nCasament: el 17 de maig de 1854 amb Lorenza Reverter Balagué de la Ràpita [1812]. Es casa als 44 anys. Testimonis: Casimiro Míes i Juan Aragonés.\n\nDefunció: el 22 de maig de 1877 a la Ràpita als 69 anys de tétanos. Declara la mor al registre civil la seua nora Teresa Reverté Ferré [1848].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "2840_manuel_izquierdo_carceller",
+  "source_id": "2840",
+  "row_ref": "2840. Manuel Izquierdo Carceller",
+  "name": "Manuel Izquierdo Carceller",
+  "gender": "male",
+  "birth": {
+    "date": "1772-01-01",
+    "place": "Arnés"
+  },
+  "death": {
+    "date": "1815-08-24",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2847_pablo_izquierdo_chillida"
+    ],
+    "father": "2847_pablo_izquierdo_chillida",
+    "mother": null,
+    "spouse": [
+      "930_rosa_caldero_ferre"
+    ],
+    "children": [
+      "2834_josefa_izquierdo_caldero",
+      "2835_miguel_izquierdo_caldero",
+      "2836_maria_rosa_izquierdo_caldero",
+      "2837_josefa_agustina_izquierdo_caldero",
+      "2838_manuel_izquierdo_caldero"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pablo Izquierdo Chillida",
+      "Antonia Carceller"
+    ],
+    "father_name": "Pablo Izquierdo",
+    "mother_name": "Antonia Carceller",
+    "spouse_names": [
+      "Rosa Calderó Ferré"
+    ],
+    "children_names": [
+      "Josefa Izquierdo Calderó",
+      "Miguel Izquierdo Calderó",
+      "Maria Rosa Izquierdo Calderó",
+      "Josefa Agustina Izquierdo Calderó",
+      "Manuel Izquierdo Calderó"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Cabo de sanitat"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Arnes [aprox. 1772].\n\n\"Cabo de sanidad de este puerto\".\n\nCasament: a la Catedral de Tortosa el 29 de juny de 1796 amb Rosa Calderó Ferré de Tortosa [1775].\n\nFills: Josefa (Tortosa) [1788], María Rosa [1797], Miguel [1798], Josefa Agustina [1811] i Manuel [1814].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Fonda Vella (ACA BGRP Cajas 34).\n\nDefunció: el 24 d'agost de 1815 a la Ràpita. Va morir als 43 anys.\n\nEs germà de Juan Izquierdo Carceller [1769].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

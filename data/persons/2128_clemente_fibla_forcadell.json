@@ -1,0 +1,79 @@
+{
+  "id": "2128_clemente_fibla_forcadell",
+  "source_id": "2128",
+  "row_ref": "2128. Clemente Fibla Forcadell",
+  "name": "Clemente Fibla Forcadell",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2128_clemente_fibla_forcadell"
+    ],
+    "father": "2128_clemente_fibla_forcadell",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2128_clemente_fibla_forcadell"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Clemente Fibla Forcadell",
+      "Josefa Forcadell"
+    ],
+    "father_name": "Clemente Fibla",
+    "mother_name": "Josefa Forcadell",
+    "spouse_names": [
+      "Francisca Povill Catá"
+    ],
+    "children_names": [
+      "Clemente Fibla Forcadell"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1800].\n\nCasament: amb Doña Francisca Povill Catà d'Arenys de Mar, es filla de Mariano de la Seu d'Urgell i Gertrudis d'Arenys de Mar.\n\nFills: Francisca [1826] i Fernando [1827].\n\n\"Teniente Coronel\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

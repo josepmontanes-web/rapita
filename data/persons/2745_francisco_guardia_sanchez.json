@@ -1,0 +1,85 @@
+{
+  "id": "2745_francisco_guardia_sanchez",
+  "source_id": "2745",
+  "row_ref": "2745. Francisco Guardia Sánchez",
+  "name": "Francisco Guardia Sánchez",
+  "gender": "male",
+  "birth": {
+    "date": "1770-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2698_blas_guardia"
+    ],
+    "father": "2698_blas_guardia",
+    "mother": null,
+    "spouse": [
+      "807_josefa_bort_lleti"
+    ],
+    "children": [
+      "2708_jayme_guardia_bort",
+      "2709_jose_guardia_bort",
+      "2712_lorenza_guardia_bort"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Blas Guardia",
+      "Josefa Sánchez"
+    ],
+    "father_name": "Blas Guardia",
+    "mother_name": "Josefa Sánchez",
+    "spouse_names": [
+      "Josefa Bort Lletí"
+    ],
+    "children_names": [
+      "Jayme Guardia Bort",
+      "José Guardia Bort",
+      "Lorenza Guardia Bort"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1770].\n\nCasament: amb Josefa Bort Lletí d'Alcanar [1787].\n\nFills: José [1805], Agustín [1812], Lorenza [1814], Josefa [1816], Jayme [1819], José Francisco [1822] i Miguel [1824].\n\nDonación: Francisco Guardia, labrador, en atención a que su hijo Agustín Guardia le ha facilitado cantidades que ascienden a 40 duros, en pago de esta cantidad le cede la casa que posee en el barrio de San Isidro, calle sin nombre, en las inmediaciones de la carretera Real de Valencia. Linda a tramontana con la de Bautista Guardia, a poniente con la de Agustín Torta y a cierzo con tierras del otorgante, y a levante con dicha calle. Esta casa es parte de una heredad que posee en la partida de la Devesa. 6 de agosto de 1846.\n\nVenta de Francisco Guardia, labrador, a Juan Bautista Sancho, labrador, de una parte de casa en la calle San Isidro. 24 palmos de ancho y de profundidad toda la que tome la casa. Linda a oriente con la carretera de la Pedrera, al mediodía con la calle de San Isidro, o sea, la carretera Real de Valencia, a poniente con dicha restante casa y a cierzo con la de José Sancho. Precio 80 duros. 28 de septiembre de 1846.\n\nUna porción de tierra o sitio para edificar situada en la población de San Carlos y calle del Arraval de San Isidro que comprende de ancho por parte de esta calle 24 palmos catalanes poco más o menos y de fondo o largaria de unos 90 palmos o de la que fuese hasta la alineación de las paredes de la casa del dicho comprador con la cual confronta por la parte de oriente, a medio dia con la expresada calle, a poniente y a cierzo con restante terreno que le queda y que tengo todo bajo directo y alodial derecho hoy dia de la amortización, tal como en la primitiva diera de establecimiento [] por la Monjas de San Juan de Jerusalen de Tortosa a su [] que de cuyo censo deberá pagar [] la cantidad de ¿? Ardites [].\n11 de agosto de 1857\nNotari: D. Juan Vanetos? De Amposta.\nVenta: Francisco Guardia labrador de San Carlos de la Rápita a Gabriel Gilabert tratante de ganado de id.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "5171_maria_ana_soler",
+  "source_id": "5171",
+  "row_ref": "5171. Maria Ana Soler",
+  "name": "Maria Ana Soler",
+  "gender": "female",
+  "birth": {
+    "date": "1765-01-01",
+    "place": "Piera (Barcelona)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Don Miguel Alcalá"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Piera (Barcelona) [aprox. 1765]. \n\nCasament: amb Don Miguel Alcalà de Alcañíz [1763].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

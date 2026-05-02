@@ -1,0 +1,75 @@
+{
+  "id": "3302_mariano_mateu_sancho",
+  "source_id": "3302",
+  "row_ref": "3302. Mariano Mateu Sancho",
+  "name": "Mariano Mateu Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1775-01-01",
+    "place": "La Galera"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "44_luisa_aguilar_temprado"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Mateu",
+      "Magdalena Sancho"
+    ],
+    "father_name": "Bautista Mateu",
+    "mother_name": "Magdalena Sancho",
+    "spouse_names": [
+      "Luisa Aguilar Temprado"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Galera [aprox. 1775]. \n\nCasament: el 25 de juny de 1799 amb Luísa Aguilar Temprado d'Ulldecona [1780].\n\nEs germà de Mariana Mateu Sancho [1772].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

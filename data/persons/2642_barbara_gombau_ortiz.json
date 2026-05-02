@@ -1,0 +1,96 @@
+{
+  "id": "2642_barbara_gombau_ortiz",
+  "source_id": "2642",
+  "row_ref": "2642. Bàrbara Gombau Ortiz",
+  "name": "Bàrbara Gombau Ortiz",
+  "gender": "female",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2625_bautista_gombau_castella",
+      "3758_francisca_ortiz_albacar"
+    ],
+    "father": "2625_bautista_gombau_castella",
+    "mother": "3758_francisca_ortiz_albacar",
+    "spouse": [
+      "2436_francisco_gasparin_matamoros"
+    ],
+    "children": [
+      "2420_barbara_gasparin_gombau",
+      "2421_mariana_gasparin_gombau",
+      "2422_francisca_gasparin_gombau",
+      "2423_manuela_gasparin_gombau",
+      "2424_teresa_gasparin_gombau",
+      "2425_gerardo_sixto_gasparin_gombau",
+      "2426_maria_teresa_gasparin_gombau",
+      "2427_francisco_gasparin_gombau"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Gombau Castellà",
+      "Francisca Ortiz Albacar"
+    ],
+    "father_name": "Bautista Gombau",
+    "mother_name": "Francisca Ortiz Albacar",
+    "spouse_names": [
+      "Francisco Gasparín Matamoros"
+    ],
+    "children_names": [
+      "Bàrbara Gasparín Gombau",
+      "Mariana Gasparín Gombau",
+      "Francisca Gasparín Gombau",
+      "Manuela Gasparín Gombau",
+      "Teresa Gasparín Gombau",
+      "Gerardo Sixto Gasparín Gombau",
+      "María Teresa Gasparín Gombau",
+      "Francisco Gasparín Gombau"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1790].\n\nCasament: el 20 de juliol de 1809 amb Francisco Gasparín Matamoros de la Ràpita [1793]. Es casa als 19 anys.\n\nFills: Francisco [1814], Francisca [1816], Manuela [1819], Teresa [1821], Gerardo [1823], Mariana [1825], María Teresa [1828] i Bàrbara [1831].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

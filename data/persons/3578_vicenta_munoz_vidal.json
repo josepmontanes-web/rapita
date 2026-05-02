@@ -1,0 +1,78 @@
+{
+  "id": "3578_vicenta_munoz_vidal",
+  "source_id": "3578",
+  "row_ref": "3578. Vicenta Muñoz Vidal",
+  "name": "Vicenta Muñoz Vidal",
+  "gender": "female",
+  "birth": {
+    "date": "1826-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3571_joaquin_munoz_ibanez",
+      "5582_barbara_vidal_talarn"
+    ],
+    "father": "3571_joaquin_munoz_ibanez",
+    "mother": "5582_barbara_vidal_talarn",
+    "spouse": [
+      "2636_domingo_gombau_marsal"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Muñoz Ibáñez",
+      "Bárbara Vidal Talarn"
+    ],
+    "father_name": "Joaquín Muñoz Ibáñez",
+    "mother_name": "Bàrbara Vidal Talarn",
+    "spouse_names": [
+      "Domingo Gombau Marsal"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1826]. \n\nCasament: el 20 d'agost de 1853 amb Domingo Gombau Marsal de Tortosa [1825]. Es casa als 27 anys. Testimonis: José Vidal i Ramón Sancho.\n\nFills: Domingo [1858].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

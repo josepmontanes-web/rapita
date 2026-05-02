@@ -1,0 +1,91 @@
+{
+  "id": "665_buenaventura_benlloch_feu",
+  "source_id": "665",
+  "row_ref": "665. Buenaventura Benlloch Feu",
+  "name": "Buenaventura Benlloch Feu",
+  "gender": "female",
+  "birth": {
+    "date": "1785-01-01",
+    "place": "Rialp"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "4141_bernabe_ramirez_ruiz"
+    ],
+    "children": [
+      "4132_luis_ramirez_benlloch",
+      "4133_juan_ramirez_benlloch",
+      "4134_facundo_ramirez_benlloch",
+      "4135_joaquin_ramirez_benlloch",
+      "4136_tecla_maria_ramirez_benlloch",
+      "4137_antonio_pablo_ramirez_benlloch",
+      "4138_bernabe_ramirez_benlloch"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "D. Manuel Benlloch Lasos",
+      "Dña. Mariana Feu"
+    ],
+    "father_name": "D. Manuel Benlloch Lasos",
+    "mother_name": "Dña. Mariana Feu",
+    "spouse_names": [
+      "Bernabé Ramírez Ruiz"
+    ],
+    "children_names": [
+      "Luís Ramírez Benlloch",
+      "Juan Ramírez Benlloch",
+      "Facundo Ramírez Benlloch",
+      "Joaquín Ramírez Benlloch",
+      "Tecla María Ramírez Benlloch",
+      "Antonio Pablo Ramírez Benlloch",
+      "Bernabé Ramírez Benlloch"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Rialp [aprox. 1785].\n\nCasament: el 28 de febrer de 1804 amb Bernabé Ramírez Ruiz de Dólar (Granada) [1770]. Es va casar als 19 anys.\n\nFills: Facundo [1809], Joaquín (Mataró) [1813], Luís [1815], Antonio [1818], Juan Manuel [1820], Bernabé [1823] i Tecla [1825].\n\nDe l'1 d'agost de 1829 al 31 de juliol de 1839 ha de pagar un lloguer de 12 Rs mensuals pel pis de terra interior de la casa 4 de la mançana 4. (AGP.PER.LEG.1073/23 [Juan Vecino]).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

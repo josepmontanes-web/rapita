@@ -1,0 +1,74 @@
+{
+  "id": "716_rosa_biosca_lopez",
+  "source_id": "716",
+  "row_ref": "716. Rosa Biosca López",
+  "name": "Rosa Biosca López",
+  "gender": "female",
+  "birth": {
+    "date": "1830-05-27",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1833-07-23",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "707_pedro_biosca_cid",
+      "3033_isabel_lopez_segarra"
+    ],
+    "father": "707_pedro_biosca_cid",
+    "mother": "3033_isabel_lopez_segarra",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Biosca Cid",
+      "Isabel López Segarra"
+    ],
+    "father_name": "Pedro Biosca Cid",
+    "mother_name": "Isabel López Segarra",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Navarro",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 27 de maig de 1830 a la Ràpita.\n\nPadrins: Juan Navarro i Rosa Castellà.\n\nDefunció: el 23 de juliol de 1833 a la Ràpita. Va morir el mateix dia de l'enterrament, tenia 3 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

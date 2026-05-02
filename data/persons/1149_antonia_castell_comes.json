@@ -1,0 +1,85 @@
+{
+  "id": "1149_antonia_castell_comes",
+  "source_id": "1149",
+  "row_ref": "1149. Antonia Castell Comes",
+  "name": "Antonia Castell Comes",
+  "gender": "female",
+  "birth": {
+    "date": "1791-01-01",
+    "place": "Peníscola"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3182_jose_antonio_matamoros_castell"
+    ],
+    "father": "3182_jose_antonio_matamoros_castell",
+    "mother": null,
+    "spouse": [
+      "1775_vicente_esbri_bayarri"
+    ],
+    "children": [
+      "1776_rosa_esbri_castell",
+      "1778_ignes_esbri_castell",
+      "1780_vicente_esbri_castell"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Antonio Matamoros Castell",
+      "Rosa Comes"
+    ],
+    "father_name": "José Antonio Castell",
+    "mother_name": "Rosa Comes",
+    "spouse_names": [
+      "Vicente Esbrí Bayarri"
+    ],
+    "children_names": [
+      "Rosa Esbrí Castell",
+      "Ignés Esbrí Castell",
+      "Vicente Esbrí Castell"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Peníscola [aprox. 1791].\n\nCasament: amb Vicente Esbrí Bayarri de Peníscola [1787].\n\nFills: Rosa (Benicarló) [1825], Agustina [1830], Ignés [1834], Caramela [1836] i Feliciano Vicente [1839].\n\nAl maig de 1880 encara viu.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

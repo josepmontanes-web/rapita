@@ -1,0 +1,79 @@
+{
+  "id": "1836_teresa_esteller_calbo",
+  "source_id": "1836",
+  "row_ref": "1836. Teresa Esteller Calbo",
+  "name": "Teresa Esteller Calbo",
+  "gender": "female",
+  "birth": {
+    "date": "1815-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "2042_jose_ferrer_forcadell"
+    ],
+    "children": [
+      "2025_jose_tomas_ferrer_esteller"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Esteller",
+      "Teresa Calbo"
+    ],
+    "father_name": "Vicente Esteller",
+    "mother_name": "Teresa Calbo",
+    "spouse_names": [
+      "José Ferrer Forcadell"
+    ],
+    "children_names": [
+      "José Tomás Ferrer Esteller"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1815].\n\nCasament: amb José Ferrer Forcadell d'Amposta [1810].\n\nFills: Teresa (Amposta) [1830], Sebastiana Antonia [1839], José Tomás [1842] i Josefa [1850].\n\nEs germana de Tomás Esteller Calbo [1820].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

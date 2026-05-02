@@ -1,0 +1,68 @@
+{
+  "id": "532_jose_barrera_torrent",
+  "source_id": "532",
+  "row_ref": "532. José Barrera Torrent",
+  "name": "José Barrera Torrent",
+  "gender": "male",
+  "birth": {
+    "date": "1850-01-01",
+    "place": "Ulldecona"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Ulldecona [aprox. 1850].\n\nProfessió: pagès.\n\nCasament: amb Joaquina Fabra Fabregat de la Ràpita [1850]. \"Domiciliados en el Campo\".\n\nFills: María de la Cinta [1876].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

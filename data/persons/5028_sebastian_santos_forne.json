@@ -1,0 +1,79 @@
+{
+  "id": "5028_sebastian_santos_forne",
+  "source_id": "5028",
+  "row_ref": "5028. Sebastián Santos Forné",
+  "name": "Sebastián Santos Forné",
+  "gender": "male",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Vinaròs"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "5026_mariana_santos_chale",
+      "5027_bautista_santos_chale"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomás Santos",
+      "Rosa Forné"
+    ],
+    "father_name": "Tomás Santos",
+    "mother_name": "Rosa Forné",
+    "spouse_names": [
+      "Agustina Chalé Lluc"
+    ],
+    "children_names": [
+      "Mariana Santos Chalé",
+      "Bautista Santos Chalé"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1790]. \n\nCasament: amb Agustina Chalé Lluc de Vinaròs, filla de José i Agustina Rita també de Vinaròs.\n\nFills: Bautista (Castelló) [1816] i Mariana [1834].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

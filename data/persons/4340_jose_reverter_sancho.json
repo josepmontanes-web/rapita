@@ -1,0 +1,80 @@
+{
+  "id": "4340_jose_reverter_sancho",
+  "source_id": "4340",
+  "row_ref": "4340. José Reverter Sancho",
+  "name": "José Reverter Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1781-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4174_pedro_reverter",
+      "4933_christofola_sancho_sancho"
+    ],
+    "father": "4174_pedro_reverter",
+    "mother": "4933_christofola_sancho_sancho",
+    "spouse": [],
+    "children": [
+      "4203_lorenza_reverter_balaguer"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Reverter",
+      "Christofola Sancho Sancho"
+    ],
+    "father_name": "Pedro Reverter",
+    "mother_name": "Christofola Sancho Sancho",
+    "spouse_names": [
+      "Margarita Obiol Viscarro"
+    ],
+    "children_names": [
+      "Lorenza Reverter Balaguer"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1781]. \n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Masia de Don Joaquín Anglès  (ACA BGRP Cajas 34). Podria estar com a criat de Francisco Gasparín a \"la Plasa\" però no es segur.\n\nProfessió: pagès.\n\nCasament: amb Margarita Obiol Viscarro de Peníscola [1785].\n\nFills: Josefa [1806], Pedro [1808], Peregrina [1809] i Mateo [1812].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

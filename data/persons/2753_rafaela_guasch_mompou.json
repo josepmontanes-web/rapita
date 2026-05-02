@@ -1,0 +1,85 @@
+{
+  "id": "2753_rafaela_guasch_mompou",
+  "source_id": "2753",
+  "row_ref": "2753. Rafaela Guasch Mompou",
+  "name": "Rafaela Guasch Mompou",
+  "gender": "female",
+  "birth": {
+    "date": "1765-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1825-04-28",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3463_antonio_monserrat_famadas"
+    ],
+    "children": [
+      "3474_isabel_monserrat_guasch",
+      "3475_lorenza_monserrat_guasch",
+      "3476_juan_antonio_monserrat_guasch",
+      "3477_vicenta_monserrat_guasch"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Rafael Guasch",
+      "Maria Antonia Mompou"
+    ],
+    "father_name": "Rafael Guasch",
+    "mother_name": "Maria Antonia Mompou",
+    "spouse_names": [
+      "Antonio Monserrat Famadas"
+    ],
+    "children_names": [
+      "Isabel Monserrat Guasch",
+      "Lorenza Monserrat Guasch",
+      "Juan Antonio Monserrat Guasch",
+      "Vicenta Monserrat Guasch"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1765].\n\nCasament: amb Antonio Montserrat Famadas de Barcelona [1758].\n\nFills: Vicenta (Amposta) [1787], Lorenza (Tortosa) [1790], Juan [1792], Isabel [1794], Vicente [1801] i Alexandro [1806].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Mansana Vella (carrer del Forn) núm. 24 (ACA BGRP Cajas 34).\n\nDefunció: el 28 d'abril de 1825 a la Ràpita. Va morir als 60 anys de \"anasarca senectutis\". No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

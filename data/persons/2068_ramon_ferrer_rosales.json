@@ -1,0 +1,68 @@
+{
+  "id": "2068_ramon_ferrer_rosales",
+  "source_id": "2068",
+  "row_ref": "2068. Ramón Ferrer Rosales",
+  "name": "Ramón Ferrer Rosales",
+  "gender": "male",
+  "birth": {
+    "date": "1837-01-01",
+    "place": "Santa Bàrbara"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Santa Bàrbara [aprox. 1837].\n\nProfessió: mariner.\n\nCasament: amb Rosa Ibáñez Martí de la Ràpita [1845].\n\nFills: Rosa [1877], Enrique [1881] i Brigida [1881].\n\nNo signa la declaració de naixement de la filla al registre civil per no saber. Al declarar el 4 de gener de 1878, diu que té 40 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

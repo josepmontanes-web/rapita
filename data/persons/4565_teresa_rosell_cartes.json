@@ -1,0 +1,75 @@
+{
+  "id": "4565_teresa_rosell_cartes",
+  "source_id": "4565",
+  "row_ref": "4565. Teresa Rosell Cartes",
+  "name": "Teresa Rosell Cartes",
+  "gender": "female",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4560_jose_antonio_rosell"
+    ],
+    "father": "4560_jose_antonio_rosell",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Antonio Rosell",
+      "Rosa Cartes"
+    ],
+    "father_name": "José Antonio Rosell",
+    "mother_name": "Rosa Cartes",
+    "spouse_names": [
+      "Mateo Salvador Christofol"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1790]. \n\nCasament: amb Mateo Salvador Christofol de Tortosa [1790].\n\nFills: Sebastián [1814].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

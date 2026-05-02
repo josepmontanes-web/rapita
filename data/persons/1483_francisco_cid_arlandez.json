@@ -1,0 +1,78 @@
+{
+  "id": "1483_francisco_cid_arlandez",
+  "source_id": "1483",
+  "row_ref": "1483. Francisco Cid Arlández",
+  "name": "Francisco Cid Arlández",
+  "gender": "male",
+  "birth": {
+    "date": "1823-02-20",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1496_francisco_cid_ferrer",
+      "239_teresa_arlandez_cartes"
+    ],
+    "father": "1496_francisco_cid_ferrer",
+    "mother": "239_teresa_arlandez_cartes",
+    "spouse": [],
+    "children": [
+      "266_tomas_arlandez_riba"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Cid Ferrer",
+      "Teresa Arlández Cartes"
+    ],
+    "father_name": "Francisco Cid Ferrer",
+    "mother_name": "Teresa Arlández Cartes",
+    "spouse_names": [],
+    "children_names": [
+      "Tomás Arlández Riba"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Cartes",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 20 de febrer de 1823 a la Ràpita.\n\nPadrins: Juan Cartes i Agustina Navarro.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

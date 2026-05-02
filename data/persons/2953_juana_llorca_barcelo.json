@@ -1,0 +1,74 @@
+{
+  "id": "2953_juana_llorca_barcelo",
+  "source_id": "2953",
+  "row_ref": "2953. Juana Llorca Barceló",
+  "name": "Juana Llorca Barceló",
+  "gender": "female",
+  "birth": {
+    "date": "1832-12-25",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2954_miguel_llorca_valero",
+      "508_angela_barcelo_ortiz"
+    ],
+    "father": "2954_miguel_llorca_valero",
+    "mother": "508_angela_barcelo_ortiz",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Llorca Valero",
+      "Angela Barceló Ortíz"
+    ],
+    "father_name": "Miguel Llorca Valero",
+    "mother_name": "Angela Barceló Ortiz",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Miguel Navarro",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 25 de desembre de 1832 a la Ràpita.\n\nPadrins: Miguel Navarro i Dolores Tarragó.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

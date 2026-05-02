@@ -1,0 +1,74 @@
+{
+  "id": "864_raimundo_brunet_monlleo",
+  "source_id": "864",
+  "row_ref": "864. Raimundo Brunet Monlleó",
+  "name": "Raimundo Brunet Monlleó",
+  "gender": "male",
+  "birth": {
+    "date": "1797-08-31",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "855_juan_bautista_brunet_cases",
+      "3441_theresa_monlleo_ortiz"
+    ],
+    "father": "855_juan_bautista_brunet_cases",
+    "mother": "3441_theresa_monlleo_ortiz",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Bautista Brunet Cases",
+      "Theresa Monlleó Ortíz"
+    ],
+    "father_name": "Juan Bautista Brunet Cases",
+    "mother_name": "Theresa Monlleó Ortiz",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Antonio Puchol",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 31 d'agost de 1797 a la Ràpita. \"Bauticé por necesidad\".\n\nPadrins: Antonio Puchol i Rosa Puchol, els dos son de València.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

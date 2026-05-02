@@ -1,0 +1,74 @@
+{
+  "id": "1249_pablo_castella_dalmau",
+  "source_id": "1249",
+  "row_ref": "1249. Pablo Castellà Dalmau",
+  "name": "Pablo Castellà Dalmau",
+  "gender": "male",
+  "birth": {
+    "date": "1801-01-25",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1801-02-10",
+    "place": null
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1343_francisco_castella_zaragoza",
+      "1699_maria_dalmau_fabregat"
+    ],
+    "father": "1343_francisco_castella_zaragoza",
+    "mother": "1699_maria_dalmau_fabregat",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Castellà Zaragoza",
+      "María Dalmau Fabregat"
+    ],
+    "father_name": "Francisco Castellà Zaragoza",
+    "mother_name": "Maria Dalmau Fabregat",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Joseph Antonio Pasqual",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 25 de gener de 1801 a la Ràpita. Es bessó.\n\nPadrins: José Antonio Pasqual i Teresa Matamoros.\n\nDefunció: el 10 de febrer de 1801 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

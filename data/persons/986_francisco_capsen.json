@@ -1,0 +1,68 @@
+{
+  "id": "986_francisco_capsen",
+  "source_id": "986",
+  "row_ref": "986. Francisco Capsen",
+  "name": "Francisco Capsen",
+  "gender": "male",
+  "birth": {
+    "date": "1740-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "El 24 de maig de 1782 Francisco Capsen, médico pasa a esta real población con sueldo de 3000 Rv al año. I li arreglen una casa a la mansana. (ACA BGRP caixa 2).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

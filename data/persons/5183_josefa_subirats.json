@@ -1,0 +1,82 @@
+{
+  "id": "5183_josefa_subirats",
+  "source_id": "5183",
+  "row_ref": "5183. Josefa Subirats",
+  "name": "Josefa Subirats",
+  "gender": "female",
+  "birth": {
+    "date": "1775-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1840-12-04",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "4829_francisco_sancho"
+    ],
+    "children": [
+      "2756_francisca_gueche_subirats",
+      "2757_pedro_gueche_subirats",
+      "4944_paula_sancho_subirats",
+      "4945_maria_sancho_subirats"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Francisco Sancho"
+    ],
+    "children_names": [
+      "Francisca Gueche Subirats",
+      "Pedro Gueche Subirats",
+      "Paula Sancho Subirats",
+      "María Sancho Subirats"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1775]. \n\nCasament: amb Francisco Sancho d'Alcanar [1775].\n\nFills: Paula (Alcanar) [1800] i María (Alcanar) [1805].\n\nDefunció: el 4 de desembre de 1840 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

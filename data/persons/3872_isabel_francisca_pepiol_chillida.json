@@ -1,0 +1,74 @@
+{
+  "id": "3872_isabel_francisca_pepiol_chillida",
+  "source_id": "3872",
+  "row_ref": "3872. Isabel Francisca Pepiol Chillida",
+  "name": "Isabel Francisca Pepiol Chillida",
+  "gender": "female",
+  "birth": {
+    "date": "1838-01-19",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3899_domingo_pepiol_pascual",
+      "1443_teresa_chillida_querol"
+    ],
+    "father": "3899_domingo_pepiol_pascual",
+    "mother": "1443_teresa_chillida_querol",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Domingo Pepiol Pascual",
+      "Teresa Chillida Querol"
+    ],
+    "father_name": "Domingo Pepiol Pasqual",
+    "mother_name": "Teresa Chillida Querol",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Pepiol",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 19 de gener de 1838 a la Ràpita.\n\nPadrins: Francisco Pepiol i Isabel Pepiol.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

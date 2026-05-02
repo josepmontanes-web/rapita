@@ -1,0 +1,78 @@
+{
+  "id": "5556_jose_antonio_vidal_rosales",
+  "source_id": "5556",
+  "row_ref": "5556. José Antonio Vidal Rosales",
+  "name": "José Antonio Vidal Rosales",
+  "gender": "male",
+  "birth": {
+    "date": "1830-04-27",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5588_joaquin_vidal_talarn",
+      "4559_maria_rosales_valls"
+    ],
+    "father": "5588_joaquin_vidal_talarn",
+    "mother": "4559_maria_rosales_valls",
+    "spouse": [
+      "3649_maria_navarro_marti"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Vidal Talarn",
+      "Maria Rosales Valls"
+    ],
+    "father_name": "Joaquín Vidal Talarn",
+    "mother_name": "Maria Rosales Valls",
+    "spouse_names": [
+      "Maria Navarro Martí"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Antonio Rosales",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Marino"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 27 d'abril de 1830 a la Ràpita.\n\nPadrins: José Antonio Rosales i Antonia Castellà.\n\nProfessió: marino.\n\nCasament: el 12 d'abril de 1855 amb María Navarro Martí de la Ràpita [1832]. Testimonis: Vicente Vidal i Rafael Balada.\n\nFills: Joaquín [1856] i Josefa [1857].\n\nCasament: el 30 d'octubre de 1883 amb Maria Rosell Gas de Tortosa [1837].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

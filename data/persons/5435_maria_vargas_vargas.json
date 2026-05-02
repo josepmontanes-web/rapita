@@ -1,0 +1,68 @@
+{
+  "id": "5435_maria_vargas_vargas",
+  "source_id": "5435",
+  "row_ref": "5435. María Vargas Vargas",
+  "name": "María Vargas Vargas",
+  "gender": "female",
+  "birth": {
+    "date": "1846-01-01",
+    "place": "Jaramillo Quemado"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Jaramillo Quemado [aprox. 1846].\n\nCasament: amb Saturnino Sierra Alonso de Contreras (Burgos) [1845].\n\nFills: Emilio [1881].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "3168_manuel_matamoros_biosca",
+  "source_id": "3168",
+  "row_ref": "3168. Manuel Matamoros Biosca",
+  "name": "Manuel Matamoros Biosca",
+  "gender": "male",
+  "birth": {
+    "date": "1816-04-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1820-02-08",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3250_jose_matamoros_reverter",
+      "706_agustina_biosca_cid"
+    ],
+    "father": "3250_jose_matamoros_reverter",
+    "mother": "706_agustina_biosca_cid",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Matamoros Reverter",
+      "Agustina Biosca Cid"
+    ],
+    "father_name": "José Matamoros Reverter",
+    "mother_name": "Agustina Biosca Cid",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Manuel Izquierdo",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'1 d'abril de 1816 a la Ràpita.\n\nPadrí: Manuel Izquierdo.\n\nDefunció: el 8 de febrer de 1820 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "2388_tomas_garzon_pastor",
+  "source_id": "2388",
+  "row_ref": "2388. Tomás Garzón Pastor",
+  "name": "Tomás Garzón Pastor",
+  "gender": "male",
+  "birth": {
+    "date": "1853-01-01",
+    "place": "Villalcampo (Zamora)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2659_tomas_gonzalvo_cervello"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Tomás Gonzalvo Cervelló"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Villalcampo (Zamora) [aprox. 1853].\n\nProfessió: carrabiner.\n\nCasament: amb Tomasa Elena Fernández de Maide (Zamora).\n\nFills: Jaime [1880]. Sap escriure i signa la declaració del fill.\n\nCasament: el 29 de gener de 1885 amb Encarnación Royo Llanes de Santa Magdalena [1846]. Es casa als 31 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

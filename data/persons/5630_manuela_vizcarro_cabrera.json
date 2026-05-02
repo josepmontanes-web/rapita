@@ -1,0 +1,68 @@
+{
+  "id": "5630_manuela_vizcarro_cabrera",
+  "source_id": "5630",
+  "row_ref": "5630. Manuela Vizcarro Cabrera",
+  "name": "Manuela Vizcarro Cabrera",
+  "gender": "female",
+  "birth": {
+    "date": "1893-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1893].\n\nCasament: amb Benito Zaragoza Sol [1890].\n\nFills: Paca [1920], Pepito [1925] i Manola [1933].\n\nDefunció: 1983.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

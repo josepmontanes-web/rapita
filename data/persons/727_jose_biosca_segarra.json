@@ -1,0 +1,77 @@
+{
+  "id": "727_jose_biosca_segarra",
+  "source_id": "727",
+  "row_ref": "727. José Biosca Segarra",
+  "name": "José Biosca Segarra",
+  "gender": "male",
+  "birth": {
+    "date": "1743-01-01",
+    "place": "Freginals"
+  },
+  "death": {
+    "date": "1827-11-08",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "707_pedro_biosca_cid"
+    ],
+    "father": "707_pedro_biosca_cid",
+    "mother": null,
+    "spouse": [
+      "1488_josefa_cid_beltri"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Biosca Cid",
+      "Bernarda Segarra"
+    ],
+    "father_name": "Pedro Biosca",
+    "mother_name": "Bernarda Segarra",
+    "spouse_names": [
+      "Josefa Cid Beltri"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Freginals [aprox. 1743].\n\nCasament: el 20 de maig de 1776 a La Galera del Pla amb Josefa Cid Beltri de les Planes de la Galera [1745].\n\nFills: José [1780], Agustina (Freginals) [aprox 1785], Pedro (Freginals) [aprox 1789] i Josefa [aprox 1794].\n\nAl juliol de 1780 consta un Josef Biosca que treballa a una de les brigades de treballadors de les obres del Canal de Navegació (ACA BGRP caixa 43).\n\nA l'estat de veïns de setembre de 1798 diu que viuen a la casa núm. 7 de la \"Calle Mayor\" (ACA BGRP Cajas 34).\n\nDefunció: el 8 de novembre de 1827 a la Ràpita. Va morir als 84 anys de \"mal apropletico\".\n\nJosé Biosca, pagès domiciliat a SC des de setembre de 1794, té casa i terres als Freginals. Les terres les cuida ell i hi pasa temporadas per la colita i recol·lecció dels fruits. Hi va amb dues tossines i l’agafen pres pk diuen que només hi poden pasturar els animals dels veins de Freginals, que no importa que tingui terres allí, si viu fora no té dret a pasturar. Ha de pagar fiança per sortir de la presó. Com no sap firmar, firma per ell Joaquín Lopez.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

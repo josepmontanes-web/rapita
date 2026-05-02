@@ -1,0 +1,78 @@
+{
+  "id": "2058_timoteo_ferrer_marti",
+  "source_id": "2058",
+  "row_ref": "2058. Timoteo Ferrer Martí",
+  "name": "Timoteo Ferrer Martí",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2103_francisco_ferrer_sorolla",
+      "3111_salvadora_marti"
+    ],
+    "father": "2103_francisco_ferrer_sorolla",
+    "mother": "3111_salvadora_marti",
+    "spouse": [
+      "2959_teresa_llorens_aribau"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Ferrer Sorolla",
+      "Salvadora Martí"
+    ],
+    "father_name": "Francisco Ferrer Sorolla",
+    "mother_name": "Salvadora Martí",
+    "spouse_names": [
+      "Teresa Llorens Aribau"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1800].\n\nCasament: l'11 de maig de 1822 amb Teresa Llorens Aribau d'Igualada [1800].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

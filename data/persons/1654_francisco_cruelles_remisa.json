@@ -1,0 +1,89 @@
+{
+  "id": "1654_francisco_cruelles_remisa",
+  "source_id": "1654",
+  "row_ref": "1654. Francisco Cruelles Remisa",
+  "name": "Francisco Cruelles Remisa",
+  "gender": "male",
+  "birth": {
+    "date": "1770-01-01",
+    "place": "Llissà d'Amunt"
+  },
+  "death": {
+    "date": "1827-01-14",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "4341_matilde_reverter_sancho",
+      "293_josefa_arroyo_perez",
+      "5202_bernarda_subirats_miro"
+    ],
+    "children": [
+      "1647_francisco_cruelles_gras",
+      "1655_francisca_cruelles_reverter",
+      "1656_cipriano_cruelles_reverter",
+      "1657_bonifacio_cruelles_reverter"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Jayme Cruelles Riera",
+      "Coloma Remisa"
+    ],
+    "father_name": "Jayme Cruelles Riera",
+    "mother_name": "Coloma Remisa",
+    "spouse_names": [
+      "Matilde Reverter Sancho",
+      "Josefa Arroyo Pérez",
+      "Bernarda Subirats Miró"
+    ],
+    "children_names": [
+      "Francisco Cruelles Gras",
+      "Francisca Cruelles Reverter",
+      "Cipriano Cruelles Reverter",
+      "Bonifacio Cruelles Reverter"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès i \"Dependiente de Rentas del Resguardo\"."
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Lliçà d'Amunt [aprox. 1770].\n\nProfessió: \"Dependiente de Rentas del Resguardo\".\n\nApareix un Francisco Cruelles que paga censos a les monges per 18 jornals de terra a Coves de la Sansa, i un altre Francisco Cruelles soldado, que paga per 4 jornals.\n\nCasament: el 16 d'agost de 1798 amb Rafaela Gras Gil d'Ulldecona [1779].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Mansana Vella núm. 15 (ACA BGRP Cajas 34). Al gener de 1799 paga 9 Rv de lloguer per la mateixa casa. Consta com a Francisco Cruells marit de Rosa Gras.\n\nFills: Francisco [1800].\n\nCasament: el 28 de setembre de 1821 amb Josefa Arroyo Pérez de València [1779]. Quan es casa diu que es vidu de Rafaela Gras.\n\nCasament: el 2 d'agost de 1828 amb Bernarda Subirats Miró de Freginals [1780]. Quan es casa amb Bernarda Subirats diu que era marit de Peregrina Royo.\n\nA una escritura de 1828 diu que Bernarda Subirats està casada amb Francisco Cruells. Al 9 de novembre de 1829 Bernarda Subirats compra un pati a les Monges i diu que es vidua de Francisco Cruells. \n\nDe l'1 de juliol de 1834 al 30 de juny de 1839 Francisco Cruells ha de pagar un lloguer de 8 Rs mensuals pel pis de terra de la dreta de la casa 4 de la mançana 2. (AGP.PER.LEG.1073/23 [Juan Vecino]).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

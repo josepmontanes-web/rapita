@@ -1,0 +1,71 @@
+{
+  "id": "5187_teresa_subirats_bellubi",
+  "source_id": "5187",
+  "row_ref": "5187. Teresa Subirats Bellubí",
+  "name": "Teresa Subirats Bellubí",
+  "gender": "female",
+  "birth": {
+    "date": "1825-01-01",
+    "place": "Godall"
+  },
+  "death": {
+    "date": "1840-09-22",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Julián Subirats",
+      "Teresa Bellubí"
+    ],
+    "father_name": "Julián Subirats",
+    "mother_name": "Teresa Bellubí",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Godall [aprox. 1825]. \n\nDefunció: el 22 de setembre de 1840 a la Ràpita. Va morir donzella.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "76_mª_de_la_cinta_alegret_murall",
+  "source_id": "76",
+  "row_ref": "76. Mª.de la Cinta Alegret Murall",
+  "name": "Mª.de la Cinta Alegret Murall",
+  "gender": "female",
+  "birth": {
+    "date": "1811-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1823-07-09",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "79_christobal_alegret_riba"
+    ],
+    "father": "79_christobal_alegret_riba",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Christobal Alegret Riba",
+      "Teresa Murall"
+    ],
+    "father_name": "Christobal Alegret",
+    "mother_name": "Teresa Murall",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  a Tortosa [aprox. 1811].\n\nDefunció: el 9 de juliol de 1823 a la Ràpita. \"Murió a los 12 años de muerte natural\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

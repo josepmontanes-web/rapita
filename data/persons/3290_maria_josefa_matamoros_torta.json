@@ -1,0 +1,73 @@
+{
+  "id": "3290_maria_josefa_matamoros_torta",
+  "source_id": "3290",
+  "row_ref": "3290. María Josefa Matamoros Torta",
+  "name": "María Josefa Matamoros Torta",
+  "gender": "female",
+  "birth": {
+    "date": "1837-04-10",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1839-07-17",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5392_manuela_torta_subirats"
+    ],
+    "father": null,
+    "mother": "5392_manuela_torta_subirats",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Matamoros Biosca",
+      "Manuela Torta Subirats"
+    ],
+    "father_name": "Josef Matamoros Biosca",
+    "mother_name": "Manuela Torta Subirats",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Josef Biosca",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 10 d'abril de 1837 a la Ràpita.\n\nPadrins: José Biosca i María Biosca.\n\nDefunció: el 17 de juliol de 1839 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "id": "2320_francisco_garcia_garcia",
+  "source_id": "2320",
+  "row_ref": "2320. Francisco García García",
+  "name": "Francisco García García",
+  "gender": "male",
+  "birth": {
+    "date": "1760-01-01",
+    "place": "Hevia-Siers-Asturias"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2302_andres_garcia_beltran"
+    ],
+    "father": "2302_andres_garcia_beltran",
+    "mother": null,
+    "spouse": [
+      "4557_teresa_rosales_valls"
+    ],
+    "children": [
+      "2359_francisco_garcia_rosales",
+      "2360_pedro_garcia_rosales",
+      "2361_maria_luisa_garcia_rosales"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Andrés García Beltrán",
+      "Bernarda García"
+    ],
+    "father_name": "Andrés García",
+    "mother_name": "Bernarda García",
+    "spouse_names": [
+      "Teresa Rosales Valls"
+    ],
+    "children_names": [
+      "Francisco García Rosales",
+      "Pedro García Rosales",
+      "María Luísa García Rosales"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Ministre del resguard"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Hevia-Siero (Asturias) [aprox. 1760].\n\nProfessió: \"Ministro del Resguardo\".\n\nCasament: el 29 de desembre de 1804 amb Teresa Rosales Valls d'Amposta [1783]. Es casa als 44 anys.\n\nFills: Francisco [1806], María Luísa [1808] i Pedro [1810].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

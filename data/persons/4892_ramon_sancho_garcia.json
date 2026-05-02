@@ -1,0 +1,86 @@
+{
+  "id": "4892_ramon_sancho_garcia",
+  "source_id": "4892",
+  "row_ref": "4892. Ramón Sancho García",
+  "name": "Ramón Sancho García",
+  "gender": "male",
+  "birth": {
+    "date": "1801-03-13",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4876_agustin_sancho_fibla",
+      "2343_susana_garcia_lafont"
+    ],
+    "father": "4876_agustin_sancho_fibla",
+    "mother": "2343_susana_garcia_lafont",
+    "spouse": [
+      "4421_antonia_ripoll_ivanes"
+    ],
+    "children": [
+      "4925_miguela_sancho_ripoll",
+      "4926_ramon_sancho_ripoll",
+      "4927_cecilia_sancho_ripoll"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustín Sancho Fibla",
+      "Susana García Lafont"
+    ],
+    "father_name": "Agustín Sancho Fibla",
+    "mother_name": "Susana García Lafont",
+    "spouse_names": [
+      "Antonia Ripoll Ivañes"
+    ],
+    "children_names": [
+      "Miguela Sancho Ripoll",
+      "Ramón Sancho Ripoll",
+      "Cecilia Sancho Ripoll"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Ramón Martín",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 13 de març de 1801 a la Ràpita.\n\nPadrí: Ramón Martín \"sargento del regimiento de Algarve\".\n\nCasament: amb Antonia Ripoll Ivañes de Vinaròs [1800].\n\nFills: Miguela [1820], Ramón [1829] i Cecilia [1831].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

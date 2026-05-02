@@ -1,0 +1,73 @@
+{
+  "id": "5027_bautista_santos_chale",
+  "source_id": "5027",
+  "row_ref": "5027. Bautista Santos Chalé",
+  "name": "Bautista Santos Chalé",
+  "gender": "male",
+  "birth": {
+    "date": "1816-01-01",
+    "place": "Castelló"
+  },
+  "death": {
+    "date": "1831-10-17",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5028_sebastian_santos_forne"
+    ],
+    "father": "5028_sebastian_santos_forne",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Sebastián Santos Forné",
+      "Agustina Chalé"
+    ],
+    "father_name": "Sebastián Santos",
+    "mother_name": "Agustina Chalé",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Castelló [aprox. 1816]. \n\nDefunció: el 17 d'octubre de 1831 a la Ràpita. Va morir als 15 anys de \"hidropecia\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

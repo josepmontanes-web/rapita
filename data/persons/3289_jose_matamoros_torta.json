@@ -1,0 +1,74 @@
+{
+  "id": "3289_jose_matamoros_torta",
+  "source_id": "3289",
+  "row_ref": "3289. José Matamoros Torta",
+  "name": "José Matamoros Torta",
+  "gender": "male",
+  "birth": {
+    "date": "1835-03-28",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3171_jose_matamoros_biosca",
+      "5392_manuela_torta_subirats"
+    ],
+    "father": "3171_jose_matamoros_biosca",
+    "mother": "5392_manuela_torta_subirats",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Matamoros Biosca",
+      "Manuela Torta Subirats"
+    ],
+    "father_name": "José Matamoros Biosca",
+    "mother_name": "Manuela Torta Subirats",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Matamoros",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 28 de març de 1835 a la Ràpita.\n\nPadrins: José Matamoros i Teresa Subirats (iaios).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

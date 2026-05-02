@@ -1,0 +1,74 @@
+{
+  "id": "5328_francisco_torralva_zaragoza",
+  "source_id": "5328",
+  "row_ref": "5328. Francisco Torralva Zaragoza",
+  "name": "Francisco Torralva Zaragoza",
+  "gender": "male",
+  "birth": {
+    "date": "1781-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1792-06-20",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5325_angelo_torralva_claramunt",
+      "5671_vicenta_zaragoza_ripolles"
+    ],
+    "father": "5325_angelo_torralva_claramunt",
+    "mother": "5671_vicenta_zaragoza_ripolles",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Angelo Torralva Claramunt",
+      "Vicenta Zaragoza Ripollés"
+    ],
+    "father_name": "Angelo Torralva Claramunt",
+    "mother_name": "Vicenta Zaragoza Ripollés",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1781].\n\nDefunció: el 20 de juny de 1792 a la Ràpita. Va morir als 11 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

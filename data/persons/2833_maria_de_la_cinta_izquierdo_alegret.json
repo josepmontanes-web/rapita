@@ -1,0 +1,68 @@
+{
+  "id": "2833_maria_de_la_cinta_izquierdo_alegret",
+  "source_id": "2833",
+  "row_ref": "2833. María de la Cinta Izquierdo Alegret",
+  "name": "María de la Cinta Izquierdo Alegret",
+  "gender": "female",
+  "birth": {
+    "date": "1850-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1850].\n\nCasament: amb Manuel Izquierdo.\n\nCasament: el 5 de juny de 1871 amb Sebastián Giner Cervera de Vinaròs [1850].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "4203_lorenza_reverter_balaguer",
+  "source_id": "4203",
+  "row_ref": "4203. Lorenza Reverter Balaguer",
+  "name": "Lorenza Reverter Balaguer",
+  "gender": "female",
+  "birth": {
+    "date": "1812-11-12",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4340_jose_reverter_sancho",
+      "425_sevina_o_ceferina_balaguer_esteller"
+    ],
+    "father": "4340_jose_reverter_sancho",
+    "mother": "425_sevina_o_ceferina_balaguer_esteller",
+    "spouse": [
+      "4049_francisco_puig_puig"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Reverter Sancho",
+      "Sevina [o Ceferina] Balaguer Esteller"
+    ],
+    "father_name": "José Reverter Sancho",
+    "mother_name": "Sevina Balaguer Esteller",
+    "spouse_names": [
+      "Francisco Puig Puig",
+      "Domingo Pepiol Pasqual"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Adell",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 12 de novembre de 1812 a la Ràpita.\n\nPadrins: José Adell i Vicenta Pascual.\n\nPodria haver tingut una filla abans de casarse: María Ana Narcisa Reverter [1836], però no es segur.\n\nCasament: el 20 de maig de 1841 amb Francisco Puig Puig de Vilaseca [1810].\n\nFills: Mariana [1845].\n\nCasament: el 17 de maig de 1854 amb Domingo Pepiol Pasqual de la Ràpita [1808]. Testimonis: Casimiro Míes i Juan Aragonés.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "3660_francisca_navarro_paulo",
+  "source_id": "3660",
+  "row_ref": "3660. Francisca Navarro Paulo",
+  "name": "Francisca Navarro Paulo",
+  "gender": "female",
+  "birth": {
+    "date": "1786-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3592_francisco_navarro",
+      "3850_manuela_paulo"
+    ],
+    "father": "3592_francisco_navarro",
+    "mother": "3850_manuela_paulo",
+    "spouse": [],
+    "children": [
+      "13_francisco_accensi_navarro",
+      "14_maria_agustina_francisca_accensi_o_asensi_navarro",
+      "15_mariana_o_maria_anna_accensi_o_asensi_navarro",
+      "16_josef_manuel_benito_accensi_o_aucenci_navarro"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Navarro",
+      "Manuela Paulo"
+    ],
+    "father_name": "Francisco Navarro",
+    "mother_name": "Manuela Paulo",
+    "spouse_names": [
+      "José Ascensi Sancho"
+    ],
+    "children_names": [
+      "Francisco Accensi Navarro",
+      "Maria Agustina Francisca Accensi [o Asensi] Navarro",
+      "Mariana [o Maria Anna] Accensi [o Asensi] Navarro",
+      "Josef Manuel Benito Accensi [o Aucenci] Navarro"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1786]. \n\nCasament: el 20 de febrer de 1806 amb José Antonio Ascensi Sancho de Freginals [1785]. Es casa als 19 anys.\n\nFills: Francisco [1808], María [1812], Mariana [1815] i José [1818].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

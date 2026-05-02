@@ -1,0 +1,80 @@
+{
+  "id": "425_sevina_o_ceferina_balaguer_esteller",
+  "source_id": "425",
+  "row_ref": "425. Sevina [o Ceferina] Balaguer Esteller",
+  "name": "Sevina [o Ceferina] Balaguer Esteller",
+  "gender": "female",
+  "birth": {
+    "date": "1777-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1847-05-08",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "4202_maria_reverter_balaguer",
+      "4203_lorenza_reverter_balaguer",
+      "4204_vicenta_reverter_balaguer",
+      "4205_josefa_reverter_balaguer"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "José Reverter Sancho"
+    ],
+    "children_names": [
+      "María Reverter Balaguer",
+      "Lorenza Reverter Balaguer",
+      "Vicenta Reverter Balaguer",
+      "Josefa Reverter Balaguer"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1777].\n\nCasament: amb José Reverter Sancho d'Alcanar [1787].\n\nFills: María [1807], Vicenta [1810], Lorenza [1812], Rosa [1816] i Josefa [1819].\n\nDefunció: el 8 de maig de 1847 a la Ràpita. Va morir als 70 anys de terciana.\n\nPodria ser germana d'Antonia Balaguer Esteller [1780].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "4640_jose_safont_pla",
+  "source_id": "4640",
+  "row_ref": "4640. José Safont Pla",
+  "name": "José Safont Pla",
+  "gender": "male",
+  "birth": {
+    "date": "1773-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1824-01-29",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4632_jose_safont_gimeno",
+      "3977_maria_pla"
+    ],
+    "father": "4632_jose_safont_gimeno",
+    "mother": "3977_maria_pla",
+    "spouse": [
+      "3824_mariana_pascual_fuster"
+    ],
+    "children": [
+      "4637_mariano_safon_pasqual",
+      "4638_pedro_safont_pasqual",
+      "4639_maria_safont_pasqual"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Safont Gimeno",
+      "María Pla"
+    ],
+    "father_name": "José Safont Gimeno",
+    "mother_name": "Maria Pla",
+    "spouse_names": [
+      "Mariana Pascual Fuster"
+    ],
+    "children_names": [
+      "Mariano Safon Pasqual",
+      "Pedro Safont Pasqual",
+      "María Safont Pasqual"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1773]. \n\nProfessió: pagès.\n\nCasament: el 5 de gener de 1799 amb Mariana Pascual Fuster de Vinaròs [1779].\n\nFills: Mariano [1800], Tomás [1806], Teresa [1809], María [1813] i Pedro [1817].\n\nDel gener de 1807 i com a mínim al desembre de 1807 paga un lloguer de 4 Rs mensuals per la casa 2 de la Fonda Vella.\n\nDefunció: el 29 de gener de 1824 a la Ràpita. Va morir als 50 anys de \"muerte natural\". \"No hizo testamento por no tener que testar\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

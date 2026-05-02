@@ -1,0 +1,91 @@
+{
+  "id": "1358_rosa_caubet_rodriguez",
+  "source_id": "1358",
+  "row_ref": "1358. Rosa Caubet Rodríguez",
+  "name": "Rosa Caubet Rodríguez",
+  "gender": "female",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4446_tomasa_rodriguez"
+    ],
+    "father": null,
+    "mother": "4446_tomasa_rodriguez",
+    "spouse": [
+      "4318_miguel_reverter_queralt"
+    ],
+    "children": [
+      "4215_paula_reverter_caubet",
+      "4216_maria_francisca_reverter_caubet",
+      "4217_antonia_reverter_caubet",
+      "4218_jose_reverter_caubet",
+      "4219_vicenta_leonor_reverte_caubet",
+      "4220_mariano_reverter_caubet"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Caubet o Calbet",
+      "Tomasa Rodriguez"
+    ],
+    "father_name": "Pedro Caubet o Calbet",
+    "mother_name": "Tomasa Rodríguez",
+    "spouse_names": [
+      "Miguel Reverter Queralt"
+    ],
+    "children_names": [
+      "Paula Reverter Caubet",
+      "Maria Francisca Reverter Caubet",
+      "Antonia Reverter Caubet",
+      "José Reverter Caubet",
+      "Vicenta Leonor Reverté Caubet",
+      "Mariano Reverter Caubet"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1800].\n\nCasament: amb Miguel Reverter Queralt d'Alcanar [1787].\n\nFills: José [1823], Antonia Teresa [1824], Paula [1827], María Francisca [1827], Vicenta Leonor [1829], Mariano [1831] i Antonia [1834].\n\nEs germana de Josefa Caubet Rodríguez [1810].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

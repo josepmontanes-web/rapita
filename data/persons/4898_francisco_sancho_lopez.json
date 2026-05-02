@@ -1,0 +1,74 @@
+{
+  "id": "4898_francisco_sancho_lopez",
+  "source_id": "4898",
+  "row_ref": "4898. Francisco Sancho López",
+  "name": "Francisco Sancho López",
+  "gender": "male",
+  "birth": {
+    "date": "1843-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1845-08-15",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4920_miguel_sancho_querol",
+      "2994_antonia_lopez_ferran"
+    ],
+    "father": "4920_miguel_sancho_querol",
+    "mother": "2994_antonia_lopez_ferran",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Sancho Querol",
+      "Antonia López Ferrán"
+    ],
+    "father_name": "Miguel Sancho Querol",
+    "mother_name": "Antonia López Ferrán",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1843]. \n\nDefunció: el 15 d'agost de 1845 a la Ràpita. Va morir als 2 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

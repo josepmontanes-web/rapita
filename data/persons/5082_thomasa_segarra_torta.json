@@ -1,0 +1,71 @@
+{
+  "id": "5082_thomasa_segarra_torta",
+  "source_id": "5082",
+  "row_ref": "5082. Thomasa Segarra Torta",
+  "name": "Thomasa Segarra Torta",
+  "gender": "female",
+  "birth": {
+    "date": "1838-03-27",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Segarra Miralles",
+      "Tomasa Torta Llazat"
+    ],
+    "father_name": "Josef Segarra Miralles",
+    "mother_name": "Tomasa Torta Llazat",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Tomás Torta",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 27 de març de 1838 a la Ràpita.\n\nPadrins: Tomás Torta i Francisca Reverter.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

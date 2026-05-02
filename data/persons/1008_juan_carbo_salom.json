@@ -1,0 +1,74 @@
+{
+  "id": "1008_juan_carbo_salom",
+  "source_id": "1008",
+  "row_ref": "1008. Juan Carbó Salom",
+  "name": "Juan Carbó Salom",
+  "gender": "male",
+  "birth": {
+    "date": "1816-01-23",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1833-06-16",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1003_juan_carbo_fibla",
+      "4655_francisca_salom_ponset"
+    ],
+    "father": "1003_juan_carbo_fibla",
+    "mother": "4655_francisca_salom_ponset",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Carbó Fibla",
+      "Francisca Salom Ponset"
+    ],
+    "father_name": "Juan Carbó Fibla",
+    "mother_name": "Francisca Salom Ponset",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Thomas Borràs",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 23 de gener de 1816 a la Ràpita.\n\nPadrins: Tomás Borràs i Rosa Talarn.\n\nDefunció: el 16 de juny de 1833 a la Ràpita. Va morir fadrí als 17 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

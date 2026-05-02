@@ -1,0 +1,77 @@
+{
+  "id": "3681_josefa_navarro_torne",
+  "source_id": "3681",
+  "row_ref": "3681. Josefa Navarro Torné",
+  "name": "Josefa Navarro Torné",
+  "gender": "female",
+  "birth": {
+    "date": "1830-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3595_joaquin_navarro"
+    ],
+    "father": "3595_joaquin_navarro",
+    "mother": null,
+    "spouse": [
+      "1630_manuel_cristofol_moreso"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Navarro",
+      "Merced Torné"
+    ],
+    "father_name": "Joaquín Navarro",
+    "mother_name": "Merced Torné",
+    "spouse_names": [
+      "Manuel Cristofol Moreso"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1830]. \n\nCasament: el 12 de desembre de 1853 amb Manuel Cristofol Moreso [1829]. Testimonis: Casimiro Míes i Francisco María Torné.\n\nEs germana de Joaquín Navarro Torné [1835].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

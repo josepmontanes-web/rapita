@@ -1,0 +1,72 @@
+{
+  "id": "962_agustin_canicio_goday",
+  "source_id": "962",
+  "row_ref": "962. Agustín Canicio Goday",
+  "name": "Agustín Canicio Goday",
+  "gender": "male",
+  "birth": {
+    "date": "1874-03-13",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2602_pablo_goday_andreu"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Pablo Goday Andreu"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 13 de març de 1874 a la Ràpita.\n\nFills: Eusebi, Mercé, Rosa, Josep Roger i Matilde.\n\nDefunció: el 22 d'abril de 1935 a Barcelona. Va viure al carrer Pi i Margall. Alcalde de la Ràpita de 1914 a 1917.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "98_francisca_andreu_puigol",
+  "source_id": "98",
+  "row_ref": "98. Francisca Andreu Puigol",
+  "name": "Francisca Andreu Puigol",
+  "gender": "female",
+  "birth": {
+    "date": "1770-01-01",
+    "place": "Benissanet"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3097_francisco_march_casals"
+    ],
+    "children": [
+      "3095_rosa_march_andreu",
+      "3096_maria_francisca_march_andreu"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Ramón Andreu",
+      "Rosa Puigol"
+    ],
+    "father_name": "Ramón Andreu",
+    "mother_name": "Rosa Puigol",
+    "spouse_names": [
+      "Francisco March Casals"
+    ],
+    "children_names": [
+      "Rosa March Andreu",
+      "María Francisca March Andreu"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Benissanet [aprox. 1770].\n\nCasament: el 6 de maig de 1791 amb Francisco March Casals de Mont-roig (Tarragona) [1771].\n\nFills: Rosa [1792] i María Francisca [1795].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

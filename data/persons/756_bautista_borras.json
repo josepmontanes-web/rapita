@@ -1,0 +1,76 @@
+{
+  "id": "756_bautista_borras",
+  "source_id": "756",
+  "row_ref": "756. Bautista Borràs",
+  "name": "Bautista Borràs",
+  "gender": "male",
+  "birth": {
+    "date": "1770-01-01",
+    "place": "Xerta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "761_francisca_antonia_borras_brunet",
+      "762_josefa_borras_brunet",
+      "788_tomas_borras_pauls"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Francisca Antonia Borràs Brunet",
+      "Josefa Borràs Brunet",
+      "Tomas Borràs Pauls"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Xerta [aprox. 1770].\n\nCasament: amb Teresa Brunet Cases de Xerta [1768].\n\nFills: Francisca Antonia (Xerta) [aprox 1800] i Josefa [aprox 1809].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

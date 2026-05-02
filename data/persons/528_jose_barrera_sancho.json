@@ -1,0 +1,78 @@
+{
+  "id": "528_jose_barrera_sancho",
+  "source_id": "528",
+  "row_ref": "528. José Barrera Sancho",
+  "name": "José Barrera Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "513_manuel_barrera",
+      "4828_josefa_sancho"
+    ],
+    "father": "513_manuel_barrera",
+    "mother": "4828_josefa_sancho",
+    "spouse": [
+      "2139_josefa_fibla_reverte"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel Barrera",
+      "Josefa Sancho"
+    ],
+    "father_name": "Manuel Barrera",
+    "mother_name": "Josefa Sancho",
+    "spouse_names": [
+      "Josefa Fibla Reverté"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  a Alcanar [aprox. 1820].\n\nCasament: el 9 de gener de 1847 amb Josefa Fibla Reverté d'Alcanar [1825].\n\nFills: María [1850], Bautista [1848], Josefa [1849] i Teresa [1850].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "2248_agustin_domingo_fornesa_roca",
+  "source_id": "2248",
+  "row_ref": "2248. Agustín Domingo Fornesa Roca",
+  "name": "Agustín Domingo Fornesa Roca",
+  "gender": "male",
+  "birth": {
+    "date": "1830-07-19",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2242_jose_fornesa_prado_de_ulloa"
+    ],
+    "father": "2242_jose_fornesa_prado_de_ulloa",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Fornesa Prado de Ulloa",
+      "Vicenta Roca Molits"
+    ],
+    "father_name": "José Fornesa Prados",
+    "mother_name": "Vicenta Roca Molits",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Domingo Roca",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 19 de juliol de 1830 a la Ràpita.\n\nPadrins: Domingo Roca i Gertrudis Ruíz.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

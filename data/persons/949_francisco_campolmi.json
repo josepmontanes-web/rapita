@@ -1,0 +1,74 @@
+{
+  "id": "949_francisco_campolmi",
+  "source_id": "949",
+  "row_ref": "949. Francisco Campolmi",
+  "name": "Francisco Campolmi",
+  "gender": "male",
+  "birth": {
+    "date": "1752-01-01",
+    "place": "Nàpols"
+  },
+  "death": {
+    "date": "1807-07-04",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "950_alexandro_campolmi_vernis"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Margarida Vernis"
+    ],
+    "children_names": [
+      "Alexandro Campolmi Vernis"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Botiguer"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Portici (Nàpols) [aprox. 1752].\n\nProfessió: botiguer.\n\nCasament: amb Margarida Vernis [o Bernís] de Reus [1750].\n\nFills: Alexandro (Vinaròs) [1780].\n\nA l'estat de veïns de setembre de 1798 diu que viuen a la casa Fonda núm. 5 i 6 de la \"Calle Mayor\" (ACA BGRP Cajas 34).\n\nTé arrendades les fondes de San Carlos, Amposta i la de l'altra banda del riu. El 9 de novembre de 1804 signa un contracte d'arrendament de la fonda i de la botiga per 10 anys per 200 Rs mensuals. Al 1805 fa 19 anys seguit que té l'arrendament de la fonda. Al morir el pare, el seu fill Alexandro demana que se li mantingui l'arrendament. (ACA BGRP caixa 58).\n\nDefunció: el 4 de juliol de 1807 a la Ràpita. No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

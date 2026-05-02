@@ -1,0 +1,73 @@
+{
+  "id": "5174_sebastiana_solsona_ribera",
+  "source_id": "5174",
+  "row_ref": "5174. Sebastiana Solsona Ribera",
+  "name": "Sebastiana Solsona Ribera",
+  "gender": "female",
+  "birth": {
+    "date": "1829-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1830-07-06",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5173_bartolome_solsona_miralles"
+    ],
+    "father": "5173_bartolome_solsona_miralles",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bartolomé Solsona Miralles",
+      "Ignés Ribera"
+    ],
+    "father_name": "Bartolomé Solsona",
+    "mother_name": "Ignés Ribera",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1829]. \n\nDefunció: el 7 de juny de 1830 a la Ràpita. Va morir al any i mig de \"espasmo\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

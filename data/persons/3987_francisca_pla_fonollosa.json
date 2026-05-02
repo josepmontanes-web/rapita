@@ -1,0 +1,87 @@
+{
+  "id": "3987_francisca_pla_fonollosa",
+  "source_id": "3987",
+  "row_ref": "3987. Francisca Pla Fonollosa",
+  "name": "Francisca Pla Fonollosa",
+  "gender": "female",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Rossell"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "108_vicente_enguera_o_anguera_pla"
+    ],
+    "father": "108_vicente_enguera_o_anguera_pla",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "105_mariano_enguera_o_anguera_pla",
+      "106_andres_enguera_o_anguera_pla",
+      "107_miguel_enguera_o_anguera_pla",
+      "108_vicente_enguera_o_anguera_pla",
+      "109_mariana_enguera_o_anguera_pla"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Enguera [o Anguera] Pla",
+      "Josefa Fonollosa"
+    ],
+    "father_name": "Vicente Pla",
+    "mother_name": "Josefa Fonollosa",
+    "spouse_names": [
+      "Sebastián Enguera Sancho"
+    ],
+    "children_names": [
+      "Mariano Enguera [o Anguera] Pla",
+      "Andrés Enguera [o Anguera] Pla",
+      "Miguel Enguera [o Anguera] Pla",
+      "Vicente Enguera [o Anguera] Pla",
+      "Mariana Enguera [o Anguera] Pla"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Rossell [aprox. 1810]. \n\nCasament: el 22 d'abril de 1830 amb Sebastián Anguera Sancho de la Ràpita [1801].\n\nFills: Mariano [1831], Andrés [1833], Miguel [1836], Vicente [1840], Mariana [1840], Manuel [1845] i Josefa [1845].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

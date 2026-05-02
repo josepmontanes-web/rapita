@@ -1,0 +1,74 @@
+{
+  "id": "1047_mariana_cartes",
+  "source_id": "1047",
+  "row_ref": "1047. Mariana Cartes",
+  "name": "Mariana Cartes",
+  "gender": "female",
+  "birth": {
+    "date": "1780-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "5655_jose_zaragoza_cartes",
+      "5656_joaquin_zaragoza_cartes"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "José Zaragoza Cartes",
+      "Joaquín Zaragoza Cartes"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1780].\n\nCasament: amb José Zaragoza Carbó [1780].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu al barri dels pescadors  (ACA BGRP Cajas 34).\n\nFills: Joaquín [1815] i José [1817].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

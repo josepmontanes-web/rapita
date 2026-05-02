@@ -1,0 +1,71 @@
+{
+  "id": "1767_miguel_domingo_simon",
+  "source_id": "1767",
+  "row_ref": "1767. Miguel Domingo Simón",
+  "name": "Miguel Domingo Simón",
+  "gender": "male",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Bañón de Calamocha (Zar.)"
+  },
+  "death": {
+    "date": "1844-07-10",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Benito Domingo",
+      "Josefa Simón"
+    ],
+    "father_name": "Benito Domingo",
+    "mother_name": "Josefa Simón",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Soldat"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Bañón (Terol) [aprox. 1820].\n\n\"Soldado de la compañía de cazadores del primer batallón del regimiento de Extremadura número 15\".\n\nDefunció: el 10 de juliol de 1844 a la Ràpita. Va morir fadrí.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

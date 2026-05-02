@@ -1,0 +1,76 @@
+{
+  "id": "1403_juan_chaire_o_chire",
+  "source_id": "1403",
+  "row_ref": "1403. Juan Chaire o Chire",
+  "name": "Juan Chaire o Chire",
+  "gender": "male",
+  "birth": {
+    "date": "1775-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "2558_francisca_gine"
+    ],
+    "children": [
+      "1402_alexandra_matilda_chaire_gine"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Francisca Giné"
+    ],
+    "children_names": [
+      "Alexandra Matilda Chaire Gine"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Soldat"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1775].\n\nSoldat suís.\n\nCasament: amb Francisca Giné.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

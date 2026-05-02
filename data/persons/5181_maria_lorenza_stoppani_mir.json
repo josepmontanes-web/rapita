@@ -1,0 +1,71 @@
+{
+  "id": "5181_maria_lorenza_stoppani_mir",
+  "source_id": "5181",
+  "row_ref": "5181. María Lorenza Stoppani Mir",
+  "name": "María Lorenza Stoppani Mir",
+  "gender": "female",
+  "birth": {
+    "date": "1796-09-19",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Don Francisco Sttopani Bianchi",
+      "María Antonia Mir Alejandro"
+    ],
+    "father_name": "Don Francisco Sttopani Bianchi",
+    "mother_name": "María Antonia Mir Alejandro",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Lorenzo Casadevall",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 19 de setembre de 1796 a la Ràpita.\n\nPadrins: Don Lorenzo Casadevall i Doña Rosa Alejandro.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

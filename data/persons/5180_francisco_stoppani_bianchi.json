@@ -1,0 +1,73 @@
+{
+  "id": "5180_francisco_stoppani_bianchi",
+  "source_id": "5180",
+  "row_ref": "5180. Francisco Stoppani Bianchi",
+  "name": "Francisco Stoppani Bianchi",
+  "gender": "male",
+  "birth": {
+    "date": "1764-01-01",
+    "place": "Muronico (Como, Milán)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Lorenzo Stopanni",
+      "Mª. Antonia Bianchi"
+    ],
+    "father_name": "Lorenzo Stopanni",
+    "mother_name": "Mª. Antonia Bianchi",
+    "spouse_names": [
+      "Dª Antonia Mir Alejandro"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Muronico (Obispado de Como - Italia) [aprox. 1764]. Arriba a la Ràpita al 1782.\n\nProfessió: \"Geometra de los Reales Establecimientos de San Carlos . Comisionado para el señalamiento de la carretera que pasa al lado del canal desde el Codoñol al Pas de Carrasca\".\n\nCasament: el 29 de juliol de 1793 amb Doña Antonia Mir Alejandro de Barcelona [1770]. A l'estat de veïns de setembre de 1798 diu que viuen a la casa núm. 1 de la \"Calle Mayor\" (ACA BGRP Cajas 34).\n\nFills: María Lorenza [1796] i Lorenzo Francisco [1798].\n\nEs veí de la Ràpita des de 1782 (ACA Processos 1796 7F).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

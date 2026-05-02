@@ -1,0 +1,98 @@
+{
+  "id": "3827_juan_bautista_pasqual_fuster",
+  "source_id": "3827",
+  "row_ref": "3827. Juan Bautista Pasqual Fuster",
+  "name": "Juan Bautista Pasqual Fuster",
+  "gender": "male",
+  "birth": {
+    "date": "1775-01-01",
+    "place": "Vinaroz"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3817_mariano_pascual_antequera",
+      "2270_antonia_fuster"
+    ],
+    "father": "3817_mariano_pascual_antequera",
+    "mother": "2270_antonia_fuster",
+    "spouse": [
+      "5304_francisca_tomas_vidal"
+    ],
+    "children": [
+      "3838_jose_pasqual_thomas",
+      "3839_miguel_pasqual_thomas",
+      "3840_agustin_pasqual_thomas",
+      "3841_teresa_pascual_tomas",
+      "3842_casimiro_pascual_tomas",
+      "3843_josefa_pasqual_thomas",
+      "3844_mariana_pasqual_thomas",
+      "3845_francisca_pasqual_thomas",
+      "3846_rafaela_pasqual_tomas"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Mariano Pascual Antequera",
+      "Antonia Fuster"
+    ],
+    "father_name": "Mariano Pascual Antequera",
+    "mother_name": "Antonia Fuster",
+    "spouse_names": [
+      "Francisca Tomas Vidal"
+    ],
+    "children_names": [
+      "José Pasqual Thomas",
+      "Miguel Pasqual Thomas",
+      "Agustín Pasqual Thomas",
+      "Teresa Pascual Tomas",
+      "Casimiro Pascual Tomas",
+      "Josefa Pasqual Thomas",
+      "Mariana Pasqual Thomas",
+      "Francisca Pasqual Thomas",
+      "Rafaela Pasqual Tomás"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1775]. \n\nProfessió: pagès.\n\nCasament: el 24 de maig de 1799 amb Francisca Tomás Vidal d'Ulldecona [1779].\n\nFills: Mariana [1800], Miguel [1804], Agustín [1806], José [1808], Francisca [1811], Casimiro [1814], Rafaela [1818], Josefa [1821] i Teresa [1825].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

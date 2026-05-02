@@ -1,0 +1,74 @@
+{
+  "id": "3910_juan_bautista_pepiol_sancho",
+  "source_id": "3910",
+  "row_ref": "3910. Juan Bautista Pepiol Sancho",
+  "name": "Juan Bautista Pepiol Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1813-11-09",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3911_jose_pepiol_soler",
+      "4857_pascuala_sancho_bonet"
+    ],
+    "father": "3911_jose_pepiol_soler",
+    "mother": "4857_pascuala_sancho_bonet",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Pepiol Soler",
+      "Pascuala Sancho Bonet"
+    ],
+    "father_name": "José Pipiol Soler",
+    "mother_name": "Pascuala Sancho Bonet",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Mauro Hernández",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 9 de novembre de 1813 a la Ràpita.\n\nPadrins: Mauro Hernández i Tomasa Pla.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

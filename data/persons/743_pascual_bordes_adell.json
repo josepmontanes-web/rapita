@@ -1,0 +1,77 @@
+{
+  "id": "743_pascual_bordes_adell",
+  "source_id": "743",
+  "row_ref": "743. Pascual Bordes Adell",
+  "name": "Pascual Bordes Adell",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Ulldecona"
+  },
+  "death": {
+    "date": "1841-11-28",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "30_juan_bautista_adell_miralles"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Bordes",
+      "Manuela Adell"
+    ],
+    "father_name": "José Bordes",
+    "mother_name": "Manuela Adell",
+    "spouse_names": [
+      "Vicenta Cabanes"
+    ],
+    "children_names": [
+      "Juan Bautista Adell Miralles"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Ulldecona [aprox. 1800].\n\nCasament: amb Vicenta Cabanes.\n\nDefunció: el 28 de novembre de 1841 a la Ràpita. A la partida de defunció diu que es veí de la Galera.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

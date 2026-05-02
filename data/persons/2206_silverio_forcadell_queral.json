@@ -1,0 +1,73 @@
+{
+  "id": "2206_silverio_forcadell_queral",
+  "source_id": "2206",
+  "row_ref": "2206. Silverio Forcadell Queral",
+  "name": "Silverio Forcadell Queral",
+  "gender": "male",
+  "birth": {
+    "date": "1832-06-20",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1832-06-20",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2182_francisco_forcadell_badoch"
+    ],
+    "father": "2182_francisco_forcadell_badoch",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Forcadell Badoch",
+      "Maria Queral Huguet"
+    ],
+    "father_name": "Francisco Forcadell Badoc",
+    "mother_name": "Maria Queral Huguet",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Pedro Gil",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 20 de juny de 1832 a la Ràpita.\n\nPadrins: Pedro Gil i Rosa Andreu.\n\nDefunció: el 20 de juny de 1832 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

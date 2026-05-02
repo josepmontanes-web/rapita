@@ -1,0 +1,84 @@
+{
+  "id": "1338_salvador_castella_vilas",
+  "source_id": "1338",
+  "row_ref": "1338. Salvador Castellà Vilàs",
+  "name": "Salvador Castellà Vilàs",
+  "gender": "male",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1165_salvador_castella"
+    ],
+    "father": "1165_salvador_castella",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1214_maria_francisca_castella_cartes",
+      "1215_juan_castella_cartes",
+      "1217_rosa_castella_cartes",
+      "1218_juan_castella_cartes"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Salvador Castellà",
+      "María Antonia Vilàs o Vilaró"
+    ],
+    "father_name": "Salvador Castellà",
+    "mother_name": "María Antonia Vilàs o Vilaró",
+    "spouse_names": [
+      "Mª.de la Cinta Cartes Fabregat"
+    ],
+    "children_names": [
+      "Maria Francisca Castellà Cartes",
+      "Juan Castellà Cartes",
+      "Rosa Castellà Cartes"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "pescador"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1790].\n\nProfessió: pescador.\n\nCasament: amb María de la Cinta Cartes Fabregat de Tortosa [1790].\n\nFills: Juan [1813], Rosa [1814], Juan [1817], Salvador [1820] i María Francisca [1826].\n\nDefunció: el 18 de desembre de 1877 a la Ràpita als 89 anys de \"cons...ción\". Declara la defunció Teresina Navarro.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

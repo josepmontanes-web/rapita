@@ -1,0 +1,84 @@
+{
+  "id": "2713_josefa_guardia_bort",
+  "source_id": "2713",
+  "row_ref": "2713. Josefa Guardia Bort",
+  "name": "Josefa Guardia Bort",
+  "gender": "female",
+  "birth": {
+    "date": "1816-10-09",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4829_francisco_sancho",
+      "807_josefa_bort_lleti"
+    ],
+    "father": "4829_francisco_sancho",
+    "mother": "807_josefa_bort_lleti",
+    "spouse": [],
+    "children": [
+      "5062_ramon_segarra_guardia",
+      "5063_jose_segarra_guardia",
+      "5064_trinitaria_segarra_guardia"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Sancho",
+      "Josefa Bort Lletí"
+    ],
+    "father_name": "Francisco Guardia Sancho",
+    "mother_name": "Josefa Bort Lletí",
+    "spouse_names": [
+      "Manuel Segarra Puchol de Marza"
+    ],
+    "children_names": [
+      "Ramón Segarra Guardia",
+      "José Segarra Guardia",
+      "Trinitaria Segarra Guardia"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Agustín Izquierdo",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 9 d'octubre de 1816 a la Ràpita.\n\nPadrins: Agustín Izquierdo i Josefa Fabregat.\n\nCasament: el 28 de març de 1835 amb Manuel Segarra Puchol de la Ràpita [1811].\n\nFills: Trinitaria [1836], Ramón [1840], José [1842], Josefa [1847], Baldomero [1850] i Tomás [1853].\n\nDefunció: el 23 de març de 1877 a la Ràpita de \"hernia anginal\". Declara la mor al registre civil el seu fill Tomás, mariner, fadrí, de 22 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

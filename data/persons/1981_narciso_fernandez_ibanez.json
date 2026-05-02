@@ -1,0 +1,71 @@
+{
+  "id": "1981_narciso_fernandez_ibanez",
+  "source_id": "1981",
+  "row_ref": "1981. Narciso Fernández Ibañez",
+  "name": "Narciso Fernández Ibañez",
+  "gender": "male",
+  "birth": {
+    "date": "1846-05-01",
+    "place": null
+  },
+  "death": {
+    "date": "1847-10-05",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Fernandez",
+      "Dolores Ibañez"
+    ],
+    "father_name": "Joaquín Fernandez",
+    "mother_name": "Dolores Ibañez",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1846].\n\nDefunció: el 5 d'octubre de 1847 a la Ràpita. Va morir als 17 mesos.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

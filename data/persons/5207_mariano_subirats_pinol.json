@@ -1,0 +1,83 @@
+{
+  "id": "5207_mariano_subirats_pinol",
+  "source_id": "5207",
+  "row_ref": "5207. Mariano Subirats Piñol",
+  "name": "Mariano Subirats Piñol",
+  "gender": "male",
+  "birth": {
+    "date": "1795-01-01",
+    "place": "Perelló"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5185_jose_subirats"
+    ],
+    "father": "5185_jose_subirats",
+    "mother": null,
+    "spouse": [
+      "3862_madalena_pepio_royo"
+    ],
+    "children": [
+      "5186_francisco_subirats_ausensi",
+      "5206_mariana_subirats_pepio"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Subirats",
+      "Mariana Piñol"
+    ],
+    "father_name": "José Subirats",
+    "mother_name": "Mariana Piñol",
+    "spouse_names": [
+      "Madalena Pepio Royo"
+    ],
+    "children_names": [
+      "Francisco Subirats Ausensi",
+      "Mariana Subirats Pepió"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: al Perelló [aprox. 1795]. \n\nCasament: l'1 de gener de 1823 amb Madalena Pepio Royo del Perelló [1800]. Es casa als 28 anys.\n\nFills: Mariana [1837].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

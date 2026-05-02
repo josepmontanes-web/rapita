@@ -1,0 +1,78 @@
+{
+  "id": "4728_maria_juliana_sanchez_capilla",
+  "source_id": "4728",
+  "row_ref": "4728. María Juliana Sánchez Capilla",
+  "name": "María Juliana Sánchez Capilla",
+  "gender": "female",
+  "birth": {
+    "date": "1825-09-05",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4767_blas_sanchez_marin",
+      "976_florencia_capilla_macian"
+    ],
+    "father": "4767_blas_sanchez_marin",
+    "mother": "976_florencia_capilla_macian",
+    "spouse": [
+      "5543_vicente_vidal_planes"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Blas Sánchez Marín",
+      "Florencia Capilla Macián"
+    ],
+    "father_name": "Blas Sánchez Marín",
+    "mother_name": "Florencia Capilla Macián",
+    "spouse_names": [
+      "Vicente Vidal Planes"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Tomás Arbó",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 5 de setembre de 1825 a la Ràpita.\n\nPadrins: Tomás Arbó i Bernanrda Subirats.\n\nCasament: el 10 de juny de 1848 amb Vicente Vidal Planes de la Ràpita [1826].\n\nFills: Vicente [1851] i María [1856].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

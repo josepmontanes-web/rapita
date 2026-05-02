@@ -1,0 +1,68 @@
+{
+  "id": "652_juan_beltri_arbo",
+  "source_id": "652",
+  "row_ref": "652. Juan Beltri Arbó",
+  "name": "Juan Beltri Arbó",
+  "gender": "male",
+  "birth": {
+    "date": "1881-12-04",
+    "place": "la Ràpita, al domicili de la seua iaia Teresa Sans"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 4 de desembre a la Ràpita, al domicili de la seua iaia Teresa Sans. El pare té 44 anys i es pagès, la mare en té 35.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

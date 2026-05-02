@@ -1,0 +1,73 @@
+{
+  "id": "5348_francisco_torta_arques",
+  "source_id": "5348",
+  "row_ref": "5348. Francisco Torta Arqués",
+  "name": "Francisco Torta Arqués",
+  "gender": "male",
+  "birth": {
+    "date": "1817-06-25",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5359_pedro_torta_juil"
+    ],
+    "father": "5359_pedro_torta_juil",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Torta Juil",
+      "Maria Arqués Verge"
+    ],
+    "father_name": "Pedro Torta Juil",
+    "mother_name": "Maria Arqués Verge",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Segarra",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 25 de juny de 1817 a la Ràpita.\n\nPadrins: Juan Segarra i Francisca Pujol.\n\nEls iaos materns son veïns de les Salines dels Alfacs.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

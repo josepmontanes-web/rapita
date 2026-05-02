@@ -1,0 +1,70 @@
+{
+  "id": "3104_maria_mariner",
+  "source_id": "3104",
+  "row_ref": "3104. Maria Mariner",
+  "name": "Maria Mariner",
+  "gender": "female",
+  "birth": {
+    "date": "1768-01-01",
+    "place": "Montroig"
+  },
+  "death": {
+    "date": "1828-11-27",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Mariano Tost o Fort"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Mont-roig [aprox. 1768]. \n\nCasament: amb Mariano Fort de Vilanova d'Escornalbou [1757].\n\nDefunció: el 27 de novembre de 1828 a la Ràpita. Va morir als 60 anys de \"enfermedad aproplética\". No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

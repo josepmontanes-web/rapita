@@ -1,0 +1,79 @@
+{
+  "id": "2977_antonio_lopez",
+  "source_id": "2977",
+  "row_ref": "2977. Antonio López",
+  "name": "Antonio López",
+  "gender": "male",
+  "birth": {
+    "date": "1735-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": "1803-12-22",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2996_juan_lopez_flores",
+      "2998_jose_lopez_garriga"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan López",
+      "Maria"
+    ],
+    "father_name": "Juan López",
+    "mother_name": "Maria",
+    "spouse_names": [
+      "Ysabela Flores"
+    ],
+    "children_names": [
+      "Juan López Flores",
+      "José López Garriga"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta  [aprox. 1735]. \n\nA finals de maig de 1781 treballa a una Brigada de les Obres del Canal de Navegació (ACA BGRP Caixa 44).\n\nProfessió: pagès.\n\nCasament: amb Ysabela Flores de Batea.\n\nFills: Juan (Amposta) [1767].\n\nDefunció: el 22 de desembre de 1803 a la Ràpita. Fa testament davant del capellà.\n\nEl 29 de maig de 1784 demana permís per a fer una casa.\n\nA 1786 les monges diuen que Francesch Canals li va donar un troç de terra que pertanyia al monasteri i que era resident a la Ràpita.\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu al barri dels pescadors  (ACA BGRP Cajas 34). Al gener de 1799 paga un lloguer de 10 Rv a Patrimoni.\n\nEs veí de la Ràpita a 1796 (ACA Processos 1796 7F). Té 60 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

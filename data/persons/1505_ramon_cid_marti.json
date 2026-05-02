@@ -1,0 +1,81 @@
+{
+  "id": "1505_ramon_cid_marti",
+  "source_id": "1505",
+  "row_ref": "1505. Ramon Cid Martí",
+  "name": "Ramon Cid Martí",
+  "gender": "male",
+  "birth": {
+    "date": "1811-01-01",
+    "place": "Santa Barbara"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "819_pascuala_bosch_torta"
+    ],
+    "children": [
+      "1490_francisco_cid_bosch",
+      "3118_teresa_marti_casado"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Carlos Cid",
+      "Teresa Martí"
+    ],
+    "father_name": "Carlos Cid",
+    "mother_name": "Teresa Martí",
+    "spouse_names": [
+      "Pascuala Bosch Torta"
+    ],
+    "children_names": [
+      "Francisco Cid Bosch",
+      "Teresa Martí Casadó"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Santa Bàrbara [aprox. 1811].\n\nCasament: el 30 de maig de 1836 amb Pascuala Bosch Torta d'Amposta [1806]. Es casa als 25 anys.\n\nFills: Francisco [1838].\n\nEs germà de Teresa Cid Martí [1807] i Miguel Cid Martí [1810].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

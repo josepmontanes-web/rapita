@@ -1,0 +1,88 @@
+{
+  "id": "2679_tomas_grau_fibla",
+  "source_id": "2679",
+  "row_ref": "2679. Tomás Grau Fibla",
+  "name": "Tomás Grau Fibla",
+  "gender": "male",
+  "birth": {
+    "date": "1795-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2677_jose_grau",
+      "2120_josefa_fibla"
+    ],
+    "father": "2677_jose_grau",
+    "mother": "2120_josefa_fibla",
+    "spouse": [
+      "5417_tomasa_urgelles_nofre"
+    ],
+    "children": [
+      "2684_benito_grau_urgelles_o_argelles",
+      "2685_casimira_grau_urgelles_o_orgelles",
+      "2686_pedro_manuel_grau_urgelles",
+      "2687_jose_agustin_grau_urgelles"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Grau",
+      "Josefa Fibla"
+    ],
+    "father_name": "José Grau",
+    "mother_name": "Josefa Fibla",
+    "spouse_names": [
+      "Tomasa Urgellés Nofre"
+    ],
+    "children_names": [
+      "Benito Grau Urgellés [o Argellés]",
+      "Casimira Grau Urgellés [o Orgellés]",
+      "Pedro Manuel Grau Urgellés",
+      "José Agustín Grau Urgellés"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1795].\n\nCasament: amb Tomasa Urgellés Nofre d'Ulldecona [1800].\n\nFills: Benito [1829], Casimira [1834], Pedro Manuel [1837] i José Agustín [1842].\n\nEs germà de José Grau Fibla [1792].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

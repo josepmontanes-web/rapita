@@ -1,0 +1,68 @@
+{
+  "id": "1853_rosa_estelle_miralles",
+  "source_id": "1853",
+  "row_ref": "1853. Rosa Estellé Miralles",
+  "name": "Rosa Estellé Miralles",
+  "gender": "female",
+  "birth": {
+    "date": "1849-01-01",
+    "place": "Vinaròs"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1849].\n\nCasament: el 10 de desembre de 1870 amb Bautista Matamoros Boria d'Alcanar [1849]. Es casa als 21 anys.\n\nFills: Rosa [1877] i Carmen [1880].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

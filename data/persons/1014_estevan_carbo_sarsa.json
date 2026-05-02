@@ -1,0 +1,81 @@
+{
+  "id": "1014_estevan_carbo_sarsa",
+  "source_id": "1014",
+  "row_ref": "1014. Estevan Carbó Sarsa",
+  "name": "Estevan Carbó Sarsa",
+  "gender": "male",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "988_jose_carbo"
+    ],
+    "father": "988_jose_carbo",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "989_jose_narciso_carbo_arlandez",
+      "990_juan_bautista_carbo_hernandez_o_arlandez"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Carbó",
+      "Maria Sarsa"
+    ],
+    "father_name": "José Carbó",
+    "mother_name": "Maria Sarsa",
+    "spouse_names": [
+      "Rosa Arlandes Roig"
+    ],
+    "children_names": [
+      "José Narciso Carbó Arlandez",
+      "Juan Bautista Carbó Hernández [o Arlández]"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1790].\n\nCasament: amb Rosa Arlandes Roig de Tortosa.\n\nFills: José Narciso [1813] i Juan Bautista [1822].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

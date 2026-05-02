@@ -1,0 +1,84 @@
+{
+  "id": "5040_jose_segarra",
+  "source_id": "5040",
+  "row_ref": "5040. José Segarra",
+  "name": "José Segarra",
+  "gender": "male",
+  "birth": {
+    "date": "1730-01-01",
+    "place": "Ulldecona"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "545_pascuala_bel"
+    ],
+    "children": [
+      "5045_maria_segarra_bel",
+      "5046_juan_segarra_bel",
+      "5047_francisco_segarra_bel",
+      "5048_tomas_segarra_bel",
+      "5085_juan_segarra_torta"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Pascuala Bel"
+    ],
+    "children_names": [
+      "María Segarra Bel",
+      "Juan Segarra Bel",
+      "Francisco Segarra Bel",
+      "Tomàs Segarra Bel",
+      "Juan Segarra Torta"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Ulldecona [aprox. 1730]. \n\nCasament: amb Pascuala Bel d'Ulldecona [1727].\n\nFills: Juan (Ulldecona) [1766], Francisco (Ulldecona) [1768], María (Ulldecona) [1770] i Tomás (Ulldecona) [1776].\n\nProfessió: pastor.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "1672_thomas_curto_cavaller",
+  "source_id": "1672",
+  "row_ref": "1672. Thomas Curto Cavaller",
+  "name": "Thomas Curto Cavaller",
+  "gender": "male",
+  "birth": {
+    "date": "1813-11-18",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1690_francisco_curto_sabater",
+      "1366_rosa_cavaller_roig"
+    ],
+    "father": "1690_francisco_curto_sabater",
+    "mother": "1366_rosa_cavaller_roig",
+    "spouse": [
+      "4350_josefa_reverter_sancho"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Curto Sabater",
+      "Rosa Cavaller Roig"
+    ],
+    "father_name": "Francisco Curto Sabater",
+    "mother_name": "Rosa Cavaller Roig",
+    "spouse_names": [
+      "Josefa Reverter Sancho"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Adell",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 18 de novembre de 1813 a la Ràpita.\n\nPadrins: José Adell i Francisca.\n\nCasament: el 13 de juliol de 1835 amb Josefa Reverter Sancho de la Ràpita [1819].\n\nFills: Rosa [1836], Francisca [1838], Tomás [1840], Agustín [1842], José [1844], Teresa [1846] i Josefa [1850].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

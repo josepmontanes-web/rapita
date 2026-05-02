@@ -1,0 +1,74 @@
+{
+  "id": "3100_estevan_march_lopez",
+  "source_id": "3100",
+  "row_ref": "3100. Estevan March López",
+  "name": "Estevan March López",
+  "gender": "male",
+  "birth": {
+    "date": "1809-07-28",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3097_francisco_march_casals",
+      "2985_maria_lopez_costa"
+    ],
+    "father": "3097_francisco_march_casals",
+    "mother": "2985_maria_lopez_costa",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco March Casals",
+      "María López Costa"
+    ],
+    "father_name": "Francisco March Casals",
+    "mother_name": "Maria López Costa",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Estevan Chaler",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 28 de juliol de 1809 a la Ràpita.\n\nPadrins: Estevan Chaler i Manuela López.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

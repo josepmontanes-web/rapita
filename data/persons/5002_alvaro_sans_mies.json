@@ -1,0 +1,77 @@
+{
+  "id": "5002_alvaro_sans_mies",
+  "source_id": "5002",
+  "row_ref": "5002. Alvaro Sans Míes",
+  "name": "Alvaro Sans Míes",
+  "gender": "male",
+  "birth": {
+    "date": "1829-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5023_juan_sans_solano"
+    ],
+    "father": "5023_juan_sans_solano",
+    "mother": null,
+    "spouse": [
+      "577_antonia_bellobi_berneda"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Sans Solano",
+      "Antonia Míes Guinjoan"
+    ],
+    "father_name": "Juan Sans Solano",
+    "mother_name": "Antonia Míes Guinjoan",
+    "spouse_names": [
+      "Antonia Bellobí Berneda"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Jornaler"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1829]. \n\nProfessió: jornaler.\n\nCasament: el 10 de setembre de 1853 amb Antonia Belloví Berneda [1831]. Es casa als 24 anys. Testimonis: Jaime Solà i Juan Aragonés.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

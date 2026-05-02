@@ -1,0 +1,74 @@
+{
+  "id": "4836_francisca_sancho_adell",
+  "source_id": "4836",
+  "row_ref": "4836. Francisca Sancho Adell",
+  "name": "Francisca Sancho Adell",
+  "gender": "female",
+  "birth": {
+    "date": "1838-03-20",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4902_miguel_sancho_matamoros",
+      "35_rosa_adell_tallada"
+    ],
+    "father": "4902_miguel_sancho_matamoros",
+    "mother": "35_rosa_adell_tallada",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Sancho Matamoros",
+      "Rosa Adell Tallada"
+    ],
+    "father_name": "Miguel Sancho Matamoros",
+    "mother_name": "Rosa Adell Tallada",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Salvador Talarn",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 20 de març de 1838 a la Ràpita.\n\nPadrins: Salvador Talarn i Francisca Adell.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

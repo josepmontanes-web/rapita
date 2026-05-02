@@ -1,0 +1,83 @@
+{
+  "id": "968_blas_cantero_martinez",
+  "source_id": "968",
+  "row_ref": "968. Blas Cantero Martínez",
+  "name": "Blas Cantero Martínez",
+  "gender": "male",
+  "birth": {
+    "date": "1780-01-01",
+    "place": "Sta. María de los Llanos"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3932_antonia_pinar_baran"
+    ],
+    "children": [
+      "970_antonio_cantero_pinar",
+      "971_catalina_cantero_pinar",
+      "972_maria_del_carmen_cantero_pinart"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Cantero",
+      "Sebastiana Martínez"
+    ],
+    "father_name": "Juan Cantero",
+    "mother_name": "Sebastiana Martínez",
+    "spouse_names": [
+      "Antonia Pinar Baran"
+    ],
+    "children_names": [
+      "Antonio Cantero Pinar",
+      "Catalina Cantero Pinar",
+      "Maria del Carmen Cantero Pinart"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: Santa María de los Llanos (Cuenca) [aprox. 1780].\n\nProfessió: \"Dependiente de Rens. Rs\".\n\nCasament: amb Antonia Pinar Baran de Barcelona [1780].\n\nFills: Antonio (Lloret Ob. Barcelona) [1805], Catalina [1810] i María del Carmen [1819].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

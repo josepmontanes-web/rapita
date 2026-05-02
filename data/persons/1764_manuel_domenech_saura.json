@@ -1,0 +1,85 @@
+{
+  "id": "1764_manuel_domenech_saura",
+  "source_id": "1764",
+  "row_ref": "1764. Manuel Domenech Saura",
+  "name": "Manuel Domenech Saura",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Vinaròs"
+  },
+  "death": {
+    "date": "1840-12-22",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1756_miguel_domenech_chillida"
+    ],
+    "father": "1756_miguel_domenech_chillida",
+    "mother": null,
+    "spouse": [
+      "3792_maria_paredes_ortiz"
+    ],
+    "children": [
+      "1761_jose_estevan_domenech_paredes",
+      "1762_jose_manuel_domenech_paredes",
+      "1763_juan_bautista_domenech_paredes"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Domenech Chillida",
+      "Mariana Saura"
+    ],
+    "father_name": "Miguel Domenech",
+    "mother_name": "Mariana Saura",
+    "spouse_names": [
+      "María Paredes Ortíz"
+    ],
+    "children_names": [
+      "José Estevan Domenech Paredes",
+      "José Manuel Domenech Paredes",
+      "Juan Bautista Domenech Paredes"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1800].\n\nCasament: amb María Paredes Ortíz de Cartagena [o d'Aguilas] [1800].\n\nFills: José Manuel [1823], José Estevan [1826] i Juan Bautista [1831].\n\nDefunció: el 22 de desembre de 1840 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

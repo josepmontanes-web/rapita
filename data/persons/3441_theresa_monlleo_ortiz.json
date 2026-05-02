@@ -1,0 +1,83 @@
+{
+  "id": "3441_theresa_monlleo_ortiz",
+  "source_id": "3441",
+  "row_ref": "3441. Theresa Monlleó Ortíz",
+  "name": "Theresa Monlleó Ortíz",
+  "gender": "female",
+  "birth": {
+    "date": "1765-01-01",
+    "place": "Xerta"
+  },
+  "death": {
+    "date": "1805-04-03",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "855_juan_bautista_brunet_cases"
+    ],
+    "children": [
+      "860_rosa_brunet_monllao",
+      "862_agustin_brunet_monlleo",
+      "864_raimundo_brunet_monlleo"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Ambrosio Monlleó",
+      "Josefa Ortíz"
+    ],
+    "father_name": "Ambrosio Monlleó",
+    "mother_name": "Josefa Ortíz",
+    "spouse_names": [
+      "Juan Bautista Brunet Cases"
+    ],
+    "children_names": [
+      "Rosa Brunet Monllaó",
+      "Agustín Brunet Monlleó",
+      "Raimundo Brunet Monlleó"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Xerta [aprox. 1765]. \n\nCasament: amb Juan Bautista Brunet Cases de Xerta [1765].\n\nFills: Rosa (Xerta) [1780], Bautista (Xerta) [1788], Francisco [1790], Agustín [1794], José Antonio [1795] i Raimundo [1797].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Mansana Vella núm. 9 (ACA BGRP Cajas 34).\n\nDefunció: el 3 d'abril de 1805 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

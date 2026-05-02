@@ -1,0 +1,75 @@
+{
+  "id": "387_josefa_balague_balague",
+  "source_id": "387",
+  "row_ref": "387. Josefa Balagué Balagué",
+  "name": "Josefa Balagué Balagué",
+  "gender": "female",
+  "birth": {
+    "date": "1840-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1841-05-31",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "449_jose_balague_navarro"
+    ],
+    "father": "449_jose_balague_navarro",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Balagué Navarro",
+      "Rosa Balagué Omedes"
+    ],
+    "father_name": "José Balagué Navarro",
+    "mother_name": "Rosa Balagué Omedes",
+    "spouse_names": [
+      "."
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1840].\n\nDefunció: el 31 de maig de 1841 a la Ràpita. Va morí pàrvul.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

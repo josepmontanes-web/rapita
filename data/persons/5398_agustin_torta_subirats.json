@@ -1,0 +1,78 @@
+{
+  "id": "5398_agustin_torta_subirats",
+  "source_id": "5398",
+  "row_ref": "5398. Agustín Torta Subirats",
+  "name": "Agustín Torta Subirats",
+  "gender": "male",
+  "birth": {
+    "date": "1825-10-12",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5389_juan_torta_sole",
+      "5191_teresa_subirats_fabregat"
+    ],
+    "father": "5389_juan_torta_sole",
+    "mother": "5191_teresa_subirats_fabregat",
+    "spouse": [
+      "3174_tomasa_matamoros_biosca"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Torta Solé",
+      "Teresa Subirats Fabregat"
+    ],
+    "father_name": "Juan Torta Solé",
+    "mother_name": "Teresa Subirats Fabregat",
+    "spouse_names": [
+      "Tomasa Matamoros Biosca"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Agustín Magriñà",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 12 d'octubre de 1825 a la Ràpita.\n\nPadrins: Agustín Magriñá i Teresa Rosales.\n\nProfessió: pagès.\n\nCasament: el 27 de febrer de 1843 amb Tomasa Matamoros Biosca de la Ràpita [1827].\n\nFills: Agustín [1845], Ramona [1850], José [1850], Teresa [1857],  Felix [1859] i Alejandro [1860].\n\nDefunció: el 20 de novembre de 1878 a la Ràpita de \"intermitente perniciosa delirante\". Declara la mor la seua cunyada Josefa Matamoros.\n\nDonación: Francisco Guardia [Sánchez], labrador, en atención a que su hijo Agustín Guardia [Bort] le ha facilitado cantidades que ascienden a 40 duros, en pago de esta cantidad le cede la casa que posee en el barrio de San Isidro, calle sin nombre, en las inmediaciones de la carretera Real de Valencia. Linda a tramontana con la de Bautista Guardia, a poniente con la de Agustín Torta y a cierzo con tierras del otorgante, y a levante con dicha calle. Esta casa es parte de una heredad que posee en la partida de la Devesa. 6 de agosto de 1846.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

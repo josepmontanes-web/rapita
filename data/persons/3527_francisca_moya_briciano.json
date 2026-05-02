@@ -1,0 +1,74 @@
+{
+  "id": "3527_francisca_moya_briciano",
+  "source_id": "3527",
+  "row_ref": "3527. Francisca Moya Briciano",
+  "name": "Francisca Moya Briciano",
+  "gender": "female",
+  "birth": {
+    "date": "1837-02-11",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3559_juan_moya_vilarroya",
+      "832_francisca_briciano_pasqual"
+    ],
+    "father": "3559_juan_moya_vilarroya",
+    "mother": "832_francisca_briciano_pasqual",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Moya Vilarroya",
+      "Francisca Briciano Pasqual"
+    ],
+    "father_name": "Juan Moya Vilarroya",
+    "mother_name": "Francisca Briciano Pasqual",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Vidal",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'11 de febrer de 1837 a la Ràpita.\n\nPadrins: Francisco Vidal i Apolonia Briciano.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

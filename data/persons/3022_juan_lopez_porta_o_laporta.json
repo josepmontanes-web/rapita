@@ -1,0 +1,73 @@
+{
+  "id": "3022_juan_lopez_porta_o_laporta",
+  "source_id": "3022",
+  "row_ref": "3022. Juan López Porta [o Laporta]",
+  "name": "Juan López Porta [o Laporta]",
+  "gender": "male",
+  "birth": {
+    "date": "1840-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1842-05-14",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3012_juan_lopez_noll_o_nolla"
+    ],
+    "father": "3012_juan_lopez_noll_o_nolla",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan López Noll [o Nolla]",
+      "Madalena Laporta"
+    ],
+    "father_name": "Juan López Nolla",
+    "mother_name": "Madalena Laporta",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1840]. \n\nDefunció: el 14 de maig de 1842 a la Ràpita. Va morir als 2 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

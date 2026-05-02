@@ -1,0 +1,74 @@
+{
+  "id": "2611_pablo_francisco_goday_sola",
+  "source_id": "2611",
+  "row_ref": "2611. Pablo Francisco Goday Solà",
+  "name": "Pablo Francisco Goday Solà",
+  "gender": "male",
+  "birth": {
+    "date": "1820-07-27",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2602_pablo_goday_andreu",
+      "5161_teresa_sola_coll"
+    ],
+    "father": "2602_pablo_goday_andreu",
+    "mother": "5161_teresa_sola_coll",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pablo Goday Andreu",
+      "Teresa Solà Coll"
+    ],
+    "father_name": "Pablo Goday Andreu",
+    "mother_name": "Teresa Solà Coll",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Manuel Izquierdo",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 27 de juliol de 1820 a la Ràpita.\n\nPadrins: Manuel Izquierdo i Concepción Zaragoza.\n\nCasament: amb Josefa Albiol Albiol de Godall [1840].\n\nFills: Vicente [1876] i Teresa [1878].\n\nDefunció: el 7 de novembre de 1894 a la Ràpita als 74 anys. Alcalde 1861-1864.\n\nDes de l'1 d'agost de 1877 consta com a jutge municipal a la Ràpita.\n\nEs un dels 28 veïns de la Ràpita que figuren al primer cens electoral de San Carlos de la Ràpita de 1867, diu que viu al carrer Rampart.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

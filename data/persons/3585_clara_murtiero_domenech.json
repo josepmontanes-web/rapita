@@ -1,0 +1,87 @@
+{
+  "id": "3585_clara_murtiero_domenech",
+  "source_id": "3585",
+  "row_ref": "3585. Clara Murtiero Domenech",
+  "name": "Clara Murtiero Domenech",
+  "gender": "female",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "156_andres_ano_esteve"
+    ],
+    "children": [
+      "159_dominga_ano_murtiero",
+      "160_angela_ano_murtiero",
+      "161_josefa_maria_ano_murtiero",
+      "162_francisca_ano_murtiero",
+      "163_carlina_ano_murtiero"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Murtiero",
+      "Joaquina Domenech"
+    ],
+    "father_name": "Francisco Murtiero",
+    "mother_name": "Joaquina Domenech",
+    "spouse_names": [
+      "Andrés Añó Esteve"
+    ],
+    "children_names": [
+      "Dominga Añó Murtiero",
+      "Angela Añó Murtiero",
+      "Josefa Maria Añó Murtiero",
+      "Francisca Añó Murtiero",
+      "Carlina Añó Murtiero"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1810]. \n\nCasament: el 24 de maig de 1834 amb Andrés Añó Esteve de la Ràpita [1811].\n\nFills: Dominga [1835], Angela [1837], Francisca [1839], Josefa María [1841] i Carlina [1844].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

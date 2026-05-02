@@ -1,0 +1,74 @@
+{
+  "id": "2219_antonia_forcadell_sancho",
+  "source_id": "2219",
+  "row_ref": "2219. Antonia Forcadell Sancho",
+  "name": "Antonia Forcadell Sancho",
+  "gender": "female",
+  "birth": {
+    "date": "1789-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1846-11-18",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2178_jose_forcadell",
+      "4828_josefa_sancho"
+    ],
+    "father": "2178_jose_forcadell",
+    "mother": "4828_josefa_sancho",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Forcadell",
+      "Josefa Sancho"
+    ],
+    "father_name": "José Forcadell",
+    "mother_name": "Josefa Sancho",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1789].\n\nDefunció: el 18 de novembre de 1846 a la Ràpita. Va morir als 57 anys de \"enfermedad aploplexia\". No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id": "5259_teresa_talarn_valldeperez",
+  "source_id": "5259",
+  "row_ref": "5259. Teresa Talarn Valldeperez",
+  "name": "Teresa Talarn Valldeperez",
+  "gender": "female",
+  "birth": {
+    "date": "1775-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1840-11-09",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5221_juan_talarn",
+      "5424_teresa_valldeperez"
+    ],
+    "father": "5221_juan_talarn",
+    "mother": "5424_teresa_valldeperez",
+    "spouse": [
+      "5537_joaquin_vidal_palos"
+    ],
+    "children": [
+      "5577_josefa_vidal_talarn",
+      "5578_pedro_vidal_talarn",
+      "5579_francisco_simplicio_vidal_talarn",
+      "5580_agustin_antonio_vidal_talarn",
+      "5581_maria_ana_vidal_talarn",
+      "5582_barbara_vidal_talarn",
+      "5583_maria_francisca_vidal_talarn",
+      "5584_thomas_vidal_talarn",
+      "5585_maria_paula_vidal_talarn",
+      "5586_francisco_vidal_talarn",
+      "5587_manuel_vidal_talarn"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Talarn",
+      "Teresa Valldeperez"
+    ],
+    "father_name": "Juan Talarn",
+    "mother_name": "Teresa Valldeperez",
+    "spouse_names": [
+      "Joaquín Vidal Palos"
+    ],
+    "children_names": [
+      "Josefa Vidal Talarn",
+      "Pedro Vidal Talarn",
+      "Francisco Simplicio Vidal Talarn",
+      "Agustín Antonio Vidal Talarn",
+      "María Ana Vidal Talarn",
+      "Bárbara Vidal Talarn",
+      "Maria Francisca Vidal Talarn",
+      "Thomas Vidal Talarn",
+      "Maria Paula Vidal Talarn",
+      "Francisco Vidal Talarn",
+      "Manuel Vidal Talarn"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1775]. \n\nCasament: amb Joaquín Vidal Palos de Traiguera [o de Cervera del Maestrat] [1770]. A l'estat de veïns de setembre de 1798 diu que viuen a una casa \"enfrete la torra\" (ACA BGRP Cajas 34).\n\nFills: Josefa [1791], Pedro [1793], Francisco Simplicio [1795], Joaquín [1796], Agustín [1798], María Ana [1799], María Francisca [1801], Bárbara [1804], Tomás [1806], Paula [1810], Francisco [1813] i Manuel [1817].\n\nDefunció: el 9 de novembre de 1840 a la Ràpita. \"Testó en mi poder (Joaquín Figueres)\".\n\nDe l'1 de novembre de 1829 al 31 de juliol de 1839 ha de pagar un lloguer de 6 Rs mensuals pel pis alt de l'esquerra de la casa 6 del carrer del Forn. (AGP.PER.LEG.1073/23 [Juan Vecino]).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

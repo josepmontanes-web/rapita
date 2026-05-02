@@ -1,0 +1,74 @@
+{
+  "id": "3474_isabel_monserrat_guasch",
+  "source_id": "3474",
+  "row_ref": "3474. Isabel Monserrat Guasch",
+  "name": "Isabel Monserrat Guasch",
+  "gender": "female",
+  "birth": {
+    "date": "1794-05-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1799-05-21",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3463_antonio_monserrat_famadas",
+      "2753_rafaela_guasch_mompou"
+    ],
+    "father": "3463_antonio_monserrat_famadas",
+    "mother": "2753_rafaela_guasch_mompou",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Monserrat Famadas",
+      "Rafaela Guasch Mompou"
+    ],
+    "father_name": "Antonio Monserrat Famadas",
+    "mother_name": "Rafaela Guasch Mompou",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Lorenzo Casadevall",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'1 de maig de 1794 a la Ràpita.\n\nPadrí: Lorenzo Casadevall.\n\nDefunció: el 21 de maig de 1799 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

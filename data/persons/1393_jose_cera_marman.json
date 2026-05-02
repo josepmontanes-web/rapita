@@ -1,0 +1,91 @@
+{
+  "id": "1393_jose_cera_marman",
+  "source_id": "1393",
+  "row_ref": "1393. José Cera Marmañ",
+  "name": "José Cera Marmañ",
+  "gender": "male",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1839-01-21",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1064_agustina_cartes_fonollosa"
+    ],
+    "children": [
+      "1383_francisco_cera_cartes",
+      "1384_eleuterio_cera_cartes",
+      "1385_agustina_cera_cartes",
+      "1386_jose_cera_cartes",
+      "1387_benito_cera_cartes",
+      "1388_joaquin_cera_cartes",
+      "1389_rosa_cera_cartes"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Cera",
+      "Antonia Marmañ"
+    ],
+    "father_name": "Josef Cera",
+    "mother_name": "Antonia Marmañ",
+    "spouse_names": [
+      "Agustina Cartes Fonollosa"
+    ],
+    "children_names": [
+      "Francisco Cera Cartes",
+      "Eleuterio Cera Cartes",
+      "Agustina Cera Cartes",
+      "José Cera Cartes",
+      "Benito Cera Cartes",
+      "Joaquín Cera Cartes",
+      "Rosa Cera Cartes"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1790].\n\nCasament: amb Agustina Cartes Fonollosa de Tortosa [1790].\n\nFills: Francisco [1812], Benito (Tortosa) [1815], José (Tortosa) [1820], Agustina (Tortosa) [1820], Joaquín [1821], Eleuterio [1827] i Rosa Francisca [1828].\n\nDefunció: el 21 de gener de 1839 a la Ràpita. Va morir als 50 anys. No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

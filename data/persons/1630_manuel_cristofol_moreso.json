@@ -1,0 +1,76 @@
+{
+  "id": "1630_manuel_cristofol_moreso",
+  "source_id": "1630",
+  "row_ref": "1630. Manuel Cristofol Moreso",
+  "name": "Manuel Cristofol Moreso",
+  "gender": "male",
+  "birth": {
+    "date": "1829-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1631_francisco_christofol_omedes",
+      "3507_rafaela_moreso_besalduch"
+    ],
+    "father": "1631_francisco_christofol_omedes",
+    "mother": "3507_rafaela_moreso_besalduch",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Christofol Omedes",
+      "Rafaela Moreso Besalduch"
+    ],
+    "father_name": "Francisco Cristofol Omedes",
+    "mother_name": "Rafaela Moreso Besalduch",
+    "spouse_names": [
+      "Josefa Navarro Torné"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Mariner"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1829].\n\nProfessió: Mariner.\n\nCasament: el 12 de desembre de 1853 amb Josefa Navarro Torné de Tortosa [1830]. Es casa als 24 anys. Testimonis: Casimiro Míes i Francisco María Torné.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

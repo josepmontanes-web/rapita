@@ -1,0 +1,74 @@
+{
+  "id": "2325_rafael_garcia_gasparin",
+  "source_id": "2325",
+  "row_ref": "2325. Rafael García Gasparín",
+  "name": "Rafael García Gasparín",
+  "gender": "male",
+  "birth": {
+    "date": "1850-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2370_andres_garcia_sales_o_soler",
+      "2423_manuela_gasparin_gombau"
+    ],
+    "father": "2370_andres_garcia_sales_o_soler",
+    "mother": "2423_manuela_gasparin_gombau",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Andrés García Sales [o Soler]",
+      "Manuela Gasparín Gombau"
+    ],
+    "father_name": "Andrés García Sales",
+    "mother_name": "Manuela Gasparín Gombau",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1850].\n\nProfessió: mariner.\n\nCasament: el 25 de maig de 1874 amb Manuela Balagué Falcó [1854]. Es casa als 24 anys.\n\nFills: Benito Manuel [1877].\n\nNo signa la declaració de naixement del fill al registre civil per no saber.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

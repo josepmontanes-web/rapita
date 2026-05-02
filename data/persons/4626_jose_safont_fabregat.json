@@ -1,0 +1,82 @@
+{
+  "id": "4626_jose_safont_fabregat",
+  "source_id": "4626",
+  "row_ref": "4626. José Safont Fabregat",
+  "name": "José Safont Fabregat",
+  "gender": "male",
+  "birth": {
+    "date": "1821-06-20",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4641_manuel_safont_pla",
+      "1927_francisca_fabregat_obiol"
+    ],
+    "father": "4641_manuel_safont_pla",
+    "mother": "1927_francisca_fabregat_obiol",
+    "spouse": [
+      "4530_tomasa_rosales_junyent"
+    ],
+    "children": [
+      "4645_manuela_catarina_safon_rosales"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel Safont Pla",
+      "Francisca Fabregat Obiol"
+    ],
+    "father_name": "Manuel Safont Pla",
+    "mother_name": "Francisca Fabregat Obiol",
+    "spouse_names": [
+      "Tomasa Rosales Junyent"
+    ],
+    "children_names": [
+      "Manuela Catarina Safon Rosales"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Safon",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 20 de juny de 1821 a la Ràpita.\n\nPadrins: Juan Safont i María Safont.\n\nCasament: el 27 de febrer de 1939 amb Tomasa Rosales Junyent de la Ràpita [1817].\n\nFills: Manuela Catarina [1840].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

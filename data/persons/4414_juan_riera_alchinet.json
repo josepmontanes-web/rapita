@@ -1,0 +1,79 @@
+{
+  "id": "4414_juan_riera_alchinet",
+  "source_id": "4414",
+  "row_ref": "4414. Juan Riera Alchinet",
+  "name": "Juan Riera Alchinet",
+  "gender": "male",
+  "birth": {
+    "date": "1780-01-01",
+    "place": "La Seu d'Urgell"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "4417_teresa_riera_burguera",
+      "4418_manuela_riera_burguera"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Riera",
+      "Antonia Alchinet"
+    ],
+    "father_name": "Miguel Riera",
+    "mother_name": "Antonia Alchinet",
+    "spouse_names": [
+      "Maria Burguera Paychis"
+    ],
+    "children_names": [
+      "Teresa Riera Burguera",
+      "Manuela Riera Burguera"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Dependiente del Resguardo"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Seu d'Urgell [aprox. 1780]. \n\nProfessió: \"Dependiente del Resguardo\".\n\nCasament: amb María Burguera Paychis. Diu que es de \"Riu de Llops (Obispado de Gerona)\", però podria ser Riudellots de la Selva (Girona). Es filla de José i María.\n\nFills: Teresa [1806] i Manuela [1808].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

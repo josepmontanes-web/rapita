@@ -1,0 +1,81 @@
+{
+  "id": "536_teresa_batiste_vidal",
+  "source_id": "536",
+  "row_ref": "536. Teresa Batiste Vidal",
+  "name": "Teresa Batiste Vidal",
+  "gender": "female",
+  "birth": {
+    "date": "1796-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1824-03-07",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "4723_catarina_sanchis_batiste",
+      "4724_teresa_sanchez_batiste",
+      "4725_blas_sanchez_batiste"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Batiste",
+      "Paula Vidal"
+    ],
+    "father_name": "Vicente Batiste",
+    "mother_name": "Paula Vidal",
+    "spouse_names": [
+      "Peregrín Sánchez Yserte"
+    ],
+    "children_names": [
+      "Catarina Sanchís Batiste",
+      "Teresa Sánchez Batiste",
+      "Blas Sánchez Batiste"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  a Tortosa [aprox. 1796].\n\nCasament: amb Peregrín Sánchez Iserte [o Yserte] d'Amposta [1790] . Probablement era de la Ràpita però el van batejar a Amposta.\n\nFills: Blas [1820], Catarina [1822] i Teresa [1824].\n\nDefunció: el 7 de març de 1824 a la Ràpita. Va morir als 28 anys de \"sobreparto\". No va fer testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

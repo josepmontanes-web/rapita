@@ -1,12 +1,12 @@
 {
   "id": "47_teresa_aixa_puigcerver",
   "source_id": "47",
-  "row_ref": "47",
+  "row_ref": "47. Teresa Aixa Puigcerver",
   "name": "Teresa Aixa Puigcerver",
   "gender": "female",
   "birth": {
     "date": "1863-01-01",
-    "place": "Peníscola [aprox"
+    "place": "Peníscola"
   },
   "death": {
     "date": null,
@@ -22,13 +22,37 @@
   },
   "family": {
     "parents": [],
+    "father": null,
+    "mother": null,
     "spouse": [],
-    "children": []
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
   },
   "relations_detail": {
     "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
     "spouse_names": [],
-    "children_names": []
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
   },
   "occupation": {
     "title": null

@@ -1,0 +1,72 @@
+{
+  "id": "2909_juan_lamote_ricarde",
+  "source_id": "2909",
+  "row_ref": "2909. Juan Lamote Ricarde",
+  "name": "Juan Lamote Ricarde",
+  "gender": "male",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Vielleségure, comarca del Alt Bearn (França), Bisbat d'Olorón"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2910_pedro_telesforo_juan_lamote_vergez"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Pedro Telesforo Juan Lamote Vergez"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vielleségure, comarca del Alt Bearn (França), Bisbat d'Olorón.\n\nCasament: amb Vicenta Vergez Lledó de Tortosa, filla de Gracián Vergez d'Oloron (França) i Teresa Lledó de Tortosa.\n\nFills: Pedro Telesforo Juan [1810].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

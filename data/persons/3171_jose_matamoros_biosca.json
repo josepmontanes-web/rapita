@@ -1,0 +1,86 @@
+{
+  "id": "3171_jose_matamoros_biosca",
+  "source_id": "3171",
+  "row_ref": "3171. José Matamoros Biosca",
+  "name": "José Matamoros Biosca",
+  "gender": "male",
+  "birth": {
+    "date": "1814-01-04",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3250_jose_matamoros_reverter",
+      "706_agustina_biosca_cid"
+    ],
+    "father": "3250_jose_matamoros_reverter",
+    "mother": "706_agustina_biosca_cid",
+    "spouse": [
+      "5392_manuela_torta_subirats"
+    ],
+    "children": [
+      "3289_jose_matamoros_torta",
+      "3291_lorenzo_matamoros_torta",
+      "3292_vicente_matamoros_torta"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Matamoros Reverter",
+      "Agustina Biosca Cid"
+    ],
+    "father_name": "José Matamoros Reverter",
+    "mother_name": "Agustina Biosca Cid",
+    "spouse_names": [
+      "Manuela Torta Subirats"
+    ],
+    "children_names": [
+      "José Matamoros Torta",
+      "Lorenzo Matamoros Torta",
+      "Vicente Matamoros Torta"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Gasparín menor",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 4 de gener de 1814 a la Ràpita.\n\nPadrins: Francisco Gasparín menor i Francisca Ortíz.\n\nCasament: el 13 de desembre de 1834 amb Manuela Torta Subirats d'Amposta [1814].\n\nFills: José [1835], María Josefa [1837], Lorenzo [1839], Vicente Antonio [1842], Felix [1850] i Juan [1850].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

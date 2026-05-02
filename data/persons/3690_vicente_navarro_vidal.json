@@ -1,0 +1,73 @@
+{
+  "id": "3690_vicente_navarro_vidal",
+  "source_id": "3690",
+  "row_ref": "3690. Vicente Navarro Vidal",
+  "name": "Vicente Navarro Vidal",
+  "gender": "male",
+  "birth": {
+    "date": "1834-10-11",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1835-03-01",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3647_tomas_navarro_lluis"
+    ],
+    "father": "3647_tomas_navarro_lluis",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomás Navarro Lluís",
+      "Maria Vidal Talarn"
+    ],
+    "father_name": "Tomás Navarro Lluis",
+    "mother_name": "Maria Vidal Talarn",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Vicente Cartes",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'11 d'octubre de 1834 a la Ràpita.\n\nPadrins: Vicente Cartes i María Safont.\n\nDefunció: l'1 de març de 1835 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

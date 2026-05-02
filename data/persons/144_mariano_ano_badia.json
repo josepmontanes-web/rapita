@@ -1,0 +1,79 @@
+{
+  "id": "144_mariano_ano_badia",
+  "source_id": "144",
+  "row_ref": "144. Mariano Añó Badia",
+  "name": "Mariano Añó Badia",
+  "gender": "male",
+  "birth": {
+    "date": "1758-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": "1808-12-02",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "142_juan_ano_arlandez",
+      "143_jayme_ano_arlandez"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Thomas Año",
+      "Vicenta Badia"
+    ],
+    "father_name": "Thomas Año",
+    "mother_name": "Vicenta Badia",
+    "spouse_names": [
+      "Francisca Hernández"
+    ],
+    "children_names": [
+      "Juan Añó Arlández",
+      "Jayme Añó Arlández"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  a Amposta [aprox. 1758].\n\nProfessió: pagès.\n\nCasament: amb Francisca Arlández [o Hernández] Curto de Tivenys [1760].\n\nFills: Juan (Amposta) [aprox 1793] i Jayme [1802].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Fonda Vella núm. 4 (ACA BGRP Cajas 34). Del novembre de 1795 fins al desembre de 1807 paga un lloguer de 4 Rv per la mateixa casa. Probablement viu a aquesta casa fins a la seua mort.\n\nDefunció: el 2 de desembre de 1808 a la Ràpita. No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

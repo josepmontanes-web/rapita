@@ -1,0 +1,82 @@
+{
+  "id": "5317_agustina_torne_grego",
+  "source_id": "5317",
+  "row_ref": "5317. Agustina Torné Grego",
+  "name": "Agustina Torné Grego",
+  "gender": "female",
+  "birth": {
+    "date": "1829-02-18",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5312_antonio_torne_caudet",
+      "2694_maria_rosa_grego_omedes"
+    ],
+    "father": "5312_antonio_torne_caudet",
+    "mother": "2694_maria_rosa_grego_omedes",
+    "spouse": [
+      "3620_francisco_navarro_comi"
+    ],
+    "children": [
+      "3687_josefa_navarro_torne"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Torné Caudet",
+      "María Rosa Grego Omedes"
+    ],
+    "father_name": "Antonio Torné Caudet",
+    "mother_name": "Maria Rosa Grego Omedes",
+    "spouse_names": [
+      "Francisco Navarro Comí"
+    ],
+    "children_names": [
+      "Josefa Navarro Torné"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Agustín Gasparín",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 18 de febrer de 1829 a la Ràpita.\n\nPadrins: Agustín Gasparín i Teresa Briciano.\n\nCasament: el 28 d'abril de 1851 amb Francisco Navarro Comí de la Ràpita [1823].\n\nFills: Juan [1852] i Josefa [1854].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

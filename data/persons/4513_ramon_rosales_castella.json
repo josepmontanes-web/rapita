@@ -1,0 +1,74 @@
+{
+  "id": "4513_ramon_rosales_castella",
+  "source_id": "4513",
+  "row_ref": "4513. Ramón Rosales Castellà",
+  "name": "Ramón Rosales Castellà",
+  "gender": "male",
+  "birth": {
+    "date": "1822-12-24",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1824-11-17",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4558_ramon_rosales_valls",
+      "1235_antonia_castella_colomines"
+    ],
+    "father": "4558_ramon_rosales_valls",
+    "mother": "1235_antonia_castella_colomines",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Ramón Rosales Valls",
+      "Antonia Castellà Colomines"
+    ],
+    "father_name": "Ramón Rosales Valls",
+    "mother_name": "Antonia Castellà Colomines",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Castellà",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 24 de desembre de 1822 a la Ràpita.\n\nPadrins: Francisco Castellà i Tomasa Castellà.\n\nDefunció: el 17 de novembre de 1824 a la Ràpita. Va morir de \"unas calenturas continuas\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

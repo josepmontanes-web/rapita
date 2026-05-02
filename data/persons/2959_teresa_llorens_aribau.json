@@ -1,0 +1,75 @@
+{
+  "id": "2959_teresa_llorens_aribau",
+  "source_id": "2959",
+  "row_ref": "2959. Teresa Llorens Aribau",
+  "name": "Teresa Llorens Aribau",
+  "gender": "female",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Igualada"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "2058_timoteo_ferrer_marti"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bartolomé Llorens",
+      "Rita Aribau"
+    ],
+    "father_name": "Bartolomé Llorens",
+    "mother_name": "Rita Aribau",
+    "spouse_names": [
+      "Timoteo Ferrer Martí"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Igualada [aprox. 1800].\n\nCasament: l'11 de maig de 1822 amb Timoteo Ferrer Martí [1800].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "1481_josefa_cid_arlandez",
+  "source_id": "1481",
+  "row_ref": "1481. Josefa Cid Arlández",
+  "name": "Josefa Cid Arlández",
+  "gender": "female",
+  "birth": {
+    "date": "1830-01-02",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1496_francisco_cid_ferrer",
+      "239_teresa_arlandez_cartes"
+    ],
+    "father": "1496_francisco_cid_ferrer",
+    "mother": "239_teresa_arlandez_cartes",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Cid Ferrer",
+      "Teresa Arlández Cartes"
+    ],
+    "father_name": "Francisco Cid Ferrer",
+    "mother_name": "Teresa Arlández Cartes",
+    "spouse_names": [
+      "José Rosales Castellà"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José García",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 2 de gener de 1830 a la Ràpita.\n\nPadrins: José García i Francisca Domenech.\n\nCasament: el 7 de desembre de 1850 amb José Rosales Castellà de la Ràpita [1827].\n\nFills: José [1855].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

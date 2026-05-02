@@ -1,0 +1,73 @@
+{
+  "id": "870_bartolome_brunet_reverte",
+  "source_id": "870",
+  "row_ref": "870. Bartolomé Brunet Reverté",
+  "name": "Bartolomé Brunet Reverté",
+  "gender": "male",
+  "birth": {
+    "date": "1848-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "845_bartolome_brunet_carbo"
+    ],
+    "father": "845_bartolome_brunet_carbo",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bartolomé Brunet Carbó",
+      "Antonia Reverter Calbet"
+    ],
+    "father_name": "Bartolomé Brunet Carbó",
+    "mother_name": "Antonia Reverter Calbet",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1848].\n\nProfessió: mariner.\n\nCasament: el 24 de març de 1871 amb Josefa Navarro Torné [1854]. Viuen al carrer de Santa Eulalia. Es casa als 23 anys. Testimonis: Andrés Adell i José … \n\nFills: Josefa Francisca [1872], Agustina [1873], Francisca [1876], Bartolomé [1878] i Francisco [1880].\n\nNo signa la declaració de naixement de la filla per no saber.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

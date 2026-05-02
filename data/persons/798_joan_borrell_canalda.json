@@ -1,0 +1,68 @@
+{
+  "id": "798_joan_borrell_canalda",
+  "source_id": "798",
+  "row_ref": "798. Joan Borrell Canalda",
+  "name": "Joan Borrell Canalda",
+  "gender": "male",
+  "birth": {
+    "date": "1870-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1870].\n\nPropietari.\n\nCasament: amb Lluisa Noel Noel de Tortosa.\n\nFills: Bernard i Joana.\n\nDefunció: el 25 de maig de 1924 als 54 anys. Vivia a la Plaça Carles III. Alcalde 1910-1913.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

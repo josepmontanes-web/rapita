@@ -1,0 +1,73 @@
+{
+  "id": "2368_jose_garcia_selles",
+  "source_id": "2368",
+  "row_ref": "2368. José García Selles",
+  "name": "José García Selles",
+  "gender": "male",
+  "birth": {
+    "date": "1842-02-09",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5091_antonia_selles_morales"
+    ],
+    "father": null,
+    "mother": "5091_antonia_selles_morales",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Garpar García Beltran",
+      "Antonia Selles Morales"
+    ],
+    "father_name": "Garpar García Beltran",
+    "mother_name": "Antonia Selles Morales",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José García",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 9 de febrer de 1842 a la Ràpita.\n\nPadrins: José García i Miguela García.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

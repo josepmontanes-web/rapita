@@ -1,0 +1,73 @@
+{
+  "id": "4979_alexandro_sans_castell",
+  "source_id": "4979",
+  "row_ref": "4979. Alexandro Sans Castell",
+  "name": "Alexandro Sans Castell",
+  "gender": "male",
+  "birth": {
+    "date": "1804-04-30",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1152_mariana_castell_ortiz"
+    ],
+    "father": null,
+    "mother": "1152_mariana_castell_ortiz",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Sans Sanarau",
+      "Mariana Castell Ortíz"
+    ],
+    "father_name": "Josef Sans Sanarau",
+    "mother_name": "Mariana Castell Ortíz",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Alexandro Campolmi",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 30 d'abril de 1804 a la Ràpita.\n\nPadrins: Alexandro Campolmi i Raymunda Cortiella.\n\nCasament: amb Josefa Solé d'Ulldecona.\n\nFills: Juan [1850].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

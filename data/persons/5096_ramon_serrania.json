@@ -1,0 +1,70 @@
+{
+  "id": "5096_ramon_serrania",
+  "source_id": "5096",
+  "row_ref": "5096. Ramón Serrania",
+  "name": "Ramón Serrania",
+  "gender": "male",
+  "birth": {
+    "date": "1751-01-01",
+    "place": "Benassal"
+  },
+  "death": {
+    "date": "1810-02-16",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Theresa Tallarda"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Benassal [aprox. 1751]. \n\nCasament: amb Teresa Tallarda de Traiguera.\n\nDefunció: el 16 de febrer de 1810 a la Ràpita. Va morir als 59 anys.\n\nAl 1787 diu que Josefa Serrania vidua de Francisco Serrania abasteix de carn a San Carlos (ACA BGPR Correspondencia Caixa 9). No diu que sigui veïna.\n\nFrancisco Serrania el año 1817 debe 12 meses de alquiler a 28 Rs mensuales.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

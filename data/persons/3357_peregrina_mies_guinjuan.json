@@ -1,0 +1,73 @@
+{
+  "id": "3357_peregrina_mies_guinjuan",
+  "source_id": "3357",
+  "row_ref": "3357. Peregrina Míes Guinjuan",
+  "name": "Peregrina Míes Guinjuan",
+  "gender": "female",
+  "birth": {
+    "date": "1792-03-18",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3363_sebastian_mies_montes"
+    ],
+    "father": "3363_sebastian_mies_montes",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Sebastián Míes Montes",
+      "Antonia Guinjuan Rivé"
+    ],
+    "father_name": "Sebastián Míes Montes",
+    "mother_name": "Antonia Guinjuan Rivé",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Angelo Rossé",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 18 de març de 1792 a la Ràpita.\n\nPadrins: Angelo Rossé i Peregrina Temprado.\n\nPodría ser que Peregrina Míes Guinjuan [1792] i Antonia Míes Guinjuan [1800] foren la mateixa persona.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

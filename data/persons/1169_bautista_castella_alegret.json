@@ -1,0 +1,90 @@
+{
+  "id": "1169_bautista_castella_alegret",
+  "source_id": "1169",
+  "row_ref": "1169. Bautista Castellà Alegret",
+  "name": "Bautista Castellà Alegret",
+  "gender": "male",
+  "birth": {
+    "date": "1820-08-26",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1287_juan_castella_mola",
+      "71_agueda_alegret_cid"
+    ],
+    "father": "1287_juan_castella_mola",
+    "mother": "71_agueda_alegret_cid",
+    "spouse": [
+      "3340_antonia_mies_andreu"
+    ],
+    "children": [
+      "1295_jose_castella_navarro",
+      "1296_maria_rosa_castella_navarro",
+      "1297_esperanza_castella_navarro",
+      "1299_francisca_castella_navarro",
+      "1300_manuela_castella_navarro"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Castellà Mola",
+      "Agueda Alegret Cid"
+    ],
+    "father_name": "Juan Castellà Mola",
+    "mother_name": "Agueda Alegret Cid",
+    "spouse_names": [
+      "Antonia Míes Andreu"
+    ],
+    "children_names": [
+      "José Castellà Navarro",
+      "Maria Rosa Castellà Navarro",
+      "Esperanza Castellà Navarro",
+      "Francisca Castellà Navarro",
+      "Manuela Castellà Navarro"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Juan Bautista Serrano",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 26 d'agost de 1820 a la Ràpita.\n\nPadrí: Don Juan Bautista Serrano.\n\nCasament: el 26 de juliol 1847 amb Antonia Míes Andreu de la Ràpita [1828].\n\nFills: Bautista [1850], María [1853], Casimiro [1855] i Tomás [1860].\n\nDefunció: el 30 de juliol de 1877 a la Ràpita de \"congestión pulmonar\". Declara la mor al registre civil Angela Sánchez fadrina, de Castellote (Terol).\n\nVenta: de Mariano Castellá y Cid a Juan Bautista Castellá y Alegret, de sitio para edificar que comprende de ancho por la parte de la calle del Mar o de Pescadores, carretera de la Encañizada 50 palmos por 46 de fondo. Linda con Jacinto Balaguer, con camino de las huertas viejas y resto de su heredad. 4 de febrero de 1859. Esc. Juan Ventosa de Amposta. Valor 1750.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "317_maria_balada",
+  "source_id": "317",
+  "row_ref": "317. María Balada",
+  "name": "María Balada",
+  "gender": "female",
+  "birth": {
+    "date": "1740-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "4172_juan_reverter"
+    ],
+    "children": [
+      "1145_manuela_castell_balada"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Juan Reverter"
+    ],
+    "children_names": [
+      "Manuela Castell Balada"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1740].\n\nCasament: amb Juan Reverter d'Alcanar [1738]. A l'estat de veïns de setembre de 1798 diu que viuen a la Ràpita a una casa al costat de l'esglesia (ACA BGRP Cajas 34).\n\nLa vídua passa dues parts d'aquesta terra a Miguel Balada i el seu fill Juan (Doc. 1) [podria ser Miguel Balada Lluch [1777] i el seu fill Juan Balada Balada [1796] que sembla que viuen a la mateixa casa del costat de l'esglesia].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "256_tomasa_arlandez_cid",
+  "source_id": "256",
+  "row_ref": "256. Tomasa Arlández Cid",
+  "name": "Tomasa Arlández Cid",
+  "gender": "female",
+  "birth": {
+    "date": "1834-03-06",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "266_tomas_arlandez_riba"
+    ],
+    "father": "266_tomas_arlandez_riba",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomás Arlández Riba",
+      "Mª.de la Cinta Cid Ferré"
+    ],
+    "father_name": "Tomás Arlández Riba",
+    "mother_name": "Mª.de la Cinta Cid Ferré",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Agustín Sancho",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 6 de març de 1834 a la Ràpita.\n\nPadrins: Agustín Sancho i Dorotea Adell.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

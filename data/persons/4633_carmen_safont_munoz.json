@@ -1,0 +1,74 @@
+{
+  "id": "4633_carmen_safont_munoz",
+  "source_id": "4633",
+  "row_ref": "4633. Carmen Safont Muñoz",
+  "name": "Carmen Safont Muñoz",
+  "gender": "female",
+  "birth": {
+    "date": "1840-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1843-02-13",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4638_pedro_safont_pasqual",
+      "3577_rosa_munoz_thomas"
+    ],
+    "father": "4638_pedro_safont_pasqual",
+    "mother": "3577_rosa_munoz_thomas",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Safont Pasqual",
+      "Rosa Muñoz Thomas"
+    ],
+    "father_name": "Pedro Safont Pasqual",
+    "mother_name": "Rosa Muñoz Thomas",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1840]. \n\nDefunció: el 13 de febrer de 1843 a la Ràpita. Va morir als 3 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "1847_luis_esteller_gonzalez",
+  "source_id": "1847",
+  "row_ref": "1847. Luís Esteller Gonzalez",
+  "name": "Luís Esteller Gonzalez",
+  "gender": "male",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1810]\n\nProfessió: \"medico cirujano\".\n\nCasament: amb Josefa Gil de la Ràpita.\n\nFills: Cinta [1855] i José [1858].\n\nHipoteca: Vicente Lletí y Fonollosa, labrador de Amposta y José Subirats y Miralles, labrador de Freginals deben a D. Luís Esteller y Gonzalez, cirujano de San Carlos. Vicente Lletí hipoteca una casa de la calle San Isidro que linda con Pedro Biosca, con Vicente Gombau y con tierras que fueron de las Monjas. José Subirats hipoteca una casa en la calle San Isidro que linda con Manuel Bel y con Josefa Puig. 28 de octubre de 1858. Not. Juan Ventosa de Amposta.\nEs un dels 28 veïns de la Ràpita que figuren al primer cens electoral de 1867, diu que viu a la \"Plaza Mayor\", 19.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "4960_miguel_juan_sans_harlandes",
+  "source_id": "4960",
+  "row_ref": "4960. Miguel Juan Sans Harlandes",
+  "name": "Miguel Juan Sans Harlandes",
+  "gender": "male",
+  "birth": {
+    "date": "1822-01-29",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4975_juan_sans_castell"
+    ],
+    "father": "4975_juan_sans_castell",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Sans Castell",
+      "Maria Harlandes Cavaller"
+    ],
+    "father_name": "Juan Sans Castell",
+    "mother_name": "Maria Harlandes Cavaller",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Bartolomé Campamar",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 29 de gener de 1822 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

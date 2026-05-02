@@ -1,0 +1,83 @@
+{
+  "id": "2380_jacinto_garriga_ballester",
+  "source_id": "2380",
+  "row_ref": "2380. Jacinto Garriga Ballester",
+  "name": "Jacinto Garriga Ballester",
+  "gender": "male",
+  "birth": {
+    "date": "1780-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2380_jacinto_garriga_ballester"
+    ],
+    "father": "2380_jacinto_garriga_ballester",
+    "mother": null,
+    "spouse": [
+      "5482_ana_maria_verge_salvador"
+    ],
+    "children": [
+      "2380_jacinto_garriga_ballester",
+      "2384_andres_garriga_verge"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Jacinto Garriga Ballester",
+      "Josefa Ballester"
+    ],
+    "father_name": "Jacinto Garriga",
+    "mother_name": "Josefa Ballester",
+    "spouse_names": [
+      "Ana María Verge Salvador"
+    ],
+    "children_names": [
+      "Jacinto Garriga Ballester",
+      "Andrés Garriga Verge"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1780].\n\nCasament: el 14 d'abril de 1799 amb Ana María Verge Salvador de la Jana [1780].\n\nFills: Andrés [1808].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

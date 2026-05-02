@@ -1,0 +1,68 @@
+{
+  "id": "3125_maria_marti_miralles",
+  "source_id": "3125",
+  "row_ref": "3125. María Martí Miralles",
+  "name": "María Martí Miralles",
+  "gender": "female",
+  "birth": {
+    "date": "1847-01-01",
+    "place": "Freginals"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Freginals [aprox. 1847].\n\nCasament: amb Vicente Domenech.\n\nCasament: el 14 de febrer de 1881 amb Estevan Mayals Cartes de Tortosa [1840]. Es casa als 33 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

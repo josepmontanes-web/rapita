@@ -1,0 +1,68 @@
+{
+  "id": "2752_vicente_guasca_exposito",
+  "source_id": "2752",
+  "row_ref": "2752. Vicente Guasca Expósito",
+  "name": "Vicente Guasca Expósito",
+  "gender": "male",
+  "birth": {
+    "date": "1878-01-01",
+    "place": "Tarragona"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tarragona [aprox. 1878].\n\nDefunció: el 20 de gener de 1881 a la Ràpita als 3 anys de \"una afección espasmódica\". Declara la mor la seua germana adoptiva Rosa Samper de 15 anys, fadrina.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

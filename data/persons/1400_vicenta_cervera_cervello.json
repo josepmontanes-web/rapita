@@ -1,0 +1,75 @@
+{
+  "id": "1400_vicenta_cervera_cervello",
+  "source_id": "1400",
+  "row_ref": "1400. Vicenta Cervera Cervelló",
+  "name": "Vicenta Cervera Cervelló",
+  "gender": "female",
+  "birth": {
+    "date": "1815-01-01",
+    "place": "Sant Mateu"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "2073_jose_ferrer_rostoll"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Cervera",
+      "Josefa Cervelló"
+    ],
+    "father_name": "José Cervera",
+    "mother_name": "Josefa Cervelló",
+    "spouse_names": [
+      "José Ferrer Rostoll"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Sant Mateu [aprox. 1815].\n\nCasament: el 12 d'abril de 1837 amb José Ferrer Rostoll d'Altea [1800].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

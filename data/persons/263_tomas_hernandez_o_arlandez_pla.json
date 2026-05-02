@@ -1,0 +1,85 @@
+{
+  "id": "263_tomas_hernandez_o_arlandez_pla",
+  "source_id": "263",
+  "row_ref": "263. Tomás Hernández [o Arlández] Pla",
+  "name": "Tomás Hernández [o Arlández] Pla",
+  "gender": "male",
+  "birth": {
+    "date": "1768-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1824-02-25",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3975_antonia_pla"
+    ],
+    "father": null,
+    "mother": "3975_antonia_pla",
+    "spouse": [],
+    "children": [
+      "243_vicente_arlandez_o_hernandez_cavaller",
+      "244_rosa_arlandez_o_hernandez_cavaller",
+      "247_theresa_arlandez_o_hernandez_cavaller",
+      "248_isabel_arlandez_o_hernandez_cavaller"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José o Eugenio Hernández",
+      "Antonia Pla"
+    ],
+    "father_name": "José o Eugenio Hernández",
+    "mother_name": "Antonia Pla",
+    "spouse_names": [
+      "Mª Francisca Cavaller Roig"
+    ],
+    "children_names": [
+      "Vicente Arlández [o Hernández] Cavaller",
+      "Rosa Arlández [o Hernández] Cavaller",
+      "Theresa Arlández [o Hernández] Cavaller",
+      "Isabel Arlández [o Hernández] Cavaller"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  a Tortosa [aprox. 1768].\n\nProfessió: pagès.\n\nCasament: amb María Francisca Cavaller Roig de Tortosa [1766].\n\nFills: Vicente [1792], María [1795], Rosa (Salines dels Alfacs [aprox 1797], Antonia [1800], Teresa [1805] i Isabel [1808].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu al carrer davant el canal i l'horta  (ACA BGRP Cajas 34). Al gener de 1799 paga un lloguer de 8 Rv a Patrimoni.\n\nDefunció: el 25 de febrer de 1824 a la Ràpita. Va morir als 56 anys de \"muerte natural\". Fa testament en poder de Narciso Esteller. A la seva partida de defunció el seu cognom apareix com Arlandes.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

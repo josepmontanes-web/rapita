@@ -1,0 +1,83 @@
+{
+  "id": "5169_bautista_sole_selasuela",
+  "source_id": "5169",
+  "row_ref": "5169. Bautista Solé Selasuela",
+  "name": "Bautista Solé Selasuela",
+  "gender": "male",
+  "birth": {
+    "date": "1795-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5166_jose_sole_cisca"
+    ],
+    "father": "5166_jose_sole_cisca",
+    "mother": null,
+    "spouse": [
+      "820_mariana_bosch_torta"
+    ],
+    "children": [
+      "5164_manuel_sole_bosch",
+      "5165_concepcion_sole_bosch"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Solé Ciscà",
+      "Marcela Selasuela"
+    ],
+    "father_name": "José Solé",
+    "mother_name": "Marcela Selasuela",
+    "spouse_names": [
+      "Mariana Bosch Torta"
+    ],
+    "children_names": [
+      "Manuel Solé Bosch",
+      "Concepción Solé Bosch"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1795]. \n\nCasament: amb Mariana Bosch Torta d'Amposta [1795].\n\nFills: Concepción [1819] i Manuel [1823].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

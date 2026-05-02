@@ -1,0 +1,82 @@
+{
+  "id": "3581_francisca_murall",
+  "source_id": "3581",
+  "row_ref": "3581. Francisca Murall",
+  "name": "Francisca Murall",
+  "gender": "female",
+  "birth": {
+    "date": "1754-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1831-05-04",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "679_francisco_bernis"
+    ],
+    "children": [
+      "689_jeronima_bernis_murall",
+      "690_pascual_bernis_murall",
+      "691_jose_francisco_bernis_murall",
+      "692_maria_cinta_bernis_murall"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Francisco Bernis"
+    ],
+    "children_names": [
+      "Jerónima Bernis Murall",
+      "Pascual Bernis Murall",
+      "José Francisco Bernis Murall",
+      "Maria Cinta Bernis Murall"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1754]. \n\nCasament: amb Francisco Bernis de Barcelona [1750].\n\nFills: Gerónima [aprox 1790], Pascual (Tortosa) [aprox 1795], José Francisco (Tortosa) [aprox 1800] i María Cinta [aprox 1810].\n\nDefunció: el 4 de maig de 1831 a la Ràpita. Va morir als 77 anys de \"aproplegia\". No fa testament. \"Por bien de almas dexó 58 Reales de vellón los que quedan cumplidos\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "2147_juan_bautista_fibla_sancho",
+  "source_id": "2147",
+  "row_ref": "2147. Juan Bautista Fibla Sancho",
+  "name": "Juan Bautista Fibla Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1830-09-24",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2138_juan_fibla_querol",
+      "4944_paula_sancho_subirats"
+    ],
+    "father": "2138_juan_fibla_querol",
+    "mother": "4944_paula_sancho_subirats",
+    "spouse": [
+      "3679_mariana_navarro_sol"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Fibla Querol",
+      "Paula Sancho Subirats"
+    ],
+    "father_name": "Juan Fibla Querol",
+    "mother_name": "Paula Sancho Subirats",
+    "spouse_names": [
+      "Mariana Navarro Sol"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Andrés Verge",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 24 de setembre de 1830 a la Ràpita.\n\nPadrins: Andrés Verge i Rafaela Verge.\n\nProfessió: pagès.\n\nCasament: l'1 de desembre de 1854 amb Mariana Navarro Sol [1831]. Testimonis: Miguel Clua i José Chalé.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

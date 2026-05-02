@@ -1,0 +1,74 @@
+{
+  "id": "2699_pedro_nolasco_guardia_andreu",
+  "source_id": "2699",
+  "row_ref": "2699. Pedro Nolasco Guardia Andreu",
+  "name": "Pedro Nolasco Guardia Andreu",
+  "gender": "male",
+  "birth": {
+    "date": "1833-01-30",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1835-01-12",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2711_agustin_guardia_bort",
+      "97_rosa_andreu_fontanet"
+    ],
+    "father": "2711_agustin_guardia_bort",
+    "mother": "97_rosa_andreu_fontanet",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustín Guardia Bort",
+      "Rosa Andreu Fontanet"
+    ],
+    "father_name": "Agustín Guardia Bort",
+    "mother_name": "Rosa Andreu Fontanet",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Guardia",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 30 de gener de 1833 a la Ràpita.\n\nPadrins: Francisco Guardia i Josefa Bort.\n\nDefunció: el 12 de gener de 1835 a la Ràpita. Va ser enterrat el mateix dia.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

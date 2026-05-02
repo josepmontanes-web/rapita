@@ -1,0 +1,74 @@
+{
+  "id": "116_gaspar_enguera_o_anguera_reverter",
+  "source_id": "116",
+  "row_ref": "116. Gaspar Enguera [o Anguera] Reverter",
+  "name": "Gaspar Enguera [o Anguera] Reverter",
+  "gender": "male",
+  "birth": {
+    "date": "1834-01-07",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4919_jose_sancho_querol",
+      "4204_vicenta_reverter_balaguer"
+    ],
+    "father": "4919_jose_sancho_querol",
+    "mother": "4204_vicenta_reverter_balaguer",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Sancho Querol",
+      "Vicenta Reverter Balaguer"
+    ],
+    "father_name": "José Enguera Sancho",
+    "mother_name": "Vicenta Reverter Balaguer",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Tomás Cid",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  el 7 de gener de 1834 a la Ràpita.\n\nEls padrins son Tomás Cid i Lorenza Reverter Balaguer.\n\nProfessió: pagès.\n\nCasament: amb Teresa Reverté Torta de la Ràpita [1850].\n\nFills: José [1879].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

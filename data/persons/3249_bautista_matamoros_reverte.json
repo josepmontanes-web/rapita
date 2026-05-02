@@ -1,0 +1,77 @@
+{
+  "id": "3249_bautista_matamoros_reverte",
+  "source_id": "3249",
+  "row_ref": "3249. Bautista Matamoros Reverté",
+  "name": "Bautista Matamoros Reverté",
+  "gender": "male",
+  "birth": {
+    "date": "1773-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1846-12-24",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3159_bautista_matamoros"
+    ],
+    "father": "3159_bautista_matamoros",
+    "mother": null,
+    "spouse": [
+      "2944_tomasa_lleti_navarro"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Matamoros",
+      "Teresa Reverté"
+    ],
+    "father_name": "Bautista Matamoros",
+    "mother_name": "Teresa Reverté",
+    "spouse_names": [
+      "Tomasa Lletí Navarro"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1773]. \n\nCasament: amb Tomasa Lletí Navarro de Freginals [1790].\n\nFills: Ramona [1819], Josefa [1822], Miguel Ramón [1825], José [1829] i Manuela [1834].\n\nDefunció: el 24 de desembre de 1846 a la Ràpita. Va morir als 73 anys de \"mal de pecho\". No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "3942_leandro_pino_bedos",
+  "source_id": "3942",
+  "row_ref": "3942. Leandro Pino Bedós",
+  "name": "Leandro Pino Bedós",
+  "gender": "male",
+  "birth": {
+    "date": "1833-03-14",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1833-03-16",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3935_victorio_pino_aliau"
+    ],
+    "father": "3935_victorio_pino_aliau",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Victorio Pino Aliau",
+      "Maria Ana Bedós Rallo"
+    ],
+    "father_name": "Victorio Pino Aliau",
+    "mother_name": "Maria Ana Bedós Rallo",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 14 de març de 1833 a la Ràpita.\n\nPadrina: Tomasa Orgellés.\n\nDefunció: el 16 de març de 1833 a la Ràpita.\n\nEs bessó de Madrona.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "3071_tomas_macian_sanchis",
+  "source_id": "3071",
+  "row_ref": "3071. Tomás Macián Sanchis",
+  "name": "Tomás Macián Sanchis",
+  "gender": "male",
+  "birth": {
+    "date": "1808-02-09",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "721_maria_biosca_lopez"
+    ],
+    "children": [
+      "3058_pedro_tomas_macian_biosca"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Macián Asencio",
+      "Catalina Sanchis Yserte"
+    ],
+    "father_name": "Josef Macián Asencio",
+    "mother_name": "Catalina Sanchis Yserte",
+    "spouse_names": [
+      "Antonia Rue",
+      "Maria Biosca López"
+    ],
+    "children_names": [
+      "Pedro Tomás Macián Biosca"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Thomas Ferrer",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 9 de febrer de 1808 a la Ràpita.\n\nPadrins: Tomás Ferrer i María Pla.\n\nCasament: amb Antonia Rue.\n\nCasament: el 27 de juny de 1835 amb María Biosca López de la Ràpita [1818].\n\nFills: Pedro Tomás [1836], Teresa [1841], Vicenta [1843], Tomasa [1844], María Josefa [1846] i Agustín [1855].\n\n De l'1 d'octubre de 1835 al 31 de gener de 1836 ha de pagar un lloguer de 4 Rs mensuals pel pis alt interior de la casa 1 del carrer del Forn. (AGP.PER.LEG.1073/23 [Juan Vecino]).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

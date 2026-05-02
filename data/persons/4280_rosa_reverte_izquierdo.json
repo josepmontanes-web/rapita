@@ -1,0 +1,76 @@
+{
+  "id": "4280_rosa_reverte_izquierdo",
+  "source_id": "4280",
+  "row_ref": "4280. Rosa Reverté Izquierdo",
+  "name": "Rosa Reverté Izquierdo",
+  "gender": "female",
+  "birth": {
+    "date": "1826-04-19",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4259_francisco_reverter_forner",
+      "2834_josefa_izquierdo_caldero"
+    ],
+    "father": "4259_francisco_reverter_forner",
+    "mother": "2834_josefa_izquierdo_caldero",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Reverter Forner",
+      "Josefa Izquierdo Calderó"
+    ],
+    "father_name": "Francisco Reverter Forner",
+    "mother_name": "Josefa Izquierdo Calderó",
+    "spouse_names": [
+      "José Guardia Bort"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Lorenzo Casajust",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 19 d'abril de 1826 a la Ràpita.\n\nPadrins: Lorenzo Casajust i Esperanza Izquierdo.\n\nCasament: el 29 de juny de 1848 amb José Guardia Bort de la Ràpita [1823].\n\nFills: José [1852], Francisco [1858] i María Cinta [1860].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "2020_pedro_ferrer_conillera",
+  "source_id": "2020",
+  "row_ref": "2020. Pedro Ferrer Conillera",
+  "name": "Pedro Ferrer Conillera",
+  "gender": "male",
+  "birth": {
+    "date": "1785-01-01",
+    "place": "Salomó (Tarragona)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "605_miguel_beltran_ferrer"
+    ],
+    "father": "605_miguel_beltran_ferrer",
+    "mother": null,
+    "spouse": [
+      "5214_teresa_subirats_simon"
+    ],
+    "children": [
+      "2105_raymunda_ferrer_subirats",
+      "2106_pedro_ferrer_subirats"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Beltran Ferrer",
+      "Francisca Conillera"
+    ],
+    "father_name": "Miguel Ferrer",
+    "mother_name": "Francisca Conillera",
+    "spouse_names": [
+      "Teresa Subirats Simón"
+    ],
+    "children_names": [
+      "Raymunda Ferrer Subirats",
+      "Pedro Ferrer Subirats"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Salomó (Tarragona) [aprox. 1785].\n\nEl seu pare podria ser Pedro Ferrer [1758] que va morir a la Ràpita al 1846, però no es segur.\n\nCasament: amb Teresa Subirats Simón de Godall [1785].\n\nFills: Raymunda [1811], Pedro [1814] i Jayme [1819].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

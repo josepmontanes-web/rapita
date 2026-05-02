@@ -1,0 +1,72 @@
+{
+  "id": "204_tomas_arbo_sanz",
+  "source_id": "204",
+  "row_ref": "204. Tomás Arbó Sanz",
+  "name": "Tomás Arbó Sanz",
+  "gender": "male",
+  "birth": {
+    "date": "1857-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "5024_rita_sanz_tallada"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Rita Sanz Tallada"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1857].\n\nProfessió: mariner.\n\nCasament: el 25 d'agost de 1881 amb Teresa Castellà Guzmán de la Ràpita [1860]. Es casa als 24 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "5254_andres_agustin_talarn_sans",
+  "source_id": "5254",
+  "row_ref": "5254. Andrés Agustín Talarn Sans",
+  "name": "Andrés Agustín Talarn Sans",
+  "gender": "male",
+  "birth": {
+    "date": "1830-09-02",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5240_antonio_talarn_bosch",
+      "4984_rafaela_sans_cruelles"
+    ],
+    "father": "5240_antonio_talarn_bosch",
+    "mother": "4984_rafaela_sans_cruelles",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Talarn Bosch",
+      "Rafaela Sans Cruelles"
+    ],
+    "father_name": "Antonio Talarn Bosch",
+    "mother_name": "Rafaela Sans Cruelles",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Andrés Sans",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 2 de setembre de 1830 a la Ràpita.\n\nPadrins: Andrés Sans i Francisca Sans.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "2249_joaquin_fornies",
+  "source_id": "2249",
+  "row_ref": "2249. Joaquín Fornies",
+  "name": "Joaquín Fornies",
+  "gender": "male",
+  "birth": {
+    "date": "1787-01-01",
+    "place": "Zaragoza"
+  },
+  "death": {
+    "date": "1804-03-15",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Fornies"
+    ],
+    "father_name": "Josef Fornies",
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Soldat"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Zaragoza [aprox. 1787].\n\nDefunció: el 15 de març de 1804 a la Ràpita. \"Soldado de la 6ª Cia. del 6º batallón del departamento de Cartagena, embarcado en la Goleta Argonauta que se encontró el día antecedente muerto en la playa de este puerto de los Alfaques\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

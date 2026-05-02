@@ -1,0 +1,81 @@
+{
+  "id": "1392_juan_bautista_cera_mangraner",
+  "source_id": "1392",
+  "row_ref": "1392. Juan Bautista Cera Mangraner",
+  "name": "Juan Bautista Cera Mangraner",
+  "gender": "male",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1394_juan_cera_moreso"
+    ],
+    "father": "1394_juan_cera_moreso",
+    "mother": null,
+    "spouse": [
+      "4145_policarpa_ramon_guardino"
+    ],
+    "children": [
+      "1398_isabel_cera_ramon"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Cera Moreso",
+      "Isabel Mangraner"
+    ],
+    "father_name": "Juan Cera",
+    "mother_name": "Isabel Mangraner",
+    "spouse_names": [
+      "Policarpa Ramon Guardino"
+    ],
+    "children_names": [
+      "Isabel Cera Ramon"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1810].\n\nCasament: el 7 d'abril de 1836 amb Policarpa Ramón Guardino de Vinaròs [1814]. Es casa als 26 anys.\n\nFills: Isabel [1836].\n\nEs germà de Francisca Cera Mangraner [1809].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

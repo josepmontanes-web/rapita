@@ -1,0 +1,77 @@
+{
+  "id": "1457_juan_chimeno_o_ximeno_reverter",
+  "source_id": "1457",
+  "row_ref": "1457. Juan Chimeno [o Ximeno] Reverter",
+  "name": "Juan Chimeno [o Ximeno] Reverter",
+  "gender": "male",
+  "birth": {
+    "date": "1833-11-24",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4318_miguel_reverter_queralt"
+    ],
+    "father": "4318_miguel_reverter_queralt",
+    "mother": null,
+    "spouse": [
+      "5679_maria_zaragoza_tora"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Reverter Queralt",
+      "Maria Reverter Balagué"
+    ],
+    "father_name": "Miguel Ximeno Queralt",
+    "mother_name": "Maria Reverter Balagué",
+    "spouse_names": [
+      "Maria Zaragoza Torà"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Miguel Sanchiz",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Mariner"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 24 de novembre de 1833 a la Ràpita.\n\nPadrins: Miguel Sanchiz i Paula Sanchiz.\n\nProfessió: mariner.\n\nCasament: el 31 d'octubre de 1853 amb María Zaragoza Torá [1831]. Testimonis: Vicente Alcañíz i Mariano Monfort \"Guardia civiles\".\n\nFills: Francisca [1855].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

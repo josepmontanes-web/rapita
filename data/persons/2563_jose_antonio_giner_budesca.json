@@ -1,0 +1,81 @@
+{
+  "id": "2563_jose_antonio_giner_budesca",
+  "source_id": "2563",
+  "row_ref": "2563. José Antonio Giner Budesca",
+  "name": "José Antonio Giner Budesca",
+  "gender": "male",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1814-04-21",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "881_maria_budesca_fibla"
+    ],
+    "father": null,
+    "mother": "881_maria_budesca_fibla",
+    "spouse": [
+      "557_maria_bel_castell"
+    ],
+    "children": [
+      "2560_juana_giner_bel"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Antonio Giner Ferrán",
+      "María Budesca Fibla"
+    ],
+    "father_name": "Josef Antonio Giner Ferrán",
+    "mother_name": "Maria Budesca Fibla",
+    "spouse_names": [
+      "Maria Bel Castell"
+    ],
+    "children_names": [
+      "Juana Giner Bel"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1790].\n\nCasament: el 30 de maig de 1810 amb María Bel Castell de Freginals [1792]. Es casa als 22 anys.\n\nFills: Juana [1811].\n\nDefunció: el 21 d'abril de 1814 a la Ràpita. Va morir als 24 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

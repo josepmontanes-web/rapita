@@ -1,0 +1,73 @@
+{
+  "id": "1977_maria_francisca_fenebrel_grillet",
+  "source_id": "1977",
+  "row_ref": "1977. María Francisca Fenebrel Grillet",
+  "name": "María Francisca Fenebrel Grillet",
+  "gender": "female",
+  "birth": {
+    "date": "1805-09-05",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1978_antonio_fenebrel_navarro"
+    ],
+    "father": "1978_antonio_fenebrel_navarro",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Fenebrel Navarro",
+      "Francisca Grillet"
+    ],
+    "father_name": "Antonio Fenebrel Navarro",
+    "mother_name": "Francisca Grillet",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco García",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 5 de setembre de 1805 a la Ràpita.\n\nEl pare té 40 anys i la mare 22.\n\nPadrins: Francisco García i Josefa Sancho.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

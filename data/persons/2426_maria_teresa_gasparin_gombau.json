@@ -1,0 +1,74 @@
+{
+  "id": "2426_maria_teresa_gasparin_gombau",
+  "source_id": "2426",
+  "row_ref": "2426. María Teresa Gasparín Gombau",
+  "name": "María Teresa Gasparín Gombau",
+  "gender": "female",
+  "birth": {
+    "date": "1828-10-15",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2436_francisco_gasparin_matamoros",
+      "2642_barbara_gombau_ortiz"
+    ],
+    "father": "2436_francisco_gasparin_matamoros",
+    "mother": "2642_barbara_gombau_ortiz",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Gasparín Matamoros",
+      "Bàrbara Gombau Ortiz"
+    ],
+    "father_name": "Francisco Gasparín Matamoros",
+    "mother_name": "Barbara Gombau Ortiz",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Mariano Puigcerver",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 15 d'octubre de 1828 a la Ràpita.\n\nPadrins: Mariano Puigcerver i Manuela Beltran.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

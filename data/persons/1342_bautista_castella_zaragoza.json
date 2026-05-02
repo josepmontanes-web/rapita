@@ -1,0 +1,77 @@
+{
+  "id": "1342_bautista_castella_zaragoza",
+  "source_id": "1342",
+  "row_ref": "1342. Bautista Castellà Zaragoza",
+  "name": "Bautista Castellà Zaragoza",
+  "gender": "male",
+  "birth": {
+    "date": "1759-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1262_bautista_castella_font"
+    ],
+    "father": "1262_bautista_castella_font",
+    "mother": null,
+    "spouse": [
+      "928_josefa_caldero_ferre"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Castellà Font",
+      "Josefa Zaragoza"
+    ],
+    "father_name": "Bautista Castellà",
+    "mother_name": "Josefa Zaragoza",
+    "spouse_names": [
+      "Josefa Calderó Ferré"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pescador"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1759].\n\nProfessió: pescador.\n\nCasament: amb Josefa Calderó Ferré de Tortosa [1765].\n\nFills: Francisca [1790], Juan [1795], Ramón (Tortosa) [1800], Tomasa (Tortosa) [1800], Vicente (Tortosa) [1803] i María Teresa [1805].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu al barri dels pescadors  (ACA BGRP Cajas 34).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

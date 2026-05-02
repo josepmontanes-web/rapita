@@ -1,0 +1,74 @@
+{
+  "id": "3612_ramon_navarro_castella",
+  "source_id": "3612",
+  "row_ref": "3612. Ramon Navarro Castellà",
+  "name": "Ramon Navarro Castellà",
+  "gender": "male",
+  "birth": {
+    "date": "1839-06-16",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1839-06-16",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "460_josef_balaguer_salvado",
+      "1236_margarita_castella_colomines"
+    ],
+    "father": "460_josef_balaguer_salvado",
+    "mother": "1236_margarita_castella_colomines",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Balaguer Salvadó",
+      "Margarita Castellà Colomines"
+    ],
+    "father_name": "Josef Navarro Balaguer",
+    "mother_name": "Margarita Castellà Colomines",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 16 de juny de 1839 a la Ràpita.\n\nDefunció: el 16 de juny de 1839 a la Ràpita. Va morir al naixer.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

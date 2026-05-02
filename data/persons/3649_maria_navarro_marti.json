@@ -1,0 +1,76 @@
+{
+  "id": "3649_maria_navarro_marti",
+  "source_id": "3649",
+  "row_ref": "3649. Maria Navarro Martí",
+  "name": "Maria Navarro Martí",
+  "gender": "female",
+  "birth": {
+    "date": "1832-09-08",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3619_juan_navarro_comi",
+      "3119_antonia_marti_castells"
+    ],
+    "father": "3619_juan_navarro_comi",
+    "mother": "3119_antonia_marti_castells",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Navarro Comí",
+      "Antonia Martí Castells"
+    ],
+    "father_name": "Juan Navarro Comí",
+    "mother_name": "Antonia Martí Castells",
+    "spouse_names": [
+      "José Vidal Rosales"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Navarro",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 8 de setembre de 1832 a la Ràpita.\n\nPadrins: Juan Navarro i Rosa Comí.\n\nCasament: el 12 d'abril de 1855 amb José Vidal Rosales de la Ràpita [1830]. Testimonis: Vicente Vidal i Rafael Balada.\n\nFills: Joaquín [1856] i Josefa [1857].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

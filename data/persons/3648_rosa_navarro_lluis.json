@@ -1,0 +1,80 @@
+{
+  "id": "3648_rosa_navarro_lluis",
+  "source_id": "3648",
+  "row_ref": "3648. Rosa Navarro Lluís",
+  "name": "Rosa Navarro Lluís",
+  "gender": "female",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1835-10-25",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3593_pedro_navarro",
+      "2973_ildefonsa_lluis"
+    ],
+    "father": "3593_pedro_navarro",
+    "mother": "2973_ildefonsa_lluis",
+    "spouse": [],
+    "children": [
+      "700_maria_francisca_bese_navarro"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Navarro",
+      "Ildefonsa Lluís"
+    ],
+    "father_name": "Pedro Navarro",
+    "mother_name": "Ildefonsa Lluís",
+    "spouse_names": [
+      "Juan Besé Queral"
+    ],
+    "children_names": [
+      "Maria Francisca Besé Navarro"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1800]. \n\nCasament: amb Juan Besé Queral de Tortosa, fill de Melchor de Castellfort i de Teresa de Tortosa.\n\nFills: María Francisca [1822].\n\nDefunció: el 25 d'octubre de 1835 a la Ràpita. \"No hizo testamento por no tener\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

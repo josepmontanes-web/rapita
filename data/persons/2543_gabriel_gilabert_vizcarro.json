@@ -1,0 +1,68 @@
+{
+  "id": "2543_gabriel_gilabert_vizcarro",
+  "source_id": "2543",
+  "row_ref": "2543. Gabriel Gilabert Vizcarro",
+  "name": "Gabriel Gilabert Vizcarro",
+  "gender": "male",
+  "birth": {
+    "date": "1816-01-01",
+    "place": "Ulldecona (aprox"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Ulldecona (aprox. 1816].\n\nProfessió: cortante.\n\nCasament: amb Magdalena Ferré d'Ulldecona [1820].\n\nToda aquella porción de tierra para [impasto?] o sitio para edificar que contiene 24 palmos catalanes de luz o de ancho y de unos sesenta de profundidad [¿?], sita [] la Población de San Carlos de la Rápita y en la calle del Arrabal de San Isidro que confronta con esta misma calle por la parte de medio dia a oriente con José [Brenal o Crunal ¿?] y a poniente y norte con la [] de Fernando [o Francisco] Guardia y Sancho que tiene bajo directo y alodial dominio de la Amortización el censo de []. Porque no de 46 duros plata que recibió el vendedor []. \n20 de noviembre de 1856\n[Notari don Juan Navaro de Amposta ¿? 2 enero 1857]\nVenta: D. Miguel Rosales propietario de San Carlos a Gabriel Gilabert y Vizcarro labrador.\nValor de la finca 920\n\nUna porción de tierra o sitio para edificar situada en la población de San Carlos y calle del Arraval de San Isidro que comprende de ancho por parte de esta calle 24 palmos catalanes poco más o menos y de fondo o largaria de unos 90 palmos o de la que fuese hasta la alineación de las paredes de la casa del dicho comprador con la cual confronta por la parte de oriente, a medio dia con la expresada calle, a poniente y a cierzo con restante terreno que le queda y que tengo todo bajo directo y alodial derecho hoy dia de la amortización, tal como en la primitiva diera de establecimiento [] por la Monjas de San Juan de Jerusalen de Tortosa a su [] que de cuyo censo deberá pagar [] la cantidad de ¿? Ardites [].\n11 de agosto de 1857\nNotari: D. Juan Vanetos? De Amposta.\nVenta: Francisco Guardia labrador de San Carlos de la Rápita a Gabriel Gilabert tratante de ganado de id.\n\nDefunció: el 2 de gener de 1879 a la Ràpita d'una pulmonia als 62 anys. La dona en té 58.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

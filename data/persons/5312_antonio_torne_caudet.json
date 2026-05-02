@@ -1,0 +1,91 @@
+{
+  "id": "5312_antonio_torne_caudet",
+  "source_id": "5312",
+  "row_ref": "5312. Antonio Torné Caudet",
+  "name": "Antonio Torné Caudet",
+  "gender": "male",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5312_antonio_torne_caudet"
+    ],
+    "father": "5312_antonio_torne_caudet",
+    "mother": null,
+    "spouse": [
+      "2694_maria_rosa_grego_omedes"
+    ],
+    "children": [
+      "5312_antonio_torne_caudet",
+      "5316_angela_torne_grego",
+      "5317_agustina_torne_grego",
+      "5318_antonia_torne_grego",
+      "5319_maria_torne_grego",
+      "5320_ignacio_torne_grego"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Torné Caudet",
+      "Antonia Caudet"
+    ],
+    "father_name": "Antonio Torné",
+    "mother_name": "Antonia Caudet",
+    "spouse_names": [
+      "María Rosa Grego Omedes"
+    ],
+    "children_names": [
+      "Antonio Torné Caudet",
+      "Angela Torné Grego",
+      "Agustina Torné Grego",
+      "Antonia Torné Grego",
+      "María Torné Grego",
+      "Ignacio Torné Grego"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1790].\n\nCasament: amb María Rosa Grego Omedes de Tortosa [1790].\n\nFills: María [1813], Antonio [1816], Angela [1824], Ignacio [1827], Agustina [1829] i Antonia [1832].\n\nDe l'1 de juliol de 1834 al 31 de juliol de 1839 ha de pagar un lloguer de 16 Rs mensuals pel pis alt de la casa 2 de la mançana 4. (AGP.PER.LEG.1073/23 [Juan Vecino]).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

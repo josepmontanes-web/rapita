@@ -1,0 +1,77 @@
+{
+  "id": "4191_jose_reverter_balada",
+  "source_id": "4191",
+  "row_ref": "4191. José Reverter Balada",
+  "name": "José Reverter Balada",
+  "gender": "male",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4258_antonio_reverter_forner"
+    ],
+    "father": "4258_antonio_reverter_forner",
+    "mother": null,
+    "spouse": [
+      "2974_teresa_llupia_pons"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Reverter Forner",
+      "Teresa Balada"
+    ],
+    "father_name": "Antonio Reverter",
+    "mother_name": "Teresa Balada",
+    "spouse_names": [
+      "Teresa Llupia Pons"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Soldat"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1820]. \n\n\"Soldado de la primera Compañía del primer Batallón de Valéncia\".\n\nCasament: el 13 de maig de 1839 amb Teresa Llupià Pons d'Amposta [1820].\n\nFills: Francisca Josefa [1838].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

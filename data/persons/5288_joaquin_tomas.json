@@ -1,0 +1,80 @@
+{
+  "id": "5288_joaquin_tomas",
+  "source_id": "5288",
+  "row_ref": "5288. Joaquín Tomás",
+  "name": "Joaquín Tomás",
+  "gender": "male",
+  "birth": {
+    "date": "1765-01-01",
+    "place": "Godall"
+  },
+  "death": {
+    "date": "1836-06-20",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "5299_sebastian_tomas_sanchis",
+      "5300_barbara_tomas_sanchis",
+      "5301_maria_tomas_sanchis",
+      "5302_miguel_tomas_sanchis"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Joaquina Sanchis"
+    ],
+    "children_names": [
+      "Sebastián Tomás Sanchís",
+      "Bárbara Tomás Sanchís",
+      "María Tomás Sanchís",
+      "Miguel Tomás Sanchís"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Godall [aprox. 1765].\n\nCasament: amb Joaquina Sanchís de Godall [1765].\n\nFills: Bárbara (Godall) [1805], María (Godall) [1805], Miguel (Godall) [1805] i Sebastián [1814].\n\nDefunció: el 20 de juny de 1836 a la Ràpita. Fa testament.\n\nDe l'1 de gener de 1831 al 31 de juliol de 1839 ha de pagar un lloguer de 6 Rs mensuals per la casa 5 del carrer del Forn. (AGP.PER.LEG.1073/23 [Juan Vecino]).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

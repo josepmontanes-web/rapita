@@ -1,0 +1,68 @@
+{
+  "id": "4592_lucas_sabate_borras",
+  "source_id": "4592",
+  "row_ref": "4592. Lucas Sabaté Borràs",
+  "name": "Lucas Sabaté Borràs",
+  "gender": "male",
+  "birth": {
+    "date": "1832-01-01",
+    "place": "Vinaròs"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1832].\n\nProfessió: pagès.\n\nCasament: amb Rosa Arnau Quixal de Vinaròs [1840].\n\nFills: Domingo [1878].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

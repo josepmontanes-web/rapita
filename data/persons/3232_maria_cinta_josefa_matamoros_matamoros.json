@@ -1,0 +1,68 @@
+{
+  "id": "3232_maria_cinta_josefa_matamoros_matamoros",
+  "source_id": "3232",
+  "row_ref": "3232. Maria Cinta Josefa Matamoros Matamoros",
+  "name": "Maria Cinta Josefa Matamoros Matamoros",
+  "gender": "female",
+  "birth": {
+    "date": "1880-07-14",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 14 de juliol de 1880 a la Ràpita. El pare té 30 anys i es pagès. Declara al registre la seua tia Josefa Matamoros de 23 anys.\n\nDefunció: el 5 de novembre de 1964.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

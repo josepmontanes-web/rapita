@@ -1,0 +1,74 @@
+{
+  "id": "1614_ana_costa",
+  "source_id": "1614",
+  "row_ref": "1614. Ana Costa",
+  "name": "Ana Costa",
+  "gender": "female",
+  "birth": {
+    "date": "1750-01-01",
+    "place": "Baza (Granada)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2985_maria_lopez_costa",
+      "2986_ramon_lopez_costa"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "María López Costa",
+      "Ramón López Costa"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Baza (Granada)  [aprox. 1750]. \n\nCasament: amb Manuel López de Madrid [1750]. \n\nFills: Ramón López Costa (Baza) [1770] i María López Costa  (Serós) [1771]. José López (Granada) [1770] també podria ser fill però no està clar.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

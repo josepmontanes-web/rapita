@@ -1,0 +1,89 @@
+{
+  "id": "3463_antonio_monserrat_famadas",
+  "source_id": "3463",
+  "row_ref": "3463. Antonio Monserrat Famadas",
+  "name": "Antonio Monserrat Famadas",
+  "gender": "male",
+  "birth": {
+    "date": "1758-01-01",
+    "place": "Barcelona"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "2753_rafaela_guasch_mompou"
+    ],
+    "children": [
+      "3474_isabel_monserrat_guasch",
+      "3475_lorenza_monserrat_guasch",
+      "3476_juan_antonio_monserrat_guasch",
+      "3477_vicenta_monserrat_guasch",
+      "3478_vicente_monsarrat_guasch",
+      "3479_alexandro_monsarrat_guasch"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Luís Monserrat",
+      "Engracia Famadas"
+    ],
+    "father_name": "Luís Monserrat",
+    "mother_name": "Engracia Famadas",
+    "spouse_names": [
+      "Rafaela Guasch Mompou"
+    ],
+    "children_names": [
+      "Isabel Monserrat Guasch",
+      "Lorenza Monserrat Guasch",
+      "Juan Antonio Monserrat Guasch",
+      "Vicenta Monserrat Guasch",
+      "Vicente Monsarrat Guasch",
+      "Alexandro Monsarrat Guasch"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Forner"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Barcelona [aprox. 1758]. Inscrit a la Parròquia de Santa María del Mar de Barcelona.\n\nProfessió: forner. Al 1782 va obtenir el monopoli de la cocció i venda de pa a la Ràpita. Carta de 6 de març de 1782de Antonio Montserrat, panader, demanant que no es permeti que ningú més vengui el pa al poble. Cosa que li concedeix Canals el 16.3.1782. l’ordre serà efectiva a partir del dia 1 del mes següent.(ACA BGRP caixa 12). Sap escriure i signa la petició.\n\nCasament: amb Rafaela Guasch Mompou de Tortosa [1765].\n\nFills: Vicenta (Amposta) [1787], Lorenza (Tortosa) [1790], Juan [1792], Isabel [1794], Vicente [1801] i Alexandro [1806].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Mansana Vella (carrer del Forn) núm. 24 (ACA BGRP Cajas 34).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

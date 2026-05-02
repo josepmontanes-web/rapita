@@ -1,0 +1,71 @@
+{
+  "id": "3090_vicenta_manuel_membrado",
+  "source_id": "3090",
+  "row_ref": "3090. Vicenta Manuel Membrado",
+  "name": "Vicenta Manuel Membrado",
+  "gender": "female",
+  "birth": {
+    "date": "1790-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1792-09-30",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustín Manuel",
+      "Vicenta Membrado"
+    ],
+    "father_name": "Agustín Manuel",
+    "mother_name": "Vicenta Membrado",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1790]. \n\nDefunció: el 30 de setembre de 1792 a la Ràpita. Va morir pàrvul.\n\nLa mare es de Tortosa i té un germà que es diu Lorenzo Membrado també de Tortosa.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "3664_josefa_navarro_paulo",
+  "source_id": "3664",
+  "row_ref": "3664. Josefa Navarro Paulo",
+  "name": "Josefa Navarro Paulo",
+  "gender": "female",
+  "birth": {
+    "date": "1775-01-01",
+    "place": "Vall del Duc (Tortosa)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3592_francisco_navarro",
+      "3850_manuela_paulo"
+    ],
+    "father": "3592_francisco_navarro",
+    "mother": "3850_manuela_paulo",
+    "spouse": [
+      "1852_juan_bautista_esteller_matamoros"
+    ],
+    "children": [
+      "1861_0_1900",
+      "1862_0_1900"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Navarro",
+      "Manuela Paulo"
+    ],
+    "father_name": "Francisco Navarro",
+    "mother_name": "Manuela Paulo",
+    "spouse_names": [
+      "Juan Bautista Esteller Matamoros"
+    ],
+    "children_names": [
+      "0 1900"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Vall del Duc (la Vall d'Uixó) [aprox. 1775]. \n\nCasament: amb Juan Bautista Esteller Matamoros d'Alcanar [1770].\n\nFills: Mariana [1796] i Francisco [1800].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Mansana Vella (carrer del Forn) núm. 20 (ACA BGRP Cajas 34).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

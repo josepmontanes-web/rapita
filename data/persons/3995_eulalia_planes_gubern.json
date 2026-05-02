@@ -1,0 +1,102 @@
+{
+  "id": "3995_eulalia_planes_gubern",
+  "source_id": "3995",
+  "row_ref": "3995. Eulalia Planes Gubern",
+  "name": "Eulalia Planes Gubern",
+  "gender": "female",
+  "birth": {
+    "date": "1775-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3994_miguel_planes_fabrega",
+      "2754_rita_gubern"
+    ],
+    "father": "3994_miguel_planes_fabrega",
+    "mother": "2754_rita_gubern",
+    "spouse": [
+      "342_francisco_balada_forcadell"
+    ],
+    "children": [
+      "351_francisca_balada_planes",
+      "352_susana_balada_planes",
+      "353_josef_agustin_balada_planes",
+      "354_agustina_balada_planes",
+      "355_tomasa_balada_planes",
+      "356_pelegrin_balada_planes",
+      "357_francisco_balada_planes",
+      "358_rita_balada_planes",
+      "359_lorenza_balada_planes",
+      "360_juan_balada_planes",
+      "361_rosa_balada_planes"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Planes Fabrega",
+      "Rita Gubern"
+    ],
+    "father_name": "Miguel Planes Fabrega",
+    "mother_name": "Rita Gubern",
+    "spouse_names": [
+      "Francisco Balada Forcadell"
+    ],
+    "children_names": [
+      "Francisca Balada Planes",
+      "Susana Balada Planes",
+      "Josef Agustín Balada Planes",
+      "Agustina Balada Planes",
+      "Tomasa Balada Planes",
+      "Pelegrín Balada Planes",
+      "Francisco Balada Planes",
+      "Rita Balada Planes",
+      "Lorenza Balada Planes",
+      "Juan Balada Planes",
+      "Rosa Balada Planes"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1775]. \n\nCasament: el 22 de desembre de 1797 amb Francisco Balada Forcadell d'Alcanar [1770]. A l'estat de veïns de setembre de 1798 diu que viuen a la Ràpita a una casa al costat de l'esglesia amb els seus pares (ACA BGRP Cajas 34).\n\nFills: Rita [1800], Francisca [1802], Lorenza [1803], Susana [1808], José Agustín [1808], Agustina [1811], Tomasa [1814], Francisco [1818], Pelegrín [1821], Juan [1824]  i Rosa [1824].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "2509_melchor_geser",
+  "source_id": "2509",
+  "row_ref": "2509. Melchor Geser",
+  "name": "Melchor Geser",
+  "gender": "male",
+  "birth": {
+    "date": "1760-01-01",
+    "place": "Lindauen (Alemania)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "316_francisca_baima_acensi"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Dª Rosa Tolós"
+    ],
+    "children_names": [
+      "Francisca Baima Acensi"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Sergent Suís"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Lindau (Alemania) [aprox. 1760].\n\n\"Sargento del Regimiento suizo de Rutiman\". Deu ser Rüttenen del cantó suís de Soleura, un dels cantons catòlics on es contractaven regiments suissos. També podria ser Rütimann que es un cognom conegut a Suissa.\n\nCasament: el 5 de gener de 1800 amb Doña Rosa Tolós Solà de Càlig [1762].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,7 +1,7 @@
 {
   "id": "34_andres_adell_sancho",
   "source_id": "34",
-  "row_ref": "34",
+  "row_ref": "34. Andrés Adell Sancho",
   "name": "Andrés Adell Sancho",
   "gender": "male",
   "birth": {
@@ -21,21 +21,65 @@
     "lng": null
   },
   "family": {
-    "parents": [],
-    "spouse": [
-      "26_beatriz_adell_llagostera"
+    "parents": [
+      "24_miguel_adell_llagostera"
     ],
-    "children": []
+    "father": "24_miguel_adell_llagostera",
+    "mother": null,
+    "spouse": [
+      "2921_beatriz_llagostera_bonamich"
+    ],
+    "children": [
+      "21_andres_adell_llagostera",
+      "22_vicenta_maria_adell_llagostera",
+      "23_dorotea_adell_llagostera",
+      "24_resuelto_dorotea_adell_llagostera",
+      "25_francisca_adell_llagostera",
+      "26_beatriz_adell_llagostera",
+      "27_magdalena_adell_llagostera",
+      "4928_lorenzo_antonio_sancho_roig"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
   },
   "relations_detail": {
     "parents_names": [
-      "Miguel Adell",
+      "Miguel Adell Llagostera",
       "Agustina Sancho"
     ],
+    "father_name": "Miguel Adell",
+    "mother_name": "Agustina Sancho",
     "spouse_names": [
       "Beatríz Llagostera Bonamich"
     ],
-    "children_names": []
+    "children_names": [
+      "Andrés Adell Llagostera",
+      "Vicenta María Adell Llagostera",
+      "Dorotea Adell Llagostera",
+      "resuelto Dorotea Adell Llagostera",
+      "Francisca Adell Llagostera",
+      "Beatriz Adell Llagostera",
+      "Magdalena Adell Llagostera",
+      "Lorenzo Antonio Sancho Roig"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
   },
   "occupation": {
     "title": null

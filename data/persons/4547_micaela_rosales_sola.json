@@ -1,0 +1,68 @@
+{
+  "id": "4547_micaela_rosales_sola",
+  "source_id": "4547",
+  "row_ref": "4547. Micaela Rosales Solà",
+  "name": "Micaela Rosales Solà",
+  "gender": "female",
+  "birth": {
+    "date": "1840-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1840].\n\nCasament: amb Francisco Miracle Magriñá de la Ràpita [1836].\n\nFills: Maria, Froilán, Ricardo [1874], Victor Manuel [1876] i Francisca Mirea [1881].\n\nCasament: el 13 de març de 1883 amb Juan Borràs Gasparín de la Ràpita [1857].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

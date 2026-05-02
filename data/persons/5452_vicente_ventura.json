@@ -1,0 +1,68 @@
+{
+  "id": "5452_vicente_ventura",
+  "source_id": "5452",
+  "row_ref": "5452. Vicente Ventura",
+  "name": "Vicente Ventura",
+  "gender": "male",
+  "birth": {
+    "date": "1838-11-11",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1839-07-07",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Vicente Gombau",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'11 de novembre de 1838 a la Ràpita.\n\nPadrins: Vicente Gombau i María Fabregat.\n\nDefunció: el 7 de juliol de 1839 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

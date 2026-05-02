@@ -1,0 +1,76 @@
+{
+  "id": "5429_teresa_valls_peralta",
+  "source_id": "5429",
+  "row_ref": "5429. Teresa Valls Peralta",
+  "name": "Teresa Valls Peralta",
+  "gender": "female",
+  "birth": {
+    "date": "1762-01-01",
+    "place": "Areñs (R. Aragón)"
+  },
+  "death": {
+    "date": "1822-12-17",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "4548_antonio_rosales_sole"
+    ],
+    "children": [
+      "4554_isabel_rosales_valls"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Antonio Rosales Solé"
+    ],
+    "children_names": [
+      "Isabel Rosales Valls"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Arenys de Lledó (Terol) [aprox. 1762].\n\nCasament: amb Antonio Rosales Solé de Tortosa [1756].\n\nFills: Teresa (Amposta) [1783], José Antonio [1792], Juan Bautista [1792], Miguel (Arenys de Lledó) [1795], Ramón (Arenys de Lledó) [1801], Gaspar [1801], María [1805] i Isabel [1809].\n\nDefunció: el 17 de desembre de 1822 a la Ràpita. Va morir als 60 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

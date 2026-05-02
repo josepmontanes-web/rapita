@@ -1,0 +1,74 @@
+{
+  "id": "1526_jose_agustin_clua_llombart",
+  "source_id": "1526",
+  "row_ref": "1526. José Agustín Clua Llombart",
+  "name": "José Agustín Clua Llombart",
+  "gender": "male",
+  "birth": {
+    "date": "1843-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1844-09-08",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1517_jose_clua_cid",
+      "2945_teresa_llombart_roig"
+    ],
+    "father": "1517_jose_clua_cid",
+    "mother": "2945_teresa_llombart_roig",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Clua Cid",
+      "Teresa Llombart Roig"
+    ],
+    "father_name": "José Clua Cid",
+    "mother_name": "Teresa Llombart Roig",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1843].\n\nDefunció: el 8 de setembre de 1844 a la Ràpita. Va morir pàrvul d'un any.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

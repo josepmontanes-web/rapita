@@ -1,0 +1,85 @@
+{
+  "id": "4877_blas_sancho_fibla",
+  "source_id": "4877",
+  "row_ref": "4877. Blas Sancho Fibla",
+  "name": "Blas Sancho Fibla",
+  "gender": "male",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4827_bartolome_sancho"
+    ],
+    "father": "4827_bartolome_sancho",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "4880_bautista_sancho_fibla",
+      "4881_francisca_sancho_fibla",
+      "4883_tomas_fermin_sancho_fibla",
+      "4884_teresa_sancho_fibla"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bartolomé Sancho",
+      "María Fibla"
+    ],
+    "father_name": "Bartolomé Sancho",
+    "mother_name": "María Fibla",
+    "spouse_names": [
+      "María Fibla Ronsano"
+    ],
+    "children_names": [
+      "Bautista Sancho Fibla",
+      "Francisca Sancho Fibla",
+      "Tomás Fermín Sancho Fibla",
+      "Teresa Sancho Fibla"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1810]. \n\nCasament: amb María Fibla Ronsano (o Lonzano) d'Alcanar [1810].\n\nFills: Bautista [1831], Andrés [1838], Francisca [1839], Tomás Fermín [1841] i Teresa [1847].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

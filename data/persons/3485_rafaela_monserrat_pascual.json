@@ -1,0 +1,74 @@
+{
+  "id": "3485_rafaela_monserrat_pascual",
+  "source_id": "3485",
+  "row_ref": "3485. Rafaela Monserrat Pascual",
+  "name": "Rafaela Monserrat Pascual",
+  "gender": "female",
+  "birth": {
+    "date": "1814-09-28",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1815-10-08",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3476_juan_antonio_monserrat_guasch",
+      "3825_vicenta_pascual_fuster"
+    ],
+    "father": "3476_juan_antonio_monserrat_guasch",
+    "mother": "3825_vicenta_pascual_fuster",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Antonio Monserrat Guasch",
+      "Vicenta Pascual Fuster"
+    ],
+    "father_name": "Juan Antonio Monserrat Guasch",
+    "mother_name": "Vicenta Pascual Fuster",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Joaquín Milian",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 28 de setembre de 1814 a la Ràpita. La va batejar per extrema necessitat Andrés Verge.\n\nPadrins: Joaquín Milian i Rafaela Guasch.\n\nDefunció: el 8 d'octubre de 1815 a la Ràpita. Va morir al any.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

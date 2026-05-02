@@ -1,0 +1,68 @@
+{
+  "id": "4406_maria_del_carmen_ribas_cavallero",
+  "source_id": "4406",
+  "row_ref": "4406. María del Carmen Ribas Cavallero",
+  "name": "María del Carmen Ribas Cavallero",
+  "gender": "female",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Baza (Granada)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Baza (Granada) [aprox. 1810].\n\nCasament: amb Don Francisco Martínez Martínez d'Alcantarilla (Murcia) [1810].\n\nFills: Cayetana Isabel [1833].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

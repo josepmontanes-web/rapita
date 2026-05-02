@@ -1,0 +1,75 @@
+{
+  "id": "2904_maria_labranda_riera",
+  "source_id": "2904",
+  "row_ref": "2904. María Labranda Riera",
+  "name": "María Labranda Riera",
+  "gender": "female",
+  "birth": {
+    "date": "1778-01-01",
+    "place": "Lleida"
+  },
+  "death": {
+    "date": "1814-05-12",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "948_domingo_campanera"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Labranda",
+      "Madalena Riera"
+    ],
+    "father_name": "Juan Labranda",
+    "mother_name": "Madalena Riera",
+    "spouse_names": [
+      "Domingo Campanera"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Lleida [aprox. 1778].\n\nCasament: amb Domingo Campanera [1775] \"Dependiente de este Resguardo\".\n\nDefunció: el 12 de maig de 1814 a la Ràpita. Va morir als 36 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

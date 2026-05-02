@@ -1,0 +1,78 @@
+{
+  "id": "5592_jose_vidal_vines",
+  "source_id": "5592",
+  "row_ref": "5592. José Vidal Viñes",
+  "name": "José Vidal Viñes",
+  "gender": "male",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Cervera (València)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5539_bautista_vidal_palos",
+      "5614_josefa_vines"
+    ],
+    "father": "5539_bautista_vidal_palos",
+    "mother": "5614_josefa_vines",
+    "spouse": [
+      "1106_raymunda_casajust_castella"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Vidal Palos",
+      "Josefa Viñes"
+    ],
+    "father_name": "Bautista Vidal",
+    "mother_name": "Josefa Viñes",
+    "spouse_names": [
+      "Raymunda Casajust Castellà"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Cervera del Maestrat [aprox. 1810].\n\nCasament: el 24 d'abril de 1837 amb Raymunda Casajust Castellà de la Ràpita [1821].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

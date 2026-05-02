@@ -1,0 +1,74 @@
+{
+  "id": "943_josefa_cambra_arroyo",
+  "source_id": "943",
+  "row_ref": "943. Josefa Cambra Arroyo",
+  "name": "Josefa Cambra Arroyo",
+  "gender": "female",
+  "birth": {
+    "date": "1809-01-19",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "945_peregrin_cambra_pau",
+      "293_josefa_arroyo_perez"
+    ],
+    "father": "945_peregrin_cambra_pau",
+    "mother": "293_josefa_arroyo_perez",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Peregrín Cambra Pau",
+      "Josefa Arroyo Pérez"
+    ],
+    "father_name": "Peregrín Cambra Pau",
+    "mother_name": "Josefa Arroyo Pérez",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Josef Nogués",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 19 de gener de 1809 a la Ràpita.\n\nPadrí: Don José Nogués es \"Interventor de la Real Aduana\" i es de Santa Coloma (Ob. Vich)\n\nJosefa Cambra se ausentó el año 1817 y dejó de pagar 12 meses de alquiler a 10 Rs mensuales. Se dio parte al Sr. Intendente por ser del Resguardo.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

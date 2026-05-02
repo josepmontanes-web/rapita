@@ -1,0 +1,78 @@
+{
+  "id": "436_rosa_balague_homedes_o_omedes",
+  "source_id": "436",
+  "row_ref": "436. Rosa Balagué Homedes [o Omedes]",
+  "name": "Rosa Balagué Homedes [o Omedes]",
+  "gender": "female",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "461_jose_balague_saragosi",
+      "2793_teresa_homedes_cartes"
+    ],
+    "father": "461_jose_balague_saragosi",
+    "mother": "2793_teresa_homedes_cartes",
+    "spouse": [
+      "449_jose_balague_navarro"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Balagué Saragosí",
+      "Teresa Homedes Cartes"
+    ],
+    "father_name": "José Balagué Salvadó",
+    "mother_name": "Teresa Homedes Cartes",
+    "spouse_names": [
+      "José Balagué Navarro"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1800].\n\nCasament: el 16 d'agost de 1828 amb José Balagué Navarro de Tortosa [1800].\n\nFills: Lucía [1828], José [1831], Narcisa [1833], María Teresa [1837], Josefa [1840] i Domingo [1843].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

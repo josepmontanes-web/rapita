@@ -1,0 +1,89 @@
+{
+  "id": "3625_esperanza_navarro_comi",
+  "source_id": "3625",
+  "row_ref": "3625. Esperanza Navarro Comí",
+  "name": "Esperanza Navarro Comí",
+  "gender": "female",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3641_juan_navarro_hernandez"
+    ],
+    "father": "3641_juan_navarro_hernandez",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1295_jose_castella_navarro",
+      "1296_maria_rosa_castella_navarro",
+      "1297_esperanza_castella_navarro",
+      "1298_josefa_castella_navarro",
+      "1299_francisca_castella_navarro",
+      "1300_manuela_castella_navarro"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Navarro Hernández",
+      "Rosa Comí"
+    ],
+    "father_name": "Juan Navarro",
+    "mother_name": "Rosa Comí",
+    "spouse_names": [
+      "Juan Castellà Colomines"
+    ],
+    "children_names": [
+      "José Castellà Navarro",
+      "Maria Rosa Castellà Navarro",
+      "Esperanza Castellà Navarro",
+      "Josefa Castellà Navarro",
+      "Francisca Castellà Navarro",
+      "Manuela Castellà Navarro"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1807]. \n\nCasament: el 13 d'agost de 1828 amb Juan Castellà Colomines de Tortosa [1805].\n\nFills: Josefa (Tortosa) [1829], José [1835], Francisca [1837], Manuela [1840], María Rosa [1842], Teresa [1845] i Esperanza [1846].\n\nDefunció: l'11 de juliol de 1877 a la Ràpita als 70 anys de \"apoplegia\". Declara la mor al registre civil la seua neboda Rosa Martí.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "4554_isabel_rosales_valls",
+  "source_id": "4554",
+  "row_ref": "4554. Isabel Rosales Valls",
+  "name": "Isabel Rosales Valls",
+  "gender": "female",
+  "birth": {
+    "date": "1809-02-12",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1828-05-26",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4548_antonio_rosales_sole",
+      "5429_teresa_valls_peralta"
+    ],
+    "father": "4548_antonio_rosales_sole",
+    "mother": "5429_teresa_valls_peralta",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Rosales Solé",
+      "Teresa Valls Peralta"
+    ],
+    "father_name": "Antonio Rosales Solé",
+    "mother_name": "Teresa Valls Peralta",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco García",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 12 de febrer de 1809 a la Ràpita.\n\nPadrins: Francisco García i Teresa Rosales.\n\nDefunció: el 26 de maig de 1828 a la Ràpita. Va morir de \"un insulto espasmódico al vientre\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

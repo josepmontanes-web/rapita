@@ -1,0 +1,71 @@
+{
+  "id": "4469_maria_trinitaria_roig_roca",
+  "source_id": "4469",
+  "row_ref": "4469. Maria Trinitaria Roig Roca",
+  "name": "Maria Trinitaria Roig Roca",
+  "gender": "female",
+  "birth": {
+    "date": "1814-04-27",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Domingo Roig Monserrat",
+      "Josefa Maria Roca Ballester"
+    ],
+    "father_name": "Domingo Roig Monserrat",
+    "mother_name": "Josefa Maria Roca Ballester",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Juan Rivas",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 27 d'abril de 1814 a la Ràpita.\n\nPadrins: Don Juan Rivas i Doña Serafina Oteyzar (marit i muller).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

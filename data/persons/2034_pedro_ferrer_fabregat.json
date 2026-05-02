@@ -1,0 +1,77 @@
+{
+  "id": "2034_pedro_ferrer_fabregat",
+  "source_id": "2034",
+  "row_ref": "2034. Pedro Ferrer Fabregat",
+  "name": "Pedro Ferrer Fabregat",
+  "gender": "male",
+  "birth": {
+    "date": "1818-10-23",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2062_miguel_ferre_ortiz"
+    ],
+    "father": "2062_miguel_ferre_ortiz",
+    "mother": null,
+    "spouse": [
+      "4195_manuela_reverter_balada"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Ferré Ortiz",
+      "Teresa Fabregat Mateu"
+    ],
+    "father_name": "Miguel Ferré Ortiz",
+    "mother_name": "Teresa Fabregat Mateu",
+    "spouse_names": [
+      "Manuela Reverter Balada"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Fabregat",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 23 d'octubre de 1818 a la Ràpita.\n\nPadrins: Juan Fabregat i María Fabregat.\n\nCasament: el 4 de novembre de 1843 amb Manuela Reverter Balada de la Ràpita [1820].\n\nFills: Juan [1855].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

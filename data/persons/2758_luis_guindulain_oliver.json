@@ -1,0 +1,71 @@
+{
+  "id": "2758_luis_guindulain_oliver",
+  "source_id": "2758",
+  "row_ref": "2758. Luís Guindulain Oliver",
+  "name": "Luís Guindulain Oliver",
+  "gender": "male",
+  "birth": {
+    "date": "1762-01-01",
+    "place": "Flix"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Don Juan Guindolain",
+      "Doña Madalena Oliver"
+    ],
+    "father_name": "Don Juan Guindolain",
+    "mother_name": "Doña Madalena Oliver",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Flix [aprox. 1762].\n\nAl 1783 es Administrador de les obres a Amposta (ACA BGRP caixa 46).\n\nAl novembre de 1783 es recobren 675 Rs que es van donar a Juan Soler, Lorenzo Casadevall i Don Luís de Guindulain per la construcció de les cases de camp considerades a la relació de juliol darrer, s'els hi ha recobrat per ordre del Superintendent per la seua impericia i falta de cumpliment  de les ordes que tenien comunicades i havien de guardar (ACA BGRP caixa 46).\n\nEl 19 de novembre de 1784 queda suspes de la seua ocupació per ordre del Conde de Floridablanca.\n\n\"Interventor del Portazgo\". Te una casa a mig construir a 1786 (ACA BGRP Correspondencia caixa 8).\n\nCasament: amb Doña Francisca Ortíz Albarán d'Amposta [1767], té 38 anys al 1805 i es filla de Vicente i María Antonia també d'Amposta. Podria tenir relació amb Francisca Ortíz Albacar [1765], però no està clar.\n\nFills: María Theresa [1805].\n\nEl 3 de març de 1788 Luís Guindualin ven a Juan Antonio Gironda un troç de terra i un solar amb una casa començada situat al carrer principal de San Carlos que linda amb la casa que viu el Subdelegat Martorell i amb la del guarda almacen Miguel Ricart i amb terreny de les Monges. El preu son 60 duros de plata. Notari Bartolomé Garcia de Tortosa.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

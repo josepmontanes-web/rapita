@@ -1,0 +1,68 @@
+{
+  "id": "5267_ramon_maria_tarin_quinza",
+  "source_id": "5267",
+  "row_ref": "5267. Ramón María Tarín Quinzá",
+  "name": "Ramón María Tarín Quinzá",
+  "gender": "male",
+  "birth": {
+    "date": "1881-01-15",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 15 de gener de 1881 a la Plaça Major de la Ràpita. El pare té 50 anys i es Comandant d'infanteria, la mare en té 30.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

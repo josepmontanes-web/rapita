@@ -1,0 +1,77 @@
+{
+  "id": "4371_francisca_reverte_talarn",
+  "source_id": "4371",
+  "row_ref": "4371. Francisca Reverté Talarn",
+  "name": "Francisca Reverté Talarn",
+  "gender": "female",
+  "birth": {
+    "date": "1829-08-05",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4261_juan_reverter_forner"
+    ],
+    "father": "4261_juan_reverter_forner",
+    "mother": null,
+    "spouse": [
+      "2625_bautista_gombau_castella"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Reverter Forner",
+      "Rosa Talarn Bosch"
+    ],
+    "father_name": "Juan Reverté Forner",
+    "mother_name": "Rosa Talarn Bosch",
+    "spouse_names": [
+      "Bautista Gombau Castellà"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Tomás Talarn",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 5 d'agost de 1829 a la Ràpita.\n\nPadrins: Tomás Talarn i Francisca Balagué.\n\nCasament: el 2 d'octubre de 1852 amb Bautista Gombau Castellà de la Ràpita [1821]. Testimonis: Tomás Talarn i Braulio Talarn.\n\nFills: Teresa [1853].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

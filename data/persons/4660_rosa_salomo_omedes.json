@@ -1,0 +1,93 @@
+{
+  "id": "4660_rosa_salomo_omedes",
+  "source_id": "4660",
+  "row_ref": "4660. Rosa Salomo Omedes",
+  "name": "Rosa Salomo Omedes",
+  "gender": "female",
+  "birth": {
+    "date": "1805-01-01",
+    "place": "TORTOSA"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4656_antonio_salomo"
+    ],
+    "father": "4656_antonio_salomo",
+    "mother": null,
+    "spouse": [
+      "2508_sebastian_geira_ulldemolin"
+    ],
+    "children": [
+      "2499_dolores_geira_salomo",
+      "2501_angelo_sebastian_geira_salomo",
+      "2502_prudencio_timoteo_geira_salomo",
+      "2503_vicenta_geira_salomo",
+      "2504_dorotea_geira_salomo",
+      "2505_monica_geira_salomo",
+      "2507_andres_geira_salomo"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Salomó",
+      "Candida Omedes"
+    ],
+    "father_name": "Antonio Salomó",
+    "mother_name": "Candida Omedes",
+    "spouse_names": [
+      "Sebastián Geira Ulldemolin"
+    ],
+    "children_names": [
+      "Dolores Geira Salomó",
+      "Angelo Sebastián Geira Salomó",
+      "Prudencio Timoteo Geira Salomó",
+      "Vicenta Geira Salomó",
+      "Dorotea Geira Salomó",
+      "Mónica Geira Salomó",
+      "Andrés Geira Salomó"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs (o a Tortosa) [aprox. 1805]. \n\nCasament: l'11 de març de 1826 amb Sebastián Geira Ulldemolin d'Alcanar [1800].\n\nFills: Vicenta [1826], Dorotea [1828], Dolores [1830], Mónica [1832], Angelo Sebastián [1833], Prudencio Timoteo [1836], Andrés [1839] i Teresa [1842].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "4266_miguel_lorenzo_reverter_gasparin",
+  "source_id": "4266",
+  "row_ref": "4266. Miguel Lorenzo Reverter Gasparín",
+  "name": "Miguel Lorenzo Reverter Gasparín",
+  "gender": "male",
+  "birth": {
+    "date": "1842-07-29",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4293_tomas_reverter_jovani",
+      "2443_maria_gasparin_moya"
+    ],
+    "father": "4293_tomas_reverter_jovani",
+    "mother": "2443_maria_gasparin_moya",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomás Reverter Jovani",
+      "Maria Gasparín Moya"
+    ],
+    "father_name": "Tomás Reverter Jovani",
+    "mother_name": "Maria Gasparín Moya",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Agustín Reverter",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 29 de juliol de 1842 a la Ràpita.\n\nPadrins: Agustín Reverter i Rosa Moya.\n\nProfessió: pagès.\n\nCasament: amb Tomasa Clua Llombart de la Ràpita [1842].\n\nFills: Maria de la Cinta [1880].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

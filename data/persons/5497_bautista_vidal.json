@@ -1,0 +1,82 @@
+{
+  "id": "5497_bautista_vidal",
+  "source_id": "5497",
+  "row_ref": "5497. Bautista Vidal",
+  "name": "Bautista Vidal",
+  "gender": "male",
+  "birth": {
+    "date": "1740-01-01",
+    "place": "La Pobla de Benifassà"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "5536_teresa_vidal_palos",
+      "5537_joaquin_vidal_palos",
+      "5538_jacinto_vidal_palos",
+      "5591_maria_vidal_vines",
+      "5592_jose_vidal_vines",
+      "5593_manuela_vidal_vines"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Teresa Vidal Palos",
+      "Joaquín Vidal Palos",
+      "Jacinto Vidal Palos",
+      "Maria Vidal Viñes",
+      "José Vidal Viñes",
+      "Manuela Vidal Viñes"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a La Pobla de Benifassà [aprox. 1740].\n\nEs veí de Traiguera.\n\nCasament: amb Josefa Palos Viscarri de la Pobla de Benifassà [o de Calanda] [1740].\n\nFills: Teresa (la Pobla de Benifassà) [1760], Jacinto (la Pobla de Benifassà) [1765], Joaquín (Traiguera) [1770] i Bautista (Ulldecona) [1775]. No està clar que Bautista sigui fill seu.\n\nJuan Bautista Vidal es veí de San Carlos i mitgé de les monges al abril de 1789 (ACA BGPR correspondencia caixa 11).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

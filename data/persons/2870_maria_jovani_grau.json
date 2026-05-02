@@ -1,0 +1,109 @@
+{
+  "id": "2870_maria_jovani_grau",
+  "source_id": "2870",
+  "row_ref": "2870. María Jovani Grau",
+  "name": "María Jovani Grau",
+  "gender": "female",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2878_jose_jovani_sancho"
+    ],
+    "father": "2878_jose_jovani_sancho",
+    "mother": null,
+    "spouse": [
+      "4264_miguel_reverter_forner"
+    ],
+    "children": [
+      "1725_josefa_diago_jovani",
+      "1726_joaquin_diago_jovani",
+      "1727_peregrin_diago_jovani",
+      "1728_tomas_diago_jovani",
+      "2203_francisca_marta_forcadell_jovani",
+      "2204_miguel_forcadell_jovani",
+      "4285_peregrin_reverte_jovani",
+      "4286_sebastian_reverte_jovani",
+      "4287_jose_antonio_reverte_jovani",
+      "4288_francisca_reverter_jovani",
+      "4289_victor_o_victorio_reverter_jovani",
+      "4290_josefa_reverte_jovani",
+      "4291_miguel_reverter_jovani",
+      "4292_rafaela_reverter_jovani",
+      "4294_agustin_reverter_jovani"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Jovani Sancho",
+      "Antonia Grau"
+    ],
+    "father_name": "José Jovani",
+    "mother_name": "Antonia Grau",
+    "spouse_names": [
+      "Miguel Reverter Forner"
+    ],
+    "children_names": [
+      "Josefa Diago Jovani",
+      "Joaquín Diago Jovani",
+      "Peregrín Diago Jovani",
+      "Tomás Diago Jovani",
+      "Francisca Marta Forcadell Jovani",
+      "Miguel Forcadell Jovani",
+      "Peregrín Reverté Jovani",
+      "Sebastian Reverté Jovani",
+      "José Antonio Reverté Jovani",
+      "Francisca Reverter Jovani",
+      "Victor [o Victorio] Reverter Jovani",
+      "Josefa Reverté Jovani",
+      "Miguel Reverter Jovani",
+      "Rafaela Reverter Jovani",
+      "Agustín Reverter Jovani"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1790].\n\nCasament: amb Miguel Reverter Forner d'Alcanar [1790].\n\nFills: Agustín [1813], Tomás [1815], Francisca [1818], Rafaela [1821], José Antonio [1824], Sebastián [1826], Peregrín [1829], Josefa [1831], Victor [1833] i Miguel [1838].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

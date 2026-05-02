@@ -1,0 +1,78 @@
+{
+  "id": "2720_jose_guardia_bort",
+  "source_id": "2720",
+  "row_ref": "2720. José Guardia Bort",
+  "name": "José Guardia Bort",
+  "gender": "male",
+  "birth": {
+    "date": "1823-09-10",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2744_bautista_guardia_sanchez",
+      "806_teresa_bort_lleti"
+    ],
+    "father": "2744_bautista_guardia_sanchez",
+    "mother": "806_teresa_bort_lleti",
+    "spouse": [
+      "4280_rosa_reverte_izquierdo"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Guardia Sánchez",
+      "Teresa Bort Lletí"
+    ],
+    "father_name": "Bautista Guardia Sánchez",
+    "mother_name": "Teresa Bort Lletí",
+    "spouse_names": [
+      "Rosa Reverté Izquierdo"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Josef Adell",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 10 de setembre de 1823 a la Ràpita.\n\nPadrins: José Adell i Manuela López.\n\nProfessió: pagès.\n\nCasament: el 29 de juny de 1848 amb Rosa Reverté Izquierdo de la Ràpita [1826].\n\n Fills: José [1852], Francisco [1858] i María Cinta [1860].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

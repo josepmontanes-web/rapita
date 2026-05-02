@@ -1,0 +1,70 @@
+{
+  "id": "1370_jose_cera",
+  "source_id": "1370",
+  "row_ref": "1370. José Cera",
+  "name": "José Cera",
+  "gender": "male",
+  "birth": {
+    "date": "1742-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1814-04-28",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Maria Mangrané"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1742].\n\nCasament: amb María Mangraner.\n\nDefunció: el 28 d'abril de 1814 a la Ràpita. Va morir als 72 anys. Va fer testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

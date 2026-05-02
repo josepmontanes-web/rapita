@@ -1,0 +1,81 @@
+{
+  "id": "99_francisca_angles_o_ingles_arnau",
+  "source_id": "99",
+  "row_ref": "99. Francisca Anglés [o Inglés] Arnau",
+  "name": "Francisca Anglés [o Inglés] Arnau",
+  "gender": "female",
+  "birth": {
+    "date": "1767-01-01",
+    "place": "Benicarló"
+  },
+  "death": {
+    "date": "1837-04-05",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "209_tomas_arbo_solsona"
+    ],
+    "children": [
+      "178_juan_arbo_angles",
+      "179_agustin_arbo_angles"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Anglés",
+      "Madalena Arnau"
+    ],
+    "father_name": "Francisco Anglés",
+    "mother_name": "Madalena Arnau",
+    "spouse_names": [
+      "Tomás Arbó Solsona"
+    ],
+    "children_names": [
+      "Juan Arbó Anglès",
+      "Agustín Arbó Anglès"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Benicarló [aprox. 1767].\n\nCasament: amb Tomás Arbó Solsona de Benicarló [1766].\n\nFills: Tomás (Benicarló) [aprox 1793], Antonio (Benicarló) [aprox 1798], Francisco (Benicarló) [aprox 1800], Juan [1806] i Agustín [1808].\n\nDefunció: el 5 d'abril de 1837 a la Ràpita. Va morir als 70 anys. Va ser enterrada el mateix dia. No va fer testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

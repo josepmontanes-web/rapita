@@ -1,0 +1,83 @@
+{
+  "id": "1960_vicente_faccini_marjet",
+  "source_id": "1960",
+  "row_ref": "1960. Vicente Faccini Marjet",
+  "name": "Vicente Faccini Marjet",
+  "gender": "male",
+  "birth": {
+    "date": "1761-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1816-11-27",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1961_domingo_faccini_boyza"
+    ],
+    "father": "1961_domingo_faccini_boyza",
+    "mother": null,
+    "spouse": [
+      "3999_maria_pons_bullon"
+    ],
+    "children": [
+      "1971_nicolas_fatsini_pons",
+      "1972_vicente_faccini_pons"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Domingo Faccini Boyza",
+      "María Marjet"
+    ],
+    "father_name": "Domingo Faccini",
+    "mother_name": "María Marjet",
+    "spouse_names": [
+      "Maria Pons Bullón"
+    ],
+    "children_names": [
+      "Nicolás Fatsini Pons",
+      "Vicente Faccini Pons"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1761].\n\nCasament: amb María Pons Bullón d'Amposta [1760], filla d'Antonio d'Amposta i de Joaquina d'Aragó.\n\nFills: Nicolás (Tortosa) [1810] i Vicente [1812].\n\nDefunció: el 27 de novembre de 1816 a la Ràpita. Va morir als 55 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

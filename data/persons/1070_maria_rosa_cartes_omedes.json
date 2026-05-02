@@ -1,0 +1,77 @@
+{
+  "id": "1070_maria_rosa_cartes_omedes",
+  "source_id": "1070",
+  "row_ref": "1070. Maria Rosa Cartes Omedes",
+  "name": "Maria Rosa Cartes Omedes",
+  "gender": "female",
+  "birth": {
+    "date": "1814-06-19",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1065_jose_cartes_fonollosa"
+    ],
+    "father": "1065_jose_cartes_fonollosa",
+    "mother": null,
+    "spouse": [
+      "1206_agustin_castella_caldero"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Cartes Fonollosa",
+      "Francisca Omedes Cartes"
+    ],
+    "father_name": "José Cartes Cartes",
+    "mother_name": "Francisca Omedes Cartes",
+    "spouse_names": [
+      "Agustín Castellà Calderó"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Domingo Piñana",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 19 de juny de 1814 a la Ràpita.\n\nPadrins: Domingo Piñana i Tomasa Zaragoza.\n\nCasament: amb Agustín Castellà Calderó de la Ràpita [1798].\n\nFills: María Rosa [1840].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

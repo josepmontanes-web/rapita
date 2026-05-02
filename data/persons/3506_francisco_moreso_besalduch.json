@@ -1,0 +1,90 @@
+{
+  "id": "3506_francisco_moreso_besalduch",
+  "source_id": "3506",
+  "row_ref": "3506. Francisco Moreso Besalduch",
+  "name": "Francisco Moreso Besalduch",
+  "gender": "male",
+  "birth": {
+    "date": "1806-04-07",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3497_manuel_moreso_avella",
+      "699_teresa_besalduch_sanarau"
+    ],
+    "father": "3497_manuel_moreso_avella",
+    "mother": "699_teresa_besalduch_sanarau",
+    "spouse": [],
+    "children": [
+      "3500_miguel_moreso_balague",
+      "3501_maria_theresa_moreso_balaguer",
+      "3502_margarita_agustina_moreso_balaguer",
+      "3503_margarita_moreso_balaguer",
+      "3504_maria_moreso_balaguer",
+      "3505_francisco_moreso_balaguer"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel Moreso Avellà",
+      "Teresa Besalduch Sanarau"
+    ],
+    "father_name": "Manuel Moreso Avellà",
+    "mother_name": "Teresa Besalduch Sanarau",
+    "spouse_names": [
+      "Josefa Balagué Omedes"
+    ],
+    "children_names": [
+      "Miguel Moreso Balagué",
+      "Maria Theresa Moreso Balaguer",
+      "Margarita Agustina Moreso Balaguer",
+      "Margarita Moreso Balaguer",
+      "María Moreso Balaguer",
+      "Francisco Moreso Balaguer"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Paulí",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 7 d'abril de 1806 a Tortosa.\n\nPadrins: Francisco Paulí i Rosa Ruíz.\n\nCasament: el 16 de març de 1829 amb Josefa Balagué Omedes [o Homedes] de Tortosa [1803].\n\nFills: Francisco [1827], María [1834], Margarita [1835], Margarita Agustina [1837], María Teresa [1839], Miguel [1842], Juan [1846] i Rosa [1848].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

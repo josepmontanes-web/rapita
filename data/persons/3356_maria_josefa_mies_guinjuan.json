@@ -1,0 +1,73 @@
+{
+  "id": "3356_maria_josefa_mies_guinjuan",
+  "source_id": "3356",
+  "row_ref": "3356. María Josefa Míes Guinjuan",
+  "name": "María Josefa Míes Guinjuan",
+  "gender": "female",
+  "birth": {
+    "date": "1808-12-14",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1810-06-12",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3363_sebastian_mies_montes"
+    ],
+    "father": "3363_sebastian_mies_montes",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Sebastián Míes Montes",
+      "Antonia Guinjuan Ribes"
+    ],
+    "father_name": "Sebastián Míes Montes",
+    "mother_name": "Antonia Guinjuan Ribes",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Casimiro Mies",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 14 de desembre de 1808 a la Ràpita.\n\nPadrins: Casimiro Míes i Josefa Esteve.\n\nDefunció: el 12 de juny de 1810 a la Ràpita. Va morir als 18 mesos. A la partida de defunció el seu nom es Antonia.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

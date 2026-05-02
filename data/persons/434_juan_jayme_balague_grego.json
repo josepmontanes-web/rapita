@@ -1,0 +1,85 @@
+{
+  "id": "434_juan_jayme_balague_grego",
+  "source_id": "434",
+  "row_ref": "434. Juan Jayme Balagué Grego",
+  "name": "Juan Jayme Balagué Grego",
+  "gender": "male",
+  "birth": {
+    "date": "1763-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1843-03-27",
+    "place": "Sant Carlos de la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "461_jose_balague_saragosi"
+    ],
+    "father": "461_jose_balague_saragosi",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "448_domingo_balague_navarro",
+      "449_jose_balague_navarro",
+      "450_juan_bautista_balague_navarro",
+      "451_jayme_balague_navarro"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Balagué Saragosí",
+      "Teresa Grego"
+    ],
+    "father_name": "José Balagué",
+    "mother_name": "Teresa Grego",
+    "spouse_names": [
+      "Lucía Navarro"
+    ],
+    "children_names": [
+      "Domingo Balagué Navarro",
+      "José Balagué Navarro",
+      "Juan Bautista Balagué Navarro",
+      "Jayme Balagué Navarro"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1763].\n\nCasament: amb Lucía Navarro de Tortosa.\n\nFills: Jayme (Tortosa) [aprox 1800], Domingo (Tortosa) [aprox 1800], José (Tortosa) [aprox 1800] i Juan Bautista (Tortosa) [aprox 1816].\n\nDefunció: el 27 de març de 1843 a la Ràpita. Va morir als 80 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

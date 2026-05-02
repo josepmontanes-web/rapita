@@ -1,0 +1,87 @@
+{
+  "id": "244_rosa_arlandez_o_hernandez_cavaller",
+  "source_id": "244",
+  "row_ref": "244. Rosa Arlández [o Hernández] Cavaller",
+  "name": "Rosa Arlández [o Hernández] Cavaller",
+  "gender": "female",
+  "birth": {
+    "date": "1797-01-01",
+    "place": "Las Salinas"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "263_tomas_hernandez_o_arlandez_pla"
+    ],
+    "father": "263_tomas_hernandez_o_arlandez_pla",
+    "mother": null,
+    "spouse": [
+      "4976_francisco_sans_castell"
+    ],
+    "children": [
+      "4955_teresa_paula_sans_arlandez",
+      "4956_rosa_pascuala_sans_arlandez",
+      "4957_felicia_sans_arlandez",
+      "4958_arcangel_sans_arlandes"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomás Hernández [o Arlández] Pla",
+      "Mª. Francisca Cavaller Roig"
+    ],
+    "father_name": "Tomas Hernández Pla",
+    "mother_name": "Mª. Francisca Cavaller Roig",
+    "spouse_names": [
+      "Francisco Sans Castell"
+    ],
+    "children_names": [
+      "Teresa Paula Sans Arlández",
+      "Rosa Pascuala Sans Arlández",
+      "Felicia Sans Arlández",
+      "Arcangel Sans Arlandes"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  a les Salines dels Alfacs [aprox. 1797].\n\nCasament: el 13 de febrer de 1822 amb Francisco Sans Castell de la Ràpita [1797].\n\nFills: José Francisco [1823], Teresa Paula [1826], Rosa Pascuala [1829], Felicia [1831] i Arcangel [1834].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

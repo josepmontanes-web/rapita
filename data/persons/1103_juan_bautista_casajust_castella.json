@@ -1,0 +1,73 @@
+{
+  "id": "1103_juan_bautista_casajust_castella",
+  "source_id": "1103",
+  "row_ref": "1103. Juan Bautista Casajust Castellà",
+  "name": "Juan Bautista Casajust Castellà",
+  "gender": "male",
+  "birth": {
+    "date": "1842-01-09",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1114_francisco_casajust_michavila"
+    ],
+    "father": "1114_francisco_casajust_michavila",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Casajust Michavila",
+      "Teresa Castellà Calderó"
+    ],
+    "father_name": "Francisco Casajust Michavila",
+    "mother_name": "Teresa Castellà Calderó",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Antonio Castellà",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 9 de gener de 1842 a la Ràpita.\n\nPadrins: Antonio Castellà i Ildefonsa Castellà.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

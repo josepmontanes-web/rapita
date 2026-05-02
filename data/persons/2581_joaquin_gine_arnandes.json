@@ -1,0 +1,75 @@
+{
+  "id": "2581_joaquin_gine_arnandes",
+  "source_id": "2581",
+  "row_ref": "2581. Joaquín Giné Arnandes",
+  "name": "Joaquín Giné Arnandes",
+  "gender": "male",
+  "birth": {
+    "date": "1802-01-19",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1802-01-29",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2575_buenaventura_gine_fibla"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Salvador Giné Ferrando",
+      "Rosa Arnandes Plà"
+    ],
+    "father_name": "Salvador Giné Ferrando",
+    "mother_name": "Rosa Arnandes Plà",
+    "spouse_names": [],
+    "children_names": [
+      "Buenaventura Giné Fibla"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Blas Silvestre",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 19 de gener de 1802 a la Ràpita.\n\nPadrins: Blas Silvestre i Teresa Vilarroya.\n\nDefunció: el 29 de gener de 1802 a la Ràpita. Va morir als 10 dies. \"Nació en peligro de la vida\". \"Lo entierra el capellán castrense de la Torre de San Juan de Alfaques\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

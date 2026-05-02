@@ -1,0 +1,81 @@
+{
+  "id": "2195_joaquin_forcadell_forcadell",
+  "source_id": "2195",
+  "row_ref": "2195. Joaquín Forcadell Forcadell",
+  "name": "Joaquín Forcadell Forcadell",
+  "gender": "male",
+  "birth": {
+    "date": "1796-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2178_jose_forcadell"
+    ],
+    "father": "2178_jose_forcadell",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2203_francisca_marta_forcadell_jovani",
+      "2204_miguel_forcadell_jovani"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Forcadell",
+      "Madalena Forcadell"
+    ],
+    "father_name": "José Forcadell",
+    "mother_name": "Madalena Forcadell",
+    "spouse_names": [
+      "Maria Jovani Grau"
+    ],
+    "children_names": [
+      "Francisca Marta Forcadell Jovani",
+      "Miguel Forcadell Jovani"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1796].\n\nCasament: el 17 de juliol de 1834 amb María Jovani Grau d'Alcanar [1800]. Es casa als 38 anys.\n\nFills: Francisca Marta [1835] i Miguel [1839].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

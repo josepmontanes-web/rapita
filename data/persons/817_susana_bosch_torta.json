@@ -1,0 +1,85 @@
+{
+  "id": "817_susana_bosch_torta",
+  "source_id": "817",
+  "row_ref": "817. Susana Bosch Torta",
+  "name": "Susana Bosch Torta",
+  "gender": "female",
+  "birth": {
+    "date": "1812-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "814_francisco_bosch_montanes"
+    ],
+    "father": "814_francisco_bosch_montanes",
+    "mother": null,
+    "spouse": [
+      "2613_agustin_goday_sola"
+    ],
+    "children": [
+      "2603_juan_goday_bosch",
+      "2604_francisco_goday_bosch",
+      "2605_maria_de_los_dolores_goday_bosch"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Bosch Montañés",
+      "Josefa Torta Subirats"
+    ],
+    "father_name": "Francisco Bosch Montañés",
+    "mother_name": "Josefa Torta Subirats",
+    "spouse_names": [
+      "Agustín Goday Solà"
+    ],
+    "children_names": [
+      "Juan Goday Bosch",
+      "Francisco Goday Bosch",
+      "Maria de los Dolores Goday Bosch"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1812].\n\nCasament: el 31 d'octubre de 1832 amb Agustín Goday Solà de la Ràpita [1811]. Es casa als 20 anys.\n\nFills: Juan [1833], Francisco [1834], María Dolores [1838] i Josefa [1845].\n\nDefunció: el 28 d'agost de 1879 a la Ràpita als 67 anys de \"un exceso de calentura intermitente perniciosa\". Declara la mor Antonia Míes vidua de 50 anys. Va testa davant del notari d'Amposta Pedro Llopart.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

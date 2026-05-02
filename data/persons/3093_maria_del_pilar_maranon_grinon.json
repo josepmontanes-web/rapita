@@ -1,0 +1,71 @@
+{
+  "id": "3093_maria_del_pilar_maranon_grinon",
+  "source_id": "3093",
+  "row_ref": "3093. Maria del Pilar Marañón Griñón",
+  "name": "Maria del Pilar Marañón Griñón",
+  "gender": "female",
+  "birth": {
+    "date": "1807-10-12",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Marañón Cordova",
+      "Maria Angela Griñón Rubio"
+    ],
+    "father_name": "Josef Marañón Cordova",
+    "mother_name": "Maria Angela Griñón Rubio",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Thomas Sastre",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 12 d'octubre de 1807 a la Ràpita.\n\nPadrins: Tomás Sastre i Isabel Rubio.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "438_francisca_balague_homedes_o_omedes",
+  "source_id": "438",
+  "row_ref": "438. Francisca Balagué Homedes [o Omedes]",
+  "name": "Francisca Balagué Homedes [o Omedes]",
+  "gender": "female",
+  "birth": {
+    "date": "1805-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1841-07-15",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2793_teresa_homedes_cartes"
+    ],
+    "father": null,
+    "mother": "2793_teresa_homedes_cartes",
+    "spouse": [
+      "5241_tomas_talarn_bosch"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Balagué Salvadó",
+      "Teresa Homedes Cartes"
+    ],
+    "father_name": "José Balagué Salvadó",
+    "mother_name": "Teresa Homedes Cartes",
+    "spouse_names": [
+      "Tomas Talarn Bosch"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1805].\n\nCasament: el 4 de desembre de 1830 amb Tomás Talarn Bosch de la Ràpita [1807].\n\nFills: María de Cervellón [1832], Josefa [1834], José [1836] i María Antonia [1839].\n\nDefunció: el 15 de juliol de 1841 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

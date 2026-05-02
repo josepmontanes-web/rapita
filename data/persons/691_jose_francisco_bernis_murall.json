@@ -1,0 +1,88 @@
+{
+  "id": "691_jose_francisco_bernis_murall",
+  "source_id": "691",
+  "row_ref": "691. José Francisco Bernis Murall",
+  "name": "José Francisco Bernis Murall",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "679_francisco_bernis",
+      "3581_francisca_murall"
+    ],
+    "father": "679_francisco_bernis",
+    "mother": "3581_francisca_murall",
+    "spouse": [
+      "1994_teresa_ferrater_pares"
+    ],
+    "children": [
+      "681_francisca_bernis_ferrater",
+      "682_teresa_bernis_ferrater",
+      "683_carlota_bernis_ferrater",
+      "684_filomena_bernis_ferrater"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Bernis",
+      "Francisca Murall"
+    ],
+    "father_name": "Francisco Bernis",
+    "mother_name": "Francisca Murall",
+    "spouse_names": [
+      "Teresa Ferrater Parés"
+    ],
+    "children_names": [
+      "Francisca Bernis Ferrater",
+      "Teresa Bernis Ferrater",
+      "Carlota Bernis Ferrater",
+      "Filomena Bernís Ferrater"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1800].\n\nCasament: amb Teresa Ferrater Parés de Reus [1800].\n\nFills: Francisca [1832], Teresa [1834], Carlota [1842], Filomena [1843], Francisco [1846] i Filomena [1849].\n\nDe l'1 de març de 1834 al 31 de març de 1836 ha de pagar un lloguer de 28 Rs mensuals pel pis de terra de la casa 2 de la mançana 4 (antiga casa 11). (AGP.PER.LEG.1073/23 [Juan Vecino]).\n\nVenta de Bautista Silvestre (podría ser Juan Bautista Silvestre Sanchís [1812]), labrador, a D. José Castellá (podría ser José Castellá Balaguer casat amb Francisca Borrás Vernís i fill de Mariano Castellá Cid), negociante, de una casa en el barrio de pescadores o del Puerto en las inmediaciones del Mar. Linda por un lado con la de Juan Safont (Sabio)(podría ser Juan Safont Fabregat casat amb Mariana Balagué Homedes), por otro con José Francisco Bernís (Murall) mediante calle, por detrás con la de Miguel Borrás (podría ser Miguel Borrás Vernís casat amb Carlina Castellá Balagué) y por delante con la playa. Precio 100 duros. 7 de agosto de 1846.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

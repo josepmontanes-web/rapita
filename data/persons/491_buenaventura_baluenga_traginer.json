@@ -1,0 +1,68 @@
+{
+  "id": "491_buenaventura_baluenga_traginer",
+  "source_id": "491",
+  "row_ref": "491. Buenaventura Baluenga Traginer",
+  "name": "Buenaventura Baluenga Traginer",
+  "gender": "male",
+  "birth": {
+    "date": "1810-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Prestamo y obligación: Pedro Costa tratante y Casilda Magriñá consortes confesaron deber a D. Buenaventura Baluenga cirujano la cantidad de 3000 reales prestados con promesa de devolverlos dentro de 4 años contaderos del día de la otorgación de la … y en el entretanto podrá el Baluenga servirse de un pedazo de casa en los bajos que era tienda café de aquella sita en San Carlos y Plaza Mayor que toca con Dª Ramona Ayguavives viuda de D. Ignacio Ramón pudiendo el referido Baluenga servirse de la … y del pozo para sacar agua de la que existía con dicha casa. Y fue pactado que si después de los referidos 4 años pasasen a enajenar tanto dicha tienda como el resto de la casa será preferido el referido D. Buenaventura Baluenga a todos los demás compradores y así mismo fue pactado que en caso que no vendiese la … casa o tienda será obligación de los consortes Costa y Magriñá facilitar al Baluenga una habitación de igual capacidad en las mismas fachadas que las antes deslindadas durando esta obligación únicamente por el tiempo de 8 años para ejercer la tienda de barbera pagando su este último … al antedicho Baluenga 24 reales… 5 de febrero de 1859. Esc. Lorenzo Figueras de Alcanar.\n\nEs un dels 28 veïns de la Ràpita que figuren al primer cens electoral de San Carlos de la Ràpita de 1867, diu que viu a la \"Plaza Mayor\", 17 i que es cirujano.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

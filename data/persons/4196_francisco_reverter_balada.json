@@ -1,0 +1,86 @@
+{
+  "id": "4196_francisco_reverter_balada",
+  "source_id": "4196",
+  "row_ref": "4196. Francisco Reverter Balada",
+  "name": "Francisco Reverter Balada",
+  "gender": "male",
+  "birth": {
+    "date": "1810-04-20",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4314_bautista_reverter_pla",
+      "362_josefa_balada_queralt"
+    ],
+    "father": "4314_bautista_reverter_pla",
+    "mother": "362_josefa_balada_queralt",
+    "spouse": [
+      "2167_josefa_fonollosa_puig"
+    ],
+    "children": [
+      "4253_peregrina_maria_reverter_fonollosa",
+      "4254_pedro_reverter_fonollosa",
+      "4255_josefa_monica_reverte_fonollosa"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Reverter Pla",
+      "Josefa Balada Queralt"
+    ],
+    "father_name": "Bautista Reverter Pla",
+    "mother_name": "Josefa Balada Queralt",
+    "spouse_names": [
+      "Josefa Fonollosa Puig"
+    ],
+    "children_names": [
+      "Peregrina Maria Reverter Fonollosa",
+      "Pedro Reverter Fonollosa",
+      "Josefa Monica Reverté Fonollosa"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Gasparín",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 20 d'abril de 1810 a la Ràpita.\n\nPadrins: Francisco Gasparín i Antonia Castellà.\n\nCasament: el 7 de maig de 1836 amb Josefa Fonollosa Puig de Freginals [1820].\n\nFills: Josefa Mónica [1837], Peregrina María [1840], Pedro Bautista [1842], Josefa [1846] i Cinta [1855].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

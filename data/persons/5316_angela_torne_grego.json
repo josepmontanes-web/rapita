@@ -1,0 +1,77 @@
+{
+  "id": "5316_angela_torne_grego",
+  "source_id": "5316",
+  "row_ref": "5316. Angela Torné Grego",
+  "name": "Angela Torné Grego",
+  "gender": "female",
+  "birth": {
+    "date": "1824-11-10",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5312_antonio_torne_caudet"
+    ],
+    "father": "5312_antonio_torne_caudet",
+    "mother": null,
+    "spouse": [
+      "5594_felipe_vidiella_carles"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Torné Caudet",
+      "Rosa Grego Omedes"
+    ],
+    "father_name": "Antonio Torné Caudet",
+    "mother_name": "Rosa Grego Omedes",
+    "spouse_names": [
+      "Felipe Vidiella Carles"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Gasparín",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 10 de novembre de 1824 a la Ràpita.\n\nPadrins: Francisco Gasparín i Angela Bou.\n\nCasament: el 22 de maig de 1849 amb Felipe Vidiella Carles de Tortosa [1823].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

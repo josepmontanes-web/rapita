@@ -1,7 +1,7 @@
 {
   "id": "6_pedro_accensi",
   "source_id": "6",
-  "row_ref": "6",
+  "row_ref": "6. Pedro Accensi",
   "name": "Pedro Accensi",
   "gender": null,
   "birth": {
@@ -22,13 +22,37 @@
   },
   "family": {
     "parents": [],
+    "father": null,
+    "mother": null,
     "spouse": [],
-    "children": []
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
   },
   "relations_detail": {
     "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
     "spouse_names": [],
-    "children_names": []
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
   },
   "occupation": {
     "title": null

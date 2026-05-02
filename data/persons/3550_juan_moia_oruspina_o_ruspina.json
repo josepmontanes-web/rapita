@@ -1,0 +1,92 @@
+{
+  "id": "3550_juan_moia_oruspina_o_ruspina",
+  "source_id": "3550",
+  "row_ref": "3550. Juan Moia Oruspina [o Ruspina]",
+  "name": "Juan Moia Oruspina [o Ruspina]",
+  "gender": "male",
+  "birth": {
+    "date": "1753-01-01",
+    "place": "Orino (Ob. de Com) Itália"
+  },
+  "death": {
+    "date": "1820-06-03",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "5602_teresa_vilarroya_perolada"
+    ],
+    "children": [
+      "3557_francisco_moya_vilarroya",
+      "3558_rosa_moya_vilarroya",
+      "3559_juan_moya_vilarroya",
+      "3561_francisco_juan_moya_vilarroya",
+      "3562_juan_francisco_moya_vilarroya",
+      "3563_francisca_moya_vilarroya",
+      "3564_juan_francisco_moya_vilarroya",
+      "1797_38_1800"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Carlos Josef Moia",
+      "Lucrezia Oruspina [o Ruspina]"
+    ],
+    "father_name": "Carlos Josef Moia",
+    "mother_name": "Lucrezia Oruspina [o Ruspina]",
+    "spouse_names": [
+      "Teresa Vilarroya Perolada"
+    ],
+    "children_names": [
+      "Francisco Moya Vilarroya",
+      "Rosa Moya Vilarroya",
+      "Juan Moya Vilarroya",
+      "Francisco Juan Moya Vilarroya",
+      "Juan Francisco Moya Vilarroya",
+      "Francisca Moya Vilarroya",
+      "38 1800"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Orino (Italia) [aprox. 1753]. \n\nMolt probablement va naixer a Orino que en dialecte de la provincia de Varese es diu Urin. Es un poble que al 2020 té poc més de 800 habitants situat a la Valcuvia, una vall al nord de la provincia de Varese. Està a menys de kilòmetre i mig d'Azzio, el poble d'ont previsiblement va venir Francisco Gasparini Bertagna [1761].\n\nEl cognom Moya a Italia no es troba, el que hi ha es Moia. Al 2020 viuen al meny 7 persones a Orino amb el cognom Moia. En el passat també l'escriuen Moja.\n\nProfessió: paleta i pagès.\n\nAl desembre de 1784 treballa com a paleta a una de les brigades de treballadors de les obres del Canal de Navegació (ACA BGRP caixa 47).\n\nAl 8 de juny de 1786 el contracten per a fer una casa per compte del Rei al costat de la de Guindulain juntament amb José Giner, Antonio Rosales i Juan Bautista Moya. Firma Juan Moya per comptes dels altres per que diu que no saben escriure. (ACA BGRP Correspondecia Caixa 8).\n\nCasament: amb Teresa Vilarroya Perolada d'Alcanar [1777]. A l'estat de veïns de setembre de 1798 diu que viuen a la casa núm. 40 de la \"Calle Mayor\" (ACA BGRP Cajas 34). Al gener de 1799 paga un lloguer de 20,23 Rv per la mateixa casa.\n\nFills: Francisco [1794], Juan Francisco [1796], Rosa [1797], Francisco Juan [1799], María Francisca [1801], Juan Francisco [1804], Francisca [1806] i Juan [1808].\n\nEl 19 d'abril de 1794 Angel Lantí comerciant per a pagar a Juan Moya paleta 100 duros de plata que li va deixar en diferentes partides i li dona en pagament d'aquesta quantitat un troç de terra de 3 jornals plantats de moreres a l'horta i que linda amb hereus de Miguel Ricart, amb Joan Reverter dit Llucio, amb les sequies de desaigüe. Notari Bartolomé Garcia de Tortosa.\n\nEn la nueva población…el 21/06/1796 compareció Juan Moia, vecino de ella, y presentó otra concesión de Dn Fco Canals, en el Real nombre…de una porción de terreno de tenida como medio jornal situada en el paredón de frente la casa de Dn Ramon Talavera de dicha población, cuya escritura dejó en poder de s.e. de su orden, de que doy fe.\n\nDefunció: el 3 de juny de 1820 a la Ràpita. Va morir als 67 anys de \"hidropesia\". Va fer testament l'11 de maig de 1820 en poder del ecónomo. \"Dio para bien de almas 6 duros\".\n\nEs veí de la Ràpita a 1796 (ACA Processos 1796 7F).\n\n16.7.1788 Quedará en la presente semana concluidas las cavallerizas aunque podrá suceder que les quedara algo que hacer por lo que respecta al brocal del pozo y latrina. Luedo pasarán estos trabajadores a la continuación de la casa nº 6 anexa a la misma fonda, que son dos albañiles, Moya el mayor, Gené y genoba los dias que no se ocupa en la Balija. (ACA BGRP caixa 13).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

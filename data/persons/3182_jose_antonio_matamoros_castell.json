@@ -1,0 +1,82 @@
+{
+  "id": "3182_jose_antonio_matamoros_castell",
+  "source_id": "3182",
+  "row_ref": "3182. José Antonio Matamoros Castell",
+  "name": "José Antonio Matamoros Castell",
+  "gender": "male",
+  "birth": {
+    "date": "1824-11-29",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3251_pascual_matamoros_reverter",
+      "1151_josefa_castell_roe"
+    ],
+    "father": "3251_pascual_matamoros_reverter",
+    "mother": "1151_josefa_castell_roe",
+    "spouse": [
+      "3378_rosa_miguel_grau"
+    ],
+    "children": [
+      "1149_antonia_castell_comes"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pascual Matamoros Reverter",
+      "Josefa Castell Roe"
+    ],
+    "father_name": "Pascual Matamoros Reverter",
+    "mother_name": "Josefa Castell Roe",
+    "spouse_names": [
+      "Rosa Miguel Grau"
+    ],
+    "children_names": [
+      "Antonia Castell Comes"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Antonio Vidal",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 29 de novembre de 1824 a la Ràpita.\n\nPadrins: Antonio Vidal i Teresa Llatí\n\nProfessió: pagès.\n\nCasament: el 5 d'agost de 1848 amb Rosa Miguel Grau d'Alcanar [1825]. \"Miguel\" es el primer cognom.\n\nFills: Ramón [1848] i Miguel [1857].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "127_sebastian_joaquin_anguera_sancho",
+  "source_id": "127",
+  "row_ref": "127. Sebastián Joaquín Anguera Sancho",
+  "name": "Sebastián Joaquín Anguera Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1806-05-19",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "136_agustin_anguera_o_enguera_torres",
+      "4857_pascuala_sancho_bonet"
+    ],
+    "father": "136_agustin_anguera_o_enguera_torres",
+    "mother": "4857_pascuala_sancho_bonet",
+    "spouse": [],
+    "children": [
+      "111_manuel_anguera_pla"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustín Anguera [ o Enguera] Torres",
+      "Pascuala Sancho Bonet"
+    ],
+    "father_name": "Agustín Anguera Torres",
+    "mother_name": "Pascuala Sancho Bonet",
+    "spouse_names": [],
+    "children_names": [
+      "Manuel Anguera Pla"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Sebastián Trillero",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  el 19 de maig de 1806 a la Ràpita.\n\nEls padrins son els cònjuges Sebastián Trillero de Calanda i Vicenta Milian de Villaluengo.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

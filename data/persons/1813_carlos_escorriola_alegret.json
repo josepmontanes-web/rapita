@@ -1,0 +1,85 @@
+{
+  "id": "1813_carlos_escorriola_alegret",
+  "source_id": "1813",
+  "row_ref": "1813. Carlos Escorriola Alegret",
+  "name": "Carlos Escorriola Alegret",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1813_carlos_escorriola_alegret"
+    ],
+    "father": "1813_carlos_escorriola_alegret",
+    "mother": null,
+    "spouse": [
+      "5652_francisca_zaragoza_carbo"
+    ],
+    "children": [
+      "1813_0_1813",
+      "1814_0_1844",
+      "1815_0_1815"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Carlos Escorriola Alegret",
+      "Rosalia Alegret"
+    ],
+    "father_name": "Carlos Escorriola",
+    "mother_name": "Rosalia Alegret",
+    "spouse_names": [
+      "Francisca Zaragoza Carbó"
+    ],
+    "children_names": [
+      "0 1813",
+      "0 1844",
+      "0 1815"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1800].\n\nCasament: amb Francisca Zaragoza Carbó de Tortosa [1800].\n\nFills: María Concepción [1821] i José Agustín [1826].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "1922_josefa_magdalena_fabregat_mateu",
+  "source_id": "1922",
+  "row_ref": "1922. Josefa Magdalena Fabregat Mateu",
+  "name": "Josefa Magdalena Fabregat Mateu",
+  "gender": "female",
+  "birth": {
+    "date": "1800-05-22",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1905_juan_fabregat_balaguer",
+      "3301_mariana_mateu_sancho"
+    ],
+    "father": "1905_juan_fabregat_balaguer",
+    "mother": "3301_mariana_mateu_sancho",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Fabregat Balaguer",
+      "Mariana Mateu Sancho"
+    ],
+    "father_name": "Juan Fabregat Balaguer",
+    "mother_name": "Mariana Mateu Sancho",
+    "spouse_names": [
+      "Josep Torta Llasa"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Joseph Castellà",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 22 de maig de 1800 a la Ràpita.\n\nPadrins: José Castellà i María Dalmau.\n\nCasament: el 31 de juliol de 1820 amb Josep Torta Llasa d'Amposta [1800].\n\nFills: Mariano [1821], Fortunata [1838] i Josefa [1840].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

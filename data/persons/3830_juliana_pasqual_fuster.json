@@ -1,0 +1,96 @@
+{
+  "id": "3830_juliana_pasqual_fuster",
+  "source_id": "3830",
+  "row_ref": "3830. Juliana Pasqual Fuster",
+  "name": "Juliana Pasqual Fuster",
+  "gender": "female",
+  "birth": {
+    "date": "1789-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3817_mariano_pascual_antequera",
+      "2270_antonia_fuster"
+    ],
+    "father": "3817_mariano_pascual_antequera",
+    "mother": "2270_antonia_fuster",
+    "spouse": [
+      "4741_francisco_sanchez_ferre"
+    ],
+    "children": [
+      "4778_jose_sanchez_pasqual",
+      "4780_manuel_francisco_sanchez_pascual",
+      "4781_manuel_sanchez_pascual",
+      "4782_maria_sanches_pasqual",
+      "4783_vicente_sanchiz_pasqual",
+      "4784_salvador_sanchis_pasqual",
+      "4785_martina_sanches_pascual",
+      "4786_francisco_sanches_pasqual"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Mariano Pascual Antequera",
+      "Antonia Fuster"
+    ],
+    "father_name": "Mariano Pascual Antequera",
+    "mother_name": "Antonia Fuster",
+    "spouse_names": [
+      "Francisco Sánchez Ferré"
+    ],
+    "children_names": [
+      "José Sánchez Pasqual",
+      "Manuel Francisco Sánchez Pascual",
+      "Manuel Sánchez Pascual",
+      "María Sanches Pasqual",
+      "Vicente Sánchiz Pasqual",
+      "Salvador Sanchis Pasqual",
+      "Martina Sanches Pascual",
+      "Francisco Sanches Pasqual"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1789]. \n\nCasament: el 6 d'abril de 1805 amb Francisco Sánchez Ferré d'Amposta [1788]. Es casa als 16 anys.\n\nFills: José [1806], Salvador [1809], Vicente [1812], Francisco [1815], María [1819], Martina [1822], Manuel Francisco [1825], Manuel [1827] i Juan [1833].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

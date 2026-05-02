@@ -1,0 +1,74 @@
+{
+  "id": "1402_alexandra_matilda_chaire_gine",
+  "source_id": "1402",
+  "row_ref": "1402. Alexandra Matilda Chaire Gine",
+  "name": "Alexandra Matilda Chaire Gine",
+  "gender": "female",
+  "birth": {
+    "date": "1800-09-07",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1403_juan_chaire_o_chire",
+      "2558_francisca_gine"
+    ],
+    "father": "1403_juan_chaire_o_chire",
+    "mother": "2558_francisca_gine",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Chaire o Chire",
+      "Francisca Giné"
+    ],
+    "father_name": "Juan Chaire",
+    "mother_name": "Francisca Gine",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Alexandro Beltri",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 7 de setembre de 1800 a la Ràpita.\n\nPadrins: Alexandro Beltri i Matilda Reverté.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

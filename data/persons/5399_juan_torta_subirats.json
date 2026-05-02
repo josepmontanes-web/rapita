@@ -1,0 +1,78 @@
+{
+  "id": "5399_juan_torta_subirats",
+  "source_id": "5399",
+  "row_ref": "5399. Juan Torta Subirats",
+  "name": "Juan Torta Subirats",
+  "gender": "male",
+  "birth": {
+    "date": "1832-09-23",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5389_juan_torta_sole",
+      "5191_teresa_subirats_fabregat"
+    ],
+    "father": "5389_juan_torta_sole",
+    "mother": "5191_teresa_subirats_fabregat",
+    "spouse": [
+      "3173_josefa_matamoros_biosca"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Torta Solé",
+      "Teresa Subirats Fabregat"
+    ],
+    "father_name": "Juan Torta Soler",
+    "mother_name": "Teresa Subirats Fabregat",
+    "spouse_names": [
+      "Josefa Matamoros Biosca"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Subirats",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 23 de setembre de 1832 a la Ràpita.\n\nPadrins: José Subirats i Teresa Solà.\n\nProfessió: pagès.\n\nCasament: el 20 de juliol de 1853 amb Josefa Matamoros Biosca de la Ràpita [1821]. Testimonis: Vicente Baile i Miguel Baile.\n\nFills: Cinta [1857] i Felix [1858].\n\nVenta: de Francisco Guardia y Sánchez, labrador a los consortes Juan Torta (Subirats) y Josefa Matamoros (Biosca), labradores. Patio para edificar en la calle del Arrabal de San Isidro. 24 palmos de ancho y 60 de fondo. Linda con dicha calle a mediodía, a poniente y al norte con restante terreno del vendedor y a oriente con Gabriel Gilabert. 31 de agosto de 1857. Valor 160.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

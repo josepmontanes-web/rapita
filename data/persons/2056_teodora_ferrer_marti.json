@@ -1,0 +1,95 @@
+{
+  "id": "2056_teodora_ferrer_marti",
+  "source_id": "2056",
+  "row_ref": "2056. Teodora Ferrer Martí",
+  "name": "Teodora Ferrer Martí",
+  "gender": "female",
+  "birth": {
+    "date": "1789-01-01",
+    "place": "Portell de Morella"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2103_francisco_ferrer_sorolla",
+      "3111_salvadora_marti"
+    ],
+    "father": "2103_francisco_ferrer_sorolla",
+    "mother": "3111_salvadora_marti",
+    "spouse": [
+      "620_pedro_beltran_masdeu"
+    ],
+    "children": [
+      "604_vicente_beltran_ferre",
+      "605_miguel_beltran_ferrer",
+      "606_ramon_beltran_ferrer",
+      "607_francisco_beltran_ferrer",
+      "608_francisco_salvador_beltran_ferrer",
+      "609_manuela_beltran_ferrer",
+      "610_pedro_beltran_ferrer",
+      "611_francisco_salvador_beltran_ferrer"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Ferrer Sorolla",
+      "Salvadora Martí"
+    ],
+    "father_name": "Francisco Ferrer Sorolla",
+    "mother_name": "Salvadora Martí",
+    "spouse_names": [
+      "Pedro Beltran Masdeu"
+    ],
+    "children_names": [
+      "Vicente Beltran Ferré",
+      "Miguel Beltran Ferrer",
+      "Ramon Beltran Ferrer",
+      "Francisco Beltran Ferrer",
+      "Francisco Salvador Beltran Ferrer",
+      "Manuela Beltran Ferrer",
+      "Pedro Beltran Ferrer"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Portell de Morella [aprox. 1789].\n\nCasament: el 26 de juliol de 1809 amb Pedro Beltran Masdeu d'Amposta [1791]. Es casa als 20 anys.\n\nFills: Manuela [1809], Francisco Salvador [1813], Francisco [1814], Pedro [1820], Ramón [1823], Miguel [1826], Vicente [1830 i Francisco Salvador [1835].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

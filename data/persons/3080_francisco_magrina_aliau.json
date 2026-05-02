@@ -1,0 +1,89 @@
+{
+  "id": "3080_francisco_magrina_aliau",
+  "source_id": "3080",
+  "row_ref": "3080. Francisco Magriñá Aliau",
+  "name": "Francisco Magriñá Aliau",
+  "gender": "male",
+  "birth": {
+    "date": "1777-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1827-07-04",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3079_mateo_magrina_aliau"
+    ],
+    "father": "3079_mateo_magrina_aliau",
+    "mother": null,
+    "spouse": [
+      "4557_teresa_rosales_valls"
+    ],
+    "children": [
+      "3085_agustin_magrina_rosales",
+      "3086_juan_magrina_rosales",
+      "3087_casilda_magrina_rosales",
+      "3088_teresa_magrina_rosales",
+      "3089_francisco_magrina_rosales"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Mateo Magriñá Aliau",
+      "Teresa Aliau"
+    ],
+    "father_name": "Mateo Magriñá",
+    "mother_name": "Teresa Aliau",
+    "spouse_names": [
+      "Teresa Rosales Valls"
+    ],
+    "children_names": [
+      "Agustín Magriñá Rosales",
+      "Juan Magriñá Rosales",
+      "Casilda Magriñá Rosales",
+      "Teresa Magriñá Rosales",
+      "Francisco Magriñá Rosales"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1777]. \n\nCasament: el 20 d'abril de 1812 amb Teresa Rosales Valls d'Amposta [1783].\n\nFills: Agustín [1813], Juan [1815], Teresa [1818], Francisco [1820] i Casilda [1823].\n\nDefunció: el 4 de juliol de 1827 a la Ràpita. Va morir ofegat als 50 anys. \"Hace testamento ante el escribano Francisco Querol de Tortosa\".\n\nEs germà de Mateo Magriñá Aliau [1780].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "5546_rafael_vidal_planes",
+  "source_id": "5546",
+  "row_ref": "5546. Rafael Vidal Planes",
+  "name": "Rafael Vidal Planes",
+  "gender": "male",
+  "birth": {
+    "date": "1831-05-02",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1831-05-11",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5500_francisco_vidal_beltran"
+    ],
+    "father": "5500_francisco_vidal_beltran",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Vidal Beltran",
+      "Francisca Planes Govern"
+    ],
+    "father_name": "Francisco Vidal Beltran",
+    "mother_name": "Francisca Planes Govern",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Jayme Balaguer",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 2 de maig de 1831 a la Ràpita.\n\nPadrins: Jayme Balaguer i Rafaela Verge.\n\nDefunció: l'11 de maig de 1831 a la Ràpita. Va morir de \"espasmo\".  A la partida de defunció l'anomenen Miguel.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

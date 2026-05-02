@@ -1,0 +1,74 @@
+{
+  "id": "5322_angela_torne_martorell",
+  "source_id": "5322",
+  "row_ref": "5322. Angela Torné Martorell",
+  "name": "Angela Torné Martorell",
+  "gender": "female",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Perelló (Podria ser el Perelló de València)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2280_maria_dolores_gallart_torne",
+      "2281_sebastiana_gallart_torne"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "María Dolores Gallart Torné",
+      "Sebastiana Gallart Torné"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: al Perelló (Podria ser el Perelló de València) [aprox. 1810].\n\nCasament: amb Vicente Gallart Ballester de València [1810].\n\nFills: María Dolores [1836] i Sebastiana [1837].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

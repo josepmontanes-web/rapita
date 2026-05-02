@@ -1,0 +1,74 @@
+{
+  "id": "3165_serafin_matamoros_biosca",
+  "source_id": "3165",
+  "row_ref": "3165. Serafín Matamoros Biosca",
+  "name": "Serafín Matamoros Biosca",
+  "gender": "male",
+  "birth": {
+    "date": "1835-09-11",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1835-11-05",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3250_jose_matamoros_reverter",
+      "706_agustina_biosca_cid"
+    ],
+    "father": "3250_jose_matamoros_reverter",
+    "mother": "706_agustina_biosca_cid",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Matamoros Reverter",
+      "Agustina Biosca Cid"
+    ],
+    "father_name": "José Matamoros Reverter",
+    "mother_name": "Agustina Biosca Cid",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Matamoros",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'11 de setembre de 1835 a la Ràpita.\n\nPadrins: José Matamoros i Serafina Reverter.\n\nDefunció: el 5 de novembre de 1835 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

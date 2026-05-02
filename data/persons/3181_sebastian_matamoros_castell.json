@@ -1,0 +1,74 @@
+{
+  "id": "3181_sebastian_matamoros_castell",
+  "source_id": "3181",
+  "row_ref": "3181. Sebastián Matamoros Castell",
+  "name": "Sebastián Matamoros Castell",
+  "gender": "male",
+  "birth": {
+    "date": "1822-08-12",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1824-01-13",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3251_pascual_matamoros_reverter",
+      "1151_josefa_castell_roe"
+    ],
+    "father": "3251_pascual_matamoros_reverter",
+    "mother": "1151_josefa_castell_roe",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pascual Matamoros Reverter",
+      "Josefa Castell Roe"
+    ],
+    "father_name": "Pascual Matamoros Reverter",
+    "mother_name": "Josefa Castell Roe",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Sebastián Asensi",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 12 d'agost de 1822 a la Ràpita.\n\nPadrins: Sebastián Asensi i Teresa Vilarroyo.\n\nDefunció: el 13 de gener de 1824 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

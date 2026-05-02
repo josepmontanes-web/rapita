@@ -1,0 +1,97 @@
+{
+  "id": "3247_agustin_matamoros_reverter",
+  "source_id": "3247",
+  "row_ref": "3247. Agustín Matamoros Reverter",
+  "name": "Agustín Matamoros Reverter",
+  "gender": "male",
+  "birth": {
+    "date": "1787-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1846-10-15",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3159_bautista_matamoros"
+    ],
+    "father": "3159_bautista_matamoros",
+    "mother": null,
+    "spouse": [
+      "4250_mariana_reverter_fibla"
+    ],
+    "children": [
+      "3252_bautista_matamoros_reverter",
+      "3253_miguel_matamoros_reverter",
+      "3254_tomas_matamoros_reverter",
+      "3255_francisca_matamoros_reverte",
+      "3256_raymunda_matamoros_reverte",
+      "3257_manuel_matamoros_reverte",
+      "3258_jose_antonio_matamoros_reverter",
+      "3259_agustin_matamoros_reverter",
+      "3260_narciso_matamoros_reverter"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Matamoros",
+      "Teresa Reverter"
+    ],
+    "father_name": "Bautista Matamoros",
+    "mother_name": "Teresa Reverter",
+    "spouse_names": [
+      "Mariana Reverter Fibla"
+    ],
+    "children_names": [
+      "Bautista Matamoros Reverter",
+      "Miguel Matamoros Reverter",
+      "Tomás Matamoros Reverter",
+      "Francisca Matamoros Reverté",
+      "Raymunda Matamoros Reverté",
+      "Manuel Matamoros Reverté",
+      "José Antonio Matamoros Reverter",
+      "Agustín Matamoros Reverter",
+      "Narciso Matamoros Reverter"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1787]. \n\nCasament: amb Mariana Reverter Fibla d'Alcanar [1781].\n\nFills: Narciso (Alcanar) [1810], Bautista (Alcanar) [1812], Agustín (Alcanar) [1820], José Antonio [1821], Miguel [1822], Tomás [1824], Manuel [1826], Raymunda [1827] i Francisca [1831].\n\nDefunció: el 15 d'octubre de 1846 a la Ràpita. Va morir als 59 anys de \"terciana\". Va testa davant de V. Sabater",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

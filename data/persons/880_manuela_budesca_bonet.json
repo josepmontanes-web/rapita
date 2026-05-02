@@ -1,0 +1,74 @@
+{
+  "id": "880_manuela_budesca_bonet",
+  "source_id": "880",
+  "row_ref": "880. Manuela Budesca Bonet",
+  "name": "Manuela Budesca Bonet",
+  "gender": "female",
+  "birth": {
+    "date": "1804-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1809-12-20",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "879_vicente_budesca",
+      "742_teresa_bonet"
+    ],
+    "father": "879_vicente_budesca",
+    "mother": "742_teresa_bonet",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Budesca",
+      "Teresa Bonet"
+    ],
+    "father_name": "Vicente Budesca",
+    "mother_name": "Teresa Bonet",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1804].\n\nDefunció: el 20 de desembre de 1809 a la Ràpita. Va morir als 6 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "1937_prudencio_fabregat_sancho",
+  "source_id": "1937",
+  "row_ref": "1937. Prudencio Fabregat Sancho",
+  "name": "Prudencio Fabregat Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1830-04-06",
+    "place": "Sant Carlos de la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1934_vicente_fabregat_sancho"
+    ],
+    "father": "1934_vicente_fabregat_sancho",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Fabregat Sancho",
+      "Francisca Sancho Safont"
+    ],
+    "father_name": "Vicente Fabregat Sancho",
+    "mother_name": "Francisca Sancho Safont",
+    "spouse_names": [
+      "Teresa Gavarda Reverté"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Prudencio Verge",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Marino"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 6 d'abril de 1830 a la Ràpita.\n\nPadrins: Prudencio Verge i Liberata Tort.\n\nProfessió: marino i botiguer.\n\nCasament: el 2 d'abril de 1855 amb Teresa Gavarda Reverté de la Ràpita [1836]. Testimonis: Salvador Sánchez i Manuel Pons. Viuen al carrer de Jesús.\n\nFills: Ramona [1858], Providencia [1862], Modesto Joaquín [1876] i Modesto Prudencio [1878].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "4079_antonio_puigcerver_moreso",
+  "source_id": "4079",
+  "row_ref": "4079. Antonio Puigcerver Moreso",
+  "name": "Antonio Puigcerver Moreso",
+  "gender": "male",
+  "birth": {
+    "date": "1872-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "4070_mariano_puigcerver_martinez"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Mariano Puigcerver Martínez"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1872].\n\nProfessió: mariner.\n\nLa familia no tenia bens de cap classe.\n\nDefunció: el 22 de desembre de 1891 als 19 anys, al naufragi de la barca San Juan Segundo davant de Benicarló al temporal de Sant Tomàs.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

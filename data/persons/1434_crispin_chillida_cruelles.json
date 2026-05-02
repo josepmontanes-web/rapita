@@ -1,0 +1,73 @@
+{
+  "id": "1434_crispin_chillida_cruelles",
+  "source_id": "1434",
+  "row_ref": "1434. Crispín Chillida Cruelles",
+  "name": "Crispín Chillida Cruelles",
+  "gender": "male",
+  "birth": {
+    "date": "1833-10-25",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1834-09-10",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1441_joaquin_chillida_querol"
+    ],
+    "father": "1441_joaquin_chillida_querol",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Chillida Querol",
+      "Francisca Cruelles Reverté"
+    ],
+    "father_name": "Joaquín Chillida Querol",
+    "mother_name": "Francisca Cruelles Reverté",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Estevan Chalé",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 25 d'octubre de 1833 a la Ràpita.\n\nPadrins: Esteve Chalé i Josefa Esteve.\n\nDefunció: el 10 de setembre de 1834 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

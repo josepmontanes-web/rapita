@@ -1,0 +1,73 @@
+{
+  "id": "1947_francisco_antonio_fabregat_segarra",
+  "source_id": "1947",
+  "row_ref": "1947. Francisco Antonio Fabregat Segarra",
+  "name": "Francisco Antonio Fabregat Segarra",
+  "gender": "male",
+  "birth": {
+    "date": "1838-01-17",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1933_lorenzo_fabregat_roca"
+    ],
+    "father": "1933_lorenzo_fabregat_roca",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Lorenzo Fabregat Roca",
+      "Francisca Segarra Puchol"
+    ],
+    "father_name": "Lorenzo Fabregat Roca",
+    "mother_name": "Francisca Segarra Puchol",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Palatsí",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 17 de gener de 1838 a la Ràpita.\n\nPadrins: Francisco Palatsí i Francisca Rosales.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

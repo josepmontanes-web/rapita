@@ -1,0 +1,74 @@
+{
+  "id": "163_carlina_ano_murtiero",
+  "source_id": "163",
+  "row_ref": "163. Carlina Añó Murtiero",
+  "name": "Carlina Añó Murtiero",
+  "gender": "female",
+  "birth": {
+    "date": "1844-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1845-03-05",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "156_andres_ano_esteve",
+      "3585_clara_murtiero_domenech"
+    ],
+    "father": "156_andres_ano_esteve",
+    "mother": "3585_clara_murtiero_domenech",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Andrés Añó Esteve",
+      "Clara Murtiero Domenech"
+    ],
+    "father_name": "Andrés Añó Esteve",
+    "mother_name": "Clara Murtiero Domenech",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  [aprox. 1844].\n\nDefunció: el 5 de març de 1845 a la Ràpita. Va morir quan tenia un any.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "5226_maria_antonia_talarn_balaguer",
+  "source_id": "5226",
+  "row_ref": "5226. Maria Antonia Talarn Balaguer",
+  "name": "Maria Antonia Talarn Balaguer",
+  "gender": "female",
+  "birth": {
+    "date": "1839-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1839-08-07",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5241_tomas_talarn_bosch"
+    ],
+    "father": "5241_tomas_talarn_bosch",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomás Talarn Bosch",
+      "Francisca Balaguer Omedes"
+    ],
+    "father_name": "Tomás Talarn Bosch",
+    "mother_name": "Francisca Balaguer Omedes",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Antonio Segarra",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'1 de gener de 1839 a la Ràpita.\n\nPadrins: Antonio Segarra i María Balaguer.\n\nDefunció: el 7 d'agost de 1839 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "3619_juan_navarro_comi",
+  "source_id": "3619",
+  "row_ref": "3619. Juan Navarro Comí",
+  "name": "Juan Navarro Comí",
+  "gender": "male",
+  "birth": {
+    "date": "1814-05-28",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3641_juan_navarro_hernandez",
+      "1568_rosa_comi_caldero"
+    ],
+    "father": "3641_juan_navarro_hernandez",
+    "mother": "1568_rosa_comi_caldero",
+    "spouse": [
+      "3119_antonia_marti_castells"
+    ],
+    "children": [
+      "3649_maria_navarro_marti",
+      "3650_juan_vicente_navarro_marti",
+      "3651_cecilia_mariana_navarro_marti",
+      "3652_manuel_navarro_marti"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Navarro Hernández",
+      "Rosa Comí Calderó"
+    ],
+    "father_name": "Juan Navarro Hernández",
+    "mother_name": "Rosa Comí Calderó",
+    "spouse_names": [
+      "Antonia Martí Castells"
+    ],
+    "children_names": [
+      "Maria Navarro Martí",
+      "Juan Vicente Navarro Martí",
+      "Cecilia Mariana Navarro Martí",
+      "Manuel Navarro Martí"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Josef Safon",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 28 de maig de 1814 a la Ràpita.\n\nPadrins: José Safont i Josefa Navarro.\n\nCasament: amb Antonia Martí Castells de Peníscola [1815].\n\nFills: María [1832], Juan Vicente [1835], Cecilia [1841], Manuel [1843], Agustín [1850], José [1850] i Providencia [1857].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

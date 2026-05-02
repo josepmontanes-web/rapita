@@ -1,0 +1,92 @@
+{
+  "id": "4625_maria_safon_fabregat",
+  "source_id": "4625",
+  "row_ref": "4625. María Safon Fabregat",
+  "name": "María Safon Fabregat",
+  "gender": "female",
+  "birth": {
+    "date": "1804-10-20",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4641_manuel_safont_pla",
+      "1927_francisca_fabregat_obiol"
+    ],
+    "father": "4641_manuel_safont_pla",
+    "mother": "1927_francisca_fabregat_obiol",
+    "spouse": [
+      "1171_juan_castella_alegret"
+    ],
+    "children": [
+      "1314_maria_castella_safon",
+      "1315_agustin_castella_safon",
+      "1316_francisco_castella_safon",
+      "1317_jose_castella_safon",
+      "1318_pedro_castella_safon",
+      "1319_manuel_castella_safon"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel Safont Pla",
+      "Francisca Fabregat Obiol"
+    ],
+    "father_name": "Manuel Safon Plà",
+    "mother_name": "Francisca Fabregat Obiol",
+    "spouse_names": [
+      "Juan Castellà Alegret"
+    ],
+    "children_names": [
+      "Maria Castellà Safon",
+      "Agustín Castellà Safon",
+      "Francisco Castellà Safon",
+      "José Castellà Safon",
+      "Pedro Castellà Safon",
+      "Manuel Castellà Safon"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Garcia",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 20 d'octubre de 1804 a la Ràpita.\n\nPadrins: Francisco García de Hervia i María Pla.\n\nCasament: el 24 de març de 1822 amb Juan Castellà Alegret de Tortosa [1800].\n\nFills: Juana [1824], Juan [1825], Mateo [1827], Manuel [1829], Pedro [1832], José [1835], Francisco [1837], Agustín [1840], María [1842], Jaime [1846] i Camilo [1847].\n\nDefunció: el 27 de desembre de 1880 a la Ràpita de \"enteritis\". El marit ja estava mor. Declara la mor la seua neboda Rafaela Sans de 56 anys, vidua, \"lavandera\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

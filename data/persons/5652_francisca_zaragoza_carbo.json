@@ -1,0 +1,83 @@
+{
+  "id": "5652_francisca_zaragoza_carbo",
+  "source_id": "5652",
+  "row_ref": "5652. Francisca Zaragoza Carbó",
+  "name": "Francisca Zaragoza Carbó",
+  "gender": "female",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5646_bautista_zaragoza"
+    ],
+    "father": "5646_bautista_zaragoza",
+    "mother": null,
+    "spouse": [
+      "1813_carlos_escorriola_alegret"
+    ],
+    "children": [
+      "1814_0_1844",
+      "1815_0_1815"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Zaragoza",
+      "Madalena Carbó"
+    ],
+    "father_name": "Bautista Zaragoza",
+    "mother_name": "Madalena Carbó",
+    "spouse_names": [
+      "Carlos Escorriola Alegret"
+    ],
+    "children_names": [
+      "0 1844",
+      "0 1815"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1800].\n\nCasament: amb Carlos Escorriola Alegret de Tortosa [1800].\n\nFills: María Concepción [1821] i José Agustín [1826].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

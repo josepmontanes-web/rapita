@@ -1,0 +1,82 @@
+{
+  "id": "1386_jose_cera_cartes",
+  "source_id": "1386",
+  "row_ref": "1386. José Cera Cartes",
+  "name": "José Cera Cartes",
+  "gender": "male",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1393_jose_cera_marman",
+      "1064_agustina_cartes_fonollosa"
+    ],
+    "father": "1393_jose_cera_marman",
+    "mother": "1064_agustina_cartes_fonollosa",
+    "spouse": [
+      "72_felipa_alegret_gala"
+    ],
+    "children": [
+      "1373_jose_cera_alegret"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Cera Marmañ",
+      "Agustina Cartes Fonollosa"
+    ],
+    "father_name": "José Cera Marmañ",
+    "mother_name": "Agustina Cartes Fonollosa",
+    "spouse_names": [
+      "Felipa Alegret Gala"
+    ],
+    "children_names": [
+      "José Cera Alegret"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1820].\n\nCasament: el 23 de setembre de 1843 amb Felipa Alegret Gala de la Ràpita [1824].\n\nFills: José [1844].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

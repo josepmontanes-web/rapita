@@ -1,0 +1,76 @@
+{
+  "id": "4621_francisco_safont_castella",
+  "source_id": "4621",
+  "row_ref": "4621. Francisco Safont Castellà",
+  "name": "Francisco Safont Castellà",
+  "gender": "male",
+  "birth": {
+    "date": "1828-12-28",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4637_mariano_safon_pasqual",
+      "1234_josefa_castella_colomines"
+    ],
+    "father": "4637_mariano_safon_pasqual",
+    "mother": "1234_josefa_castella_colomines",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Mariano Safon Pasqual",
+      "Josefa Castellà Colomines"
+    ],
+    "father_name": "Mariano Safon Pasqual",
+    "mother_name": "Josefa Castellà Colomines",
+    "spouse_names": [
+      "Luisa Balagué Balagué"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco xxxfol?",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pescador"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 28 de desembre de 1828 a la Ràpita.\n\nPadrins: Francisco ___fol i María de la Cinta Navarro.\n\nProfessió: pescador.\n\nCasament: el 30 d'octubre de 1852 amb Luísa [o Lucía] Balagué Balagué de la Ràpita [1828].\n\nFills: Rosa [1857] i Josefa [1858].\n\nCasament: amb María Moreso.\n\nDefunció: el 6 de juny de 1877 a la Ràpita als 49 anys de \"Hipertrofia del higado y del bazo\". Declara la mor al registre civil la seua cosina Rosa Safont.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

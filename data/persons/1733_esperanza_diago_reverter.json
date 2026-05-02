@@ -1,0 +1,74 @@
+{
+  "id": "1733_esperanza_diago_reverter",
+  "source_id": "1733",
+  "row_ref": "1733. Esperanza Diago Reverter",
+  "name": "Esperanza Diago Reverter",
+  "gender": "female",
+  "birth": {
+    "date": "1831-12-18",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1832-10-30",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1719_pascual_diago_campanals",
+      "4342_candia_reverter_sancho"
+    ],
+    "father": "1719_pascual_diago_campanals",
+    "mother": "4342_candia_reverter_sancho",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pascual Diago Campanals",
+      "Candia Reverter Sancho"
+    ],
+    "father_name": "Pascual Diago Campanals",
+    "mother_name": "Candia Reverter Sancho",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Miguel Sensi",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 18 de desembre de 1831 a la Ràpita.\n\nPadrins: Miguel Sensi i Dorotea Ramírez.\n\nDefunció: el 30 d'octubre de 1832 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "5068_jose_segarra_miralles",
+  "source_id": "5068",
+  "row_ref": "5068. José Segarra Miralles",
+  "name": "José Segarra Miralles",
+  "gender": "male",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Freginals"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5043_agustin_segarra_badoch"
+    ],
+    "father": "5043_agustin_segarra_badoch",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "5083_maria_josefa_segarra_torta",
+      "5084_jose_christobal_segarra_torta",
+      "5085_juan_segarra_torta"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustín Segarra Badoch",
+      "Adriana Miralles"
+    ],
+    "father_name": "Agustín Segarra",
+    "mother_name": "Adriana Miralles",
+    "spouse_names": [
+      "Tomasa Torta Llazat"
+    ],
+    "children_names": [
+      "María Josefa Segarra Torta",
+      "José Christobal Segarra Torta",
+      "Juan Segarra Torta"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Freginals [aprox. 1810]. \n\nCasament: amb Tomasa Torta Llazat d'Amposta [1810].\n\nFills: Juan [1835], Tomasa [1838], María Josefa [1840] i José Christobal [1842].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "4617_juan_bautista_safon_castella",
+  "source_id": "4617",
+  "row_ref": "4617. Juan Bautista Safon Castellà",
+  "name": "Juan Bautista Safon Castellà",
+  "gender": "male",
+  "birth": {
+    "date": "1823-04-05",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4637_mariano_safon_pasqual",
+      "1234_josefa_castella_colomines"
+    ],
+    "father": "4637_mariano_safon_pasqual",
+    "mother": "1234_josefa_castella_colomines",
+    "spouse": [
+      "741_josefa_boix_jovani"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Mariano Safon Pasqual",
+      "Josefa Castellà Colomines"
+    ],
+    "father_name": "Mariano Safon Pasqual",
+    "mother_name": "Josefa Castellà Colomines",
+    "spouse_names": [
+      "Josefa Boix Jovani"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Aragonés",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 5 d'abril de 1823 a la Ràpita.\n\nPadrins: Juan Aragonés i Antonia Castellà.\n\nCasament: el 23 de juny de 1841 amb Josefa Boix Jovani de Morella [1820].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

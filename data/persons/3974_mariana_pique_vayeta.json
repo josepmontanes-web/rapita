@@ -1,0 +1,79 @@
+{
+  "id": "3974_mariana_pique_vayeta",
+  "source_id": "3974",
+  "row_ref": "3974. Mariana Piqué Vayeta",
+  "name": "Mariana Piqué Vayeta",
+  "gender": "female",
+  "birth": {
+    "date": "1786-01-01",
+    "place": "Mas de les Mates"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1651_juan_cruelles_remisa"
+    ],
+    "children": [
+      "1650_ventura_josefa_cruelles_pique"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Piqué",
+      "Teresa Vayeta"
+    ],
+    "father_name": "José Piqué",
+    "mother_name": "Teresa Vayeta",
+    "spouse_names": [
+      "Juan Cruelles Remisa"
+    ],
+    "children_names": [
+      "Ventura Josefa Cruelles Piqué"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Mas de las Matas (Teruel) [aprox. 1786]. \n\nCasament: el 13 de juliol de 1805 amb Juan Cruelles Remisa de Lliçà d'Amunt [1784]. Es casa als 19 anys.\n\nFills: Ventura Josefa [1806].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

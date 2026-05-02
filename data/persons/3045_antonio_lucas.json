@@ -1,0 +1,68 @@
+{
+  "id": "3045_antonio_lucas",
+  "source_id": "3045",
+  "row_ref": "3045. Antonio Lucas",
+  "name": "Antonio Lucas",
+  "gender": "male",
+  "birth": {
+    "date": "1825-01-01",
+    "place": "Medina de Rioseco o a Valverde de Campo (Valladolid)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Medina de Rioseco o a Valverde de Campo (Valladolid) [aprox. 1825].\n\nCasament: amb Manuela Climent de Benicarló.\n\nFills: Rafael [1853], Miguel [1854] i Agustina [1859].\n\nVenta: de Juan Reverter y Forner, labrador, a Juan Antonio Lucas, de porción de tierra de 28 palmos por parte de la calle y 60 de fondo en el Arrabal de la Devesa que linda con casa de Pedro Biosca y por los demás lados con terreno de dicha Devesa que fue antes de las Monjas. 18 de marzo de 1860. Esc. Juan Ventosa de Amposta. Valor 280.\n\nHipoteca: Antonio Lucas de San Carlos a Tomás Pérez y Antonia Seck consortes de Tortosa. Una casa situada en la calle de la Constancia lindante con la de Pedro Matamoros y otros hipotecada para responder por 50 duros prestados … 25 de agosto de 1861. Documento privado otorgado en Tortosa y firmado por Antonio Lucas y el testigo Vicente Adell siendolo también José Cavallé.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

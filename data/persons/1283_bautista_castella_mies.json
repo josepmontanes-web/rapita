@@ -1,0 +1,68 @@
+{
+  "id": "1283_bautista_castella_mies",
+  "source_id": "1283",
+  "row_ref": "1283. Bautista Castellà Míes",
+  "name": "Bautista Castellà Míes",
+  "gender": "male",
+  "birth": {
+    "date": "1850-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [1850].\n\nProfessió: fuster.\n\nCasament: el 3 d'abril de 1875 amb María de la Cinta Borrell Canalda de Tortosa [1854]. Es casa als 25 anys.\n\nFills: Casimiro [1880] i María [1881].\n\nSap escriure i signa la partida de casament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

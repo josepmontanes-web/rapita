@@ -1,0 +1,73 @@
+{
+  "id": "3059_vicenta_masia_biosca",
+  "source_id": "3059",
+  "row_ref": "3059. Vicenta Masià Biosca",
+  "name": "Vicenta Masià Biosca",
+  "gender": "female",
+  "birth": {
+    "date": "1843-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1844-09-20",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1281_tomas_castella_masia"
+    ],
+    "father": "1281_tomas_castella_masia",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomás Castellà Masià",
+      "Maria Biosca"
+    ],
+    "father_name": "Tomás Masià",
+    "mother_name": "Maria Biosca",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1843]. \n\nDefunció: el 20 de setembre de 1844 a la Ràpita. Va morir pàrvula d'un any.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

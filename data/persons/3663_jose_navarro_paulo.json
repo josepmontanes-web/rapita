@@ -1,0 +1,98 @@
+{
+  "id": "3663_jose_navarro_paulo",
+  "source_id": "3663",
+  "row_ref": "3663. José Navarro Paulo",
+  "name": "José Navarro Paulo",
+  "gender": "male",
+  "birth": {
+    "date": "1784-01-01",
+    "place": "Freginals"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3592_francisco_navarro",
+      "3850_manuela_paulo"
+    ],
+    "father": "3592_francisco_navarro",
+    "mother": "3850_manuela_paulo",
+    "spouse": [
+      "5151_josefa_sol_damaso"
+    ],
+    "children": [
+      "3672_josefa_alexandra_navarro_sol",
+      "3673_francisco_navarro_sol",
+      "3674_thomas_navarro_sol",
+      "3675_ignacio_jayme_navarro_sol",
+      "3676_maria_francisca_navarro_sol",
+      "3677_maria_jacinta_navarro_sol",
+      "3678_jose_navarro_sol",
+      "3679_mariana_navarro_sol",
+      "3680_justo_navarro_sol"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Navarro",
+      "Manuela Paulo"
+    ],
+    "father_name": "Francisco Navarro",
+    "mother_name": "Manuela Paulo",
+    "spouse_names": [
+      "Josefa Sol Damaso"
+    ],
+    "children_names": [
+      "Josefa Alexandra Navarro Sol",
+      "Francisco Navarro Sol",
+      "Thomas Navarro Sol",
+      "Ignacio Jayme Navarro Sol",
+      "Maria Francisca Navarro Sol",
+      "Maria Jacinta Navarro Sol",
+      "José Navarro Sol",
+      "Mariana Navarro Sol",
+      "Justo Navarro Sol"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Freginals [aprox. 1784]. \n\nCasament: el 19 d'abril de 1814 amb Josefa Sol Damaso de Tortosa [1792].\n\nFills: José [1815], María Francisca [1817], María Jacinta [1817], Ignacio Jayme [1819], Tomás [1823], Francisco [1825], Josefa Alexandra [1828], Mariana [1831] i Justo [1833].\n\nDe l'1 de juny de 1834 al 31 de juliol de 1839 ha de pagar un lloguer de 10 Rs mensuals pel pis alt de la casa 3 del carrer del Forn. (AGP.PER.LEG.1073/23 [Juan Vecino]).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

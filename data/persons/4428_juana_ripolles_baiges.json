@@ -1,0 +1,68 @@
+{
+  "id": "4428_juana_ripolles_baiges",
+  "source_id": "4428",
+  "row_ref": "4428. Juana Ripollés Baiges",
+  "name": "Juana Ripollés Baiges",
+  "gender": "female",
+  "birth": {
+    "date": "1851-01-01",
+    "place": "Roquetes"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Roquetes [aprox. 1851].\n\nCasament: el 14 de gener de 1871 amb Vicente Reverté Sánchez de la Ràpita [1848]. Es casa als 19 anys.\n\nFills: José [1877] i Cinta [1880].\n\nEs germana de Joaquín [1848].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

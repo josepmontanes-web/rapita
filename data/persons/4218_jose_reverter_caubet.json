@@ -1,0 +1,74 @@
+{
+  "id": "4218_jose_reverter_caubet",
+  "source_id": "4218",
+  "row_ref": "4218. José Reverter Caubet",
+  "name": "José Reverter Caubet",
+  "gender": "male",
+  "birth": {
+    "date": "1823-05-05",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4318_miguel_reverter_queralt",
+      "1358_rosa_caubet_rodriguez"
+    ],
+    "father": "4318_miguel_reverter_queralt",
+    "mother": "1358_rosa_caubet_rodriguez",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Reverter Queralt",
+      "Rosa Caubet Rodríguez"
+    ],
+    "father_name": "Miguel Reverter Queralt",
+    "mother_name": "Rosa Caubet Rodriguez",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Guzman",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 5 de maig de 1823 a la Ràpita.\n\nPadrins: José Guzmán i Josefa Caubet.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "2309_jose_antonio_garcia_bonet",
+  "source_id": "2309",
+  "row_ref": "2309. José Antonio García Bonet",
+  "name": "José Antonio García Bonet",
+  "gender": "male",
+  "birth": {
+    "date": "1815-01-01",
+    "place": "Vinaroz"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2288_vicente_garcia",
+      "742_teresa_bonet"
+    ],
+    "father": "2288_vicente_garcia",
+    "mother": "742_teresa_bonet",
+    "spouse": [
+      "790_cinta_borras_vernis"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente García",
+      "Teresa Bonet"
+    ],
+    "father_name": "Vicente García",
+    "mother_name": "Teresa Bonet",
+    "spouse_names": [
+      "Cinta Borràs Vernis"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1815].\n\nCasament: el 30 d'octubre de 1845 amb Cinta Borràs Vernis de Godall [1816].\n\nFills: Teresa [1851].\n\nEs germà de Eleuterio García Bonet [1820].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

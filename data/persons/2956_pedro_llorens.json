@@ -1,0 +1,82 @@
+{
+  "id": "2956_pedro_llorens",
+  "source_id": "2956",
+  "row_ref": "2956. Pedro Llorens",
+  "name": "Pedro Llorens",
+  "gender": "male",
+  "birth": {
+    "date": "1769-01-01",
+    "place": "València"
+  },
+  "death": {
+    "date": "1842-03-22",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "2289_vicenta_garcia"
+    ],
+    "children": [
+      "2965_manuela_llorens_garcia",
+      "2966_maria_rosa_llorens_garcia",
+      "2967_bautista_llorens_garcia",
+      "2968_vicenta_llorens_garcia"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Vicenta Garcia"
+    ],
+    "children_names": [
+      "Manuela Llorens García",
+      "Maria Rosa Llorens García",
+      "Bautista Llorens García",
+      "Vicenta Llorens García"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a València [aprox. 1769].\n\nCasament: amb Vicenta García de Vinaròs [1775].\n\nFills: Manuela (Vandellòs) [1796], María Rosa (El Perelló) [1800], Bautista (El Perelló) [1800] i Vicenta (Cambrils) [1813].\n\nDefunció: el 22 de març de 1842 a la Ràpita. Va morir als 73 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

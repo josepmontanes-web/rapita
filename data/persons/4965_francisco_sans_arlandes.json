@@ -1,0 +1,73 @@
+{
+  "id": "4965_francisco_sans_arlandes",
+  "source_id": "4965",
+  "row_ref": "4965. Francisco Sans Arlandes",
+  "name": "Francisco Sans Arlandes",
+  "gender": "male",
+  "birth": {
+    "date": "1835-07-14",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3131_juan_marti_sans"
+    ],
+    "father": "3131_juan_marti_sans",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Martí Sans",
+      "Maria Arlandes Cavallé"
+    ],
+    "father_name": "Juan Sans Castells",
+    "mother_name": "Maria Arlandes Cavallé",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Curto",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 14 de juliol de 1835 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

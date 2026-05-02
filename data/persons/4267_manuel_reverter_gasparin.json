@@ -1,0 +1,74 @@
+{
+  "id": "4267_manuel_reverter_gasparin",
+  "source_id": "4267",
+  "row_ref": "4267. Manuel Reverter Gasparín",
+  "name": "Manuel Reverter Gasparín",
+  "gender": "male",
+  "birth": {
+    "date": "1850-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4293_tomas_reverter_jovani",
+      "2443_maria_gasparin_moya"
+    ],
+    "father": "4293_tomas_reverter_jovani",
+    "mother": "2443_maria_gasparin_moya",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomás Reverter Jovani",
+      "Maria Gasparín Moya"
+    ],
+    "father_name": "Tomás Reverter Jovani",
+    "mother_name": "Maria Gasparín Moya",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1850].\n\nProfessió: pagès.\n\nCasament: amb Rosa Gilabert Ferré d'Ulldecona [1850]. Viuen al carrer Migdia.\n\nFills: Gabriel, Teresa, Maria i Rosa [1875].\n\nNo signa la declaració de naixement de la filla per no saber.\n\nDefunció: el 27 de juny de 1880 a la Ràpita als 30 anys de \"una asistolia\". La muller té 30 anys. Declara la mor la seua cunyada Tomasa Clua de 34 anys, casada.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

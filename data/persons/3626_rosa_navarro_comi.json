@@ -1,0 +1,89 @@
+{
+  "id": "3626_rosa_navarro_comi",
+  "source_id": "3626",
+  "row_ref": "3626. Rosa Navarro Comí",
+  "name": "Rosa Navarro Comí",
+  "gender": "female",
+  "birth": {
+    "date": "1809-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3641_juan_navarro_hernandez"
+    ],
+    "father": "3641_juan_navarro_hernandez",
+    "mother": null,
+    "spouse": [
+      "2775_antonio_guzman_obiol",
+      "1172_pedro_castella_alegret"
+    ],
+    "children": [
+      "2770_rosa_guzman_navarro",
+      "2771_juan_bautista_guzman_navarro",
+      "2772_jose_guzman_navarro",
+      "2773_francisco_guzman_navarro"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Navarro Hernández",
+      "Rosa Comí"
+    ],
+    "father_name": "Juan Navarro",
+    "mother_name": "Rosa Comí",
+    "spouse_names": [
+      "Antonio Guzmán Obiol",
+      "Pedro Castellà Alegret"
+    ],
+    "children_names": [
+      "Rosa Guzmán Navarro",
+      "Juan Bautista Guzmán Navarro",
+      "José Guzmán Navarro",
+      "Francisco Guzmán Navarro"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1809]. \n\nCasament: el 13 de juny de 1835 amb Antonio Guzmán Obiol de Peníscola [1803]. Es casa als 26 anys.\n\nFills: Rosa [1836], Juan Bautista [1840] i José [1842].\n\nCasament: el 4 de desembre de 1854 amb Pedro Castellà Alegret de Tortosa [1806]. Es casa als 46 anys. Testimonis: Miguel Ferré i Agustín Sanz.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

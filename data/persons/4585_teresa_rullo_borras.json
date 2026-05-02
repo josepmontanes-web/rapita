@@ -1,0 +1,85 @@
+{
+  "id": "4585_teresa_rullo_borras",
+  "source_id": "4585",
+  "row_ref": "4585. Teresa Rullo Borràs",
+  "name": "Teresa Rullo Borràs",
+  "gender": "female",
+  "birth": {
+    "date": "1798-01-01",
+    "place": "Xerta"
+  },
+  "death": {
+    "date": "1842-04-22",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3038_juan_lopez_segarra"
+    ],
+    "children": [
+      "3029_juan_bautista_lopez_rullo",
+      "3030_maria_ana_lopez_rullo",
+      "3031_gregorio_lopez_rullo",
+      "3032_antonia_lopez_rullo"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Domingo Rullo",
+      "Josefa Borràs"
+    ],
+    "father_name": "Domingo Rullo",
+    "mother_name": "Josefa Borràs",
+    "spouse_names": [
+      "Juan López Segarra"
+    ],
+    "children_names": [
+      "Juan Bautista López Rullo",
+      "María Ana López Rullo",
+      "Gregorio López Rullo",
+      "Antonia López Rullo"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Xerta [aprox. 1798]. \n\nEl cognom també podria ser Rallo.\n\nCasament: el 29 de maig de 1827 amb Juan López Segarra de la Ràpita [1802].\n\nFills: Juan Bautista [1828], María Ana [1830], Gregorio [1833] i Antonia [1835].\n\nDefunció: el 22 d'abril de 1842 a la Ràpita. Va morir als 44 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

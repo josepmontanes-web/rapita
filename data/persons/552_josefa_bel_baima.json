@@ -1,0 +1,74 @@
+{
+  "id": "552_josefa_bel_baima",
+  "source_id": "552",
+  "row_ref": "552. Josefa Bel Baima",
+  "name": "Josefa Bel Baima",
+  "gender": "female",
+  "birth": {
+    "date": "1824-08-28",
+    "place": "SC"
+  },
+  "death": {
+    "date": "1825-11-04",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "558_manuel_bel_castell",
+      "316_francisca_baima_acensi"
+    ],
+    "father": "558_manuel_bel_castell",
+    "mother": "316_francisca_baima_acensi",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel Bel Castell",
+      "Francisca Baima Acensi"
+    ],
+    "father_name": "Manuel Bel Castell",
+    "mother_name": "Francisca Baima Acensi",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Revul",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 28 d'agost de 1824 a la Ràpita.\n\nPadrins: Juan Revul \"Capitán de la 4ª Compañía del batallón 12 de línea, natural de Cornudella\" i María Rosa Saludes natural de Alforja.\n\nDefunció: el 4 de novembre de 1825 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

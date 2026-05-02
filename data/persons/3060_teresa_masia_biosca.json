@@ -1,0 +1,74 @@
+{
+  "id": "3060_teresa_masia_biosca",
+  "source_id": "3060",
+  "row_ref": "3060. Teresa Masià Biosca",
+  "name": "Teresa Masià Biosca",
+  "gender": "female",
+  "birth": {
+    "date": "1841-12-26",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1281_tomas_castella_masia",
+      "721_maria_biosca_lopez"
+    ],
+    "father": "1281_tomas_castella_masia",
+    "mother": "721_maria_biosca_lopez",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomás Castellà Masià",
+      "María Biosca López"
+    ],
+    "father_name": "Tomás Masià Sanches",
+    "mother_name": "María Biosca López",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Tomás Esteller",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 26 de desembre de 1841 a la Ràpita. A la partida de bateig el nom es Tomasa.\n\nPadrins: Tomás Esteller i Teresa Moya.\n\nCasament: el 2 de juliol de 1859 amb Agustín Reverter Sancho de la Ràpita [1839].\n\nFills: Teresa [1864], Trinitario [1875] i Josefa [1879].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

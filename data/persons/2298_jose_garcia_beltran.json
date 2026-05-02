@@ -1,0 +1,78 @@
+{
+  "id": "2298_jose_garcia_beltran",
+  "source_id": "2298",
+  "row_ref": "2298. José García Beltran",
+  "name": "José García Beltran",
+  "gender": "male",
+  "birth": {
+    "date": "1824-03-04",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2377_jose_garcia_valero",
+      "580_manuela_beltran_asnar"
+    ],
+    "father": "2377_jose_garcia_valero",
+    "mother": "580_manuela_beltran_asnar",
+    "spouse": [
+      "2851_agustina_izquierdo_chiscas"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José García Valero",
+      "Manuela Beltran Asnar"
+    ],
+    "father_name": "José García Valero",
+    "mother_name": "Manuela Beltran Asnar",
+    "spouse_names": [
+      "Agustina Izquierdo Chiscas"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Manuel Beltran",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 4 de març de 1824 a la Ràpita.\n\nPadrins: Manuel Beltran i Pelegrina Carbonell.\n\nProfessió: mariner.\n\nCasament: el 7 de gener de 1847 amb Agustina Izquierdo Chiscas de la Ràpita [1824].\n\nFills: Concepción [1848], José [1852], Dolores [1852] i Francisco [1861].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

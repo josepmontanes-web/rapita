@@ -1,0 +1,74 @@
+{
+  "id": "1405_manuel_chale_lopez",
+  "source_id": "1405",
+  "row_ref": "1405. Manuel Chalé López",
+  "name": "Manuel Chalé López",
+  "gender": "male",
+  "birth": {
+    "date": "1814-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1819-04-01",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1418_esteve_chaler_perayre",
+      "2997_manuela_lopez_garcia"
+    ],
+    "father": "1418_esteve_chaler_perayre",
+    "mother": "2997_manuela_lopez_garcia",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Esteve Chaler Perayre",
+      "Manuela López García"
+    ],
+    "father_name": "Esteve Chaler Perayre",
+    "mother_name": "Manuela López García",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1814].\n\nDefunció: l'1 d'abril de 1819 a la Ràpita. Va morir als 5 anys. Era fill adoptiu.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

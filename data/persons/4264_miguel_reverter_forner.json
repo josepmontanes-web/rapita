@@ -1,0 +1,98 @@
+{
+  "id": "4264_miguel_reverter_forner",
+  "source_id": "4264",
+  "row_ref": "4264. Miguel Reverter Forner",
+  "name": "Miguel Reverter Forner",
+  "gender": "male",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1841-11-07",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4177_agustin_reverter",
+      "2232_maria_forner_felip"
+    ],
+    "father": "4177_agustin_reverter",
+    "mother": "2232_maria_forner_felip",
+    "spouse": [],
+    "children": [
+      "4285_peregrin_reverte_jovani",
+      "4286_sebastian_reverte_jovani",
+      "4287_jose_antonio_reverte_jovani",
+      "4288_francisca_reverter_jovani",
+      "4289_victor_o_victorio_reverter_jovani",
+      "4290_josefa_reverte_jovani",
+      "4291_miguel_reverter_jovani",
+      "4292_rafaela_reverter_jovani",
+      "4293_tomas_reverter_jovani",
+      "4294_agustin_reverter_jovani"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustín Reverter",
+      "Maria Forner Felip"
+    ],
+    "father_name": "Agustín Reverter",
+    "mother_name": "Maria Forner Felip",
+    "spouse_names": [
+      "Maria Jovani Grau"
+    ],
+    "children_names": [
+      "Peregrín Reverté Jovani",
+      "Sebastian Reverté Jovani",
+      "José Antonio Reverté Jovani",
+      "Francisca Reverter Jovani",
+      "Victor [o Victorio] Reverter Jovani",
+      "Josefa Reverté Jovani",
+      "Miguel Reverter Jovani",
+      "Rafaela Reverter Jovani",
+      "Tomás Reverter Jovani",
+      "Agustín Reverter Jovani"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1790]. \n\nCasament: amb María Jovani Grau d'Alcanar [1790].\n\nFills: Agustín [1813], Tomás [1815], Francisca [1818], Rafaela [1821], José Antonio [1824], Sebastián [1826], Peregrín [1829], Josefa [1831], Victor [1833] i Miguel [1838].\n\nDe l'1 de gener de 1839 al 31 de juliol de 1839 ha de pagar un lloguer de 8 Rs mensuals per la casa 3 de la mançana 3. (AGP.PER.LEG.1073/23 [Juan Vecino]).\n\nDefunció: el 7 de novembre de 1841 a la Ràpita. Fa testament en poder de Joaquín Figueres.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

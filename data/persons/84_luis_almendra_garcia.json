@@ -1,0 +1,72 @@
+{
+  "id": "84_luis_almendra_garcia",
+  "source_id": "84",
+  "row_ref": "84. Luís Almendra García",
+  "name": "Luís Almendra García",
+  "gender": "male",
+  "birth": {
+    "date": "1850-01-01",
+    "place": "Navalmoral de Pusa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "85_victoriano_almendra_gomez"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Victoriano Almendra Gomez"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Navalmoral de Pusa [Los Navalmorales] (Toledo) [aprox. 1850].\n\nProfessió: carrabiner\n\nCasament: amb María Gomez Llop de Cretes (Terol) [1850]. Viuen al carrer Sant Isidre.\n\nFill: Victoriano [1876].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

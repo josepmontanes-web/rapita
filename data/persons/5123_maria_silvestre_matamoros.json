@@ -1,0 +1,68 @@
+{
+  "id": "5123_maria_silvestre_matamoros",
+  "source_id": "5123",
+  "row_ref": "5123. Maria Silvestre Matamoros",
+  "name": "Maria Silvestre Matamoros",
+  "gender": "female",
+  "birth": {
+    "date": "1880-06-18",
+    "place": "la Ràpita, al carrer de la Cinta, 2"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 18 de juny de 1880 a la Ràpita, al carrer de la Cinta, 2. El pare té 26 anys [o 36] i es pagès, la mare en té 26 [o 36]. Declara al registre civil la seua iaia Rafaela Reverté de 60 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

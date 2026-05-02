@@ -1,0 +1,72 @@
+{
+  "id": "2066_ramon_ferrer_puell",
+  "source_id": "2066",
+  "row_ref": "2066. Ramón Ferrer Puell",
+  "name": "Ramón Ferrer Puell",
+  "gender": "male",
+  "birth": {
+    "date": "1815-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2071_maria_juana_ferrer_rosales"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Maria Juana Ferrer Rosales"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [o a Santa Bàrbara] [aprox. 1815].\n\nCasament: amb Teresa Rosales Granell de Santa Bàrbara [1820].\n\nFills: Ramón [1837], Teresa [1840], Mariana [1840], María Juana [1842] i Tomasa [1852].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

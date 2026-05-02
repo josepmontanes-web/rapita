@@ -1,0 +1,74 @@
+{
+  "id": "3608_francisco_navarro_castella",
+  "source_id": "3608",
+  "row_ref": "3608. Francisco Navarro Castellá",
+  "name": "Francisco Navarro Castellá",
+  "gender": "male",
+  "birth": {
+    "date": "1831-04-09",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3600_jose_navarro_balaguer",
+      "1236_margarita_castella_colomines"
+    ],
+    "father": "3600_jose_navarro_balaguer",
+    "mother": "1236_margarita_castella_colomines",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Navarro Balaguer",
+      "Margarita Castellà Colomines"
+    ],
+    "father_name": "José Navarro Balaguer",
+    "mother_name": "Margarita Castellà Colomines",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Navarro",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 9 d'abril de 1831 a la Ràpita.\n\nPadrins: José Navarro i Rosa Navarro.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

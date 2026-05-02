@@ -1,0 +1,74 @@
+{
+  "id": "5063_jose_segarra_guardia",
+  "source_id": "5063",
+  "row_ref": "5063. José Segarra Guardia",
+  "name": "José Segarra Guardia",
+  "gender": "male",
+  "birth": {
+    "date": "1842-10-29",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5074_manuel_segarra_puchol",
+      "2713_josefa_guardia_bort"
+    ],
+    "father": "5074_manuel_segarra_puchol",
+    "mother": "2713_josefa_guardia_bort",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel Segarra Puchol",
+      "Josefa Guardia Bort"
+    ],
+    "father_name": "Manuel Segarra Puchol",
+    "mother_name": "Josefa Guardia Bort",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Guardia",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 29 d'octubre de 1842 a la Ràpita.\n\nPadrins: José Guardia i María Reverter.\n\nProfessió: mariner.\n\nCasament: amb María Reverté Pallarés d'Amposta [1850]. Viuen a la Plaça Major (Plaça Carles III).\n\nFills: Vicente [1875], Juan [1878] i Manuel [1881].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

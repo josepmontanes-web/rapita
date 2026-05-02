@@ -1,0 +1,95 @@
+{
+  "id": "1496_francisco_cid_ferrer",
+  "source_id": "1496",
+  "row_ref": "1496. Francisco Cid Ferrer",
+  "name": "Francisco Cid Ferrer",
+  "gender": "male",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "239_teresa_arlandez_cartes"
+    ],
+    "children": [
+      "1478_angel_cid_arlandez",
+      "1479_tomas_cid_herlandes",
+      "1480_rosa_cid_arlandez",
+      "1481_josefa_cid_arlandez",
+      "1482_felipa_cid_arlandez",
+      "1483_francisco_cid_arlandez",
+      "1484_florencia_cid_arlandez",
+      "1485_ramon_cid_arlandez",
+      "1486_maria_cid_arlandez"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Cid",
+      "Teresa Ferrer"
+    ],
+    "father_name": "Francisco Cid",
+    "mother_name": "Teresa Ferrer",
+    "spouse_names": [
+      "Teresa Arlández Cartes"
+    ],
+    "children_names": [
+      "Angel Cid Arlández",
+      "Tomás Cid Herlandes",
+      "Rosa Cid Arlández",
+      "Josefa Cid Arlández",
+      "Felipa Cid Arlández",
+      "Francisco Cid Arlández",
+      "Florencia Cid Arlández",
+      "Ramón Cid Arlández",
+      "Maria Cid Arlández"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1790].\n\nEs germà de María Cinta Cid Ferrer [1798]. També podria ser germà de Teresa.\n\nCasament: amb Teresa Arlández Cartes de Tortosa [1790].\n\nFills: Felipa (Tortosa) [1810], Tomás [1813], Francisco [1823], Angel [1825], Rosa [1827], María (Tortosa) [1828], Josefa [1830], Florencia [1832], Ramón [1835] i Isidro [1840].\n\nVenta: José Francisco Bernis en calidad de apoderado de Antonio Francisco Maria Vidal de Morella vende a José Escardó y Canalda, tratante, un pedazo de tierra en la Plaza del Mar. 50 palmos de ancho y 44 de hondo. Linda por un lado con casa de Francisco Cid y por otro con José Segura, por detrás con Plaza del Mar y por delante con carretera que dirige a la pesquera de la encañizada. Precio 16 duros de plata. 14 de enero de 1846.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

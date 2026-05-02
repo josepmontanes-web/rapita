@@ -1,0 +1,79 @@
+{
+  "id": "3582_teresa_murall_garcia",
+  "source_id": "3582",
+  "row_ref": "3582. Teresa Murall García",
+  "name": "Teresa Murall García",
+  "gender": "female",
+  "birth": {
+    "date": "1783-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1820-10-16",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "77_maria_francisca_alegret_murall",
+      "78_juan_francisco_alegret_murall"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Antonio Murall",
+      "María Francisca García"
+    ],
+    "father_name": "José Antonio Murall",
+    "mother_name": "María Francisca García",
+    "spouse_names": [
+      "Christobal Alegret"
+    ],
+    "children_names": [
+      "Maria Francisca Alegret Murall",
+      "Juan Francisco Alegret Murall"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1783]. \n\nCasament: amb Christobal Alegret Riba de Tortosa [1780].\n\nFills: Teresa (Tortosa) [aprox 1805], María de la Cinta (Tortosa) [aprox 1811], María Francisca [1814] i Juan Francisco [1818].\n\nDefunció: el 16 d'octubre de 1820 a la Ràpita. Va morir als 37 anys de \"calenturas y por estar embarazada de cinco meses se le hizo la operación cesárea después de un cuarto de hora de haber expirado y como se dudaba si había vitalidad en el feto por parecer a Don Agustín Fornesa si había meneado un párpado le bautizó\". No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

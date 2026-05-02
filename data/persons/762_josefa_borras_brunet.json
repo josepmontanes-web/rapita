@@ -1,0 +1,74 @@
+{
+  "id": "762_josefa_borras_brunet",
+  "source_id": "762",
+  "row_ref": "762. Josefa Borràs Brunet",
+  "name": "Josefa Borràs Brunet",
+  "gender": "female",
+  "birth": {
+    "date": "1809-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1815-08-01",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "756_bautista_borras",
+      "856_theresa_brunet_cases"
+    ],
+    "father": "756_bautista_borras",
+    "mother": "856_theresa_brunet_cases",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Borràs",
+      "Theresa Brunet Cases"
+    ],
+    "father_name": "Bautista Borràs",
+    "mother_name": "Theresa Brunet Cases",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1809].\n\nDefunció: l'1 d'agost de 1815 a la Ràpita. Va morir als 6 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

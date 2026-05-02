@@ -1,0 +1,72 @@
+{
+  "id": "5599_miguel_vilarroya_balanza",
+  "source_id": "5599",
+  "row_ref": "5599. Miguel Vilarroya Balanzá",
+  "name": "Miguel Vilarroya Balanzá",
+  "gender": "male",
+  "birth": {
+    "date": "1881-12-03",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "5602_teresa_vilarroya_perolada"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Teresa Vilarroya Perolada"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 3 de desembre de 1881 a la Ràpita. El pare té 37 anys i es mariner, la mare en té 26.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

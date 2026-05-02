@@ -1,0 +1,81 @@
+{
+  "id": "3129_mariana_marti_pons",
+  "source_id": "3129",
+  "row_ref": "3129. Mariana Martí Pons",
+  "name": "Mariana Martí Pons",
+  "gender": "female",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Perelló"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "2822_sebastian_ibanez_martinez"
+    ],
+    "children": [
+      "2819_mariana_ibanez_marti",
+      "2820_miguel_ibanez_marti"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Martí",
+      "Rosa Pons"
+    ],
+    "father_name": "Francisco Martí",
+    "mother_name": "Rosa Pons",
+    "spouse_names": [
+      "Sebastián Ibáñez Martínez"
+    ],
+    "children_names": [
+      "Mariana Ibáñez Martí",
+      "Miguel Ibáñez Martí"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: al Perelló [o a la Cala de la Ametlla] (Tarragona) [aprox. 1800]. \n\nCasament: amb Sebastián Ibáñez Martínez del Cabanyal (València) [1800].\n\nFills: Ambrosio [1821], Plácido (El Perelló) [1824], Andrea (El Perelló) [1825], Mariana [1838], Miguel [1841] i Rosa [1845].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "1716_antonio_diago",
+  "source_id": "1716",
+  "row_ref": "1716. Antonio Diago",
+  "name": "Antonio Diago",
+  "gender": "male",
+  "birth": {
+    "date": "1741-01-01",
+    "place": "Maella"
+  },
+  "death": {
+    "date": "1811-05-05",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1717_joaquin_diago_campanals",
+      "1719_pascual_diago_campanals"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Bàrbara Campanals Gallura"
+    ],
+    "children_names": [
+      "Joaquín Diago Campanals",
+      "Pascual Diago Campanals"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Maella [aprox. 1741].\n\nCasament: amb Bàrbara Campanals Gallura de la Llosa, es de Maella [1747].\n\nFills: Joaquín (Maella) [1773], Pablo [1775] i Pascual (Maella) [1778].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Mansana Vella (carrer del Forn) núm. 22 (ACA BGRP Cajas 34). Al gener de 1799 paga un lloguer de 8 Rv per la mateixa casa.\n\nDefunció: el 5 de maig de 1811 a la Ràpita. Va morir als 70 anys.\n\nAl 1787 Juan Talarn es secretari amb Diago i fill per a fer un embargament (ACA BGPR correspondecia Caixa 9).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "5596_teresa_vila_junyent",
+  "source_id": "5596",
+  "row_ref": "5596. Teresa Vila Junyent",
+  "name": "Teresa Vila Junyent",
+  "gender": "female",
+  "birth": {
+    "date": "1844-01-01",
+    "place": "Igualada"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Igualada [aprox. 1844].\n\nCasament: amb Miguel Castellà Borràs de la Ràpita [1842].\n\nFills: Elena [1881] i altres.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "4659_dolores_salomo_homedes",
+  "source_id": "4659",
+  "row_ref": "4659. Dolores Salomó Homedes",
+  "name": "Dolores Salomó Homedes",
+  "gender": "female",
+  "birth": {
+    "date": "1811-01-01",
+    "place": "Vinaròs"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4656_antonio_salomo"
+    ],
+    "father": "4656_antonio_salomo",
+    "mother": null,
+    "spouse": [
+      "3859_miguel_pedra_roca"
+    ],
+    "children": [
+      "3857_manuel_pedra_salomo"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Salomó",
+      "Candida Omedes"
+    ],
+    "father_name": "Antonio Salomó",
+    "mother_name": "Candida Omedes",
+    "spouse_names": [
+      "Miguel Pedra Roca"
+    ],
+    "children_names": [
+      "Manuel Pedra Salomó"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1811]. \n\nCasament: el 24 de desembre de 1834 amb Miguel Pedra Roca de Peníscola [1805]. Es casa als 23 anys.\n\nFills: Miguel Andrés [1835], Sebastiana [1838] i Manuel [1841].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "1969_maria_juana_facsini_chillida",
+  "source_id": "1969",
+  "row_ref": "1969. Maria Juana Facsini Chillida",
+  "name": "Maria Juana Facsini Chillida",
+  "gender": "female",
+  "birth": {
+    "date": "1842-12-27",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1848-05-10",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1971_nicolas_fatsini_pons",
+      "1442_tomasa_chillida_querol"
+    ],
+    "father": "1971_nicolas_fatsini_pons",
+    "mother": "1442_tomasa_chillida_querol",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Nicolás Fatsini Pons",
+      "Tomasa Chillida Querol"
+    ],
+    "father_name": "Nicolás Facsini Pons",
+    "mother_name": "Tomasa Chillida Querol",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Pepiol",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 27 de desembre de 1842 a la Ràpita.\n\nPadrins: Juan Pepiol i María Josefa Anguera.\n\nDefunció: el 10 de maig de 1848 a la Ràpita. Va morir als 5 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

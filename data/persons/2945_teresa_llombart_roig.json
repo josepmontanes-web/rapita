@@ -1,0 +1,79 @@
+{
+  "id": "2945_teresa_llombart_roig",
+  "source_id": "2945",
+  "row_ref": "2945. Teresa Llombart Roig",
+  "name": "Teresa Llombart Roig",
+  "gender": "female",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "La Galera"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1524_francisca_teresa_clua_llombart",
+      "1526_jose_agustin_clua_llombart"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel Llombart",
+      "Francisca Roig"
+    ],
+    "father_name": "Manuel Llombart",
+    "mother_name": "Francisca Roig",
+    "spouse_names": [
+      "Josef Clua Cid"
+    ],
+    "children_names": [
+      "Francisca Teresa Clua Llombart",
+      "José Agustín Clua Llombart"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Galera [aprox. 1810].\n\nCasament: el 27 de gener de 1840 amb José Clua Cid de la Galera [1788].\n\nFills: Francisca Teresa [1840], Tomasa [1842] i José Agustín [1843].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

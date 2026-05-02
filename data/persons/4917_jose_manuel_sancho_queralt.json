@@ -1,0 +1,73 @@
+{
+  "id": "4917_jose_manuel_sancho_queralt",
+  "source_id": "4917",
+  "row_ref": "4917. José Manuel Sancho Queralt",
+  "name": "José Manuel Sancho Queralt",
+  "gender": "male",
+  "birth": {
+    "date": "1843-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1845-02-07",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4834_jose_sancho"
+    ],
+    "father": "4834_jose_sancho",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Sancho",
+      "Josefa Queralt"
+    ],
+    "father_name": "José Sancho",
+    "mother_name": "Josefa Queralt",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1843]. \n\nDefunció: el 7 de febrer de 1845 a la Ràpita. Va morir als 2 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

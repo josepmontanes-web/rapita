@@ -1,0 +1,78 @@
+{
+  "id": "4227_antonia_reverter_chillida",
+  "source_id": "4227",
+  "row_ref": "4227. Antonia Reverter Chillida",
+  "name": "Antonia Reverter Chillida",
+  "gender": "female",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4222_domingo_reverter_cases"
+    ],
+    "father": "4222_domingo_reverter_cases",
+    "mother": null,
+    "spouse": [
+      "2876_melchor_jovani_grau"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Domingo Reverter Cases",
+      "Rosa Chillida"
+    ],
+    "father_name": "Domingo Reverter",
+    "mother_name": "Rosa Chillida",
+    "spouse_names": [
+      "Josef Fibla",
+      "Melchor Jovani Grau"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1810]. \n\nCasament: amb José Fibla d'Alcanar [1810].\n\nFills: Josefa (Alcanar) [1825] i Mariana (Alcanar) [1833].\n\nCasament: el 27 d'abril de 1839 amb Melchor Jovani Grau d'Alcanar [1805].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

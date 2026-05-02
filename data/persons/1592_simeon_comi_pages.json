@@ -1,0 +1,73 @@
+{
+  "id": "1592_simeon_comi_pages",
+  "source_id": "1592",
+  "row_ref": "1592. Simeón Comí Pagès",
+  "name": "Simeón Comí Pagès",
+  "gender": "male",
+  "birth": {
+    "date": "1835-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1837-10-27",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1558_cristobal_comi"
+    ],
+    "father": "1558_cristobal_comi",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Cristobal Comí",
+      "Paula Pagès"
+    ],
+    "father_name": "Cristobal Comí",
+    "mother_name": "Paula Pagès",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1835].\n\nDefunció: el 27 d'octubre de 1837 a la Ràpita. Va morir pàrvul.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

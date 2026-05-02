@@ -1,0 +1,75 @@
+{
+  "id": "3858_francisco_pedra_roca",
+  "source_id": "3858",
+  "row_ref": "3858. Francisco Pedra Roca",
+  "name": "Francisco Pedra Roca",
+  "gender": "male",
+  "birth": {
+    "date": "1824-12-31",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3854_miguel_pedra_boix"
+    ],
+    "father": "3854_miguel_pedra_boix",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Pedra Boix",
+      "Bárbara Roca Aubiol"
+    ],
+    "father_name": "Miguel Pedra Boix",
+    "mother_name": "Bárbara Roca Aubiol",
+    "spouse_names": [
+      "Maria Arbó Tomas"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Curto",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 31 de desembre de 1824 a la Ràpita.\n\nPadrins: Francisco Curto i Rosa Cavallé.\n\nProfessió: mariner.\n\nCasament: el 20 d'agost de 1846 amb María Arbó Tomás de la Ràpita [1824].\n\nFills: Dolores [1850] i Francisco [1853].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

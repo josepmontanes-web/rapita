@@ -1,0 +1,73 @@
+{
+  "id": "5057_maria_segarra_guardia",
+  "source_id": "5057",
+  "row_ref": "5057. Maria Segarra Guardia",
+  "name": "Maria Segarra Guardia",
+  "gender": "female",
+  "birth": {
+    "date": "1840-03-24",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2712_lorenza_guardia_bort"
+    ],
+    "father": null,
+    "mother": "2712_lorenza_guardia_bort",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Segarra Carbó",
+      "Lorenza Guardia Bort"
+    ],
+    "father_name": "Antonio Segarra Carbó",
+    "mother_name": "Lorenza Guardia Bort",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Bautista Silvestre",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 24 de març de 1840 a la Ràpita.\n\nPadrins: Bautista Silvestre i María Balagué.\n\nCasament: amb Antonio Escrihuela Fibla de la Ràpita [1839].\n\nFills: Ramón [1876].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

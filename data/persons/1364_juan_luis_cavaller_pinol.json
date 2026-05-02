@@ -1,0 +1,73 @@
+{
+  "id": "1364_juan_luis_cavaller_pinol",
+  "source_id": "1364",
+  "row_ref": "1364. Juan Luís Cavaller Piñol",
+  "name": "Juan Luís Cavaller Piñol",
+  "gender": "male",
+  "birth": {
+    "date": "1810-08-25",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1367_jose_antonio_cavaller_roig"
+    ],
+    "father": "1367_jose_antonio_cavaller_roig",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Antonio Cavaller Roig",
+      "Manuela Piñol Curto"
+    ],
+    "father_name": "José Antonio Cavaller Roig",
+    "mother_name": "Manuela Piñol Curto",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Serres",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 25 d'agost de 1810 a la Ràpita.\n\nPadrins: Juan Serres i Francisca Pasqual.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

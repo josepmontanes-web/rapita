@@ -1,0 +1,75 @@
+{
+  "id": "4404_vicente_riba_vives",
+  "source_id": "4404",
+  "row_ref": "4404. Vicente Riba Vives",
+  "name": "Vicente Riba Vives",
+  "gender": "male",
+  "birth": {
+    "date": "1830-01-01",
+    "place": "Vinaroz"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4399_pascual_riba_diago"
+    ],
+    "father": "4399_pascual_riba_diago",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pascual Riba Diago",
+      "Raymunda Viver"
+    ],
+    "father_name": "Pascual Riba",
+    "mother_name": "Raymunda Viver",
+    "spouse_names": [
+      "Teresa Diago Reverté"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Sabater"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1830]. \n\nProfessió: sabater.\n\nCasament: el 25 de maig de 1850 amb Teresa Diago Reverté de la Ràpita [1825].\n\nFills: Juan [1852], Ramona [1860], Pascual [1861], Vicente [1862], Pepe [1863], i Cinta [1858].\n\nDefunció: el 18 de gener de 1878 a la Ràpita als 47 anys d'una afecció asmàtica. Declara la defunció la seua germana Pascuala Riba.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

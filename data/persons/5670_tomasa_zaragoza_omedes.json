@@ -1,0 +1,93 @@
+{
+  "id": "5670_tomasa_zaragoza_omedes",
+  "source_id": "5670",
+  "row_ref": "5670. Tomasa Zaragoza Omedes",
+  "name": "Tomasa Zaragoza Omedes",
+  "gender": "female",
+  "birth": {
+    "date": "1795-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5648_carlos_zaragoza"
+    ],
+    "father": "5648_carlos_zaragoza",
+    "mother": null,
+    "spouse": [
+      "3959_domingo_pinana_omedes"
+    ],
+    "children": [
+      "3962_narcisa_pinana_zaragoza",
+      "3964_carlos_pinana_zaragoza",
+      "3965_josefa_pinana_zaragoza",
+      "3966_juan_pinana_zaragoza",
+      "3967_domingo_pinana_zaragoza",
+      "3968_rafael_pinana_zaragoza",
+      "3969_agustina_pinana_zaragoza"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Carlos Zaragoza",
+      "Candia Omedes"
+    ],
+    "father_name": "Carlos Zaragoza",
+    "mother_name": "Candia Omedes",
+    "spouse_names": [
+      "Domingo Piñana Omedes"
+    ],
+    "children_names": [
+      "Narcisa Piñana Zaragoza",
+      "Carlos Piñana Zaragoza",
+      "Josefa Piñana Zaragoza",
+      "Juan Piñana Zaragoza",
+      "Domingo Piñana Zaragoza",
+      "Rafael Piñana Zaragoza",
+      "Agustina Piñana Zaragoza"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1795].\n\nCasament: amb Domingo Piñana Omedes de Tortosa [1790].\n\nFills: Narcisa [1813], Domingo [1822], Juan [1826], Carlos [1827], Josefa [1830], Rafael (Tortosa) [1830] i Agustina (Tortosa) [1832].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

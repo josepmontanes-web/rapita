@@ -1,0 +1,68 @@
+{
+  "id": "750_concepcion_boria_sancho",
+  "source_id": "750",
+  "row_ref": "750. Concepción Boria Sancho",
+  "name": "Concepción Boria Sancho",
+  "gender": "female",
+  "birth": {
+    "date": "1851-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1851].\n\nCasament: l'1 d'octubre de 1873 amb Francisco Castell Palau de Traiguera [1844]. Es casa als 22 anys.\n\nFills: Vicente [1875] (fill adoptiu) i Francisco [1879].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

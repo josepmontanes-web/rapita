@@ -1,0 +1,74 @@
+{
+  "id": "2300_juan_garcia_beltran",
+  "source_id": "2300",
+  "row_ref": "2300. Juan García Beltrán",
+  "name": "Juan García Beltrán",
+  "gender": "male",
+  "birth": {
+    "date": "1832-01-27",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2377_jose_garcia_valero",
+      "580_manuela_beltran_asnar"
+    ],
+    "father": "2377_jose_garcia_valero",
+    "mother": "580_manuela_beltran_asnar",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José García Valero",
+      "Manuela Beltran Asnar"
+    ],
+    "father_name": "José García Valero",
+    "mother_name": "Manuela Beltrán Asnar",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Jayme Berenguer",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 27 de gener de 1832 a la Ràpita.\n\nPadrins: Jayme Berenguer i Vicenta Llorens.\n\nProfessió: marino.\n\nCasament: amb Dolores Juan Ruso de Vinaròs [1840].\n\nFills: Josefa [1864], Juan [1874], Ramón [1876] i Magdalena Antonia [1879].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

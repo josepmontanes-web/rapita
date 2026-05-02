@@ -1,0 +1,78 @@
+{
+  "id": "3183_francisco_matamoros_castell",
+  "source_id": "3183",
+  "row_ref": "3183. Francisco Matamoros Castell",
+  "name": "Francisco Matamoros Castell",
+  "gender": "male",
+  "birth": {
+    "date": "1827-07-08",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3251_pascual_matamoros_reverter",
+      "1151_josefa_castell_roe"
+    ],
+    "father": "3251_pascual_matamoros_reverter",
+    "mother": "1151_josefa_castell_roe",
+    "spouse": [
+      "1426_rosa_cherta_ferre"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pascual Matamoros Reverter",
+      "Josefa Castell Roe"
+    ],
+    "father_name": "Pascual Matamoros Reverter",
+    "mother_name": "Josefa Castell Roe",
+    "spouse_names": [
+      "Rosa Cherta Ferré"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Carbó",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Jornaler"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 8 de juliol de 1827 a la Ràpita.\n\nPadrins: Francisco Carbó i Tomasa Cid.\n\nProfessió: jornaler.\n\nCasament: el 16 de setembre de 1854 amb Rosa Cherta Ferré de la Galera [1830]. Testimonis: Francisco Pepiol i José Matamoros.\n\nFills: Josefa [1858] i José [1871].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

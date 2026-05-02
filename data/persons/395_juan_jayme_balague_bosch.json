@@ -1,0 +1,74 @@
+{
+  "id": "395_juan_jayme_balague_bosch",
+  "source_id": "395",
+  "row_ref": "395. Juan Jayme Balagué Bosch",
+  "name": "Juan Jayme Balagué Bosch",
+  "gender": "male",
+  "birth": {
+    "date": "1826-10-14",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "451_jayme_balague_navarro",
+      "811_angela_bosch_bordera"
+    ],
+    "father": "451_jayme_balague_navarro",
+    "mother": "811_angela_bosch_bordera",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Jayme Balagué Navarro",
+      "Angela Bosch Bordera"
+    ],
+    "father_name": "Jayme Balagué Navarro",
+    "mother_name": "Angela Bosch Bordera",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Domingo Balagué",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 14 d'octubre de 1826 a la Ràpita.\n\nPadrins: Domingo Balagué i María de la Cinta Bernís.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

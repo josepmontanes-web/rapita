@@ -1,0 +1,74 @@
+{
+  "id": "1570_maria_comi_casajust",
+  "source_id": "1570",
+  "row_ref": "1570. Maria Comí Casajust",
+  "name": "Maria Comí Casajust",
+  "gender": "female",
+  "birth": {
+    "date": "1843-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1844-04-17",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1577_francisco_comi_castella",
+      "1104_maria_casajust_castella"
+    ],
+    "father": "1577_francisco_comi_castella",
+    "mother": "1104_maria_casajust_castella",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Comí Castellà",
+      "Maria Casajust Castellà"
+    ],
+    "father_name": "Francisco Comí Castellà",
+    "mother_name": "Maria Casajust Castellà",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1843].\n\nDefunció: el 17 d'abril de 1844 a la Ràpita. Va morir quan tenia un any.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

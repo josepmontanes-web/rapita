@@ -1,0 +1,73 @@
+{
+  "id": "3447_micaela_montanes_sanches",
+  "source_id": "3447",
+  "row_ref": "3447. Micaela Montañés Sanches",
+  "name": "Micaela Montañés Sanches",
+  "gender": "female",
+  "birth": {
+    "date": "1835-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1837-09-02",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3444_jose_montanes"
+    ],
+    "father": "3444_jose_montanes",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Montañés",
+      "Manuela Sanches"
+    ],
+    "father_name": "José Montañés",
+    "mother_name": "Manuela Sanches",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1835]. \n\nDefunció: el 2 de setembre de 1837 a la Ràpita. Va morir als 2 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

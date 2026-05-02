@@ -1,0 +1,91 @@
+{
+  "id": "363_maria_balada_queralt",
+  "source_id": "363",
+  "row_ref": "363. Maria Balada Queralt",
+  "name": "Maria Balada Queralt",
+  "gender": "female",
+  "birth": {
+    "date": "1795-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "335_pedro_balada_balada"
+    ],
+    "father": "335_pedro_balada_balada",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "332_teresa_balada_balada",
+      "333_mariano_balada_balada",
+      "334_francisco_balada_balada",
+      "335_pedro_balada_balada",
+      "336_juan_ciriaco_balada_balada",
+      "337_juan_bautista_balada_balada",
+      "338_juan_bautista_antonio_balada_balada"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Balada Balada",
+      "Antonia Queralt"
+    ],
+    "father_name": "Pedro Balada",
+    "mother_name": "Antonia Queralt",
+    "spouse_names": [
+      "Juan Balada Balada"
+    ],
+    "children_names": [
+      "Teresa Balada Balada",
+      "Mariano Balada Balada",
+      "Francisco Balada Balada",
+      "Pedro Balada Balada",
+      "Juan Ciriaco Balada Balada",
+      "Juan Bautista Balada Balada",
+      "Juan Bautista Antonio Balada Balada"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1795].\n\nCasament: el 23 de juliol de 1814 amb Juan Balada Balada d'Ulldecona [1796]. Es casa als 19 anys. \"Dispensa de consanguinidad en 2º y 3º y en 3º y 4º grado que obra en el archivo de esta\" [parròquia de la Ràpita].\n\nFills: Juan Ciriaco [1815], Juan Bautista [1817], Juan Bautista Antonio [1819], Teresa [1822], Francisco [1825], Mariano [1828] i Pedro [1831].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

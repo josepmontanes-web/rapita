@@ -1,0 +1,68 @@
+{
+  "id": "5104_manuel_servello_capistany",
+  "source_id": "5104",
+  "row_ref": "5104. Manuel Servelló Capistany",
+  "name": "Manuel Servelló Capistany",
+  "gender": "male",
+  "birth": {
+    "date": "1830-01-01",
+    "place": "Fayó"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Fayó [aprox. 1830].\n\nProfessió: pagès.\n\nCasament: amb Francisca Suñé de Fayó.\n\nFills: José i Maria.\n\nDefunció: el 25 de setembre de 1879 a la Ràpita als 50 anys de Tisis pulmonar. No va testar.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

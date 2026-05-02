@@ -1,0 +1,78 @@
+{
+  "id": "4066_pedro_puigcerver_llorens",
+  "source_id": "4066",
+  "row_ref": "4066. Pedro Puigcerver Llorens",
+  "name": "Pedro Puigcerver Llorens",
+  "gender": "male",
+  "birth": {
+    "date": "1828-11-19",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4070_mariano_puigcerver_martinez",
+      "2965_manuela_llorens_garcia"
+    ],
+    "father": "4070_mariano_puigcerver_martinez",
+    "mother": "2965_manuela_llorens_garcia",
+    "spouse": [
+      "1389_rosa_cera_cartes"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Mariano Puigcerver Martínez",
+      "Manuela Llorens García"
+    ],
+    "father_name": "Mariano Puigcerver Martínez",
+    "mother_name": "Manuela Llorens Garcia",
+    "spouse_names": [
+      "Rosa Cera Cartes"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Pedro Llorens",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 19 de novembre de 1828 a la Ràpita.\n\nPadrins: Pedro Llorens i Bárbara Gombau.\n\nCasament: el 3 de juny de 1852 amb Rosa Cera Cartes de la Ràpita [1828]. Testimonis: Miguel Llobet i Juan Borràs.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "2009_francisco_ferrer_brull",
+  "source_id": "2009",
+  "row_ref": "2009. Francisco Ferrer Brull",
+  "name": "Francisco Ferrer Brull",
+  "gender": "male",
+  "birth": {
+    "date": "1824-01-01",
+    "place": "Perelló"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2010_tomas_ferrer_brull"
+    ],
+    "father": "2010_tomas_ferrer_brull",
+    "mother": null,
+    "spouse": [
+      "4693_rosa_joana_samper_llorens",
+      "1029_paula_carceller_pages"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomás Ferrer Brull",
+      "Rosa Brull"
+    ],
+    "father_name": "Tomas Ferrer",
+    "mother_name": "Rosa Brull",
+    "spouse_names": [
+      "Rosa Joana Samper Llorens",
+      "Paula Carceller Pagès"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Matriculado/Marino"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: al Perelló [aprox. 1824].\n\nProfessió: Matriculado, marino.\n\nCasament: el 12 de març de 1850 amb Rosa Joana Samper Llorens de la Ràpita [1827]. Es casa als 26 anys. \"Contrayentes dispensados por S. Santidad del tercer grado de consanguinidad\".\n\nFills: Francisca [1851].\n\nCasament: el 12 d'abril de 1855 amb Paula Carceller Pagès de Tortosa [1821]. Es casa als 31 anys. Testimonis: Bautista Ferré i Felix Samper.\n\nFills: Vicenta [1856].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

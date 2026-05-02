@@ -1,0 +1,74 @@
+{
+  "id": "2322_andres_garcia_gasparin",
+  "source_id": "2322",
+  "row_ref": "2322. Andrés García Gasparín",
+  "name": "Andrés García Gasparín",
+  "gender": "male",
+  "birth": {
+    "date": "1838-04-24",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2370_andres_garcia_sales_o_soler",
+      "2423_manuela_gasparin_gombau"
+    ],
+    "father": "2370_andres_garcia_sales_o_soler",
+    "mother": "2423_manuela_gasparin_gombau",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Andrés García Sales [o Soler]",
+      "Manuela Gasparín Gombau"
+    ],
+    "father_name": "Andrés García Sales",
+    "mother_name": "Manuela Gasparín Gombau",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Pedro Navarro",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 24 d'abril de 1838 a la Ràpita.\n\nPadrins: Pedro Navarro i Francisca Gasparín.\n\nProfessió: mariner.\n\nCasament: el 24 de desembre de 1871 amb Manuela Sabaté Matamoros de la Ràpita [1848].\n\nFills: Juan [1877] i Modesta [1880].\n\nNo signa la declaració de naixement del fill al registre civil per no saber.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

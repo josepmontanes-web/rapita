@@ -1,0 +1,78 @@
+{
+  "id": "5394_josefa_torta_subirats",
+  "source_id": "5394",
+  "row_ref": "5394. Josefa Torta Subirats",
+  "name": "Josefa Torta Subirats",
+  "gender": "female",
+  "birth": {
+    "date": "1817-03-19",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5389_juan_torta_sole",
+      "5191_teresa_subirats_fabregat"
+    ],
+    "father": "5389_juan_torta_sole",
+    "mother": "5191_teresa_subirats_fabregat",
+    "spouse": [
+      "4307_mateo_reverter_obiol"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Torta Solé",
+      "Teresa Subirats Fabregat"
+    ],
+    "father_name": "Juan Torta Solé",
+    "mother_name": "Teresa Subirats Fabregat",
+    "spouse_names": [
+      "Mateo Reverter Obiol"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Ignacio Casajust",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 19 de març de 1817 a la Ràpita.\n\nPadrins: Ignacio Casajust i Raimunda Cortiella.\n\nCasament: el 21 d'octubre de 1837 amb Mateo Reverter Obiol de la Ràpita [1812].\n\nFills: José Francisco [1839], Juan Agustín [1842], José [1845], Bartolomé [1845], Teresa [1854] i Cinta [1859].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

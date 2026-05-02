@@ -1,0 +1,74 @@
+{
+  "id": "781_francisca_borras_figueres",
+  "source_id": "781",
+  "row_ref": "781. Francisca Borràs Figueres",
+  "name": "Francisca Borràs Figueres",
+  "gender": "female",
+  "birth": {
+    "date": "1842-02-14",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "763_francisco_borras_callau",
+      "2155_antonia_figueres_pallares"
+    ],
+    "father": "763_francisco_borras_callau",
+    "mother": "2155_antonia_figueres_pallares",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Borràs Callau",
+      "Antonia Figueres Pallarés"
+    ],
+    "father_name": "Francisco Borràs Callau",
+    "mother_name": "Antonia Figueres Pallarés",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Sanches",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 14 de febrer de 1842 a la Ràpita.\n\nPadrins: Juan Sanches i Lorenza Reverter.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

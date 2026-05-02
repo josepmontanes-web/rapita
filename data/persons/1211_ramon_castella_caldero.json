@@ -1,0 +1,95 @@
+{
+  "id": "1211_ramon_castella_caldero",
+  "source_id": "1211",
+  "row_ref": "1211. Ramon Castellà Calderó",
+  "name": "Ramon Castellà Calderó",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1164_bautista_castella"
+    ],
+    "father": "1164_bautista_castella",
+    "mother": null,
+    "spouse": [
+      "921_francisca_cachot_cartes"
+    ],
+    "children": [
+      "1194_ramon_castella_buera",
+      "1195_maria_rosa_castella_buera",
+      "1196_maria_dolores_castella_buera",
+      "1197_josefa_castella_cachot",
+      "1198_ignacio_castella_cachot",
+      "1199_estevan_castella_cachot",
+      "1200_maria_del_pilar_castella_cachot",
+      "1201_pascuala_castella_cachot"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Castellà",
+      "Josefa Calderó"
+    ],
+    "father_name": "Bautista Castellà",
+    "mother_name": "Josefa Calderó",
+    "spouse_names": [
+      "Francisca Cachot Cartes"
+    ],
+    "children_names": [
+      "Ramon Castellà Buera",
+      "Maria Rosa Castellà Buera",
+      "María Dolores Castellà Buera",
+      "Josefa Castellà Cachot",
+      "Ignacio Castellà Cachot",
+      "Estevan Castellà Cachot",
+      "Maria del Pilar Castellà Cachot",
+      "Pascuala Castellà Cachot"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1800].\n\nCasament: el 17 de gener de 1824 amb Francisca Cachot Cartes de Tortosa [1804].\n\nFills: Josefa [1824], Ignacio Ramón [1826], Esteban [1830], María del Pilar [1833] i Pascuala [1835].\n\nCasament: amb Doña María Buera Cartes de Tortosa [1810] filla de Don José i Doña Antonia també de Tortosa.\n\nFills: Ramón (Tortosa) [1836], María Rosa [1840] i María Dolores [1842].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

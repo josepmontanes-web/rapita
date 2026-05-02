@@ -1,12 +1,12 @@
 {
   "id": "22_vicenta_maria_adell_llagostera",
   "source_id": "22",
-  "row_ref": "22",
+  "row_ref": "22. Vicenta María Adell Llagostera",
   "name": "Vicenta María Adell Llagostera",
   "gender": "female",
   "birth": {
-    "date": "1819-02-10",
-    "place": null
+    "date": "1819-10-02",
+    "place": "la Ràpita"
   },
   "death": {
     "date": null,
@@ -22,20 +22,47 @@
   },
   "family": {
     "parents": [
-      "34_andres_adell_sancho"
+      "34_andres_adell_sancho",
+      "2921_beatriz_llagostera_bonamich"
     ],
-    "spouse": [],
-    "children": []
+    "father": "34_andres_adell_sancho",
+    "mother": "2921_beatriz_llagostera_bonamich",
+    "spouse": [
+      "4005_vicente_pons_lopez"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
   },
   "relations_detail": {
     "parents_names": [
       "Andrés Adell Sancho",
       "Beatriz Llagostera Bonamich"
     ],
+    "father_name": "Andrés Adell Sancho",
+    "mother_name": "Beatriz Llagostera Bonamich",
     "spouse_names": [
       "Vicente Pons López"
     ],
-    "children_names": []
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Josef Guitart",
+      "godmother": null
+    }
   },
   "occupation": {
     "title": null

@@ -1,0 +1,89 @@
+{
+  "id": "1927_francisca_fabregat_obiol",
+  "source_id": "1927",
+  "row_ref": "1927. Francisca Fabregat Obiol",
+  "name": "Francisca Fabregat Obiol",
+  "gender": "female",
+  "birth": {
+    "date": "1782-01-01",
+    "place": "Peñíscola"
+  },
+  "death": {
+    "date": "1836-08-02",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "4641_manuel_safont_pla"
+    ],
+    "children": [
+      "4624_juan_safon_fabregat",
+      "4625_maria_safon_fabregat",
+      "4626_jose_safont_fabregat",
+      "4627_manuel_safont_fabregat",
+      "4628_agustina_safont_fabregat",
+      "4629_gregorio_safont_fabregat"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Fabregat",
+      "Joaquina Obiol"
+    ],
+    "father_name": "José Fabregat",
+    "mother_name": "Joaquina Obiol",
+    "spouse_names": [
+      "Manuel Safont Pla"
+    ],
+    "children_names": [
+      "Juan Safon Fabregat",
+      "María Safon Fabregat",
+      "José Safont Fabregat",
+      "Manuel Safont Fabregat",
+      "Agustina Safont Fabregat",
+      "Gregorio Safont Fabregat"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Peníscola [aprox. 1782].\n\nCasament: el 4 de gener de 1801 amb Manuel Safont Pla d'Alcanar [1783].\n\nFills: Juan [1801], María [1804], Gregorio [1807], Manuel [1810], Agustina [1813] i José [1821].\n\nDefunció: el 2 d'agost de 1836 a la Ràpita. No fa testament.\n\nEs germana d'Antonia [1776], Teresa [1789] i Pascuala [1792].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

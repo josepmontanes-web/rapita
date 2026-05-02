@@ -1,0 +1,73 @@
+{
+  "id": "4205_josefa_reverter_balaguer",
+  "source_id": "4205",
+  "row_ref": "4205. Josefa Reverter Balaguer",
+  "name": "Josefa Reverter Balaguer",
+  "gender": "female",
+  "birth": {
+    "date": "1819-06-09",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1822-07-14",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "425_sevina_o_ceferina_balaguer_esteller"
+    ],
+    "father": null,
+    "mother": "425_sevina_o_ceferina_balaguer_esteller",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Reverter Sancho",
+      "Sevina [o Ceferina] Balaguer Esteller"
+    ],
+    "father_name": "Josef Reverter Sancho",
+    "mother_name": "Sevina Balaguer Esteller",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Christoval Alegret",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 9 de juny de 1819 a la Ràpita.\n\nPadrins: Christoval Alegret i Josefa Izquierdo.\n\nDefunció: el 14 de juliol de 1822 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

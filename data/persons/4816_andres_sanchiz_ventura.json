@@ -1,0 +1,74 @@
+{
+  "id": "4816_andres_sanchiz_ventura",
+  "source_id": "4816",
+  "row_ref": "4816. Andrés Sanchiz Ventura",
+  "name": "Andrés Sanchiz Ventura",
+  "gender": "male",
+  "birth": {
+    "date": "1831-11-30",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1831-12-07",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5132_peregrin_silvestre_sanchis",
+      "5455_francisca_ventura_exposita"
+    ],
+    "father": "5132_peregrin_silvestre_sanchis",
+    "mother": "5455_francisca_ventura_exposita",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Peregrín Silvestre Sanchís",
+      "Francisca Ventura Expósita"
+    ],
+    "father_name": "Peregrín Sanchís Yserte",
+    "mother_name": "Francisca Ventura Expósita",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Tomás Macián",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 30 de novembre de 1831 a la Ràpita.\n\nPadrins: Tomás Macián i Paula Sancho.\n\nDefunció: el 7 de desembre de 1831 a la Ràpita. Va morir de \"espasmo\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

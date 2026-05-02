@@ -1,0 +1,73 @@
+{
+  "id": "2239_lorenzo_fornesa_prado_de_ulloa",
+  "source_id": "2239",
+  "row_ref": "2239. Lorenzo Fornesa Prado de Ulloa",
+  "name": "Lorenzo Fornesa Prado de Ulloa",
+  "gender": "male",
+  "birth": {
+    "date": "1787-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1791-10-14",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4031_ventura_prado_de_ulloa_munoz"
+    ],
+    "father": null,
+    "mother": "4031_ventura_prado_de_ulloa_munoz",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "D. Agustín Fornesa Orri",
+      "Ventura Prado de Ulloa Muñoz"
+    ],
+    "father_name": "D. Agustín Fornesa Orri",
+    "mother_name": "Ventura Prado de Ulloa Muñoz",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1787].\n\nDefunció: el 14 d'octubre de 1791 a la Ràpita. Va morir pàrvul.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

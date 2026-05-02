@@ -1,0 +1,75 @@
+{
+  "id": "5216_juan_subirats_subirats",
+  "source_id": "5216",
+  "row_ref": "5216. Juan Subirats Subirats",
+  "name": "Juan Subirats Subirats",
+  "gender": "male",
+  "birth": {
+    "date": "1770-01-01",
+    "place": "Conca de Tremp (Lleida)"
+  },
+  "death": {
+    "date": "1804-09-27",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "5191_teresa_subirats_fabregat"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Subirats",
+      "Ventura Subirats"
+    ],
+    "father_name": "Antonio Subirats",
+    "mother_name": "Ventura Subirats",
+    "spouse_names": [],
+    "children_names": [
+      "Teresa Subirats Fabregat"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Conca de Tremp (Lleida) [aprox. 1770]. \n\n\"Sirviendo en la fonda de esta población\". A l'estat de veïns de setembre de 1798 diu que viu a la casa Fonda núm. 5 i 6 de la \"Calle Mayor\" (ACA BGRP Cajas 34).\n\nDefunció: el 27 de setembre de 1804 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

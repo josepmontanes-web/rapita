@@ -1,0 +1,75 @@
+{
+  "id": "3196_tomasa_matamoros_elies",
+  "source_id": "3196",
+  "row_ref": "3196. Tomasa Matamoros Elíes",
+  "name": "Tomasa Matamoros Elíes",
+  "gender": "female",
+  "birth": {
+    "date": "1785-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "2668_jose_gras_beltran"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Roque Matamoros",
+      "Mónica Elíes"
+    ],
+    "father_name": "Roque Matamoros",
+    "mother_name": "Mónica Elíes",
+    "spouse_names": [
+      "José Gras Beltran"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1785]. \n\nCasament: amb José Gras Beltran d'Alcanar [1785].\n\nFills: Baltasar José [1820].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

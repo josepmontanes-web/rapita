@@ -1,0 +1,68 @@
+{
+  "id": "2158_ricardo_florez_canedo",
+  "source_id": "2158",
+  "row_ref": "2158. Ricardo Flórez Cañedo",
+  "name": "Ricardo Flórez Cañedo",
+  "gender": "male",
+  "birth": {
+    "date": "1850-01-01",
+    "place": "Terverger-San Martín (Asturies)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Terverger-San Martín (Asturies) [aprox. 1850].\n\nProfessió: Jutge de Primera Instancia i Instrucció.\n\nCasament: amb Manuela Canicio i Ferran.\n\nFills: Josepa.\n\nDefunció: el 25 d'octubre de 1915 a la Ràpita als 65 anys. Vivia a la Plaça Carles III. Alcalde 1902.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

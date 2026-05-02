@@ -1,0 +1,73 @@
+{
+  "id": "4610_josefa_maria_safont_balague",
+  "source_id": "4610",
+  "row_ref": "4610. Josefa Maria Safont Balagué",
+  "name": "Josefa Maria Safont Balagué",
+  "gender": "female",
+  "birth": {
+    "date": "1825-11-15",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1825-11-16",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4624_juan_safon_fabregat"
+    ],
+    "father": "4624_juan_safon_fabregat",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Safon Fabregat",
+      "Maria Balagué Humedes"
+    ],
+    "father_name": "Juan Safont Fabregat",
+    "mother_name": "Maria Balagué Humedes",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Izquierdo",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 15 de novembre de 1825 a la Ràpita.\n\nPadrins: Francisco Izquierdo i Rosa Balagué.\n\nDefunció: el 16 de novembre de 1825 a la Ràpita.\n\nEs bessona de Francisco.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

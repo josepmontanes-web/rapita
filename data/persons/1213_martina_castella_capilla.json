@@ -1,0 +1,78 @@
+{
+  "id": "1213_martina_castella_capilla",
+  "source_id": "1213",
+  "row_ref": "1213. Martina Castellá Capilla",
+  "name": "Martina Castellá Capilla",
+  "gender": null,
+  "birth": {
+    "date": "1883-10-23",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1259_manuel_castella_ferre",
+      "974_francisca_capilla_fibla"
+    ],
+    "father": "1259_manuel_castella_ferre",
+    "mother": "974_francisca_capilla_fibla",
+    "spouse": [],
+    "children": [
+      "3616_enrique_navarro_castella"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel Castellà Ferré",
+      "Francisca Capilla Fibla"
+    ],
+    "father_name": "Manuel Castellá Ferré",
+    "mother_name": "Francisca Capilla Fibla",
+    "spouse_names": [],
+    "children_names": [
+      "Enrique Navarro Castellá"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 23 d'octubre de 1883 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

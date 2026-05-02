@@ -1,0 +1,76 @@
+{
+  "id": "2119_jose_fibla",
+  "source_id": "2119",
+  "row_ref": "2119. José Fibla",
+  "name": "José Fibla",
+  "gender": "male",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2139_josefa_fibla_reverte",
+      "2140_mariana_fibla_reverte"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Antonia Reverté Chillida"
+    ],
+    "children_names": [
+      "Josefa Fibla Reverté",
+      "Mariana Fibla Reverté"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1810].\n\nCasament: amb Antonia Reverté Chillida d'Alcanar [1810].\n\nFills: Josefa (Alcanar) [1825] i Mariana (Alcanar) [1833].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

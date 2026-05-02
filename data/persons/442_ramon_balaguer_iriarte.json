@@ -1,0 +1,74 @@
+{
+  "id": "442_ramon_balaguer_iriarte",
+  "source_id": "442",
+  "row_ref": "442. Ramón Balaguer Iriarte",
+  "name": "Ramón Balaguer Iriarte",
+  "gender": "male",
+  "birth": {
+    "date": "1814-02-09",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1814-02-20",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "429_pedro_balaguer_ferrer",
+      "2827_ventura_iriarte_gombau"
+    ],
+    "father": "429_pedro_balaguer_ferrer",
+    "mother": "2827_ventura_iriarte_gombau",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Balaguer Ferrer",
+      "Ventura Iriarte Gombau"
+    ],
+    "father_name": "Pedro Balaguer Ferrer",
+    "mother_name": "Ventura Iriarte Gombau",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Ramón Pedrer",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 9 de febrer de 1814 a la Ràpita.\n\nPadrins: Don Ramón Pedrer i Lorenza Fornesa.\n\nDefunció: el 20 de febrer de 1814 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

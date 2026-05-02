@@ -1,0 +1,68 @@
+{
+  "id": "4630_concepcion_safont_forne",
+  "source_id": "4630",
+  "row_ref": "4630. Concepción Safont Forné",
+  "name": "Concepción Safont Forné",
+  "gender": "female",
+  "birth": {
+    "date": "1859-01-01",
+    "place": "Vinaròs"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1859].\n\nCasament: el 9 de novembre de 1878 amb Sebastián Gil Molins de Vinaròs [1853]. Es casa als 19 anys.\n\nFills: Vicente [1879] i Teresa [1881].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "id": "2182_francisco_forcadell_badoch",
+  "source_id": "2182",
+  "row_ref": "2182. Francisco Forcadell Badoch",
+  "name": "Francisco Forcadell Badoch",
+  "gender": "male",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2181_francisco_forcadell_badia"
+    ],
+    "father": "2181_francisco_forcadell_badia",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2205_francisco_tomas_forcadell_queral",
+      "2206_silverio_forcadell_queral",
+      "2207_mariano_forcadell_queral",
+      "2208_miguel_forcadell_queral",
+      "2209_maria_rosa_forcadell_queralt"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Forcadell Badia",
+      "Josefa Badoch"
+    ],
+    "father_name": "Francisco Forcadell",
+    "mother_name": "Josefa Badoch",
+    "spouse_names": [],
+    "children_names": [
+      "Francisco Tomás Forcadell Queral",
+      "Silverio Forcadell Queral",
+      "Mariano Forcadell Queral",
+      "Miguel Forcadell Queral",
+      "Maria Rosa Forcadell Queralt"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1810].\n\nCasament: amb María Queralt Huguet d'Alcanar [1810].\n\nFills: Silverio [1832], Mariano [1835], Francisco Tomás [1837], Miguel [1839] i María Rosa [1841].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

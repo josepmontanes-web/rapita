@@ -1,0 +1,73 @@
+{
+  "id": "4881_francisca_sancho_fibla",
+  "source_id": "4881",
+  "row_ref": "4881. Francisca Sancho Fibla",
+  "name": "Francisca Sancho Fibla",
+  "gender": "female",
+  "birth": {
+    "date": "1839-03-27",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4877_blas_sancho_fibla"
+    ],
+    "father": "4877_blas_sancho_fibla",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Blas Sancho Fibla",
+      "Maria Fibla Ronsano"
+    ],
+    "father_name": "Blas Sancho Fibla",
+    "mother_name": "Maria Fibla Ronsano",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Sans",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 27 de març de 1839 a la Ràpita.\n\nPadrins: Juan Sans i Francisca Adell.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

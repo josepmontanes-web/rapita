@@ -1,0 +1,83 @@
+{
+  "id": "5654_antonia_zaragoza_carbo",
+  "source_id": "5654",
+  "row_ref": "5654. Antonia Zaragoza Carbó",
+  "name": "Antonia Zaragoza Carbó",
+  "gender": "female",
+  "birth": {
+    "date": "1778-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1838-11-12",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5646_bautista_zaragoza"
+    ],
+    "father": "5646_bautista_zaragoza",
+    "mother": null,
+    "spouse": [
+      "5046_juan_segarra_bel"
+    ],
+    "children": [
+      "5086_agustin_segarra_zaragoza",
+      "5088_antonio_segarra_zaragoza"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Zaragoza",
+      "Madalena Carbó"
+    ],
+    "father_name": "Bautista Zaragoza",
+    "mother_name": "Madalena Carbó",
+    "spouse_names": [
+      "Juan Segarra Bel"
+    ],
+    "children_names": [
+      "Agustín Segarra Zaragoza",
+      "Antonio Segarra Zaragoza"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1778].\n\nCasament: amb Juan Segarra Bel d'Ulldecona [1766].\n\nFills: Carlos [1806], Agustín [1811] i Antonio [1812].\n\nDefunció: el 12 de novembre de 1838 a la Ràpita. Va morir als 60 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

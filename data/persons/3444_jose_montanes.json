@@ -1,0 +1,75 @@
+{
+  "id": "3444_jose_montanes",
+  "source_id": "3444",
+  "row_ref": "3444. José Montañés",
+  "name": "José Montañés",
+  "gender": "male",
+  "birth": {
+    "date": "1799-01-01",
+    "place": "Ibisa"
+  },
+  "death": {
+    "date": "1830-11-06",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "3447_micaela_montanes_sanches"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Marcelino Montañés",
+      "Francisca"
+    ],
+    "father_name": "Marcelino Montañés",
+    "mother_name": "Francisca",
+    "spouse_names": [],
+    "children_names": [
+      "Micaela Montañés Sanches"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Mariner"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Eivissa [aprox. 1799]. \n\nProfessió: mariner.\n\nDefunció: el 6 de novembre de 1830 a la Ràpita. Va morir als 31 anys de \"tisis\". No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

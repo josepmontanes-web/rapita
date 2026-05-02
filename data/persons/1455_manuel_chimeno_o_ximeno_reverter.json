@@ -1,0 +1,73 @@
+{
+  "id": "1455_manuel_chimeno_o_ximeno_reverter",
+  "source_id": "1455",
+  "row_ref": "1455. Manuel Chimeno [o Ximeno] Reverter",
+  "name": "Manuel Chimeno [o Ximeno] Reverter",
+  "gender": "male",
+  "birth": {
+    "date": "1840-07-19",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1451_miguel_chimeno_o_ximeno_queral"
+    ],
+    "father": "1451_miguel_chimeno_o_ximeno_queral",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Chimeno [o Ximeno] Queral",
+      "Maria Reverter Balagué"
+    ],
+    "father_name": "Miguel Chimeno Queralt",
+    "mother_name": "Maria Reverter Balagué",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Homedes",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 19 de juliol de 1840 a la Ràpita.\n\nPadrins: Juan Homedes i Josefa García.\n\nCasament: amb Rafaela Sánchez.\n\nCasament: el 9 de setembre de 1875 amb Consuelo Balada Alberni d'Ulldecona [1849]. Es casa als 35 anys. Al casament el cognom es Gimeno.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

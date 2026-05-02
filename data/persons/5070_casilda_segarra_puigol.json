@@ -1,0 +1,77 @@
+{
+  "id": "5070_casilda_segarra_puigol",
+  "source_id": "5070",
+  "row_ref": "5070. Casilda Segarra Puigol",
+  "name": "Casilda Segarra Puigol",
+  "gender": "female",
+  "birth": {
+    "date": "1799-10-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5048_tomas_segarra_bel"
+    ],
+    "father": "5048_tomas_segarra_bel",
+    "mother": null,
+    "spouse": [
+      "4260_jose_reverter_forner"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomàs Segarra Bel",
+      "Antonia Puigol Muños"
+    ],
+    "father_name": "Tomàs Segarra Bel",
+    "mother_name": "Antonia Puigol Muños",
+    "spouse_names": [
+      "José Reverter Forner"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Ventura Gabriel Grau",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'1 d'octubre de 1799 a la Ràpita.\n\nPadrins: Ventura Gabriel Grau i Casilda Gauzé.\n\nCasament: el 24 de juliol de 1820 amb José Reverter Forner d'Alcanar [1794].\n\nFills: María [1821], Miguela [1821], Alexandro [1823], José Antonio [1826], Francisca [1828], María Manuela [1830], Pedro [1834] i María del Carmen [1836].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

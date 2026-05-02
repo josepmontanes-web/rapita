@@ -1,0 +1,77 @@
+{
+  "id": "5122_bautista_silvestre_lopez",
+  "source_id": "5122",
+  "row_ref": "5122. Bautista Silvestre López",
+  "name": "Bautista Silvestre López",
+  "gender": "male",
+  "birth": {
+    "date": "1840-06-10",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5081_bautista_segarra_sanchez"
+    ],
+    "father": "5081_bautista_segarra_sanchez",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "5121_rosa_silvestre_lopez"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Segarra Sánchez",
+      "Rosa López Nolla"
+    ],
+    "father_name": "Bautista Silvestre Sánchez",
+    "mother_name": "Rosa López Nolla",
+    "spouse_names": [],
+    "children_names": [
+      "Rosa Silvestre López"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Joaquín López",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 10 de juny de 1840 a la Ràpita.\n\nPadrins: Joaquín López i Rosa Safont.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

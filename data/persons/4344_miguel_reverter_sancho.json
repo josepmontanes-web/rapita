@@ -1,0 +1,82 @@
+{
+  "id": "4344_miguel_reverter_sancho",
+  "source_id": "4344",
+  "row_ref": "4344. Miguel Reverter Sancho",
+  "name": "Miguel Reverter Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1788-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1818-03-12",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4173_jose_reverter",
+      "4825_rosa_sancho"
+    ],
+    "father": "4173_jose_reverter",
+    "mother": "4825_rosa_sancho",
+    "spouse": [],
+    "children": [
+      "4378_miguel_agustin_reverter_torta",
+      "4379_teresa_reverter_torta",
+      "4950_baltasar_francisco_sancho_vives"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Reverter",
+      "Rosa Sancho"
+    ],
+    "father_name": "José Reverter",
+    "mother_name": "Rosa Sancho",
+    "spouse_names": [],
+    "children_names": [
+      "Miguel Agustín Reverter Torta",
+      "Teresa Reverter Torta",
+      "Baltasar Francisco Sancho Vives"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1788]. \n\nDefunció: el 12 de març de 1818 a la Ràpita. Va morir als 30 anys de \"hinchazón\". No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "4786_francisco_sanches_pasqual",
+  "source_id": "4786",
+  "row_ref": "4786. Francisco Sanches Pasqual",
+  "name": "Francisco Sanches Pasqual",
+  "gender": "male",
+  "birth": {
+    "date": "1815-07-19",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4741_francisco_sanchez_ferre",
+      "3830_juliana_pasqual_fuster"
+    ],
+    "father": "4741_francisco_sanchez_ferre",
+    "mother": "3830_juliana_pasqual_fuster",
+    "spouse": [
+      "4861_micaela_sancho_bort"
+    ],
+    "children": [
+      "4801_jose_matias_sanchez_sancho"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Sánchez Ferré",
+      "Juliana Pasqual Fuster"
+    ],
+    "father_name": "Francisco Sánchez Ferré",
+    "mother_name": "Juliana Pasqual Fuster",
+    "spouse_names": [
+      "Micaela Sancho Bort"
+    ],
+    "children_names": [
+      "José Matías Sánchez Sancho"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Vidal",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 19 de juliol de 1815 a la Ràpita.\n\nPadrins: Francisco Vidal i Raymunda Cortiella.\n\nCasament: 19 de març de 1836 amb Micaela Sancho Bort d'Alcanar [1818].\n\nFills: José Matías [1838], Juan Jayme [1841], Agustín [1848] i Francisca [1859].\n\nVenta: de Juan Bautista Sancho y Geira, labrador, a Francisco Sánchez y Pascual, labrador, de porción de tierra para edificar en el arrabal de San Isidro. Linda con tres calles y con restante terreno del vendedor. 24 de ancho por 70 de fondo. 18 de febrero de 1859. Esc. Juan Ventosa de Amposta. Valor 200.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

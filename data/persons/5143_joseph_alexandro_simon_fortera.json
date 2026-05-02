@@ -1,0 +1,75 @@
+{
+  "id": "5143_joseph_alexandro_simon_fortera",
+  "source_id": "5143",
+  "row_ref": "5143. Joseph Alexandro Simón Fortera",
+  "name": "Joseph Alexandro Simón Fortera",
+  "gender": "male",
+  "birth": {
+    "date": "1747-01-01",
+    "place": "Allepuz (Teruel)"
+  },
+  "death": {
+    "date": "1801-12-24",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2097_alexandro_ferre_simon"
+    ],
+    "father": "2097_alexandro_ferre_simon",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Alexandro Ferré Simón",
+      "Bárbara Fortera"
+    ],
+    "father_name": "Alexandro Simón",
+    "mother_name": "Bárbara Fortera",
+    "spouse_names": [
+      "Bárbara Ruiz"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Allepuz (Teruel) [aprox. 1747]. \n\nCasament: amb Bárbara Ruíz.\n\nDefunció: el 24 de desembre de 1801 a la Ràpita. Es veí d'Allepuz.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

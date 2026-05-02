@@ -1,0 +1,74 @@
+{
+  "id": "2718_clara_guardia_bort",
+  "source_id": "2718",
+  "row_ref": "2718. Clara Guardia Bort",
+  "name": "Clara Guardia Bort",
+  "gender": "female",
+  "birth": {
+    "date": "1811-09-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1813-07-22",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2744_bautista_guardia_sanchez",
+      "806_teresa_bort_lleti"
+    ],
+    "father": "2744_bautista_guardia_sanchez",
+    "mother": "806_teresa_bort_lleti",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Guardia Sánchez",
+      "Teresa Bort Lletí"
+    ],
+    "father_name": "Bautista Guardia Sánchez",
+    "mother_name": "Teresa Bort Lletí",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1811].\n\nDefunció: el 22 de juliol de 1813 a la Ràpita. Va morir als 22 mesos.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

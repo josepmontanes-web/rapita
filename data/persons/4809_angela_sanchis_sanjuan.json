@@ -1,0 +1,74 @@
+{
+  "id": "4809_angela_sanchis_sanjuan",
+  "source_id": "4809",
+  "row_ref": "4809. Angela Sanchís Sanjuan",
+  "name": "Angela Sanchís Sanjuan",
+  "gender": "female",
+  "birth": {
+    "date": "1804-08-02",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1806-09-03",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4824_blas_sanches_ximenes",
+      "4951_josefa_sanjuan_la_sala"
+    ],
+    "father": "4824_blas_sanches_ximenes",
+    "mother": "4951_josefa_sanjuan_la_sala",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Blas Sanches Ximenes",
+      "Josefa Sanjuan La Sala"
+    ],
+    "father_name": "Blas Sanchís Ximenes",
+    "mother_name": "Josefa Sanjuan la Sala",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Josef Macián",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 2 d'agost de 1804 a la Ràpita.\n\nPadrins: José Macián i Pasquala Sanchís.\n\nDefunció: el 3 de setembre de 1806 a la Ràpita. Va morir de \"calenturas\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

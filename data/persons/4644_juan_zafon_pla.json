@@ -1,0 +1,73 @@
+{
+  "id": "4644_juan_zafon_pla",
+  "source_id": "4644",
+  "row_ref": "4644. Juan Zafon Pla",
+  "name": "Juan Zafon Pla",
+  "gender": "male",
+  "birth": {
+    "date": "1791-06-21",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1792-05-29",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3975_antonia_pla"
+    ],
+    "father": null,
+    "mother": "3975_antonia_pla",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Zafon",
+      "Antonia Pla"
+    ],
+    "father_name": "Josef Zafon",
+    "mother_name": "Antonia Pla",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Reverter",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 21 de juny de 1791 a la Ràpita. A la partida de bateig el nom de la mare es Antonia.\n\nPadrins: Juan Reverter i María Balada.\n\nDefunció: el 29 de maig de 1792 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

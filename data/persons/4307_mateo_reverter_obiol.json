@@ -1,0 +1,81 @@
+{
+  "id": "4307_mateo_reverter_obiol",
+  "source_id": "4307",
+  "row_ref": "4307. Mateo Reverter Obiol",
+  "name": "Mateo Reverter Obiol",
+  "gender": "male",
+  "birth": {
+    "date": "1812-02-03",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3746_margarita_obiol_o_albiol_viscarro"
+    ],
+    "father": null,
+    "mother": "3746_margarita_obiol_o_albiol_viscarro",
+    "spouse": [],
+    "children": [
+      "4381_jose_francisco_reverter_torta",
+      "4382_juan_agustin_reverter_torta"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Reverter Sanches",
+      "Margarita Obiol [o Albiol] Viscarro"
+    ],
+    "father_name": "José Reverter Sanches",
+    "mother_name": "Margarita Obiol Viscarro",
+    "spouse_names": [
+      "Josefa Torta Subirats"
+    ],
+    "children_names": [
+      "José Francisco Reverter Torta",
+      "Juan Agustín Reverter Torta"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Matheo Map??",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 3 de febrer de 1812 a la Ràpita.\n\nPadrins: Mateo Ma__ i Teresa Rosales.\n\nCasament: el 21 d'octubre de 1837 amb Josefa Torta Subirats de la Ràpita [1817].\n\nFills: José Francisco [1839], Juan Agustín [1842], José [1845], Bartolomé [1845], Teresa [1854] i Cinta [1859].\n\nDe l'1 de gener de 1838 al 31 de juliol de 1839 ha de pagar un lloguer de 33,12 Rs mensuals per la casa 1 de la mançana 4 (casa de la farmacia del coc). (AGP.PER.LEG.1073/23 [Juan Vecino]).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

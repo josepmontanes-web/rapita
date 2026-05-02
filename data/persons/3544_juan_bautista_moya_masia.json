@@ -1,0 +1,81 @@
+{
+  "id": "3544_juan_bautista_moya_masia",
+  "source_id": "3544",
+  "row_ref": "3544. Juan Bautista Moya Masià",
+  "name": "Juan Bautista Moya Masià",
+  "gender": "male",
+  "birth": {
+    "date": "1827-02-11",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3557_francisco_moya_vilarroya"
+    ],
+    "father": "3557_francisco_moya_vilarroya",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "3537_maria_moya_lopez",
+      "3538_maria_manuela_moya_lopez",
+      "3539_manuel_moya_lopez"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Moya Vilarroya",
+      "Vicenta Macián Sanches"
+    ],
+    "father_name": "Francisco Moya Vilarroya",
+    "mother_name": "Vicenta Macián Sanches",
+    "spouse_names": [],
+    "children_names": [
+      "Maria Moya López",
+      "María Manuela Moya López",
+      "Manuel Moya López"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Teresa Vilarroya",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'11 de febrer de 1827 a la Ràpita.\n\nPadrins: Teresa Vilarroya i Juan Moya.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

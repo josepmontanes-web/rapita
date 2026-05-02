@@ -1,0 +1,72 @@
+{
+  "id": "4113_teresa_querol_matamoros",
+  "source_id": "4113",
+  "row_ref": "4113. Teresa Querol Matamoros",
+  "name": "Teresa Querol Matamoros",
+  "gender": "female",
+  "birth": {
+    "date": "1774-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1833-09-11",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1429_gabriel_chillida"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Gabriel Chillida"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1774]. \n\nCasament: amb Gabriel Chillida d'Alcanar [1775].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Senieta  (ACA BGRP Cajas 34).\n\nFills: María (Alcanar) [1798], Joaquín (Alcanar) [1800], Tomasa (Alcanar) [1805], Teresa (Alcanar) [1812] i Rosa (Alcanar) [1820].\n\nDefunció: l'11 de setembre de 1833 a la Ràpita. Va morir als 59 anys. No fa testament. \"Dotó su alma en 170 reales de vellón\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "1660_jaume_cruells_riera",
+  "source_id": "1660",
+  "row_ref": "1660. Jaume Cruells Riera",
+  "name": "Jaume Cruells Riera",
+  "gender": "male",
+  "birth": {
+    "date": "1750-01-01",
+    "place": "Llissà d'Amunt o S.Julian"
+  },
+  "death": {
+    "date": "1796-12-28",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1797_38_1800"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pablo Cruelles",
+      "Ignès Riera"
+    ],
+    "father_name": "Pablo Cruelles",
+    "mother_name": "Ignès Riera",
+    "spouse_names": [
+      "Coloma Remisa",
+      "Mariana Comadaran"
+    ],
+    "children_names": [
+      "38 1800"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Lliçà d'Amunt [aprox. 1750].\n\nCasament: el 12 de setembre de 1769 a San Julian, Llisa de Munt (Barcelona) amb Coloma Ramissa de Lliçà d'Amunt.\n\nFills: Francisco (Lliça d'Amunt) [1770], Francisco (2) (Lliçà d'Amunt) [1775], Antonia (Lliçà d'Amunt) [1776] i Juan (Lliçà d'Amunt) [1784].\n\nel 25 de setembre de 1783 Jayme Cruelles, con su familia, pasa de empleado de estas reales Obras. Passa a esta con su familia de colono a la hacienda de Geceli. (ACA BGRP caixa 5).\n\nCasament: el 31 de març de 1794 amb Mariana Comadaran Bernadas de Ripollet [1758].\n\nFills: Juan Modesto [1795].\n\nDefunció: el 28 de desembre de 1796 a la Ràpita. Va fer testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

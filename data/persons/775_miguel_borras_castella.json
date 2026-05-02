@@ -1,0 +1,74 @@
+{
+  "id": "775_miguel_borras_castella",
+  "source_id": "775",
+  "row_ref": "775. Miguel Borràs Castellà",
+  "name": "Miguel Borràs Castellà",
+  "gender": "male",
+  "birth": {
+    "date": "1842-12-03",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1842-12-05",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "793_miguel_borras_vernis",
+      "1181_carlina_castella_balague"
+    ],
+    "father": "793_miguel_borras_vernis",
+    "mother": "1181_carlina_castella_balague",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Borràs Vernis",
+      "Carlina Castellà Balagué"
+    ],
+    "father_name": "Miguel Borràs Bernis",
+    "mother_name": "Carlina Castellà Balagué",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 3 de desembre de 1842 a la Ràpita.\n\n\"Don Ramón Crosat en extrema necesidad bautizó … no se le pudieron suplir las ceremonias del bautismo por haberse muerto luego inmediatamente\".\n\nDefunció: el 5 de desembre de 1842 a la Ràpita. Va morir als 2 dies.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

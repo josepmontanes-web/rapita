@@ -1,0 +1,95 @@
+{
+  "id": "4314_bautista_reverter_pla",
+  "source_id": "4314",
+  "row_ref": "4314. Bautista Reverter Pla",
+  "name": "Bautista Reverter Pla",
+  "gender": "male",
+  "birth": {
+    "date": "1785-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1840-04-11",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3977_maria_pla"
+    ],
+    "father": null,
+    "mother": "3977_maria_pla",
+    "spouse": [
+      "362_josefa_balada_queralt"
+    ],
+    "children": [
+      "3986_bautista_pla_castellvi",
+      "4192_juan_reverter_balada",
+      "4193_bautista_reverter_balada",
+      "4194_bartolome_reverter_balada",
+      "4195_manuela_reverter_balada",
+      "4196_francisco_reverter_balada",
+      "4197_maria_reverter_balada",
+      "4198_francisca_reverter_balada"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Reverter",
+      "María Pla"
+    ],
+    "father_name": "Bautista Reverter",
+    "mother_name": "Maria Pla",
+    "spouse_names": [
+      "Josefa Balada Queralt"
+    ],
+    "children_names": [
+      "Bautista Pla Castellví",
+      "Juan Reverter Balada",
+      "Bautista Reverter Balada",
+      "Bartolomé Reverter Balada",
+      "Manuela Reverter Balada",
+      "Francisco Reverter Balada",
+      "María Reverter Balada",
+      "Francisca Reverter Balada"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1785]. \n\nProfessió: pagès.\n\nCasament: amb Josefa Balada Queralt d'Alcanar [1785].\n\nFills: Juan [1807], Francisco [1810], María (Alcanar) [1813], Bautista [1815], Bartolomé [1815], Manuela [1820] i Francisca [1823].\n\nDefunció: l'11 d'abril de 1840 a la Ràpita. Va morir als 50 i … anys. Fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

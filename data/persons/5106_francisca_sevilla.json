@@ -1,0 +1,76 @@
+{
+  "id": "5106_francisca_sevilla",
+  "source_id": "5106",
+  "row_ref": "5106. Francisca Sevilla",
+  "name": "Francisca Sevilla",
+  "gender": "female",
+  "birth": {
+    "date": "1740-01-01",
+    "place": "València"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "5622_bautista_vines_sevilla",
+      "5623_antonio_vines_sevilla",
+      "5624_francisca_vines_sevilla"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Bautista Viñes Sevilla",
+      "Antonio Viñes Sevilla",
+      "Francisca Viñes Sevilla"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a València [aprox. 1740].\n\nCasament: amb Antonio Viñes Ferré de València [1736].\n\nFills: Francisca (València) [1770], Antonio (València) [1775], Bautista (València) [1775], Vicente [1780] i María [1780].\n\nA l'estat de veïns de setembre de 1798 diu que viu a la casa núm. 10 de la \"Calle Mayor\" (ACA BGRP Cajas 34).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

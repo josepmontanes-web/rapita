@@ -1,0 +1,73 @@
+{
+  "id": "1910_manuela_fabregat_fabra",
+  "source_id": "1910",
+  "row_ref": "1910. Manuela Fabregat Fabra",
+  "name": "Manuela Fabregat Fabra",
+  "gender": "female",
+  "birth": {
+    "date": "1842-09-05",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1923_juan_fabregat_mateu"
+    ],
+    "father": "1923_juan_fabregat_mateu",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Fabregat Mateu",
+      "Antonia Fabra Miralles"
+    ],
+    "father_name": "Juan Fabregat Mateu",
+    "mother_name": "Antonia Fabra Miralles",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Pedro Ferré",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 5 de setembre de 1842 a la Ràpita.\n\nPadrins: Pedro Ferré i Manuela Reverter.\n\nCasament: amb José Bernaltes Valmañá de Godall [1847]. Viuen al carrer Sant Agustí.\n\nFills: José [1876] i Josefa Rita [1880].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

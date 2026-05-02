@@ -1,0 +1,77 @@
+{
+  "id": "4693_rosa_joana_samper_llorens",
+  "source_id": "4693",
+  "row_ref": "4693. Rosa Joana Samper Llorens",
+  "name": "Rosa Joana Samper Llorens",
+  "gender": "female",
+  "birth": {
+    "date": "1827-03-31",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4699_vicente_samper_moncho"
+    ],
+    "father": "4699_vicente_samper_moncho",
+    "mother": null,
+    "spouse": [
+      "2009_francisco_ferrer_brull"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Samper Moncho",
+      "Rosa Llorens García"
+    ],
+    "father_name": "Vicente Samper Moncho",
+    "mother_name": "Rosa Llorens García",
+    "spouse_names": [
+      "Francisco Ferrer Brull"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Pedro Llorens",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 31 de març de 1827 a la Ràpita.\n\nPadrins: Pedro Llorens i Vicenta García.\n\nCasament: el 12 de març de 1850 amb Francisco Ferrer Brull del Perelló [1824]. \"Contrayentes dispensados por S. Santidad del 3er. grado de consanguinidad\"\n\nEl cognom també apareix com Sampere.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

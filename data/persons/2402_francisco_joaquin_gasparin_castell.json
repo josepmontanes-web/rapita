@@ -1,0 +1,73 @@
+{
+  "id": "2402_francisco_joaquin_gasparin_castell",
+  "source_id": "2402",
+  "row_ref": "2402. Francisco Joaquín Gasparín Castell",
+  "name": "Francisco Joaquín Gasparín Castell",
+  "gender": "male",
+  "birth": {
+    "date": "1838-11-07",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1845-08-22",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2427_francisco_gasparin_gombau"
+    ],
+    "father": "2427_francisco_gasparin_gombau",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Gasparín Gombau",
+      "Mª.de la Cinta Castell Boria"
+    ],
+    "father_name": "Francisco Gasparín Gombau",
+    "mother_name": "Mª.de la Cinta Castell Boria",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Joaquín Castell",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 7 de novembre de 1838 a la Ràpita.\n\nPadrins: Joaquín Castell i Bàrbara Gombau.\n\nDefunció: el 22 d'agost de 1845 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

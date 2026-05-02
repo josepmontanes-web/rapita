@@ -1,0 +1,92 @@
+{
+  "id": "2834_josefa_izquierdo_caldero",
+  "source_id": "2834",
+  "row_ref": "2834. Josefa Izquierdo Calderó",
+  "name": "Josefa Izquierdo Calderó",
+  "gender": "female",
+  "birth": {
+    "date": "1788-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1833-05-04",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2840_manuel_izquierdo_carceller",
+      "930_rosa_caldero_ferre"
+    ],
+    "father": "2840_manuel_izquierdo_carceller",
+    "mother": "930_rosa_caldero_ferre",
+    "spouse": [
+      "4259_francisco_reverter_forner"
+    ],
+    "children": [
+      "4279_manuel_reverte_izquierdo",
+      "4280_rosa_reverte_izquierdo",
+      "4281_ramon_reverte_izquierdo",
+      "4282_agustin_reverter_izquierdo",
+      "4283_alexandro_reverte_izquierdo",
+      "4284_genaro_reverter_izquierdo"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel Izquierdo Carceller",
+      "Rosa Calderó Ferré"
+    ],
+    "father_name": "Manuel Izquierdo Carceller",
+    "mother_name": "Rosa Calderó Ferré",
+    "spouse_names": [
+      "Francisco Reverter Forner"
+    ],
+    "children_names": [
+      "Manuel Reverté Izquierdo",
+      "Rosa Reverté Izquierdo",
+      "Ramón Reverté Izquierdo",
+      "Agustín Reverter Izquierdo",
+      "Alexandro Reverté Izquierdo",
+      "Genaro Reverter Izquierdo"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1788].\n\nCasament: el 12 de febrer de 1820 amb Francisco Reverter Forner d'Alcanar [1788].\n\nFills: Manuel [1821], Agustín [1823], Rosa [1826], Ramón [1828], Alexandro [1830] i Genaro [1832].\n\nDefunció: el 4 de maig de 1833 a la Ràpita. Va morir als 45 anys. No fa testament. \"Dotó su alma su marido en 120 reales de vellón\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

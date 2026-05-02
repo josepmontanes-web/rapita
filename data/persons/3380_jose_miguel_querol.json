@@ -1,0 +1,83 @@
+{
+  "id": "3380_jose_miguel_querol",
+  "source_id": "3380",
+  "row_ref": "3380. José Miguel Querol",
+  "name": "José Miguel Querol",
+  "gender": "male",
+  "birth": {
+    "date": "1776-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1846-10-28",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3236_jose_matamoros_miguel"
+    ],
+    "father": "3236_jose_matamoros_miguel",
+    "mother": null,
+    "spouse": [
+      "2121_agustina_fibla_beltran"
+    ],
+    "children": [
+      "3376_maria_de_los_dolores_miguel_fibla",
+      "3377_casilda_miguel_fibla"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Matamoros Miguel",
+      "Maria Querol"
+    ],
+    "father_name": "José Miguel",
+    "mother_name": "Maria Querol",
+    "spouse_names": [
+      "Agustina Fibla Beltran"
+    ],
+    "children_names": [
+      "María de los Dolores Miguel Fibla",
+      "Casilda Miguel Fibla"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1776]. \n\nCasament: amb Agustina Fibla Beltran d'Alcanar [1775]. Viuen al Codonyol.\n\nFills: Juan [1811], Casilda [1820] i María de los Dolores [1822].\n\nDefunció: el 28 d'octubre de 1846 a la Ràpita. Va morir als 70 anys de \"enfermedad crónica\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

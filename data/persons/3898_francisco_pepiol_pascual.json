@@ -1,0 +1,92 @@
+{
+  "id": "3898_francisco_pepiol_pascual",
+  "source_id": "3898",
+  "row_ref": "3898. Francisco Pepiol Pascual",
+  "name": "Francisco Pepiol Pascual",
+  "gender": "male",
+  "birth": {
+    "date": "1810-12-23",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3892_blas_pepiol_masdeu",
+      "3829_teresa_pasqual_fuster"
+    ],
+    "father": "3892_blas_pepiol_masdeu",
+    "mother": "3829_teresa_pasqual_fuster",
+    "spouse": [],
+    "children": [
+      "3880_francisco_pepiol_ferrer",
+      "3881_miguel_matias_pepiol_ferrer",
+      "3882_juana_pepiol_ferrer",
+      "3883_basilio_pepiol_ferrer",
+      "3884_eugenio_pepiol_ferrer",
+      "3885_juliana_pepiol_ferrer",
+      "4802_juan_jayme_sanchez_sancho"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Blas Pepiol Masdeu",
+      "Teresa Pasqual Fuster"
+    ],
+    "father_name": "Blas Pepiol Masdeu",
+    "mother_name": "Teresa Pasqual Fuster",
+    "spouse_names": [
+      "Ramona Ferré Subirats"
+    ],
+    "children_names": [
+      "Francisco Pepiol Ferrer",
+      "Miguel Matías Pepiol Ferrer",
+      "Juana Pepiol Ferrer",
+      "Basilio Pepiol Ferrer",
+      "Eugenio Pepiol Ferrer",
+      "Juliana Pepiol Ferrer",
+      "Juan Jayme Sánchez Sancho"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Moya",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 23 de desembre de 1810 a la Ràpita.\n\nPadrins: Francisco Moya i Florencia Capilla.\n\nCasament: el 12 de febrer de 1831 amb Ramona Ferré Subirats de la Ràpita [1811].\n\nFills: Juana [1832], Eugenio [1834], Miguel Matías [1836], Francisco [1838], Basilio [1840], Juliana [1843] i Andrés [1847].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

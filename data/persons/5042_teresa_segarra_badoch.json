@@ -1,0 +1,68 @@
+{
+  "id": "5042_teresa_segarra_badoch",
+  "source_id": "5042",
+  "row_ref": "5042. Teresa Segarra Badoch",
+  "name": "Teresa Segarra Badoch",
+  "gender": "female",
+  "birth": {
+    "date": "1850-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1850].\n\nCasament: amb Don Andrés Roig Abella d'Alcanar [1845]. Viuen a la Plaça Major, 18 (Plaça Carles III).\n\nFills: Hermenegildo Juan Bautista [1876].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

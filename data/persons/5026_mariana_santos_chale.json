@@ -1,0 +1,73 @@
+{
+  "id": "5026_mariana_santos_chale",
+  "source_id": "5026",
+  "row_ref": "5026. Mariana Santos Chalé",
+  "name": "Mariana Santos Chalé",
+  "gender": "female",
+  "birth": {
+    "date": "1834-04-17",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5028_sebastian_santos_forne"
+    ],
+    "father": "5028_sebastian_santos_forne",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Sebastián Santos Forné",
+      "Agustina Chalé Lluc"
+    ],
+    "father_name": "Sebastián Santus Forné",
+    "mother_name": "Agustina Chalé Lluc",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Manuel Piñol",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 17 d'abril de 1834 a la Ràpita.\n\nPadrins: Manuel Piñol i Dolores Tarragó.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

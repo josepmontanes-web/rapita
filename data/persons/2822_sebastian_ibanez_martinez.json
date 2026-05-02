@@ -1,0 +1,95 @@
+{
+  "id": "2822_sebastian_ibanez_martinez",
+  "source_id": "2822",
+  "row_ref": "2822. Sebastián Ibáñez Martínez",
+  "name": "Sebastián Ibáñez Martínez",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "El Cabañal de Valéncia"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2822_sebastian_ibanez_martinez"
+    ],
+    "father": "2822_sebastian_ibanez_martinez",
+    "mother": null,
+    "spouse": [
+      "3129_mariana_marti_pons"
+    ],
+    "children": [
+      "2816_andrea_ibanez_marti",
+      "2817_ambrosio_ibanez_marti",
+      "2818_placido_ibanez_marti",
+      "2819_mariana_ibanez_marti",
+      "2820_miguel_ibanez_marti",
+      "2822_sebastian_ibanez_martinez",
+      "2823_manuel_ibanez_martinez",
+      "3138_felipe_martinez_agullo"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Sebastián Ibáñez Martínez",
+      "María Martínez"
+    ],
+    "father_name": "Sebastián Ibáñez",
+    "mother_name": "María Martínez",
+    "spouse_names": [
+      "Mariana Martí Pons"
+    ],
+    "children_names": [
+      "Andrea Ibáñez Martí",
+      "Ambrosio Ibáñez Martí",
+      "Plácido Ibáñez Martí",
+      "Mariana Ibáñez Martí",
+      "Miguel Ibáñez Martí",
+      "Sebastián Ibáñez Martínez",
+      "Manuel Ibáñez Martínez",
+      "Felipe Martínez Agulló"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: al Cabanyal (València) [aprox. 1800].\n\nCasament: amb Mariana Martí Pons del Perelló [1800].\n\nFills: Ambrosio [1821], Plácido (El Perelló) [1824], Andrea (El Perelló) [1825], Mariana [1838], Miguel [1841] i Rosa [1845].\n\nEs germà de Manuel Ibáñez Martínez [1810].\n\nHipoteca: José García, patrón de la matricula de esta ciudad y vecino de San Carlos dijo: que en 20 de agosto de 1831 declaró que pertenecían a D. Antonio Freginals de Vinaroz en el día ¿? Dos medios barcos de pesquera de bou y además que debía al mismo Freginals 184 duros que le había prestado … hipoteca una casa que posee en la calle de San Francisco que linda de lado con Sebastián Ibañez y el Fra? De la Nolla de espaldas al puerto antiguo. 28 de agosto de 1846.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

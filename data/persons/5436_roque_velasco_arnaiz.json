@@ -1,0 +1,73 @@
+{
+  "id": "5436_roque_velasco_arnaiz",
+  "source_id": "5436",
+  "row_ref": "5436. Roque Velasco Arnaiz",
+  "name": "Roque Velasco Arnaiz",
+  "gender": "male",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Burgos"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "D.Julián Belasco",
+      "Dª.Mª Paula Arnaiz"
+    ],
+    "father_name": "D.Julián Belasco",
+    "mother_name": "Dª.Mª Paula Arnaiz",
+    "spouse_names": [
+      "Raymunda Consiella Querol"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Burgos [aprox. 1790].\n\nCasament: el 26 de febrer de 1821 amb Raymunda Contiella Querol d'Amposta [1790].\n\nFills: Manuel Antonio [1821] i Juan [1825].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

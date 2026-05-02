@@ -1,0 +1,71 @@
+{
+  "id": "673_camila_carmen_bercedo_mipell",
+  "source_id": "673",
+  "row_ref": "673. Camila Carmen Bercedo Mipell",
+  "name": "Camila Carmen Bercedo Mipell",
+  "gender": "female",
+  "birth": {
+    "date": "1829-08-25",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1830-09-11",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Don Julián Bercedo Fernández",
+      "Doña Clara Mipell Brunet"
+    ],
+    "father_name": "Don Julián Bercedo Fernández",
+    "mother_name": "Doña Clara Mipell Brunet",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Fernando Rodríguez",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 25 d'agost de 1829 a la Ràpita.\n\nPadrins: Fernando Rodríguez de Mallorca i Raymunda Sans de Tarragona.\n\nDefunció: l'11 de setembre de 1830 a la Ràpita. Va morir de \"espasmo\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

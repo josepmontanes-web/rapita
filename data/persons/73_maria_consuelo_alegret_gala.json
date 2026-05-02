@@ -1,0 +1,74 @@
+{
+  "id": "73_maria_consuelo_alegret_gala",
+  "source_id": "73",
+  "row_ref": "73. María Consuelo Alegret Gala",
+  "name": "María Consuelo Alegret Gala",
+  "gender": "female",
+  "birth": {
+    "date": "1827-03-29",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1828-08-22",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "79_christobal_alegret_riba",
+      "2274_tomasa_gala_pol"
+    ],
+    "father": "79_christobal_alegret_riba",
+    "mother": "2274_tomasa_gala_pol",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Christobal Alegret Riba",
+      "Tomasa Gala Pol"
+    ],
+    "father_name": "Cristobal Alegret Riba",
+    "mother_name": "Tomasa Gala Pol",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Antonio Bros",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  el 29 de març de 1827 a la Ràpita.\n\nEls padrins son Don Antonio Bros Febrer de la \"Real Aduana\" i la seva esposa Doña Mariana Escrivà Lluís.\n\nDefunció: el 22 d'agost de 1828 a la Ràpita. Causa de la mort: xarampió.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

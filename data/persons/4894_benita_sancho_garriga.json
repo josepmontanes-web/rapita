@@ -1,0 +1,77 @@
+{
+  "id": "4894_benita_sancho_garriga",
+  "source_id": "4894",
+  "row_ref": "4894. Benita Sancho Garriga",
+  "name": "Benita Sancho Garriga",
+  "gender": "female",
+  "birth": {
+    "date": "1833-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4832_bautista_sancho"
+    ],
+    "father": "4832_bautista_sancho",
+    "mother": null,
+    "spouse": [
+      "4344_miguel_reverter_sancho"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Sancho",
+      "Barbara Garriga"
+    ],
+    "father_name": "Bautista Sancho",
+    "mother_name": "Barbara Garriga",
+    "spouse_names": [
+      "Miguel Reverter Sancho"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1833]. \n\nCasament: el 8 de gener de 1853 amb Miguel Reverté Sancho de la Ràpita [1824]. Es casa als 20 anys. Testimonis: Ramón Julve i Ramón Castellà.\n\nFills: Miguel [1855], Teresa [1856] i Bernarda [1862].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

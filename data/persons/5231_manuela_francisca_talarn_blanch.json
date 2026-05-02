@@ -1,0 +1,74 @@
+{
+  "id": "5231_manuela_francisca_talarn_blanch",
+  "source_id": "5231",
+  "row_ref": "5231. Manuela Francisca Talarn Blanch",
+  "name": "Manuela Francisca Talarn Blanch",
+  "gender": "female",
+  "birth": {
+    "date": "1830-05-22",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1831-01-17",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5263_salvador_talarn_valldeperez",
+      "730_francisca_blanch_aguilar"
+    ],
+    "father": "5263_salvador_talarn_valldeperez",
+    "mother": "730_francisca_blanch_aguilar",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Salvador Talarn Valldeperez",
+      "Francisca Blanch Aguilar"
+    ],
+    "father_name": "Salvador Talarn Valldeperez",
+    "mother_name": "Francisca Blanch Aguilar",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Manuel Segarra",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 22 de maig de 1830 a la Ràpita.\n\nPadrins: Manuel Segarra i Francisca Talarn.\n\nDefunció: el 17 de gener de 1831 a la Ràpita. Va morir de \"espasmo\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

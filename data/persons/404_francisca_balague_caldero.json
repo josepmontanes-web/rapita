@@ -1,0 +1,68 @@
+{
+  "id": "404_francisca_balague_caldero",
+  "source_id": "404",
+  "row_ref": "404. Francisca Balagué Calderó",
+  "name": "Francisca Balagué Calderó",
+  "gender": "female",
+  "birth": {
+    "date": "1850-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1850].\n\nCasament: amb Juan Llanes Esperancí de Tortosa [1846]. Viuen al carrer Sant Francesc, 12.\n\nFills: Francisca Dolores [1876].\n\nEs germana de Teresa [1850].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

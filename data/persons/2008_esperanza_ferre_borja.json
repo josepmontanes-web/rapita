@@ -1,0 +1,75 @@
+{
+  "id": "2008_esperanza_ferre_borja",
+  "source_id": "2008",
+  "row_ref": "2008. Esperanza Ferré Borja",
+  "name": "Esperanza Ferré Borja",
+  "gender": "female",
+  "birth": {
+    "date": "1827-01-01",
+    "place": "Altea"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "4494_rafael_romeu_reverte"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Ferré",
+      "Angela Borja"
+    ],
+    "father_name": "José Ferré",
+    "mother_name": "Angela Borja",
+    "spouse_names": [
+      "Rafael Romeu Reverté"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Altea [aprox. 1827].\n\nCasament: el 14 de novembre de 1849 amb Rafael Romeu Reverté de la Ràpita [1827].\n\nFills: María de la Cinta [1853] i José [1858].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

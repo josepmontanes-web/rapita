@@ -1,0 +1,73 @@
+{
+  "id": "4492_maria_romeu_puig",
+  "source_id": "4492",
+  "row_ref": "4492. María Romeu Puig",
+  "name": "María Romeu Puig",
+  "gender": "female",
+  "birth": {
+    "date": "1820-07-02",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1831-07-25",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4485_jose_romeu_pla"
+    ],
+    "father": "4485_jose_romeu_pla",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Romeu Pla",
+      "Rosa Puig Granell"
+    ],
+    "father_name": "José Romeu Pla",
+    "mother_name": "Rosa Puig Granell",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Safon",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 2 de juliol de 1820 a la Ràpita.\n\nPadrins: Juan Safont i María Vidal.\n\nDefunció: el 25 de juliol de 1831 a la Ràpita. Va morir de \"espasmo\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

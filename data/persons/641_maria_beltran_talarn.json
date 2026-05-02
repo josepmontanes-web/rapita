@@ -1,0 +1,73 @@
+{
+  "id": "641_maria_beltran_talarn",
+  "source_id": "641",
+  "row_ref": "641. Maria Beltrán Talarn",
+  "name": "Maria Beltrán Talarn",
+  "gender": "female",
+  "birth": {
+    "date": "1842-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1846-08-23",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "642_bernardo_beltran_thomas"
+    ],
+    "father": "642_bernardo_beltran_thomas",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bernardo Beltran Thomas",
+      "Rafaela Talarn"
+    ],
+    "father_name": "Bernardo Beltrán",
+    "mother_name": "Rafaela Talarn",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1842].\n\nDefunció: el 23 d'agost de 1846 a la Ràpita. Va morir als 4 anys de \"tercianas\", 10 dies desprès del seu germà José.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

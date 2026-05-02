@@ -1,0 +1,85 @@
+{
+  "id": "5038_teresa_sastre_borrell",
+  "source_id": "5038",
+  "row_ref": "5038. Teresa Sastre Borrell",
+  "name": "Teresa Sastre Borrell",
+  "gender": "female",
+  "birth": {
+    "date": "1770-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1802-09-11",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5037_tomas_sastre"
+    ],
+    "father": "5037_tomas_sastre",
+    "mother": null,
+    "spouse": [
+      "5538_jacinto_vidal_palos"
+    ],
+    "children": [
+      "5563_francisco_vidal_sastre",
+      "5566_sebastiana_vidal_sastre",
+      "5568_jose_antonio_vidal_sastre"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomás Sastre",
+      "Francisca Borrell"
+    ],
+    "father_name": "Tomàs Sastre",
+    "mother_name": "Francisca Borrell",
+    "spouse_names": [
+      "Jacinto Vidal Palos"
+    ],
+    "children_names": [
+      "Francisco Vidal Sastre",
+      "Sebastiana Vidal Sastre",
+      "José Antonio Vidal Sastre"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1770]. \n\nCasament: amb Jacinto Vidal Palos de la Pobla de Benifassà [1765].\n\nFills: José Antonio (Amposta) [1789], Francisco [1792], María Francisca [1795], Francisco Antonio [1798] i Sebastiana [1800].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu al Codoñol  (ACA BGRP Cajas 34).\n\nDefunció: l'11 de setembre de 1802 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

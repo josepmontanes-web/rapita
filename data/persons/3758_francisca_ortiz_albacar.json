@@ -1,0 +1,86 @@
+{
+  "id": "3758_francisca_ortiz_albacar",
+  "source_id": "3758",
+  "row_ref": "3758. Francisca Ortiz Albacar",
+  "name": "Francisca Ortiz Albacar",
+  "gender": "female",
+  "birth": {
+    "date": "1765-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": "1815-12-23",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2643_vicente_gombau_ortiz"
+    ],
+    "father": "2643_vicente_gombau_ortiz",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2448_agustin_gasparin_ortiz",
+      "2449_jose_gasparin_ortiz",
+      "2642_barbara_gombau_ortiz",
+      "2643_vicente_gombau_ortiz"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Gombau Ortiz",
+      "Maria Antonia Albacar"
+    ],
+    "father_name": "Vicente Ortiz",
+    "mother_name": "Maria Antonia Albacar",
+    "spouse_names": [
+      "Bautista Gombau",
+      "Francisco Gaspari Bretaña"
+    ],
+    "children_names": [
+      "Agustín Gasparín Ortiz",
+      "José Gasparín Ortiz",
+      "Bàrbara Gombau Ortiz",
+      "Vicente Gombau Ortiz"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1765]. \n\nCasament: amb Bautista Gombau.\n\nFills: Vicente (Amposta) [1789] i Bárbara (Amposta) [1790].\n\nCasament: el 15 de juliol de 1803 amb Francisco Gaspari Bretaña d'Azzio (Italia) [1761].\n\nFills: Agustín [1804] i José [1807].\n\nDefunció: el 23 de desembre de 1815 a la Ràpita. Va morir als 50 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

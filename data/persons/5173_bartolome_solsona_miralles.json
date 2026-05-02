@@ -1,0 +1,87 @@
+{
+  "id": "5173_bartolome_solsona_miralles",
+  "source_id": "5173",
+  "row_ref": "5173. Bartolomé Solsona Miralles",
+  "name": "Bartolomé Solsona Miralles",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Vinaròs"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "4408_ignes_ribera_roig"
+    ],
+    "children": [
+      "5174_sebastiana_solsona_ribera",
+      "5175_raymunda_solsona_ribera",
+      "5176_francisca_solsona_ribera",
+      "5177_liberata_lorenza_solsona_ribera",
+      "5178_vicenta_solsona_ribera"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Francisco Solsona",
+      "Salvadora Miralles"
+    ],
+    "father_name": "José Francisco Solsona",
+    "mother_name": "Salvadora Miralles",
+    "spouse_names": [
+      "Ignés Ribera Roig"
+    ],
+    "children_names": [
+      "Sebastiana Solsona Ribera",
+      "Raymunda Solsona Ribera",
+      "Francisca Solsona Ribera",
+      "Liberata Lorenza Solsona Ribera",
+      "Vicenta Solsona Ribera"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs (o a Benicarló) [aprox. 1800]. \n\nCasament: amb Ignés Ribera Roig de Vinaròs [1805].\n\nFills: Sebastiana [1829], Francisca [1831], Liberata Lorenza [1833], Vicenta [1836] i Raymunda [1839].\n\nDe l'1 de desembre de 1834 al 31 de juliol de 1839 ha de pagar 6 Rs mensuals per la guardilla de la casa 5 de la mançana 2. (AGP.PER.LEG.1073/23 [Juan Vecino]).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

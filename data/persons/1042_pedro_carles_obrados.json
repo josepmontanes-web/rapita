@@ -1,0 +1,75 @@
+{
+  "id": "1042_pedro_carles_obrados",
+  "source_id": "1042",
+  "row_ref": "1042. Pedro Carles Obrados",
+  "name": "Pedro Carles Obrados",
+  "gender": "male",
+  "birth": {
+    "date": "1832-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1012_teresa_carbo_salomo"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Carles",
+      "Rosa Obrados"
+    ],
+    "father_name": "Joaquín Carles",
+    "mother_name": "Rosa Obrados",
+    "spouse_names": [
+      "Teresa Carbó Salomó"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1832].\n\nProfessió: pagès.\n\nCasament: el 21 de març de 1853 amb Teresa Carbó Salomó de la Ràpita [1827]. Es casa als 21 anys. Testimonis: Braulio Talarn i Lorenzo Fabregat.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

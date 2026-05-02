@@ -1,0 +1,68 @@
+{
+  "id": "3134_manuela_marti_subirats",
+  "source_id": "3134",
+  "row_ref": "3134. Manuela Martí Subirats",
+  "name": "Manuela Martí Subirats",
+  "gender": "female",
+  "birth": {
+    "date": "1844-01-01",
+    "place": "Freginals"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Freginals [aprox. 1844].\n\nCasament: amb Juan Reverter.\n\nCasament: el 20 de març de 1873 amb Bautista Millán Queralt d'Alcanar [1849]. Es casa als 29 anys.\n\nFills: Bautista [1878] i Manuela [1879].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "1202_francisca_castella_caldero",
+  "source_id": "1202",
+  "row_ref": "1202. Francisca Castellà Calderó",
+  "name": "Francisca Castellà Calderó",
+  "gender": "female",
+  "birth": {
+    "date": "1785-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "929_maria_caldero_ferre"
+    ],
+    "father": null,
+    "mother": "929_maria_caldero_ferre",
+    "spouse": [],
+    "children": [
+      "240_juan_bautista_arlandez_o_arlandes_castella",
+      "241_jose_manuel_arlandez_o_harlandez_castella",
+      "242_maria_francisca_arlandez_o_herlandes_castella"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joseph Castellà Zaragoza",
+      "María Calderó Ferré"
+    ],
+    "father_name": "Joseph Castellà Zaragoza",
+    "mother_name": "Maria Calderó Ferré",
+    "spouse_names": [
+      "Josef Arlandes Homedes"
+    ],
+    "children_names": [
+      "Juan Bautista Arlández [o Arlandes] Castellà",
+      "José Manuel Arlández [o Harlandez] Castellà",
+      "María Francisca Arlández [o Herlandes] Castellà"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1785].\n\nCasament: amb José Arlández [o Arlandes] Homedes de Tortosa [1777].\n\nFills: María Francisca [1812], José Manuel [1815] i Juan Bautista [aprox 1822].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

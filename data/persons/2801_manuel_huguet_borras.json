@@ -1,0 +1,68 @@
+{
+  "id": "2801_manuel_huguet_borras",
+  "source_id": "2801",
+  "row_ref": "2801. Manuel Huguet Borràs",
+  "name": "Manuel Huguet Borràs",
+  "gender": "male",
+  "birth": {
+    "date": "1858-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1858].\n\nProfessió: pagès.\n\nCasament: el 24 de gener de 1885 amb Rosa Sabaté Vidal de la Ràpita [1859]. Es casa als 26 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

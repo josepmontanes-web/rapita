@@ -1,0 +1,77 @@
+{
+  "id": "2220_jose_forcadell_sancho",
+  "source_id": "2220",
+  "row_ref": "2220. José Forcadell Sancho",
+  "name": "José Forcadell Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1819-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4831_manuela_sancho"
+    ],
+    "father": null,
+    "mother": "4831_manuela_sancho",
+    "spouse": [
+      "530_madalena_barrera_sancho"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Damian Forcadell",
+      "Manuela Sancho"
+    ],
+    "father_name": "Damian Forcadell",
+    "mother_name": "Manuela Sancho",
+    "spouse_names": [
+      "Madalena Barrera Sancho"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1819].\n\nCasament: el 16 de gener de 1852 amb Madalena Barrera Sancho [1826]. Es casa als 33 anys i es veí d'Alcanar. Testimonis: José Garrit i Rafael Vericat.\n\nFills: Tomasa [1858] i Manuela [1861].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

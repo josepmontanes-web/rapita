@@ -1,0 +1,71 @@
+{
+  "id": "3098_felipa_march_dolz",
+  "source_id": "3098",
+  "row_ref": "3098. Felipa March Dolz",
+  "name": "Felipa March Dolz",
+  "gender": "female",
+  "birth": {
+    "date": "1835-06-26",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel March Pau",
+      "Maria Dolz Berdum"
+    ],
+    "father_name": "Manuel March Pau",
+    "mother_name": "Maria Dolz Berdum",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Mariano Puigcerver",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 26 de juny de 1835 a la Ràpita.\n\nPadrins: Mariano Puigcerver i Felipa Cid.\n\nEls pares son veïns de la parroquia de Nuestra Señora del Rosario del Canyamelar (València). El padrí també es de la parroquia del Rosario.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

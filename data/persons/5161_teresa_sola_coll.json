@@ -1,0 +1,99 @@
+{
+  "id": "5161_teresa_sola_coll",
+  "source_id": "5161",
+  "row_ref": "5161. Teresa Solà Coll",
+  "name": "Teresa Solà Coll",
+  "gender": "female",
+  "birth": {
+    "date": "1780-01-01",
+    "place": "Calella"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5153_miguel_sola"
+    ],
+    "father": "5153_miguel_sola",
+    "mother": null,
+    "spouse": [
+      "2602_pablo_goday_andreu"
+    ],
+    "children": [
+      "2608_matias_jose_goday_sola",
+      "2609_juan_jose_goday_sola",
+      "2610_maria_teresa_goday_sola",
+      "2611_pablo_francisco_goday_sola",
+      "2612_manuel_goday_sola",
+      "2613_agustin_goday_sola",
+      "2614_pablo_goday_sola",
+      "2615_antonia_goday_sola",
+      "2616_teresa_goday_sola",
+      "2617_miguel_goday_sola"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Solà",
+      "Teresa Coll"
+    ],
+    "father_name": "Miguel Solà",
+    "mother_name": "Teresa Coll",
+    "spouse_names": [
+      "Pablo Goday Andreu"
+    ],
+    "children_names": [
+      "Matias José Goday Solà",
+      "Juan José Goday Solà",
+      "Maria Teresa Goday Solà",
+      "Pablo Francisco Goday Solà",
+      "Manuel Goday Solà",
+      "Agustín Goday Solà",
+      "Pablo Goday Solà",
+      "Antonia Goday Solà",
+      "Teresa Goday Solà",
+      "Miguel Goday Solà"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Calella [aprox. 1780]. \n\nCasament: amb Pablo Goday Andreu de Canet de Mar [1780].\n\nFills: Miguel [1809], Agustín [1811], Teresa [1813], Antonia [1815], Pablo [1816], Manuel [1818], Pablo Francisco [1820], María Teresa [1823], Juan José [1825] i Matías José [1828].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

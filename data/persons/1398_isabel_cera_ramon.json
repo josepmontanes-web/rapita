@@ -1,0 +1,74 @@
+{
+  "id": "1398_isabel_cera_ramon",
+  "source_id": "1398",
+  "row_ref": "1398. Isabel Cera Ramon",
+  "name": "Isabel Cera Ramon",
+  "gender": "female",
+  "birth": {
+    "date": "1836-12-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1837-01-28",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1392_juan_bautista_cera_mangraner",
+      "4145_policarpa_ramon_guardino"
+    ],
+    "father": "1392_juan_bautista_cera_mangraner",
+    "mother": "4145_policarpa_ramon_guardino",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Bautista Cera Mangraner",
+      "Policarpa Ramon Guardino"
+    ],
+    "father_name": "Juan Bautista Cera Moreso",
+    "mother_name": "Policarpa Ramon Guardino",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Antonio Rosales",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'1 de desembre de 1836 a la Ràpita.\n\nPadrins: José Antonio Rosales i Policarpa Guardino.\n\nDefunció: el 28 de gener de 1837 a la Ràpita. A la partida de defunció, la iaia paterna constava com a Isabel Mangraner.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

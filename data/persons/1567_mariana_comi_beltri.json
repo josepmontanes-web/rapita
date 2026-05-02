@@ -1,0 +1,77 @@
+{
+  "id": "1567_mariana_comi_beltri",
+  "source_id": "1567",
+  "row_ref": "1567. Mariana Comí Beltri",
+  "name": "Mariana Comí Beltri",
+  "gender": "female",
+  "birth": {
+    "date": "1834-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1577_francisco_comi_castella"
+    ],
+    "father": "1577_francisco_comi_castella",
+    "mother": null,
+    "spouse": [
+      "1176_juan_castella_balague"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Comí Castellà",
+      "Mariana Beltri"
+    ],
+    "father_name": "Francisco Comí",
+    "mother_name": "Mariana Beltri",
+    "spouse_names": [
+      "Juan Castellà Balagué"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1834].\n\nCasament: el 6 de febrer de 1868 a la Catedral de Tortosa amb Juan Castellà Balagué de la Ràpita [1832]. Es casa als 34 anys.\n\nFills: Agustín [1870] i Carlota [1870].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

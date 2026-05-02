@@ -1,0 +1,78 @@
+{
+  "id": "333_mariano_balada_balada",
+  "source_id": "333",
+  "row_ref": "333. Mariano Balada Balada",
+  "name": "Mariano Balada Balada",
+  "gender": "male",
+  "birth": {
+    "date": "1828-03-21",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "322_juan_balada_balada",
+      "363_maria_balada_queralt"
+    ],
+    "father": "322_juan_balada_balada",
+    "mother": "363_maria_balada_queralt",
+    "spouse": [
+      "361_rosa_balada_planes"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Balada Balada",
+      "Maria Balada Queralt"
+    ],
+    "father_name": "Juan Balada Balada",
+    "mother_name": "Maria Balada Queralt",
+    "spouse_names": [
+      "Rosa Balada Planes"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Mariano Miralles",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 21 de març de 1828 a la Ràpita.\n\nPadrins: Mariano Miralles i Ramona Balada.\n\nCasament: el 21 de març de 1852 amb Rosa Balada Planes de la Ràpita [1824].\n\nFills: Juan [1857] i José [1860].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

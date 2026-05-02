@@ -1,0 +1,93 @@
+{
+  "id": "1064_agustina_cartes_fonollosa",
+  "source_id": "1064",
+  "row_ref": "1064. Agustina Cartes Fonollosa",
+  "name": "Agustina Cartes Fonollosa",
+  "gender": "female",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1082_agustin_cartes_rosell"
+    ],
+    "father": "1082_agustin_cartes_rosell",
+    "mother": null,
+    "spouse": [
+      "1393_jose_cera_marman"
+    ],
+    "children": [
+      "1383_francisco_cera_cartes",
+      "1384_eleuterio_cera_cartes",
+      "1385_agustina_cera_cartes",
+      "1386_jose_cera_cartes",
+      "1387_benito_cera_cartes",
+      "1388_joaquin_cera_cartes",
+      "1389_rosa_cera_cartes"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustín Cartes Rosell",
+      "Josefa Fonollosa"
+    ],
+    "father_name": "Agustín Cartes",
+    "mother_name": "Josefa Fonollosa",
+    "spouse_names": [
+      "José Cera Marmañ"
+    ],
+    "children_names": [
+      "Francisco Cera Cartes",
+      "Eleuterio Cera Cartes",
+      "Agustina Cera Cartes",
+      "José Cera Cartes",
+      "Benito Cera Cartes",
+      "Joaquín Cera Cartes",
+      "Rosa Cera Cartes"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1790].\n\nCasament: amb José Cera Marmañ de Tortosa [1790].\n\nFills: Francisco [1812], Benito (Tortosa) [1815], José (Tortosa) [1820], Agustina (Tortosa) [1820], Joaquín [1821], Eleuterio [1827] i Rosa Francisca [1828].\n\nEs germana de José  Cartes Fonollosa [1790] i de Juan Cartes Fonollosa [1795].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

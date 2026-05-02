@@ -1,0 +1,83 @@
+{
+  "id": "1441_joaquin_chillida_querol",
+  "source_id": "1441",
+  "row_ref": "1441. Joaquín Chillida Querol",
+  "name": "Joaquín Chillida Querol",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1834-10-06",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1429_gabriel_chillida"
+    ],
+    "father": "1429_gabriel_chillida",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1432_tomas_chillida_cruelles",
+      "1433_josefa_chillida_cruelles",
+      "1434_crispin_chillida_cruelles"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Gabriel Chillida",
+      "Teresa Querol"
+    ],
+    "father_name": "Gabriel Chillida",
+    "mother_name": "Teresa Querol",
+    "spouse_names": [
+      "Francisca Cruelles Reverté"
+    ],
+    "children_names": [
+      "Tomás Chillida Cruelles",
+      "Josefa Chillida Cruelles",
+      "Crispín Chillida Cruelles"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1800].\n\nCasament: el 28 de juny de 1827 amb Francisca Cruelles Reverté de la Ràpita [1806].\n\nFills: Tomás [1828], Josefa [1831] i Crispín [1833].\n\nDefunció: el 6 d'octubre de 1834 a la Ràpita. Va morir als 34 anys. No fa testament.\n\nDe l'1 de març de 1831 al 30 de setembre de 1834 ha de pagar un lloguer de 4 Rs mensuals pel pis de terra de la casa 3 del carrer del Forn. (AGP.PER.LEG.1073/23 [Juan Vecino]).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "3993_rosendo_gabriel_planas_roca",
+  "source_id": "3993",
+  "row_ref": "3993. Rosendo Gabriel Planas Roca",
+  "name": "Rosendo Gabriel Planas Roca",
+  "gender": "male",
+  "birth": {
+    "date": "1822-05-27",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Don Francisco Planas Pons",
+      "Doña Maria Concepción Roca  Antiga"
+    ],
+    "father_name": "Don Francisco Planas Pons",
+    "mother_name": "Doña Maria Concepción Roca  Antiga",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Agustín Fornesa",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 27 de maig de 1822 a la Ràpita.\n\nPadrins: Don Agustín Fornesa i Doña Narcisa Antiga.\n\nel pare es contable de la Aduana Nacional de Tortosa",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "3343_jose_casimiro_mies_andreu",
+  "source_id": "3343",
+  "row_ref": "3343. José Casimiro Míes Andreu",
+  "name": "José Casimiro Míes Andreu",
+  "gender": "male",
+  "birth": {
+    "date": "1835-02-27",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3358_casimiro_mies_guinjuan",
+      "96_francisca_andreu_fontanet"
+    ],
+    "father": "3358_casimiro_mies_guinjuan",
+    "mother": "96_francisca_andreu_fontanet",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Casimiro Míes Guinjuan",
+      "Francisca Andreu Fontanet"
+    ],
+    "father_name": "Casimiro Míes Guijuan",
+    "mother_name": "Francisca Andreu Fontanet",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Vernis",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 27 de febrer de 1835 a la Ràpita.\n\nPadrins: José Vernis i Teresa Ferreter.\n\nProfessió: paleta.\n\nCasament: amb Antonia Sánchez Aguilá de Castellote [1840].\n\nFills: Juan Antonio [1877].\n\nSap escriure, signa la declaració de naixement del fill al registre civil.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

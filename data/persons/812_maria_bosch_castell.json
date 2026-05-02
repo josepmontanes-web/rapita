@@ -1,0 +1,87 @@
+{
+  "id": "812_maria_bosch_castell",
+  "source_id": "812",
+  "row_ref": "812. María Bosch Castell",
+  "name": "María Bosch Castell",
+  "gender": "female",
+  "birth": {
+    "date": "1775-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": "1845-10-02",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "5262_geronimo_talarn_valldeperez"
+    ],
+    "children": [
+      "5239_maria_rosa_talarn_bosch",
+      "5240_antonio_talarn_bosch",
+      "5241_tomas_talarn_bosch",
+      "5242_juan_talarn_bosch",
+      "5243_jose_francisco_talarn_bosch"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Ignacio Bosch",
+      "Maria Castell"
+    ],
+    "father_name": "Ignacio Bosch",
+    "mother_name": "Maria Castell",
+    "spouse_names": [
+      "Gerónimo Talarn Valldepérez"
+    ],
+    "children_names": [
+      "Maria Rosa Talarn Bosch",
+      "Antonio Talarn Bosch",
+      "Tomás Talarn Bosch",
+      "Juan Talarn Bosch",
+      "José Francisco Talarn Bosch"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1775].\n\nCasament: amb Gerónimo Talarn Valldepérez de Tortosa [1770]. Al setembre de 1798 viuen a una casa al costat de l'esglesia vella (ACA BGRP Cajas 34).\n\nFills: Juan [1795], María Rosa [1798], Antonio [1801], José Francisco [1803] i Tomás [1807].\n\nDefunció: el 2 d'octubre de 1845 a la Ràpita. Diu que va morir als 81 anys (podria ser als 70).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "3443_maria_de_la_cinta_monroig_vizcarro",
+  "source_id": "3443",
+  "row_ref": "3443. Maria de la Cinta   Monroig Vizcarro",
+  "name": "Maria de la Cinta Monroig Vizcarro",
+  "gender": "female",
+  "birth": {
+    "date": "1859-01-01",
+    "place": "Ulldecona"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Ulldecona [aprox. 1859].\n\nDefunció: el 27 de febrer de 1880 a la Ràpita al domicili dels seus pares als 21 anys de \"una calentura tifoidea\". Declara la mor la seua cosina Maria Vizcarro d'Ulldecona de 25 anys, casada.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

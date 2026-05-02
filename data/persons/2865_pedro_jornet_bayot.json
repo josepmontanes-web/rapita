@@ -1,0 +1,73 @@
+{
+  "id": "2865_pedro_jornet_bayot",
+  "source_id": "2865",
+  "row_ref": "2865. Pedro Jornet Bayot",
+  "name": "Pedro Jornet Bayot",
+  "gender": "male",
+  "birth": {
+    "date": "1793-07-19",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "541_rosalia_bayot"
+    ],
+    "father": null,
+    "mother": "541_rosalia_bayot",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Gregorio Jornet",
+      "Rosalia Bayot"
+    ],
+    "father_name": "Gregorio Jornet",
+    "mother_name": "Rosalia Bayot",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Pedro Ferran Guinot",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 19 de juliol de 1793 a la Ràpita.\n\nPadrins: Pedro Ferran Guinot i Casilda Guasch.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

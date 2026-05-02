@@ -1,0 +1,73 @@
+{
+  "id": "2445_manuel_gasparin_moya",
+  "source_id": "2445",
+  "row_ref": "2445. Manuel Gasparín Moya",
+  "name": "Manuel Gasparín Moya",
+  "gender": "male",
+  "birth": {
+    "date": "1832-12-31",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2437_lorenzo_gasparin_matamoros"
+    ],
+    "father": "2437_lorenzo_gasparin_matamoros",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Lorenzo Gasparín Matamoros",
+      "Rosa Moya Villarroya"
+    ],
+    "father_name": "Lorenzo Gasparín Matamoros",
+    "mother_name": "Rosa Moya Villarroya",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Agustín Reverter",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 31 de desembre de 1832 a la Ràpita.\n\nPadrins: Agustín Reverter i María Sancho.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

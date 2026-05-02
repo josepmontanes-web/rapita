@@ -1,0 +1,92 @@
+{
+  "id": "609_manuela_beltran_ferrer",
+  "source_id": "609",
+  "row_ref": "609. Manuela Beltran Ferrer",
+  "name": "Manuela Beltran Ferrer",
+  "gender": "female",
+  "birth": {
+    "date": "1809-12-04",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "620_pedro_beltran_masdeu",
+      "2056_teodora_ferrer_marti"
+    ],
+    "father": "620_pedro_beltran_masdeu",
+    "mother": "2056_teodora_ferrer_marti",
+    "spouse": [
+      "1656_cipriano_cruelles_reverter"
+    ],
+    "children": [
+      "1638_benito_jose_cruelles_beltran",
+      "1639_buenaventura_cruelles_beltran",
+      "1640_ramon_cruelles_beltran",
+      "1641_francisco_cruelles_beltran",
+      "1642_juliana_cruelles_beltran",
+      "1643_maria_rosa_cruelles_beltran"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Beltran Masdeu",
+      "Teodora Ferrer Martí"
+    ],
+    "father_name": "Pedro Beltran Masdeu",
+    "mother_name": "Teodora Ferrer Martí",
+    "spouse_names": [
+      "Cipriano Cruelles Reverter"
+    ],
+    "children_names": [
+      "Benito José Cruelles Beltran",
+      "Buenaventura Cruelles Beltran",
+      "Ramón Cruelles Beltran",
+      "Francisco Cruelles Beltran",
+      "Juliana Cruelles Beltran",
+      "Maria Rosa Cruelles Beltran"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Manuel Massón",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 4 de desembre de 1809 a la Ràpita.\n\nPadrins: Manuel Massón, mariner de Sardenya i Bàrbara Gombau.\n\nCasament: el 5 de setembre de 1829 amb Cipriano Cruelles Reverter de la Ràpita [1809].\n\nFills: Francisco [1830], Juliana [1833], Benito [1835], Buenaventura [1837], Ramón [1840], María Rosa [1842], Juan [1845] i Teresa [1853].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

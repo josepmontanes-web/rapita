@@ -1,0 +1,77 @@
+{
+  "id": "5235_francisca_talarn_blanch",
+  "source_id": "5235",
+  "row_ref": "5235. Francisca Talarn Blanch",
+  "name": "Francisca Talarn Blanch",
+  "gender": "female",
+  "birth": {
+    "date": "1805-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5263_salvador_talarn_valldeperez"
+    ],
+    "father": "5263_salvador_talarn_valldeperez",
+    "mother": null,
+    "spouse": [
+      "1172_pedro_castella_alegret"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Salvador Talarn Valldeperez",
+      "Francisca Blanch"
+    ],
+    "father_name": "Salvador Talarn",
+    "mother_name": "Francisca Blanch",
+    "spouse_names": [
+      "Pedro Castellà Alegret"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1805]. \n\nCasament: el 16 d'abril de 1831 amb Pedro Castellà Alegret de Tortosa [1806].\n\nFills: Hilario [1832], Lázaro [1833], Mariano [1836], Pedro [1838], Tomás [1841], Bautista [1850] i Francisca [1850].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

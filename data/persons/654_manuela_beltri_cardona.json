@@ -1,0 +1,75 @@
+{
+  "id": "654_manuela_beltri_cardona",
+  "source_id": "654",
+  "row_ref": "654. Manuela Beltri Cardona",
+  "name": "Manuela Beltri Cardona",
+  "gender": "female",
+  "birth": {
+    "date": "1824-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "772_bartolome_borras_carbo"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Don Francisco Beltri",
+      "Doña Juana Cardona"
+    ],
+    "father_name": "Don Francisco Beltri",
+    "mother_name": "Doña Juana Cardona",
+    "spouse_names": [
+      "Bartolomé Borràs Carbó"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1824].\n\nCasament: el 31 de juliol de 1852 amb Bartolomé Borràs Carbó de la Ràpita [1825].  Es casa als 28 anys. Testimonis: José Alegret i Luís Esteller.\n\nFills: Cinta [1853], Ramón [1855] i Concepción [1862].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "3111_salvadora_marti",
+  "source_id": "3111",
+  "row_ref": "3111. Salvadora Martí",
+  "name": "Salvadora Martí",
+  "gender": "female",
+  "birth": {
+    "date": "1762-01-01",
+    "place": "Morella"
+  },
+  "death": {
+    "date": "1834-10-16",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "2103_francisco_ferrer_sorolla"
+    ],
+    "children": [
+      "2056_teodora_ferrer_marti",
+      "2057_fermin_ferrer_marti",
+      "2058_timoteo_ferrer_marti",
+      "2059_raymunda_ferrer_marti"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Francisco Ferrer Sorolla"
+    ],
+    "children_names": [
+      "Teodora Ferrer Martí",
+      "Fermín Ferrer Martí",
+      "Timoteo Ferrer Martí",
+      "Raymunda Ferrer Martí"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Morella [aprox. 1762]. \n\nCasament: amb Francisco Ferrer Sorolla de Portell de Morella [1739].\n\nFills: Raymunda (Portell de Morella) [1783], Teodora (Portell de Morella) [1789], Fermín (Portell de Morella) [1795] i Timoteo (Portell de Morella) [1800].\n\nDefunció: el 22 de setembre de 1834 a la Ràpita. Va morir als 72 anys. Fa testament davant de Benito Sabaté. \"Dotó su alma con 5 duros\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

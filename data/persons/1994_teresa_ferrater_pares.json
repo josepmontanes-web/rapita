@@ -1,0 +1,76 @@
+{
+  "id": "1994_teresa_ferrater_pares",
+  "source_id": "1994",
+  "row_ref": "1994. Teresa Ferrater Parés",
+  "name": "Teresa Ferrater Parés",
+  "gender": "female",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Reus"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "681_francisca_bernis_ferrater",
+      "682_teresa_bernis_ferrater",
+      "683_carlota_bernis_ferrater"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Francisca Bernis Ferrater",
+      "Teresa Bernis Ferrater",
+      "Carlota Bernis Ferrater"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Reus [aprox. 1800].\n\nCasament: amb José Francisco Bernís Murall de Tortosa [1800].\n\nFills: Francisca [1832], Teresa [1834], Carlota [1842], Filomena [1843] i Francisco [1846].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "id": "323_miguel_balada_balada",
+  "source_id": "323",
+  "row_ref": "323. Miguel Balada Balada",
+  "name": "Miguel Balada Balada",
+  "gender": "male",
+  "birth": {
+    "date": "1800-08-20",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1836-05-30",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "345_miguel_balada_lluch",
+      "350_joaquina_balada_miralles"
+    ],
+    "father": "345_miguel_balada_lluch",
+    "mother": "350_joaquina_balada_miralles",
+    "spouse": [
+      "4346_antonia_reverter_sancho"
+    ],
+    "children": [
+      "345_miguel_balada_lluch",
+      "364_maria_balada_reverter",
+      "365_raimunda_balada_reverte",
+      "366_maria_antonia_balada_reverte",
+      "367_jayme_balada_reverte",
+      "368_juan_balada_reverte",
+      "369_vicenta_rita_balada_reverter"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Balada Lluch",
+      "Joaquina Balada Miralles"
+    ],
+    "father_name": "Miguel Balada Lluch",
+    "mother_name": "Joaquina Balada Miralles",
+    "spouse_names": [
+      "Antonia Reverter Sancho"
+    ],
+    "children_names": [
+      "Miguel Balada Lluch",
+      "María Balada Reverter",
+      "Raimunda Balada Reverté",
+      "María Antonia Balada Reverté",
+      "Jayme Balada Reverté",
+      "Juan Balada Reverté",
+      "Vicenta Rita Balada Reverter"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Manuel Safon",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 20 d'agost de 1800 a la Ràpita.\n\nPadrins: Manuel Safon i María Pla d'Alcanar.\n\nCasament: el 3 de febrer de 1820 amb Antonia Reverter Sancho d'Alcanar [1800]\n\nFills: Juan [1821], María [1824], Raimunda [1826], María Antonia [1829], Jayme [1832] i Vicenta Rita [1836].\n\nDefunció: el 30 de maig de 1836 a la Ràpita. Fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

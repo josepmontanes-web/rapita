@@ -1,0 +1,101 @@
+{
+  "id": "3826_francisca_pasqual_fuster",
+  "source_id": "3826",
+  "row_ref": "3826. Francisca Pasqual Fuster",
+  "name": "Francisca Pasqual Fuster",
+  "gender": "female",
+  "birth": {
+    "date": "1778-01-01",
+    "place": "Vinaroz"
+  },
+  "death": {
+    "date": "1828-07-20",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3817_mariano_pascual_antequera",
+      "2270_antonia_fuster"
+    ],
+    "father": "3817_mariano_pascual_antequera",
+    "mother": "2270_antonia_fuster",
+    "spouse": [
+      "1467_luis_chiveli_fortaner"
+    ],
+    "children": [
+      "824_maria_francisca_breciano_pasqual",
+      "825_antonio_breciano_pasqual",
+      "826_pedro_jose_breciano_pasqual",
+      "827_jose_breciano_pasqual",
+      "828_manuel_brexiano_pasqual",
+      "829_lorenza_breciano_pasqual",
+      "830_apolonia_breciano_pasqual",
+      "831_teresa_breciano_pasqual",
+      "832_francisca_briciano_pasqual",
+      "1468_juan_luis_chiveli_pasqual"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Mariano Pascual Antequera",
+      "Antonia Fuster"
+    ],
+    "father_name": "Mariano Pascual Antequera",
+    "mother_name": "Antonia Fuster",
+    "spouse_names": [
+      "Luis Chiveli Fortaner",
+      "Pedro Breciano Boraster"
+    ],
+    "children_names": [
+      "María Francisca Breciano Pasqual",
+      "Antonio Breciano Pasqual",
+      "Pedro José Breciano Pasqual",
+      "José Breciano Pasqual",
+      "Manuel Brexiano Pasqual",
+      "Lorenza Breciano Pasqual",
+      "Apolonia Breciano Pasqual",
+      "Teresa Breciano Pasqual",
+      "Francisca Briciano Pasqual",
+      "Juan Luís Chiveli Pasqual"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1778]. \n\nCasament: el 13 d'abril de 1798 amb Luís Chiveli Fortaner del Portell de Morella [1775].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu al barri dels pescadors  (ACA BGRP Cajas 34).\n\nFills: Juan Luís [1798].\n\nCasament: el 14 de desembre de 1800 amb Pedro Bresciano Burastero de Verzi di Loano (Italia) [1762].\n\nFills: María Francisca [1801], Antonio [1803], Pedro José [1806], José [1807], Teresa [1808], Francisca [1811], Lorenza [1815], Apolonia [1817] i Manuel [1819].\n\nDefunció: el 20 de juliol de 1828 a la Ràpita. Va morir als 50 anys de \"una cardialgia\". Fa testament el 7 d'octubre de 1825 davant del presbiter Don José Alexandri.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

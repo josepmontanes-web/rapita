@@ -1,0 +1,82 @@
+{
+  "id": "2295_vicente_garcia_beltran",
+  "source_id": "2295",
+  "row_ref": "2295. Vicente García Beltran",
+  "name": "Vicente García Beltran",
+  "gender": "male",
+  "birth": {
+    "date": "1815-01-01",
+    "place": "València"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2377_jose_garcia_valero",
+      "580_manuela_beltran_asnar"
+    ],
+    "father": "2377_jose_garcia_valero",
+    "mother": "580_manuela_beltran_asnar",
+    "spouse": [
+      "5269_dolores_tarrago_urquisu"
+    ],
+    "children": [
+      "2374_maria_de_la_cinta_garcia_tarrago"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José García Valero",
+      "Manuela Beltran Asnar"
+    ],
+    "father_name": "José García Valero",
+    "mother_name": "Manuela Beltran Asnar",
+    "spouse_names": [
+      "Dolores Tarragó Urquisu"
+    ],
+    "children_names": [
+      "Maria de la Cinta García Tarragó"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: al Cabanyal (València) [aprox. 1815].\n\nProfessió: mariner.\n\nCasament: el 13 de febrer de 1836 amb Dolores Tarragó Urquisu de Vinaròs [1817]. Es casa als 21 anys.\n\nFills: Francisco [1840], Manuel [1855], María de la Cinta [1842], Vicente [1845] i Agustín [1845].\n\nDefunció: el 15 de març de 1880 a la Ràpita als 65 anys de \"una angina de pecho\". Declara la mor Mariana Ibáñez de 40 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

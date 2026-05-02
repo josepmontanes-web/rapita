@@ -1,0 +1,74 @@
+{
+  "id": "741_josefa_boix_jovani",
+  "source_id": "741",
+  "row_ref": "741. Josefa Boix Jovani",
+  "name": "Josefa Boix Jovani",
+  "gender": "female",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Morella"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Toribio Boix",
+      "María Cruz Jovani"
+    ],
+    "father_name": "Toribio Boix",
+    "mother_name": "María Cruz Jovani",
+    "spouse_names": [
+      "Antonio Pastor",
+      "Juan Safon Castellà"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Morella [aprox. 1820].\n\nCasament: amb Antonio Pastor.\n\nCasament: el 23 de juny de 1841 amb Juan Safon Castellà de la Ràpita [1823].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

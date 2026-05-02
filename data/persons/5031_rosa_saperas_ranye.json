@@ -1,0 +1,81 @@
+{
+  "id": "5031_rosa_saperas_ranye",
+  "source_id": "5031",
+  "row_ref": "5031. Rosa Saperas Ranyé",
+  "name": "Rosa Saperas Ranyé",
+  "gender": "female",
+  "birth": {
+    "date": "1769-01-01",
+    "place": "Villaredona (Tarragona)"
+  },
+  "death": {
+    "date": "1839-07-21",
+    "place": "Sant Carles de la Rápita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5030_juan_saperas"
+    ],
+    "father": "5030_juan_saperas",
+    "mother": null,
+    "spouse": [
+      "2839_juan_izquierdo_carceller"
+    ],
+    "children": [
+      "1796_2_1846"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Saperas",
+      "Antonia Rauera"
+    ],
+    "father_name": "Juan Saperas",
+    "mother_name": "Antonia Rauera",
+    "spouse_names": [
+      "Juan Izquierdo Carceller"
+    ],
+    "children_names": [
+      "2 1846"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: El 8 de gener de 1770 a Vila-rodona (Tarragona) . \"El vuit de Janer de mil set cents setanta en les fonts baptismals de la parroquia de Vila-rodona fou batejada Rosa Antonia Francisca filla de Joan Saperes mestre de cases y de Antonia Saperes y Ranyé conjuges. Foren padrins Ramón Ranyé pagès y Antonia Salvany viuda\".(AHAT)\n\nCasament: amb Juan Izquierdo Carceller d'Arnes [1769]. A l'estat de veïns de la Població de San Carlos  a 1 de setembre de 1798 consta que viuen a una casa d'empleats de sanitat (ACA BGRP caixa 34).\n\nFills: José Antonio [1789], María [1792], Manuel [1793] i Agustín [1799].\n\nDefunció: el 21 de juliol de 1839 a la Ràpita. Va morir als 70 anys. No fa testament.\n\nDe l'1 de juny de 1834 al 31 de juliol de 1839 ha de pagar un lloguer de 14 Rs mensuals pel pis de terra de la casa 2 de la mançana 2. (AGP.PER.LEG.1073/23 [Juan Vecino]).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

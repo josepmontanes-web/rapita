@@ -1,0 +1,75 @@
+{
+  "id": "3459_jose_montia_vidal",
+  "source_id": "3459",
+  "row_ref": "3459. José Montia Vidal",
+  "name": "José Montia Vidal",
+  "gender": "male",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Benicarló"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "4925_miguela_sancho_ripoll"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Montia",
+      "Rosa Vidal"
+    ],
+    "father_name": "Bautista Montia",
+    "mother_name": "Rosa Vidal",
+    "spouse_names": [
+      "Miguela Sancho Ripoll"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Benicarló [aprox. 1820]. \n\nCasament: el 24 de desembre de 1846 amb Miguela Sancho Ripoll [1820].\n\nFills: Vicente [1850], Ramón [1848] i Josefa [1862].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "3038_juan_lopez_segarra",
+  "source_id": "3038",
+  "row_ref": "3038. Juan López Segarra",
+  "name": "Juan López Segarra",
+  "gender": "male",
+  "birth": {
+    "date": "1802-10-10",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1842-03-11",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2996_juan_lopez_flores",
+      "5045_maria_segarra_bel"
+    ],
+    "father": "2996_juan_lopez_flores",
+    "mother": "5045_maria_segarra_bel",
+    "spouse": [],
+    "children": [
+      "3029_juan_bautista_lopez_rullo",
+      "3030_maria_ana_lopez_rullo",
+      "3031_gregorio_lopez_rullo",
+      "3032_antonia_lopez_rullo"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan López Flores",
+      "María Segarra Bel"
+    ],
+    "father_name": "Juan López Flores",
+    "mother_name": "María Segarra Bel",
+    "spouse_names": [
+      "Teresa Rallo Borràs"
+    ],
+    "children_names": [
+      "Juan Bautista López Rullo",
+      "María Ana López Rullo",
+      "Gregorio López Rullo",
+      "Antonia López Rullo"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Izquierdo",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 10 d'octubre de 1802 a la Ràpita.\n\nPadrí: Juan Izquierdo.\n\nCasament: el 29 de maig de 1827 amb Teresa Rullo Borràs de Xerta [1798].\n\nFills: Juan Bautista [1828], María Ana [1830], Gregorio [1833] i Antonia [1835].\n\nDefunció: l'11 de març de 1842 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

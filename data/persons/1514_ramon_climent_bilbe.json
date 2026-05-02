@@ -1,0 +1,81 @@
+{
+  "id": "1514_ramon_climent_bilbe",
+  "source_id": "1514",
+  "row_ref": "1514. Ramon Climent Bilbé",
+  "name": "Ramon Climent Bilbé",
+  "gender": "male",
+  "birth": {
+    "date": "1770-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1512_joaquin_climent"
+    ],
+    "father": "1512_joaquin_climent",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1515_josefa_climent_cordovet",
+      "1797_38_1800"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Climent",
+      "Teresa Bilbé"
+    ],
+    "father_name": "Joaquín Climent",
+    "mother_name": "Teresa Bilbé",
+    "spouse_names": [
+      "María Antonia Cordovet"
+    ],
+    "children_names": [
+      "Josefa Climent Cordovet",
+      "38 1800"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1770].\n\nCasament: amb María Antonia Cordovet.\n\nFills: Josefa [1793].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

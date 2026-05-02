@@ -1,0 +1,68 @@
+{
+  "id": "2372_francisco_garcia_tarrago",
+  "source_id": "2372",
+  "row_ref": "2372. Francisco García Tarragó",
+  "name": "Francisco García Tarragó",
+  "gender": "male",
+  "birth": {
+    "date": "1840-01-01",
+    "place": "Calpe"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Calpe [aprox. 1840].\n\nProfessió: mariner.\n\nCasament: amb Rosa Blasco Salvadó de Peníscola [1850].\n\nFills: Luís [1877], Agustín Ramón [1879] i José [1881].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

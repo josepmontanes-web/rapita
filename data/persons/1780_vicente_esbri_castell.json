@@ -1,0 +1,74 @@
+{
+  "id": "1780_vicente_esbri_castell",
+  "source_id": "1780",
+  "row_ref": "1780. Vicente Esbrí Castell",
+  "name": "Vicente Esbrí Castell",
+  "gender": "male",
+  "birth": {
+    "date": "1839-09-25",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1775_vicente_esbri_bayarri",
+      "1149_antonia_castell_comes"
+    ],
+    "father": "1775_vicente_esbri_bayarri",
+    "mother": "1149_antonia_castell_comes",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Esbrí Bayarri",
+      "Antonia Castell Comes"
+    ],
+    "father_name": "Vicente Esbrí Bayarri",
+    "mother_name": "Antonia Castell Comes",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Feliciano Florcadell",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 25 de setembre de 1839 a la Ràpita.\n\nPadrins: Feliciano Florcadell i Francisca Navarro.\n\nProfessió: mariner.\n\nCasament: el 8 de novembre de 1875 amb Manuela García Selles d'Altea [1850].\n\nFills: Manuela [1877] i Rosa [1878].\n\nNo signa la declaració de naixement de la filla al registre civil per no saber.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

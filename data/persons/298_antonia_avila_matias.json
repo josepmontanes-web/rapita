@@ -1,0 +1,78 @@
+{
+  "id": "298_antonia_avila_matias",
+  "source_id": "298",
+  "row_ref": "298. Antonia Avila Matias",
+  "name": "Antonia Avila Matias",
+  "gender": "female",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Benicarló"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "2774_jose_guzman_obiol"
+    ],
+    "children": [
+      "2764_jose_salvador_guzman_avila",
+      "2765_victor_guzman_avila"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "José Guzmán Obiol"
+    ],
+    "children_names": [
+      "José Salvador Guzmán Avila",
+      "Victor Guzmán Avila"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  a Benicarló [aprox. 1800].\n\nCasament: amb José Guzmán Obiol de Peníscola [1800].\n\nFills: José Salvador [1830] i Víctor [1833].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "2867_francisca_jovani_badenes",
+  "source_id": "2867",
+  "row_ref": "2867. Francisca Jovani Badenes",
+  "name": "Francisca Jovani Badenes",
+  "gender": "female",
+  "birth": {
+    "date": "1841-02-18",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1841-02-28",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2873_miguel_jovani_grau",
+      "307_casimira_badenes_sancho"
+    ],
+    "father": "2873_miguel_jovani_grau",
+    "mother": "307_casimira_badenes_sancho",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Jovani Grau",
+      "Casimira Badenes Sancho"
+    ],
+    "father_name": "Miguel Jovani Grau",
+    "mother_name": "Casimira Badenes Sancho",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Julian Badenes",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 18 de febrer de 1841 a la Ràpita.\n\nPadrins: Julián Badenes i Francisca Rosales.\n\nDefunció: el 28 de febrer de 1841 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

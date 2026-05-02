@@ -1,0 +1,93 @@
+{
+  "id": "2138_juan_fibla_querol",
+  "source_id": "2138",
+  "row_ref": "2138. Juan Fibla Querol",
+  "name": "Juan Fibla Querol",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "4944_paula_sancho_subirats"
+    ],
+    "children": [
+      "2144_salvador_fibla_sancho",
+      "2145_miguel_fibla_sancho",
+      "2146_jose_antonio_fibla_sancho",
+      "2147_juan_bautista_fibla_sancho",
+      "2148_jose_fibla_sancho",
+      "2149_balbino_fibla_sancho",
+      "2150_josefa_fibla_sancho",
+      "2151_teresa_fibla_sancho"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Fibla",
+      "Vicenta Querol"
+    ],
+    "father_name": "Juan Fibla",
+    "mother_name": "Vicenta Querol",
+    "spouse_names": [
+      "Paula Sancho Subirats"
+    ],
+    "children_names": [
+      "Salvador Fibla Sancho",
+      "Miguel Fibla Sancho",
+      "José Antonio Fibla Sancho",
+      "Juan Bautista Fibla Sancho",
+      "José Fibla Sancho",
+      "Balbino Fibla Sancho",
+      "Josefa Fibla Sancho",
+      "Teresa Fibla Sancho"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1800].\n\nCasament: amb Paula Sancho Subirats d'Alcanar [1800].\n\nFills: José (Alcanar) [1829], Juan Bautista [1830], Balbino [1833], Salvador [1835], Miguel [1837], Josefa [1840], Teresa [1840], José Antonio [1842] i Lorenzo [1845].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

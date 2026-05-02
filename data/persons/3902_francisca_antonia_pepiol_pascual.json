@@ -1,0 +1,74 @@
+{
+  "id": "3902_francisca_antonia_pepiol_pascual",
+  "source_id": "3902",
+  "row_ref": "3902. Francisca Antonia Pepiol Pascual",
+  "name": "Francisca Antonia Pepiol Pascual",
+  "gender": "female",
+  "birth": {
+    "date": "1805-12-05",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1807-12-11",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3892_blas_pepiol_masdeu",
+      "3829_teresa_pasqual_fuster"
+    ],
+    "father": "3892_blas_pepiol_masdeu",
+    "mother": "3829_teresa_pasqual_fuster",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Blas Pepiol Masdeu",
+      "Teresa Pasqual Fuster"
+    ],
+    "father_name": "Blas Pepiol Masdeu",
+    "mother_name": "Teresa Pasqual Fuster",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Donés",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 5 de desembre de 1805 a la Ràpita.\n\nPadrins: Francisco Donés i Juliana Pascual.\n\nDefunció: l'11 de desembre de 1807 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "3419_mariano_miralles_forcadell",
+  "source_id": "3419",
+  "row_ref": "3419. Mariano Miralles Forcadell",
+  "name": "Mariano Miralles Forcadell",
+  "gender": "male",
+  "birth": {
+    "date": "1775-01-01",
+    "place": "Freginals"
+  },
+  "death": {
+    "date": "1845-04-06",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "350_joaquina_balada_miralles"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Adrián Miralles",
+      "Fulgéncia Forcadell"
+    ],
+    "father_name": "Adrián Miralles",
+    "mother_name": "Fulgéncia Forcadell",
+    "spouse_names": [
+      "Francisca Miralles",
+      "Joaquina Balada Miralles"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Freginals [aprox. 1775]. \n\nCasament: amb Francisca Miralles.\n\nCasament: l'1 de juny de 1826 amb Joaquina Balada Miralles d'Ulldecona [1780].\n\nDefunció: el 6 d'abril de 1845 a la Ràpita. Va morir als 70 anys. \"Testó en poder de Mn. Carlos, cura que fue de parroquia de ésta\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

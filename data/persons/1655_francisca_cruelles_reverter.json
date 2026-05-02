@@ -1,0 +1,78 @@
+{
+  "id": "1655_francisca_cruelles_reverter",
+  "source_id": "1655",
+  "row_ref": "1655. Francisca Cruelles Reverter",
+  "name": "Francisca Cruelles Reverter",
+  "gender": "female",
+  "birth": {
+    "date": "1806-06-25",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1834-09-20",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1654_francisco_cruelles_remisa",
+      "4341_matilde_reverter_sancho"
+    ],
+    "father": "1654_francisco_cruelles_remisa",
+    "mother": "4341_matilde_reverter_sancho",
+    "spouse": [
+      "1441_joaquin_chillida_querol"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Cruelles Remisa",
+      "Matilde Reverter Sancho"
+    ],
+    "father_name": "Francisco Cruelles Remisa",
+    "mother_name": "Matilde Reverter Sancho",
+    "spouse_names": [
+      "Joaquín Chillida Querol"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Cruelles",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 25 de juny de 1806 a la Ràpita.\n\nPadrins: Francisco Cruelles i Francisca Navarro.\n\nCasament: el 28 de juny de 1827 amb Joaquín Chillida Querol d'Alcanar [1800].\n\nFills: Tomás [1828], Josefa [1831] i Crispín [1833].\n\nDefunció: el 20 de setembre de 1834 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

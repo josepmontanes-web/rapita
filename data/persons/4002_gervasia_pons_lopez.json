@@ -1,0 +1,74 @@
+{
+  "id": "4002_gervasia_pons_lopez",
+  "source_id": "4002",
+  "row_ref": "4002. Gervasia Pons López",
+  "name": "Gervasia Pons López",
+  "gender": "female",
+  "birth": {
+    "date": "1830-01-30",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1831-08-12",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4009_manuel_pons_reverter",
+      "3037_rafaela_lopez_segarra"
+    ],
+    "father": "4009_manuel_pons_reverter",
+    "mother": "3037_rafaela_lopez_segarra",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel Pons Reverter",
+      "Rafaela López Segarra"
+    ],
+    "father_name": "Manuel Pons Reverter",
+    "mother_name": "Rafaela López Segarra",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Sabater",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 30 de gener de 1830 a la Ràpita.\n\nPadrins: Francisco Sabater i Micaela Calduch.\n\nDefunció: el 12 d'agost de 1831 a la Ràpita. Va morir de \"espasmo\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

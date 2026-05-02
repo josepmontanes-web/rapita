@@ -1,0 +1,81 @@
+{
+  "id": "3780_josefa_palos_viscarri",
+  "source_id": "3780",
+  "row_ref": "3780. Josefa Palos Viscarri",
+  "name": "Josefa Palos Viscarri",
+  "gender": "female",
+  "birth": {
+    "date": "1740-01-01",
+    "place": "Pobla de Benifassar"
+  },
+  "death": {
+    "date": "1806-05-19",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5535_francisco_vidal_palos"
+    ],
+    "father": "5535_francisco_vidal_palos",
+    "mother": null,
+    "spouse": [
+      "5497_bautista_vidal"
+    ],
+    "children": [
+      "1797_38_1800"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Vidal Palos",
+      "Narcisa Viscarri"
+    ],
+    "father_name": "Francisco Palos",
+    "mother_name": "Narcisa Viscarri",
+    "spouse_names": [
+      "Bautista Vidal"
+    ],
+    "children_names": [
+      "38 1800"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Pobla de Benifassar [aprox. 1740]. A alguna partida diu que es de Calanda.\n\nCasament: amb Bautista Vidal de La Pobla de Benifassar [1740].\n\nFills: Teresa (la Pobla de Benifassà) [1760], Jacinto (la Pobla de Benifassà) [1765], Joaquín (Traiguera) [1770] i Bautista (Ulldecona) [1775]. No està clar que Bautista sigui fill seu.\n\nDefunció: el 19 de maig de 1806 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

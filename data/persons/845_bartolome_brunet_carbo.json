@@ -1,0 +1,80 @@
+{
+  "id": "845_bartolome_brunet_carbo",
+  "source_id": "845",
+  "row_ref": "845. Bartolomé Brunet Carbó",
+  "name": "Bartolomé Brunet Carbó",
+  "gender": "male",
+  "birth": {
+    "date": "1821-10-27",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "859_bautista_brunet_monlleo",
+      "1004_teresa_carbo_fibla"
+    ],
+    "father": "859_bautista_brunet_monlleo",
+    "mother": "1004_teresa_carbo_fibla",
+    "spouse": [],
+    "children": [
+      "870_bartolome_brunet_reverte"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Brunet Monlleó",
+      "Teresa Carbó Fibla"
+    ],
+    "father_name": "Bautista Brunet Monlleó",
+    "mother_name": "Teresa Carbó Fibla",
+    "spouse_names": [
+      "Antonia Reverter Calbet"
+    ],
+    "children_names": [
+      "Bartolomé Brunet Reverté"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Bartolomé Campamar",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 27 d'octubre de 1821 a la Ràpita.\n\nPadrins: Don Bartolomé Campanar i Francisca Tomás.\n\nCasament: el 10 d'abril de 1844 amb Antonia Reverter Calbet de la Ràpita [1824].\n\nFills: Bartolomé [1848] i Tomás [1860].\n\nVenta: de Francisco Reverté a sus cuñados Bartolomé Brunet y Alejandro Arlández en partes iguales, de las terceras partes de toda aquella casa en la calle de San Isidro. Linda con Mariano Balada, Jacinto Garriga y Manuel Bel. Precio 40 duros. 3 de abril de 1859. Documento privado otorgado en San Carlos siendo testigos José Canicio, Agustín Castillo y Gabriel Gilabert.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

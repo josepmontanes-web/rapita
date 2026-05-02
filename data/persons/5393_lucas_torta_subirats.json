@@ -1,0 +1,82 @@
+{
+  "id": "5393_lucas_torta_subirats",
+  "source_id": "5393",
+  "row_ref": "5393. Lucas Torta Subirats",
+  "name": "Lucas Torta Subirats",
+  "gender": "male",
+  "birth": {
+    "date": "1813-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5389_juan_torta_sole",
+      "5191_teresa_subirats_fabregat"
+    ],
+    "father": "5389_juan_torta_sole",
+    "mother": "5191_teresa_subirats_fabregat",
+    "spouse": [],
+    "children": [
+      "5338_juan_ramon_torta_accensi",
+      "5339_francisco_jose_torta_accensi"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Torta Solé",
+      "Teresa Subirats Fabregat"
+    ],
+    "father_name": "Juan Torta Solé",
+    "mother_name": "Teresa Subirats Fabregat",
+    "spouse_names": [
+      "Francisca Accensi Lozano"
+    ],
+    "children_names": [
+      "Juan Ramón Torta Accensi",
+      "Francisco José Torta Accensi"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1813].\n\nCasament: el 27 de juliol de 1835 amb Francisca Accensi Lazaro de Tortosa [1817]. Es casa als 22 anys.\n\nFills: Juan Ramón [1835], Francisco José [1838], José [1845], Francisca [1850], Bautista [1850], Agustín [1850], Lucas [1852], Carmen [1855] i Tomasa [1857].\n\nDonación: de Agustín Reverter (Forner) a su hija Josefa Reverter (Sancho) por la celebración de su matrimonio con Tomás Curto (Cavaller), casa en el callejón de la Iglesia. Linda con Lucas Torta (Subirats, casat amb Francisca Accensi Lozaro), Ramón Accensi (casat amb Maria Lozano) y Manuel Barrera. Febrero de 1858. Esc. Lorenzo Figueres de Alcanar.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

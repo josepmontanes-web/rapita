@@ -1,0 +1,73 @@
+{
+  "id": "4612_josefa_tomasa_safont_balague",
+  "source_id": "4612",
+  "row_ref": "4612. Josefa Tomasa Safont Balagué",
+  "name": "Josefa Tomasa Safont Balagué",
+  "gender": "female",
+  "birth": {
+    "date": "1827-01-14",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1827-01-24",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4624_juan_safon_fabregat"
+    ],
+    "father": "4624_juan_safon_fabregat",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Safon Fabregat",
+      "Maria Balagué Omedes"
+    ],
+    "father_name": "Juan Safont Fabregat",
+    "mother_name": "Maria Balagué Omedes",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Fabregat",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 14 de gener de 1827 a la Ràpita.\n\nPadrins: Juan Fabregat i Josefa Balagué.\n\nDefunció: el 24 de gener de 1827 a la Ràpita. Va morir de \"espasmo\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

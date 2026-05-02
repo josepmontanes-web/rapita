@@ -1,0 +1,83 @@
+{
+  "id": "3301_mariana_mateu_sancho",
+  "source_id": "3301",
+  "row_ref": "3301. Mariana Mateu Sancho",
+  "name": "Mariana Mateu Sancho",
+  "gender": "female",
+  "birth": {
+    "date": "1772-01-01",
+    "place": "La Galera"
+  },
+  "death": {
+    "date": "1812-09-30",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1905_juan_fabregat_balaguer"
+    ],
+    "children": [
+      "1918_maria_josefa_fabregat_mateu",
+      "1922_josefa_magdalena_fabregat_mateu",
+      "1923_juan_fabregat_mateu"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Mateu",
+      "Magdalena Sancho"
+    ],
+    "father_name": "Bautista Mateu",
+    "mother_name": "Magdalena Sancho",
+    "spouse_names": [
+      "Juan Fabregat Balaguer"
+    ],
+    "children_names": [
+      "Maria Josefa Fabregat Mateu",
+      "Josefa Magdalena Fabregat Mateu",
+      "Juan Fabregat Mateu"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Galera [aprox. 1772]. \n\nCasament: amb Juan Fabregat Balaguer de Tortosa [1761]. A l'estat de veïns de setembre de 1798 diu que viuen a una \"casa de las Monjas de San Juan\" (ACA BGRP Cajas 34).\n\nFills: María Josefa [1794], María Josefa [1795], María Teresa [1797], María Ana [1799], Josefa Magdalena [1800] i Juan [1808].\n\nDefunció: el 30 de setembre de 1812 a la Ràpita. Va morir als 40 anys.\n\nEs germana de Mariano Mateu Sancho [1775].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

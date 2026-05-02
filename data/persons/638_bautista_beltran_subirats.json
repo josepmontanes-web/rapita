@@ -1,0 +1,81 @@
+{
+  "id": "638_bautista_beltran_subirats",
+  "source_id": "638",
+  "row_ref": "638. Bautista Beltran Subirats",
+  "name": "Bautista Beltran Subirats",
+  "gender": "male",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2668_jose_gras_beltran"
+    ],
+    "father": "2668_jose_gras_beltran",
+    "mother": null,
+    "spouse": [
+      "2424_teresa_gasparin_gombau"
+    ],
+    "children": [
+      "614_francisca_beltran_gasparin"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Gras Beltran",
+      "Maria Subirats"
+    ],
+    "father_name": "José Beltran",
+    "mother_name": "Maria Subirats",
+    "spouse_names": [
+      "Teresa Gasparín Gombau"
+    ],
+    "children_names": [
+      "Francisca Beltrán Gasparín"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1820].\n\nCasament: el 27 de desembre de 1842 amb Teresa Gasparín Gombau de la Ràpita [1821].\n\nFills: Francisca [1846], Teresa [1850], José [1857] i Francisco [1860].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

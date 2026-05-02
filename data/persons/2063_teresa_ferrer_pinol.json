@@ -1,0 +1,84 @@
+{
+  "id": "2063_teresa_ferrer_pinol",
+  "source_id": "2063",
+  "row_ref": "2063. Teresa Ferrer Piñol",
+  "name": "Teresa Ferrer Piñol",
+  "gender": "female",
+  "birth": {
+    "date": "1783-01-01",
+    "place": "Perelló"
+  },
+  "death": {
+    "date": "1833-01-10",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1996_jose_ferrer"
+    ],
+    "father": "1996_jose_ferrer",
+    "mother": null,
+    "spouse": [
+      "5100_juan_serres_arbo",
+      "5653_jose_zaragoza_carbo"
+    ],
+    "children": [
+      "4476_maria_romeu_ferrer"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Ferrer",
+      "Madalena Piñol"
+    ],
+    "father_name": "José Ferrer",
+    "mother_name": "Madalena Piñol",
+    "spouse_names": [
+      "Juan Serres Arbó",
+      "José Romeu Molinas",
+      "José Zaragoza Carbó"
+    ],
+    "children_names": [
+      "María Romeu Ferrer"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "pagesa"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: al Perelló [aprox. 1783].\n\nProfessió: pagesa.\n\nCasament: amb Juan Serres Arbó de Mora d'Ebre [1780].\n\nFills: Francisca [1803], Manuela [1809] i Juan Bautista [1813].\n\nCasament: el 22 de juny de 1814 amb José Romeu Molinas [o Vidiella] de Tortosa [1775]. Es casa als 36 anys.\n\nFills: José Antonio [1815] i María [1819].\n\nCasament: el 2 d'abril de 1822 amb José Zaragoza Carbó.\n\nDefunció: el 10 de gener de 1833 a la Ràpita. Va morir als 50 anys. No fa testament. \"Su marido dotó su alma en 120 reales de vellón\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "1303_josefa_castella_navarro",
+  "source_id": "1303",
+  "row_ref": "1303. Josefa Castellà Navarro",
+  "name": "Josefa Castellà Navarro",
+  "gender": "female",
+  "birth": {
+    "date": "1832-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1233_domingo_castella_colomines"
+    ],
+    "father": "1233_domingo_castella_colomines",
+    "mother": null,
+    "spouse": [
+      "3505_francisco_moreso_balaguer"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Domingo Castellà Colomines",
+      "Josefa Navarro Arlández"
+    ],
+    "father_name": "Domingo Castellà Colomines",
+    "mother_name": "Josefa Navarro Arlández",
+    "spouse_names": [
+      "Francisco Moreso Balaguer"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1832].\n\nCasament: el 19 d'abril de 1852 amb Francisco Moreso Balaguer de Tortosa [1827]. Quan es casa té 20 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

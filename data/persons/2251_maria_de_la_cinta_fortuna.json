@@ -1,0 +1,72 @@
+{
+  "id": "2251_maria_de_la_cinta_fortuna",
+  "source_id": "2251",
+  "row_ref": "2251. María de la Cinta Fortuna",
+  "name": "María de la Cinta Fortuna",
+  "gender": "female",
+  "birth": {
+    "date": "1836-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1176_juan_castella_balague"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Juan Castellà Balagué"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1836].\n\nCasament: el 24 de desembre de 1854 amb Juan Castellà Balagué de la Ràpita [1832]. Es casa als 18 anys. Testimonis: Miguel Borràs i José Comí.\n\nFills: Juan [1855], Rosa [1860], Cándida {1860], Cinta [1864] i Mateu [1860].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

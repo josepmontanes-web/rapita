@@ -1,0 +1,78 @@
+{
+  "id": "3897_francisca_pepiol_pascual",
+  "source_id": "3897",
+  "row_ref": "3897. Francisca Pepiol Pascual",
+  "name": "Francisca Pepiol Pascual",
+  "gender": "female",
+  "birth": {
+    "date": "1827-09-16",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3892_blas_pepiol_masdeu",
+      "3829_teresa_pasqual_fuster"
+    ],
+    "father": "3892_blas_pepiol_masdeu",
+    "mother": "3829_teresa_pasqual_fuster",
+    "spouse": [
+      "4523_juan_bautista_rosales_granell"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Blas Pepiol Masdeu",
+      "Teresa Pasqual Fuster"
+    ],
+    "father_name": "Blas Pepiol Masdeu",
+    "mother_name": "Teresa Pasqual Fuster",
+    "spouse_names": [
+      "Juan Bautista Rosales Granell"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Guardia",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 16 de setembre de 1827 a la Ràpita.\n\nPadrins: José Guardia i Francisca Pascual.\n\nCasament: el 24 de desembre de 1852 amb Juan Bautista Rosales Granell [1825]. Testimonis: Lorenzo Fabregat i Ramón López.\n\nFills: Juan [1854].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

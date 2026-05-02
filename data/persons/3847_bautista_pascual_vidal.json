@@ -1,0 +1,68 @@
+{
+  "id": "3847_bautista_pascual_vidal",
+  "source_id": "3847",
+  "row_ref": "3847. Bautista Pascual Vidal",
+  "name": "Bautista Pascual Vidal",
+  "gender": "male",
+  "birth": {
+    "date": "1854-01-01",
+    "place": "Vinaròs"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1854].\n\nProfessió: mariner.\n\nCasament: amb Teresa Moreso Puigcerver de la Ràpita [1860].\n\nFills: Teresa.\n\nCasament: el 22 d'abril de 1878 amb Josefa Arbó Alcaraz de Tortosa [1858]. Es casa als 24 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

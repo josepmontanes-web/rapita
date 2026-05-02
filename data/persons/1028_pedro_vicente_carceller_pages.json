@@ -1,0 +1,75 @@
+{
+  "id": "1028_pedro_vicente_carceller_pages",
+  "source_id": "1028",
+  "row_ref": "1028. Pedro Vicente Carceller Pagès",
+  "name": "Pedro Vicente Carceller Pagès",
+  "gender": "male",
+  "birth": {
+    "date": "1825-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "2296_miguela_garcia_beltran"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Carceller",
+      "Paula Pagès"
+    ],
+    "father_name": "Pedro Carceller",
+    "mother_name": "Paula Pagès",
+    "spouse_names": [
+      "Miguela García Beltran"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1825].\n\nCasament: el 20 d'agost de 1845 amb Miguela García Beltran del Perelló (València) [1820].\n\nFills: Manuela [1856], Pedro José [1850] i Ramón [1850].\n\nEs germà de Paula Carceller Pagès [1821].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

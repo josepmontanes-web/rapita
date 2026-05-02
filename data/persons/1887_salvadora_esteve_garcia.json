@@ -1,0 +1,73 @@
+{
+  "id": "1887_salvadora_esteve_garcia",
+  "source_id": "1887",
+  "row_ref": "1887. Salvadora Esteve García",
+  "name": "Salvadora Esteve García",
+  "gender": "female",
+  "birth": {
+    "date": "1785-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1799-06-09",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2353_basilia_garcia_mendoza"
+    ],
+    "father": null,
+    "mother": "2353_basilia_garcia_mendoza",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Esteve Rondón",
+      "Basilia Garcia Mendoza"
+    ],
+    "father_name": "Josef Esteve Rondón",
+    "mother_name": "Basilia García Mendoza",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1785].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu al carrer davant el canal i l'horta  amb els seus pares (ACA BGRP Cajas 34).\n\nDefunció: el 9 de juny de 1799 a la Ràpita. Va morir donzella.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

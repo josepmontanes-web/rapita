@@ -1,0 +1,77 @@
+{
+  "id": "2805_vicente_huguet_todo",
+  "source_id": "2805",
+  "row_ref": "2805. Vicente Huguet Todó",
+  "name": "Vicente Huguet Todó",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2802_jose_agustin_huguet_miralles"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Huguet",
+      "Vicenta Todó"
+    ],
+    "father_name": "José Huguet",
+    "mother_name": "Vicenta Todó",
+    "spouse_names": [
+      "Agustina Miralles"
+    ],
+    "children_names": [
+      "José Agustín Huguet Miralles"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1800].\n\nCasament: amb Agustina Miralles de Vinaròs, filla de Felix Miralles de Vinaròs.\n\nFills: Vicente (Vinaròs) [1825], Agustina (Vinaròs) [1827] i José Agustín [1829].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

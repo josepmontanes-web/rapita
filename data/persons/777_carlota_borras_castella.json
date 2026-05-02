@@ -1,0 +1,73 @@
+{
+  "id": "777_carlota_borras_castella",
+  "source_id": "777",
+  "row_ref": "777. Carlota Borràs Castellà",
+  "name": "Carlota Borràs Castellà",
+  "gender": "female",
+  "birth": {
+    "date": "1846-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1846-09-03",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "793_miguel_borras_vernis"
+    ],
+    "father": "793_miguel_borras_vernis",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Borràs Vernis",
+      "Carlota Castellà Balagué"
+    ],
+    "father_name": "Miguel Borràs Bernis",
+    "mother_name": "Carlota Castellà Balagué",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1846].\n\nDefunció: el 3 de setembre de 1846 a la Ràpita. Va morir als 9 mesos de \"un mal grano\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

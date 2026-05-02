@@ -1,0 +1,68 @@
+{
+  "id": "663_antonio_benchs",
+  "source_id": "663",
+  "row_ref": "663. Antonio Benchs",
+  "name": "Antonio Benchs",
+  "gender": "male",
+  "birth": {
+    "date": "1776-01-01",
+    "place": "Palma de Mallorca"
+  },
+  "death": {
+    "date": "1809-09-07",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Mariner"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Palma de Mallorca [aprox. 1776].\n\nProfessió: Mariner, \"Patrón del Javeque nombrado S. Antonio de Padua\".\n\nDefunció: el 7 de setembre de 1809 a la Ràpita. Va morir als 33 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

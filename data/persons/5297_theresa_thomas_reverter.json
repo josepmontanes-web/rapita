@@ -1,0 +1,73 @@
+{
+  "id": "5297_theresa_thomas_reverter",
+  "source_id": "5297",
+  "row_ref": "5297. Theresa Thomas Reverter",
+  "name": "Theresa Thomas Reverter",
+  "gender": "female",
+  "birth": {
+    "date": "1840-02-10",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1848-02-14",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3839_miguel_pasqual_thomas"
+    ],
+    "father": "3839_miguel_pasqual_thomas",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Pasqual Thomas",
+      "Theresa Reverter Forné"
+    ],
+    "father_name": "Miguel Thomas Sanches",
+    "mother_name": "Theresa Reverter Forné",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Agustín Reverter",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 10 de febrer de 1840 a la Ràpita.\n\nPadrins: Agustín Reverter i Teresa Sancho.\n\nDefunció: el 14 de febrer de 1848 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

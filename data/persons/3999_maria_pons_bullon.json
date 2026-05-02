@@ -1,0 +1,83 @@
+{
+  "id": "3999_maria_pons_bullon",
+  "source_id": "3999",
+  "row_ref": "3999. María Pons Bullón",
+  "name": "María Pons Bullón",
+  "gender": "female",
+  "birth": {
+    "date": "1760-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1006_antonio_carbo_pons"
+    ],
+    "father": "1006_antonio_carbo_pons",
+    "mother": null,
+    "spouse": [
+      "1960_vicente_faccini_marjet"
+    ],
+    "children": [
+      "1971_nicolas_fatsini_pons",
+      "1972_vicente_faccini_pons"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Carbó Pons",
+      "Joaquina Bullón"
+    ],
+    "father_name": "Antonio Pons",
+    "mother_name": "Joaquina Bullón",
+    "spouse_names": [
+      "Vicente Faccini Marjet"
+    ],
+    "children_names": [
+      "Nicolás Fatsini Pons",
+      "Vicente Faccini Pons"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1760]. \n\nCasament: amb Vicente Faccini Marjet de Tortosa [1761].\n\nFills: Nicolás (Tortosa) [1810] i Vicente [1812].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

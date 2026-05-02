@@ -1,0 +1,73 @@
+{
+  "id": "4884_teresa_sancho_fibla",
+  "source_id": "4884",
+  "row_ref": "4884. Teresa Sancho Fibla",
+  "name": "Teresa Sancho Fibla",
+  "gender": "female",
+  "birth": {
+    "date": "1847-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1848-04-30",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4877_blas_sancho_fibla"
+    ],
+    "father": "4877_blas_sancho_fibla",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Blas Sancho Fibla",
+      "Maria Fibla Ronsano"
+    ],
+    "father_name": "Blas Sancho Fibla",
+    "mother_name": "Maria Fibla Ronsano",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1847]. \n\nDefunció: el 30 d'abril de 1848 a la Ràpita. Va morir als 13 mesos.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

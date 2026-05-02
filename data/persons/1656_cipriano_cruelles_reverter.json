@@ -1,0 +1,92 @@
+{
+  "id": "1656_cipriano_cruelles_reverter",
+  "source_id": "1656",
+  "row_ref": "1656. Cipriano Cruelles Reverter",
+  "name": "Cipriano Cruelles Reverter",
+  "gender": "male",
+  "birth": {
+    "date": "1809-07-10",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1654_francisco_cruelles_remisa",
+      "4341_matilde_reverter_sancho"
+    ],
+    "father": "1654_francisco_cruelles_remisa",
+    "mother": "4341_matilde_reverter_sancho",
+    "spouse": [
+      "609_manuela_beltran_ferrer"
+    ],
+    "children": [
+      "1638_benito_jose_cruelles_beltran",
+      "1639_buenaventura_cruelles_beltran",
+      "1640_ramon_cruelles_beltran",
+      "1641_francisco_cruelles_beltran",
+      "1642_juliana_cruelles_beltran",
+      "1643_maria_rosa_cruelles_beltran"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Cruelles Remisa",
+      "Matilde Reverter Sancho"
+    ],
+    "father_name": "Francisco Cruelles Remisa",
+    "mother_name": "Matilde Reverter Sancho",
+    "spouse_names": [
+      "Manuela Beltran Ferrer"
+    ],
+    "children_names": [
+      "Benito José Cruelles Beltran",
+      "Buenaventura Cruelles Beltran",
+      "Ramón Cruelles Beltran",
+      "Francisco Cruelles Beltran",
+      "Juliana Cruelles Beltran",
+      "Maria Rosa Cruelles Beltran"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Cipriano Antonet",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 10 de juliol de 1809 a la Ràpita.\n\nPadrins: Cipriano Antonet d'Ancona (Estat del Papa) i Josefa Esteve.\n\nCasament: el 5 de setembre de 1829 amb Manuela Beltran Ferrer de la Ràpita [1809].\n\nFills: Francisco [1830], Juliana [1833], Benito [1835], Buenaventura [1837], Ramón [1840], María Rosa [1842], Juan [1845] i Teresa [1853].\n\nDe l'1 d'octubre de 1834 al 31 de juliol de 1839 ha de pagar un lloguer de 4 Rs mensuals pel pis de terra de la casa 3 del carrer del Forn. (AGP.PER.LEG.1073/23 [Juan Vecino]).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

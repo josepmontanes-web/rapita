@@ -1,0 +1,77 @@
+{
+  "id": "3939_maria_madrona_pino_bedos",
+  "source_id": "3939",
+  "row_ref": "3939. María Madrona Pino Bedós",
+  "name": "María Madrona Pino Bedós",
+  "gender": "female",
+  "birth": {
+    "date": "1833-03-14",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3935_victorio_pino_aliau"
+    ],
+    "father": "3935_victorio_pino_aliau",
+    "mother": null,
+    "spouse": [
+      "3783_francisco_pamies_garcia"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Victorio Pino Aliau",
+      "Maria Ana Bedós Rallo"
+    ],
+    "father_name": "Victorio Pino Aliau",
+    "mother_name": "Maria Ana Bedós Rallo",
+    "spouse_names": [
+      "Francisco Pamíes García"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Navarro",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 14 de març de 1833 a la Ràpita.\n\nPadrins: José Navarro i Josefa María Balanzuela.\n\nCasament: el 31 d'octubre de 1853 amb Francisco Pamies García de Reus [1830]. Testimonis: Vicente Alcañíz i Mariano Monfort \"Guardia civiles\".\n\nFills: María [1855] i Francesca [1860].\n\nEs bessona de Leandro.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

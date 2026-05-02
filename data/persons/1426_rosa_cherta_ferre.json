@@ -1,0 +1,75 @@
+{
+  "id": "1426_rosa_cherta_ferre",
+  "source_id": "1426",
+  "row_ref": "1426. Rosa Cherta Ferré",
+  "name": "Rosa Cherta Ferré",
+  "gender": "female",
+  "birth": {
+    "date": "1830-01-01",
+    "place": "La Galera"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3183_francisco_matamoros_castell"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Cherta",
+      "Antonia Ferré"
+    ],
+    "father_name": "Vicente Cherta",
+    "mother_name": "Antonia Ferré",
+    "spouse_names": [
+      "Francisco Matamoros Castell"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Galera [aprox. 1830].\n\nCasament: el 16 de setembre de 1854 amb Francisco Matamoros Castell de la Ràpita [1827]. Es casa als 24 anys. Testimonis: Francisco Pepiol i José Matamoros.\n\nFills: Josefa [1858].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

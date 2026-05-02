@@ -1,0 +1,73 @@
+{
+  "id": "3369_carlota_mies_silvestre",
+  "source_id": "3369",
+  "row_ref": "3369. Carlota Míes Silvestre",
+  "name": "Carlota Míes Silvestre",
+  "gender": "female",
+  "birth": {
+    "date": "1831-11-04",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1834-02-19",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3361_tomas_mies_guinjuan"
+    ],
+    "father": "3361_tomas_mies_guinjuan",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomás Míes Guinjuan",
+      "Tomasa Silvestre Sanchez"
+    ],
+    "father_name": "Tomás Míes Guinjuan",
+    "mother_name": "Tomasa Silvestre Sanchez",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Andrés Míes",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 4 de novembre de 1831 a la Ràpita. \"Por encontrarse en peligro de morir, fue bautizada en la casa de sus padres por Sebastián Míes de 60 años de edad\".\n\nPadrins: Andrés Míes i Pascuala Sánchez.\n\nDefunció: el 19 de febrer de 1834 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

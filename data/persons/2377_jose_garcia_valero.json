@@ -1,0 +1,96 @@
+{
+  "id": "2377_jose_garcia_valero",
+  "source_id": "2377",
+  "row_ref": "2377. José García Valero",
+  "name": "José García Valero",
+  "gender": "male",
+  "birth": {
+    "date": "1795-01-01",
+    "place": "Benidorm"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2288_vicente_garcia",
+      "5419_esperanza_valero"
+    ],
+    "father": "2288_vicente_garcia",
+    "mother": "5419_esperanza_valero",
+    "spouse": [
+      "580_manuela_beltran_asnar"
+    ],
+    "children": [
+      "2295_vicente_garcia_beltran",
+      "2296_miguela_garcia_beltran",
+      "2297_gaspar_garcia_beltran",
+      "2298_jose_garcia_beltran",
+      "2299_manuel_garcia_beltran",
+      "2300_juan_garcia_beltran",
+      "2301_dolores_garcia_beltran",
+      "2302_andres_garcia_beltran"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente García",
+      "Esperanza Valero"
+    ],
+    "father_name": "Vicente García",
+    "mother_name": "Esperanza Valero",
+    "spouse_names": [
+      "Manuela Beltran Asnar"
+    ],
+    "children_names": [
+      "Vicente García Beltran",
+      "Miguela García Beltran",
+      "Gaspar García Beltran",
+      "José García Beltran",
+      "Manuel García Beltrán",
+      "Juan García Beltrán",
+      "Dolores García Beltrán",
+      "Andrés García Beltrán"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Benidorm [aprox. 1795].\n\nCasament: amb Manuela Beltran Asnar del Cabanyal (València) [1800].\n\nFills: Vicente (València) [1815], Miguela (El Perelló) [1820], Gaspar (El Perelló) [1822], José [1824], Manuel [1830], Juan [1832], Dolores [1834] i Andrés [1837].\n\nHipoteca: José García, patrón de la matricula de esta ciudad y vecino de San Carlos dijo: que en 20 de agosto de 1831 declaró que pertenecían a D. Antonio Freginals de Vinaroz en el día ¿? Dos medios barcos de pesquera de bou y además que debía al mismo Freginals 184 duros que le había prestado … hipoteca una casa que posee en la calle de San Francisco que linda de lado con Sebastián Ibañez y el Fra? De la Nolla de espaldas al puerto antiguo. 28 de agosto de 1846.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

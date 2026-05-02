@@ -1,0 +1,81 @@
+{
+  "id": "1890_jose_esteve_rodon",
+  "source_id": "1890",
+  "row_ref": "1890. José Esteve Rodón",
+  "name": "José Esteve Rodón",
+  "gender": "male",
+  "birth": {
+    "date": "1752-01-01",
+    "place": "Mataró"
+  },
+  "death": {
+    "date": "1802-12-09",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1873_salvador_esteve"
+    ],
+    "father": "1873_salvador_esteve",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1885_josefa_esteve_garcia",
+      "1796_2_1846"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Salvador Esteve",
+      "Francisca Rondón"
+    ],
+    "father_name": "Salvador Esteve",
+    "mother_name": "Francisca Rondón",
+    "spouse_names": [
+      "Basilia García"
+    ],
+    "children_names": [
+      "Josefa Esteve García",
+      "2 1846"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Mataró [aprox. 1752].\n\nA finals de maig de 1781 treballa com a fuster a les Obres del Canal de Navegació (ACA BGRP Caixa 44).\n\nCasament: amb Basilia García Mendoza de Morella [1760].\n\nFills: Salvadora [1785], José [1788], Josefa [1790], María [1791] i Agustín [1793].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu al carrer davant el canal i l'horta  (ACA BGRP Cajas 34).\n\nDefunció: el 9 de desembre de 1802 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

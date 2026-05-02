@@ -1,0 +1,71 @@
+{
+  "id": "5090_severino_agustin_segura_juan",
+  "source_id": "5090",
+  "row_ref": "5090. Severino Agustín Segura Juan",
+  "name": "Severino Agustín Segura Juan",
+  "gender": "male",
+  "birth": {
+    "date": "1846-08-25",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1846-08-27",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Sebastián Segura",
+      "Rosa Juan"
+    ],
+    "father_name": "Sebastián Segura",
+    "mother_name": "Rosa Juan",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 25 d'agost de 1846 a la Ràpita.\n\nDefunció: el 27 d'agost de 1846 a la Ràpita. Va morir als 2 dies de \"terciana\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

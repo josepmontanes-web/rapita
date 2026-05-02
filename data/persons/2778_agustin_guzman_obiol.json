@@ -1,0 +1,72 @@
+{
+  "id": "2778_agustin_guzman_obiol",
+  "source_id": "2778",
+  "row_ref": "2778. Agustín Guzmán Obiol",
+  "name": "Agustín Guzmán Obiol",
+  "gender": "male",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Peníscola"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2768_vicenta_guzman_collell"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Vicenta Guzmán Collell"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Peníscola [aprox. 1810].\n\nCasament: amb Gabriela Collell Obiol de Peníscola [1810].\n\nFills: Vicenta [1830].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "1861_mariana_esteller_navarro",
+  "source_id": "1861",
+  "row_ref": "1861. Mariana Esteller Navarro",
+  "name": "Mariana Esteller Navarro",
+  "gender": "female",
+  "birth": {
+    "date": "1796-07-26",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1852_juan_bautista_esteller_matamoros",
+      "3664_josefa_navarro_paulo"
+    ],
+    "father": "1852_juan_bautista_esteller_matamoros",
+    "mother": "3664_josefa_navarro_paulo",
+    "spouse": [],
+    "children": [
+      "4098_jose_queral_esteller"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Bautista Esteller Matamoros",
+      "Josefa Navarro Paulo"
+    ],
+    "father_name": "Juan Bautista Esteller Matamoros",
+    "mother_name": "Josefa Navarro Paulo",
+    "spouse_names": [
+      "Pedro Queral"
+    ],
+    "children_names": [
+      "José Queral Esteller"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Salvador Llorens",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 26 de juliol de 1796 a la Ràpita.\n\nPadrins: Salvador Llorens i María Esteller Matamoros.\n\nCasament: amb Pedro Queral. Desprès tant ella com el marit son veïns de Freginals.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

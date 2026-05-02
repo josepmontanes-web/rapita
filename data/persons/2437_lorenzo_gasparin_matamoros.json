@@ -1,0 +1,93 @@
+{
+  "id": "2437_lorenzo_gasparin_matamoros",
+  "source_id": "2437",
+  "row_ref": "2437. Lorenzo Gasparín Matamoros",
+  "name": "Lorenzo Gasparín Matamoros",
+  "gender": "male",
+  "birth": {
+    "date": "1799-08-14",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1834-08-24",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3261_theresa_matamoros_reverter"
+    ],
+    "father": null,
+    "mother": "3261_theresa_matamoros_reverter",
+    "spouse": [],
+    "children": [
+      "2439_juan_gasparin_moya",
+      "2440_agustina_gasparin_moya",
+      "2441_susana_gasparin_moya",
+      "2442_francisco_gasparin_moya",
+      "2443_maria_gasparin_moya",
+      "2444_lorenzo_gasparin_moya",
+      "2445_manuel_gasparin_moya",
+      "2446_pedro_gasparin_moya"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Gaspari Bretaña",
+      "Theresa Matamoros Reverter"
+    ],
+    "father_name": "Francisco Gaspari Bretaña",
+    "mother_name": "Theresa Matamoros Reverter",
+    "spouse_names": [
+      "Rosa Moya Villarroya"
+    ],
+    "children_names": [
+      "Juan Gasparín Moya",
+      "Agustina Gasparín Moya",
+      "Susana Gasparín Moya",
+      "Francisco Gasparín Moya",
+      "Maria Gasparín Moya",
+      "Lorenzo Gasparín Moya",
+      "Manuel Gasparín Moya",
+      "Pedro Gasparín Moya"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Lorenzo Casadevall",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 14 d'agost de 1799 a la Ràpita.\n\nPadrins: Lorenzo Casadevall i Doña Francisca María Berthomeu.\n\nCasament: el 29 de desembre de 1817 amb Rosa Moya Villarroya de la Ràpita [1797].\n\nFills: Francisco [1818], María [1820], Agustina [1823], Juan [1825], Susana [1827], Lorenzo [1830], Manuel [1832] i Pedro [1835].\n\nDefunció: el 24 d'agost de 1834 a la Ràpita. Va morir de \"un cólico nervioso\". Es va enterrar abans de les 24 hores per disposició del metge Ramón Crusat. No fa testament.\n\nEl 3 de març de 1829 es un dels 7 veïns que forma part de la Junta de Foment de la Agricultura i volen demanar 1000 jornals de terra per a veïns del poble..",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

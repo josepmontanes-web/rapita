@@ -1,0 +1,81 @@
+{
+  "id": "1738_manuel_difeu_manzanares",
+  "source_id": "1738",
+  "row_ref": "1738. Manuel Difeu Manzanares",
+  "name": "Manuel Difeu Manzanares",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Vinaròs"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1739_maria_teresa_difeu_porcar",
+      "1740_carmen_difeu_porcar",
+      "1741_norberta_difeu_porcar"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Difeu",
+      "Casilda Manzanares"
+    ],
+    "father_name": "Antonio Difeu",
+    "mother_name": "Casilda Manzanares",
+    "spouse_names": [
+      "Agustina Porcar Ximeno"
+    ],
+    "children_names": [
+      "Maria Teresa Difeu Porcar",
+      "Carmen Difeu Porcar",
+      "Norberta Difeu Porcar"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1800].\n\nCasament: amb Agustina Porcar Ximeno de Vinaròs, filla de Agustín i Teresa també de Vinaròs.\n\nFills: María Teresa [1828], Carmen [1830] i Norberta [1832].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

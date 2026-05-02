@@ -1,0 +1,75 @@
+{
+  "id": "4433_geronima_robles_callarisa",
+  "source_id": "4433",
+  "row_ref": "4433. Gerónima Robles Callarisa",
+  "name": "Gerónima Robles Callarisa",
+  "gender": "female",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Ulldecona"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1605_roque_conesa_sanchez"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Ramon Robles",
+      "Manuela Callarisa"
+    ],
+    "father_name": "Ramon Robles",
+    "mother_name": "Manuela Callarisa",
+    "spouse_names": [
+      "Roque Conesa Sánchez"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Ulldecona [aprox. 1820]. \n\nCasament: el 14 d'abril de 1843 amb Roque Conesa Sánchez de Cartagena [1820].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

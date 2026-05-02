@@ -1,0 +1,70 @@
+{
+  "id": "4455_tomas_rohe",
+  "source_id": "4455",
+  "row_ref": "4455. Tomás Rohe",
+  "name": "Tomás Rohe",
+  "gender": "male",
+  "birth": {
+    "date": "1736-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1792-05-12",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Isabel Blasco"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1736]. \n\nCasament: amb Isabel Blasco.\n\nQue al principi de les obres hi havia una muntanyeta de polvora en un racó de l’església, que no van voler treure els guardes de sanitat (Juan Talarn i tomás Roé, i que es va posar un soldat de sentinella i es va avisar el governador de Tortosa\n\nGuarda de Sanitat del port i al 24 de desembre de 1783 va tenir unes incidències amb Rufo Sans i el fill d'aquest, per les quals dona ordre de captura de Rufo Sans i el fill. (ACA BGRP Correspondencia caixa 2).\n\nObservacions: el 4 d'agost de 1782 Francesc Canals demana que es posi Junta particular u Oficina de Sanitat al poble per agilitzar el tràmits de transport marítim. (ACA BGPR Correspondencia Caixa 2).\n\nDefunció: el 12 de maig de 1792 a la Ràpita. \"Dispuso ser enterrado en Amposta\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

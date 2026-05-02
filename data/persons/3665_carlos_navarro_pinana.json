@@ -1,0 +1,68 @@
+{
+  "id": "3665_carlos_navarro_pinana",
+  "source_id": "3665",
+  "row_ref": "3665. Carlos Navarro Piñana",
+  "name": "Carlos Navarro Piñana",
+  "gender": "male",
+  "birth": {
+    "date": "1849-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1849].\n\nProfessió: mariner.\n\nCasament: el 23 de maig de 1873 amb Josefa Chalé Miralles de la Ràpita [1853]. Es casa als 24 anys.\n\nFills: Josefa [1875].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

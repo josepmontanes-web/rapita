@@ -1,0 +1,73 @@
+{
+  "id": "216_francisco_mateo_arbo_tomas",
+  "source_id": "216",
+  "row_ref": "216. Francisco Mateo Arbó Tomás",
+  "name": "Francisco Mateo Arbó Tomás",
+  "gender": "male",
+  "birth": {
+    "date": "1836-09-21",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "177_francisco_arbo_ingles"
+    ],
+    "father": "177_francisco_arbo_ingles",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Arbó Inglés",
+      "Maria Tomas Sanchiz"
+    ],
+    "father_name": "Francisco Arbó Inglés",
+    "mother_name": "Maria Tomas Sanchiz",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Agustín Arbó",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 21 de setembre de 1836 a la Ràpita.\n\nEls padrins son Agustín Arbó Anglès i Josefa García Puchol.\n\nProfessió: pagès.\n\nCasament: amb Francisca Sánchez Guardia de la Ràpita [1841].\n\nFills: Alejandra, Francisca [1859], Bautista, Maria i Domicilda Cinta [1877]. No signa la declaració de naixement de la filla al registre civil per no saber.\n\nDefunció: el 20 de desembre de 1880 a la Ràpita de \"tuberculosis pulmonar\". Declara la mor Teresa Pallarés de 51 anys, casada.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

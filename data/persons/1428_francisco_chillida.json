@@ -1,0 +1,74 @@
+{
+  "id": "1428_francisco_chillida",
+  "source_id": "1428",
+  "row_ref": "1428. Francisco Chillida",
+  "name": "Francisco Chillida",
+  "gender": "male",
+  "birth": {
+    "date": "1761-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1435_juan_chillida_querol"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "María Querol"
+    ],
+    "children_names": [
+      "Juan Chillida Querol"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1761].\n\nCasament: amb María Querol Matamoros d'Alcanar [1770].\n\nFills: Juan [1792], Francisco [1795], Pablo [1795] i Tadea [1795].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Senieta  (ACA BGRP Cajas 34).\n\nAl 1781: Testimonien al seu favor Vicente Forcadell (44 anys) i Francisco Chillida (20 anys), pagesos d’Alcanar.(ACA caixa 54).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

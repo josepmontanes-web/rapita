@@ -1,0 +1,86 @@
+{
+  "id": "730_francisca_blanch_aguilar",
+  "source_id": "730",
+  "row_ref": "730. Francisca Blanch Aguilar",
+  "name": "Francisca Blanch Aguilar",
+  "gender": "female",
+  "birth": {
+    "date": "1780-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "5263_salvador_talarn_valldeperez"
+    ],
+    "children": [
+      "5230_maria_theresa_talarn_blanch",
+      "5231_manuela_francisca_talarn_blanch",
+      "5232_maria_teresa_talarn_blanch",
+      "5233_francisca_talarn_blanch",
+      "5237_braulio_talarn_blanch",
+      "5238_salvador_talarn_blanch"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Salvador Talarn Valldepérez"
+    ],
+    "children_names": [
+      "Maria Theresa Talarn Blanch",
+      "Manuela Francisca Talarn Blanch",
+      "Maria Teresa Talarn Blanch",
+      "Francisca Talarn Blanch",
+      "Braulio Talarn Blanch",
+      "Salvador Talarn Blanch"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1780].\n\nCasament: amb Salvador Talarn Valldepérez d'Amposta [1780].\n\nFills: Gabriel (Tortosa) [1800], Francisca (Amposta) [1805], Teresa [1814], Francisca [1821], Teresa [1822], Tomás [1825], José Salvador [1827], Manuela Francisca [1830], Braulio [1832] i Salvador [1834].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

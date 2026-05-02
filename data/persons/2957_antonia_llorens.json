@@ -1,0 +1,74 @@
+{
+  "id": "2957_antonia_llorens",
+  "source_id": "2957",
+  "row_ref": "2957. Antonia Llorens",
+  "name": "Antonia Llorens",
+  "gender": "female",
+  "birth": {
+    "date": "1797-01-01",
+    "place": "Benidorm"
+  },
+  "death": {
+    "date": "1847-08-13",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "485_maria_ballester_llorens",
+      "486_antonia_ballester_llorens"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Maria Ballester Llorens",
+      "Antonia Ballester Llorens"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: podria ser a Benidorm [aprox. 1797].\n\nCasament: podria ser amb José Ballester de Benidorm.\n\nFills: María Ballester Llorens de Benidorm [1820] i Antonia Ballester Llorens de Benidorm [1825] podrien ser 2 filles seues.\n\nDefunció: el 13 d'agost de 1847 a la Ràpita. Va morir als 50 anys. No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

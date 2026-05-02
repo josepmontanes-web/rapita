@@ -1,0 +1,73 @@
+{
+  "id": "3929_antonia_peris_vines",
+  "source_id": "3929",
+  "row_ref": "3929. Antonia Peris Viñes",
+  "name": "Antonia Peris Viñes",
+  "gender": "female",
+  "birth": {
+    "date": "1801-05-18",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5624_francisca_vines_sevilla"
+    ],
+    "father": null,
+    "mother": "5624_francisca_vines_sevilla",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Thomas Péris Pavia",
+      "Francisca Viñes Sevilla"
+    ],
+    "father_name": "Thomas Péris Pavia",
+    "mother_name": "Francisca Viñes Sevilla",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Antonio Viñes",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 18 de maig de 1801 a la Ràpita.\n\nPadrins: Antonio Viñes i Rosa Pardo.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

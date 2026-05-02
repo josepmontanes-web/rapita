@@ -1,0 +1,73 @@
+{
+  "id": "4566_rafaela_rosell_fernando",
+  "source_id": "4566",
+  "row_ref": "4566. Rafaela Rosell Fernando",
+  "name": "Rafaela Rosell Fernando",
+  "gender": "female",
+  "birth": {
+    "date": "1816-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1817-05-16",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1988_thomasa_fernando_elernan"
+    ],
+    "father": null,
+    "mother": "1988_thomasa_fernando_elernan",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Thomas Rosell",
+      "Thomasa Fernando Elernañ"
+    ],
+    "father_name": "Thomas Rosell",
+    "mother_name": "Thomasa Fernando Elernañ",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1816]. \n\nDefunció: el 16 de maig de 1817 a la Ràpita. Va morir als 16 mesos.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "5450_manuela_vicenta_fortana_ventura",
+  "source_id": "5450",
+  "row_ref": "5450. Manuela Vicenta Fortana Ventura",
+  "name": "Manuela Vicenta Fortana Ventura",
+  "gender": "female",
+  "birth": {
+    "date": "1823-04-07",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Manuel Safon y Fabregat",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 7 d'abril de 1823 a Sant  Carles de la Ràpita.\n\nPadrins: Manuel Safont Fabregat i Francisca Ferran.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

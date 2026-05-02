@@ -1,0 +1,77 @@
+{
+  "id": "5020_benito_sanz_sanareu",
+  "source_id": "5020",
+  "row_ref": "5020. Benito Sanz Sanareu",
+  "name": "Benito Sanz Sanareu",
+  "gender": "male",
+  "birth": {
+    "date": "1776-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1811-12-08",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "4980_juan_sans_cavalle"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Rufo Sanz",
+      "Francisca Sanareu"
+    ],
+    "father_name": "Rufo Sanz",
+    "mother_name": "Francisca Sanareu",
+    "spouse_names": [
+      "Teresa Cavallé"
+    ],
+    "children_names": [
+      "Juan Sans Cavallé"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1776]. \n\nCasament: amb Teresa Cavallé Ferré.\n\nFills: Juan (Tortosa) [1794].\n\nDefunció: el 8 de desembre de 1811 a la Ràpita. Diu que va morir als 25 anys, però es més probable que en tingués 35 o més, ja que va tenir el fill al 1794.\n\nTeresa Cavaller Ferré fa testament i diu que es vidua del patró Benito Sans.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

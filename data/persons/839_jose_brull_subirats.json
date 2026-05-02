@@ -1,0 +1,68 @@
+{
+  "id": "839_jose_brull_subirats",
+  "source_id": "839",
+  "row_ref": "839. José Brull Subirats",
+  "name": "José Brull Subirats",
+  "gender": "male",
+  "birth": {
+    "date": "1815-01-01",
+    "place": "Perelló (València)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: al Perelló (València) [aprox. 1815].\n\nCasament: l'1 d'agost de 1837 amb Esperanza García Martí del Perelló (València) [1815].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

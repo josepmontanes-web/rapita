@@ -1,0 +1,83 @@
+{
+  "id": "2075_francisco_ferre_sanchez",
+  "source_id": "2075",
+  "row_ref": "2075. Francisco Ferré Sánchez",
+  "name": "Francisco Ferré Sánchez",
+  "gender": "male",
+  "birth": {
+    "date": "1748-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1826-06-02",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "2130_josefa_fibla_gargallo"
+    ],
+    "children": [
+      "2037_manuel_ferre_fibla",
+      "2038_francisca_ferre_fibla",
+      "2039_andres_gabriel_ferre_fibla"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Ferré",
+      "Pepa Sánchez"
+    ],
+    "father_name": "José Ferré",
+    "mother_name": "Pepa Sánchez",
+    "spouse_names": [
+      "Josefa Fibla Gargallo"
+    ],
+    "children_names": [
+      "Manuel Ferré Fibla",
+      "Francisca Ferré Fibla",
+      "Andrés Gabriel Ferré Fibla"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar ( o a Amposta)[aprox. 1748].\n\nCasament: a Amposta el 28 de març de 1798 amb Josefa Fibla Gargallo d'Alcanar [1772]. A l'estat de veïns de la Població de San Carlos  a 1 de setembre de 1798 consta que viuen a una casa al costat de l'esglesia vella (ACA BGRP caixa 34).\n\nFills: Manuel [1799], Francisca [1801] i Andrés Gabriel [1806].\n\nDefunció: el 2 de juny de 1826 a la Ràpita. Va morir als 78 anys de \"enf. tuberculos senectutis\". No fa testament.\n\nNaix a Amposta segons partida de defunció de 12-3-1803 d'un fill. Naix a Amposta segon partida de defunció de 11-03-1807 d'un fill. Naix a Alcanar segons la seva partida de defunció. Apareix una vídua de Francisco Ferré, veí de La Galera, que paga censos a les monges per 6 jornals de terra en partida indeterminada (Doc. 1)",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

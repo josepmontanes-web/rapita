@@ -1,0 +1,71 @@
+{
+  "id": "5033_maria_sarti_llusan",
+  "source_id": "5033",
+  "row_ref": "5033. María Sarti Llusan",
+  "name": "María Sarti Llusan",
+  "gender": "female",
+  "birth": {
+    "date": "1832-09-08",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Sarti Labau",
+      "Teresa Llusan Beltran"
+    ],
+    "father_name": "Miguel Sarti Labau",
+    "mother_name": "Teresa Llusan Beltran",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Pascual Rodríguez",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 8 de setembre de 1832 a la Ràpita.\n\nPadrins: Pascual Rodríguez i Teresa Magriñá.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

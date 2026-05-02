@@ -1,0 +1,71 @@
+{
+  "id": "4167_jaime_ratto_fornesa",
+  "source_id": "4167",
+  "row_ref": "4167. Jaime Ratto Fornesa",
+  "name": "Jaime Ratto Fornesa",
+  "gender": "male",
+  "birth": {
+    "date": "1816-09-17",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1823-11-25",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Don Jayme Ratto Bosco",
+      "Lorenza Fornesa Prado"
+    ],
+    "father_name": "Don Jayme Ratto Bosco",
+    "mother_name": "Lorenza Fornesa Prado",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Agustín Fornesa",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 17 de setembre de 1816 a la Ràpita.\n\nPadrins: Don Agustín Fornesa i Francisca Bosco.\n\nDefunció: el 25 de novembre de 1823 a la Ràpita. Va morir als 5 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

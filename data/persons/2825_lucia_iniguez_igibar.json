@@ -1,0 +1,68 @@
+{
+  "id": "2825_lucia_iniguez_igibar",
+  "source_id": "2825",
+  "row_ref": "2825. Lucía Iñiguez Igibar",
+  "name": "Lucía Iñiguez Igibar",
+  "gender": "female",
+  "birth": {
+    "date": "1852-01-01",
+    "place": "Zarauz"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Zarauz [aprox. 1852].\n\nCasament: el 9 de maig de 1876 amb Eustaquio Fernández Martín de Dalias (Almeria) [1850]. Es casa als 24 anys.\n\nFills: Serafín Agustín Antonio [1877].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "2582_francisco_giner_hernandez",
+  "source_id": "2582",
+  "row_ref": "2582. Francisco Giner Hernández",
+  "name": "Francisco Giner Hernández",
+  "gender": "male",
+  "birth": {
+    "date": "1799-02-25",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2569_salvador_giner_ferran"
+    ],
+    "father": "2569_salvador_giner_ferran",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Salvador Giner Ferrán",
+      "Rosa Hernández"
+    ],
+    "father_name": "Salvador Giner",
+    "mother_name": "Rosa Hernández",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 25 de febrer de 1799 a la Ràpita.\n\nNascut a la Ràpita i batejat a Amposta el dia següent.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

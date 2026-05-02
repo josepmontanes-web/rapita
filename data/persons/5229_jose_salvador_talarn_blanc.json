@@ -1,0 +1,73 @@
+{
+  "id": "5229_jose_salvador_talarn_blanc",
+  "source_id": "5229",
+  "row_ref": "5229. José Salvador Talarn Blanc",
+  "name": "José Salvador Talarn Blanc",
+  "gender": "male",
+  "birth": {
+    "date": "1827-10-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1834-10-30",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5263_salvador_talarn_valldeperez"
+    ],
+    "father": "5263_salvador_talarn_valldeperez",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Salvador Talarn Valldeperez",
+      "Francisca Blanc Aguilar"
+    ],
+    "father_name": "Salvador Talarn Valldeperez",
+    "mother_name": "Francisca Blanc Aguilar",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Antonio Vidal",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'1 d'octubre de 1827 a la Ràpita.\n\nPadrins: Antonio Vidal i Basilia Diago.\n\nDefunció: el 30 d'octubre de 1834 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

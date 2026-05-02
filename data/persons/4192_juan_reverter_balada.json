@@ -1,0 +1,80 @@
+{
+  "id": "4192_juan_reverter_balada",
+  "source_id": "4192",
+  "row_ref": "4192. Juan Reverter Balada",
+  "name": "Juan Reverter Balada",
+  "gender": "male",
+  "birth": {
+    "date": "1807-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1809-01-28",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4314_bautista_reverter_pla",
+      "362_josefa_balada_queralt"
+    ],
+    "father": "4314_bautista_reverter_pla",
+    "mother": "362_josefa_balada_queralt",
+    "spouse": [],
+    "children": [
+      "4189_benita_reverter_ascot",
+      "4190_dominica_reverter_ascot"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Reverter Pla",
+      "Josefa Balada Queralt"
+    ],
+    "father_name": "Bautista Reverter Pla",
+    "mother_name": "Josefa Balada Queralt",
+    "spouse_names": [],
+    "children_names": [
+      "Benita Reverter Ascot",
+      "Dominica Reverter Ascot"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1807]. \n\nDefunció: el 28 de gener de 1809 a la Ràpita. Va morir als 20 mesos.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

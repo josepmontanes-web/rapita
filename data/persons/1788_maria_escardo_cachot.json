@@ -1,0 +1,85 @@
+{
+  "id": "1788_maria_escardo_cachot",
+  "source_id": "1788",
+  "row_ref": "1788. Maria Escardó Cachot",
+  "name": "Maria Escardó Cachot",
+  "gender": "female",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1791_jose_escardo_canalda"
+    ],
+    "father": "1791_jose_escardo_canalda",
+    "mother": null,
+    "spouse": [
+      "3131_juan_marti_sans"
+    ],
+    "children": [
+      "3120_maria_ana_marti_escardo",
+      "3121_juan_bautista_marti_escardo",
+      "3122_buenaventura_marti_escardo"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Escardó Canalda",
+      "Mariana Cachot"
+    ],
+    "father_name": "José Escardo",
+    "mother_name": "Mariana Cachot",
+    "spouse_names": [
+      "Juan Martí Sans"
+    ],
+    "children_names": [
+      "Maria Ana Martí Escardó",
+      "Juan Bautista Martí Escardó",
+      "Buenaventura Martí Escardó"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1800].\n\nCasament: el 18 d'agost de 1827 amb Juan Martí Sans de Cambrils [1800].\n\nFills: María Ana [1829], Juan Bautista [1836] i Buenaventura [1838].\n\nEs germana de Francisca Escardó Cachot [1800] i Engracia Escardó Cachot [1800].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "4102_miguel_queralt_garriga",
+  "source_id": "4102",
+  "row_ref": "4102. Miguel Queralt Garriga",
+  "name": "Miguel Queralt Garriga",
+  "gender": "male",
+  "birth": {
+    "date": "1827-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "5176_francisca_solsona_ribera"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Queral",
+      "Maria Garriga"
+    ],
+    "father_name": "José Queral",
+    "mother_name": "Maria Garriga",
+    "spouse_names": [
+      "Francisca Solsona Ribera"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Jornaler"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1827]. \n\nProfessió: jornaler.\n\nCasament: el 23 de març de 1855 amb Francisca Solsona Ribera de la Ràpita [1831]. Es casa als 28 anys. Testimonis: Agustín Reverté i Juan Pla.\n\nEs germà de María Queralt Garriga [1825].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

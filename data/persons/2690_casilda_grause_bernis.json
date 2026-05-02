@@ -1,0 +1,79 @@
+{
+  "id": "2690_casilda_grause_bernis",
+  "source_id": "2690",
+  "row_ref": "2690. Casilda Grausé Bernis",
+  "name": "Casilda Grausé Bernis",
+  "gender": "female",
+  "birth": {
+    "date": "1780-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3079_mateo_magrina_aliau"
+    ],
+    "children": [
+      "3083_francisca_josefa_magrina_gause"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Carlos Grausé (francés)",
+      "Margarita Bernis de Piens"
+    ],
+    "father_name": "Carlos Grausé (francés)",
+    "mother_name": "Margarita Bernis de Piens",
+    "spouse_names": [
+      "Mateo Magriñá Aliau"
+    ],
+    "children_names": [
+      "Francisca Josefa Magriñá Gausé"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1780].\n\nA l'estat de veïns de setembre de 1798 diu que viu a la casa Fonda núm. 5 i 6 de la \"Calle Mayor\" amb la seua mare (ACA BGRP Cajas 34).\n\nCasament: amb Mateo Magriñá Aliau de Tortosa [1780].\n\nFills: Francisca Josefa [1806] i Pascuala [1808].\n\nEs germana de Lorenza Grausé Bernis [1780].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "1642_juliana_cruelles_beltran",
+  "source_id": "1642",
+  "row_ref": "1642. Juliana Cruelles Beltran",
+  "name": "Juliana Cruelles Beltran",
+  "gender": "female",
+  "birth": {
+    "date": "1833-01-27",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1834-07-11",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1656_cipriano_cruelles_reverter",
+      "609_manuela_beltran_ferrer"
+    ],
+    "father": "1656_cipriano_cruelles_reverter",
+    "mother": "609_manuela_beltran_ferrer",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Cipriano Cruelles Reverter",
+      "Manuela Beltran Ferrer"
+    ],
+    "father_name": "Cipriano Cruelles Reverter",
+    "mother_name": "Manuela Beltran Ferrer",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 27 de gener de 1833 a la Ràpita.\n\nPadrina: Lorenza López.\n\nDefunció: l'11 de juliol de 1834 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

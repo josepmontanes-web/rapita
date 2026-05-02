@@ -1,0 +1,87 @@
+{
+  "id": "4222_domingo_reverter_cases",
+  "source_id": "4222",
+  "row_ref": "4222. Domingo Reverter Cases",
+  "name": "Domingo Reverter Cases",
+  "gender": "male",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4222_domingo_reverter_cases"
+    ],
+    "father": "4222_domingo_reverter_cases",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "4222_domingo_reverter_cases",
+      "4225_madalena_reverter_chillida",
+      "4226_ramon_reverte_chillida",
+      "4227_antonia_reverter_chillida",
+      "4228_jose_reverter_chillida"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Domingo Reverter Cases",
+      "María Cases"
+    ],
+    "father_name": "Domingo Reverter",
+    "mother_name": "María Cases",
+    "spouse_names": [
+      "Rosa Chillida Badoca"
+    ],
+    "children_names": [
+      "Domingo Reverter Cases",
+      "Madalena Reverter Chillida",
+      "Ramón Reverté Chillida",
+      "Antonia Reverter Chillida",
+      "José Reverter Chillida"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1790]. \n\nCasament: amb Rosa Chillida Badoca d'Alcanar, filla d'Antonio i María també d'Alcanar.\n\nFills: Madalena [1807], Antonia (Alcanar) [1810], José (Alcanar) [1820] i Ramón [1824].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

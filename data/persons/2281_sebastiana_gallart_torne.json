@@ -1,0 +1,74 @@
+{
+  "id": "2281_sebastiana_gallart_torne",
+  "source_id": "2281",
+  "row_ref": "2281. Sebastiana Gallart Torné",
+  "name": "Sebastiana Gallart Torné",
+  "gender": "female",
+  "birth": {
+    "date": "1837-05-02",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2278_vicente_gallart_ballester",
+      "5322_angela_torne_martorell"
+    ],
+    "father": "2278_vicente_gallart_ballester",
+    "mother": "5322_angela_torne_martorell",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Gallart Ballester",
+      "Angela Torné Martorell"
+    ],
+    "father_name": "Vicente Gallart Ballester",
+    "mother_name": "Angela Torné Martorell",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Sebastián Subirats",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 2 de maig de 1837 a la Ràpita.\n\nPadrins: Sebastián Subirats i Madalena Boqueres.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

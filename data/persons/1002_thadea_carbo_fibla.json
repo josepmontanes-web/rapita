@@ -1,0 +1,78 @@
+{
+  "id": "1002_thadea_carbo_fibla",
+  "source_id": "1002",
+  "row_ref": "1002. Thadea Carbó Fibla",
+  "name": "Thadea Carbó Fibla",
+  "gender": "female",
+  "birth": {
+    "date": "1791-10-28",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1006_antonio_carbo_pons",
+      "2130_josefa_fibla_gargallo"
+    ],
+    "father": "1006_antonio_carbo_pons",
+    "mother": "2130_josefa_fibla_gargallo",
+    "spouse": [
+      "788_tomas_borras_pauls"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Carbó Pons",
+      "Josefa Fibla Gargallo"
+    ],
+    "father_name": "Antonio Carbó Pons",
+    "mother_name": "Josefa Fibla Gargallo",
+    "spouse_names": [
+      "Tomas Borràs Pauls"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Josef Blanco",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 28 d'octubre de 1791 a la Ràpita.\n\nPadrins: Don José Blanco i Doña Teresa Castells.\n\nA l'estat de veïns de la Població de San Carlos  a 1 de setembre de 1798 consta que viu a una casa al costat de l'esglesia vella amb la seua mare i el seu padastre  (ACA BGRP caixa 34).\n\nCasament: el 22 de novembre de 1815 amb Tomás Borràs Pauls de Vilanova d'Alcolea [1793].\n\nFills: Rosa [1817], María [1823], Bautista [1824] , Bartolomé [1825], Vicenta Francisca [1827], Josefa Tomasa [1828], Manuela [1830], Tomasa Francisca [1831], Juan [1833], Juana [1833] i Francisco Tomás [1836].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

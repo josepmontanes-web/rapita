@@ -1,0 +1,76 @@
+{
+  "id": "3863_juan_pepiol",
+  "source_id": "3863",
+  "row_ref": "3863. Juan Pepiol",
+  "name": "Juan Pepiol",
+  "gender": "male",
+  "birth": {
+    "date": "1815-01-01",
+    "place": "Salomó"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3911_jose_pepiol_soler"
+    ],
+    "father": "3911_jose_pepiol_soler",
+    "mother": null,
+    "spouse": [
+      "1439_rosa_chillida_querol"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Pepiol Soler"
+    ],
+    "father_name": "José Pepiol",
+    "mother_name": null,
+    "spouse_names": [
+      "Rosa Chillida Querol"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Salomó (Tarragona) [aprox. 1815]. \n\nCasament: el 8 d'agost de 1846 amb Rosa Chillida Querol d'Alcanar [1820].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

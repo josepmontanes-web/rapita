@@ -1,0 +1,68 @@
+{
+  "id": "2528_sebastian_gil_molins",
+  "source_id": "2528",
+  "row_ref": "2528. Sebastián Gil Molins",
+  "name": "Sebastián Gil Molins",
+  "gender": "male",
+  "birth": {
+    "date": "1853-01-01",
+    "place": "Vinaròs"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1853].\n\nProfessió: mariner.\n\nCasament: el 9 de novembre de 1878 amb Concepción Safont Forné de Vinaròs [1859]. Es casa als 25 anys.\n\nFills: Vicente [1879] i Teresa [1881].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

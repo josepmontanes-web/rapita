@@ -1,0 +1,92 @@
+{
+  "id": "4854_josefa_sancho_biosca",
+  "source_id": "4854",
+  "row_ref": "4854. Josefa Sancho Biosca",
+  "name": "Josefa Sancho Biosca",
+  "gender": "female",
+  "birth": {
+    "date": "1789-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4899_joaquin_sancho_matamoros",
+      "704_josefa_maria_biosca"
+    ],
+    "father": "4899_joaquin_sancho_matamoros",
+    "mother": "704_josefa_maria_biosca",
+    "spouse": [
+      "3803_jose_parra_pardo",
+      "4259_francisco_reverter_forner"
+    ],
+    "children": [
+      "3806_francisca_parra_sancho",
+      "3807_toribio_parra_sancho",
+      "3808_jose_agustin_parra_sancho",
+      "3810_peregrin_parra_sancho",
+      "3812_jose_parra_sancho"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Sancho Matamoros",
+      "Josefa María Biosca"
+    ],
+    "father_name": "Joaquín Sancho Matamoros",
+    "mother_name": "Josefa Maria Biosca",
+    "spouse_names": [
+      "José Parra Pardo",
+      "Francisco Reverter Forner"
+    ],
+    "children_names": [
+      "Francisca Parra Sancho",
+      "Toribio Parra Sancho",
+      "José Agustín Parra Sancho",
+      "Peregrín Parra Sancho",
+      "José Parra Sancho"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1789]. \n\nCasament: el 20 de juliol de 1805 amb José Parra Pardo de Tortosa [1785]. Es casa als 16 anys.\n\nFills: Francisca [1806], José [1808], José Agustín [1811], Santiago [1813], Domingo [1813], Peregrín [1818] i Toribio (Madrid) [1820].\n\nCasament: el 18 d'octubre de 1833 amb Francisco Reverter Forner d'Alcanar [1788].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

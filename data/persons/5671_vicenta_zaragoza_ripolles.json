@@ -1,0 +1,83 @@
+{
+  "id": "5671_vicenta_zaragoza_ripolles",
+  "source_id": "5671",
+  "row_ref": "5671. Vicenta Zaragoza Ripollés",
+  "name": "Vicenta Zaragoza Ripollés",
+  "gender": "female",
+  "birth": {
+    "date": "1765-01-01",
+    "place": "Sant Mateu"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "5325_angelo_torralva_claramunt"
+    ],
+    "children": [
+      "5326_manuela_torralva_zaragoza",
+      "5327_victoriano_torralva_zaragoza",
+      "5328_francisco_torralva_zaragoza"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel Zaragoza",
+      "Josefa Ripollés"
+    ],
+    "father_name": "Manuel Zaragoza",
+    "mother_name": "Josefa Ripollés",
+    "spouse_names": [
+      "Angelo Torralva Claramunt"
+    ],
+    "children_names": [
+      "Manuela Torralva Zaragoza",
+      "Victoriano Torralva Zaragoza",
+      "Francisco Torralva Zaragoza"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Sant Mateu [aprox. 1765].\n\nCasament: amb Angelo Torralva Claramunt de Batea [1765].\n\nFills: Francisco [1781], Victoriano [1791] i Manuela [1794].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

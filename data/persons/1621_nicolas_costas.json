@@ -1,0 +1,74 @@
+{
+  "id": "1621_nicolas_costas",
+  "source_id": "1621",
+  "row_ref": "1621. Nicolás Costas",
+  "name": "Nicolás Costas",
+  "gender": "male",
+  "birth": {
+    "date": "1760-01-01",
+    "place": "Calella"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1797_38_1800"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Doña Joaquina Cavallero"
+    ],
+    "children_names": [
+      "38 1800"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Calella [aprox. 1750].\n\nDes de 1781 Tesorero i Juez conservador del Canal. (ACA_BGRP_Correspondència_caixa 9).\n\nTresorer pagador de les Reials Obres de Sant Carles. Sou fix aprovat per Carles III, el gener de 1785: 5110 rals de billó anuals (Borrás Matamoros, N. 2015).\n\nResponsable del cos de policia.\n\nCasament: amb Doña Joaquina Cavallero d'Alcanar.\n\nFills: María [1792] i Tomás (Alcanar) [1800].\n\nA ACA caixa 58 hi ha tota una historia de Nicolás Costas y Soler.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

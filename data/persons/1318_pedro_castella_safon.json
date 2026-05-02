@@ -1,0 +1,74 @@
+{
+  "id": "1318_pedro_castella_safon",
+  "source_id": "1318",
+  "row_ref": "1318. Pedro Castellà Safon",
+  "name": "Pedro Castellà Safon",
+  "gender": "male",
+  "birth": {
+    "date": "1832-06-27",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1171_juan_castella_alegret",
+      "4625_maria_safon_fabregat"
+    ],
+    "father": "1171_juan_castella_alegret",
+    "mother": "4625_maria_safon_fabregat",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Castellà Alegret",
+      "María Safon Fabregat"
+    ],
+    "father_name": "Juan Castellà Alegret",
+    "mother_name": "Maria Safon Fabregat",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Manuel Safón",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 27 de juny de 1832 a la Ràpita.\n\nPadrins: Manuel Safon i Josefa Sancho.\n\nProfessió: mariner.\n\nCasament: amb Vicenta Cristofol Moreso de la Ràpita [1834].\n\nFills: Pedro [1857], Ramón [1860], Juan [1865], Rafaela [1870], Miguel [1877] i Manuel [1877].\n\nNo signa la declaració de naixement del fill al registre civil per no saber.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

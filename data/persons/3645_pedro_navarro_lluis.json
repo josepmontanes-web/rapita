@@ -1,0 +1,83 @@
+{
+  "id": "3645_pedro_navarro_lluis",
+  "source_id": "3645",
+  "row_ref": "3645. Pedro Navarro Lluís",
+  "name": "Pedro Navarro Lluís",
+  "gender": "male",
+  "birth": {
+    "date": "1780-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3592_francisco_navarro"
+    ],
+    "father": "3592_francisco_navarro",
+    "mother": null,
+    "spouse": [
+      "409_antonia_balaguer_castella"
+    ],
+    "children": [
+      "3601_pedro_navarro_balaguer",
+      "3602_antonia_navarro_balaguer"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Navarro",
+      "Teresa Lluís"
+    ],
+    "father_name": "Francisco Navarro",
+    "mother_name": "Teresa Lluís",
+    "spouse_names": [
+      "Antonia Balaguer Castellà"
+    ],
+    "children_names": [
+      "Pedro Navarro Balaguer",
+      "Antonia Navarro Balaguer"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1780]. \n\nCasament: amb Antonia Balaguer Castellà de Tortosa [1783].\n\nFills: José (Tortosa) [1805], Antonia [1810], Pedro [1814] i Juan [1817].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "1883_maria_esteve_garcia",
+  "source_id": "1883",
+  "row_ref": "1883. María Esteve García",
+  "name": "María Esteve García",
+  "gender": "female",
+  "birth": {
+    "date": "1791-05-28",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1792-10-13",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2353_basilia_garcia_mendoza"
+    ],
+    "father": null,
+    "mother": "2353_basilia_garcia_mendoza",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Esteve Rondón",
+      "Basilia Garcia Mendoza"
+    ],
+    "father_name": "Josef Esteve Rondón",
+    "mother_name": "Basilia García Mendoza",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Salvador Esteve",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 28 de maig de 1791 a la Ràpita.\n\nPadrins: Salvador Esteve i María Segarra.\n\nDefunció: el 13 d'octubre de 1792 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "992_felix_carbo_cartes",
+  "source_id": "992",
+  "row_ref": "992. Felix Carbó Cartes",
+  "name": "Felix Carbó Cartes",
+  "gender": "male",
+  "birth": {
+    "date": "1785-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1247_teresa_castella_dalmau"
+    ],
+    "children": [
+      "996_jose_carbo_castella"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Carbó",
+      "María Antonia Cartes"
+    ],
+    "father_name": "Francisco Carbó",
+    "mother_name": "María Antonia Cartes",
+    "spouse_names": [
+      "Teresa Castellà Dalmau"
+    ],
+    "children_names": [
+      "José Carbó Castellà"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1785].\n\nCasament: amb Teresa Castellà Dalmau de Tortosa [1785].\n\nFills: María [1806], José [1812], Francisca [1814], Vicente [1814] i Escolástica [1817].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

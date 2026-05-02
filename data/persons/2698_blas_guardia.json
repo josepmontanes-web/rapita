@@ -1,0 +1,76 @@
+{
+  "id": "2698_blas_guardia",
+  "source_id": "2698",
+  "row_ref": "2698. Blas Guardia",
+  "name": "Blas Guardia",
+  "gender": "male",
+  "birth": {
+    "date": "1740-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1828-11-21",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2744_bautista_guardia_sanchez",
+      "2745_francisco_guardia_sanchez"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Josefa Sanchís"
+    ],
+    "children_names": [
+      "Bautista Guardia Sánchez",
+      "Francisco Guardia Sánchez"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1740].\n\nCasament: amb Josefa Sanchís [o Sánchez] d'Alcanar [1740].\n\nFills: Francisco (Alcanar) [1770] i Bautista (Alcanar) [1775].\n\nAl agost de 1780 hi ha un Blas Guardia que treballa a una de les brigades de treballadors de les obres del canal de navegació.\n\nCasament: amb Teresa Fulla d'Ulldecona [1765].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Mansana Vella (carrer del Forn) núm. 24 (ACA BGRP Cajas 34). Al gener de 1799 paga un lloguer de 9 Rv per la mateixa casa. Al novembre de 1795 ja té llogada la casa 24 de la Mansana Vella.\n\nDefunció: el 21 de novembre de 1828 a la Ràpita. Va morir als 88 anys de \"accidente aproplético\". No fa testament.\n\nEs veí de la Ràpita a 1796 (ACA Processos 1796 7F). Té 60 anys. va intervenir en la construcció de la fàbrica, per ordre del superintent¡dent. diu k es veritat I ho sap pk llavors treballava a les reals obres. diu que li consta per haver vist ocupat el terreny por los empleados de las obras del canal y saber de los inquilinos que habia antes en la casa y particularmente de Josef Hernandez.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

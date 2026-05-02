@@ -1,0 +1,77 @@
+{
+  "id": "4103_maria_queralt_garriga",
+  "source_id": "4103",
+  "row_ref": "4103. Maria Queralt Garriga",
+  "name": "Maria Queralt Garriga",
+  "gender": "female",
+  "birth": {
+    "date": "1825-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2531_jose_gil_queralt"
+    ],
+    "father": "2531_jose_gil_queralt",
+    "mother": null,
+    "spouse": [
+      "4171_bautista_redon_fibla"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Gil Queralt",
+      "Maria Garriga"
+    ],
+    "father_name": "José Queralt",
+    "mother_name": "Maria Garriga",
+    "spouse_names": [
+      "Bautista Redón Fibla"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1825]. \n\nCasament: el 14 de novembre de 1846 amb Bautista Redón Fibla d'Alcanar [1825].\n\nEs germana de Miguel Queralt Garriga [1827].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

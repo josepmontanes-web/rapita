@@ -1,0 +1,87 @@
+{
+  "id": "4908_francisca_sancho_pla",
+  "source_id": "4908",
+  "row_ref": "4908. Francisca Sancho Pla",
+  "name": "Francisca Sancho Pla",
+  "gender": "female",
+  "birth": {
+    "date": "1805-04-27",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4853_pedro_sancho_biosca"
+    ],
+    "father": "4853_pedro_sancho_biosca",
+    "mother": null,
+    "spouse": [
+      "1934_vicente_fabregat_sancho"
+    ],
+    "children": [
+      "1936_pedro_fabregat_sancho",
+      "1938_silvestre_fabregat_sancho",
+      "1939_leandra_fabregat_sancho",
+      "1940_juan_bautista_fabregat_sancho"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Sancho Biosca",
+      "Thomasa Pla Sancho"
+    ],
+    "father_name": "Pedro Sancho Biosca",
+    "mother_name": "Thomasa Pla Sancho",
+    "spouse_names": [
+      "Vicente Fabregat Sancho"
+    ],
+    "children_names": [
+      "Pedro Fabregat Sancho",
+      "Silvestre Fabregat Sancho",
+      "Leandra Fabregat Sancho",
+      "Juan Bautista Fabregat Sancho"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Thomas Vidal",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 27 d'abril de 1805 a la Ràpita.\n\nPadrins: Tomás Vidal i Francisca Castellà.\n\nCasament: el 9 de març de 1824 amb Vicente Fabregat Sancho d'Alcanar [1794].\n\nFills: María de la Cinta [1825], Pedro [1827], Prudencio [1830], Silvestre [1831], Leandra [1834] i Juan Bautista [1836].\n\nAquel sitio o posesión de tierras para edificar sito en la nueva población de San Carlos y en la calle del Arrabal de San Isidro de extensión 24 palmos de luz de ancho y de sesenta de profundidad todos catalanes lindante a medio día con José Lafont, a norte con otra calle, a levante herederos de Pedro Reverter y a poniente, o sea por la parte del [] con dicha calle Arraval de San Isidro. La que tiene bajo dominio cierto hoy tras la amortización al censo de un [] ardites que anualmente deberá pagar dicha [] . Por el precio de 8 duros recibidos a voluntad.\n16 de febrero de 1857\n[notari: D. Juan Ventosa de Amposta ¿?]\nVenta: Francisco Guardia y Bort labrador de San Carlos a Francisca Sancho [Pla] viuda de Vicente Fabregat [Sancho].\nValor 160.\n\nAl 1862 li dona una casa a la seua filla Jacinta (deu ser Maria Cinta). Linda pel davant amb José Guardia, per llevant amb la vídua de Juan Bautista ..., per mastral amb José Matamoros i per ponent amb Juan Bautista Català.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

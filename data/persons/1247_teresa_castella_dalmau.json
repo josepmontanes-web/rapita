@@ -1,0 +1,108 @@
+{
+  "id": "1247_teresa_castella_dalmau",
+  "source_id": "1247",
+  "row_ref": "1247. Teresa Castellà Dalmau",
+  "name": "Teresa Castellà Dalmau",
+  "gender": "female",
+  "birth": {
+    "date": "1785-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1819-01-20",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1343_francisco_castella_zaragoza",
+      "1699_maria_dalmau_fabregat"
+    ],
+    "father": "1343_francisco_castella_zaragoza",
+    "mother": "1699_maria_dalmau_fabregat",
+    "spouse": [
+      "992_felix_carbo_cartes"
+    ],
+    "children": [
+      "993_francisca_carbo_castella",
+      "994_escolastica_carbo_castella",
+      "995_vicente_carbo_castella",
+      "996_jose_carbo_castella",
+      "997_maria_carbo_castella",
+      "2624_francisca_gombau_castella",
+      "2625_bautista_gombau_castella",
+      "2626_maria_teresa_gombau_castella",
+      "2627_maria_thomasa_gombau_castella",
+      "2628_vicente_juan_gombau_castella",
+      "2629_gonzalo_gombau_castella",
+      "2630_pedro_armengol_gombau_castella",
+      "2631_juan_francisco_gombau_castella",
+      "2632_gerardo_gombau_castella"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Castellà Zaragoza",
+      "María Dalmau Fabregat"
+    ],
+    "father_name": "Francisco Castellà Zaragoza",
+    "mother_name": "Maria Dalmau Fabregat",
+    "spouse_names": [
+      "Felix Carbó Cartes"
+    ],
+    "children_names": [
+      "Francisca Carbó Castellà",
+      "Escolástica Carbó Castellà",
+      "Vicente Carbó Castellà",
+      "José Carbó Castellà",
+      "María Carbó Castellà",
+      "Francisca Gombau Castellà",
+      "Bautista Gombau Castellà",
+      "Maria Teresa Gombau Castellà",
+      "Maria Thomasa Gombau Castellà",
+      "Vicente Juan Gombau Castellà",
+      "Gonzalo Gombau Castellà",
+      "Pedro Armengol Gombau Castellà",
+      "Juan Francisco Gombau Castellà",
+      "Gerardo Gombau Castellà"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1785].\n\nCasament: amb Felix Carbó Cartes de Tortosa [1785].\n\nFills: María [1806], José [1812], Francisca [1814], Vicente [1814] i Escolástica [1817].\n\nDefunció: el 20 de gener de 1819 a la Ràpita. Va morir als 34 anys. No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

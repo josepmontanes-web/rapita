@@ -1,0 +1,77 @@
+{
+  "id": "5285_miguel_timone_ballester",
+  "source_id": "5285",
+  "row_ref": "5285. Miguel Timoné Ballester",
+  "name": "Miguel Timoné Ballester",
+  "gender": "male",
+  "birth": {
+    "date": "1845-03-01",
+    "place": null
+  },
+  "death": {
+    "date": "1846-10-17",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5285_miguel_timone_ballester"
+    ],
+    "father": "5285_miguel_timone_ballester",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "5285_miguel_timone_ballester"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Timoné Ballester",
+      "Maria Ballester"
+    ],
+    "father_name": "Miguel Timoné",
+    "mother_name": "Maria Ballester",
+    "spouse_names": [],
+    "children_names": [
+      "Miguel Timoné Ballester"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1845]. \n\nDefunció: el 17 d'octubre de 1846 a la Ràpita. Va morir als 19 mesos de \"enfermedad crónica\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "1821_fernando_espinosa_benlloch",
+  "source_id": "1821",
+  "row_ref": "1821. Fernando Espinosa Benlloch",
+  "name": "Fernando Espinosa Benlloch",
+  "gender": "male",
+  "birth": {
+    "date": "1809-05-28",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Don Juan Espinosa Megia",
+      "Doña Mariana Benlloch Feu"
+    ],
+    "father_name": "Don Juan Espinosa Megia",
+    "mother_name": "Doña Mariana Benlloch Feu",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Agustín Fornesa",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 28 de maig de 1809 a la Ràpita.\n\nPadrins: Don Agustín Fornesa i Juana Espinosa (es germana).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

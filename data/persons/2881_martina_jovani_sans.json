@@ -1,0 +1,71 @@
+{
+  "id": "2881_martina_jovani_sans",
+  "source_id": "2881",
+  "row_ref": "2881. Martina Jovani Sans",
+  "name": "Martina Jovani Sans",
+  "gender": "female",
+  "birth": {
+    "date": "1833-11-11",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1833-11-25",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Antonio Jovani Grau",
+      "Francisca Sans Castells"
+    ],
+    "father_name": "José Antonio Jovani Grau",
+    "mother_name": "Francisca Sans Castells",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Balanzuela",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'11 de novembre de 1833 a la Ràpita.\n\nPadrins: José Balanzuela i Josefa María Fortanet.\n\nDefunció: el 25 de novembre de 1833 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

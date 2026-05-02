@@ -1,7 +1,7 @@
 {
   "id": "43_francisco_aguilar_rodriguez",
   "source_id": "43",
-  "row_ref": "43",
+  "row_ref": "43. Francisco Aguilar Rodríguez",
   "name": "Francisco Aguilar Rodríguez",
   "gender": "male",
   "birth": {
@@ -22,18 +22,44 @@
   },
   "family": {
     "parents": [],
-    "spouse": [],
-    "children": []
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "2929_ramona_llansola_vericad"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
   },
   "relations_detail": {
     "parents_names": [
       "José Aguilar",
       "Francisca Rodríguez"
     ],
+    "father_name": "José Aguilar",
+    "mother_name": "Francisca Rodríguez",
     "spouse_names": [
       "Ramona Llansola Vericad"
     ],
-    "children_names": []
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
   },
   "occupation": {
     "title": "\"Carabinero de la Hacienda Pública\"."

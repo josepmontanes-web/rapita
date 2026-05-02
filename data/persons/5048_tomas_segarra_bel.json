@@ -1,0 +1,90 @@
+{
+  "id": "5048_tomas_segarra_bel",
+  "source_id": "5048",
+  "row_ref": "5048. Tomàs Segarra Bel",
+  "name": "Tomàs Segarra Bel",
+  "gender": "male",
+  "birth": {
+    "date": "1776-01-01",
+    "place": "Ulldecona"
+  },
+  "death": {
+    "date": "1834-08-20",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5040_jose_segarra",
+      "545_pascuala_bel"
+    ],
+    "father": "5040_jose_segarra",
+    "mother": "545_pascuala_bel",
+    "spouse": [
+      "4092_antonia_pujol_munoz"
+    ],
+    "children": [
+      "5049_pablo_segarra_cartes",
+      "5070_casilda_segarra_puigol",
+      "5071_francisca_segarra_puigol",
+      "5073_maria_francisca_segarra_puchol",
+      "5074_manuel_segarra_puchol"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Segarra",
+      "Pascuala Bel"
+    ],
+    "father_name": "José Segarra",
+    "mother_name": "Pascuala Bel",
+    "spouse_names": [
+      "Antonia Pujol Muñoz"
+    ],
+    "children_names": [
+      "Pablo Segarra Cartes",
+      "Casilda Segarra Puigol",
+      "Francisca Segarra Puigol",
+      "Maria Francisca Segarra Puchol",
+      "Manuel Segarra Puchol"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Ulldecona [aprox. 1776]. \n\nCasament: el 4 de gener de 1799 amb Antonia Pujol Muñoz de Marçà [1775].\n\nFills: Casilda [1799], Tomás [1801], Francisca [1805], Francisca [1809] i Manuel [1811].\n\nDefunció: el 20 d'agost de 1834 a la Ràpita. Va morir a la Tancada als 58 anys.\n\nProfessió: pagès.\n\nDe l'1 de març de 1830 al 31 de juliol de 1839 ha de pagar un lloguer de 10 Rs mensuals pel pis alt de la dreta de la casa 1 del carrer del Forn. (AGP.PER.LEG.1073/23 [Juan Vecino]).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

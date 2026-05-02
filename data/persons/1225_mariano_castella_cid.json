@@ -1,0 +1,95 @@
+{
+  "id": "1225_mariano_castella_cid",
+  "source_id": "1225",
+  "row_ref": "1225. Mariano Castellà Cid",
+  "name": "Mariano Castellà Cid",
+  "gender": "male",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1341_mateo_castella_zaragoza"
+    ],
+    "father": "1341_mateo_castella_zaragoza",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1175_domingo_castella_balaguer",
+      "1176_juan_castella_balague",
+      "1177_maria_rosa_castella_balague",
+      "1178_mariano_castella_balague",
+      "1179_carlota_castella_balaguer",
+      "1180_jose_castella_balaguer",
+      "1181_carlina_castella_balague",
+      "1182_francisco_castella_balaguer",
+      "1183_mateo_castella_balaguer"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Mateo Castellà Zaragoza",
+      "Candida Cid o Mascorella"
+    ],
+    "father_name": "Mateo Castellà",
+    "mother_name": "Candida Cid o Mascorella",
+    "spouse_names": [
+      "Candia Balaguer Omedes"
+    ],
+    "children_names": [
+      "Domingo Castellà Balaguer",
+      "Juan Castellà Balagué",
+      "Maria Rosa Castellà Balagué",
+      "Mariano Castellà Balagué",
+      "Carlota Castellà Balaguer",
+      "José Castellà Balaguer",
+      "Carlina Castellà Balagué",
+      "Francisco Castellà Balaguer",
+      "Mateo Castellà Balaguer"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1790].\n\nSembla que la seva mare es diu Candida Cid però hi ha alguna partida on diu que la seva mare es diu Candida Mascorella. El seu pare es Mateo Castellà però no es segur que sigui Mateo Castellà Zaragoza.\n\nProfessió: pescador.\n\nCasament: amb Candia Balaguer Omedes [o Homedes] de Tortosa [1795].\n\nFills: José [1813], Carlina [1815], Francisco [1819], Mateo [1821], Domingo [1824], Carlota [1826], María Rosa [1828], Mariano [1830] i Juan [1832].\n\nVenta: de Mariano Castellá y Cid, propietario, a Vicente Ferrer y Nadal, labrador de Ulldecona, de sitio para edificar, es parte de aquella mayor heredad sita en los bajos de la población de San Carlos dicha la Dársena y cuya porción vendida comprende de extensión o de ancha por la parte de la calle del Mar o de Pescadores, carretera de la Encañizada, el número de 69 palmos que es para la parte del mediodía y de profundidad el número de 50 palmos. Linda por la parte de oriente con casa de Miguel Romeu y por la parte de poniente o del norte con su expresado restante terreno o hacienda. Con el pacto que de dichos 50 palmos de fondo sólo podrá obrar o edificar 46 y debiendo poner aún por dicha parte de detrás rejas en las puertas o ventanas; pudiendo empero echar aguas pluviales. 20 de enero de 1859. Esc. Juan Ventosa de Amposta. Valor 2584.\n\nVenta: de Mariano Castellá y Cid, propietario, a Jacinto Balaguer y Domenech, soguero, de sitio para edificar que comprende de ancho por la parte de la calle del Mar o de Pescadores, carretera de la Encañizada 24 palmos por 50 de fondo. Linda a oriente con terreno de Vicente Ferrer y Nadal, a mediodía con dicha calle o camino, a poniente con terreno vendido el mismo día a Bautista Castellá y al norte con su expresada restante hacienda. Con el pacto que de dichos 50 palmos de fondo sólo podrá obrar o edificar 46 y debiendo poner aún por dicha parte de detrás rejas en las puertas o ventanas; pudiendo empero echar aguas pluviales. 4 de febrero de 1859. Esc. Juan Ventosa de Amposta. Valor 900.\n\nVenta: de Mariano Castellá y Cid a Juan Bautista Castellá y Alegret, de sitio para edificar que comprende de ancho por la parte de la calle del Mar o de Pescadores, carretera de la Encañizada 50 palmos por 46 de fondo. Linda con Jacinto Balaguer, con camino de las huertas viejas y resto de su heredad. 4 de febrero de 1859. Esc. Juan Ventosa de Amposta. Valor 1750.\n\nDefunció: el 23 de desembre de 1878 a la Ràpita, als 89 anys de \"cistitis\". La seua dona té 86 anys. A la seua mor, la seua mare consta com a Candida Cid. Fa testament amb el notari Lorenzo Figueras d'Alcanar.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

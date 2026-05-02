@@ -1,0 +1,73 @@
+{
+  "id": "5616_lorenza_agueda_vines_grause",
+  "source_id": "5616",
+  "row_ref": "5616. Lorenza Agueda Viñes Grausé",
+  "name": "Lorenza Agueda Viñes Grausé",
+  "gender": "female",
+  "birth": {
+    "date": "1799-02-04",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5623_antonio_vines_sevilla"
+    ],
+    "father": "5623_antonio_vines_sevilla",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Viñes Sevilla",
+      "Lorenza Gauzé Bernis"
+    ],
+    "father_name": "Antonio Viñes Sevilla",
+    "mother_name": "Lorenza Gauzé Bernis",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Thomas Péris",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 4 de febrer de 1799 a la Ràpita.\n\nPadrins: Thomas Peris (tio) i Margalida Bernis.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

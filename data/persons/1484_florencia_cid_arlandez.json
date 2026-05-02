@@ -1,0 +1,76 @@
+{
+  "id": "1484_florencia_cid_arlandez",
+  "source_id": "1484",
+  "row_ref": "1484. Florencia Cid Arlández",
+  "name": "Florencia Cid Arlández",
+  "gender": "female",
+  "birth": {
+    "date": "1832-11-07",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1496_francisco_cid_ferrer",
+      "239_teresa_arlandez_cartes"
+    ],
+    "father": "1496_francisco_cid_ferrer",
+    "mother": "239_teresa_arlandez_cartes",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Cid Ferrer",
+      "Teresa Arlández Cartes"
+    ],
+    "father_name": "Francisco Cid Ferrer",
+    "mother_name": "Teresa Arlández Cartes",
+    "spouse_names": [
+      "Alejandro Reverté Izquierdo"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Francisco Bernis",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 7 de novembre de 1832 a la Ràpita.\n\nPadrins: José Francisco Bernis i María Dolores Tarragó.\n\nCasament: el 28 d'agost de 1852 amb Alejandro Reverté Izquierdo de la Ràpita [1830]. Testimonis: Miguel Izquierdo i José Guardia.\n\nFills: Francisco [1853] i María Josefa [1855].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

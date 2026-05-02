@@ -1,0 +1,74 @@
+{
+  "id": "3771_jose_antonio_palatsi_ciurana",
+  "source_id": "3771",
+  "row_ref": "3771. José Antonio Palatsí Ciurana",
+  "name": "José Antonio Palatsí Ciurana",
+  "gender": "male",
+  "birth": {
+    "date": "1834-08-04",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3769_jayme_palatsi_julve",
+      "1509_teresa_ciurana_llopis"
+    ],
+    "father": "3769_jayme_palatsi_julve",
+    "mother": "1509_teresa_ciurana_llopis",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Jayme Palatsí Julve",
+      "Teresa Ciurana Llopis"
+    ],
+    "father_name": "Jayme Palatsí Julve",
+    "mother_name": "Teresa Ciurana Llopis",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Rafael Ciurana",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 4 d'agost de 1834 a la Ràpita.\n\nPadrins: Rafael Ciurana i Bautista Muñóz.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

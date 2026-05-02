@@ -1,0 +1,72 @@
+{
+  "id": "3110_jose_marti",
+  "source_id": "3110",
+  "row_ref": "3110. José Martí",
+  "name": "José Martí",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Ripoll"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1546_eudalda_colomer"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Eudalda Colomer"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Dependent Resguard"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Ripoll [aprox. 1800]. \n\n\"Dependiente del Resguardo\".\n\nCasament: amb Eudalda Colomer de Ripoll [1800].\n\nFills: Eudalda Martí Colomer [1826] va morir a La Ràpita als 2 anys de \"enfermedad espasmódica\" el 31 de gener de 1828.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

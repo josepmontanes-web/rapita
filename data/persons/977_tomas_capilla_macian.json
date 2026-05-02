@@ -1,0 +1,86 @@
+{
+  "id": "977_tomas_capilla_macian",
+  "source_id": "977",
+  "row_ref": "977. Tomas Capilla Macián",
+  "name": "Tomas Capilla Macián",
+  "gender": "male",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Canales de Begís"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "973_jose_capilla",
+      "3056_josefa_macian"
+    ],
+    "father": "973_jose_capilla",
+    "mother": "3056_josefa_macian",
+    "spouse": [
+      "4345_serafina_reverter_sancho"
+    ],
+    "children": [
+      "980_jose_capilla_reverte",
+      "981_juan_bautista_capilla_reverte",
+      "982_tomas_capilla_reverter"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Capilla",
+      "Josefa Macián"
+    ],
+    "father_name": "José Capilla",
+    "mother_name": "Josefa Macián",
+    "spouse_names": [
+      "Serafina Reverter Sancho"
+    ],
+    "children_names": [
+      "José Capilla Reverté",
+      "Juan Bautista Capilla Reverté",
+      "Tomás Capilla Reverter"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: Canales de Bejís (Castelló) [aprox. 1790].\n\nCasament: el 26 de novembre de 1817 amb Serafina Reverter Sancho [1791].\n\nFills: Tomás [1825], José Juan [1826] i Juan Bautista [1829].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

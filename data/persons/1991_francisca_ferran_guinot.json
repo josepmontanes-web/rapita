@@ -1,0 +1,97 @@
+{
+  "id": "1991_francisca_ferran_guinot",
+  "source_id": "1991",
+  "row_ref": "1991. Francisca Ferran Guiñot",
+  "name": "Francisca Ferran Guiñot",
+  "gender": "female",
+  "birth": {
+    "date": "1775-01-01",
+    "place": "Riudoms"
+  },
+  "death": {
+    "date": "1837-01-13",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1990_pedro_ferran"
+    ],
+    "father": "1990_pedro_ferran",
+    "mother": null,
+    "spouse": [
+      "3021_francisco_lopez_pinol"
+    ],
+    "children": [
+      "2987_manuel_lopez_ferran",
+      "2988_maria_lopez_ferran",
+      "2989_miguel_lopez_ferran",
+      "2990_vicente_lopez_ferran",
+      "2991_ramon_lopez_ferran",
+      "2992_maria_rosa_concepcion_lopez_ferran",
+      "2993_lorenza_lopez_ferran",
+      "2994_antonia_lopez_ferran",
+      "2995_peregrina_lopez_ferran"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Ferran",
+      "Maria Guiñot"
+    ],
+    "father_name": "Pedro Ferran",
+    "mother_name": "Maria Guiñot",
+    "spouse_names": [
+      "Francisco López Piñol"
+    ],
+    "children_names": [
+      "Manuel López Ferran",
+      "María López Ferrán",
+      "Miguel López Ferràn",
+      "Vicente López Ferran",
+      "Ramón López Ferrán",
+      "María Rosa Concepción López Ferrán",
+      "Lorenza López Ferrán",
+      "Antonia López Ferrán",
+      "Peregrina López Ferrán"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Riudoms [aprox. 1775].\n\nCasament: el 31 d'agost de 1799 amb Francisco López Piñol d'Amposta [1762].\n\nFills: Vicente [1800], Manuel [1802], María [1805], Peregrina [1808], María Rosa Concepción [1810], Lorenza [1814], Antonia [1816] i Ramón [1818].\n\nDefunció: el 13 de gener de 1837 a la Ràpita. No fa testament.\n\nTé un germà que li diuen Pedro que també podria estar a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

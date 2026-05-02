@@ -1,0 +1,75 @@
+{
+  "id": "577_antonia_bellobi_berneda",
+  "source_id": "577",
+  "row_ref": "577. Antonia Bellobí Berneda",
+  "name": "Antonia Bellobí Berneda",
+  "gender": "female",
+  "birth": {
+    "date": "1831-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "5002_alvaro_sans_mies"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Bellobí",
+      "Ana Berneda"
+    ],
+    "father_name": "José Bellobí",
+    "mother_name": "Ana Berneda",
+    "spouse_names": [
+      "Alvaro Sans Míes"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1831].\n\nEs germana de Josefa Bellobí Berneda [1823].\n\nCasament: el 10 de setembre de 1853 amb Alvaro Sans Míes [1829]. Es va casar als 22 anys. Testimonis: Jaime Solà i Juan Aragonés.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

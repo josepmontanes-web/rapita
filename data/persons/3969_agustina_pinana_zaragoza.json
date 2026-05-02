@@ -1,0 +1,78 @@
+{
+  "id": "3969_agustina_pinana_zaragoza",
+  "source_id": "3969",
+  "row_ref": "3969. Agustina Piñana Zaragoza",
+  "name": "Agustina Piñana Zaragoza",
+  "gender": "female",
+  "birth": {
+    "date": "1832-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3959_domingo_pinana_omedes",
+      "5670_tomasa_zaragoza_omedes"
+    ],
+    "father": "3959_domingo_pinana_omedes",
+    "mother": "5670_tomasa_zaragoza_omedes",
+    "spouse": [
+      "1590_ramon_comi_pages"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Domingo Piñana Omedes",
+      "Tomasa Zaragoza Omedes"
+    ],
+    "father_name": "Domingo Piñana Omedes",
+    "mother_name": "Tomasa Zaragoza Omedes",
+    "spouse_names": [
+      "Ramón Comí Pagès"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1832]. \n\nCasament: el 9 de setembre de 1854 amb Ramón Comí Pagès de Tortosa [1831]. Es casa als 22 anys. Testimonis: José Vidal i Casimiro Míes.\n\nFills: Ramón [1871].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

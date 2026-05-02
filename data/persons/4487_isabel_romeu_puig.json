@@ -1,0 +1,73 @@
+{
+  "id": "4487_isabel_romeu_puig",
+  "source_id": "4487",
+  "row_ref": "4487. Isabel Romeu Puig",
+  "name": "Isabel Romeu Puig",
+  "gender": "female",
+  "birth": {
+    "date": "1816-11-26",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4485_jose_romeu_pla"
+    ],
+    "father": "4485_jose_romeu_pla",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Romeu Pla",
+      "Rosa Puig Granell"
+    ],
+    "father_name": "José Romeu Pla",
+    "mother_name": "Rosa Puig Granell",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Andrés Vinaros",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 26 de novembre de 1816 a la Ràpita.\n\nPadrins: Andrés Vinaròs i Isabel López.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

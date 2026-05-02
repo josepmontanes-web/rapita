@@ -1,0 +1,84 @@
+{
+  "id": "3712_maria_nogueron_badia",
+  "source_id": "3712",
+  "row_ref": "3712. María Noguerón Badia",
+  "name": "María Noguerón Badia",
+  "gender": "female",
+  "birth": {
+    "date": "1779-01-01",
+    "place": "Calella"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "309_teresa_badia_o_abadia_algolfa"
+    ],
+    "father": null,
+    "mother": "309_teresa_badia_o_abadia_algolfa",
+    "spouse": [
+      "2623_jose_gombau_cardona",
+      "1961_domingo_faccini_boyza"
+    ],
+    "children": [
+      "2641_jose_gombau_nogueron"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Noguerón Bella",
+      "Teresa Badia [o Abadia] Algolfa"
+    ],
+    "father_name": "Vicente Noguerón Bella",
+    "mother_name": "Teresa Badia Algolfa",
+    "spouse_names": [
+      "José Gombau Cardona",
+      "Vicente Alpera Bru",
+      "Domingo Faccini Boyza"
+    ],
+    "children_names": [
+      "José Gombau Noguerón"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Calella [aprox. 1779]. \n\nCasament: el 25 de juny de 1802 amb José Gombau Cardona de Vinaròs [1771].\n\nFills: José [1805].\n\nCasament: el 27 de febrer de 1808 amb Vicente Alpera Bru de la parròquia de San Andrés de València, els seus pares son Vicente i Gestrudis.\n\nFills: Francisco Houstin Vicente que naix a La Ràpita el 20 de novembre de 1807 i mor també a La Ràpita el 27 de gener de 1808.A la partida de defunció li diuen Agustín Vicente. Els padrins son Houstin Lafont i María Alifonso d'Alcañiz.\n\nCasament: el 16 de desembre de 1811 amb Domingo Faccini Boyza. Es casa als 32 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

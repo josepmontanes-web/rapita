@@ -1,0 +1,68 @@
+{
+  "id": "748_jose_boria_sancho",
+  "source_id": "748",
+  "row_ref": "748. José Boria Sancho",
+  "name": "José Boria Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1853-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1853].\n\nProfessió: pagès.\n\nCasament: l'11 de novembre de 1876 amb Catarina Sancho Rosales de la Ràpita [1842]. Es casa als 23 anys.\n\nFills: José Tomás [1877], José María [1879] i Vicente [1880].\n\nSap escriure, signa la declaració de naixement del fill al registre civil.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

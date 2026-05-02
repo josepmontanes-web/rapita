@@ -1,0 +1,83 @@
+{
+  "id": "3859_miguel_pedra_roca",
+  "source_id": "3859",
+  "row_ref": "3859. Miguel Pedra Roca",
+  "name": "Miguel Pedra Roca",
+  "gender": "male",
+  "birth": {
+    "date": "1805-01-01",
+    "place": "Penyiscola"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3854_miguel_pedra_boix"
+    ],
+    "father": "3854_miguel_pedra_boix",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "3855_miguel_andres_pedra_salomo",
+      "3856_sebastiana_pedra_salomo",
+      "3857_manuel_pedra_salomo"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Pedra Boix",
+      "Barbara Roca Aubiol"
+    ],
+    "father_name": "Miguel Pedra Boix",
+    "mother_name": "Barbara Roca Aubiol",
+    "spouse_names": [
+      "Maria Dolores Salamo Omedes"
+    ],
+    "children_names": [
+      "Miguel Andrés Pedra Salomó",
+      "Sebastiana Pedra Salomó",
+      "Manuel Pedra Salomó"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Peníscola [aprox. 1805]. \n\nCasament: el 24 de desembre de 1834 amb Dolores Salomó Homedes de Vinaròs [1811]. Es casa als 29 anys.\n\nFills: Miguel Andrés [1835], Sebastiana [1838] i Manuel [1841].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

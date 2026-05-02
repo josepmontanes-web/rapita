@@ -1,0 +1,75 @@
+{
+  "id": "2658_vicente_gonzalvez_arcis",
+  "source_id": "2658",
+  "row_ref": "2658. Vicente Gonzalvez Arcís",
+  "name": "Vicente Gonzalvez Arcís",
+  "gender": "male",
+  "birth": {
+    "date": "1772-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "4032_maria_prima_fibla"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Gonzálvez",
+      "Vicenta Arcís"
+    ],
+    "father_name": "José Gonzálvez",
+    "mother_name": "Vicenta Arcís",
+    "spouse_names": [
+      "Maria Prima Fibla"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1772].\n\nCasament: el 2 de març de 1822 amb María Prima Fibla.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

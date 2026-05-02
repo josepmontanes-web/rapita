@@ -1,0 +1,78 @@
+{
+  "id": "1165_salvador_castella",
+  "source_id": "1165",
+  "row_ref": "1165. Salvador Castellà",
+  "name": "Salvador Castellà",
+  "gender": "male",
+  "birth": {
+    "date": "1770-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1338_salvador_castella_vilas",
+      "1339_antonio_castella_vilas",
+      "1340_maria_francisca_castella_vilas"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "María Antonia Vilàs o Vilaró"
+    ],
+    "children_names": [
+      "Salvador Castellà Vilàs",
+      "Antonio Castellà Vilàs",
+      "María Francisca Castellà Vilàs"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1770].\n\nCasament: amb María Antonia Vilàs [o Vilaró] de Tortosa.\n\nFills: Salvador (Tortosa) [1790], Antonio (Tortosa) [1790] i María Francisca (Tortosa) [1790].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

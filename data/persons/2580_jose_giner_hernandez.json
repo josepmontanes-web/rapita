@@ -1,0 +1,74 @@
+{
+  "id": "2580_jose_giner_hernandez",
+  "source_id": "2580",
+  "row_ref": "2580. José Giner Hernández",
+  "name": "José Giner Hernández",
+  "gender": "male",
+  "birth": {
+    "date": "1793-05-21",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1794-12-09",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2569_salvador_giner_ferran",
+      "264_rosa_hernandez_o_arlandez_pla"
+    ],
+    "father": "2569_salvador_giner_ferran",
+    "mother": "264_rosa_hernandez_o_arlandez_pla",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Salvador Giner Ferrán",
+      "Rosa Hernández [o Arlández] Pla"
+    ],
+    "father_name": "Salvador Giner Ferràn",
+    "mother_name": "Rosa Hernández Pla",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Josef Reverter",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 21 de maig de 1793 a la Ràpita.\n\nPadrins: José Reverter i Teresa Albesa.\n\nDefunció: el 9 de desembre de 1794 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

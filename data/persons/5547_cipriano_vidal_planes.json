@@ -1,0 +1,73 @@
+{
+  "id": "5547_cipriano_vidal_planes",
+  "source_id": "5547",
+  "row_ref": "5547. Cipriano Vidal Planes",
+  "name": "Cipriano Vidal Planes",
+  "gender": "male",
+  "birth": {
+    "date": "1832-09-25",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1834-05-24",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5500_francisco_vidal_beltran"
+    ],
+    "father": "5500_francisco_vidal_beltran",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Vidal Beltran",
+      "Francisca Planes Govern"
+    ],
+    "father_name": "Francisco Vidal Beltran",
+    "mother_name": "Francisca Planes Govern",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Agustín Peris",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 25 de setembre de 1832 a la Ràpita.\n\nPadrins: Agustín Peris i Rafaaela Verge.\n\nDefunció: el 24 de maig de 1834 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

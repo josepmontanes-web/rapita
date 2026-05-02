@@ -1,0 +1,71 @@
+{
+  "id": "2795_rafaela_homedes_moreso",
+  "source_id": "2795",
+  "row_ref": "2795. Rafaela Homedes Moreso",
+  "name": "Rafaela Homedes Moreso",
+  "gender": "female",
+  "birth": {
+    "date": "1826-08-13",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Domingo Homedes Domingo",
+      "Teresa Moreso Barberá"
+    ],
+    "father_name": "Domingo Homedes Domingo",
+    "mother_name": "Teresa Moreso Barberá",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Jaime Balagué",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 13 d'agost de 1826 a la Ràpita.\n\nPadrins: Jaime Balagué i Rafaela Verche.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

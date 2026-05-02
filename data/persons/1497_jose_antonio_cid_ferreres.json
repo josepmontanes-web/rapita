@@ -1,0 +1,73 @@
+{
+  "id": "1497_jose_antonio_cid_ferreres",
+  "source_id": "1497",
+  "row_ref": "1497. Jose Antonio. Cid Ferreres",
+  "name": "Jose Antonio. Cid Ferreres",
+  "gender": "male",
+  "birth": {
+    "date": "1780-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Don Nicolás Cid",
+      "Doña Rosalea Ferreres"
+    ],
+    "father_name": "Don Nicolás Cid",
+    "mother_name": "Doña Rosalea Ferreres",
+    "spouse_names": [
+      "Dª. Antonia Gil Santaló de Zaragoza"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Conservador"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1780].\n\n\"Conservador de las Reales Obras\", entre 1814 i 1822 viu a una casa de la \"mançana\" [casa 3](que limita pel davant amb la plaça i pel darrera amb el jardí botànic).\n\nCasament: amb Doña Antonia Gil Santaló de Zaragoza [1790].\n\nFills: Felipa [1816], Agustín Ignacio [1820] i Ruperto Nicolás [1820].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

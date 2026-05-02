@@ -1,0 +1,78 @@
+{
+  "id": "1360_francisco_cavaller",
+  "source_id": "1360",
+  "row_ref": "1360. Francisco Cavaller",
+  "name": "Francisco Cavaller",
+  "gender": "male",
+  "birth": {
+    "date": "1740-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1366_rosa_cavaller_roig",
+      "1367_jose_antonio_cavaller_roig",
+      "1368_maria_francisca_cavaller_roig"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Ana Roig"
+    ],
+    "children_names": [
+      "Rosa Cavaller Roig",
+      "José Antonio Cavaller Roig",
+      "María Francisca Cavaller Roig"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1740].\n\nCasament: amb Ana Roig de Tortosa.\n\nFills: María Francisca (Tortosa) [1766], José Antonio (Tortosa) [1769] i Rosa (Tortosa) [1775].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

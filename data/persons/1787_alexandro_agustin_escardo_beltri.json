@@ -1,0 +1,71 @@
+{
+  "id": "1787_alexandro_agustin_escardo_beltri",
+  "source_id": "1787",
+  "row_ref": "1787. Alexandro Agustín Escardó Beltri",
+  "name": "Alexandro Agustín Escardó Beltri",
+  "gender": "male",
+  "birth": {
+    "date": "1813-10-16",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Escardó Domingo",
+      "Josefa Maria Beltri Bedós"
+    ],
+    "father_name": "Bautista Escardó Domingo",
+    "mother_name": "Josefa Maria Beltri Bedós",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Manuel",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 16 d'octubre de 1813 a la Ràpita.\n\nPadrins: Manuel i Raymunda Cortiella.\n\nEs cosí de Dolores Piñana Escardó [1811].\n\nLa mare es germana d'Alexandro Beltri Bedós [1786].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

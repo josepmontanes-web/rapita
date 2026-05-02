@@ -1,0 +1,68 @@
+{
+  "id": "893_jose_cabanes_biosca",
+  "source_id": "893",
+  "row_ref": "893. José Cabanes Biosca",
+  "name": "José Cabanes Biosca",
+  "gender": "male",
+  "birth": {
+    "date": "1853-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1853].\n\nProfessió: pagès i pastor.\n\nCasament: el 28 d'agost 1873 amb Rosa Beltran Esbrí de la Ràpita [1852]. Es casa als 20 anys.\n\nFills: José [1876], Miguel [1877], Teresa [1879], Miguel [1880] i Rafael [1881]. Més fills: Juan, Agustín que son ramaders.\n\nNo signa la declaració de naixement dels fills al registre civil per no saber.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

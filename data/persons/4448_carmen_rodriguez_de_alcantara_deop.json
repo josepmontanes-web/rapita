@@ -1,0 +1,71 @@
+{
+  "id": "4448_carmen_rodriguez_de_alcantara_deop",
+  "source_id": "4448",
+  "row_ref": "4448. Carmen Rodríguez de Alcántara Deop",
+  "name": "Carmen Rodríguez de Alcántara Deop",
+  "gender": "female",
+  "birth": {
+    "date": "1817-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1821-07-28",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Don Juan Rodríguez de Alcántara",
+      "Doña Eudalda Deop"
+    ],
+    "father_name": "Don Juan Rodríguez de Alcántara",
+    "mother_name": "Doña Eudalda Deop",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1817]. \n\nDefunció: el 28 de juliol de 1821 a la Ràpita. Va morir als 4 anys i 8 mesos.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

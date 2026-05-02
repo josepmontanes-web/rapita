@@ -1,0 +1,79 @@
+{
+  "id": "258_jose_arlandez_o_arlandes_homedes",
+  "source_id": "258",
+  "row_ref": "258. José Arlández [o Arlandes] Homedes",
+  "name": "José Arlández [o Arlandes] Homedes",
+  "gender": "male",
+  "birth": {
+    "date": "1777-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1831-03-11",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "242_maria_francisca_arlandez_o_herlandes_castella",
+      "3950_dolores_pinana_escardo"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Arlandes",
+      "Gertrudis Homedes"
+    ],
+    "father_name": "José Arlandes",
+    "mother_name": "Gertrudis Homedes",
+    "spouse_names": [
+      "Francisca Castellà Calderó"
+    ],
+    "children_names": [
+      "María Francisca Arlández [o Herlandes] Castellà",
+      "Dolores Piñana Escardó"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  a Tortosa [aprox. 1777].\n\nProfessió: pescador.\n\nCasament: amb Francisca Castellà Calderó de Tortosa [1785].\n\nFills: María Francisca [1812], José Manuel [1815] i Juan Bautista [aprox 1822].\n\nDefunció: el 11 de març de 1831 a la Ràpita. Va morir als 54 anys de \"inflamación\". No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

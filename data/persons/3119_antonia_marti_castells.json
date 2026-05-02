@@ -1,0 +1,87 @@
+{
+  "id": "3119_antonia_marti_castells",
+  "source_id": "3119",
+  "row_ref": "3119. Antonia Martí Castells",
+  "name": "Antonia Martí Castells",
+  "gender": "female",
+  "birth": {
+    "date": "1815-01-01",
+    "place": "Peníscola"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3109_jose_marti"
+    ],
+    "father": "3109_jose_marti",
+    "mother": null,
+    "spouse": [
+      "3619_juan_navarro_comi"
+    ],
+    "children": [
+      "3649_maria_navarro_marti",
+      "3650_juan_vicente_navarro_marti",
+      "3651_cecilia_mariana_navarro_marti",
+      "3652_manuel_navarro_marti"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Martí",
+      "Antonia Castells"
+    ],
+    "father_name": "José Martí",
+    "mother_name": "Antonia Castells",
+    "spouse_names": [
+      "Juan Navarro Comí"
+    ],
+    "children_names": [
+      "Maria Navarro Martí",
+      "Juan Vicente Navarro Martí",
+      "Cecilia Mariana Navarro Martí",
+      "Manuel Navarro Martí"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Peníscola [aprox. 1815]. \n\nCasament: amb Juan Navarro Comí de la Ràpita [1814].\n\nFills: María [1832], Juan Vicente [1835], Cecilia [1841], Manuel [1843], Agustín [1850], José [1850] i Providencia [1857].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

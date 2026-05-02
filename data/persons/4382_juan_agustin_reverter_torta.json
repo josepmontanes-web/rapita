@@ -1,0 +1,73 @@
+{
+  "id": "4382_juan_agustin_reverter_torta",
+  "source_id": "4382",
+  "row_ref": "4382. Juan Agustín Reverter Torta",
+  "name": "Juan Agustín Reverter Torta",
+  "gender": "male",
+  "birth": {
+    "date": "1842-07-15",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4307_mateo_reverter_obiol"
+    ],
+    "father": "4307_mateo_reverter_obiol",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Mateo Reverter Obiol",
+      "Josefa Torta Subirats"
+    ],
+    "father_name": "Mateo Reverter Obiol",
+    "mother_name": "Josefa Torta Subirats",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Agustín Torta",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 15 de juliol de 1842 a la Ràpita.\n\nPadrins: Agustín Torta i Bárbara Torta.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

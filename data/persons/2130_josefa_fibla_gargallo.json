@@ -1,0 +1,93 @@
+{
+  "id": "2130_josefa_fibla_gargallo",
+  "source_id": "2130",
+  "row_ref": "2130. Josefa Fibla Gargallo",
+  "name": "Josefa Fibla Gargallo",
+  "gender": "female",
+  "birth": {
+    "date": "1772-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1837-02-01",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "613_joaquin_beltran_fibla"
+    ],
+    "father": "613_joaquin_beltran_fibla",
+    "mother": null,
+    "spouse": [
+      "1006_antonio_carbo_pons",
+      "2075_francisco_ferre_sanchez"
+    ],
+    "children": [
+      "1001_manuel_santos_carbo_fibla",
+      "1002_thadea_carbo_fibla",
+      "1003_juan_carbo_fibla",
+      "1004_teresa_carbo_fibla",
+      "2038_francisca_ferre_fibla",
+      "2039_andres_gabriel_ferre_fibla"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Beltran Fibla",
+      "Rosa Gargallo"
+    ],
+    "father_name": "Joaquín Fibla",
+    "mother_name": "Rosa Gargallo",
+    "spouse_names": [
+      "Antonio Carbó Pons",
+      "Francisco Ferré Sánchez"
+    ],
+    "children_names": [
+      "Manuel Santos Carbó Fibla",
+      "Thadea Carbó Fibla",
+      "Juan Carbó Fibla",
+      "Teresa Carbó Fibla",
+      "Francisca Ferré Fibla",
+      "Andrés Gabriel Ferré Fibla"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1772].\n\nCasament: amb Antonio Carbó Pons de Cabanes (Castelló) [1770].\n\nFills: Teresa (Amposta) [1788], Juan (Amposta) [1789], Thadea [1791] i Manuel Santos [1794].\n\nCasament: a Amposta el 28 de març de 1798 amb Francisco Ferré Sánchez d'Alcanar [o d'Amposta] [1748]. \n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viuen a una casa al costat de l'esglesia vella. Al gener de 1799 paga un lloguer de 4 Rv a Patrimoni.\n\nFills: Manuel [1799], Francisca [1801] i Andrés Gabriel [1806].\n\nDefunció: l'1 de febrer de 1837 a la Ràpita. Va morir als 65 anys. No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

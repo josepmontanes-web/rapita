@@ -1,0 +1,74 @@
+{
+  "id": "5378_jose_torta_reverter",
+  "source_id": "5378",
+  "row_ref": "5378. José Torta Reverter",
+  "name": "José Torta Reverter",
+  "gender": "male",
+  "birth": {
+    "date": "1841-11-27",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5395_lorenzo_torta_subirats",
+      "4292_rafaela_reverter_jovani"
+    ],
+    "father": "5395_lorenzo_torta_subirats",
+    "mother": "4292_rafaela_reverter_jovani",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Lorenzo Torta Subirats",
+      "Rafaela Reverter Jovani"
+    ],
+    "father_name": "Lorenzo Torta Subirats",
+    "mother_name": "Rafaela Reverter Jovani",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Torta",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 27 de novembre de 1841 a la Ràpita.\n\nPadrins: José Torta i Teresa Sanches.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

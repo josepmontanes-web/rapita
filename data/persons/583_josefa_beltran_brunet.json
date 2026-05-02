@@ -1,0 +1,84 @@
+{
+  "id": "583_josefa_beltran_brunet",
+  "source_id": "583",
+  "row_ref": "583. Josefa Beltran Brunet",
+  "name": "Josefa Beltran Brunet",
+  "gender": "female",
+  "birth": {
+    "date": "1817-10-17",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "631_domingo_beltran_querol",
+      "860_rosa_brunet_monllao"
+    ],
+    "father": "631_domingo_beltran_querol",
+    "mother": "860_rosa_brunet_monllao",
+    "spouse": [
+      "3678_jose_navarro_sol",
+      "4919_jose_sancho_querol"
+    ],
+    "children": [
+      "3607_teresa_navarro_beltran"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Domingo Beltrán Querol",
+      "Rosa Brunet Monllaó"
+    ],
+    "father_name": "Domingo Beltran Querol",
+    "mother_name": "Rosa Brunet Monllaó",
+    "spouse_names": [
+      "José Navarro Sol",
+      "José Sancho Querol"
+    ],
+    "children_names": [
+      "Teresa Navarro Beltrán"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Serranía",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 17 d'octubre de 1817 a la Ràpita.\n\nPadrins: Francisco Serranía i Josefa María Navarro de Traiguera.\n\nCasament: el 30 d'octubre de 1841 amb José Navarro Sol de la Ràpita [1815].\n\nFills: Teresa [1843].\n\nCasament: el 30 d'octubre de 1853 amb José Sancho Querol d'Alcanar [1805].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

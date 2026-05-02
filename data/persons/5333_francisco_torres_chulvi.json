@@ -1,0 +1,73 @@
+{
+  "id": "5333_francisco_torres_chulvi",
+  "source_id": "5333",
+  "row_ref": "5333. Francisco Torres Chulvi",
+  "name": "Francisco Torres Chulvi",
+  "gender": "male",
+  "birth": {
+    "date": "1823-03-03",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1823-03-05",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5335_joaquin_torres_serret"
+    ],
+    "father": "5335_joaquin_torres_serret",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Torres Serret",
+      "Teresa Chulvi Serrania"
+    ],
+    "father_name": "Joaquín Torres Serret",
+    "mother_name": "Teresa Chulvi Serrania",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Serrania",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 3 de març de 1823 a la Ràpita.\n\nPadrins: Francisco Serrania i Rosa Torres.\n\nDefunció: el 5 de març de 1823 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

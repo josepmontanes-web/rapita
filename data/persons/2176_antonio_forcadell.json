@@ -1,0 +1,68 @@
+{
+  "id": "2176_antonio_forcadell",
+  "source_id": "2176",
+  "row_ref": "2176. Antonio Forcadell",
+  "name": "Antonio Forcadell",
+  "gender": "male",
+  "birth": {
+    "date": "1728-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1813-04-08",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1728].\n\nA l'estat de veïns de la Població de San Carlos  a 1 de setembre de 1798 consta que es empleat de sanitat i viu a la mateixa casa que José Antonio Pasqual (ACA BGRP caixa 34).\n\nDefunció: el 8 d'abril de 1813 a la Ràpita. Va morir als 85 anys. La seva dona ja era morta.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

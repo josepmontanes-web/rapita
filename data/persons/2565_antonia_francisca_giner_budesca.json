@@ -1,0 +1,73 @@
+{
+  "id": "2565_antonia_francisca_giner_budesca",
+  "source_id": "2565",
+  "row_ref": "2565. Antonia Francisca Giner Budesca",
+  "name": "Antonia Francisca Giner Budesca",
+  "gender": "female",
+  "birth": {
+    "date": "1794-12-26",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1804-12-20",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "881_maria_budesca_fibla"
+    ],
+    "father": null,
+    "mother": "881_maria_budesca_fibla",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Antonio Giner Ferrán",
+      "María Budesca Fibla"
+    ],
+    "father_name": "Josef Antonio Giner Ferrán",
+    "mother_name": "Maria Budesca Fibla",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Gaspari",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 26 de desembre de 1794 a la Ràpita.\n\nPadrí: Francisco Gaspari.\n\nDefunció: el 20 de desembre de 1804 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

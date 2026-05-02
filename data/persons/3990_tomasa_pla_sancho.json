@@ -1,0 +1,77 @@
+{
+  "id": "3990_tomasa_pla_sancho",
+  "source_id": "3990",
+  "row_ref": "3990. Tomasa Pla Sancho",
+  "name": "Tomasa Pla Sancho",
+  "gender": "female",
+  "birth": {
+    "date": "1776-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1821-11-22",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3978_jayme_pla"
+    ],
+    "father": "3978_jayme_pla",
+    "mother": null,
+    "spouse": [
+      "4853_pedro_sancho_biosca"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Jayme Pla",
+      "María Sancho"
+    ],
+    "father_name": "Jayme Pla",
+    "mother_name": "María Sancho",
+    "spouse_names": [
+      "Pedro Sancho Biosca"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1776]. \n\nCasament: Pedro Sancho Biosca d'Alcanar [1775].\n\nFills: Raymunda [1803], Francisca [1805] i Tomasa [1805].\n\nDefunció: el 22 de novembre de 1821 a la Ràpita. Va morir als 45 anys de \"ataque aplopético\". No fa testament. Ja era vidua.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

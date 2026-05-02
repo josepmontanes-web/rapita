@@ -1,0 +1,75 @@
+{
+  "id": "1495_maria_cinta_cid_ferrer",
+  "source_id": "1495",
+  "row_ref": "1495. María Cinta Cid Ferrer",
+  "name": "María Cinta Cid Ferrer",
+  "gender": "female",
+  "birth": {
+    "date": "1798-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1838-09-22",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "266_tomas_arlandez_riba"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Cid",
+      "Teresa Ferrer"
+    ],
+    "father_name": "Francisco Cid",
+    "mother_name": "Teresa Ferrer",
+    "spouse_names": [
+      "Tomás Arlández Riba"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1798].\n\nCasament: amb Tomás Arlández Riba de Tortosa [1767].\n\nFills: Tomás (Tortosa) [aprox 1820], Juana María [1821], Engracia [1823], Ramón [1825], Juan Bautista 1828], Lorenza [1831], Lorenzo [1831] i Tomasa 1834].\n\nDefunció: el 22 de setembre de 1838 a la Ràpita. Va morir als 40 anys. No fa testament.\n\nEs germana de Francisco Cid Ferrer [1790]. També podria ser germana de Teresa.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

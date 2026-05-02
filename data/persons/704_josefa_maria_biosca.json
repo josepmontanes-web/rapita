@@ -1,0 +1,80 @@
+{
+  "id": "704_josefa_maria_biosca",
+  "source_id": "704",
+  "row_ref": "704. Josefa María Biosca",
+  "name": "Josefa María Biosca",
+  "gender": "female",
+  "birth": {
+    "date": "1757-01-01",
+    "place": "Freginals"
+  },
+  "death": {
+    "date": "1832-01-28",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "4899_joaquin_sancho_matamoros"
+    ],
+    "children": [
+      "4853_pedro_sancho_biosca",
+      "4854_josefa_sancho_biosca",
+      "4855_jose_sancho_biosca"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Joaquín Sancho Matamoros"
+    ],
+    "children_names": [
+      "Pedro Sancho Biosca",
+      "Josefa Sancho Biosca",
+      "José Sancho Biosca"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Freginals [aprox. 1757].\n\nCasament: amb Joaquín Sancho Matamoros d'Alcanar [1758].\n\nFills: Pedro (Alcanar) [1775], Josefa (Alcanar) [1789] i José (Alcanar) [1791].\n\nA l'estat de veïns de setembre de 1798 diu que viuen a la casa núm. 7 de la \"Calle Mayor\" (ACA BGRP Cajas 34).\n\nDefunció: el 28 de gener de 1832 a la Ràpita. Va morir als 75 anys d'apoplexia. \"Hace testamento ante el cura\". \"Se cumplió el bien de almas en 48 Rs. vllon.\"",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

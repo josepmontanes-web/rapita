@@ -1,0 +1,74 @@
+{
+  "id": "1199_estevan_castella_cachot",
+  "source_id": "1199",
+  "row_ref": "1199. Estevan Castellà Cachot",
+  "name": "Estevan Castellà Cachot",
+  "gender": "male",
+  "birth": {
+    "date": "1830-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1832-09-30",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1211_ramon_castella_caldero",
+      "921_francisca_cachot_cartes"
+    ],
+    "father": "1211_ramon_castella_caldero",
+    "mother": "921_francisca_cachot_cartes",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Ramon Castellà Calderó",
+      "Francisca Cachot Cartes"
+    ],
+    "father_name": "Ramon Castellà Calderó",
+    "mother_name": "Francisca Cachot Cartes",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1830].\n\nDefunció: el 30 de setembre de 1832 a la Ràpita. Va morir quan tenia 2 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

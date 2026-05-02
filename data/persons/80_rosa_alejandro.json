@@ -1,0 +1,68 @@
+{
+  "id": "80_rosa_alejandro",
+  "source_id": "80",
+  "row_ref": "80. Rosa Alejandro",
+  "name": "Rosa Alejandro",
+  "gender": "female",
+  "birth": {
+    "date": "1750-01-01",
+    "place": "Beceite"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Beceite [aprox. 1750].\n\nCasament: amb Don Pedro Mir de Barcelona [1740].\n\nFills: Antonia (Barcelona) [1770] i Pedro [1792].\n\nA l'estat de veïns de setembre de 1798 diu que viu a la casa núm. 1 de la \"Calle Mayor\" amb la seva filla i el seu gendre (ACA BGRP Cajas 34).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

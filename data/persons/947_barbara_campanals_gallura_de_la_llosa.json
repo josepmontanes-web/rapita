@@ -1,0 +1,75 @@
+{
+  "id": "947_barbara_campanals_gallura_de_la_llosa",
+  "source_id": "947",
+  "row_ref": "947. Bárbara Campanals Gallura de la Llosa",
+  "name": "Bárbara Campanals Gallura de la Llosa",
+  "gender": "female",
+  "birth": {
+    "date": "1747-01-01",
+    "place": "Maella"
+  },
+  "death": {
+    "date": "1801-09-29",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1716_antonio_diago"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Campanals",
+      "Ana Gallura de la Llosa"
+    ],
+    "father_name": "Francisco Campanals",
+    "mother_name": "Ana Gallura de la Llosa",
+    "spouse_names": [
+      "Antonio Diago"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Maella [aprox. 1747].\n\nCasament: amb Antonio Diago de Maella [1741].\n\nFills: Joaquín (Maella) [1773], Pablo [1775] i Pascual (Maella) [1778].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Mansana Vella (carrer del Forn) núm. 22 (ACA BGRP Cajas 34).\n\nDefunció: el 29 de setembre de 1801 a la Ràpita. Fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

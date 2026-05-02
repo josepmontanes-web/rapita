@@ -1,0 +1,74 @@
+{
+  "id": "1198_ignacio_castella_cachot",
+  "source_id": "1198",
+  "row_ref": "1198. Ignacio Castellà Cachot",
+  "name": "Ignacio Castellà Cachot",
+  "gender": "male",
+  "birth": {
+    "date": "1826-12-04",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1826-12-12",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1211_ramon_castella_caldero",
+      "921_francisca_cachot_cartes"
+    ],
+    "father": "1211_ramon_castella_caldero",
+    "mother": "921_francisca_cachot_cartes",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Ramon Castellà Calderó",
+      "Francisca Cachot Cartes"
+    ],
+    "father_name": "Ramón Castellà Calderó",
+    "mother_name": "Francisca Cachot Cartes",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Escardo",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 4 de desembre de 1826 a la Ràpita.\n\nPadrins: José Escardó i Doña María Ignacia Prats.\n\nDefunció: el 12 de desembre de 1826 a la Ràpita. Va morir de \"espasmo\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

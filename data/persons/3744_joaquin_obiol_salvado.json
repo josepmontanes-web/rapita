@@ -1,0 +1,73 @@
+{
+  "id": "3744_joaquin_obiol_salvado",
+  "source_id": "3744",
+  "row_ref": "3744. Joaquín Obiol Salvadó",
+  "name": "Joaquín Obiol Salvadó",
+  "gender": "male",
+  "birth": {
+    "date": "1840-12-25",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3745_jose_antonio_obiol_o_albiol_viscarro"
+    ],
+    "father": "3745_jose_antonio_obiol_o_albiol_viscarro",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Antonio Obiol [o Albiol] Viscarro",
+      "Antonia Salvadó Planes"
+    ],
+    "father_name": "José Antonio Obiol Viscarro",
+    "mother_name": "Antonia Salvadó Planes",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Joaquín Muños",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 25 de desembre de 1840 a la Ràpita.\n\nPadrins: Joaquín Muños i Candia Balagué.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "4437_domingo_roca_martinez",
+  "source_id": "4437",
+  "row_ref": "4437. Domingo Roca Martínez",
+  "name": "Domingo Roca Martínez",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Vinaroz"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3153_juan_mascarell_roca"
+    ],
+    "father": "3153_juan_mascarell_roca",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Mascarell Roca",
+      "Mariana Martínez"
+    ],
+    "father_name": "Juan Roca",
+    "mother_name": "Mariana Martínez",
+    "spouse_names": [
+      "Josefa Fornesa Prados"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1800]. \n\nCasament: el 4 de març de 1826 amb Josefa Fornesa Prado de Ulloa de la Ràpita [1804].\n\nPodria ser germà de Vicenta Roca Molits , muller de José Fornesa Prado de Ulloa [1790].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

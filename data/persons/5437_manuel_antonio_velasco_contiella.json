@@ -1,0 +1,71 @@
+{
+  "id": "5437_manuel_antonio_velasco_contiella",
+  "source_id": "5437",
+  "row_ref": "5437. Manuel Antonio Velasco Contiella",
+  "name": "Manuel Antonio Velasco Contiella",
+  "gender": "male",
+  "birth": {
+    "date": "1821-12-11",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Don Roque Velasco Arnaiz",
+      "Raymunda Cortiella Querol"
+    ],
+    "father_name": "Don Roque Velasco Arnaiz",
+    "mother_name": "Raymunda Cortiella Querol",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Manuel Izquierdo",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'11 de desembre de 1821 a la Ràpita.\n\nPadrins: Manuel Izquierdo i Josefa Antonia Fornesa.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

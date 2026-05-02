@@ -1,0 +1,79 @@
+{
+  "id": "740_francisco_boira_jorda",
+  "source_id": "740",
+  "row_ref": "740. Francisco Boira Jordà",
+  "name": "Francisco Boira Jordà",
+  "gender": "male",
+  "birth": {
+    "date": "1792-04-11",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "740_francisco_boira_jorda"
+    ],
+    "father": "740_francisco_boira_jorda",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "740_francisco_boira_jorda"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Boira Jordà",
+      "María Jordà"
+    ],
+    "father_name": "Francisco Boira",
+    "mother_name": "María Jordà",
+    "spouse_names": [
+      "Fcª. Antonia Borràs Brunet"
+    ],
+    "children_names": [
+      "Francisco Boira Jordà"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Francisco Stopanni",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'11 d'abril de 1792 a la Ràpita.\n\nPadrins: Don Francisco Stopanni i Isabel Corch.\n\nCasament: el 18 de novembre de 1819 amb Francisca Antonia Borràs Brunet de Xerta [1800].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

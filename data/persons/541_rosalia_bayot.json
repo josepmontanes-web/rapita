@@ -1,0 +1,74 @@
+{
+  "id": "541_rosalia_bayot",
+  "source_id": "541",
+  "row_ref": "541. Rosalia Bayot",
+  "name": "Rosalia Bayot",
+  "gender": "female",
+  "birth": {
+    "date": "1770-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2865_pedro_jornet_bayot"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Gregorio Jornet"
+    ],
+    "children_names": [
+      "Pedro Jornet Bayot"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  [aprox. 1770].\n\nCasament: amb Gregorio Jornet.\n\nFills: Pedro Jornet Bayot naix a la Ràpita el 19 de juliol de 1793. Els padrins son Pedro Ferran Guinot i Casilda Guasch.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

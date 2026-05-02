@@ -1,0 +1,76 @@
+{
+  "id": "4343_jose_reverter_sancho",
+  "source_id": "4343",
+  "row_ref": "4343. José Reverter Sancho",
+  "name": "José Reverter Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1787-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1832-09-24",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4173_jose_reverter",
+      "4825_rosa_sancho"
+    ],
+    "father": "4173_jose_reverter",
+    "mother": "4825_rosa_sancho",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Reverter",
+      "Rosa Sancho"
+    ],
+    "father_name": "José Reverter",
+    "mother_name": "Rosa Sancho",
+    "spouse_names": [
+      "Ceferina Balaguer Esteller"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1787]. \n\nProfessió: pagès.\n\nCasament: amb Ceferina [o Sevina] Balaguer Esteller d'Alcanar [1777].\n\nFills: María [1807], Vicenta [1810], Lorenza [1812], Rosa [1816] i Josefa [1819].\n\nDefunció: el 24 de setembre de 1832 a la Ràpita. Va morir als 45 anys. No fa testament. \"Dotó su alma en 120 Reales vellón\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "id": "2839_juan_izquierdo_carceller",
+  "source_id": "2839",
+  "row_ref": "2839. Juan Izquierdo Carceller",
+  "name": "Juan Izquierdo Carceller",
+  "gender": "male",
+  "birth": {
+    "date": "1769-01-01",
+    "place": "Arnés"
+  },
+  "death": {
+    "date": "1812-03-16",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2847_pablo_izquierdo_chillida"
+    ],
+    "father": "2847_pablo_izquierdo_chillida",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2857_jose_antonio_izquierdo_saperas",
+      "2858_maria_izquierdo_saperas",
+      "2859_manuel_izquierdo_saperas",
+      "2860_agustin_izquierdo_saperas"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pablo Izquierdo Chillida",
+      "Antonia Carceller"
+    ],
+    "father_name": "Pablo Izquierdo",
+    "mother_name": "Antonia Carceller",
+    "spouse_names": [
+      "Rosa Saperas Rauera"
+    ],
+    "children_names": [
+      "José Antonio Izquierdo Saperas",
+      "María Izquierdo Saperas",
+      "Manuel Izquierdo Saperas",
+      "Agustín Izquierdo Saperas"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Arnes [aprox. 1769].\n\nCasament: amb Rosa Saperas Rauera de Vila-rodona (Tarragona) [1769]. A l'estat de veïns de la Població de San Carlos  a 1 de setembre de 1798 consta que viuen a una casa d'empleats de sanitat  (ACA BGRP caixa 34).\n\nFills: José Antonio [1789], María [1792], Manuel [1793] i Agustín [1799].\n\nAl \"estado de vecinos\" de setembre de 1798 diu que es empleat de sanitat (ACA BGRP Cajas 34).\n\nDefunció: el 16 de març de 1812 a la Ràpita. Va morir als 43 anys.\n\nEs germà de Manuel Izquierdo Carceller [1772].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

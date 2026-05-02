@@ -1,0 +1,68 @@
+{
+  "id": "1892_andres_esteve_soriano",
+  "source_id": "1892",
+  "row_ref": "1892. Andrés Esteve Soriano",
+  "name": "Andrés Esteve Soriano",
+  "gender": "male",
+  "birth": {
+    "date": "1833-01-01",
+    "place": "Almenara (València)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Almenara (València) [aprox. 1833]. Quan mor la primera dona al 1878 té 45 anys.\n\nProfessió: pagès.\n\nCasament: amb Josefa Gastro Fabregat de Benifayó (València) [1838].\n\nFills: Teresa [1876].\n\nCasament: el 29 de gener de 1879 amb Josefa Salomó Sancho de la Ràpita [1837]. Es casa als 34 anys. Es veí d'Amposta.\n\nFills: Andrés [1879].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

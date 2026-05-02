@@ -1,0 +1,99 @@
+{
+  "id": "3829_teresa_pasqual_fuster",
+  "source_id": "3829",
+  "row_ref": "3829. Teresa Pasqual Fuster",
+  "name": "Teresa Pasqual Fuster",
+  "gender": "female",
+  "birth": {
+    "date": "1785-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3817_mariano_pascual_antequera",
+      "2270_antonia_fuster"
+    ],
+    "father": "3817_mariano_pascual_antequera",
+    "mother": "2270_antonia_fuster",
+    "spouse": [
+      "3892_blas_pepiol_masdeu"
+    ],
+    "children": [
+      "3895_vicente_pepiol_pascual",
+      "3896_juan_pepiol_pascual",
+      "3897_francisca_pepiol_pascual",
+      "3898_francisco_pepiol_pascual",
+      "3899_domingo_pepiol_pascual",
+      "3900_isabel_pepiol_pascual",
+      "3901_antonia_pepiol_pascual",
+      "3902_francisca_antonia_pepiol_pascual",
+      "3903_antonia_pepiol_pascual",
+      "3904_maria_rosa_pepiol_pascual"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Mariano Pascual Antequera",
+      "Antonia Fuster"
+    ],
+    "father_name": "Mariano Pascual Antequera",
+    "mother_name": "Antonia Fuster",
+    "spouse_names": [
+      "Blas Pepiol Masdeu"
+    ],
+    "children_names": [
+      "Vicente Pepiol Pascual",
+      "Juan Pepiol Pascual",
+      "Francisca Pepiol Pascual",
+      "Francisco Pepiol Pascual",
+      "Domingo Pepiol Pascual",
+      "Isabel Pepiol Pascual",
+      "Antonia Pepiol Pascual",
+      "Francisca Antonia Pepiol Pascual",
+      "Maria Rosa Pepiol Pascual"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1785]. \n\nCasament: el 29 de desembre de 1804 amb Blas Pepiol Masdeu d'Amposta [1780]. Es casa als 19 anys.\n\nFills: Francisca Antonia [1805], Domingo [1808], Francisco [1810], María Rosa [1813], Isabel [1815], Antonia [1815], Juan [1820], Antonia [1822], Vicente [1825] i Francisca [1827].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

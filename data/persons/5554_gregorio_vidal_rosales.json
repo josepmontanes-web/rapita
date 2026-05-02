@@ -1,0 +1,74 @@
+{
+  "id": "5554_gregorio_vidal_rosales",
+  "source_id": "5554",
+  "row_ref": "5554. Gregorio Vidal Rosales",
+  "name": "Gregorio Vidal Rosales",
+  "gender": "male",
+  "birth": {
+    "date": "1846-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1848-04-22",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5588_joaquin_vidal_talarn",
+      "4559_maria_rosales_valls"
+    ],
+    "father": "5588_joaquin_vidal_talarn",
+    "mother": "4559_maria_rosales_valls",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Vidal Talarn",
+      "Maria Rosales Valls"
+    ],
+    "father_name": "Joaquín Vidal Talarn",
+    "mother_name": "Maria Rosales Valls",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1846].\n\nDefunció: el 22 d'abril de 1848 a la Ràpita. Va morir als 2 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

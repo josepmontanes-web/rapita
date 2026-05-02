@@ -1,0 +1,75 @@
+{
+  "id": "2760_antonia_guinjoan_riber",
+  "source_id": "2760",
+  "row_ref": "2760. Antonia Guinjoan Riber",
+  "name": "Antonia Guinjoan Riber",
+  "gender": "female",
+  "birth": {
+    "date": "1762-01-01",
+    "place": "Riudoms"
+  },
+  "death": {
+    "date": "1827-10-24",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3363_sebastian_mies_montes"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Guinjuan",
+      "Maria Rivé"
+    ],
+    "father_name": "Josef Guinjuan",
+    "mother_name": "Maria Rivé",
+    "spouse_names": [
+      "Sebastian Míes Montes"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Riudoms [aprox. 1762]. L'any de naixement també podria ser 1770.\n\nCasament: amb Sebastián Míes Montes de Cassà de la Selva (Girona) [1763].\n\nFills: José [1791], Peregrina [1792], Casimiro [1794], Antonia [1800], Sebastián [1801], Tomás [1803], Andrés [1805], María Josefa [1808] i Juan Bautista [1811].\n\nDefunció: el 24 d'octubre de 1827 a la Ràpita. Va morir als 65 anys \"opilada\". No fa testament.\n\nEl 16 d'abril de 1747 es casen a Riudoms Joseph Guinjoan fadrí pagès fill de Jaume Guinjoan pagès i de Catarina Guinjoan i Nogués amb Maria Riber donzella filla de Joan Riber pagès i de Llucia Riber i Pujol (pag 424 doc digit. AHAT).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

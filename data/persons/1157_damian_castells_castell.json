@@ -1,0 +1,74 @@
+{
+  "id": "1157_damian_castells_castell",
+  "source_id": "1157",
+  "row_ref": "1157. Damian Castells Castell",
+  "name": "Damian Castells Castell",
+  "gender": "male",
+  "birth": {
+    "date": "1842-08-21",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1161_magin_castells_miro",
+      "1145_manuela_castell_balada"
+    ],
+    "father": "1161_magin_castells_miro",
+    "mother": "1145_manuela_castell_balada",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Magín Castells Miró",
+      "Manuela Castell Balada"
+    ],
+    "father_name": "Magín Castells Miró",
+    "mother_name": "Manuela Castell Balada",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Julián Badenes",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 21 d'agost de 1842 a la Ràpita.\n\nPadrins: Julián Badenes i Joaquina Rosales.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

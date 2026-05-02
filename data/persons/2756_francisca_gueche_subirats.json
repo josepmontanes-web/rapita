@@ -1,0 +1,82 @@
+{
+  "id": "2756_francisca_gueche_subirats",
+  "source_id": "2756",
+  "row_ref": "2756. Francisca Gueche Subirats",
+  "name": "Francisca Gueche Subirats",
+  "gender": "female",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2757_pedro_gueche_subirats",
+      "5183_josefa_subirats"
+    ],
+    "father": "2757_pedro_gueche_subirats",
+    "mother": "5183_josefa_subirats",
+    "spouse": [
+      "1582_juan_comi_domenech"
+    ],
+    "children": [
+      "1584_candia_lina_comi_gueche"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Gueche Subirats",
+      "Josefa Subirats"
+    ],
+    "father_name": "Pedro Gueché",
+    "mother_name": "Josefa Subirats",
+    "spouse_names": [
+      "Juan Comí Domenech"
+    ],
+    "children_names": [
+      "Candia Lina Comí Gueché"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1800].\n\nCasament: amb Juan Comí Domenech de Tortosa [1800].\n\nFills: Candia Lina [1822].\n\nEs germana de Pedro Gueche Subirats [1790].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

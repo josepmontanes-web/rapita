@@ -1,0 +1,68 @@
+{
+  "id": "1599_regina_company_parrell",
+  "source_id": "1599",
+  "row_ref": "1599. Regina Company Parrell",
+  "name": "Regina Company Parrell",
+  "gender": "female",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Sueca"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Sueca [aprox. 1820].\n\nCasament: Pascual Ferré de Sueca [1820].\n\nFills: Pascual [1850].\n\nDefunció: el 12 de març de 1877 a la Ràpita als 56 anys de pulmonía. Declara la mor al registre civil Josefa Matamoros.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "5032_vicente_sarrat",
+  "source_id": "5032",
+  "row_ref": "5032. Vicente Sarrat",
+  "name": "Vicente Sarrat",
+  "gender": "male",
+  "birth": {
+    "date": "1760-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Al agost de 1780 hi ha un Vicente Serret que treballa a les brigades de treballadors del Canal de Navegació (ACA BGRP caixa 43).\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que Vicente Sarrat viu al Codoñol com a criat del teixidor Tomás Sastre (ACA BGRP Cajas 34).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

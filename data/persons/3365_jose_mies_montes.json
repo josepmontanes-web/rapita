@@ -1,0 +1,79 @@
+{
+  "id": "3365_jose_mies_montes",
+  "source_id": "3365",
+  "row_ref": "3365. José Míes Montes",
+  "name": "José Míes Montes",
+  "gender": "male",
+  "birth": {
+    "date": "1771-01-01",
+    "place": "Cassà de la Selva(Girona)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1888_ana_esteve_masconda"
+    ],
+    "children": [
+      "1796_2_1846"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Míes",
+      "Margarita Montes"
+    ],
+    "father_name": "Josef Míes",
+    "mother_name": "Margarita Montes",
+    "spouse_names": [
+      "Ana Esteve Masconda"
+    ],
+    "children_names": [
+      "2 1846"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Cassà de la Selva (Girona) [1771]. Mias Monté José pag 152 de 1743 a 1794. Mias José pag 77 de 1712 a 1731. Cassà\n21 d'abril de 1771 Joseph Maria Bonaventura fill legitim i natural de Joseph Mias mestre de cases del veinat de Llebrers i Margarida Mias i Monté. Iaios Joan Mias mestre de cases i Maria Margalida Mias Vidal. Sebastián Monté fuster de la vila de Saret en Rosselló i de Francisca Monte i Casademont.\n\nCasament: amb Ana Esteve Masconda de Llambilles (Girona) [1770].\n\nFills: María [1792] i José María [1794].\n\nTé un germà: Juan Mias Montes pag 11 Cassà del 1743 al 1794. El 15 de febrer de 1761 naix Joan Joseph Salvi fill legitim i natural de Joseph Mias mestre de casas del veïnat de Llebrers de baix y de Margarida Mias i Monté, net de part de pare de Joan Mias de dit veïnat y de Margarida Mias y Vidal de Sangossa, y net de part de mare de Sebastià Monté Fuster de Saret i Francisca Munté i Casademont de Sant Llorenç de Cerdàs del Bisbat de Elna del Rosselló.\nMias Montes Teresa pag 189 libro 5. el 8 d'agost de 1774\nMias Esteva Francisca pag 37 1794. Mias Esteva Ana pag 78 el 17 d'agost de 1799 naix Anna Margarida Maria Mias Esteva filla legitima i natural de Joseph Mias mestre de casas y de Anna Esteva conjuges, avis paterns Joseph Mias mestre de casas y Margarida Montesa, avis materns Andreu Esteva pagès de Llambillas i Margarida Mascorda.\nTeresa Mias 87. Maria Mias 108 libro 2. Salvio Mias 6 libro 3. Francisca Mias 8. Catalina Mies 9. Maria Mies 30. Cecilia Mies 33. Ana Mias 55.Pedro 56. Narciso 58. Jaime 71. José 77. Ana 78. Mateo 98. Miguel 104. Maria 134 libro 3. \nPedro Mias Vidal 16 libro 4. Anastasia Mias Vidal 32. Antonio Mias Cassà 52. Maria Mias Vidal 54. Jaime Mias Cassà 75. Juan Mias Cassà 97 libro 4.\nMaria Mias Barceló 9 libro 5. Jaime Mias Barceló 57. Maria Mias Cassà 78. José Mias Sureda 95. Maria Francisca Agata Mias Monté naix el 5 de febrer de 1767 95. Francisco Mias Rigau 127. Margarita Mias Esteva 228. Inés Mias Merdadé 237.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

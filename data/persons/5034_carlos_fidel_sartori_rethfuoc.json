@@ -1,0 +1,73 @@
+{
+  "id": "5034_carlos_fidel_sartori_rethfuoc",
+  "source_id": "5034",
+  "row_ref": "5034. Carlos Fidel Sartori Rethfuoc",
+  "name": "Carlos Fidel Sartori Rethfuoc",
+  "gender": "male",
+  "birth": {
+    "date": "1770-01-01",
+    "place": "San Galo (Suïssa)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Don Carlos Antonio Sartori",
+      "Doña Mariana Rethfuoc"
+    ],
+    "father_name": "Don Carlos Antonio Sartori",
+    "mother_name": "Doña Mariana Rethfuoc",
+    "spouse_names": [
+      "Doña Juana Müller de Fridberg"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a San Galo (Suïssa) [aprox. 1770]. (En alemán Sankt Gallen).\n\nCasament: amb Doña Juana Müller de Fridberg de San Galo, filla de Don Joseph Müller de Fridberg de Nefells (Suïssa) [podria ser Näfels] i de Doña Ana María de Bathmann.\n\nFills: María Carlota [1801] i María Francisca [1804].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

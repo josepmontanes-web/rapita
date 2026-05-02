@@ -1,0 +1,73 @@
+{
+  "id": "3810_peregrin_parra_sancho",
+  "source_id": "3810",
+  "row_ref": "3810. Peregrín Parra Sancho",
+  "name": "Peregrín Parra Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1818-03-06",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4854_josefa_sancho_biosca"
+    ],
+    "father": null,
+    "mother": "4854_josefa_sancho_biosca",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Parra Pardo",
+      "Josefa Sancho Biosca"
+    ],
+    "father_name": "Josef Parra Pardo",
+    "mother_name": "Josefa Sancho Biosca",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Peregrín Marguilles",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 6 de març de 1818 a la Ràpita.\n\nPadrins: Peregrín Marguilles i Antonia Compte.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

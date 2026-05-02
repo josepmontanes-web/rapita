@@ -1,0 +1,77 @@
+{
+  "id": "3015_jose_francisco_lopez_noll_o_nolla",
+  "source_id": "3015",
+  "row_ref": "3015. José Francisco López Noll [o Nolla]",
+  "name": "José Francisco López Noll [o Nolla]",
+  "gender": "male",
+  "birth": {
+    "date": "1825-01-15",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3035_joaquin_lopez_segarra"
+    ],
+    "father": "3035_joaquin_lopez_segarra",
+    "mother": null,
+    "spouse": [
+      "492_francisca_baluenga_traginer"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín López Segarra",
+      "Jacinta Noll Barberà"
+    ],
+    "father_name": "Joaquin López Segarra",
+    "mother_name": "Jacinta Noll Barberà",
+    "spouse_names": [
+      "Francisca Baluenga Traginer"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Antonio Segarra",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 15 de gener de 1825 a la Ràpita.\n\nPadrins: Antonio Segarra i Francisca Segarra.\n\nCasament: el 20 de gener de 1849 amb Francisca Baluenga Traginer de Tortosa [1820]. Es casa als 24 anys\n\nFills: José Jacinto [1850].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

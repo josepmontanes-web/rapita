@@ -1,0 +1,95 @@
+{
+  "id": "239_teresa_arlandez_cartes",
+  "source_id": "239",
+  "row_ref": "239. Teresa Arlández Cartes",
+  "name": "Teresa Arlández Cartes",
+  "gender": "female",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "266_tomas_arlandez_riba"
+    ],
+    "father": "266_tomas_arlandez_riba",
+    "mother": null,
+    "spouse": [
+      "1496_francisco_cid_ferrer"
+    ],
+    "children": [
+      "1478_angel_cid_arlandez",
+      "1480_rosa_cid_arlandez",
+      "1481_josefa_cid_arlandez",
+      "1482_felipa_cid_arlandez",
+      "1483_francisco_cid_arlandez",
+      "1484_florencia_cid_arlandez",
+      "1485_ramon_cid_arlandez",
+      "1486_maria_cid_arlandez"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomás Arlández Riba",
+      "Maria Rosa Cartes"
+    ],
+    "father_name": "Tomás Arlández",
+    "mother_name": "Maria Rosa Cartes",
+    "spouse_names": [
+      "Francisco Cid Ferrer"
+    ],
+    "children_names": [
+      "Angel Cid Arlández",
+      "Rosa Cid Arlández",
+      "Josefa Cid Arlández",
+      "Felipa Cid Arlández",
+      "Francisco Cid Arlández",
+      "Florencia Cid Arlández",
+      "Ramón Cid Arlández",
+      "Maria Cid Arlández"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  a Tortosa [aprox. 1790].\n\nCasament: amb Francisco Cid Ferrer de Tortosa [1790].\n\nFills: Felipa (Tortosa) [aprox. 1810], Tomás [1813], Francisco [1823], Rosa [1827], Angel [1828], María [1828], Josefa [1830], Florencia [1832], Ramón [1835] i Isidro [1840].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

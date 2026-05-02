@@ -1,0 +1,79 @@
+{
+  "id": "1810_andres_escrihuela_reverter",
+  "source_id": "1810",
+  "row_ref": "1810. Andrés Escrihuela Reverter",
+  "name": "Andrés Escrihuela Reverter",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1803_0_1810",
+      "1804_0_1836"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Escrihuela",
+      "Antonia Reverter"
+    ],
+    "father_name": "Antonio Escrihuela",
+    "mother_name": "Antonia Reverter",
+    "spouse_names": [
+      "Antonia Fibla Ronsano"
+    ],
+    "children_names": [
+      "0 1810",
+      "0 1836"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1800].\n\nCasament: amb Antonia Fibla Ronsano (o Lonzano) d'Alcanar [1800].\n\nFills: Maria [1831], Dolores (Alcanar) [1832], José Antonio [1839], Juan Francisco [1841] i Josefa [1845].\n\nVenta: de Francisco Guardia Sánchez a Andrés Escrihuela mayor, labrador. Patio para edificar en la calle del Arrabal de San Isidro. 24 palmos de ancho y 60 de fondo. Linda con la calle, Gabriel Gilabert, Juan Bautista Sancho Nicolau y restante terreno del vendedor. 31 de agosto de 1857. Valor 160.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

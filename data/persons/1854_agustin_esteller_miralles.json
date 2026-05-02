@@ -1,0 +1,68 @@
+{
+  "id": "1854_agustin_esteller_miralles",
+  "source_id": "1854",
+  "row_ref": "1854. Agustín Esteller Miralles",
+  "name": "Agustín Esteller Miralles",
+  "gender": "male",
+  "birth": {
+    "date": "1853-01-01",
+    "place": "Vinaròs"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1853].\n\nProfessió: pagès i jornaler.\n\nCasament: amb Agustina Queralt Domingo d'Alcanar [1855].\n\nFills: Agustín [1880].\n\nCasament: el 4 d'octubre de 1883 amb Agustina Bel Gimeno [o Chimeno] de la Ràpita [1855]. Es casa als 30 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

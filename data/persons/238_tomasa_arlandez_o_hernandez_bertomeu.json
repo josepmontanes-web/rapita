@@ -1,0 +1,75 @@
+{
+  "id": "238_tomasa_arlandez_o_hernandez_bertomeu",
+  "source_id": "238",
+  "row_ref": "238. Tomasa Arlández [o Hernández] Bertomeu",
+  "name": "Tomasa Arlández [o Hernández] Bertomeu",
+  "gender": "female",
+  "birth": {
+    "date": "1813-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5408_joaquin_trillero_milian"
+    ],
+    "father": "5408_joaquin_trillero_milian",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Trillero Milian",
+      "Antonia"
+    ],
+    "father_name": "Joaquín",
+    "mother_name": "Antonia",
+    "spouse_names": [
+      "Josef Gombau Nogaron"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1813]. El cognom també apareix com Arlández.\n\nCasament: amb José Gombau Noguerón [1805].\n\nFills: José [1835] i un altre que mor al naixer el 21 de maig de 1838.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

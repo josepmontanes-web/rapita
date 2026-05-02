@@ -1,0 +1,81 @@
+{
+  "id": "310_josefa_badia_peris",
+  "source_id": "310",
+  "row_ref": "310. Josefa Badia Peris",
+  "name": "Josefa Badia Peris",
+  "gender": "female",
+  "birth": {
+    "date": "1745-01-01",
+    "place": "Ulldecona"
+  },
+  "death": {
+    "date": "1802-02-08",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2181_francisco_forcadell_badia"
+    ],
+    "father": "2181_francisco_forcadell_badia",
+    "mother": null,
+    "spouse": [
+      "2190_manuel_forcadell_domenech"
+    ],
+    "children": [
+      "2180_manuel_forcadell_badia"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Forcadell Badia",
+      "Teresa Peris"
+    ],
+    "father_name": "Francisco Badia",
+    "mother_name": "Teresa Peris",
+    "spouse_names": [
+      "Manuel Forcadell Domenech"
+    ],
+    "children_names": [
+      "Manuel Forcadell Badia"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  a Ulldecona [aprox. 1745].\n\nCasament: amb Manuel Forcadell Domenech d'Alcanar [1745].\n\nFills: Manuel (Alcanar) [1773] i Francisco [1775].\n\nDel novembre de 1795 al agost de 1798 paga un lloguer mensual de 4 Rs per la casa 1 de la Fonda Vella.\n\nDel setembre de 1798 al juny de 1801 paga un lloguer de 6 Rs mensuals per la casa 5 de la mansana vella.\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Mansana Vella núm. 5 (ACA BGRP Cajas 34).\n\nDefunció: el 8 de febrer de 1802  a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

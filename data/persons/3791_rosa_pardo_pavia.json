@@ -1,0 +1,85 @@
+{
+  "id": "3791_rosa_pardo_pavia",
+  "source_id": "3791",
+  "row_ref": "3791. Rosa Pardo Pavia",
+  "name": "Rosa Pardo Pavia",
+  "gender": "female",
+  "birth": {
+    "date": "1758-01-01",
+    "place": "Russafa (València)"
+  },
+  "death": {
+    "date": "1838-01-13",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3803_jose_parra_pardo"
+    ],
+    "father": "3803_jose_parra_pardo",
+    "mother": null,
+    "spouse": [
+      "3793_felix_parra",
+      "81_jayme_alemany",
+      "2179_francisco_forcadell_adell"
+    ],
+    "children": [
+      "3803_jose_parra_pardo"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Parra Pardo",
+      "Gertrudis Pavia"
+    ],
+    "father_name": "José Pardo",
+    "mother_name": "Gertrudis Pavia",
+    "spouse_names": [
+      "Felix Parra",
+      "Jayme Alemany",
+      "Francisco Forcadell Adell"
+    ],
+    "children_names": [
+      "José Parra Pardo"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Russafa (València) [aprox. 1758]. \n\nCasament: amb Felix Parra de Valdepeñas o de La Solana (Ciudad Real).\n\nFills: José Parra Pardo (Tortosa) [1785].\n\nCasament: el 27 de març de 1797 amb Jayme Alemany de Tortosa [1740]. Testimonis: Don José Bitner i Don Vicente Fuster.\n\nA l'estat de veïns de setembre de 1798 diu que viuen a la \"Plasa\" [podria ser la placeta vella] (ACA BGRP Cajas 34).\n\nCasament: el 29 d'agost de 1817 amb Francisco Forcadell Adell d'Alcanar [1762]. Es casa als 59 anys.\n\nDefunció: el 13 de gener de 1838 a la Ràpita. Va fer testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "2356_agustina_garcia_puchol",
+  "source_id": "2356",
+  "row_ref": "2356. Agustina García Puchol",
+  "name": "Agustina García Puchol",
+  "gender": "female",
+  "birth": {
+    "date": "1807-01-01",
+    "place": "Vinaròs"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3362_andres_mies_guinjuan"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel García",
+      "Juliana Puchol"
+    ],
+    "father_name": "Miguel García",
+    "mother_name": "Juliana Puchol",
+    "spouse_names": [
+      "Andrés Míes Guinjuan"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1807].\n\nCasament: l'11 de gener de 1835 amb Andrés Míes Guinjuan de la Ràpita [1805]. Es casa als 28 anys.\n\nFills: José Carlos [1835], Agustina [1837], Agustina [1840] i Andrés [1846].\n\nEs germana de Magdalena García Puchol [1810] i Josefa García Puchol [1810].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "783_juan_borras_gasparin",
+  "source_id": "783",
+  "row_ref": "783. Juan Borràs Gasparín",
+  "name": "Juan Borràs Gasparín",
+  "gender": "female",
+  "birth": {
+    "date": "1857-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1857].\n\nProfessió: panader.\n\nCasament: el 13 de març de 1883 amb Micaela Rosales Solà de la Ràpita [1845]. Es casa als 25 anys.\n\nDefunció: el 8 de juny de 1925 a la Ràpita als 69 anys. Vivia al carrer de Jesús.\n\nSap escriure, signa la declaració de casament al registre civil. Jutge municipal 1897-1899.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

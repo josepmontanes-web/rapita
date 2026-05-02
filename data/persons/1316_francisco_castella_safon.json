@@ -1,0 +1,74 @@
+{
+  "id": "1316_francisco_castella_safon",
+  "source_id": "1316",
+  "row_ref": "1316. Francisco Castellà Safon",
+  "name": "Francisco Castellà Safon",
+  "gender": "male",
+  "birth": {
+    "date": "1837-08-21",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1171_juan_castella_alegret",
+      "4625_maria_safon_fabregat"
+    ],
+    "father": "1171_juan_castella_alegret",
+    "mother": "4625_maria_safon_fabregat",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Castellà Alegret",
+      "María Safon Fabregat"
+    ],
+    "father_name": "Juan Castellà Alegret",
+    "mother_name": "Maria Safon Fabregat",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Agustín Sans",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 22 d'agost de 1837 a la Ràpita.\n\nPadrins: Agustín Sans i Francisca Sans.\n\nProfessió: mariner.\n\nCasament: amb Mariana Ferré Rosales de la Ràpita [1840].\n\nFills: Teresa [1878] i Francisca [1881].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

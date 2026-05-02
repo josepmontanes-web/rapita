@@ -1,0 +1,71 @@
+{
+  "id": "675_ramon_berdeal_terradas",
+  "source_id": "675",
+  "row_ref": "675. Ramón Berdeal Terradas",
+  "name": "Ramón Berdeal Terradas",
+  "gender": "male",
+  "birth": {
+    "date": "1804-01-31",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Berdeal de la Peña",
+      "Mariana Terradas"
+    ],
+    "father_name": "Miguel Berdeal de la Peña",
+    "mother_name": "Mariana Terradas",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Ramón García",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 31 de gener de 1804 a la Ràpita.\n\nPadrins: Ramón García i Raymunda Salvañ.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

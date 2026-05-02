@@ -1,0 +1,86 @@
+{
+  "id": "1145_manuela_castell_balada",
+  "source_id": "1145",
+  "row_ref": "1145. Manuela Castell Balada",
+  "name": "Manuela Castell Balada",
+  "gender": "female",
+  "birth": {
+    "date": "1815-01-01",
+    "place": "Ulldecona"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1156_gabriel_castells_castell",
+      "317_maria_balada"
+    ],
+    "father": "1156_gabriel_castells_castell",
+    "mother": "317_maria_balada",
+    "spouse": [
+      "1161_magin_castells_miro"
+    ],
+    "children": [
+      "1155_rosa_rafaela_castells_castell",
+      "1156_gabriel_castells_castell",
+      "1157_damian_castells_castell"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Gabriel Castells Castell",
+      "María Balada"
+    ],
+    "father_name": "Gabriel Castell",
+    "mother_name": "Maria Balada",
+    "spouse_names": [
+      "Magín Castells Miró"
+    ],
+    "children_names": [
+      "Rosa Rafaela Castells Castell",
+      "Gabriel Castells Castell",
+      "Damian Castells Castell"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Ulldecona [aprox. 1815].\n\nCasament: amb Magín Castells Miró de Tortosa [1815].\n\nFills: Rosa Rafaela [1839], Gabriel [1841] i Damian [1842].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

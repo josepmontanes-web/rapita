@@ -1,0 +1,68 @@
+{
+  "id": "2520_antonio_gil_ferreres",
+  "source_id": "2520",
+  "row_ref": "2520. Antonio Gil Ferreres",
+  "name": "Antonio Gil Ferreres",
+  "gender": "male",
+  "birth": {
+    "date": "1878-05-13",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 13 de maig de 1878 a la Ràpita.\n\nDefunció: el 19 de maig de 1878 a la Ràpita. Mor d'afecció espasmòdica. Declara la defunció la seua iaia Bàrbara Zaragoza.\n\nAl seu naixement i a la seua mor, la seua mare consta com Agustina.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

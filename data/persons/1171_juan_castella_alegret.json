@@ -1,0 +1,100 @@
+{
+  "id": "1171_juan_castella_alegret",
+  "source_id": "1171",
+  "row_ref": "1171. Juan Castellà Alegret",
+  "name": "Juan Castellà Alegret",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1287_juan_castella_mola",
+      "71_agueda_alegret_cid"
+    ],
+    "father": "1287_juan_castella_mola",
+    "mother": "71_agueda_alegret_cid",
+    "spouse": [],
+    "children": [
+      "71_agueda_alegret_cid",
+      "1313_juan_castella_safont",
+      "1314_maria_castella_safon",
+      "1315_agustin_castella_safon",
+      "1316_francisco_castella_safon",
+      "1317_jose_castella_safon",
+      "1318_pedro_castella_safon",
+      "1319_manuel_castella_safon",
+      "1320_mateo_castella_safont",
+      "1321_juana_castella_safont",
+      "1322_jaime_castella_safon"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Castellà Mola",
+      "Agueda Alegret Cid"
+    ],
+    "father_name": "Juan Castellà Mola",
+    "mother_name": "Agueda Alegret Cid",
+    "spouse_names": [
+      "Maria Safont Fabregat"
+    ],
+    "children_names": [
+      "Agueda Alegret Cid",
+      "Juan Castellà Safont",
+      "Maria Castellà Safon",
+      "Agustín Castellà Safon",
+      "Francisco Castellà Safon",
+      "José Castellà Safon",
+      "Pedro Castellà Safon",
+      "Manuel Castellà Safon",
+      "Mateo Castellà Safont",
+      "Juana Castellà Safont",
+      "Jaime Castellà Safon"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1800].\n\nCasament: el 24 de març de 1822 amb María Safont Fabregat de la Ràpita [1804].\n\nFills: Juana [1824], Juan [1825], Mateo [1827], Manuel [1829], Pedro [1832], José [1835], Francisco [1837], Agustín [1840], María [1842], Jaime [1846] i Camilo [1847].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

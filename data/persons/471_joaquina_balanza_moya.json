@@ -1,0 +1,73 @@
+{
+  "id": "471_joaquina_balanza_moya",
+  "source_id": "471",
+  "row_ref": "471. Joaquina Balanzá Moya",
+  "name": "Joaquina Balanzá Moya",
+  "gender": "female",
+  "birth": {
+    "date": "1842-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1844-11-28",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "469_miguel_balanza_comes"
+    ],
+    "father": "469_miguel_balanza_comes",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Balanzá Comes",
+      "Josefa Moya Macià"
+    ],
+    "father_name": "Miguel Balanzá Comes",
+    "mother_name": "Josefa Moya Macià",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1842].\n\nDefunció: el 28 de novembre de 1844. Va morir pàrvula de 2 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "4828_josefa_sancho",
+  "source_id": "4828",
+  "row_ref": "4828. Josefa Sancho",
+  "name": "Josefa Sancho",
+  "gender": "female",
+  "birth": {
+    "date": "1780-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "513_manuel_barrera"
+    ],
+    "children": [
+      "307_casimira_badenes_sancho",
+      "308_francisco_badenes_sancho",
+      "527_vicenta_barrera_sancho",
+      "528_jose_barrera_sancho",
+      "529_rosa_barrera_sancho",
+      "530_madalena_barrera_sancho",
+      "2219_antonia_forcadell_sancho"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Manuel Barrera"
+    ],
+    "children_names": [
+      "Casimira Badenes Sancho",
+      "Francisco Badenes Sancho",
+      "Vicenta Barrera Sancho",
+      "José Barrera Sancho",
+      "Rosa Barrera Sancho",
+      "Madalena Barrera Sancho",
+      "Antonia Forcadell Sancho"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1780]. \n\nCasament: amb Manuel Barrera d'Alcanar [1780].\n\nFills: Rosa (Alcanar) [aprox 1815], Vicenta [aprox 1817], José (Alcanar) [aprox 1820] i Madalena [aprox 1826].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

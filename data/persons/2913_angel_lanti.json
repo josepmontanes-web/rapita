@@ -1,0 +1,68 @@
+{
+  "id": "2913_angel_lanti",
+  "source_id": "2913",
+  "row_ref": "2913. Angel Lanti",
+  "name": "Angel Lanti",
+  "gender": "male",
+  "birth": {
+    "date": "1740-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naix: a Macugnaga (Italia).\n\nAl 1791 diu que fa 22 anys que resideix a Espanya. Es veí de la Ràpita a 1796 (ACA Processos 1796 7F).\n\nEl 20 de maig de 1782 Lucas i Angel Lantí demanen el tinglado de la Marina, cedeixen a la Reial Hisenda l'edifici anomenat la Fonda començat a expenses de dits Lantí.\n\nA l'estat de veïns de setembre de 1798 diu que viu a la casa núm. 8 de la \"Calle Mayor\" amb Isabel Corch (ACA BGRP Cajas 34).\n\nCarta de Martorell a Naudin, 7.12.1788\nDiu que ha rebut queixes de “varios transitantes como marineros, reclutas, cumplidos y otros de no quererlos admitir en su posada… els Lantí es defensen dient que uns reclutes van robar a la posada de la Serafina i quan els van descobrir van ferir al mosso.\nDiu que no els pot admetre perquè els arrieros l’han avisat que si agafa gent poc fiable no pararan mai més i que ara tenen molts de viatgers per la ruina del pont de Fraga, que passen de camí d’Aragó a Madrid, de manera que la nit del 3 hi van haver 11 carros passsant la nit a la fonda i altres que van passar a Vinaròs\n9.12.1788. Naudin en carta a Martorell: \nEn quanto a Angel Lanti, me parce que siendo los sujetos que no ha querido admitir en su posada, de las circunstancias que vm me expresa, hizo bien en no recibirles. (ACA BGRP caixa 13).\n\nAl abril de 1802 Angel Lantí s'en va a viure a Tortosa (ACA caixa 58).\n\n45. Sumaria información de testigos recibida ante Josep Martorell, Juez Subdelegado de las Reales Obras, a instancia de Ángel Lantí, fondero, sobre la conducta de éste. \n\nSembla que Parrado acusa d’escàndol a Angel Lantí amb la seva criada a la fonda, Isabel Cor. Testimonien al seu favor Josef Martorell, Juan Bta Moya, Francesco Gasparino, Juan Antonio Gironda, Josef Mariño, Pedro Breciano (21 años) (ACA Caixa 54).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

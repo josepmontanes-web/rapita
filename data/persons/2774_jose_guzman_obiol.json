@@ -1,0 +1,85 @@
+{
+  "id": "2774_jose_guzman_obiol",
+  "source_id": "2774",
+  "row_ref": "2774. José Guzmán Obiol",
+  "name": "José Guzmán Obiol",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Peníscola"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2772_jose_guzman_navarro"
+    ],
+    "father": "2772_jose_guzman_navarro",
+    "mother": null,
+    "spouse": [
+      "298_antonia_avila_matias"
+    ],
+    "children": [
+      "2764_jose_salvador_guzman_avila",
+      "2765_victor_guzman_avila",
+      "2777_domingo_guzman_obiol"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Guzmán Navarro",
+      "Salvadora Obiol"
+    ],
+    "father_name": "José Guzmán",
+    "mother_name": "Salvadora Obiol",
+    "spouse_names": [
+      "Antonia Avila Matías"
+    ],
+    "children_names": [
+      "José Salvador Guzmán Avila",
+      "Victor Guzmán Avila",
+      "Domingo Guzmán Obiol"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Peníscola [aprox. 1800].\n\nCasament: amb Antonia Ávila Matías de Benicarló [1800].\n\nFills: José Salvador [1830] i Víctor [1833].\n\nEs germà de Josefa María [1800], Antonio [1803] i Domingo [1813].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

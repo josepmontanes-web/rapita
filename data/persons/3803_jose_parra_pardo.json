@@ -1,0 +1,91 @@
+{
+  "id": "3803_jose_parra_pardo",
+  "source_id": "3803",
+  "row_ref": "3803. José Parra Pardo",
+  "name": "José Parra Pardo",
+  "gender": "male",
+  "birth": {
+    "date": "1785-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3791_rosa_pardo_pavia"
+    ],
+    "father": null,
+    "mother": "3791_rosa_pardo_pavia",
+    "spouse": [
+      "4854_josefa_sancho_biosca"
+    ],
+    "children": [
+      "3791_rosa_pardo_pavia",
+      "3807_toribio_parra_sancho",
+      "3808_jose_agustin_parra_sancho",
+      "3809_santiago_parra_sancho",
+      "3811_domingo_parra_sancho",
+      "3813_pedro_parra_valles"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Feliz Parra",
+      "Rosa Pardo Pavia"
+    ],
+    "father_name": "Feliz Parra",
+    "mother_name": "Rosa Pardo Pavia",
+    "spouse_names": [
+      "Josefa Sancho Biosca"
+    ],
+    "children_names": [
+      "Rosa Pardo Pavia",
+      "Toribio Parra Sancho",
+      "José Agustín Parra Sancho",
+      "Santiago Parra Sancho",
+      "Domingo Parra Sancho",
+      "Pedro Parra Vallés"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1785]. \n\nA l'estat de veïns de la Població de San Carlos  a 1 de setembre de 1798 consta que viu a la \"plasa\" amb la seua mare i el seu padastre Jayme Alemany (ACA BGRP caixa 34).\n\nProfessió: pagès.\n\nCasament: el 20 de juliol de 1805 amb Josefa Sancho Biosca d'Alcanar [1789]. Es casa als 20 anys.\n\nFills: Francisca [1806], José [1808], José Agustín [1811], Santiago [1813], Domingo [1813], Peregrín [1818] i Toribio (Madrid) [1820].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

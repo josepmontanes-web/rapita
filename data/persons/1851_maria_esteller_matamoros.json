@@ -1,0 +1,78 @@
+{
+  "id": "1851_maria_esteller_matamoros",
+  "source_id": "1851",
+  "row_ref": "1851. María Esteller Matamoros",
+  "name": "María Esteller Matamoros",
+  "gender": "female",
+  "birth": {
+    "date": "1775-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1871_juan_bautista_esteller_valles",
+      "3157_maria_matamoros"
+    ],
+    "father": "1871_juan_bautista_esteller_valles",
+    "mother": "3157_maria_matamoros",
+    "spouse": [
+      "543_josef_bel"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Bautista Esteller Vallés",
+      "Maria Matamoros"
+    ],
+    "father_name": "Juan Bautista Esteller",
+    "mother_name": "María Matamoros",
+    "spouse_names": [
+      "Josef Bel"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1775].\n\nCasament: el 27 d'agost de 1796 amb José Bel [1775]. Testimonis: Francisco Gasparín i José Benlloch.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "2041_lorenzo_ferre_franquet",
+  "source_id": "2041",
+  "row_ref": "2041. Lorenzo Ferré Franquet",
+  "name": "Lorenzo Ferré Franquet",
+  "gender": "male",
+  "birth": {
+    "date": "1805-06-25",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1809-12-22",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2064_geronimo_ferre_princep",
+      "2256_felicia_franquet_pla"
+    ],
+    "father": "2064_geronimo_ferre_princep",
+    "mother": "2256_felicia_franquet_pla",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Gerónimo Ferré Princep",
+      "Felicia Franquet Pla"
+    ],
+    "father_name": "Geronimo Ferré Princep",
+    "mother_name": "Felicia Franquet Plà",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Agustín Safon",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 25 de juny de 1805 a la Ràpita. El pare té 40  anys i la mare 38.\n\nPadrins: Agustín Safont i Lorenza Montserrat.\n\nDefunció: el 22 de desembre de 1809 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

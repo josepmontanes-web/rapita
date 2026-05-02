@@ -1,0 +1,77 @@
+{
+  "id": "2884_maria_juana_jovani_sans",
+  "source_id": "2884",
+  "row_ref": "2884. Maria Juana Jovani Sans",
+  "name": "Maria Juana Jovani Sans",
+  "gender": "female",
+  "birth": {
+    "date": "1828-06-24",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2869_antonio_jovani_grau"
+    ],
+    "father": "2869_antonio_jovani_grau",
+    "mother": null,
+    "spouse": [
+      "235_rafael_arlandez_balada"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Jovani Grau",
+      "Francisca Sans Castells"
+    ],
+    "father_name": "Antonio Jovani Grau",
+    "mother_name": "Francisca Sans Castells",
+    "spouse_names": [
+      "Rafael Arlández Balada"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Joaquín Muñoz",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 24 de juny de 1828 a la Ràpita.\n\nPadrins: Joaquín Muñóz i María Ripoll.\n\nCasament: el 29 d'abril de 1854 amb Rafael Arlández Balada de la Ràpita [1828]. Testimonis: Juan López i Bartolomé Silvestre. \n\nA la partida de casament els cognoms son Joaní Sanz.\n\nFills: Josefa [1855] i Rafael [1858].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

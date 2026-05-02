@@ -1,0 +1,80 @@
+{
+  "id": "2059_raymunda_ferrer_marti",
+  "source_id": "2059",
+  "row_ref": "2059. Raymunda Ferrer Martí",
+  "name": "Raymunda Ferrer Martí",
+  "gender": "female",
+  "birth": {
+    "date": "1783-01-01",
+    "place": "Portell de Morella"
+  },
+  "death": {
+    "date": "1810-12-24",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2103_francisco_ferrer_sorolla",
+      "3111_salvadora_marti"
+    ],
+    "father": "2103_francisco_ferrer_sorolla",
+    "mother": "3111_salvadora_marti",
+    "spouse": [],
+    "children": [
+      "4130_raymunda_rafels_ferrer"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Ferrer Sorolla",
+      "Salvadora Martí"
+    ],
+    "father_name": "Francisco Ferrer Sorolla",
+    "mother_name": "Salvadora Martí",
+    "spouse_names": [
+      "Thomas Rafels"
+    ],
+    "children_names": [
+      "Raymunda Rafels Ferrer"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Portell de Morella [aprox. 1783].\n\nCasament: amb Tomás Rafels Caldes de Benicarló [1780].\n\nFills: Raymunda [1810].\n\nDefunció: el 24 de desembre de 1810 a la Ràpita. Va morir als 28 anys. \"Murió el mismo día de un balazo de un Falucho\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

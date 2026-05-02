@@ -1,0 +1,74 @@
+{
+  "id": "824_maria_francisca_breciano_pasqual",
+  "source_id": "824",
+  "row_ref": "824. María Francisca Breciano Pasqual",
+  "name": "María Francisca Breciano Pasqual",
+  "gender": "female",
+  "birth": {
+    "date": "1801-10-08",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1805-06-14",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "823_pedro_bresciano_burastero",
+      "3826_francisca_pasqual_fuster"
+    ],
+    "father": "823_pedro_bresciano_burastero",
+    "mother": "3826_francisca_pasqual_fuster",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Bresciano Burastero",
+      "Francisca Pasqual Fuster"
+    ],
+    "father_name": "Pedro Bresciano Burastero",
+    "mother_name": "Francisca Pasqual Fuster",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Gasparín",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 8 d'octubre de 1801 a la Ràpita.\n\nPadrins: Francisco Gasparín i María Dalmau.\n\nDefunció: el 14 de juny de 1805 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

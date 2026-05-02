@@ -1,0 +1,90 @@
+{
+  "id": "4342_candia_reverter_sancho",
+  "source_id": "4342",
+  "row_ref": "4342. Candia Reverter Sancho",
+  "name": "Candia Reverter Sancho",
+  "gender": "female",
+  "birth": {
+    "date": "1792-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4174_pedro_reverter",
+      "4933_christofola_sancho_sancho"
+    ],
+    "father": "4174_pedro_reverter",
+    "mother": "4933_christofola_sancho_sancho",
+    "spouse": [
+      "1719_pascual_diago_campanals"
+    ],
+    "children": [
+      "1733_esperanza_diago_reverter",
+      "1734_tomasa_diago_reverter",
+      "1735_juan_bautista_diago_reverter",
+      "1736_teresa_diago_reverter",
+      "1737_felipe_diago_reverter"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Reverter",
+      "Christofola Sancho Sancho"
+    ],
+    "father_name": "Pedro Reverter",
+    "mother_name": "Christofola Sancho Sancho",
+    "spouse_names": [
+      "Pascual Diago Campanals"
+    ],
+    "children_names": [
+      "Esperanza Diago Reverter",
+      "Tomasa Diago Reverter",
+      "Juan Bautista Diago Reverter",
+      "Teresa Diago Reverter",
+      "Felipe Diago Reverter"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1792]. \n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Masia de Don Joaquín Anglès  (ACA BGRP Cajas 34).\n\nCasament: el 14 de febrer de 1814 amb Pascual Diago Campanals de Maella [1778]. Es casa als 22 anys.\n\nFills: Felipe (Vinaròs) [1820], Tomasa [1823], Teresa [1825], Juan Bautista [1828] i Esperanza [1831].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "4820_teresa_maria_sanchis_ventura",
+  "source_id": "4820",
+  "row_ref": "4820. Teresa Maria Sanchis Ventura",
+  "name": "Teresa Maria Sanchis Ventura",
+  "gender": "female",
+  "birth": {
+    "date": "1833-08-26",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5132_peregrin_silvestre_sanchis",
+      "5455_francisca_ventura_exposita"
+    ],
+    "father": "5132_peregrin_silvestre_sanchis",
+    "mother": "5455_francisca_ventura_exposita",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Peregrín Silvestre Sanchís",
+      "Francisca Ventura Expósita"
+    ],
+    "father_name": "Peregrín Sanchís Yserte",
+    "mother_name": "Francisca Ventura Expósita",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Tomás Maciá",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 26 d'agost de 1833 a la Ràpita.\n\nPadrins: Tomás Macián i María Reverter.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

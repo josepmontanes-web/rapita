@@ -1,0 +1,75 @@
+{
+  "id": "2097_alexandro_ferre_simon",
+  "source_id": "2097",
+  "row_ref": "2097. Alexandro Ferré Simón",
+  "name": "Alexandro Ferré Simón",
+  "gender": "male",
+  "birth": {
+    "date": "1802-05-24",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1803-03-25",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "5143_joseph_alexandro_simon_fortera"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joseph Ferré Marín",
+      "María Ana Simón Sancho"
+    ],
+    "father_name": "Joseph Ferré Marín",
+    "mother_name": "María Ana Simón Sancho",
+    "spouse_names": [],
+    "children_names": [
+      "Joseph Alexandro Simón Fortera"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Alexandro Beltrí",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 24 de maig de 1802 a la Ràpita.\n\nPadrins: Alexandro Beltri i Matilde Reverter.\n\nDefunció: el 25 de març de 1803 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "4001_gervasio_pons_lopez",
+  "source_id": "4001",
+  "row_ref": "4001. Gervasio Pons López",
+  "name": "Gervasio Pons López",
+  "gender": "male",
+  "birth": {
+    "date": "1828-03-14",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1829-04-05",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4009_manuel_pons_reverter",
+      "3037_rafaela_lopez_segarra"
+    ],
+    "father": "4009_manuel_pons_reverter",
+    "mother": "3037_rafaela_lopez_segarra",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel Pons Reverter",
+      "Rafaela López Segarra"
+    ],
+    "father_name": "Manuel Pons Reverter",
+    "mother_name": "Rafaela López Segarra",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Doctor Don José Ballester",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 14 de març de 1828 a la Ràpita.\n\nPadrins: Doctor Don José Ballester i Doña Gervasia Franco.\n\nDefunció: el 5 d'abril de 1829 a la Ràpita. Va morir de \"espasmo\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

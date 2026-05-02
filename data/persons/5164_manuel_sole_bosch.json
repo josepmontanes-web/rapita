@@ -1,0 +1,74 @@
+{
+  "id": "5164_manuel_sole_bosch",
+  "source_id": "5164",
+  "row_ref": "5164. Manuel Solé Bosch",
+  "name": "Manuel Solé Bosch",
+  "gender": "male",
+  "birth": {
+    "date": "1823-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1824-03-01",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5169_bautista_sole_selasuela",
+      "820_mariana_bosch_torta"
+    ],
+    "father": "5169_bautista_sole_selasuela",
+    "mother": "820_mariana_bosch_torta",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Solé Selasuela",
+      "Mariana Bosch Torta"
+    ],
+    "father_name": "Bautista Solé Selasuela",
+    "mother_name": "Mariana Bosch Torta",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1823]. \n\nDefunció: l'1 de març de 1824 a la Ràpita. Va morir als 16 mesos.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

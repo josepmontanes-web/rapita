@@ -1,0 +1,83 @@
+{
+  "id": "1212_tomasa_castella_caldero",
+  "source_id": "1212",
+  "row_ref": "1212. Tomasa Castellà Calderó",
+  "name": "Tomasa Castellà Calderó",
+  "gender": "female",
+  "birth": {
+    "date": "1804-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1164_bautista_castella"
+    ],
+    "father": "1164_bautista_castella",
+    "mother": null,
+    "spouse": [
+      "1248_francisco_castella_dalmau"
+    ],
+    "children": [
+      "1221_ramon_castella_castella",
+      "1222_jose_castella_castella"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Castellà",
+      "Josefa Calderó"
+    ],
+    "father_name": "Bautista Castellà",
+    "mother_name": "Josefa Calderó",
+    "spouse_names": [
+      "Francisco Castellà Dalmau"
+    ],
+    "children_names": [
+      "Ramón Castellà Castellà",
+      "José Castellà Castellà"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1804].\n\nCasament: el 28 de febrer de 1824 amb Francisco Castellà Dalmau de la Ràpita [1801].\n\nFills: Ramón [1838] i José [1841].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "1387_benito_cera_cartes",
+  "source_id": "1387",
+  "row_ref": "1387. Benito Cera Cartes",
+  "name": "Benito Cera Cartes",
+  "gender": "male",
+  "birth": {
+    "date": "1815-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1393_jose_cera_marman",
+      "1064_agustina_cartes_fonollosa"
+    ],
+    "father": "1393_jose_cera_marman",
+    "mother": "1064_agustina_cartes_fonollosa",
+    "spouse": [
+      "993_francisca_carbo_castella"
+    ],
+    "children": [
+      "1378_jose_agustin_cera_carbo",
+      "1379_benita_cera_carbo"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Cera Marmañ",
+      "Agustina Cartes Fonollosa"
+    ],
+    "father_name": "José Cera Marmañ",
+    "mother_name": "Agustina Cartes Fonollosa",
+    "spouse_names": [
+      "Francisca Carbó Castellà"
+    ],
+    "children_names": [
+      "José Agustín Cera Carbó",
+      "Benita Cera Carbó"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1815].\n\nProfessió: mariner.\n\nCasament: el 4 d'agost de 1838 amb Francisca Carbó Castellà de la Ràpita [1814].\n\nFills: José Agustín [1839], Benita [1842], Benito [1850], Francisco [1850] i Rosa [1854].\n\nDefunció: el 14 de desembre de 1878 a la Ràpita, als 60 anys de \"una calentura intermitente maligna\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

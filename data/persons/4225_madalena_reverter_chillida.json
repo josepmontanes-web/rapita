@@ -1,0 +1,73 @@
+{
+  "id": "4225_madalena_reverter_chillida",
+  "source_id": "4225",
+  "row_ref": "4225. Madalena Reverter Chillida",
+  "name": "Madalena Reverter Chillida",
+  "gender": "female",
+  "birth": {
+    "date": "1807-06-01",
+    "place": null
+  },
+  "death": {
+    "date": "1814-03-06",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4222_domingo_reverter_cases"
+    ],
+    "father": "4222_domingo_reverter_cases",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Domingo Reverter Cases",
+      "Rosa Chillida"
+    ],
+    "father_name": "Domingo Reverter",
+    "mother_name": "Rosa Chillida",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1807]. \n\nDefunció: el 6 de març de 1814 a la Ràpita. Va morir als 6 anys i 9 mesos.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

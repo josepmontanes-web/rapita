@@ -1,0 +1,68 @@
+{
+  "id": "4410_gil_ricart",
+  "source_id": "4410",
+  "row_ref": "4410. Gil Ricart",
+  "name": "Gil Ricart",
+  "gender": "male",
+  "birth": {
+    "date": "1723-01-01",
+    "place": "La Vall de Querol (*)"
+  },
+  "death": {
+    "date": "1813-01-07",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Vall de Querol (bisbat de la Seu d'Urgell) [aprox. 1723]. \n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Mansana Vella núm. 7 (ACA BGRP Cajas 34).\n\nDefunció: el 7 de gener de 1813 a la Ràpita. Va morir fadrí als 90 anys. Fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

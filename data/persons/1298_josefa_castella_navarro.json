@@ -1,0 +1,78 @@
+{
+  "id": "1298_josefa_castella_navarro",
+  "source_id": "1298",
+  "row_ref": "1298. Josefa Castellà Navarro",
+  "name": "Josefa Castellà Navarro",
+  "gender": "female",
+  "birth": {
+    "date": "1829-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1164_bautista_castella",
+      "3625_esperanza_navarro_comi"
+    ],
+    "father": "1164_bautista_castella",
+    "mother": "3625_esperanza_navarro_comi",
+    "spouse": [
+      "2769_antonio_guzman_lluch"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Castellà",
+      "Esperanza Navarro Comí"
+    ],
+    "father_name": "Bautista Castellà Colomines",
+    "mother_name": "Esperanza Navarro Comí",
+    "spouse_names": [
+      "Antonio Guzmán Lluch"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1829].\n\nCasament: el 20 d'agost de 1853 amb Antonio Guzmán Lluch de la Ràpita [1830]. Es casa als 24 anys. Testimonis: José Vidal i Ramon Sancho.\n\nFills: Esperanza [1854] i Rosa [1856].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

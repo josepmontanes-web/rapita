@@ -1,0 +1,74 @@
+{
+  "id": "2701_miguel_francisco_guardia_andreu",
+  "source_id": "2701",
+  "row_ref": "2701. Miguel Francisco Guardia Andreu",
+  "name": "Miguel Francisco Guardia Andreu",
+  "gender": "male",
+  "birth": {
+    "date": "1838-12-16",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1844-12-17",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2711_agustin_guardia_bort",
+      "97_rosa_andreu_fontanet"
+    ],
+    "father": "2711_agustin_guardia_bort",
+    "mother": "97_rosa_andreu_fontanet",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustín Guardia Bort",
+      "Rosa Andreu Fontanet"
+    ],
+    "father_name": "Agustín Guardia Bort",
+    "mother_name": "Rosa Andreu Fontanet",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Miguel Reverter",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 16 de desembre de 1838 a la Ràpita.\n\nPadrins: Miguel Reverter i Francisca Rosales.\n\nDefunció: el 17 de desembre de 1844 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

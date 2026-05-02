@@ -1,0 +1,83 @@
+{
+  "id": "469_miguel_balanza_comes",
+  "source_id": "469",
+  "row_ref": "469. Miguel Balanzá Comes",
+  "name": "Miguel Balanzá Comes",
+  "gender": "male",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Benicarló"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "465_francisco_balanza"
+    ],
+    "father": "465_francisco_balanza",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "471_joaquina_balanza_moya",
+      "472_cristobal_balanza_moya",
+      "473_miguel_francisco_balanza_moya"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Balanzá",
+      "Pascuala Comes"
+    ],
+    "father_name": "Francisco Balanzá",
+    "mother_name": "Pascuala Comes",
+    "spouse_names": [
+      "Josefa Moya Macià"
+    ],
+    "children_names": [
+      "Joaquina Balanzá Moya",
+      "Cristobal Balanzá Moya",
+      "Miguel Francisco Balanzá Moya"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Benicarló [aprox. 1820].\n\nCasament: el 28 de gener de 1840 amb Josefa Moya Macià de la Ràpita [1819].\n\nFills: Miguel Francisco [1841], Joaquina [1842], Cristobal [1845] i Miguela [1852].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

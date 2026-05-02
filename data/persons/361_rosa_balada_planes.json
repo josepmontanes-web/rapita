@@ -1,0 +1,78 @@
+{
+  "id": "361_rosa_balada_planes",
+  "source_id": "361",
+  "row_ref": "361. Rosa Balada Planes",
+  "name": "Rosa Balada Planes",
+  "gender": "female",
+  "birth": {
+    "date": "1824-09-13",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "342_francisco_balada_forcadell",
+      "3995_eulalia_planes_gubern"
+    ],
+    "father": "342_francisco_balada_forcadell",
+    "mother": "3995_eulalia_planes_gubern",
+    "spouse": [
+      "333_mariano_balada_balada"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Balada Forcadell",
+      "Eulalia Planes Gubern"
+    ],
+    "father_name": "Francisco Balada Forcadell",
+    "mother_name": "Eulalia Planes Gubern",
+    "spouse_names": [
+      "Mariano Balada Balada"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Nicolás Minguillón",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 13 de setembre de 1824 a la Ràpita.\n\nPadrins: Don Nicolás Minguillón i Doña Rosa Llorens del Perelló. El padrí es \"natural de Sástago en Aragón y capitán de la tercera compañía del 12 batallón de línea\".\n\nEs bessona de Juan.\n\nCasament: el 21 de març de 1852 amb Mariano Balada Balada de la Ràpita [1828].\n\nFills: Juan [1857] i José [1860].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

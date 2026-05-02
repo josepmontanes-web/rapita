@@ -1,0 +1,73 @@
+{
+  "id": "248_isabel_arlandez_o_hernandez_cavaller",
+  "source_id": "248",
+  "row_ref": "248. Isabel Arlández [o Hernández] Cavaller",
+  "name": "Isabel Arlández [o Hernández] Cavaller",
+  "gender": "female",
+  "birth": {
+    "date": "1808-10-22",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1809-02-04",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "263_tomas_hernandez_o_arlandez_pla"
+    ],
+    "father": "263_tomas_hernandez_o_arlandez_pla",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomás Hernández [o Arlández] Pla",
+      "Mª. Francisca Cavaller Roig"
+    ],
+    "father_name": "Tomás Hernández Pla",
+    "mother_name": "Mª. Francisca Cavaller Roig",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Miguel Reverter",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 22 d'octubre de 1808 a la Ràpita.\n\nPadrins: Miguel Reverter  d'Alcanar i Isabel Giner d'Amposta.\n\nDefunció: el 4 de febrer de 1809 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "1613_jose_cosido_fontcuberta",
+  "source_id": "1613",
+  "row_ref": "1613. José Cosidó Fontcuberta",
+  "name": "José Cosidó Fontcuberta",
+  "gender": "male",
+  "birth": {
+    "date": "1853-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1853].\n\nProfessió: metge.\n\nCasament el 31 de maig de 1883 amb Carlota Rosales Cid de la Ràpita [1863]. Es casa als 29 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "3334_fernando_isidoro_merce_emprado",
+  "source_id": "3334",
+  "row_ref": "3334. Fernando Isidoro Merce Empradó",
+  "name": "Fernando Isidoro Merce Empradó",
+  "gender": "male",
+  "birth": {
+    "date": "1814-04-27",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Merce",
+      "Maria Empradó"
+    ],
+    "father_name": "Francisco Merce",
+    "mother_name": "Maria Empradó",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Juan Rivas",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 27 d'abril de 1814 a la Ràpita.\n\nPadrins: Don Juan Rivas i Juana Mercé.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

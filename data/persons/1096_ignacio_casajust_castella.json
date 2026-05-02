@@ -1,0 +1,74 @@
+{
+  "id": "1096_ignacio_casajust_castella",
+  "source_id": "1096",
+  "row_ref": "1096. Ignacio Casajust Castellà",
+  "name": "Ignacio Casajust Castellà",
+  "gender": "male",
+  "birth": {
+    "date": "1823-02-20",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1826-07-17",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1114_francisco_casajust_michavila",
+      "1205_theresa_castella_caldero"
+    ],
+    "father": "1114_francisco_casajust_michavila",
+    "mother": "1205_theresa_castella_caldero",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Casajust Michavila",
+      "Theresa Castellà Calderó"
+    ],
+    "father_name": "Francisco Casajust Michavila",
+    "mother_name": "Theresa Castellà Calderó",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Ignacio Casajust",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 20 de febrer de 1823 a la Ràpita.\n\nPadrins: Ignacio Casajust i María Calderó.\n\nDefunció: el 17 de juliol de 1826 a la Ràpita. Va morir de \"calenturas\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

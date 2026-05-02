@@ -1,0 +1,74 @@
+{
+  "id": "3774_vicente_palatsi_ciurana",
+  "source_id": "3774",
+  "row_ref": "3774. Vicente Palatsí Ciurana",
+  "name": "Vicente Palatsí Ciurana",
+  "gender": "male",
+  "birth": {
+    "date": "1838-04-07",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1838-04-26",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3769_jayme_palatsi_julve",
+      "1509_teresa_ciurana_llopis"
+    ],
+    "father": "3769_jayme_palatsi_julve",
+    "mother": "1509_teresa_ciurana_llopis",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Jayme Palatsí Julve",
+      "Teresa Ciurana Llopis"
+    ],
+    "father_name": "Jayme Palatsí Julve",
+    "mother_name": "Teresa Ciurana Llopis",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Mateo Reverté",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 7 d'abril de 1838 a la Ràpita.\n\nPadrins: Mateo Reverté i Mariana Bedós.\n\nDefunció: el 26 d'abril de 1838 a la Ràpita.\n\nEs bessó de Juan.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

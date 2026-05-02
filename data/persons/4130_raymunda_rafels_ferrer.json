@@ -1,0 +1,74 @@
+{
+  "id": "4130_raymunda_rafels_ferrer",
+  "source_id": "4130",
+  "row_ref": "4130. Raymunda Rafels Ferrer",
+  "name": "Raymunda Rafels Ferrer",
+  "gender": "female",
+  "birth": {
+    "date": "1810-12-24",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1812-10-23",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4127_thomas_rafels_caldes",
+      "2059_raymunda_ferrer_marti"
+    ],
+    "father": "4127_thomas_rafels_caldes",
+    "mother": "2059_raymunda_ferrer_marti",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Thomas Rafels Caldes",
+      "Raymunda Ferrer Martí"
+    ],
+    "father_name": "Thomas Rafels Caldes",
+    "mother_name": "Raymunda Ferrer Martí",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Ferrer",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 24 de desembre de 1810 a la Ràpita.\n\nPadrins: Francisco Ferrer i Vicenta Carceller.\n\nDefunció: el 23 d'octubre de 1812 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

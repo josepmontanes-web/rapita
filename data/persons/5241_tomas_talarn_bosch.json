@@ -1,0 +1,94 @@
+{
+  "id": "5241_tomas_talarn_bosch",
+  "source_id": "5241",
+  "row_ref": "5241. Tomás Talarn Bosch",
+  "name": "Tomás Talarn Bosch",
+  "gender": "male",
+  "birth": {
+    "date": "1807-10-25",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5262_geronimo_talarn_valldeperez",
+      "812_maria_bosch_castell"
+    ],
+    "father": "5262_geronimo_talarn_valldeperez",
+    "mother": "812_maria_bosch_castell",
+    "spouse": [],
+    "children": [
+      "5223_jose_talarn_balaguer",
+      "5224_maria_de_cervellon_talarn_balague",
+      "5225_josefa_talarn_balaguer",
+      "5226_maria_antonia_talarn_balaguer",
+      "5569_domingo_vidal_serrano",
+      "5570_francisca_vidal_serrano",
+      "5571_tomas_vidal_serrano",
+      "5572_jose_vidal_serrano"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Gerónimo Talarn Valldepérez",
+      "María Bosch Castell"
+    ],
+    "father_name": "Gerónimo Talarn Valldeperez",
+    "mother_name": "Maria Bosch Castell",
+    "spouse_names": [
+      "Francisca Balaguer Omedes"
+    ],
+    "children_names": [
+      "José Talarn Balaguer",
+      "María de Cervellón Talarn Balagué",
+      "Josefa Talarn Balaguer",
+      "Maria Antonia Talarn Balaguer",
+      "Domingo Vidal Serrano",
+      "Francisca Vidal Serrano",
+      "Tomás Vidal Serrano",
+      "José Vidal Serrano"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Thomas Vidal",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 25 d'octubre de 1807 a la Ràpita.\n\nPadrins: Tomás Vidal i Agustina Biosca.\n\nCasament: el 4 de desembre de 1830 amb Francisca Balaguer Omedes [o Homedes] de Tortosa [1805].\n\nFills: María de Cervellón [1832], Josefa [1834], José [1836] i María Antonia [1839].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

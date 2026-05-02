@@ -1,0 +1,68 @@
+{
+  "id": "2559_joaquin_giner_bedos",
+  "source_id": "2559",
+  "row_ref": "2559. Joaquín Giner Bedós",
+  "name": "Joaquín Giner Bedós",
+  "gender": "male",
+  "birth": {
+    "date": "1795-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1795].\n\nCasament: amb Manuela Fibla Marín de la Senia de Rossell [1798].\n\nFills: Joaquín [1820], Carlos [1820], Manuela [1825], Esperanza [1825], Pilar [1830], Ventura [1842], Teresa [1835] i Cristobal [1835].\n\nAl abril de 1877 mor la seua dona i ja era vidua.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

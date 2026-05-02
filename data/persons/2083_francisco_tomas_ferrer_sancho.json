@@ -1,0 +1,75 @@
+{
+  "id": "2083_francisco_tomas_ferrer_sancho",
+  "source_id": "2083",
+  "row_ref": "2083. Francisco Tomás Ferrer Sancho",
+  "name": "Francisco Tomás Ferrer Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1827-09-15",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2057_fermin_ferrer_marti"
+    ],
+    "father": "2057_fermin_ferrer_marti",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Fermín Ferrer Martí",
+      "Ramona Sancho Pla"
+    ],
+    "father_name": "Fermín Ferrer Martí",
+    "mother_name": "Ramona Sancho Pla",
+    "spouse_names": [
+      "Rosa Sans Arlández"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Carbó",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 15 de setembre de 1827 a la Ràpita.\n\nPadrins: Francisco Carbó i Bàrbara Vidal.\n\nProfessió: pagès.\n\nCasament: el 21 d'agost de 1852 amb Rosa Sans Arlández de la Ràpita [1829]. Testimonis: Manuel Míes i Lorenzo Gasparín.\n\nFills: Francisco [1854], Teresa [1860], Rosa [1860] i Serafina [1862].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

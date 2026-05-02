@@ -1,0 +1,82 @@
+{
+  "id": "72_felipa_alegret_gala",
+  "source_id": "72",
+  "row_ref": "72. Felipa Alegret Gala",
+  "name": "Felipa Alegret Gala",
+  "gender": "female",
+  "birth": {
+    "date": "1824-02-14",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "79_christobal_alegret_riba",
+      "2274_tomasa_gala_pol"
+    ],
+    "father": "79_christobal_alegret_riba",
+    "mother": "2274_tomasa_gala_pol",
+    "spouse": [
+      "1386_jose_cera_cartes"
+    ],
+    "children": [
+      "1373_jose_cera_alegret"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Christobal Alegret Riba",
+      "Tomasa Gala Pol"
+    ],
+    "father_name": "Christobal Alegret Riba",
+    "mother_name": "Tomasa Gala Pol",
+    "spouse_names": [
+      "José Cera Cartes"
+    ],
+    "children_names": [
+      "José Cera Alegret"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Antonio Torné",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 14 de febrer de 1824 a la Ràpita.\n\nEls padrins son Antonio Torné Caudet i Lorenza Fornesa Prado de Ulloa.\n\nCasament: el 23 de setembre de 1843 amb José Cera Cartes de Tortosa [1820].\n\nFills: José [1844].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "3972_teresa_miguela_pinol_garcia",
+  "source_id": "3972",
+  "row_ref": "3972. Teresa Miguela Piñol García",
+  "name": "Teresa Miguela Piñol García",
+  "gender": "female",
+  "birth": {
+    "date": "1842-12-30",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3971_jose_pinol_consalvo",
+      "2352_teresa_garcia_marti"
+    ],
+    "father": "3971_jose_pinol_consalvo",
+    "mother": "2352_teresa_garcia_marti",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Piñol Consalvo",
+      "Teresa García Martí"
+    ],
+    "father_name": "José Piñol Consalvo",
+    "mother_name": "Teresa García Martí",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José García",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 30 de desembre de 1842 a la Ràpita.\n\nPadrins: José García i Miguela García.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

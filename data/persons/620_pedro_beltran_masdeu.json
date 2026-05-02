@@ -1,0 +1,95 @@
+{
+  "id": "620_pedro_beltran_masdeu",
+  "source_id": "620",
+  "row_ref": "620. Pedro Beltran Masdeu",
+  "name": "Pedro Beltran Masdeu",
+  "gender": "male",
+  "birth": {
+    "date": "1791-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "626_vicente_beltran_minana",
+      "3155_eulalia_masdeu"
+    ],
+    "father": "626_vicente_beltran_minana",
+    "mother": "3155_eulalia_masdeu",
+    "spouse": [
+      "2056_teodora_ferrer_marti"
+    ],
+    "children": [
+      "604_vicente_beltran_ferre",
+      "605_miguel_beltran_ferrer",
+      "606_ramon_beltran_ferrer",
+      "607_francisco_beltran_ferrer",
+      "608_francisco_salvador_beltran_ferrer",
+      "609_manuela_beltran_ferrer",
+      "610_pedro_beltran_ferrer",
+      "611_francisco_salvador_beltran_ferrer"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Beltran Miñana",
+      "Eulalia Masdeu"
+    ],
+    "father_name": "Vicente Beltran Miñana",
+    "mother_name": "Eulalia Masdeu",
+    "spouse_names": [
+      "Teodora Ferrer Martí"
+    ],
+    "children_names": [
+      "Vicente Beltran Ferré",
+      "Miguel Beltran Ferrer",
+      "Ramon Beltran Ferrer",
+      "Francisco Beltran Ferrer",
+      "Francisco Salvador Beltran Ferrer",
+      "Manuela Beltran Ferrer",
+      "Pedro Beltran Ferrer"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1791].\n\nProfessió: pagès.\n\nCasament: el 26 de juliol de 1809 amb Teodora Ferrer Martí del Portell de Morella [1789]. Es va casar als 18 anys.\n\nFills: Manuela [1809], Francisco Salvador [1813], Francisco [1814], Pedro [1820], Ramón [1823], Miguel [1826], Vicente [1830 i Francisco Salvador [1835].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

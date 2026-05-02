@@ -1,0 +1,81 @@
+{
+  "id": "5269_dolores_tarrago_urquisu",
+  "source_id": "5269",
+  "row_ref": "5269. Dolores Tarragó Urquisu",
+  "name": "Dolores Tarragó Urquisu",
+  "gender": "female",
+  "birth": {
+    "date": "1817-01-01",
+    "place": "Vinaròs"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5268_francisco_tarrago"
+    ],
+    "father": "5268_francisco_tarrago",
+    "mother": null,
+    "spouse": [
+      "2295_vicente_garcia_beltran"
+    ],
+    "children": [
+      "2374_maria_de_la_cinta_garcia_tarrago"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Tarragó",
+      "Agustina Urquisu"
+    ],
+    "father_name": "Francisco Tarragó",
+    "mother_name": "Agustina Urquisu",
+    "spouse_names": [
+      "Vicente García Beltran"
+    ],
+    "children_names": [
+      "Maria de la Cinta García Tarragó"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1817]. Al bateig d'una filla diu que es de Cartagena. \n\nCasament: el 13 de febrer de 1836 amb Vicente García Beltran de València [1815]. Es casa als 19 anys.\n\nFills: Francisco [1840], Manuel [1840], María de la Cinta [1842], Vicente [1845] i Agustín [1845].\n\nDefunció: el 25 de maig de 1877 a la Ràpita als 62 anys de pleuroneumonia. Declara la mor al registre civil Esperanza Ferré, vidua. Tenia fet testament a Tortosa.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "3376_maria_de_los_dolores_miguel_fibla",
+  "source_id": "3376",
+  "row_ref": "3376. María de los Dolores Miguel Fibla",
+  "name": "María de los Dolores Miguel Fibla",
+  "gender": "female",
+  "birth": {
+    "date": "1822-02-11",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3380_jose_miguel_querol",
+      "2121_agustina_fibla_beltran"
+    ],
+    "father": "3380_jose_miguel_querol",
+    "mother": "2121_agustina_fibla_beltran",
+    "spouse": [
+      "4912_jose_sancho_planes"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Miguel Querol",
+      "Agustina Fibla Beltran"
+    ],
+    "father_name": "José Miguel Querol",
+    "mother_name": "Agustina Fibla Beltran",
+    "spouse_names": [
+      "José Sancho Planes"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Clua",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'11 de febrer de 1822 a la Ràpita.\n\nPadrins: José Clua i Rosa Miguel.\n\nCasament: el 20 de maig de 1848 amb José Sancho Planes de la Ràpita [1815]. Es casa als 32 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

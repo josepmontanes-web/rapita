@@ -1,0 +1,79 @@
+{
+  "id": "1451_miguel_chimeno_o_ximeno_queral",
+  "source_id": "1451",
+  "row_ref": "1451. Miguel Chimeno [o Ximeno] Queral",
+  "name": "Miguel Chimeno [o Ximeno] Queral",
+  "gender": "male",
+  "birth": {
+    "date": "1808-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1454_vicente_chimeno_o_ximeno_reverter",
+      "1455_manuel_chimeno_o_ximeno_reverter"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Ximeno",
+      "Luisa Queral"
+    ],
+    "father_name": "Antonio Ximeno",
+    "mother_name": "Luisa Queral",
+    "spouse_names": [
+      "Maria Reverter Balagué"
+    ],
+    "children_names": [
+      "Vicente Chimeno [o Ximeno] Reverter",
+      "Manuel Chimeno [o Ximeno] Reverter"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1808].\n\nCasament: el 14 d'agost de 1833 amb María Reverter Balagué de la Ràpita [1807]. Es casa als 25 anys.\n\nFills: Juan [1833], María Josefa [1836], Francisca [1838], Manuel [1840], Vicente [1842], Ramona [1850] i Francisco [1848].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "2803_vicente_huguet_o_uguet_miralles",
+  "source_id": "2803",
+  "row_ref": "2803. Vicente Huguet [o Uguet] Miralles",
+  "name": "Vicente Huguet [o Uguet] Miralles",
+  "gender": "male",
+  "birth": {
+    "date": "1825-01-01",
+    "place": "Vinaroz"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Uguet",
+      "Agustina Miralles"
+    ],
+    "father_name": "José Uguet",
+    "mother_name": "Agustina Miralles",
+    "spouse_names": [
+      "Tomasa Borràs Carbó"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Matriculado"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1825].\n\n\"Matriculado\".\n\nCasament: el 28 d'octubre de 1848 amb Tomasa Borràs Carbó de la Ràpita [1831]. Es casa als 23 anys.\n\nFills: Vicenta [1856] i Manuel [1858].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "3493_isabel_moreso",
+  "source_id": "3493",
+  "row_ref": "3493. Isabel Moreso",
+  "name": "Isabel Moreso",
+  "gender": "female",
+  "birth": {
+    "date": "1785-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1814-05-04",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1394_juan_cera_moreso"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Juan Cera"
+    ],
+    "children_names": [
+      "Juan Cera Moreso"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1785]. \n\nCasament: amb Domingo Cera. A la partida de defunció diu que el seu marit es Juan Cera però a la partida de bateig d'un fill diu que es Domingo Cera.\n\nFills: Juan Cera Moreso [1806].\n\nDefunció: el 4 de maig de 1814 a la Ràpita. Va morir als 29 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

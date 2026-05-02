@@ -1,0 +1,77 @@
+{
+  "id": "4609_maria_rosa_safon_balaguer",
+  "source_id": "4609",
+  "row_ref": "4609. Maria Rosa Safon Balaguer",
+  "name": "Maria Rosa Safon Balaguer",
+  "gender": "female",
+  "birth": {
+    "date": "1823-07-21",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4624_juan_safon_fabregat"
+    ],
+    "father": "4624_juan_safon_fabregat",
+    "mother": null,
+    "spouse": [
+      "2637_felipe_gombau_marsal"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Safon Fabregat",
+      "Maria Balagué Omedes"
+    ],
+    "father_name": "Juan Safont Fabregat",
+    "mother_name": "Maria Balagué Omedes",
+    "spouse_names": [
+      "Felipe Gombau Marsal"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Manuel Safon",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 21 de juliol de 1823 a la Ràpita.\n\nPadrins: Manuel Safont i Rosa Balaguer.\n\nCasament: el 30 d'octubre de 1841 amb Felipe Gombau Marsal d'Amposta [1820].\n\nFills: Juan Agustín [1842], María [1845], Vicenta [1850] i Francisco [1851].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

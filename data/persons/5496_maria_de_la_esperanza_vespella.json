@@ -1,0 +1,68 @@
+{
+  "id": "5496_maria_de_la_esperanza_vespella",
+  "source_id": "5496",
+  "row_ref": "5496. María de la Esperanza Vespella",
+  "name": "María de la Esperanza Vespella",
+  "gender": "female",
+  "birth": {
+    "date": "1875-01-01",
+    "place": "Tarragona"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tarragona [aprox. 1875].\n\nDefunció: el 3 de novembre de 1878 a la Ràpita, als 3 anys de diseteria. Declara la mor la seua mare adoptiva Escolástica Vidal.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

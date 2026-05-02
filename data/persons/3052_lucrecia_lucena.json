@@ -1,0 +1,76 @@
+{
+  "id": "3052_lucrecia_lucena",
+  "source_id": "3052",
+  "row_ref": "3052. Lucrecia Lucena",
+  "name": "Lucrecia Lucena",
+  "gender": "female",
+  "birth": {
+    "date": "1763-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1833-04-11",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "5274_juan_teixidor"
+    ],
+    "children": [
+      "5275_pedro_teixidor_lucena"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Juan Teixidor"
+    ],
+    "children_names": [
+      "Pedro Teixidor Lucena"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa  [aprox. 1763]. \n\nCasament: amb Juan Teixidor de Girona [1760].\n\nFills: Pedro [1793].\n\nDefunció: l'11 d'abril de 1833 a la Ràpita. Va morir als 70 anys. No fa testament. \"No dotó su alma por ser pobre de solemnidad\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "4494_rafael_romeu_reverte",
+  "source_id": "4494",
+  "row_ref": "4494. Rafael Romeu Reverté",
+  "name": "Rafael Romeu Reverté",
+  "gender": "male",
+  "birth": {
+    "date": "1827-01-03",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4486_manuel_romeu_pla"
+    ],
+    "father": "4486_manuel_romeu_pla",
+    "mother": null,
+    "spouse": [
+      "2008_esperanza_ferre_borja"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel Romeu Pla",
+      "Josefa Antonia Reverter Obiol"
+    ],
+    "father_name": "Manuel Romeu Pla",
+    "mother_name": "Josefa Antonia Reverter Obiol",
+    "spouse_names": [
+      "Esperanza Ferré Borja"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Alexandro Monserrat",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Matriculado"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 3 de gener de 1827 a la Ràpita.\n\nPadrins: Alexandro Montserrat i Rafaela Verge.\n\nProfessió: \"matriculado\".\n\nCasament: el 14 de novembre de 1849 amb Esperanza Ferré Borja d'Altea [1827].\n\nFills: María de la Cinta [1853] i José [1858].\n\nAl 1875 està mort.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

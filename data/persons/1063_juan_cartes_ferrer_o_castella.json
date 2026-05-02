@@ -1,0 +1,83 @@
+{
+  "id": "1063_juan_cartes_ferrer_o_castella",
+  "source_id": "1063",
+  "row_ref": "1063. Juan Cartes Ferrer [o Castellà]",
+  "name": "Juan Cartes Ferrer [o Castellà]",
+  "gender": "male",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1046_francisco_cartes"
+    ],
+    "father": "1046_francisco_cartes",
+    "mother": null,
+    "spouse": [
+      "3602_antonia_navarro_balaguer"
+    ],
+    "children": [
+      "1075_antonia_cartes_navarro",
+      "1076_marcela_cartes_navarro"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Cartes",
+      "Vicenta o Antonia Ferrer o Castellà"
+    ],
+    "father_name": "Francisco Cartes",
+    "mother_name": "Vicenta o Antonia Ferrer o Castellà",
+    "spouse_names": [
+      "Antonia Navarro Balaguer"
+    ],
+    "children_names": [
+      "Antonia Cartes Navarro",
+      "Marcela Cartes Navarro"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1810].\n\nCasament: amb Antonia Navarro Balaguer de Tortosa [1810].\n\nFills: Antonia (Tortosa) [1830], Marcela [1833], Felipe [1837], Candia [1840] i Francisco [1842].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

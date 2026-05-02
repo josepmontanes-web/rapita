@@ -1,0 +1,75 @@
+{
+  "id": "2317_ramon_garcia_de_la_ballina",
+  "source_id": "2317",
+  "row_ref": "2317. Ramon García de la Ballina",
+  "name": "Ramon García de la Ballina",
+  "gender": "male",
+  "birth": {
+    "date": "1835-01-01",
+    "place": "Madrid"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2359_francisco_garcia_rosales"
+    ],
+    "father": "2359_francisco_garcia_rosales",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco García Rosales",
+      "María de la Ballina"
+    ],
+    "father_name": "Francisco García",
+    "mother_name": "María de la Ballina",
+    "spouse_names": [
+      "María Giménez"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Empleat de les obres"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Madrid [aprox. 1835].\n\n\"Empleado de las obras de canalización del Ebro\".\n\nCasament: el 20 d'abril de 1855 amb María Giménez \"natural de la Enclusa de Pamplona. Hija de padres desconocidos\". Es casa als 20 anys. Testimonis: Don Francisco Masip \"beneficiario presbítero de la villa de la Jana\" i Francisco Ponciano.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

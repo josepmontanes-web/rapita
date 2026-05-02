@@ -1,0 +1,71 @@
+{
+  "id": "3323_jorge_mayer_weiven",
+  "source_id": "3323",
+  "row_ref": "3323. Jorge Mayer Weiven",
+  "name": "Jorge Mayer Weiven",
+  "gender": "male",
+  "birth": {
+    "date": "1775-01-01",
+    "place": "Eiselden (Alemania)"
+  },
+  "death": {
+    "date": "1801-10-13",
+    "place": "Sant Carles dela Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Christian Mayer",
+      "Ana María Weiven"
+    ],
+    "father_name": "Christian Mayer",
+    "mother_name": "Ana María Weiven",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Soldat"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Eiselden (Alemania) [aprox. 1775]. Podria ser Einsiedeln (Suïssa).\n\nDefunció: el 13 d'octubre de 1801 a la Ràpita.\n\n\"Soldado suizo en el regimiento ambulante de Rutiman 3ª Cia. 2º Batallón. Murió de repente estando de guardia en la bateria a las 5 de la mañana\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

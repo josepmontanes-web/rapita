@@ -1,0 +1,71 @@
+{
+  "id": "2652_juan_bautista_gomes_marti",
+  "source_id": "2652",
+  "row_ref": "2652. Juan Bautista Gomes Martí",
+  "name": "Juan Bautista Gomes Martí",
+  "gender": "male",
+  "birth": {
+    "date": "1837-06-07",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Gomes Bofin",
+      "Maria Martí Baíma"
+    ],
+    "father_name": "Juan Gomes Bofin",
+    "mother_name": "Maria Martí Baíma",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Silvestre",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 7 de juny de 1837 a la Ràpita.\n\nPadrins: Francisco Silvestre i Rosa López.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

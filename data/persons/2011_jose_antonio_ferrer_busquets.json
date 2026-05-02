@@ -1,0 +1,85 @@
+{
+  "id": "2011_jose_antonio_ferrer_busquets",
+  "source_id": "2011",
+  "row_ref": "2011. José Antonio Ferrer Busquets",
+  "name": "José Antonio Ferrer Busquets",
+  "gender": "male",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2007_joaquin_ferrer_bellobi"
+    ],
+    "father": "2007_joaquin_ferrer_bellobi",
+    "mother": null,
+    "spouse": [
+      "1588_juana_comi_nicolau"
+    ],
+    "children": [
+      "2016_juan_bautista_ferrer_comi",
+      "2017_maria_theresa_ferrer_comi",
+      "2018_jose_ferre_comi"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Ferrer Bellobí",
+      "Teresa Busquets"
+    ],
+    "father_name": "Joaquín Ferrer",
+    "mother_name": "Teresa Busquets",
+    "spouse_names": [
+      "Juana Comí Nicolau"
+    ],
+    "children_names": [
+      "Juan Bautista Ferrer Comí",
+      "Maria Theresa Ferrer Comí",
+      "José Ferré Comí"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1810].\n\nCasament: amb Juana Comí Nicolau de Tortosa [1810].\n\nFills: Juan Bautista [1837], María Teresa [1840] i José [1841].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

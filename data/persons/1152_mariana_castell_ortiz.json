@@ -1,0 +1,87 @@
+{
+  "id": "1152_mariana_castell_ortiz",
+  "source_id": "1152",
+  "row_ref": "1152. Mariana Castell Ortíz",
+  "name": "Mariana Castell Ortíz",
+  "gender": "female",
+  "birth": {
+    "date": "1767-01-01",
+    "place": "Ulldecona"
+  },
+  "death": {
+    "date": "1809-04-16",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "4974_rosa_sans_castell",
+      "4975_juan_sans_castell",
+      "4976_francisco_sans_castell",
+      "4977_ramon_sans_castell",
+      "4978_francisca_sans_castell",
+      "4979_alexandro_sans_castell"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustín Castell",
+      "Ana Maria Ortíz"
+    ],
+    "father_name": "Agustín Castell",
+    "mother_name": "Ana Maria Ortíz",
+    "spouse_names": [
+      "Josef Sans Sanarau"
+    ],
+    "children_names": [
+      "Rosa Sans Castell",
+      "Juan Sans Castell",
+      "Francisco Sans Castell",
+      "Ramón Sans Castell",
+      "Francisca Sans Castell",
+      "Alexandro Sans Castell"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Ulldecona [aprox. 1767].\n\nCasament: amb José Sans Sanarau de Tivenys [1765].\n\nFills: Juan [1792], Rosa Mariana [1794], Francisco [1797], Francisca [1800], Ramón [1802] i Alexandro [1804].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Fonda Vella (ACA BGRP Cajas 34).\n\nDefunció: el 16 d'abril de 1809 a la Ràpita. Va morir als 42 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

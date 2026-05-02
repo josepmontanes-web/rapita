@@ -1,0 +1,73 @@
+{
+  "id": "2392_maria_francisca_gasparin_briciano",
+  "source_id": "2392",
+  "row_ref": "2392. María Francisca Gasparín Briciano",
+  "name": "María Francisca Gasparín Briciano",
+  "gender": "female",
+  "birth": {
+    "date": "1830-10-08",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2448_agustin_gasparin_ortiz"
+    ],
+    "father": "2448_agustin_gasparin_ortiz",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustín Gasparín Ortiz",
+      "Teresa Briciano Pasqual"
+    ],
+    "father_name": "Agustín Gasparín Ortiz",
+    "mother_name": "Teresa Briciano Pasqual",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Pedro Bresciano",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 8 d'octubre de 1830 a la Ràpita.\n\nPadrins: Pedro Bresciano i Juliana Pasqual.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

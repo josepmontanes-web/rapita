@@ -1,0 +1,74 @@
+{
+  "id": "369_vicenta_rita_balada_reverter",
+  "source_id": "369",
+  "row_ref": "369. Vicenta Rita Balada Reverter",
+  "name": "Vicenta Rita Balada Reverter",
+  "gender": "female",
+  "birth": {
+    "date": "1836-05-21",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "323_miguel_balada_balada",
+      "4346_antonia_reverter_sancho"
+    ],
+    "father": "323_miguel_balada_balada",
+    "mother": "4346_antonia_reverter_sancho",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Balada Balada",
+      "Antonia Reverter Sancho"
+    ],
+    "father_name": "Miguel Balada Balada",
+    "mother_name": "Antonia Reverter Sancho",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Mariano Miralles",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 21 de maig de 1836 a la Ràpita.\n\nPadrins: Mariano Miralles dels Freginals i Vicenta Cervera de Sant Mateu.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

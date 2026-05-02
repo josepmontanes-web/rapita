@@ -1,0 +1,71 @@
+{
+  "id": "861_francisco_brunet_monlleo",
+  "source_id": "861",
+  "row_ref": "861. Francisco Brunet Monlleo",
+  "name": "Francisco Brunet Monlleo",
+  "gender": "male",
+  "birth": {
+    "date": "1790-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1795-05-29",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Brunet",
+      "Teresa Monlleo"
+    ],
+    "father_name": "Bautista Brunet",
+    "mother_name": "Teresa Monlleo",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1790].\n\nDefunció: el 29 de maig de 1795 a la Ràpita. Va morir parvul.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

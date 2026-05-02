@@ -1,0 +1,100 @@
+{
+  "id": "2643_vicente_gombau_ortiz",
+  "source_id": "2643",
+  "row_ref": "2643. Vicente Gombau Ortiz",
+  "name": "Vicente Gombau Ortiz",
+  "gender": "male",
+  "birth": {
+    "date": "1789-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2625_bautista_gombau_castella",
+      "3758_francisca_ortiz_albacar"
+    ],
+    "father": "2625_bautista_gombau_castella",
+    "mother": "3758_francisca_ortiz_albacar",
+    "spouse": [
+      "1247_teresa_castella_dalmau"
+    ],
+    "children": [
+      "2624_francisca_gombau_castella",
+      "2625_bautista_gombau_castella",
+      "2626_maria_teresa_gombau_castella",
+      "2627_maria_thomasa_gombau_castella",
+      "2628_vicente_juan_gombau_castella",
+      "2629_gonzalo_gombau_castella",
+      "2630_pedro_armengol_gombau_castella",
+      "2631_juan_francisco_gombau_castella",
+      "2632_gerardo_gombau_castella",
+      "3758_francisca_ortiz_albacar"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Gombau Castellà",
+      "Francisca Ortiz Albacar"
+    ],
+    "father_name": "Bautista Gombau",
+    "mother_name": "Francisca Ortiz Albacar",
+    "spouse_names": [
+      "Teresa Castellà Dalmau"
+    ],
+    "children_names": [
+      "Francisca Gombau Castellà",
+      "Bautista Gombau Castellà",
+      "Maria Teresa Gombau Castellà",
+      "Maria Thomasa Gombau Castellà",
+      "Vicente Juan Gombau Castellà",
+      "Gonzalo Gombau Castellà",
+      "Pedro Armengol Gombau Castellà",
+      "Juan Francisco Gombau Castellà",
+      "Gerardo Gombau Castellà",
+      "Francisca Ortiz Albacar"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1789].\n\nProfessió: pagès.\n\nCasament: el 8 de febrer de 1817 amb Francisca Teresa Castellà Dalmau de la Ràpita [1797]. Es casa als 28 anys.\n\nFills: Francisca [1819], Bautista [1821], María Tomasa [1824], María Teresa [1826], Vicente Juan [1829], Gonzalo [1832], Pedro Armengol [1834], Juan Francisco [1836] i Gerardo [1839].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

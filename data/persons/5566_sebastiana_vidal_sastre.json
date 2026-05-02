@@ -1,0 +1,78 @@
+{
+  "id": "5566_sebastiana_vidal_sastre",
+  "source_id": "5566",
+  "row_ref": "5566. Sebastiana Vidal Sastre",
+  "name": "Sebastiana Vidal Sastre",
+  "gender": "female",
+  "birth": {
+    "date": "1800-12-02",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5538_jacinto_vidal_palos",
+      "5038_teresa_sastre_borrell"
+    ],
+    "father": "5538_jacinto_vidal_palos",
+    "mother": "5038_teresa_sastre_borrell",
+    "spouse": [
+      "2007_joaquin_ferrer_bellobi"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Jacinto Vidal Palos",
+      "Teresa Sastre Borrell"
+    ],
+    "father_name": "Jacinto Vidal Palos",
+    "mother_name": "Teresa Sastre Borrell",
+    "spouse_names": [
+      "Joaquín Ferrer Bellobí"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Sebastián Pasarell",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 2 de desembre de 1800 a la Ràpita.\n\nPadrins: Don Sebastián Pasarell i Doña Francisca María Berthomeu.\n\nCasament: el 27 de setembre de 1819 amb Joaquín Ferrer Bellobí.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

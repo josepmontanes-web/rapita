@@ -1,0 +1,73 @@
+{
+  "id": "2859_manuel_izquierdo_saperas",
+  "source_id": "2859",
+  "row_ref": "2859. Manuel Izquierdo Saperas",
+  "name": "Manuel Izquierdo Saperas",
+  "gender": "male",
+  "birth": {
+    "date": "1793-10-15",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2839_juan_izquierdo_carceller"
+    ],
+    "father": "2839_juan_izquierdo_carceller",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Izquierdo Carceller",
+      "Rosa Saperas Rauera"
+    ],
+    "father_name": "Juan Izquierdo Carceller",
+    "mother_name": "Rosa Saperas Rauera",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Manuel Izquierdo Carceller",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 15 d'octubre de 1793 a la Ràpita.\n\nPadrins: Manuel Izquierdo Carceller i Josefa Dalmau.\n\nEntre 1820 i 1834 Manuel Izquierdo signa com Alcalde de San Carlos. No podem afirmar que sigui Manuel Izquierdo Saperas.\n\nEl 3 de març de 1829 es un dels 7 veïns que forma part de la Junta de Foment de la Agricultura i volen demanar 1000 jornals de terra per a veïns del poble..",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "3770_tomasa_palatsi_ciurana",
+  "source_id": "3770",
+  "row_ref": "3770. Tomasa Palatsí Ciurana",
+  "name": "Tomasa Palatsí Ciurana",
+  "gender": "female",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Calig"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3769_jayme_palatsi_julve",
+      "1509_teresa_ciurana_llopis"
+    ],
+    "father": "3769_jayme_palatsi_julve",
+    "mother": "1509_teresa_ciurana_llopis",
+    "spouse": [
+      "3986_bautista_pla_castellvi"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Jayme Palatsí Julve",
+      "Teresa Ciurana Llopis"
+    ],
+    "father_name": "Jayme Palatsí",
+    "mother_name": "Teresa Ciurana Llopis",
+    "spouse_names": [
+      "Bautista Pla Castellví"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Calig [aprox. 1820]. \n\nCasament: el 24 de juliol de 1841 amb Bautista Pla Castellví natural i veí de Benissanet, fill de Bautista i Josefa.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

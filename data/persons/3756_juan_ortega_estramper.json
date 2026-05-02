@@ -1,0 +1,75 @@
+{
+  "id": "3756_juan_ortega_estramper",
+  "source_id": "3756",
+  "row_ref": "3756. Juan Ortega Estramper",
+  "name": "Juan Ortega Estramper",
+  "gender": "male",
+  "birth": {
+    "date": "1811-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "2275_teresa_gala_ximenes"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Marco Ortega",
+      "Vicenta Estramper"
+    ],
+    "father_name": "Marco Ortega",
+    "mother_name": "Vicenta Estramper",
+    "spouse_names": [
+      "Teresa Gala Ximenes"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1811]. \n\nCasament: el 17 de desembre de 1832 amb Teresa Gala Ximenes. Es casa als 21 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

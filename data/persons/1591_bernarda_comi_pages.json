@@ -1,0 +1,75 @@
+{
+  "id": "1591_bernarda_comi_pages",
+  "source_id": "1591",
+  "row_ref": "1591. Bernarda Comí Pagès",
+  "name": "Bernarda Comí Pagès",
+  "gender": "female",
+  "birth": {
+    "date": "1834-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1693_tomas_curto_sancho"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Cristoval Comí",
+      "Paula Pagès"
+    ],
+    "father_name": "Cristoval Comí",
+    "mother_name": "Paula Pagès",
+    "spouse_names": [
+      "Tomás Curto Sancho"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1834].\n\nCasament: el 4 de novembre de 1854 amb Tomás Curto Sancho de la Ràpita [1831]. Es casa als 20 anys. Testimonis: Juan Aragonés i Trinitario Verge.\n\nFills: Paula [1857], Cristobal [1858], Cinta [1860] i Dolores [1863].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "3056_josefa_macian",
+  "source_id": "3056",
+  "row_ref": "3056. Josefa Macián",
+  "name": "Josefa Macián",
+  "gender": "female",
+  "birth": {
+    "date": "1760-01-01",
+    "place": "Begís (Castelló)"
+  },
+  "death": {
+    "date": "1834-09-08",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "973_jose_capilla"
+    ],
+    "children": [
+      "976_florencia_capilla_macian",
+      "977_tomas_capilla_macian",
+      "978_luis_capilla_macian",
+      "979_jose_capilla_macian"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "José Capilla"
+    ],
+    "children_names": [
+      "Florencia Capilla Macián",
+      "Tomas Capilla Macián",
+      "Luís Capilla Macián",
+      "José Capilla Macián"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Begís (Castelló) [aprox. 1760]. \n\nCasament: amb José Capilla de Canales de Bejís (Castelló) [1762].\n\nFills: Florencia (Bejís) [1782], Luís [1787], Tomás (Canales de Bejís) [1790] i José [1796].\n\nDefunció: el 8 de setembre de 1834 a la Ràpita. Va morir als 84 anys. No fa testament.\n\nPodría ser germana de José Macián Asensio [1768], però no es segur.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

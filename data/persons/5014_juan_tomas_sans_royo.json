@@ -1,0 +1,72 @@
+{
+  "id": "5014_juan_tomas_sans_royo",
+  "source_id": "5014",
+  "row_ref": "5014. Juan Tomás Sans Royo",
+  "name": "Juan Tomás Sans Royo",
+  "gender": "male",
+  "birth": {
+    "date": "1880-10-28",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "5295_asuncion_tomas_rams"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Asunción Tomàs Rams"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 28 de desembre de 1880 a la Ràpita. Es bessó. El pare té 26 anys i es jornaler, la mare en té 27.\n\nDefunció: el 15 de novembre de 1961 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

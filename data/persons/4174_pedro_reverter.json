@@ -1,0 +1,86 @@
+{
+  "id": "4174_pedro_reverter",
+  "source_id": "4174",
+  "row_ref": "4174. Pedro Reverter",
+  "name": "Pedro Reverter",
+  "gender": "male",
+  "birth": {
+    "date": "1755-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "4933_christofola_sancho_sancho"
+    ],
+    "children": [
+      "4337_juan_bautista_reverter_sancho",
+      "4338_pedro_reverter_sancho",
+      "4339_rosa_reverter_sancho",
+      "4340_jose_reverter_sancho",
+      "4341_matilde_reverter_sancho",
+      "4342_candia_reverter_sancho"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Christofola Sancho Sancho"
+    ],
+    "children_names": [
+      "Juan Bautista Reverter Sancho",
+      "Pedro Reverter Sancho",
+      "Rosa Reverter Sancho",
+      "José Reverter Sancho",
+      "Matilde Reverter Sancho",
+      "Candia Reverter Sancho"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1755]. \n\nProfessió: pagès.\n\nCasament: amb Christofola Sancho Sancho d'Alcanar [1757].\n\nFills: José (Alcanar) [1781], Matilde (Alcanar) [1783], Pedro (Alcanar) [1785], Rosa (Alcanar) [1785], Candia (Alcanar) [1792] i Juan Bautista [1790].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Masia de Don Joaquín Anglès  (ACA BGRP Cajas 34).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

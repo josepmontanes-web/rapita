@@ -1,0 +1,74 @@
+{
+  "id": "1341_mateo_castella_zaragoza",
+  "source_id": "1341",
+  "row_ref": "1341. Mateo Castellà Zaragoza",
+  "name": "Mateo Castellà Zaragoza",
+  "gender": "male",
+  "birth": {
+    "date": "1750-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1225_mariano_castella_cid",
+      "1287_juan_castella_mola"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Mariano Castellà Cid",
+      "Juan Castellà Mola"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pescador"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1750].\n\nCasament: amb Maria Mola de Tortosa.\n\nFills: Juan (Tortosa) [1775] i Josefa.\n\nEl 12 de juliol de 1789 fa Escritura per a donar poder al procurador Juan Bautista Olesa y Fuentes per a que pugui pleitejar  per compte dels seus fills Joan i Josepa fills d'ell i la difunta Maria Mola. Diu que es Matheo Castellà menor pescador d'aquesta matricula i veinatge.\n\nCasament: amb Candida Cid de Tortosa [1754].\n\nFills: Mariano (Tortosa) [1790] i Joaquín [1790].\n\nAl març de 1787 diu que a Mateo Castellà i al seu germà Francisco Castellà veïns de San Carlos els denuncien per les pesqueres que fan. El comissari de marina de Tortosa diu que se li han presentat Mateo Castellà i el seu germà dient que els posen multes per les pesqueres que fan. Diu que com que pesquen poc i que no és suficient per la venda als forasters ni per l’abast del poble, que els eximeixin d’aquestes mutes per què el primer és que el poble tingui abast. (ACA BGPR Correspondencia Caixa 9). No es segur que aquest Mateo Castellà sigui Mateo Castellà Zaragoza i tampoc que Francisco Castellà sigui Francisco Castellà Zaragoza.\n\nEl 16 d'agost de 1791 fan escritura de lluisme Matheo Castellà menor i Domingo Piñana menor pescadors de la Ciutat de Tortosa com a Prohoms en orden segón i quart del Gremi de Sant Pere de Pescadors de Tortosa com Administradors de la Causa Pía o Almonia fundada per a redimir cautius de dit Gremi. Testimonis: el patró José García i la seua dona Maria Comi de la matricula da Tortosa i els seus veïns la quantitat de 206 lliures, 13 sous i 14 diners de moneda de plata valenciana. (no s'enten bé) . que pels expresats consorts García i Comí junts amb Maria Rosa Balaguer vidua en primeres nupcies de Jacinto García i en segones de Gaspar Comí els dos pescadors de Tortosa, mare fil i nora va vence i originalment com a Principals, i José Torner pescador de Tortosa com a fiador a favor de la citada causa Pía (entendre millor). Arxiu de Tortosa. Ministeri de Marina. Bajo el dia 30 de juliol de 1785 i las restantes 6 libras trece sueldos i quatro de la misma moneda en satisfacción y pago de la pension de dicho censo vencida en 27 de julio próximo pasado.\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu al barri dels pescadors  (ACA BGRP Cajas 34).\n\n\"Amb la comandancia de marina de Tortosa\n1789\nMuy señor mío: haviendo llegado a mi noticia de que Mateo y Francisco Castellá. Pescadores, residentes en esta nueva poblacion de muchos años a esta parte, pasan a las pesqueras de la tancada donde parece tienen obligación de asistir, dejando estas Reales obras sin auxilio alguno para el abasto del pescado, y hallándome asegurado de que los antecesores de v, em igual lance han permitido pusiesen en dichas pesqueras un hombre de satisfacción en su lugar para que no faltase el abasto en este pueblo, me es indispensable molestar a vm suplicandole se sirva permitir a los referidos pongan en dicha pesquera sujeto que desempeñe las obligaciones y que permanezcan en este destino permitiéndoles igualmente que los antecesores de vm se sirvan de cualquier sujeto no matriculado para que les ayude a pescar interin dan el abasto de este pueblo.\nCon este motivo me ofrezco a los preceptos de vm esperando me proporcione los de su mayor agrado como que Nuestro Seños guarde su vida muchos años. San Carlos a 13 s¡de febrero de 1789\nAl sr Dn Pedro Lopez Chavez\". (ACA BGRP caixa 11).\n\nAntonio Rosales paleta ven a Mateu, Francisco i Josep Castellà pescadors una casa situada a la vora del mar que linda amb el venedor, amb els compradors, amb el Real Canal i amb el camí que va a aquest i al Molí que s’està fent, pel preu de 30 duros de plata. A 27 d’abril de 1794, notari Bartolomé Garcia de Tortosa.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "3996_lorenzo_planes_gubern",
+  "source_id": "3996",
+  "row_ref": "3996. Lorenzo Planes Gubern",
+  "name": "Lorenzo Planes Gubern",
+  "gender": "male",
+  "birth": {
+    "date": "1790-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1791-09-01",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3994_miguel_planes_fabrega",
+      "2754_rita_gubern"
+    ],
+    "father": "3994_miguel_planes_fabrega",
+    "mother": "2754_rita_gubern",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Planes Fabrega",
+      "Rita Gubern"
+    ],
+    "father_name": "Miguel Planes Fabrega",
+    "mother_name": "Rita Gubern",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1790]. \n\nDefunció: l'1 de setembre de 1791 a la Ràpita. Va morir pàrvul.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

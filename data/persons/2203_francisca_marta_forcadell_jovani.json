@@ -1,0 +1,73 @@
+{
+  "id": "2203_francisca_marta_forcadell_jovani",
+  "source_id": "2203",
+  "row_ref": "2203. Francisca Marta Forcadell Jovani",
+  "name": "Francisca Marta Forcadell Jovani",
+  "gender": "female",
+  "birth": {
+    "date": "1835-07-29",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2195_joaquin_forcadell_forcadell"
+    ],
+    "father": "2195_joaquin_forcadell_forcadell",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Forcadell Forcadell",
+      "Maria Jovani Grau"
+    ],
+    "father_name": "Joaquín Forcadell Forcadell",
+    "mother_name": "Maria Jovani Grau",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Martí",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 29 de juliol de 1835 a la Ràpita.\n\nPadrins: Francisco Martí de Guimerà i Rosa Borràs.\n\nCasament: amb Jaume Jover.\n\nAmonestacions de casament a Reus: 13 de desembre de 1865 amb Jaume Carbonell Estivill, teixidor (fill de Ramón i Joaquima de Cornudella). (ACBC280-93-T1-625).\n\nEl segon cognom també apareix com Joaní.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

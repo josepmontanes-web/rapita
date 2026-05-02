@@ -1,0 +1,80 @@
+{
+  "id": "5593_manuela_vidal_vines",
+  "source_id": "5593",
+  "row_ref": "5593. Manuela Vidal Viñes",
+  "name": "Manuela Vidal Viñes",
+  "gender": "female",
+  "birth": {
+    "date": "1815-01-01",
+    "place": "La Senia"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5539_bautista_vidal_palos",
+      "5614_josefa_vines"
+    ],
+    "father": "5539_bautista_vidal_palos",
+    "mother": "5614_josefa_vines",
+    "spouse": [],
+    "children": [
+      "1421_susana_chale_vidal"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Vidal Palos",
+      "Josefa Viñes"
+    ],
+    "father_name": "Bautista Vidal",
+    "mother_name": "Josefa Viñes",
+    "spouse_names": [
+      "Jayme Chalé López"
+    ],
+    "children_names": [
+      "Susana Chalé Vidal"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a La Senia [aprox. 1815].\n\nCasament: el 16 de desembre de 1840 amb Jayme Chalé López de la Ràpita [1815].\n\nFills: Susana [1842].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

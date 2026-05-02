@@ -1,0 +1,75 @@
+{
+  "id": "764_tomasa_francisca_borras_carbo",
+  "source_id": "764",
+  "row_ref": "764. Tomasa Francisca Borràs Carbó",
+  "name": "Tomasa Francisca Borràs Carbó",
+  "gender": "female",
+  "birth": {
+    "date": "1831-05-15",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "788_tomas_borras_pauls"
+    ],
+    "father": "788_tomas_borras_pauls",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomas Borràs Pauls",
+      "Tadea Carbó Fibla"
+    ],
+    "father_name": "Tomas Borràs Pauls",
+    "mother_name": "Tadea Carbó Fibla",
+    "spouse_names": [
+      "Vicente Uguet Miralles"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 15 de maig de 1831 a la Ràpita.\n\nPadrina: Francisca Ascensi.\n\nCasament: el 28 d'octubre de 1848 amb Vicente Uguet [o Huguet] Miralles de Vinaròs [1825].\n\nFills: Vicenta [1856] i Manuel [1858].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

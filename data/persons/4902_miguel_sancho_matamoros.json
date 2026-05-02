@@ -1,0 +1,88 @@
+{
+  "id": "4902_miguel_sancho_matamoros",
+  "source_id": "4902",
+  "row_ref": "4902. Miguel Sancho Matamoros",
+  "name": "Miguel Sancho Matamoros",
+  "gender": "male",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4833_jose_sancho",
+      "3157_maria_matamoros"
+    ],
+    "father": "4833_jose_sancho",
+    "mother": "3157_maria_matamoros",
+    "spouse": [
+      "35_rosa_adell_tallada",
+      "3743_ana_maria_obiol_masip"
+    ],
+    "children": [
+      "4836_francisca_sancho_adell",
+      "4837_josef_manuel_sancho_adell",
+      "4838_pedro_sancho_adell"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Sancho",
+      "Maria Matamoros"
+    ],
+    "father_name": "José Sancho",
+    "mother_name": "Maria Matamoros",
+    "spouse_names": [
+      "Rosa Adell Tallada",
+      "Ana Maria Obiol Masip"
+    ],
+    "children_names": [
+      "Francisca Sancho Adell",
+      "Josef Manuel Sancho Adell",
+      "Pedro Sancho Adell"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1810]. \n\nProfessió: pagès.\n\nCasament: amb Rosa Adell Tallada d'Alcanar [1810].\n\nFills: Pedro [1838], Francisca [1838] i José Manuel [1840].\n\nCasament: el 2 de novembre de 1842 amb Ana María Obiol Masip d'Ulldecona [1810].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

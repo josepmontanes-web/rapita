@@ -1,0 +1,91 @@
+{
+  "id": "2997_manuela_lopez_garcia",
+  "source_id": "2997",
+  "row_ref": "2997. Manuela López García",
+  "name": "Manuela López García",
+  "gender": "female",
+  "birth": {
+    "date": "1788-01-01",
+    "place": "Amposta o la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2978_manuel_lopez"
+    ],
+    "father": "2978_manuel_lopez",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1405_manuel_chale_lopez",
+      "1406_susana_chale_lopez",
+      "1407_jayme_chaler_lopez",
+      "1408_juan_chale_lopez",
+      "1409_agustin_chale_lopez",
+      "1410_maria_chale_lopez",
+      "1411_jose_chale_lopez"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel López",
+      "Agustina García"
+    ],
+    "father_name": "Manuel López",
+    "mother_name": "Agustina García",
+    "spouse_names": [
+      "Esteban Chaler Perayre"
+    ],
+    "children_names": [
+      "Manuel Chalé López",
+      "Susana Chalé López",
+      "Jayme Chaler López",
+      "Juan Chalé López",
+      "Agustín Chalé López",
+      "María Chalé López",
+      "José Chalé López"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta  (o a la Ràpita) [aprox. 1788]. \n\nCasament: el 20 de març de 1808 amb Esteve Chaler Perayre de Vinaròs [1784].\n\nFills: Manuel [1814], Jayme [1815], Agustín [1817], Juan [1821], Susana [1825], María [1829] i José [1831].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "4890_josefa_sancho_garcia",
+  "source_id": "4890",
+  "row_ref": "4890. Josefa Sancho García",
+  "name": "Josefa Sancho García",
+  "gender": "female",
+  "birth": {
+    "date": "1814-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4876_agustin_sancho_fibla",
+      "2343_susana_garcia_lafont"
+    ],
+    "father": "4876_agustin_sancho_fibla",
+    "mother": "2343_susana_garcia_lafont",
+    "spouse": [],
+    "children": [
+      "4797_domingo_jayme_sanchez_sancho",
+      "4798_maria_vicenta_sanchez_sancho"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustín Sancho Fibla",
+      "Susana García Lafont"
+    ],
+    "father_name": "Agustín Sancho Fibla",
+    "mother_name": "Susana García Lafont",
+    "spouse_names": [
+      "Miguel Sánchez Reverté"
+    ],
+    "children_names": [
+      "Domingo Jayme Sánchez Sancho",
+      "Maria Vicenta Sánchez Sancho"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1814]. \n\nCasament: el 28 de juliol de 1834 amb Miguel Sánchez Reverté de la Ràpita [1811]. Es casa als 20 anys.\n\nFills: Domingo Jayme [1835], María Vicenta [1842], Bautista [1849] i Francisca [1850].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

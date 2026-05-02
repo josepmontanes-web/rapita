@@ -1,0 +1,83 @@
+{
+  "id": "626_vicente_beltran_minana",
+  "source_id": "626",
+  "row_ref": "626. Vicente Beltran Miñana",
+  "name": "Vicente Beltran Miñana",
+  "gender": "male",
+  "birth": {
+    "date": "1760-01-01",
+    "place": "Alcalà Gisbert"
+  },
+  "death": {
+    "date": "1837-10-10",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3155_eulalia_masdeu",
+      "4549_joaquina_rosales_sole"
+    ],
+    "children": [
+      "620_pedro_beltran_masdeu",
+      "621_vicente_beltran_masdeu"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Beltran",
+      "Maria Miñana"
+    ],
+    "father_name": "Vicente Beltran",
+    "mother_name": "Maria Miñana",
+    "spouse_names": [
+      "Eulalia Masdeu",
+      "Joaquina Rosales Solé"
+    ],
+    "children_names": [
+      "Pedro Beltran Masdeu",
+      "Vicente Beltran Masdeu"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcalà de Xivert [aprox. 1760].\n\nCasament: amb Eulalia Masdeu de San Jorge [1760].\n\nFills: Pedro (Amposta) [1791] i Vicente (Tortosa) [1795].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Fonda Vella núm. 3 (ACA BGRP Cajas 34).\n\nDel novembre de 1795 fins a la seva mort paga un lloguer de 4 Rs mensuals per la casa 3 de la Fonda Vella.\n\nCasament: el 2 de juny de 1823 amb Joaquina Rosales Solé de Tortosa [1767].\n\nDefunció: el 10 d'octubre de 1837 a la Ràpita. Va fer testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "3261_theresa_matamoros_reverter",
+  "source_id": "3261",
+  "row_ref": "3261. Theresa Matamoros Reverter",
+  "name": "Theresa Matamoros Reverter",
+  "gender": "female",
+  "birth": {
+    "date": "1762-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1803-02-26",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2432_juan_gasparin_matamoros",
+      "2433_jose_antonio_gasparin_matamoros",
+      "2434_jose_nicolas_gasparin_matamoros",
+      "2435_francisca_gasparin_matamoros",
+      "2436_francisco_gasparin_matamoros",
+      "2437_lorenzo_gasparin_matamoros"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Isidro Matamoros",
+      "Maria Reverter"
+    ],
+    "father_name": "Isidro Matamoros",
+    "mother_name": "Maria Reverter",
+    "spouse_names": [
+      "Francisco Gaspari Bretaña"
+    ],
+    "children_names": [
+      "Juan Gasparín Matamoros",
+      "José Antonio Gasparín Matamoros",
+      "José Nicolás Gasparín Matamoros",
+      "Francisca Gasparín Matamoros",
+      "Francisco Gasparín Matamoros",
+      "Lorenzo Gasparín Matamoros"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1762]. \n\nCasament: amb Francisco Gaspari Bretaña d'Azzio (Italia) [1761].\n\nFills: Francisca [1787], Juan [1790], José Antonio [1790], Francisco [1793], José Nicolás [1796], Lorenzo [1799] i Manuel [1800].\n\nA l'estat de veïns de la Població de San Carlos  a 1 de setembre de 1798 consta que viu a la \"plasa\" (ACA BGRP caixa 34).\n\nDefunció: el 26 de febrer de 1803 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

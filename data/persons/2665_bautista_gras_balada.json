@@ -1,0 +1,76 @@
+{
+  "id": "2665_bautista_gras_balada",
+  "source_id": "2665",
+  "row_ref": "2665. Bautista Gras Balada",
+  "name": "Bautista Gras Balada",
+  "gender": "male",
+  "birth": {
+    "date": "1850-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2669_miguel_gras_forcadell",
+      "2670_jose_agustin_gras_forcadell",
+      "2671_antonia_gras_forcadell"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Miguel Gras Forcadell",
+      "José Agustín Gras Forcadell",
+      "Antonia Gras Forcadell"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1850].\n\nCasament: el 19 de juny de 1875 amb María Castellà Guardia de la Ràpita [1856]. Es casa als 25 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "225_eugenio_jose_arlandez_o_hernandez",
+  "source_id": "225",
+  "row_ref": "225. Eugenio José Arlández [o Hernández]",
+  "name": "Eugenio José Arlández [o Hernández]",
+  "gender": "male",
+  "birth": {
+    "date": "1729-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1807-09-20",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3975_antonia_pla",
+      "1516_candia_clua"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Antonia Pla",
+      "Candia Clua"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1729].\n\nCasament: amb Antonia Pla de Tortosa [1730].\n\nFills: Tomás (Tortosa) [aprox 1768] i Rosa (Tortosa) [aprox. 1768].\n\nAl juliol de 1781 Eugenio Hernández treballa com a carreter a les Obres del Canal de Navegació (ACA BGRP Caixa 44).\n\nDes de novembre de 1795 al maig de 1796 Eugenio Arnandes \"la Rabasa\" té llogat un quarto al núm. 22 de la Mansana Vella i al juny de 1796 té llogada la casa 21 de la Mansana Vella. Al desembre de 1796 i al gener de 1798 té llogada una casa davant del canal i horta. A partir de setembre de 1798 aquesta mateixa casa la té llogada Tomás Hernández. (ACA BGRP caixa 34). \n\nCasament: a Amposta el 18 de novembre de 1797 amb Candia Clua de Tortosa [1750]. El casament es entre Antonio Hernández (viudo d'Antonia Pla i Candia Clua (viuda de Jayme Zaragoza).\n\nDefunció: el 20 de setembre de 1807 a la Ràpita. Eugenio va morir als 78 anys.\n\nEl nom no està clar que sigui Eugenio, Josef o Antonio i el cognom també apareix con Arlandes o Arlández.\n\nEugenio Hernández es carreter i veí de San Carlos al 1786 (ACA BGPR Correspondencia Caixa 8).\n\nEs veí de la Ràpita a 1796 (ACA Processos 1796 7F). Es refereix a Josef Hernández.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

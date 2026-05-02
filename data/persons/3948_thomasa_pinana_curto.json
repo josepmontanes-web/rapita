@@ -1,0 +1,81 @@
+{
+  "id": "3948_thomasa_pinana_curto",
+  "source_id": "3948",
+  "row_ref": "3948. Thomasa Piñana Curto",
+  "name": "Thomasa Piñana Curto",
+  "gender": "female",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4575_francisco_rosell_pinana"
+    ],
+    "father": "4575_francisco_rosell_pinana",
+    "mother": null,
+    "spouse": [
+      "4564_juan_rosell_cartes"
+    ],
+    "children": [
+      "4575_francisco_rosell_pinana"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Rosell Piñana",
+      "Francisca Curto"
+    ],
+    "father_name": "Francisco Piñana",
+    "mother_name": "Francisca Curto",
+    "spouse_names": [
+      "Juan Rosell Cartes"
+    ],
+    "children_names": [
+      "Francisco Rosell Piñana"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1790]. \n\nCasament: amb Juan Rosell Cartes de Tortosa [1790].\n\nFills: Candia [1813] i Francisco [1817].\n\nEs germana de Juan Piñana Curto [1790].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

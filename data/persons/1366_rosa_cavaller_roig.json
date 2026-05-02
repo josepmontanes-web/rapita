@@ -1,0 +1,81 @@
+{
+  "id": "1366_rosa_cavaller_roig",
+  "source_id": "1366",
+  "row_ref": "1366. Rosa Cavaller Roig",
+  "name": "Rosa Cavaller Roig",
+  "gender": "female",
+  "birth": {
+    "date": "1775-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1360_francisco_cavaller"
+    ],
+    "father": "1360_francisco_cavaller",
+    "mother": null,
+    "spouse": [
+      "1690_francisco_curto_sabater"
+    ],
+    "children": [
+      "1672_thomas_curto_cavaller"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Cavaller",
+      "Ana Roig"
+    ],
+    "father_name": "Francisco Cavaller",
+    "mother_name": "Ana Roig",
+    "spouse_names": [
+      "Francisco Curto Sabater"
+    ],
+    "children_names": [
+      "Thomas Curto Cavaller"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1775].\n\nCasament: amb Francisco Curto Sabater de Tivenys [1770].\n\nFills: José (Tivenys) [1805], Francisco (Tivenys) [1810], María Francisca [1812] i Tomás [1813].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

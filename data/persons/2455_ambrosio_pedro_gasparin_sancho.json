@@ -1,0 +1,74 @@
+{
+  "id": "2455_ambrosio_pedro_gasparin_sancho",
+  "source_id": "2455",
+  "row_ref": "2455. Ambrosio Pedro Gasparín Sancho",
+  "name": "Ambrosio Pedro Gasparín Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1830-12-07",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2438_manuel_gasparin_matamoros",
+      "4918_maria_sancho_querol"
+    ],
+    "father": "2438_manuel_gasparin_matamoros",
+    "mother": "4918_maria_sancho_querol",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel Gasparín Matamoros",
+      "María Sancho Querol"
+    ],
+    "father_name": "Manuel Gasparín Matamoros",
+    "mother_name": "Maria Sancho Querol",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Pedro Navarro",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 7 de desembre de 1828 a la Ràpita.\n\nPadrins: Francisco Gasparín i Francisca Escardó.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

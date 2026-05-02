@@ -1,0 +1,73 @@
+{
+  "id": "3081_agustin_magrina_costes",
+  "source_id": "3081",
+  "row_ref": "3081. Agustín Magriñá Costes",
+  "name": "Agustín Magriñá Costes",
+  "gender": "male",
+  "birth": {
+    "date": "1846-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1848-03-08",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3085_agustin_magrina_rosales"
+    ],
+    "father": "3085_agustin_magrina_rosales",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustín Magriñá Rosales",
+      "Juana Costes"
+    ],
+    "father_name": "Agustín Magriñá",
+    "mother_name": "Juana Costes",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1846]. \n\nDefunció: el 8 de març de 1848 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

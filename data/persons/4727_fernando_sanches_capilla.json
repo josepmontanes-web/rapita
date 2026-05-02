@@ -1,0 +1,74 @@
+{
+  "id": "4727_fernando_sanches_capilla",
+  "source_id": "4727",
+  "row_ref": "4727. Fernando Sánches Capilla",
+  "name": "Fernando Sánches Capilla",
+  "gender": "male",
+  "birth": {
+    "date": "1820-06-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1822-07-25",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4767_blas_sanchez_marin",
+      "976_florencia_capilla_macian"
+    ],
+    "father": "4767_blas_sanchez_marin",
+    "mother": "976_florencia_capilla_macian",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Blas Sánchez Marín",
+      "Florencia Capilla Macián"
+    ],
+    "father_name": "Blas Sánchez Marín",
+    "mother_name": "Florencia Capilla Macián",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Thomas Capilla",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'1 de juny de 1820 a la Ràpita.\n\nPadrins: Tomás Capilla i Bernarda Biosca.\n\nDefunció: el 25 de juliol de 1822 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

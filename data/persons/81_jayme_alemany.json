@@ -1,0 +1,70 @@
+{
+  "id": "81_jayme_alemany",
+  "source_id": "81",
+  "row_ref": "81. Jayme Alemany",
+  "name": "Jayme Alemany",
+  "gender": "male",
+  "birth": {
+    "date": "1740-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1813-11-01",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Rosa Pardo"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  a Tortosa [aprox. 1740].\n\nProfessió: carnicer.\n\nCasament: el 27 de març de 1797 amb Rosa Pardo Pavia de Russafa (València) [1758]. Al \"estado de vecinos\" de setembre de 1798 diu que viuen a la \"Plasa\" [podria ser la placeta vella] (ACA BGRP Cajas 34). Al gener de 1799 para un lloguer de 15 Rv a Patrimoni per la carniceria.\n\nDefunció: l'1 de novembre de 1813 a la Ràpita. \"Murió a los 73 años por haberse prendido fuego en la casa de campo en la que pernoctaba y en la que se encontró enteramente quemado juntamente con su criado Manuel Forcadell Badia\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

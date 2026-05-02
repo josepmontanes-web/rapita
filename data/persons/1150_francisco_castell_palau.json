@@ -1,0 +1,72 @@
+{
+  "id": "1150_francisco_castell_palau",
+  "source_id": "1150",
+  "row_ref": "1150. Francisco Castell Palau",
+  "name": "Francisco Castell Palau",
+  "gender": "male",
+  "birth": {
+    "date": "1844-01-01",
+    "place": "Traiguera"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "3776_francisco_manuel_palau_ferrer"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Francisco Manuel Palau Ferrer"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Traiguera [aprox. 1844].\n\nCasament: l'1 d'octubre de 1873 amb Concepción Boria Sancho d'Alcanar [1851]. Es casa als 29 anys.\n\nFills: Vicente [1875] (fill adoptiu) i Francisco [1879].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

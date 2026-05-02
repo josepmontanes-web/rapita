@@ -1,0 +1,74 @@
+{
+  "id": "152_vicenta_ano_esteve",
+  "source_id": "152",
+  "row_ref": "152. Vicenta Añó Esteve",
+  "name": "Vicenta Añó Esteve",
+  "gender": "female",
+  "birth": {
+    "date": "1814-03-09",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1814-04-08",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "142_juan_ano_arlandez",
+      "1885_josefa_esteve_garcia"
+    ],
+    "father": "142_juan_ano_arlandez",
+    "mother": "1885_josefa_esteve_garcia",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Añó Arlández",
+      "Josefa Esteve García"
+    ],
+    "father_name": "Juan Añó Hernández",
+    "mother_name": "Josefa Esteve García",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Mauro Hernández",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  el 9 de març de 1814 a la Ràpita.\n\nEls padrins son Mauro Hernández i Vicenta Pascual Fuster.\n\nDefunció: el 8 d'abril de 1814 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

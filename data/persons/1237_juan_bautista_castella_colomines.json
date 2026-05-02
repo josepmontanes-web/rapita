@@ -1,0 +1,77 @@
+{
+  "id": "1237_juan_bautista_castella_colomines",
+  "source_id": "1237",
+  "row_ref": "1237. Juan Bautista Castellà Colomines",
+  "name": "Juan Bautista Castellà Colomines",
+  "gender": "male",
+  "birth": {
+    "date": "1805-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1164_bautista_castella"
+    ],
+    "father": "1164_bautista_castella",
+    "mother": null,
+    "spouse": [
+      "3625_esperanza_navarro_comi"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Castellà",
+      "Francisca Colomines"
+    ],
+    "father_name": "Bautista Castellà",
+    "mother_name": "Francisca Colomines",
+    "spouse_names": [
+      "Esperanza Navarro Comí"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1805].\n\nCasament: el 13 d'agost de 1828 amb Esperanza Navarro Comí de Tortosa [1807].\n\nFills: Josefa (Tortosa) [1829], José [1835], Francisca [1837], Manuela [1840], María Rosa [1842], Teresa [1845] i Esperanza [1846].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

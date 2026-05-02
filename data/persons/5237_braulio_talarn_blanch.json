@@ -1,0 +1,78 @@
+{
+  "id": "5237_braulio_talarn_blanch",
+  "source_id": "5237",
+  "row_ref": "5237. Braulio Talarn Blanch",
+  "name": "Braulio Talarn Blanch",
+  "gender": "male",
+  "birth": {
+    "date": "1832-03-18",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5263_salvador_talarn_valldeperez",
+      "730_francisca_blanch_aguilar"
+    ],
+    "father": "5263_salvador_talarn_valldeperez",
+    "mother": "730_francisca_blanch_aguilar",
+    "spouse": [
+      "3228_manuela_matamoros_lleti"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Salvador Talarn Valldeperez",
+      "Francisca Blanch Aguilar"
+    ],
+    "father_name": "Salvador Talarn Valledeperz",
+    "mother_name": "Francisca Blanch Aguilar",
+    "spouse_names": [
+      "Manuela Matamoros Lletí"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Pedro Castellà",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 18 de març de 1832 a la Ràpita.\n\nPadrins: Pedro Castellà i Francisca Bosch.\n\nProfessió: pagès.\n\nCasament: el 2 de setembre de 1854 amb Manuela Matamoros Lletí de la Ràpita [1834]. Testimonis: Casiano Sanz i Jayme Balada.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "5637_pedro_jose_vizcarro_castell",
+  "source_id": "5637",
+  "row_ref": "5637. Pedro José Vizcarro Castell",
+  "name": "Pedro José Vizcarro Castell",
+  "gender": "male",
+  "birth": {
+    "date": "1760-01-01",
+    "place": "Ulldecona"
+  },
+  "death": {
+    "date": "1800-02-07",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "2354_agustina_garcia_mendoza"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Vizcarrí",
+      "Maria Castell"
+    ],
+    "father_name": "Josef Vizcarrí",
+    "mother_name": "Maria Castell",
+    "spouse_names": [
+      "Agustina García Mendoza"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Ulldecona [aprox. 1760].\n\nCasament: el 20 de març de 1797 amb Agustina García Mendoza de Morella [1762].\n\nFills: María Basilia [1798].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Fonda Vella (ACA BGRP Cajas 34).\n\nDefunció: el 7 de febrer de 1800 a la Ràpita. \"No hizo testamento por ser pobre\".\n\nEl cognom podria ser Vizcarrí o Biscarro.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

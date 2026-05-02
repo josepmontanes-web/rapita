@@ -1,0 +1,85 @@
+{
+  "id": "3516_juan_moreso_reverter",
+  "source_id": "3516",
+  "row_ref": "3516. Juan Moreso Reverter",
+  "name": "Juan Moreso Reverter",
+  "gender": "male",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "3508_juan_bautista_moreso_christofol",
+      "3509_lorenzo_francisco_moreso_christoval",
+      "3510_jose_antonio_moreso_christofol",
+      "4388_maria_reverter_vidal",
+      "4389_rafaela_reverter_vidal"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Moreso",
+      "Josefa María Reverter"
+    ],
+    "father_name": "Joaquín Moreso",
+    "mother_name": "Josefa María Reverter",
+    "spouse_names": [
+      "Teresa Christofol Homedes"
+    ],
+    "children_names": [
+      "Juan Bautista Moreso Christofol",
+      "Lorenzo Francisco Moreso Christoval",
+      "José Antonio Moreso Christofol",
+      "Maria Reverter Vidal",
+      "Rafaela Reverter Vidal"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1790]. \n\nCasament: amb Teresa Christofol Homedes de Tortosa [1790].\n\nFills: Juan Bautista [1813], Lorenzo Francisco [1817] i José Antonio [1823].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

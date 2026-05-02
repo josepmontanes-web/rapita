@@ -1,0 +1,68 @@
+{
+  "id": "2123_lorenzo_fibla_casajust",
+  "source_id": "2123",
+  "row_ref": "2123. Lorenzo Fibla Casajust",
+  "name": "Lorenzo Fibla Casajust",
+  "gender": "male",
+  "birth": {
+    "date": "1878-06-04",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 4 de juny de 1878 a la Ràpita.\n\n\"Por sentencia de la Audiencia Territorial de Barcelona de 25 de octubre de 1935 se disuelve el matrimonio de Lorenzo Fibla Casajust con Francisca Nuez Serrano de ignorado paradero\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

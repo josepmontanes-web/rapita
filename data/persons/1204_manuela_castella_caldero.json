@@ -1,0 +1,93 @@
+{
+  "id": "1204_manuela_castella_caldero",
+  "source_id": "1204",
+  "row_ref": "1204. Manuela Castellà Calderó",
+  "name": "Manuela Castellà Calderó",
+  "gender": "female",
+  "birth": {
+    "date": "1793-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "929_maria_caldero_ferre"
+    ],
+    "father": null,
+    "mother": "929_maria_caldero_ferre",
+    "spouse": [
+      "1113_jose_casajust_michavila"
+    ],
+    "children": [
+      "1104_maria_casajust_castella",
+      "1105_francisca_casajust_castella",
+      "1106_raymunda_casajust_castella",
+      "1107_maria_antonia_casajust_castella",
+      "1108_jose_agustin_casajust_castella",
+      "1109_juan_casajust_castella",
+      "1110_rosa_casajust_castella"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joseph Castellà Zaragoza",
+      "María Calderó Ferré"
+    ],
+    "father_name": "Joseph Castellà Zaragoza",
+    "mother_name": "Maria Calderó Ferré",
+    "spouse_names": [
+      "José Casajust Michavila"
+    ],
+    "children_names": [
+      "Maria Casajust Castellà",
+      "Francisca Casajust Castellà",
+      "Raymunda Casajust Castellà",
+      "Maria Antonia Casajust Castellà",
+      "José Agustín Casajust Castellà",
+      "Juan Casajust Castellà",
+      "Rosa Casajust Castellà"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1793].\n\nCasament: el 20 de maig de 1815 amb José Casajust Michavila de Vinaròs [1789]. Es casa als 22 anys. Testimonis: Don Lorenzo Casadevall, Manuel Izquierdo i José Sans.\n\nFills: María [1816], Francisca [1818], Raymunda [1821], Rosa [1822], María Antonia [1825], José Agustín [1826] i Juan [1831].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

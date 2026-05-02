@@ -1,0 +1,71 @@
+{
+  "id": "4249_agustina_reverte_ferrer",
+  "source_id": "4249",
+  "row_ref": "4249. Agustina Reverté Ferrer",
+  "name": "Agustina Reverté Ferrer",
+  "gender": "female",
+  "birth": {
+    "date": "1782-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1846-10-03",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Dionicio Reverte",
+      "Teresa Ferrer"
+    ],
+    "father_name": "Dionicio Reverte",
+    "mother_name": "Teresa Ferrer",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1782]. \n\nDefunció: el 3 d'octubre de 1846 a la Ràpita. Va morir als 64 anys. Fa testament davant de Vicente Sabaté.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

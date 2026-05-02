@@ -1,0 +1,71 @@
+{
+  "id": "729_josef_procop_bitner_trisoglin",
+  "source_id": "729",
+  "row_ref": "729. Josef Procop Bitner Trisoglin",
+  "name": "Josef Procop Bitner Trisoglin",
+  "gender": "male",
+  "birth": {
+    "date": "1755-01-01",
+    "place": "Madrid"
+  },
+  "death": {
+    "date": "1805-04-29",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Don Juan Bitner",
+      "Mª Ana Trisoglin"
+    ],
+    "father_name": "Don Juan Bitner",
+    "mother_name": "Mª Ana Trisoglin",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Madrid [aprox. 1755].\n\nAl agost de 1780 es el responsable (sobrestante) d'una de les Brigades de treballadors del Canal de Navegació (ACA BGRP caixa 43).\n\nA l'estat de veïns de la Población de San Carlos a 1 de setembre de 1798 viu a la casa núm. 13 de la \"calle mayor\", diu que es fadrí (ACA BGRP caixa 34).\n\nDefunció: el 29 d'abril de 1805 a la Ràpita. Va fer testament davant del notari d'Amposta Don Juan Homedes.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

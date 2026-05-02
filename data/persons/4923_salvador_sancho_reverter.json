@@ -1,0 +1,85 @@
+{
+  "id": "4923_salvador_sancho_reverter",
+  "source_id": "4923",
+  "row_ref": "4923. Salvador Sancho Reverter",
+  "name": "Salvador Sancho Reverter",
+  "gender": "male",
+  "birth": {
+    "date": "1770-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1841-06-13",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2144_salvador_fibla_sancho"
+    ],
+    "father": "2144_salvador_fibla_sancho",
+    "mother": null,
+    "spouse": [
+      "4830_antonia_sancho"
+    ],
+    "children": [
+      "4935_maria_sancho_sancho",
+      "4936_salvador_sancho_sancho",
+      "4937_matias_sancho_sancho"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Salvador Fibla Sancho",
+      "Antonia Reverter"
+    ],
+    "father_name": "Salvador Sancho",
+    "mother_name": "Antonia Reverter",
+    "spouse_names": [
+      "Antonia Sancho"
+    ],
+    "children_names": [
+      "María Sancho Sancho",
+      "Salvador Sancho Sancho",
+      "Matías Sancho Sancho"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1770]. \n\nCasament: amb Antonia Sancho d'Alcanar [1763].\n\nFills: María [1795], Salvador [1795] i Matías (Alcanar) [1806].\n\nDefunció: el 13 de juny de 1841 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

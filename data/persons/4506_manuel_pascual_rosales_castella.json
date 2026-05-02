@@ -1,0 +1,78 @@
+{
+  "id": "4506_manuel_pascual_rosales_castella",
+  "source_id": "4506",
+  "row_ref": "4506. Manuel Pascual Rosales Castellà",
+  "name": "Manuel Pascual Rosales Castellà",
+  "gender": "male",
+  "birth": {
+    "date": "1825-05-15",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4558_ramon_rosales_valls",
+      "1235_antonia_castella_colomines"
+    ],
+    "father": "4558_ramon_rosales_valls",
+    "mother": "1235_antonia_castella_colomines",
+    "spouse": [
+      "1480_rosa_cid_arlandez"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Ramón Rosales Valls",
+      "Antonia Castellà Colomines"
+    ],
+    "father_name": "Ramon Rosales Valls",
+    "mother_name": "Antonia Castellà Colomines",
+    "spouse_names": [
+      "Rosa Cid Arlández"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Manuel Yzquierdo",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 15 de maig de 1825 a la Ràpita.\n\nPadrins: Manuel Izquierdo i María Reverter.\n\nPropietari.\n\nCasament: el 22 de gener de 1848 amb Rosa Cid Arlández de la Ràpita [1827].\n\nFills: Carlota [1863].\n\nDefunció: el 15 de febrer de 1906 a la Ràpita als 80 anys. Vivia a la Plaça Major. Alcalde 1876-1879.\n\nHipoteca: Manuel Rosales hipotecó una casa en la calle de San Rafael que linda con José Rosales y callejón para responder a Bautista Domingo. 12 de septiembre de 1858. Esc. Manuel Gonzalez de Tortosa.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

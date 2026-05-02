@@ -1,0 +1,78 @@
+{
+  "id": "4925_miguela_sancho_ripoll",
+  "source_id": "4925",
+  "row_ref": "4925. Miguela Sancho Ripoll",
+  "name": "Miguela Sancho Ripoll",
+  "gender": "female",
+  "birth": {
+    "date": "1820-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4892_ramon_sancho_garcia",
+      "4421_antonia_ripoll_ivanes"
+    ],
+    "father": "4892_ramon_sancho_garcia",
+    "mother": "4421_antonia_ripoll_ivanes",
+    "spouse": [
+      "3459_jose_montia_vidal"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Ramón Sancho García",
+      "Antonia Ripoll Ivañes"
+    ],
+    "father_name": "Ramon Sancho Garcia",
+    "mother_name": "Antonia Ripoll Ivañes",
+    "spouse_names": [
+      "José Montia Vidal"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1820]. \n\nCasament: el 24 de desembre de 1846 amb José Montia Vidal [1820].\n\nFills: Vicente [1850], Ramón [1848] i Josefa [1862].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "3846_rafaela_pasqual_tomas",
+  "source_id": "3846",
+  "row_ref": "3846. Rafaela Pasqual Tomás",
+  "name": "Rafaela Pasqual Tomás",
+  "gender": "female",
+  "birth": {
+    "date": "1818-01-21",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3827_juan_bautista_pasqual_fuster",
+      "5304_francisca_tomas_vidal"
+    ],
+    "father": "3827_juan_bautista_pasqual_fuster",
+    "mother": "5304_francisca_tomas_vidal",
+    "spouse": [
+      "308_francisco_badenes_sancho"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Bautista Pasqual Fuster",
+      "Francisca Tomas Vidal"
+    ],
+    "father_name": "Juan Bautista Pasqual Fuster",
+    "mother_name": "Francisca Tomas Vidal",
+    "spouse_names": [
+      "Francisco Badenes Sancho"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Bautista Thomas",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 21 de gener de 1818 a la Ràpita.\n\nPadrins: Juan Bautista Thomas i Rafaela López.\n\nCasament: el 23 de juny de 1854 amb Francisco Badenes Sancho de Godall [1825]. Testimonis: Francisco Sancho i Tomás Borràs.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

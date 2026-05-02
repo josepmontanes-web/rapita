@@ -1,0 +1,73 @@
+{
+  "id": "500_juan_barbera_lluciano",
+  "source_id": "500",
+  "row_ref": "500. Juan Barberà Lluciano",
+  "name": "Juan Barberà Lluciano",
+  "gender": "male",
+  "birth": {
+    "date": "1841-12-04",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "501_jacinto_barbera_obiol"
+    ],
+    "father": "501_jacinto_barbera_obiol",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Jacinto Barberà Obiol",
+      "Clara Lluciano Collado"
+    ],
+    "father_name": "Jacinto Barberà Obiol",
+    "mother_name": "Clara Lluciano Collado",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Reverter",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 4 de desembre de 1841 a la Ràpita.\n\nPadrins: Francisco Reverter i María Reverter.\n\nSap escriure i signa la declaració de defunció de sa mare.\n\nCasament: amb Lorenza Sánchez Reverter de la Ràpita [1842].\n\nFills: Lorenza [1872] i Bárbara [1881].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "2175_francisco_forcadell",
+  "source_id": "2175",
+  "row_ref": "2175. Francisco Forcadell",
+  "name": "Francisco Forcadell",
+  "gender": "male",
+  "birth": {
+    "date": "1741-01-01",
+    "place": "Ulldecona"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "881_maria_budesca_fibla"
+    ],
+    "children": [
+      "2182_francisco_forcadell_badoch",
+      "2185_jose_forcadell_bedos"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Benita Bedós",
+      "Maria Budesca Fibla"
+    ],
+    "children_names": [
+      "Francisco Forcadell Badoch",
+      "José Forcadell Bedós"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Ulldecona [aprox. 1741].\n\nCasament: amb Benita Bedós de Traiguera.\n\nFills: José Forcadell Bedós (Salines dels Alfacs) [1789].\n\nCasament: el 3 de juliol de 1810 amb María Budesca Fibla d'Alcanar [1761]. Es casa als 59 anys. Diu que es veí del terme de Tortosa.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

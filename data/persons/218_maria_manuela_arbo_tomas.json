@@ -1,0 +1,73 @@
+{
+  "id": "218_maria_manuela_arbo_tomas",
+  "source_id": "218",
+  "row_ref": "218. Maria Manuela Arbó Tomás",
+  "name": "Maria Manuela Arbó Tomás",
+  "gender": "female",
+  "birth": {
+    "date": "1841-11-12",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "177_francisco_arbo_ingles"
+    ],
+    "father": "177_francisco_arbo_ingles",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Arbó Inglés",
+      "Maria Tomas Sanchez"
+    ],
+    "father_name": "Francisco Arbó Inglés",
+    "mother_name": "Maria Tomas Sanchez",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Manuel Verge",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  el 12 de novembre de 1841 a la Ràpita.\n\nEls padrins son Manuel Verge Monserrat i Josefa María Guzman Obiol.\n\nCasament: amb Agustín Reverté Talarn de la Ràpita [1842].\n\nFills: Rosa [1876], María de la Providencia [1878] i Francisco [1880].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

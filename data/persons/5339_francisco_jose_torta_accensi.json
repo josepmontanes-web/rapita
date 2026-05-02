@@ -1,0 +1,74 @@
+{
+  "id": "5339_francisco_jose_torta_accensi",
+  "source_id": "5339",
+  "row_ref": "5339. Francisco José Torta Accensi",
+  "name": "Francisco José Torta Accensi",
+  "gender": "male",
+  "birth": {
+    "date": "1838-02-05",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5393_lucas_torta_subirats",
+      "12_francisca_accensi_lazaro"
+    ],
+    "father": "5393_lucas_torta_subirats",
+    "mother": "12_francisca_accensi_lazaro",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Lucas Torta Subirats",
+      "Francisca Accensi Lazaro"
+    ],
+    "father_name": "Lucas Torta Subirats",
+    "mother_name": "Francisca Accensi Lazaro",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Ramón Accensi",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 5 de febrer de 1838 a la Ràpita.\n\nPadrins: Ramón Accensi i Francisca Rosales.\n\nCasament: amb Agustina Bel Gimeno [o Chimeno] de la Ràpita [1855].\n\nFills: María [1879].\n\nLa dona es torna a casar al 1883, pel que es pot suposar que ell va morir abans.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

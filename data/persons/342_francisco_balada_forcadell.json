@@ -1,0 +1,101 @@
+{
+  "id": "342_francisco_balada_forcadell",
+  "source_id": "342",
+  "row_ref": "342. Francisco Balada Forcadell",
+  "name": "Francisco Balada Forcadell",
+  "gender": "male",
+  "birth": {
+    "date": "1770-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1837-12-21",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "320_francisco_balada"
+    ],
+    "father": "320_francisco_balada",
+    "mother": null,
+    "spouse": [
+      "3995_eulalia_planes_gubern"
+    ],
+    "children": [
+      "351_francisca_balada_planes",
+      "352_susana_balada_planes",
+      "353_josef_agustin_balada_planes",
+      "354_agustina_balada_planes",
+      "355_tomasa_balada_planes",
+      "356_pelegrin_balada_planes",
+      "357_francisco_balada_planes",
+      "358_rita_balada_planes",
+      "359_lorenza_balada_planes",
+      "360_juan_balada_planes",
+      "361_rosa_balada_planes"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Balada",
+      "Antonia Forcadell"
+    ],
+    "father_name": "Francisco Balada",
+    "mother_name": "Antonia Forcadell",
+    "spouse_names": [
+      "Eulalia Planes Gubern"
+    ],
+    "children_names": [
+      "Francisca Balada Planes",
+      "Susana Balada Planes",
+      "Josef Agustín Balada Planes",
+      "Agustina Balada Planes",
+      "Tomasa Balada Planes",
+      "Pelegrín Balada Planes",
+      "Francisco Balada Planes",
+      "Rita Balada Planes",
+      "Lorenza Balada Planes",
+      "Juan Balada Planes",
+      "Rosa Balada Planes"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1770].\n\nProfessió: pagès.\n\nCasament: el 22 de desembre de 1797 amb Eulalia Planes Gubern d'Amposta [1775].  Casament celebrat  a Amposta. A l'estat de veïns de setembre de 1798 diu que viuen a la Ràpiita a una casa al costat de l'esglesia amb els pares d'Eulalia (ACA BGRP Cajas 34).\n\nFills: Rita [1800], Francisca [1802], Lorenza [1803], Susana [1808], José Agustín [1808], Agustina [1811], Tomasa [1814], Francisco [1818], Pelegrín [1821], Juan [1824]  i Rosa [1824].\n\nDefunció: el 21 de desembre de 1837 a la Ràpita. No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "819_pascuala_bosch_torta",
+  "source_id": "819",
+  "row_ref": "819. Pascuala Bosch Torta",
+  "name": "Pascuala Bosch Torta",
+  "gender": "female",
+  "birth": {
+    "date": "1806-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": "1842-12-06",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "814_francisco_bosch_montanes"
+    ],
+    "father": "814_francisco_bosch_montanes",
+    "mother": null,
+    "spouse": [
+      "1505_ramon_cid_marti"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Bosch Montañés",
+      "Josefa Torta Subirats"
+    ],
+    "father_name": "Francisco Bosch Montañés",
+    "mother_name": "Josefa Torta Subirats",
+    "spouse_names": [
+      "Ramon Cid Martí"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1806].\n\nCasament: el 30 de maig de 1836 amb Ramón Cid Martí de Santa Bàrbara [1811]. Es casa als 30 anys.\n\nFills: Francisco [1838].\n\nDefunció: el 6 de desembre de 1842 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

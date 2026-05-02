@@ -1,0 +1,79 @@
+{
+  "id": "3997_francisca_planes_guvern",
+  "source_id": "3997",
+  "row_ref": "3997. Francisca Planes Guvern",
+  "name": "Francisca Planes Guvern",
+  "gender": "female",
+  "birth": {
+    "date": "1793-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": "1833-11-06",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3994_miguel_planes_fabrega"
+    ],
+    "father": "3994_miguel_planes_fabrega",
+    "mother": null,
+    "spouse": [
+      "4855_jose_sancho_biosca",
+      "5500_francisco_vidal_beltran"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Planes Fabrega",
+      "Rita Guvern"
+    ],
+    "father_name": "Miguel Planes Fabrega",
+    "mother_name": "Rita Guvern",
+    "spouse_names": [
+      "José Sancho Biosca",
+      "Francisco Vidal Beltran"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1793]. \n\nCasament: el 15 de gener de 1811 amb José Sancho Biosca d'Alcanar [1791]. Es casa als 20 anys.\n\nFills: Josefa [1812], Josefa Agustina [1813] i José [1815].\n\nCasament: el 29 de maig de 1820 amb Francisco Vidal Beltran d'Alcanar [1784].\n\nFills: Francisco [1821], Juan [1823], Francisco Vicente [1825], Vicente [1826], María Teresa [1829], Rafael [1831] i Cipriano [1832].\n\nDefunció: el 6 de novembre de 1833 a la Ràpita. Va morir als 40 anys. No fa testament. \"Dotó su alma en 140 R. V.\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

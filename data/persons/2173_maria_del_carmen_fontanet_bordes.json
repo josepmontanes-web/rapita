@@ -1,0 +1,71 @@
+{
+  "id": "2173_maria_del_carmen_fontanet_bordes",
+  "source_id": "2173",
+  "row_ref": "2173. María del Carmen Fontanet Bordes",
+  "name": "María del Carmen Fontanet Bordes",
+  "gender": "female",
+  "birth": {
+    "date": "1810-07-14",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Sebastian Fontanet Maspons",
+      "Josefa Maria Bordes Bautista"
+    ],
+    "father_name": "Sebastian Fontanet Maspons",
+    "mother_name": "Josefa Maria Bordes Bautista",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Costa",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 14 de juliol de 1810 a la Ràpita.\n\n\"Son transeuntes de esta población\".\n\nPadrins: Francisco Costa i Madalena Bordes.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

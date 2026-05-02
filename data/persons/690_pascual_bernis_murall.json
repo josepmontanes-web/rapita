@@ -1,0 +1,84 @@
+{
+  "id": "690_pascual_bernis_murall",
+  "source_id": "690",
+  "row_ref": "690. Pascual Bernis Murall",
+  "name": "Pascual Bernis Murall",
+  "gender": "male",
+  "birth": {
+    "date": "1795-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "679_francisco_bernis",
+      "3581_francisca_murall"
+    ],
+    "father": "679_francisco_bernis",
+    "mother": "3581_francisca_murall",
+    "spouse": [
+      "3329_josefa_mayor_amoros"
+    ],
+    "children": [
+      "687_jose_bernis_mayor",
+      "688_francisca_bernis_mayor"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Bernis",
+      "Francisca Murall"
+    ],
+    "father_name": "Francisco Bernis",
+    "mother_name": "Francisca Murall",
+    "spouse_names": [
+      "Josefa Mayor Amorós"
+    ],
+    "children_names": [
+      "José Bernis Mayor",
+      "Francisca Bernis Mayor"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1795].\n\nCasament: amb Josefa Mayor Amorós de Xerta [1795].\n\nFills: José [1830] i Francisca [1832].\n\n De l'1 de juny de 1834 al 30 de setembre de 1836 ha de pagar un lloguer de 26 Rs mensuals per part del pis de terra i pis alt de la casa 4 de la mançana 4. De l'1 d'octubre de 1836 al 31 de juliol de 1839 ha de pagar un lloguer de 6 Rs mensuals pel pis de terra de l'esquerra de la casa 4 de la mançana 4. (AGP.PER.LEG.1073/23 [Juan Vecino]).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

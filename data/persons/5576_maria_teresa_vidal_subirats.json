@@ -1,0 +1,74 @@
+{
+  "id": "5576_maria_teresa_vidal_subirats",
+  "source_id": "5576",
+  "row_ref": "5576. María Teresa Vidal Subirats",
+  "name": "María Teresa Vidal Subirats",
+  "gender": "female",
+  "birth": {
+    "date": "1816-01-11",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1816-03-25",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5500_francisco_vidal_beltran",
+      "5200_thecla_subirats_miro"
+    ],
+    "father": "5500_francisco_vidal_beltran",
+    "mother": "5200_thecla_subirats_miro",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Vidal Beltran",
+      "Thecla Subirats Miró"
+    ],
+    "father_name": "Francisco Vidal Beltran",
+    "mother_name": "Thecla Subirats Miró",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Vidal",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'11 de gener de 1816 a la Ràpita.\n\nPadrins: Francisco Vidal i Bernarda Subirats.\n\nDefunció: el 25 de març de 1816 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

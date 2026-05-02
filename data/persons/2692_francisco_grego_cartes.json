@@ -1,0 +1,68 @@
+{
+  "id": "2692_francisco_grego_cartes",
+  "source_id": "2692",
+  "row_ref": "2692. Francisco Grego Cartes",
+  "name": "Francisco Grego Cartes",
+  "gender": "male",
+  "birth": {
+    "date": "1750-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1750].\n\nProfessió: pescador.\n\nCasament: amb Sebastiana Omedes.\n\nFills: José, Christoval, Theresa i Rosa [1790].\n\nDefunció: el 6 d'abril de 1797 a Tortosa.\n\nEl 4 d'abril de 1797 fa testament a Tortosa.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

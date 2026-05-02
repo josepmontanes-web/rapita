@@ -1,0 +1,74 @@
+{
+  "id": "5238_salvador_talarn_blanch",
+  "source_id": "5238",
+  "row_ref": "5238. Salvador Talarn Blanch",
+  "name": "Salvador Talarn Blanch",
+  "gender": "male",
+  "birth": {
+    "date": "1834-11-07",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5263_salvador_talarn_valldeperez",
+      "730_francisca_blanch_aguilar"
+    ],
+    "father": "5263_salvador_talarn_valldeperez",
+    "mother": "730_francisca_blanch_aguilar",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Salvador Talarn Valldeperez",
+      "Francisca Blanch Aguilar"
+    ],
+    "father_name": "Salvador Talarn Valledeperz",
+    "mother_name": "Francisca Blanch Aguilar",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Campillo",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 7 de novembre de 1834 a la Ràpita.\n\nPadrins: Juan Campillo de Almasarro (Murcia) i Francisca Sánchez.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

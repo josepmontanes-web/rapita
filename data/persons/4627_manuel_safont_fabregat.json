@@ -1,0 +1,74 @@
+{
+  "id": "4627_manuel_safont_fabregat",
+  "source_id": "4627",
+  "row_ref": "4627. Manuel Safont Fabregat",
+  "name": "Manuel Safont Fabregat",
+  "gender": "male",
+  "birth": {
+    "date": "1810-03-21",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4641_manuel_safont_pla",
+      "1927_francisca_fabregat_obiol"
+    ],
+    "father": "4641_manuel_safont_pla",
+    "mother": "1927_francisca_fabregat_obiol",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel Safont Pla",
+      "Francisca Fabregat Obiol"
+    ],
+    "father_name": "Manuel Safont Pla",
+    "mother_name": "Francisca Fabregat Obiol",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Torres",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 21 de març de 1810 a la Ràpita.\n\nPadrins: Juan Torres \"Dependiente de este Resguardo\" es de Villanueva de los Infantes i Teresa Fabregat.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

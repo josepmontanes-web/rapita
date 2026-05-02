@@ -1,0 +1,89 @@
+{
+  "id": "1903_antonia_fabra_miralles",
+  "source_id": "1903",
+  "row_ref": "1903. Antonia Fabra Miralles",
+  "name": "Antonia Fabra Miralles",
+  "gender": "female",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Freginals"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1900_mauricio_fabra"
+    ],
+    "father": "1900_mauricio_fabra",
+    "mother": null,
+    "spouse": [
+      "1923_juan_fabregat_mateu"
+    ],
+    "children": [
+      "1906_0",
+      "1907_maria_anna_fabregat_fabra",
+      "1908_teresa_francisca_fabregat_fabra",
+      "1909_agustina_fabregat_fabra",
+      "1910_manuela_fabregat_fabra"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Mauricio Fabra",
+      "Paula Miralles"
+    ],
+    "father_name": "Mauricio Fabra",
+    "mother_name": "Paula Miralles",
+    "spouse_names": [
+      "Juan Fabregat Mateu"
+    ],
+    "children_names": [
+      "0",
+      "Maria Anna Fabregat Fabra",
+      "Teresa Francisca Fabregat Fabra",
+      "Agustina Fabregat Fabra",
+      "Manuela Fabregat Fabra"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Freginals [aprox. 1810].\n\nCasament: amb Juan Fabregat Mateu de la Ràpita [1808].\n\nFills: Pedro Nolasco [1834], María Anna [1836], Teresa Francisca [1838], Agustina [1840] i Manuela [1842].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

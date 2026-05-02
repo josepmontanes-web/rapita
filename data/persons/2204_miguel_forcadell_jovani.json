@@ -1,0 +1,73 @@
+{
+  "id": "2204_miguel_forcadell_jovani",
+  "source_id": "2204",
+  "row_ref": "2204. Miguel Forcadell Jovani",
+  "name": "Miguel Forcadell Jovani",
+  "gender": "male",
+  "birth": {
+    "date": "1839-06-07",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2195_joaquin_forcadell_forcadell"
+    ],
+    "father": "2195_joaquin_forcadell_forcadell",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Forcadell Forcadell",
+      "Maria Jovani Grau"
+    ],
+    "father_name": "Joaquín Forcadell Forcadell",
+    "mother_name": "Maria Jovani Grau",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 7 de juny de 1839 a la Ràpita.\n\nPadrina: Rosa Miguela.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

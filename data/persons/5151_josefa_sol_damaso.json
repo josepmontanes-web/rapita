@@ -1,0 +1,75 @@
+{
+  "id": "5151_josefa_sol_damaso",
+  "source_id": "5151",
+  "row_ref": "5151. Josefa Sol Damaso",
+  "name": "Josefa Sol Damaso",
+  "gender": "female",
+  "birth": {
+    "date": "1792-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3663_jose_navarro_paulo"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Domingo Sol",
+      "Francisca Damaso"
+    ],
+    "father_name": "Domingo Sol",
+    "mother_name": "Francisca Damaso",
+    "spouse_names": [
+      "José Navarro Paulo"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1792]. \n\nProfessió: podria ser llevadora.\n\nCasament: el 19 d'abril de 1814 amb José Navarro Paulo de Freginals [1795]. Es casa als 22 anys.\n\nFills: José [1815], María Francisca [1817], María Jacinta [1817], Ignacio Jayme [1819], Tomás [1823], Francisco [1825], Josefa Alexandra [1828], Mariana [1831] i Justo [1833].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

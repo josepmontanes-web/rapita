@@ -1,0 +1,75 @@
+{
+  "id": "3693_dominga_navarro_vidal",
+  "source_id": "3693",
+  "row_ref": "3693. Dominga Navarro Vidal",
+  "name": "Dominga Navarro Vidal",
+  "gender": "female",
+  "birth": {
+    "date": "1827-08-03",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3647_tomas_navarro_lluis"
+    ],
+    "father": "3647_tomas_navarro_lluis",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomás Navarro Lluís",
+      "Maria Vidal Talarn"
+    ],
+    "father_name": "Tomás Navarro Lluis",
+    "mother_name": "Maria Vidal Talarn",
+    "spouse_names": [
+      "Juan Diago Reverté"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Agustín Castellà",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 3 d'agost de 1827 a la Ràpita.\n\nPadrins: Agustín Castella i Esperanza Navarro.\n\nCasament: el 9 d'octubre de 1852 amb Juan Diago Reverté de la Ràpita [1828]. Testimonis: Juan Aragonés i Pedro Biosca.\n\nEs bessona de Bárbara.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

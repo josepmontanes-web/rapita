@@ -1,0 +1,75 @@
+{
+  "id": "3379_maria_miguel_grau",
+  "source_id": "3379",
+  "row_ref": "3379. María Miguel Grau",
+  "name": "María Miguel Grau",
+  "gender": "female",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "582_francisco_beltran_brunet"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Miguel",
+      "Oracia Grau"
+    ],
+    "father_name": "Miguel Miguel",
+    "mother_name": "Oracia Grau",
+    "spouse_names": [
+      "Francisco Beltran Brunet"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1820]. \n\nCasament: el 8 d'abril de 1843 amb Francisco Beltran Brunet de la Ràpita [1804].\n\nFills: Miguel [1844], Miguela [1845], Teresa i Francisco.\n\nEs germana de Rosa Miguel Grau [1825].\n\nDefunció: el 4 d'agost de 1879 a la Ràpita als 60 anys de \"histerismo convulsivo\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

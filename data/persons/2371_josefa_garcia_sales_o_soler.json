@@ -1,0 +1,77 @@
+{
+  "id": "2371_josefa_garcia_sales_o_soler",
+  "source_id": "2371",
+  "row_ref": "2371. Josefa García Sales [o Soler]",
+  "name": "Josefa García Sales [o Soler]",
+  "gender": "female",
+  "birth": {
+    "date": "1815-01-01",
+    "place": "El Perelló"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "3931_manuel_carlos_pijuan_garcia"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Andrés García",
+      "Vicenta Sales."
+    ],
+    "father_name": "Andrés García",
+    "mother_name": "Vicenta Sales.",
+    "spouse_names": [
+      "Manuel Pijuan Rosello"
+    ],
+    "children_names": [
+      "Manuel Carlos Pijuan García"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: al Perelló [aprox. 1815].\n\nCasament: amb Manuel Pijuan Rosello d'Altafulla [1815].\n\nFills: Manuel Carlos [1836].\n\nEs germana d'Andrés García Sales [1815].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

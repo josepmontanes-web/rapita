@@ -1,0 +1,73 @@
+{
+  "id": "4377_maria_reverter_talarn",
+  "source_id": "4377",
+  "row_ref": "4377. María Reverter Talarn",
+  "name": "María Reverter Talarn",
+  "gender": "female",
+  "birth": {
+    "date": "1823-02-28",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1824-08-03",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4261_juan_reverter_forner"
+    ],
+    "father": "4261_juan_reverter_forner",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Reverter Forner",
+      "Rosa Talarn Bosch"
+    ],
+    "father_name": "Juan Reverté Forner",
+    "mother_name": "Rosa Talarn Bosch",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Lorenzo Casajust",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 28 de febrer de 1823 a la Ràpita.\n\nPadrins: Lorenzo Casajust i María Sancho.\n\nDefunció: el 3 d'agost de 1824 a la Ràpita. Va morir de \"un divieso a la garganta\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

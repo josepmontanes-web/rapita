@@ -1,0 +1,91 @@
+{
+  "id": "4251_maria_reverter_fibla",
+  "source_id": "4251",
+  "row_ref": "4251. María Reverter Fibla",
+  "name": "María Reverter Fibla",
+  "gender": "female",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3264_jacinto_matamoros_reverter"
+    ],
+    "children": [
+      "3262_bernarda_matamoros_reverter",
+      "3263_juana_matamoros_reverte",
+      "3265_carlos_matamoros_reverter",
+      "3266_juan_bautista_matamoros_reverter",
+      "3267_vicente_matamoros_reverter",
+      "3268_josefa_maria_matamoros_reverter",
+      "3269_maria_juana_matamoros_reverte"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Reverté",
+      "Bernarda Fibla"
+    ],
+    "father_name": "Miguel Reverté",
+    "mother_name": "Bernarda Fibla",
+    "spouse_names": [
+      "Jacinto Matamoros Reverter"
+    ],
+    "children_names": [
+      "Bernarda Matamoros Reverter",
+      "Juana Matamoros Reverté",
+      "Carlos Matamoros Reverter",
+      "Juan Bautista Matamoros Reverter",
+      "Vicente Matamoros Reverter",
+      "Josefa Maria Matamoros Reverter",
+      "María Juana Matamoros Reverté"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1790]. \n\nCasament: amb Jacinto Matamoros Reverter d'Alcanar [1789].\n\nFills: Jacinto (Alcanar) [1815], Bernarda [1819], Josefa María [1821], María Juana [1825], Juana [1828], Carlos [1830], Vicente [1832] i Juan Bautista [1835].\n\nEs germana de Mariana Reverter Fibla [1781].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

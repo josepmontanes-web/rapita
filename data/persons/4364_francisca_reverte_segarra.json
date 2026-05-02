@@ -1,0 +1,77 @@
+{
+  "id": "4364_francisca_reverte_segarra",
+  "source_id": "4364",
+  "row_ref": "4364. Francisca Reverté Segarra",
+  "name": "Francisca Reverté Segarra",
+  "gender": "female",
+  "birth": {
+    "date": "1828-01-31",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4260_jose_reverter_forner"
+    ],
+    "father": "4260_jose_reverter_forner",
+    "mother": null,
+    "spouse": [
+      "2148_jose_fibla_sancho"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Reverter Forner",
+      "Casilda Segarra Pusol"
+    ],
+    "father_name": "José Reverter Forner",
+    "mother_name": "Casilda Segarra Pusol",
+    "spouse_names": [
+      "Jose Fibla Sancho"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Curto",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 31 de gener de 1828 a la Ràpita.\n\nPadrins: José Curto i Francisca Balagué.\n\nCasament: el 21 d'abril de 1855 amb José Fibla Sancho d'Alcanar [1829].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

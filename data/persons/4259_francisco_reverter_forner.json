@@ -1,0 +1,96 @@
+{
+  "id": "4259_francisco_reverter_forner",
+  "source_id": "4259",
+  "row_ref": "4259. Francisco Reverter Forner",
+  "name": "Francisco Reverter Forner",
+  "gender": "male",
+  "birth": {
+    "date": "1788-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4177_agustin_reverter",
+      "2232_maria_forner_felip"
+    ],
+    "father": "4177_agustin_reverter",
+    "mother": "2232_maria_forner_felip",
+    "spouse": [
+      "2834_josefa_izquierdo_caldero",
+      "4854_josefa_sancho_biosca"
+    ],
+    "children": [
+      "2232_maria_forner_felip",
+      "4279_manuel_reverte_izquierdo",
+      "4280_rosa_reverte_izquierdo",
+      "4281_ramon_reverte_izquierdo",
+      "4282_agustin_reverter_izquierdo",
+      "4283_alexandro_reverte_izquierdo",
+      "4284_genaro_reverter_izquierdo"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustín Reverter",
+      "Maria Forner Felip"
+    ],
+    "father_name": "Agustín Reverter",
+    "mother_name": "Maria Forner Felip",
+    "spouse_names": [
+      "Josefa Izquierdo Calderó",
+      "Josefa Sancho Biosca"
+    ],
+    "children_names": [
+      "Maria Forner Felip",
+      "Manuel Reverté Izquierdo",
+      "Rosa Reverté Izquierdo",
+      "Ramón Reverté Izquierdo",
+      "Agustín Reverter Izquierdo",
+      "Alexandro Reverté Izquierdo",
+      "Genaro Reverter Izquierdo"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1788]. \n\nCasament: el 12 de febrer de 1820 amb Josefa Izquierdo Calderó de Tortosa [1788].\n\nFills: Manuel [1821], Agustín [1823], Rosa [1826], Ramón [1828], Alexandro [1830] i Genaro [1832].\n\nCasament: el 18 d'octubre de 1833 amb Josefa Sancho Biosca d'Alcanar [1789]. Es casa als 45 anys.\n\nDe l'1 de novembre de 1832 al 31 de juliol de 1839 paga un lloguer de 14 Rs mensuals pel pis de terra de la casa 1 de la mançana 2. (AGP.PER.LEG.1073/23 [Juan Vecino]).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "3836_sebastiana_pascual_lopez",
+  "source_id": "3836",
+  "row_ref": "3836. Sebastiana Pascual López",
+  "name": "Sebastiana Pascual López",
+  "gender": "female",
+  "birth": {
+    "date": "1847-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1848-02-01",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3831_jayme_pascual_liern",
+      "2993_lorenza_lopez_ferran"
+    ],
+    "father": "3831_jayme_pascual_liern",
+    "mother": "2993_lorenza_lopez_ferran",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Jayme Pascual Liern",
+      "Lorenza López Ferrán"
+    ],
+    "father_name": "Jayme Pascual Liern",
+    "mother_name": "Lorenza López Ferràn",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1847]. \n\nDefunció: l'1 de febrer de 1848 a la Ràpita. Va morir al any.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

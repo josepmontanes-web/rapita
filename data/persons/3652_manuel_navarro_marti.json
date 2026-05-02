@@ -1,0 +1,74 @@
+{
+  "id": "3652_manuel_navarro_marti",
+  "source_id": "3652",
+  "row_ref": "3652. Manuel Navarro Martí",
+  "name": "Manuel Navarro Martí",
+  "gender": "male",
+  "birth": {
+    "date": "1843-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1845-06-07",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3619_juan_navarro_comi",
+      "3119_antonia_marti_castells"
+    ],
+    "father": "3619_juan_navarro_comi",
+    "mother": "3119_antonia_marti_castells",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Navarro Comí",
+      "Antonia Martí Castells"
+    ],
+    "father_name": "Juan Navarro Comí",
+    "mother_name": "Antonia Martí Castells",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1843]. \n\nDefunció: el 7 de juny de 1845 a la Ràpita. Va morir als 2 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

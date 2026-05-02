@@ -1,0 +1,74 @@
+{
+  "id": "5525_teresa_vidal_masons",
+  "source_id": "5525",
+  "row_ref": "5525. Teresa Vidal Masons",
+  "name": "Teresa Vidal Masons",
+  "gender": "female",
+  "birth": {
+    "date": "1825-01-09",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1826-03-02",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5568_jose_antonio_vidal_sastre",
+      "3156_maria_masons_tabasca"
+    ],
+    "father": "5568_jose_antonio_vidal_sastre",
+    "mother": "3156_maria_masons_tabasca",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Antonio Vidal Sastre",
+      "María Masons Tabascà"
+    ],
+    "father_name": "José Antonio Vidal Sastre",
+    "mother_name": "Maria Masons Tabascà",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Josef Clua",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 9 de gener de 1825 a la Ràpita.\n\nPadrins: José Clua i Francisca Borrell.\n\nDefunció: el 2 de març de 1826 a la Ràpita. Va morir de \"pujos\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

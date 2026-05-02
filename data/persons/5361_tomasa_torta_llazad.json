@@ -1,0 +1,77 @@
+{
+  "id": "5361_tomasa_torta_llazad",
+  "source_id": "5361",
+  "row_ref": "5361. Tomasa Torta Llazad",
+  "name": "Tomasa Torta Llazad",
+  "gender": "female",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5336_jose_torta"
+    ],
+    "father": "5336_jose_torta",
+    "mother": null,
+    "spouse": [
+      "5068_jose_segarra_miralles"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Torta",
+      "Susana Llasa"
+    ],
+    "father_name": "José Torta",
+    "mother_name": "Susana Llasa",
+    "spouse_names": [
+      "José Segarra Miralles"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1810].\n\nCasament: amb José Segarra Miralles de Freginals [1810].\n\nFills: Juan [1835], Tomasa [1838], María Josefa [1840] i José Christobal [1842].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

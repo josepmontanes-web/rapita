@@ -1,0 +1,74 @@
+{
+  "id": "1300_manuela_castella_navarro",
+  "source_id": "1300",
+  "row_ref": "1300. Manuela Castellà Navarro",
+  "name": "Manuela Castellà Navarro",
+  "gender": "female",
+  "birth": {
+    "date": "1840-01-11",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1169_bautista_castella_alegret",
+      "3625_esperanza_navarro_comi"
+    ],
+    "father": "1169_bautista_castella_alegret",
+    "mother": "3625_esperanza_navarro_comi",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Castellà Alegret",
+      "Esperanza Navarro Comí"
+    ],
+    "father_name": "Bautista Castellà Colomines",
+    "mother_name": "Esperanza Navarro Comí",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Josef Navarro",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'11 de gener de 1840 a la Ràpita.\n\nPadrins: José Navarro i Manuela Gasparín.\n\nCasament: amb Vicente Brunet Callariza de la Ràpita [1835].\n\nFills: Josefa [1878].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

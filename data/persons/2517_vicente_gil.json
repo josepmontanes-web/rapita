@@ -1,0 +1,68 @@
+{
+  "id": "2517_vicente_gil",
+  "source_id": "2517",
+  "row_ref": "2517. Vicente Gil",
+  "name": "Vicente Gil",
+  "gender": "male",
+  "birth": {
+    "date": "1784-01-01",
+    "place": "Murviedro (R. Valencia)"
+  },
+  "death": {
+    "date": "1793-09-13",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Murviedro (València) [aprox. 1784].\n\nDefunció: el 13 de setembre de 1793 a la Ràpita. \"Muere a los 9 años, habiendo tropezado cayó y le pasó por encima de la cabeza el carretero\".\n\n53. Diligencias practicadas acerca de la muerte del niño Vicente Gil atropellado por un carro en 13 de septiembre de 1793. (ACA Caixa 54).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "2278_vicente_gallart_ballester",
+  "source_id": "2278",
+  "row_ref": "2278. Vicente Gallart Ballester",
+  "name": "Vicente Gallart Ballester",
+  "gender": "male",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "València"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2280_maria_dolores_gallart_torne",
+      "2281_sebastiana_gallart_torne"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "María Dolores Gallart Torné",
+      "Sebastiana Gallart Torné"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a València [aprox. 1810].\n\nCasament: amb Angela Torné Martorell del Perelló (Podria ser El Perelló que hi ha a València) [1810].\n\nFills: María Dolores [1836] i Sebastiana [1837].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "2148_jose_fibla_sancho",
+  "source_id": "2148",
+  "row_ref": "2148. José Fibla Sancho",
+  "name": "José Fibla Sancho",
+  "gender": null,
+  "birth": {
+    "date": "1829-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2138_juan_fibla_querol"
+    ],
+    "father": "2138_juan_fibla_querol",
+    "mother": null,
+    "spouse": [
+      "4364_francisca_reverte_segarra"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Fibla Querol",
+      "Paula Sancho"
+    ],
+    "father_name": "Juan Fibla",
+    "mother_name": "Paula Sancho",
+    "spouse_names": [
+      "Francisca Reverté Segarra"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "jornaler"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1829].\n\nProfessió: jornaler.\n\nCasament: el 21 d'abril de 1855 amb Francisca Reverté Segarra de la Ràpita [1828]. Es casa als 26 anys. Testimonis: Juan Fibla i Agustín Reverté.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

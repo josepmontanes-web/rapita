@@ -1,0 +1,73 @@
+{
+  "id": "5476_jose_verge_munos",
+  "source_id": "5476",
+  "row_ref": "5476. José Verge Muños",
+  "name": "José Verge Muños",
+  "gender": "male",
+  "birth": {
+    "date": "1840-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1841-07-19",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5470_prudencio_verge_montserrat"
+    ],
+    "father": "5470_prudencio_verge_montserrat",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Prudencio Verge Montserrat",
+      "Bautista Muños Tomàs"
+    ],
+    "father_name": "Prudencio Verge Montserrat",
+    "mother_name": "Bautista Muños Tomàs",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1840].\n\nDefunció: el 19 de juliol de 1841 a la Ràpita. Va morir pàrvul.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

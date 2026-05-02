@@ -1,0 +1,81 @@
+{
+  "id": "3932_antonia_pinar_baran",
+  "source_id": "3932",
+  "row_ref": "3932. Antonia Pinar Baran",
+  "name": "Antonia Pinar Baran",
+  "gender": "female",
+  "birth": {
+    "date": "1780-01-01",
+    "place": "Barcelona"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "970_antonio_cantero_pinar"
+    ],
+    "father": "970_antonio_cantero_pinar",
+    "mother": null,
+    "spouse": [
+      "968_blas_cantero_martinez"
+    ],
+    "children": [
+      "971_catalina_cantero_pinar"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Cantero Pinar",
+      "Antonia Baran"
+    ],
+    "father_name": "Antonio Pinar",
+    "mother_name": "Antonia Baran",
+    "spouse_names": [
+      "Blas Cantero Martínez"
+    ],
+    "children_names": [
+      "Catalina Cantero Pinar"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Barcelona [aprox. 1780]. \n\nCasament: amb Blas Cantero Martínez de Santa María de los Llanos (Cuenca) [1780].\n\nFills: Antonio (Lloret Ob. Barcelona) [1805], Catalina [1810] i María del Carmen [1819].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

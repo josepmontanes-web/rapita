@@ -1,0 +1,77 @@
+{
+  "id": "2670_jose_agustin_gras_forcadell",
+  "source_id": "2670",
+  "row_ref": "2670. José Agustín Gras Forcadell",
+  "name": "José Agustín Gras Forcadell",
+  "gender": "male",
+  "birth": {
+    "date": "1826-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2665_bautista_gras_balada"
+    ],
+    "father": "2665_bautista_gras_balada",
+    "mother": null,
+    "spouse": [
+      "364_maria_balada_reverter"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Gras Balada",
+      "Antonia Forcadell"
+    ],
+    "father_name": "Bautista Gras",
+    "mother_name": "Antonia Forcadell",
+    "spouse_names": [
+      "Maria Balada Reverter"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1826].\n\nCasament: el 10 de febrer de 1849 amb María Balada Reverter de la Ràpita [1829]. Es casa als 23 anys.\n\nFills: Bautista [1850], Andrés [1855] i Miguel [1857].\n\nEs germà d'Antonia Gras Forcadell [1820] i de Miguel Gras Forcadell [1825].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

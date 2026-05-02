@@ -1,0 +1,78 @@
+{
+  "id": "178_juan_arbo_angles",
+  "source_id": "178",
+  "row_ref": "178. Juan Arbó Anglès",
+  "name": "Juan Arbó Anglès",
+  "gender": "male",
+  "birth": {
+    "date": "1806-01-13",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1842-09-03",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "209_tomas_arbo_solsona",
+      "99_francisca_angles_o_ingles_arnau"
+    ],
+    "father": "209_tomas_arbo_solsona",
+    "mother": "99_francisca_angles_o_ingles_arnau",
+    "spouse": [],
+    "children": [
+      "180_juan_arbo_balanza"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomás Arbó Solsona",
+      "Francisca Anglés [o Inglés] Arnau"
+    ],
+    "father_name": "Tomás Arbó Solsona",
+    "mother_name": "Francisca Anglès Arnau",
+    "spouse_names": [],
+    "children_names": [
+      "Juan Arbó Balanzá"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco del Pozo",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  el 13 de gener de 1806 a la Ràpita.\n\nEls padrins son Antonia Arbó Ramia de Benicarló i Francisco del Pozo artiller del municipi de Patones (Madrid).\n\nDefunció: el 3 de setembre de 1842 a la Ràpita. Va morir fadrí de mort violenta.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

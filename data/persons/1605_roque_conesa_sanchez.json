@@ -1,0 +1,75 @@
+{
+  "id": "1605_roque_conesa_sanchez",
+  "source_id": "1605",
+  "row_ref": "1605. Roque Conesa Sánchez",
+  "name": "Roque Conesa Sánchez",
+  "gender": "male",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Cartagena"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "4433_geronima_robles_callarisa"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Conesa",
+      "Josefa Sánchez"
+    ],
+    "father_name": "Antonio Conesa",
+    "mother_name": "Josefa Sánchez",
+    "spouse_names": [
+      "Gerónima Robles Callarisa"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Cartagena [aprox. 1820].\n\nCasament: el 14 d'abril de 1843 amb Gerónima Robles Callarisa d'Ulldecona [1820].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

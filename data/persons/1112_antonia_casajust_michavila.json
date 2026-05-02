@@ -1,0 +1,74 @@
+{
+  "id": "1112_antonia_casajust_michavila",
+  "source_id": "1112",
+  "row_ref": "1112. Antonia Casajust Michavila",
+  "name": "Antonia Casajust Michavila",
+  "gender": "female",
+  "birth": {
+    "date": "1793-01-13",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1094_ignacio_casajust_ballester",
+      "3338_vicenta_michavila_bayarri"
+    ],
+    "father": "1094_ignacio_casajust_ballester",
+    "mother": "3338_vicenta_michavila_bayarri",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Ignacio Casajust Ballester",
+      "Vicenta Michavila Bayarri"
+    ],
+    "father_name": "Ignacio Casajust Ballester",
+    "mother_name": "Vicenta Michavila Bayarri",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Antonio Monserrat",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 13 de gener de 1793 a la Ràpita.\n\nPadrí: Antonio Montserrat.\n\nA l'estat de veïns de setembre de 1798 diu que els seus pares viuen a la casa núm. 9 de la \"Calle Mayor\" (ACA BGRP Cajas 34) i ella no consta, pel que podria ser que hagués mor abans.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

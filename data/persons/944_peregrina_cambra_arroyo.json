@@ -1,0 +1,78 @@
+{
+  "id": "944_peregrina_cambra_arroyo",
+  "source_id": "944",
+  "row_ref": "944. Peregrina Cambra Arroyo",
+  "name": "Peregrina Cambra Arroyo",
+  "gender": "female",
+  "birth": {
+    "date": "1803-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "945_peregrin_cambra_pau",
+      "293_josefa_arroyo_perez"
+    ],
+    "father": "945_peregrin_cambra_pau",
+    "mother": "293_josefa_arroyo_perez",
+    "spouse": [
+      "2967_bautista_llorens_garcia"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Peregrín Cambra Pau",
+      "Josefa Arroyo Pérez"
+    ],
+    "father_name": "Peregrín Cambra Pau",
+    "mother_name": "Josefa Arroyo Pérez",
+    "spouse_names": [
+      "Bautista Llorens García"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a València [aprox. 1803].\n\nCasament: el 24 de desembre de 1827 amb Bautista Llorens García del Perelló [1800].\n\nFills: Eugenia [1833], Juan Bautista [1836] i Josefa María [1841].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

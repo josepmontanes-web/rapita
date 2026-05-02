@@ -1,0 +1,81 @@
+{
+  "id": "5023_juan_sans_solano",
+  "source_id": "5023",
+  "row_ref": "5023. Juan Sans Solano",
+  "name": "Juan Sans Solano",
+  "gender": "male",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Cuellar de la Sierra"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "5000_atanacio_sans_mies",
+      "5001_bernardina_sans_mies",
+      "5002_alvaro_sans_mies"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Severino Sans",
+      "Feliciana Solano"
+    ],
+    "father_name": "Severino Sans",
+    "mother_name": "Feliciana Solano",
+    "spouse_names": [
+      "Antonia Míes Guinjoan"
+    ],
+    "children_names": [
+      "Atanacio Sans Míes",
+      "Bernardina Sans Míes",
+      "Alvaro Sans Míes"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Cuellar de la Sierra [aprox. 1790]. \n\nCasament: el 27 d'abril de 1821 amb Antonia Míes Guinjoan [1800].\n\nFills: Bernardina [1827], Alvaro [1829] i Atanacio [1831].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

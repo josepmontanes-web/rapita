@@ -1,0 +1,73 @@
+{
+  "id": "3345_maria_mies_esteve",
+  "source_id": "3345",
+  "row_ref": "3345. María Míes Esteve",
+  "name": "María Míes Esteve",
+  "gender": "female",
+  "birth": {
+    "date": "1792-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1792-10-01",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1888_ana_esteve_masconda"
+    ],
+    "father": null,
+    "mother": "1888_ana_esteve_masconda",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Míes Montes",
+      "Ana Esteve Masconda"
+    ],
+    "father_name": "Josef Míes Montes",
+    "mother_name": "Ana Esteve Masconda",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1792]. \n\nDefunció: l'1 d'octubre de 1792 a la Ràpita. Va morir pàrvul.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

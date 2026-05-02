@@ -1,0 +1,74 @@
+{
+  "id": "4217_antonia_reverter_caubet",
+  "source_id": "4217",
+  "row_ref": "4217. Antonia Reverter Caubet",
+  "name": "Antonia Reverter Caubet",
+  "gender": "female",
+  "birth": {
+    "date": "1834-03-17",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1834-03-17",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4791_miguel_sanchez_reverter",
+      "1358_rosa_caubet_rodriguez"
+    ],
+    "father": "4791_miguel_sanchez_reverter",
+    "mother": "1358_rosa_caubet_rodriguez",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Sánchez Reverter",
+      "Rosa Caubet Rodríguez"
+    ],
+    "father_name": "Miguel Reverter Querol",
+    "mother_name": "Rosa Caubet Rodriguez",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 17 de març de 1834 a la Ràpita.\n\nDefunció: el 17 de març de 1834 a la Ràpita. Va morir al naixer.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

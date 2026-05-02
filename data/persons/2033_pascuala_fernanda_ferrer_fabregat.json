@@ -1,0 +1,73 @@
+{
+  "id": "2033_pascuala_fernanda_ferrer_fabregat",
+  "source_id": "2033",
+  "row_ref": "2033. Pascuala Fernanda Ferrer Fabregat",
+  "name": "Pascuala Fernanda Ferrer Fabregat",
+  "gender": "female",
+  "birth": {
+    "date": "1836-05-29",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2062_miguel_ferre_ortiz"
+    ],
+    "father": "2062_miguel_ferre_ortiz",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Ferré Ortiz",
+      "Teresa Fabregat Mateu"
+    ],
+    "father_name": "Miguel Ferré Ortiz",
+    "mother_name": "Teresa Fabregat Mateu",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Ramón Cid",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 29 de maig de 1836 a la Ràpita.\n\nPadrins: Ramón Cid i Pascuala Bosch.\n\nCasament: amb José Gavarda Reverte de la Ràpita [1839].\n\nFills: Teresa [1862] i Serafina [1865].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

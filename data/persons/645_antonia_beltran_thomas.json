@@ -1,0 +1,73 @@
+{
+  "id": "645_antonia_beltran_thomas",
+  "source_id": "645",
+  "row_ref": "645. Antonia Beltran Thomas",
+  "name": "Antonia Beltran Thomas",
+  "gender": "female",
+  "birth": {
+    "date": "1837-01-02",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1839-05-22",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "621_vicente_beltran_masdeu"
+    ],
+    "father": "621_vicente_beltran_masdeu",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Beltran Masdeu",
+      "Maria Josefa Tomás Delser"
+    ],
+    "father_name": "Vicente Beltràn Masdeu",
+    "mother_name": "Maria Josefa Tomás Delser",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Antonio Mira",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 2 de gener de 1837 a la Ràpita.\n\nPadrins: Antonio Mira de Vinaròs i Antonia Reverter.\n\nDefunció: el 22 de maig de 1839 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

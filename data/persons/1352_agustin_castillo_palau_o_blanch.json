@@ -1,0 +1,68 @@
+{
+  "id": "1352_agustin_castillo_palau_o_blanch",
+  "source_id": "1352",
+  "row_ref": "1352. Agustín Castillo Palau [o Blanch]",
+  "name": "Agustín Castillo Palau [o Blanch]",
+  "gender": "male",
+  "birth": {
+    "date": "1846-01-01",
+    "place": "Benicarló"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Benicarló [o la Vall de Tormo (Terol)] [aprox. 1846].\n\nProfessió: panader.\n\nCasament: el 25 de noviembre de 1871 amb Cinta Borràs Beltri de la Ràpita [1853]. Es casa als 25 anys.\n\nFills: José [1876] i Cinta Mercedes Francisca [1881].\n\nSap escriure i signa la partida de casament i del naixement de la filla.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "4900_maria_sancho_matamoros",
+  "source_id": "4900",
+  "row_ref": "4900. María Sancho Matamoros",
+  "name": "María Sancho Matamoros",
+  "gender": "female",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2535_agapita_gil_sancho",
+      "2536_josefa_maria_gil_sancho",
+      "2537_maria_de_la_cinta_gil_sancho",
+      "2538_maria_ana_gil_sancho",
+      "2539_juan_gil_sancho",
+      "2540_juan_carlos_gil_sancho"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Agapita Gil Sancho",
+      "Josefa Maria Gil Sancho",
+      "Maria de la Cinta Gil Sancho",
+      "Maria Ana Gil Sancho",
+      "Juan Gil Sancho",
+      "Juan Carlos Gil Sancho"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1800].\n\nCasament: amb José Gil Queralt d'Alcanar [1800].\n\nFills: Agapita [1822], Josefa María [1824], María de la Cinta [1827], María Ana [1830], Juan [1833] i Juan Carlos [1835].\n\nViuen a la partida de la Senieta del terme d'Amposta.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

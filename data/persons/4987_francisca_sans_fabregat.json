@@ -1,0 +1,78 @@
+{
+  "id": "4987_francisca_sans_fabregat",
+  "source_id": "4987",
+  "row_ref": "4987. Francisca Sans Fabregat",
+  "name": "Francisca Sans Fabregat",
+  "gender": "female",
+  "birth": {
+    "date": "1820-11-14",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5017_domingo_sans_sanarau",
+      "1928_pascuala_fabregat_obiol"
+    ],
+    "father": "5017_domingo_sans_sanarau",
+    "mother": "1928_pascuala_fabregat_obiol",
+    "spouse": [
+      "250_tomas_arlandez_cid"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Domingo Sans Sanarau",
+      "Pascuala Fabregat Obiol"
+    ],
+    "father_name": "Domingo Sans Sanarau",
+    "mother_name": "Pascuala Fabregat Obiol",
+    "spouse_names": [
+      "Tomas Arlández Cid"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Antonio Maynes",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 14 de novembre de 1820 a la Ràpita.\n\nPadrins: Antonio Maynes i Francisca Fabregat.\n\nCasament: el 13 de gener de 1851 amb Tomás Arlández Cid de Tortosa [1820].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

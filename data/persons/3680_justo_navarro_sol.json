@@ -1,0 +1,73 @@
+{
+  "id": "3680_justo_navarro_sol",
+  "source_id": "3680",
+  "row_ref": "3680. Justo Navarro Sol",
+  "name": "Justo Navarro Sol",
+  "gender": "male",
+  "birth": {
+    "date": "1833-07-18",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3663_jose_navarro_paulo"
+    ],
+    "father": "3663_jose_navarro_paulo",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Navarro Paulo",
+      "Josefa Sol Amé"
+    ],
+    "father_name": "José Navarro Paulo",
+    "mother_name": "Josefa Sol Amé",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Beltrán",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 18 de juliol de 1833 a la Ràpita.\n\nPadrins: Francisco Beltran i Josefa Beltran.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

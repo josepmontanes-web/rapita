@@ -1,0 +1,86 @@
+{
+  "id": "4341_matilde_reverter_sancho",
+  "source_id": "4341",
+  "row_ref": "4341. Matilde Reverter Sancho",
+  "name": "Matilde Reverter Sancho",
+  "gender": "female",
+  "birth": {
+    "date": "1783-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1815-03-13",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4174_pedro_reverter",
+      "4933_christofola_sancho_sancho"
+    ],
+    "father": "4174_pedro_reverter",
+    "mother": "4933_christofola_sancho_sancho",
+    "spouse": [
+      "1654_francisco_cruelles_remisa"
+    ],
+    "children": [
+      "1655_francisca_cruelles_reverter",
+      "1656_cipriano_cruelles_reverter",
+      "1657_bonifacio_cruelles_reverter"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Reverter",
+      "Christofola Sancho Sancho"
+    ],
+    "father_name": "Pedro Reverter",
+    "mother_name": "Christofola Sancho Sancho",
+    "spouse_names": [
+      "Francisco Cruelles Remisa"
+    ],
+    "children_names": [
+      "Francisca Cruelles Reverter",
+      "Cipriano Cruelles Reverter",
+      "Bonifacio Cruelles Reverter"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1783]. \n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la \"Plasa\" com a criada de Francisco Gasparín  (ACA BGRP Cajas 34).\n\nCasament: l'1 de juliol de 1803 amb Francisco Cruelles Remisa de Llissà d'Amunt [1775]. Es casa als 19 anys.\n\nFills: Francisca [1806], Cipriano [1809] i Bonifacio [1814].\n\nDefunció: el 13 de març de 1815 a la Ràpita. Va morir als 32 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

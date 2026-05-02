@@ -1,0 +1,78 @@
+{
+  "id": "4138_bernabe_ramirez_benlloch",
+  "source_id": "4138",
+  "row_ref": "4138. Bernabé Ramírez Benlloch",
+  "name": "Bernabé Ramírez Benlloch",
+  "gender": "male",
+  "birth": {
+    "date": "1823-07-31",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4141_bernabe_ramirez_ruiz",
+      "665_buenaventura_benlloch_feu"
+    ],
+    "father": "4141_bernabe_ramirez_ruiz",
+    "mother": "665_buenaventura_benlloch_feu",
+    "spouse": [
+      "4524_engracia_rosales_granell"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bernabé Ramírez Ruiz",
+      "Buenaventura Benlloch Feu"
+    ],
+    "father_name": "Bernabé Ramírez Ruíz",
+    "mother_name": "Buenaventura Benlloch Feu",
+    "spouse_names": [
+      "Engracia Rosales Granell"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Andrés Ramirez",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Marino"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 31 de juliol de 1823 a la Ràpita.\n\nPadrins: Andrés Ramírez i Rosa Pardo.\n\nProfessió: marino.\n\nCasament: el 24 de gener de 1853 amb Engracia Rosales Granell de la Ràpita [1825]. Testimonis: Agustín Reverté i Ramón Ferré.\n\nFills: Bernabé [1853] i José [1860].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

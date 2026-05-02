@@ -1,0 +1,68 @@
+{
+  "id": "2763_casimiro_guzman_aixa",
+  "source_id": "2763",
+  "row_ref": "2763. Casimiro Guzman Aixa",
+  "name": "Casimiro Guzman Aixa",
+  "gender": "male",
+  "birth": {
+    "date": "1870-01-01",
+    "place": "Peníscola que ha mort ofegat a la bodega de dita embarcació"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "El 24 de març de 1877 compareix al registre civil de la Ràpita Andrés Llorens, major d'edat, casat, cabo de mar d'aquest districte, manifestant que ha naufragat la barca \"Virgen de la Ermitaña\" i s'ha tret el cadaver d'un nen de 7 anys natural de Peníscola que ha mort ofegat a la bodega de dita embarcació. El cadaver està al hospital de caritat de la Ràpita on els facultatius D. José Alegret i D. Luís Esteller li han practicat l'autopsia, resultant de la mateixa lo ja explicat.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

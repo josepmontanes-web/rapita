@@ -1,0 +1,78 @@
+{
+  "id": "2018_jose_ferre_comi",
+  "source_id": "2018",
+  "row_ref": "2018. José Ferré Comí",
+  "name": "José Ferré Comí",
+  "gender": "male",
+  "birth": {
+    "date": "1841-11-30",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2011_jose_antonio_ferrer_busquets",
+      "1588_juana_comi_nicolau"
+    ],
+    "father": "2011_jose_antonio_ferrer_busquets",
+    "mother": "1588_juana_comi_nicolau",
+    "spouse": [],
+    "children": [
+      "2023_teresa_ferre_esteller"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Antonio Ferrer Busquets",
+      "Juana Comí Nicolau"
+    ],
+    "father_name": "José Antonio Ferrer Busquets",
+    "mother_name": "Juana Comí Nicolau",
+    "spouse_names": [],
+    "children_names": [
+      "Teresa Ferré Esteller"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Navarro",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 30 de novembre de 1841 a la Ràpita.\n\nPadrins: José Navarro i Cinta Borràs.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

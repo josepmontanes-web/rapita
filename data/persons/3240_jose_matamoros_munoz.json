@@ -1,0 +1,73 @@
+{
+  "id": "3240_jose_matamoros_munoz",
+  "source_id": "3240",
+  "row_ref": "3240. José Matamoros Muñoz",
+  "name": "José Matamoros Muñoz",
+  "gender": "male",
+  "birth": {
+    "date": "1844-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3161_antonio_matamoros"
+    ],
+    "father": "3161_antonio_matamoros",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Matamoros",
+      "Agustina Muñoz"
+    ],
+    "father_name": "Antonio Matamoros",
+    "mother_name": "Agustina Muñoz",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1844].\n\nCasament: amb Josefa Montserrat.\n\nCasament: el 9 de maig de 1874 amb María Montserrat Martí de la Ràpita [1854]. Es casa als 30 anys.\n\nFills: José [1876] i Teresa [1878].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

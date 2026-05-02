@@ -1,0 +1,68 @@
+{
+  "id": "2824_agustina_icart_mallol",
+  "source_id": "2824",
+  "row_ref": "2824. Agustina Icart Mallol",
+  "name": "Agustina Icart Mallol",
+  "gender": "female",
+  "birth": {
+    "date": "1856-01-01",
+    "place": "Tarragona"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tarragona [aprox. 1856].\n\nCasament: amb Francisco Aguilar Borràs de Tortosa [1856].\n\nFills: María Cinta Julia [1878].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

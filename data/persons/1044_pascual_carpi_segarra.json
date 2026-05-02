@@ -1,0 +1,81 @@
+{
+  "id": "1044_pascual_carpi_segarra",
+  "source_id": "1044",
+  "row_ref": "1044. Pascual Carpi Segarra",
+  "name": "Pascual Carpi Segarra",
+  "gender": "male",
+  "birth": {
+    "date": "1825-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1044_pascual_carpi_segarra"
+    ],
+    "father": "1044_pascual_carpi_segarra",
+    "mother": null,
+    "spouse": [
+      "4144_francisca_ramon_guardino"
+    ],
+    "children": [
+      "1044_pascual_carpi_segarra"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pascual Carpi Segarra",
+      "Carmela Segarra"
+    ],
+    "father_name": "Pascual Carpi",
+    "mother_name": "Carmela Segarra",
+    "spouse_names": [
+      "Francisca Ramon Guardino"
+    ],
+    "children_names": [
+      "Pascual Carpi Segarra"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1825].\n\nCasament: el 9 d'octubre de 1847 amb Francisca Ramón Guardino. Quan es casa es veí de Benicarló.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

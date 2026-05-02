@@ -1,0 +1,68 @@
+{
+  "id": "3573_agustina_munoz_rallo",
+  "source_id": "3573",
+  "row_ref": "3573. Agustina Muñoz Rallo",
+  "name": "Agustina Muñoz Rallo",
+  "gender": "female",
+  "birth": {
+    "date": "1813-01-01",
+    "place": "la Galera"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Galera [aprox. 1813].\n\nCasament: amb Antonio Matamoros de la Ràpita [1810].\n\nFills: José [1844], Bienvenida [1845], Josefa [1853] i María [1855].\n\nDefunció: el 31 de gener de 1877 a la Ràpita als 64 anys de \"hematomisis\" (podria ser hematemesis). Fa testament davant del capellà B. Vergés.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

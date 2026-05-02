@@ -1,0 +1,73 @@
+{
+  "id": "2858_maria_izquierdo_saperas",
+  "source_id": "2858",
+  "row_ref": "2858. María Izquierdo Saperas",
+  "name": "María Izquierdo Saperas",
+  "gender": "female",
+  "birth": {
+    "date": "1792-03-12",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1795-09-06",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2839_juan_izquierdo_carceller"
+    ],
+    "father": "2839_juan_izquierdo_carceller",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Izquierdo Carceller",
+      "Rosa Saperas Rauera"
+    ],
+    "father_name": "Juan Izquierdo Carceller",
+    "mother_name": "Rosa Saperas Rauera",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Josef Antonio Pascual",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 12 de març de 1792 a la Ràpita.\n\nPadrins: José Antonio Pascual i Agustina Rubio.\n\nDefunció: el 6 de setembre de 1795 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

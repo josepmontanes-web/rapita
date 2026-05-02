@@ -1,0 +1,73 @@
+{
+  "id": "999_sebastiana_carbo_cristofol",
+  "source_id": "999",
+  "row_ref": "999. Sebastiana Carbó Cristófol",
+  "name": "Sebastiana Carbó Cristófol",
+  "gender": "female",
+  "birth": {
+    "date": "1829-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1848-02-14",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1016_andres_carbo_sarsa"
+    ],
+    "father": "1016_andres_carbo_sarsa",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Andrés Carbó Sarsa",
+      "Josefa Cristófol"
+    ],
+    "father_name": "Andrés Carbó",
+    "mother_name": "Josefa Cristófol",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1829].\n\nDefunció: el 14 de febrer de 1848 a la Ràpita. Va morir als 19 anys \"de inflamación\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

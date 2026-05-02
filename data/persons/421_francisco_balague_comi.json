@@ -1,0 +1,68 @@
+{
+  "id": "421_francisco_balague_comi",
+  "source_id": "421",
+  "row_ref": "421. Francisco Balagué Comí",
+  "name": "Francisco Balagué Comí",
+  "gender": "male",
+  "birth": {
+    "date": "1874-01-04",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 4 de gener de 1874 a la Ràpita.\n\nProfessió: mariner.\n\nLa familia tenia com a única propietat la casa on vivien.\n\nDefunció: el 22 de desembre de 1891 al naufragi de la barca San Juan Segundo davant de Benicarló, al temporal de Sant Tomàs.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

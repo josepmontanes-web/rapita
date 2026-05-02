@@ -1,0 +1,74 @@
+{
+  "id": "5559_manuela_casilda_vidal_rosales",
+  "source_id": "5559",
+  "row_ref": "5559. Manuela Casilda Vidal Rosales",
+  "name": "Manuela Casilda Vidal Rosales",
+  "gender": "female",
+  "birth": {
+    "date": "1840-07-20",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5588_joaquin_vidal_talarn",
+      "4559_maria_rosales_valls"
+    ],
+    "father": "5588_joaquin_vidal_talarn",
+    "mother": "4559_maria_rosales_valls",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Vidal Talarn",
+      "Maria Rosales Valls"
+    ],
+    "father_name": "Joaquín Vidal Talarn",
+    "mother_name": "Maria Rosales Valls",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Manuel Godall",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 20 de juliol de 1840 a la Ràpita.\n\nPadrins: Manuel Godall i Casilda Magriñá.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

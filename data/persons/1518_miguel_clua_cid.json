@@ -1,0 +1,79 @@
+{
+  "id": "1518_miguel_clua_cid",
+  "source_id": "1518",
+  "row_ref": "1518. Miguel Clua Cid",
+  "name": "Miguel Clua Cid",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Santa Barbara"
+  },
+  "death": {
+    "date": "1842-12-21",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1531_luisa_o_lucia_clua_tomas",
+      "1532_juan_bautista_clua_tomas"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Clua",
+      "Paula Cid"
+    ],
+    "father_name": "Francisco Clua",
+    "mother_name": "Paula Cid",
+    "spouse_names": [
+      "Maria Tomás Arquenes"
+    ],
+    "children_names": [
+      "Luisa [o Lucia] Clua Tomás",
+      "Juan Bautista Clua Tomás"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Santa Bàrbara [aprox. 1800].\n\nCasament: amb María Tomás Arquenes de la Cava, filla de Juan Tomás de la Cava i Agustina Arquenes de Tortosa.\n\nFills: Luísa (la Galera) [1830], Juan Bautista [1841] i Francisco [1845].\n\nDefunció: el 21 de desembre de 1842 a la Ràpita. Va testar davant de Manuel Reverter, Prevere.\n\nPartición: María, Miguel, Luisa, José y Nicolasa Clua. María Clua, Miguel Clua por parte de su apoderado Juan Fibla, Luísa Clua, José Clua y Nicolasa Clua hermanos procedieron a la división de los bienes de sus difuntos padres Miguel Clua y María Tomás. 15 de diciembre de 1859. Esc. Juan Ventosa de Amposta. Valor 240.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

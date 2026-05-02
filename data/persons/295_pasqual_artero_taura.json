@@ -1,0 +1,77 @@
+{
+  "id": "295_pasqual_artero_taura",
+  "source_id": "295",
+  "row_ref": "295. Pasqual Artero Taurá",
+  "name": "Pasqual Artero Taurá",
+  "gender": "male",
+  "birth": {
+    "date": "1753-01-01",
+    "place": "Villa Real"
+  },
+  "death": {
+    "date": "1817-07-06",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "294_maria_artero_celez"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Artero",
+      "Maria Taurá"
+    ],
+    "father_name": "Francisco Artero",
+    "mother_name": "Maria Taurá",
+    "spouse_names": [
+      "Mariana Célez"
+    ],
+    "children_names": [
+      "Maria Artero Célez"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  a Vila-real (Castelló) [aprox. 1753].\n\nCasament: amb Mariana Célez d'Almassora [1755].\n\nFills: María [1791].\n\nA l'estat de veïns de la Població de San Carlos d'1 de setembre de 1798 consta que viu a la mansana vella casa núm. 11 (ACA BGRP caixa 34). Al gener de 1799 paga 4 Rv de lloguer per la mateixa casa.\n\nDefunció: el 6 de juliol de 1817 a la Ràpita. Va morir als 64 anys de \"hinchazón\". \"No hizo testamento por no poseer ninguna cosa\". A la seva partida de defunció la dona es diu Mariana Sere.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

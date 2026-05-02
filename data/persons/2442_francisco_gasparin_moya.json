@@ -1,0 +1,75 @@
+{
+  "id": "2442_francisco_gasparin_moya",
+  "source_id": "2442",
+  "row_ref": "2442. Francisco Gasparín Moya",
+  "name": "Francisco Gasparín Moya",
+  "gender": "male",
+  "birth": {
+    "date": "1818-10-20",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2437_lorenzo_gasparin_matamoros"
+    ],
+    "father": "2437_lorenzo_gasparin_matamoros",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Lorenzo Gasparín Matamoros",
+      "Rosa Moya Villarroya"
+    ],
+    "father_name": "Lorenzo Gasparín Matamoros",
+    "mother_name": "Rosa Moya Villarroya",
+    "spouse_names": [
+      "Josefa Sans Arlández"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Gasparín",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 20 d'octubre de 1818 a la Ràpita.\n\nPadrins: Francisco Gasparín i Teresa Villarroya.\n\nProfessió: pagès.\n\nCasament: el 14 de març de 1839 amb Josefa Sans Arlández de la Ràpita [1819].\n\nFills: Agustina [1850], Francisca [1850] i Casiano [1855], Llorenç, Joan, Josepa i Dominga.\n\nDefunció: el 5 de maig de 1887 a la Ràpita als 76 anys.\n\nApareix en doc. 52 com alcalde constitucional de San Carlos (1-5-1854). Demana 50 vares quadrades a la devesa per a construir un nou cementiri. (pot-ser aquest sigui Francesc Gasparín Gombau.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

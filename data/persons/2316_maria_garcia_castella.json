@@ -1,0 +1,68 @@
+{
+  "id": "2316_maria_garcia_castella",
+  "source_id": "2316",
+  "row_ref": "2316. Maria García Castellà",
+  "name": "Maria García Castellà",
+  "gender": "female",
+  "birth": {
+    "date": "1879-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1879].\n\nDefunció: l'1 de febrer de 1881 a la Ràpita als 20 mesos de \"difteria buclal faringea\". Declara la mor Magdalena Alberto de Benicarló de 44 anys, casada.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

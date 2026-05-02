@@ -1,0 +1,73 @@
+{
+  "id": "3372_juan_bautista_mies_silvestre",
+  "source_id": "3372",
+  "row_ref": "3372. Juan Bautista Míes Silvestre",
+  "name": "Juan Bautista Míes Silvestre",
+  "gender": "male",
+  "birth": {
+    "date": "1837-11-26",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3361_tomas_mies_guinjuan"
+    ],
+    "father": "3361_tomas_mies_guinjuan",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomás Míes Guinjuan",
+      "Tomasa Silvestre Sanchez"
+    ],
+    "father_name": "Tomás Míes Guinjuan",
+    "mother_name": "Tomasa Silvestre Sanchez",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Bautista Silvestre",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 26 de novembre de 1837 a la Ràpita.\n\nPadrins: Juan Bautista Silvestre i Catalina Silvestre.\n\nProfessió: pagès.\n\nCasament: amb Agustina Forcadell Reverté de la Ràpita [1841].\n\nFills: María [1879] i Bautista [1880].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

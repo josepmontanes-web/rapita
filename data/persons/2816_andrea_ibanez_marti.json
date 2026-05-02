@@ -1,0 +1,73 @@
+{
+  "id": "2816_andrea_ibanez_marti",
+  "source_id": "2816",
+  "row_ref": "2816. Andrea Ibáñez Martí",
+  "name": "Andrea Ibáñez Martí",
+  "gender": "female",
+  "birth": {
+    "date": "1825-01-01",
+    "place": "Perelló"
+  },
+  "death": {
+    "date": "1836-09-20",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2822_sebastian_ibanez_martinez"
+    ],
+    "father": "2822_sebastian_ibanez_martinez",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Sebastián Ibáñez Martínez",
+      "Mariana Martí"
+    ],
+    "father_name": "Sebastián Ibáñez",
+    "mother_name": "Mariana Martí",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: al Perelló [aprox. 1825]. (Podria ser el Perelló de València).\n\nDefunció: el 20 de setembre de 1836 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

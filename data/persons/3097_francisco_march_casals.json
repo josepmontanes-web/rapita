@@ -1,0 +1,91 @@
+{
+  "id": "3097_francisco_march_casals",
+  "source_id": "3097",
+  "row_ref": "3097. Francisco March Casals",
+  "name": "Francisco March Casals",
+  "gender": "male",
+  "birth": {
+    "date": "1771-01-01",
+    "place": "Montroig"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3094_francisco_march"
+    ],
+    "father": "3094_francisco_march",
+    "mother": null,
+    "spouse": [
+      "98_francisca_andreu_puigol",
+      "2985_maria_lopez_costa"
+    ],
+    "children": [
+      "3095_rosa_march_andreu",
+      "3096_maria_francisca_march_andreu",
+      "3099_josefa_march_lopez",
+      "3100_estevan_march_lopez",
+      "3101_teresa_march_lopez"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco March",
+      "Francisca Casals"
+    ],
+    "father_name": "Francisco March",
+    "mother_name": "Francisca Casals",
+    "spouse_names": [
+      "Francisca Andreu Puigol",
+      "Maria López Costa"
+    ],
+    "children_names": [
+      "Rosa March Andreu",
+      "María Francisca March Andreu",
+      "Josefa March López",
+      "Estevan March López",
+      "Teresa March López"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Traginer"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Mont-roig (Tarragona)  [aprox. 1771]. \n\nProfessió: Traginer.\n\nCasament: el 6 de maig de 1791 amb Francisca Andreu Puigol de Benissanet [1770].\n\nFills: Rosa [1792] i María Francisca [1795].\n\nCasament: el 24 de desembre de 1804 amb María López Costa de Serós (Lleida) [1771]. Es casa als 34 anys.\n\nFills: Josefa [1805], Estevan [1809] i Teresa [1813].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

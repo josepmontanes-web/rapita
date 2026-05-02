@@ -1,0 +1,85 @@
+{
+  "id": "4421_antonia_ripoll_ivanes",
+  "source_id": "4421",
+  "row_ref": "4421. Antonia Ripoll Ivañes",
+  "name": "Antonia Ripoll Ivañes",
+  "gender": "female",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Vinaròs"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4420_francisco_ripoll"
+    ],
+    "father": "4420_francisco_ripoll",
+    "mother": null,
+    "spouse": [
+      "4892_ramon_sancho_garcia"
+    ],
+    "children": [
+      "4925_miguela_sancho_ripoll",
+      "4926_ramon_sancho_ripoll",
+      "4927_cecilia_sancho_ripoll"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Ripoll",
+      "Ana María Ivañes"
+    ],
+    "father_name": "Francisco Ripoll",
+    "mother_name": "Ana María Ivañes",
+    "spouse_names": [
+      "Ramón Sancho García"
+    ],
+    "children_names": [
+      "Miguela Sancho Ripoll",
+      "Ramón Sancho Ripoll",
+      "Cecilia Sancho Ripoll"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1800]. \n\nCasament: amb Ramón Sancho García de la Ràpita [1801].\n\nFills: Miguela [1820], Ramón [1829] i Cecilia [1831].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

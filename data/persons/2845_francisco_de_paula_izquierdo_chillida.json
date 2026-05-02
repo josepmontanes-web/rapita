@@ -1,0 +1,74 @@
+{
+  "id": "2845_francisco_de_paula_izquierdo_chillida",
+  "source_id": "2845",
+  "row_ref": "2845. Francisco de Paula Izquierdo Chillida",
+  "name": "Francisco de Paula Izquierdo Chillida",
+  "gender": "male",
+  "birth": {
+    "date": "1834-04-02",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1836-12-28",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2860_agustin_izquierdo_saperas",
+      "1440_maria_chillida_querol"
+    ],
+    "father": "2860_agustin_izquierdo_saperas",
+    "mother": "1440_maria_chillida_querol",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustín Izquierdo Saperas",
+      "Maria Chillida Querol"
+    ],
+    "father_name": "Agustín Izquierdo Saperas",
+    "mother_name": "María Chillida Querol",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Josef Casajust",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 2 d'abril de 1834 a la Ràpita.\n\nPadrins: José Casajust i Francisca Casajust.\n\nDefunció: el 28 de desembre de 1836 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

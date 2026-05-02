@@ -1,0 +1,73 @@
+{
+  "id": "4662_juan_antonio_salomo_sancho",
+  "source_id": "4662",
+  "row_ref": "4662. Juan Antonio Salomó Sancho",
+  "name": "Juan Antonio Salomó Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1841-08-08",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4656_antonio_salomo"
+    ],
+    "father": "4656_antonio_salomo",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Salomó",
+      "Teresa Sancho García"
+    ],
+    "father_name": "Antonio Salomó Homedes",
+    "mother_name": "Teresa Sancho García",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Muñoz",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 8 d'agost de 1841 a la Ràpita.\n\nPadrins: Juan Muñóz i María Reverter.\n\nProfessió: mariner.\n\nCasament: amb Francisca Anguera Reverté de la Ràpita [1842].\n\nFills: Antonio [1878].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

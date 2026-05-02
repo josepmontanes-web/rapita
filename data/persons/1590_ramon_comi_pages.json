@@ -1,0 +1,75 @@
+{
+  "id": "1590_ramon_comi_pages",
+  "source_id": "1590",
+  "row_ref": "1590. Ramón Comí Pagès",
+  "name": "Ramón Comí Pagès",
+  "gender": "male",
+  "birth": {
+    "date": "1831-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3969_agustina_pinana_zaragoza"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Cristoval Comí",
+      "Paula Pagès"
+    ],
+    "father_name": "Cristoval Comí",
+    "mother_name": "Paula Pagès",
+    "spouse_names": [
+      "Agustina Piñana Zaragoza"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pescador"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1831].\n\nProfessió: pescador.\n\nCasament: el 9 de setembre de 1854 amb Agustina Piñana Zaragoza de Tortosa [1832]. Es casa als 23 anys. Testimonis: José Vidal i Casimiro Míes.\n\nFills: Ramón [1871].\n\nNo signa la declaració de naixement del fill al registre civil per no saber.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

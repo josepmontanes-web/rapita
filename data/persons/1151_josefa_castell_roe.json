@@ -1,0 +1,87 @@
+{
+  "id": "1151_josefa_castell_roe",
+  "source_id": "1151",
+  "row_ref": "1151. Josefa Castell Roe",
+  "name": "Josefa Castell Roe",
+  "gender": "female",
+  "birth": {
+    "date": "1800-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3251_pascual_matamoros_reverter"
+    ],
+    "children": [
+      "3180_jose_matamoros_castell",
+      "3181_sebastian_matamoros_castell",
+      "3182_jose_antonio_matamoros_castell",
+      "3183_francisco_matamoros_castell",
+      "3184_lorenzo_matamoros_castell"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Castell",
+      "Francisca Roe"
+    ],
+    "father_name": "Joaquín Castell",
+    "mother_name": "Francisca Roe",
+    "spouse_names": [
+      "Pascual Matamoros Reverter"
+    ],
+    "children_names": [
+      "José Matamoros Castell",
+      "Sebastián Matamoros Castell",
+      "José Antonio Matamoros Castell",
+      "Francisco Matamoros Castell",
+      "Lorenzo Matamoros Castell"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1800].\n\nCasament: amb Pascual Matamoros Reverter d'Alcanar [1790].\n\nFills: José (Freginals) [1820], Sebastián [1822], José Antonio [1824], Francisco [1827], Lorenzo [1830], Bautista Hermógenes [1833], Josefa María [1836], Pascual [1838] i Gaspar [1841].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

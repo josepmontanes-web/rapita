@@ -1,0 +1,74 @@
+{
+  "id": "2988_maria_lopez_ferran",
+  "source_id": "2988",
+  "row_ref": "2988. María López Ferrán",
+  "name": "María López Ferrán",
+  "gender": "female",
+  "birth": {
+    "date": "1805-03-07",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1807-10-17",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3021_francisco_lopez_pinol",
+      "1991_francisca_ferran_guinot"
+    ],
+    "father": "3021_francisco_lopez_pinol",
+    "mother": "1991_francisca_ferran_guinot",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco López Piñol",
+      "Francisca Ferran Guiñot"
+    ],
+    "father_name": "Francisco López Piñol",
+    "mother_name": "Francisca Ferrán Guiñot",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Manuel Noguerón",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 7 de març de 1805 a la Ràpita.\n\nPadrins: Manuel Noguerón i Antonia Carbó.\n\nDefunció: el 17 d'octubre de 1807 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

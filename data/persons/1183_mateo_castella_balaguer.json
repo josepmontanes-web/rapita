@@ -1,0 +1,78 @@
+{
+  "id": "1183_mateo_castella_balaguer",
+  "source_id": "1183",
+  "row_ref": "1183. Mateo Castellà Balaguer",
+  "name": "Mateo Castellà Balaguer",
+  "gender": "male",
+  "birth": {
+    "date": "1821-09-13",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1225_mariano_castella_cid"
+    ],
+    "father": "1225_mariano_castella_cid",
+    "mother": null,
+    "spouse": [
+      "1492_josefa_cid_castell"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Mariano Castellà Cid",
+      "Càndia Balaguer Omedes"
+    ],
+    "father_name": "Mariano Castellà Mascorella",
+    "mother_name": "Càndia Balaguer Omedes",
+    "spouse_names": [
+      "Magdalena Obiol",
+      "Josefa Cid Castell"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Castellà",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Marino"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 13 de setembre de 1821 a la Ràpita.\n\nPadrins: Juan Castellà i María Safont.\n\nProfessió: Marino.\n\nCasament: amb Magdalena Obiol.\n\nFills: Magdalena [1845], Mariano [1847] i Mateo [1850].\n\nCasament: el 19 de gener de 1853 amb Josefa Cid Castell de Tortosa [1823]. Testimonis: Francisco Cid i Juan Castellà.\n\nFills: Manuel [1854], Dolores [1855], José [1857] i Francisco [1860].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

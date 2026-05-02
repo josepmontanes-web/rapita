@@ -1,0 +1,73 @@
+{
+  "id": "4801_jose_matias_sanchez_sancho",
+  "source_id": "4801",
+  "row_ref": "4801. José Matías Sánchez Sancho",
+  "name": "José Matías Sánchez Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1838-02-23",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4786_francisco_sanches_pasqual"
+    ],
+    "father": "4786_francisco_sanches_pasqual",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Sanches Pasqual",
+      "Miguela Sancho Bort"
+    ],
+    "father_name": "Francisco Sánchez Pasqual",
+    "mother_name": "Miguela Sancho Bort",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Sánchez",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 23 de febrer de 1838 a la Ràpita.\n\nPadrins: Francisco Sánchez i Agustina Bort (iaios).\n\nProfessió: pagès.\n\nCasament: amb Rosa Montserrat Martí de la Ràpita [1842].\n\nFills: José [1865], Maria [1870], Cinta [1870], Juan [1875], Agustín [1877] i Agustín [1879].\n\nNo signa la declaració de naixement dels fills al registre civil per no saber.\n\nDefunció: el 18 de juny de 1880 a la Ràpita de pleuritis. Declara la mor la seua cunyada Cinta Ferré de 21 anys, casada.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

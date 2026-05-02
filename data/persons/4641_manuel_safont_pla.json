@@ -1,0 +1,94 @@
+{
+  "id": "4641_manuel_safont_pla",
+  "source_id": "4641",
+  "row_ref": "4641. Manuel Safont Pla",
+  "name": "Manuel Safont Pla",
+  "gender": "male",
+  "birth": {
+    "date": "1778-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1848-01-25",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4632_jose_safont_gimeno",
+      "3977_maria_pla"
+    ],
+    "father": "4632_jose_safont_gimeno",
+    "mother": "3977_maria_pla",
+    "spouse": [
+      "1927_francisca_fabregat_obiol",
+      "1510_antonia_clara_puchol"
+    ],
+    "children": [
+      "4624_juan_safon_fabregat",
+      "4625_maria_safon_fabregat",
+      "4626_jose_safont_fabregat",
+      "4627_manuel_safont_fabregat",
+      "4628_agustina_safont_fabregat",
+      "4629_gregorio_safont_fabregat"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Safont Gimeno",
+      "María Pla"
+    ],
+    "father_name": "José Safont Gimeno",
+    "mother_name": "Maria Pla",
+    "spouse_names": [
+      "Francisca Fabregat Obiol",
+      "Antonia Clara Puchol"
+    ],
+    "children_names": [
+      "Juan Safon Fabregat",
+      "María Safon Fabregat",
+      "José Safont Fabregat",
+      "Manuel Safont Fabregat",
+      "Agustina Safont Fabregat",
+      "Gregorio Safont Fabregat"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1778]. \n\nCasament: el 4 de gener de 1801 amb Francisca Fabregat Obiol de Peníscola [1782].\n\nFills: Juan [1801], María [1804], Gregorio [1807], Manuel [1810], Agustina [1813] i José [1821].\n\nCasament: el 20 de gener de 1837 amb Antonia Clara Puchol de Vinaròs [1780].\n\nDe l'1 d'abril de 1837 al 31 d'octubre de 1838 ha de pagar 6 Rs mensuals pel lloguer del pis de terra de l'esquerra de la casa 3 de la mançana 4. (AGP.PER.LEG.1073/23 [Juan Vecino]).\n\nDefunció: el 25 de gener de 1848 a la Ràpita. Va morir als 70 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

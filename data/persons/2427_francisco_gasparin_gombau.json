@@ -1,0 +1,84 @@
+{
+  "id": "2427_francisco_gasparin_gombau",
+  "source_id": "2427",
+  "row_ref": "2427. Francisco Gasparín Gombau",
+  "name": "Francisco Gasparín Gombau",
+  "gender": "male",
+  "birth": {
+    "date": "1814-08-07",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2436_francisco_gasparin_matamoros",
+      "2642_barbara_gombau_ortiz"
+    ],
+    "father": "2436_francisco_gasparin_matamoros",
+    "mother": "2642_barbara_gombau_ortiz",
+    "spouse": [],
+    "children": [
+      "2399_francisca_gasparin_castell",
+      "2400_maria_de_la_cinta_gasparin_castell",
+      "2402_francisco_joaquin_gasparin_castell",
+      "2403_francisco_gasparin_castell"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Gasparín Matamoros",
+      "Bàrbara Gombau Ortiz"
+    ],
+    "father_name": "Francisco Gasparín Matamoros",
+    "mother_name": "Barbara Gombau Ortiz",
+    "spouse_names": [],
+    "children_names": [
+      "Francisca Gasparín Castell",
+      "María de la Cinta Gasparín Castell",
+      "Francisco Joaquín Gasparín Castell",
+      "Francisco Gasparín Castell"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Gasparín",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 7 d'agost de 1814 a la Ràpita.\n\nPadrins: Francisco Gasparín i Francisca Ortíz.\n\nProfessió: cafeter.\n\nCasament: amb María de la Cinta Castell Boria d'Alcanar [1815].\n\nFills: Francisca [1836], Francisco Joaquín [1838], María de la Cinta [1841], María de la Cinta [1845], Joaquina [1846], Francisco [1847] i Elvira [1850].\n\nDefunció: el 30 de desembre de 1879 a la Ràpita als 66 anys de pleuro neumonia. Alcalde 1872-1873.\n\nApareix en doc. 52 com alcalde constitucional de San Carlos (1-5-1854). Demana 50 vares quadrades a la devesa per a construir un nou cementiri. (pot-ser aquest sigui Francesc Gasparín Moya.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "2055_josef_ferrer_marin",
+  "source_id": "2055",
+  "row_ref": "2055. Josef Ferrer Marín",
+  "name": "Josef Ferrer Marín",
+  "gender": "male",
+  "birth": {
+    "date": "1759-01-01",
+    "place": "Portell de Morella"
+  },
+  "death": {
+    "date": "1815-12-26",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3103_marta_marin"
+    ],
+    "father": null,
+    "mother": "3103_marta_marin",
+    "spouse": [
+      "5139_mariana_simon_sancho"
+    ],
+    "children": [
+      "2024_sebastiana_antonia_ferrer_estelle",
+      "2047_maria_angela_ferrer_gorgorio",
+      "2054_juliana_ferrer_lopez",
+      "2095_agustin_miguel_ferrer_simon",
+      "2098_agustin_manuel_ferrer_simon",
+      "2099_isabel_ferre_simon",
+      "2100_jose_francisco_ferre_simon",
+      "2101_antonio_ferrer_simon",
+      "2103_francisco_ferrer_sorolla"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Ferrer",
+      "Marta Marín"
+    ],
+    "father_name": "Vicente Ferrer",
+    "mother_name": "Marta Marín",
+    "spouse_names": [
+      "Mariana Simón Sancho"
+    ],
+    "children_names": [
+      "Sebastiana Antonia Ferrer Estellé",
+      "Maria Angela Ferrer Gorgorio",
+      "Juliana Ferrer López",
+      "Agustín Miguel Ferrer Simón",
+      "Agustín Manuel Ferrer Simón",
+      "Isabel Ferré Simón",
+      "José Francisco Ferré Simón",
+      "Antonio Ferrer Simón",
+      "Francisco Ferrer Sorolla"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Portell de Morella [aprox. 1759].\n\nProfessió: pagès.\n\nCasament: amb Mariana Simón Sancho d'Allepuz (Terol) [1760].\n\nFills: Josefa [1790], Agustín Miguel [1794], Agustín Manuel [1796], Isabel [1799], Alexandro [1802], José Francisco [1804] i Antonio [1810].\n\nDefunció: el 26 de desembre de 1815 a la Ràpita. Va morir als 56 anys.\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu al patí de Talavera  (ACA BGRP Cajas 34).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "5648_carlos_zaragoza",
+  "source_id": "5648",
+  "row_ref": "5648. Carlos Zaragoza",
+  "name": "Carlos Zaragoza",
+  "gender": "male",
+  "birth": {
+    "date": "1770-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "5668_rafael_zaragoza_homedes",
+      "5670_tomasa_zaragoza_omedes"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Candia Homedes"
+    ],
+    "children_names": [
+      "Rafael Zaragoza Homedes",
+      "Tomasa Zaragoza Omedes"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1770].\n\nCasament: amb Candia Homedes.\n\nFills: Tomasa (Tortosa) [1795], Buenaventura (Tortosa) [1797] i Rafael (Tortosa) [1800].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

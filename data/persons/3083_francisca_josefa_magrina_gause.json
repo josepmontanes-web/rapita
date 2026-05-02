@@ -1,0 +1,73 @@
+{
+  "id": "3083_francisca_josefa_magrina_gause",
+  "source_id": "3083",
+  "row_ref": "3083. Francisca Josefa Magriñá Gausé",
+  "name": "Francisca Josefa Magriñá Gausé",
+  "gender": "female",
+  "birth": {
+    "date": "1806-09-26",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1809-02-17",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2690_casilda_grause_bernis"
+    ],
+    "father": null,
+    "mother": "2690_casilda_grause_bernis",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Matheo Magriñá Aliau",
+      "Casilda Grausé Bernis"
+    ],
+    "father_name": "Matheo Magriñá Aliau",
+    "mother_name": "Casilda Grausé Bernís",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Josef Chiscas",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 26 de setembre de 1806 a la Ràpita.\n\nPadrí: Don José Chiscas \"Guarda Almacen del Real Cuerpo de Artillería, natural de Gironella, Obispado de Solsona\".\n\nDefunció: el 17 de febrer de 1809 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

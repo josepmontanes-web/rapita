@@ -1,0 +1,78 @@
+{
+  "id": "4349_agustin_reverter_sancho",
+  "source_id": "4349",
+  "row_ref": "4349. Agustín Reverter Sancho",
+  "name": "Agustín Reverter Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1839-10-27",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4265_agustin_reverter_forner",
+      "4921_teresa_sancho_querol"
+    ],
+    "father": "4265_agustin_reverter_forner",
+    "mother": "4921_teresa_sancho_querol",
+    "spouse": [
+      "3060_teresa_masia_biosca"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustín Reverter Forner",
+      "Teresa Sancho Querol"
+    ],
+    "father_name": "Agustín Reverter Forner",
+    "mother_name": "Teresa Sancho Querol",
+    "spouse_names": [
+      "Teresa Masià Biosca"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Agustín Goday",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 27 d'octubre de 1839 a la Ràpita.\n\nPadrins: Agustín Goday i Susana Bosch.\n\nCasament: el 2 de juliol de 1859 amb Teresa Masià Biosca de la Ràpita [1841].\n\nFills: Teresa [1864], Trinitario [1875] i Josefa [1879]. Van tenir un fill adoptiu: Ascasio Serafín Angel de Barcelona [1870-1879]\n\nDonación: de Agustín Reverter (Forner) a Agustín Reverter (Sancho). Agustín Reverter hizo donación a su hijo Agustín por razón de su celebración matrimonio con Teresa Masiá (Biosca) de una casa en San Carlos. 21 de junio de 1859. Esc. Lorenzo Figueras de Alcanar. (Es el fill petit que es casa als 19 anys el 2 de juliol de 1859).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

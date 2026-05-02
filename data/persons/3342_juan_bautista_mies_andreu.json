@@ -1,0 +1,74 @@
+{
+  "id": "3342_juan_bautista_mies_andreu",
+  "source_id": "3342",
+  "row_ref": "3342. Juan Bautista Míes Andreu",
+  "name": "Juan Bautista Míes Andreu",
+  "gender": "male",
+  "birth": {
+    "date": "1826-06-26",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3358_casimiro_mies_guinjuan",
+      "96_francisca_andreu_fontanet"
+    ],
+    "father": "3358_casimiro_mies_guinjuan",
+    "mother": "96_francisca_andreu_fontanet",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Casimiro Míes Guinjuan",
+      "Francisca Andreu Fontanet"
+    ],
+    "father_name": "Casimiro Míes Guijuan",
+    "mother_name": "Francisca Andreu Fontanet",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Sebastián Míes",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 26 de juny de 1826 a la Ràpita.\n\nPadrins: Sebastián Míes i María Fontanet.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

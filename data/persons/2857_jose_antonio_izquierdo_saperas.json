@@ -1,0 +1,91 @@
+{
+  "id": "2857_jose_antonio_izquierdo_saperas",
+  "source_id": "2857",
+  "row_ref": "2857. José Antonio Izquierdo Saperas",
+  "name": "José Antonio Izquierdo Saperas",
+  "gender": "male",
+  "birth": {
+    "date": "1789-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1834-09-21",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2839_juan_izquierdo_carceller"
+    ],
+    "father": "2839_juan_izquierdo_carceller",
+    "mother": null,
+    "spouse": [
+      "1466_concepcion_chiscas_tallada"
+    ],
+    "children": [
+      "2850_manuela_izquierdo_chiscas",
+      "2851_agustina_izquierdo_chiscas",
+      "2852_jose_francisco_izquierdo_chiscas",
+      "2853_maria_de_la_cinta_izquierdo_chiscas",
+      "2854_felipe_izquierdo_chiscas",
+      "2855_manuel_antonio_izquierdo_chiscas"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Izquierdo Carceller",
+      "Rosa Saperas Rauera"
+    ],
+    "father_name": "Juan Izquierdo Carceller",
+    "mother_name": "Rosa Saperas Rauera",
+    "spouse_names": [
+      "Concepción Chiscas Tallada"
+    ],
+    "children_names": [
+      "Manuela Izquierdo Chiscas",
+      "Agustina Izquierdo Chiscas",
+      "José Francisco Izquierdo Chiscas",
+      "María de la Cinta Izquierdo Chiscas",
+      "Felipe Izquierdo Chiscás",
+      "Manuel Antonio Izquierdo Chiscás"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1789].\n\nCasament: el 24 de juliol de 1821 amb Concepción Chiscas Tallada de Tortosa [1800].\n\nFills: Manuela [1822], Agustina [1824], José Francisco [1827], María de la Cinta [1830], Felipe [1832] i Manuel Antonio [1835].\n\nDefunció: el 21 de setembre de 1834 a la Ràpita. Va morir als 45 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

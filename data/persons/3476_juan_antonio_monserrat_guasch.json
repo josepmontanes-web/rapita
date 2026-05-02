@@ -1,0 +1,82 @@
+{
+  "id": "3476_juan_antonio_monserrat_guasch",
+  "source_id": "3476",
+  "row_ref": "3476. Juan Antonio Monserrat Guasch",
+  "name": "Juan Antonio Monserrat Guasch",
+  "gender": "male",
+  "birth": {
+    "date": "1792-06-15",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3463_antonio_monserrat_famadas",
+      "2753_rafaela_guasch_mompou"
+    ],
+    "father": "3463_antonio_monserrat_famadas",
+    "mother": "2753_rafaela_guasch_mompou",
+    "spouse": [],
+    "children": [
+      "3485_rafaela_monserrat_pascual",
+      "3486_manuela_monserrat_pascual"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Monserrat Famadas",
+      "Rafaela Guasch Mompou"
+    ],
+    "father_name": "Antonio Monserrat Famadas",
+    "mother_name": "Rafaela Guasch Mompou",
+    "spouse_names": [
+      "Vicenta Pasqual Fuster"
+    ],
+    "children_names": [
+      "Rafaela Monserrat Pascual",
+      "Manuela Monserrat Pascual"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Lorenzo Casadevall",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 15 de juny de 1792 a la Ràpita.\n\nPadrí: Lorenzo Casadevall.\n\nCasament: el 21 de març de 1814 amb Vicenta Pascual Fuster de la Ràpita [1793].\n\nFills: Rafaela [1814] i Manuela [1817].\n\nJuan Antonio Montserrat dejó de pagar el año 1817 el alquiler de 12 meses a 8 Rs mensuales y se ausentó pidiendo limosna.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

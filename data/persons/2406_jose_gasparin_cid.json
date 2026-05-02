@@ -1,0 +1,74 @@
+{
+  "id": "2406_jose_gasparin_cid",
+  "source_id": "2406",
+  "row_ref": "2406. José Gasparín Cid",
+  "name": "José Gasparín Cid",
+  "gender": "male",
+  "birth": {
+    "date": "1831-04-12",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1831-04-19",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2449_jose_gasparin_ortiz",
+      "1503_teresa_cid_marti"
+    ],
+    "father": "2449_jose_gasparin_ortiz",
+    "mother": "1503_teresa_cid_marti",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Gasparín Ortiz",
+      "Teresa Cid Martí"
+    ],
+    "father_name": "José Gasparín Ortíz",
+    "mother_name": "Teresa Cid Martí",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Matamoros",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 12 d'abril de 1831 a la Ràpita.\n\nPadrins: José Matamoros i Teresa Martí.\n\nDefunció: el 19 d'abril de 1831 a la Ràpita. Va morir de \"espasmo\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

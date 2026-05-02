@@ -1,0 +1,87 @@
+{
+  "id": "1690_francisco_curto_sabater",
+  "source_id": "1690",
+  "row_ref": "1690. Francisco Curto Sabater",
+  "name": "Francisco Curto Sabater",
+  "gender": "male",
+  "birth": {
+    "date": "1770-01-01",
+    "place": "Tivenys"
+  },
+  "death": {
+    "date": "1834-09-03",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1366_rosa_cavaller_roig"
+    ],
+    "children": [
+      "1669_maria_francisca_curto_cavalle",
+      "1670_jose_curto_cavaller",
+      "1671_francisco_curto_cavaller",
+      "1672_thomas_curto_cavaller",
+      "1698_francisca_josefa_cusido_gas"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Thomas Curto",
+      "Feliciana Sabater"
+    ],
+    "father_name": "Thomas Curto",
+    "mother_name": "Feliciana Sabater",
+    "spouse_names": [
+      "Rosa Cavaller Roig"
+    ],
+    "children_names": [
+      "Maria Francisca Curto Cavallé",
+      "José Curto Cavaller",
+      "Francisco Curto Cavaller",
+      "Thomas Curto Cavaller",
+      "Francisca Josefa Cusidó Gas"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tivenys [aprox. 1770].\n\nCasament: amb Rosa Cavaller Roig de Tortosa [1775].\n\nFills: José (Tivenys) [1805], Francisco (Tivenys) [1810], María Francisca [1812] i Tomás [1813].\n\nDefunció: el 3 de setembre de 1834 a la Ràpita. Va morir als 64 anys. Fa testament davant de Benito Sabaté. Dota la seva ànima amb 10 \"libras de plata\".\n\nDe l'1 de desembre de 1829 al 31 de juliol de 1839 ha de pagar un lloguer de 6 Rs mensuals per la casa 1 de la Mansana Vella. (AGP.PER.LEG.1073/23 [Juan Vecino]).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

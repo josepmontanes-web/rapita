@@ -1,0 +1,73 @@
+{
+  "id": "3315_theresa_maria_mayals_cartes",
+  "source_id": "3315",
+  "row_ref": "3315. Theresa Maria Mayals Cartes",
+  "name": "Theresa Maria Mayals Cartes",
+  "gender": "female",
+  "birth": {
+    "date": "1813-10-30",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3320_antonio_mayals_navarro"
+    ],
+    "father": "3320_antonio_mayals_navarro",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Mayals Navarro",
+      "Josefa Cartes Herlandez"
+    ],
+    "father_name": "Antonio Mayals Navarro",
+    "mother_name": "Josefa Cartes Herlandez",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Cartes",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 30 d'octubre de 1813 a la Ràpita.\n\nMare: Josefa Cartes Herlández es de Tortosa i es filla de Antonio i Francisca també de Tortosa.\n\nPadrins: José Cartes i Josefa Navarro (iaia).\n\nEs cosina de Mateo i Concepción Salvador Mayals.\n\nTé 6 germans: José, Juan, Estevan, Alejandro, Ramona y Maria. ??",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

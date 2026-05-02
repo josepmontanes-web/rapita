@@ -1,0 +1,74 @@
+{
+  "id": "2560_juana_giner_bel",
+  "source_id": "2560",
+  "row_ref": "2560. Juana Giner Bel",
+  "name": "Juana Giner Bel",
+  "gender": "female",
+  "birth": {
+    "date": "1811-06-24",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2563_jose_antonio_giner_budesca",
+      "557_maria_bel_castell"
+    ],
+    "father": "2563_jose_antonio_giner_budesca",
+    "mother": "557_maria_bel_castell",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Antonio Giner Budesca",
+      "Maria Bel Castell"
+    ],
+    "father_name": "José Antonio Giner Budesca",
+    "mother_name": "Maria Bel Castell",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Forcadell",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 24 de juny de 1811 a la Ràpita.\n\nPadrins: José Forcadell i Isabel Giner.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "3673_francisco_navarro_sol",
+  "source_id": "3673",
+  "row_ref": "3673. Francisco Navarro Sol",
+  "name": "Francisco Navarro Sol",
+  "gender": "male",
+  "birth": {
+    "date": "1825-09-12",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3663_jose_navarro_paulo"
+    ],
+    "father": "3663_jose_navarro_paulo",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Navarro Paulo",
+      "Josefa Sol"
+    ],
+    "father_name": "José Navarro Paulo",
+    "mother_name": "Josefa Sol",
+    "spouse_names": [
+      "Maria Vidal Rosales"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Estevan Chalé",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 12 de setembre de 1825 a la Ràpita.\n\nPadrins: Estevan Chalé i Francisca Cruelles.\n\nCasament: el 30 de gener de 1847 amb María Vidal Rosales de la Ràpita [1825].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

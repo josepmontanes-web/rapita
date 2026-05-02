@@ -1,0 +1,76 @@
+{
+  "id": "4149_josefa_ramos_o_rams",
+  "source_id": "4149",
+  "row_ref": "4149. Josefa Ramos [o Rams]",
+  "name": "Josefa Ramos [o Rams]",
+  "gender": "female",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "511_francisco_barragan_ramos",
+      "2585_cinta_giner_ramos",
+      "2586_teresa_giner_ramos"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Francisco Barragán Ramos",
+      "Cinta Giner Ramos",
+      "Teresa Giner Ramos"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [o Vinaròs] [aprox. 1820].\n\nCasament: amb Agustín Giner de Vinaròs [1820].\n\nFills: Cinta [1842], Teresa [1846], Bernardina [1850] i Agustina [1850].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "2687_jose_agustin_grau_urgelles",
+  "source_id": "2687",
+  "row_ref": "2687. José Agustín Grau Urgellés",
+  "name": "José Agustín Grau Urgellés",
+  "gender": "male",
+  "birth": {
+    "date": "1842-02-16",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2679_tomas_grau_fibla",
+      "5417_tomasa_urgelles_nofre"
+    ],
+    "father": "2679_tomas_grau_fibla",
+    "mother": "5417_tomasa_urgelles_nofre",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomás Grau Fibla",
+      "Tomasa Urgellés Nofre"
+    ],
+    "father_name": "Tomás Grau Fibla",
+    "mother_name": "Tomasa Urgellés Nofre",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Pino",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 16 de febrer de 1842 a la Ràpita.\n\nPadrins: José Pino i Agustina Izquierdo.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

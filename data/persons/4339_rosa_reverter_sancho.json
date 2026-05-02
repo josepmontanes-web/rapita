@@ -1,0 +1,74 @@
+{
+  "id": "4339_rosa_reverter_sancho",
+  "source_id": "4339",
+  "row_ref": "4339. Rosa Reverter Sancho",
+  "name": "Rosa Reverter Sancho",
+  "gender": "female",
+  "birth": {
+    "date": "1785-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1804-09-14",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4174_pedro_reverter",
+      "4933_christofola_sancho_sancho"
+    ],
+    "father": "4174_pedro_reverter",
+    "mother": "4933_christofola_sancho_sancho",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Reverter",
+      "Christofola Sancho Sancho"
+    ],
+    "father_name": "Pedro Reverter",
+    "mother_name": "Christofola Sancho Sancho",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1785]. \n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Masia de Don Joaquín Anglès  (ACA BGRP Cajas 34).\n\nDefunció: el 14 de setembre de 1804 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

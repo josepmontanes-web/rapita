@@ -1,0 +1,77 @@
+{
+  "id": "4362_alexandro_reverter_segarra",
+  "source_id": "4362",
+  "row_ref": "4362. Alexandro Reverter Segarra",
+  "name": "Alexandro Reverter Segarra",
+  "gender": "male",
+  "birth": {
+    "date": "1823-05-16",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4260_jose_reverter_forner"
+    ],
+    "father": "4260_jose_reverter_forner",
+    "mother": null,
+    "spouse": [
+      "2421_mariana_gasparin_gombau"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Reverter Forner",
+      "Casilda Segarra Puchol"
+    ],
+    "father_name": "José Reverter Forner",
+    "mother_name": "Casilda Segarra Puchol",
+    "spouse_names": [
+      "Mariana Gasparín Gombau"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Nicolás Faccini",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 16 de maig de 1823 a la Ràpita.\n\nPadrins: Nicolás Faccini i Casilda Gausé.\n\nCasament: el 25 d'abril de 1846 amb Mariana Gasparín Gombau de la Ràpita [1825].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

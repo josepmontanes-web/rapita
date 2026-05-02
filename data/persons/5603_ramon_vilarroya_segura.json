@@ -1,0 +1,68 @@
+{
+  "id": "5603_ramon_vilarroya_segura",
+  "source_id": "5603",
+  "row_ref": "5603. Ramón Vilarroya Segura",
+  "name": "Ramón Vilarroya Segura",
+  "gender": "male",
+  "birth": {
+    "date": "1842-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1842].\n\nProfessió: mariner.\n\nCasament: el 2 de desembre de 1871 amb Miguela Balanzá Moya de la Ràpita [1852]. Es casa als 29 anys.\n\nFills: Miguel [1881].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

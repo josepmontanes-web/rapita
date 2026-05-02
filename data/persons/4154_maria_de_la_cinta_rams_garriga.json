@@ -1,0 +1,74 @@
+{
+  "id": "4154_maria_de_la_cinta_rams_garriga",
+  "source_id": "4154",
+  "row_ref": "4154. María de la Cinta Rams Garriga",
+  "name": "María de la Cinta Rams Garriga",
+  "gender": "female",
+  "birth": {
+    "date": "1838-07-23",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1839-05-10",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4155_andres_rams_puell",
+      "2383_magdalena_garriga_segura"
+    ],
+    "father": "4155_andres_rams_puell",
+    "mother": "2383_magdalena_garriga_segura",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Andrés Rams Puell",
+      "Magdalena Garriga Segura"
+    ],
+    "father_name": "Andrés Rams Puell",
+    "mother_name": "Magdalena Garriga Segura",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Buenaventura Baluenga",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 23 de juliol de 1838 a la Ràpita.\n\nPadrins: Buenaventura Baluenga i María de la Cinta.\n\nDefunció: el 10 de maig de 1839 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

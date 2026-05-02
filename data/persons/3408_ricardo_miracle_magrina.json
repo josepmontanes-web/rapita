@@ -1,0 +1,68 @@
+{
+  "id": "3408_ricardo_miracle_magrina",
+  "source_id": "3408",
+  "row_ref": "3408. Ricardo Miracle Magriña",
+  "name": "Ricardo Miracle Magriña",
+  "gender": "male",
+  "birth": {
+    "date": "1851-01-01",
+    "place": "Vinaròs"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1851].\n\nProfessió: aparellador, paleta.\n\nCasament: el 7 de febrer de 1874 amb Manuela Carceller García de la Ràpita [1856]. Viuen al carrer Sant Francesc.\n\nFills: Asunción [1874], Teresa [1876] i Ricardo [1881].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

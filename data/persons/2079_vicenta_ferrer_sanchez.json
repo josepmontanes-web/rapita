@@ -1,0 +1,68 @@
+{
+  "id": "2079_vicenta_ferrer_sanchez",
+  "source_id": "2079",
+  "row_ref": "2079. Vicenta Ferrer Sánchez",
+  "name": "Vicenta Ferrer Sánchez",
+  "gender": "female",
+  "birth": {
+    "date": "1850-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1850].\n\nCasament: el 16 de març de 1871 amb Felix Matamoros Torta de la Ràpita [1850]. Es casa als 20 anys. Viuen al carrer Sant Josep d'Amposta.\n\nFills: Francisco [1873].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

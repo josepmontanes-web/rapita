@@ -1,0 +1,74 @@
+{
+  "id": "5580_agustin_antonio_vidal_talarn",
+  "source_id": "5580",
+  "row_ref": "5580. Agustín Antonio Vidal Talarn",
+  "name": "Agustín Antonio Vidal Talarn",
+  "gender": "male",
+  "birth": {
+    "date": "1798-02-22",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1798-03-03",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5537_joaquin_vidal_palos",
+      "5259_teresa_talarn_valldeperez"
+    ],
+    "father": "5537_joaquin_vidal_palos",
+    "mother": "5259_teresa_talarn_valldeperez",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Vidal Palos",
+      "Teresa Talarn Valldeperez"
+    ],
+    "father_name": "Joaquín Vidal Palos",
+    "mother_name": "Teresa Talarn Valldeperez",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Agustín Fornesa",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 22 de febrer de 1798 a la Ràpita.\n\nPadrins: Don Agustín Fornesa i Teresa Matamoros.\n\n\"En peligro de muerte habia sido bautizado en casa de sus padres\".\n\nDefunció: el 3 de març de 1798 a la Ràpita.\n\n\"Asisten al entierro el padre y Mariano Benlloch\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

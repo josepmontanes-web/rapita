@@ -1,0 +1,73 @@
+{
+  "id": "273_joaquin_arnau_jamas",
+  "source_id": "273",
+  "row_ref": "273. Joaquín Arnau Jamas",
+  "name": "Joaquín Arnau Jamas",
+  "gender": "male",
+  "birth": {
+    "date": "1817-06-06",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "284_bautista_arnau_melich"
+    ],
+    "father": "284_bautista_arnau_melich",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Arnau Melich",
+      "Vicenta Jamas Escrivà"
+    ],
+    "father_name": "Bautista Arnau Melic",
+    "mother_name": "Vicenta Jamas Escrivà",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Cristobal Alegret",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 6 de juny de 1817 a la Ràpita.\n\nPadrins: Cristobal Alegret i Jacinta Jamas.\n\nEl segón cognom també apareix com a Camás.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

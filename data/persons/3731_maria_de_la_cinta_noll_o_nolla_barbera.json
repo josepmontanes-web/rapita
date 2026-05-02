@@ -1,0 +1,68 @@
+{
+  "id": "3731_maria_de_la_cinta_noll_o_nolla_barbera",
+  "source_id": "3731",
+  "row_ref": "3731. María de la Cinta Noll [o Nolla] Barberà",
+  "name": "María de la Cinta Noll [o Nolla] Barberà",
+  "gender": "female",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1790]. \n\nCasament: amb Joaquín López Segarra d'Ulldecona [1790].\n\nFills: Juan [1816], María Rosa [1818], José Antonio [1820], Teresa Rafaela [1822], José Francisco [1825], Josefa [1827] i Miguel [1830].\n\nHipoteca: José García, patrón de la matricula de esta ciudad y vecino de San Carlos dijo: que en 20 de agosto de 1831 declaró que pertenecían a D. Antonio Freginals de Vinaroz en el día ¿? Dos medios barcos de pesquera de bou y además que debía al mismo Freginals 184 duros que le había prestado … hipoteca una casa que posee en la calle de San Francisco que linda de lado con Sebastián Ibañez y el Fra? De la Nolla de espaldas al puerto antiguo. 28 de agosto de 1846.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "1086_llorens_casadevall",
+  "source_id": "1086",
+  "row_ref": "1086. Llorens Casadevall",
+  "name": "Llorens Casadevall",
+  "gender": "male",
+  "birth": {
+    "date": "1750-01-01",
+    "place": "Barcelona"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Barcelona [aprox. 1750]. Inscrit a la parròquia de Santa Maria del Mar.\n\n\"Alcalde\".\n\nMestre major de fusteria de la nova població des de 1781. (ACA_BGRP_Correspondència_caixa 9).\n\n\"Conservación y custodia de las obras de la población, canal, darsenas y materiales.\"\n\nA l'estat de veïns de setembre de 1798 diu que viu a la casa núm. 9 de la \"Calle Mayor\" (ACA BGRP Cajas 34).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

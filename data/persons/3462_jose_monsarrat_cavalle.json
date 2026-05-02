@@ -1,0 +1,79 @@
+{
+  "id": "3462_jose_monsarrat_cavalle",
+  "source_id": "3462",
+  "row_ref": "3462. José Monsarrat Cavallé",
+  "name": "José Monsarrat Cavallé",
+  "gender": "male",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Salines dels Alfacs"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "3480_rosa_felipa_montserrat_marti",
+      "3482_maria_montserrat_marti"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Felipe Monsarrat",
+      "Josefa Cavallé"
+    ],
+    "father_name": "Felipe Monsarrat",
+    "mother_name": "Josefa Cavallé",
+    "spouse_names": [
+      "María Martí Subirats"
+    ],
+    "children_names": [
+      "Rosa Felipa Montserrat Martí",
+      "María Montserrat Martí"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a les Salines dels Alfacs [aprox. 1820]. \n\nCasament: el 21 d'abril de 1838 amb María Martí Subirats de la Ràpita [1817].\n\nFills: Rosa Felipa [1842], José [1848], Josepa i María [1854].\n\nDefunció: el 29 de març de 1888 a la Ràpita als 68 anys. Alcalde 1859.\n\nEs un dels 28 veïns de la Ràpita que figuren al primer cens electoral de San Carlos de la Ràpita de 1867, diu que viu al carrer Sant Sebastià, 11.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

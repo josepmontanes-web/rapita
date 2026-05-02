@@ -1,0 +1,87 @@
+{
+  "id": "501_jacinto_barbera_obiol",
+  "source_id": "501",
+  "row_ref": "501. Jacinto Barberà Obiol",
+  "name": "Jacinto Barberà Obiol",
+  "gender": "male",
+  "birth": {
+    "date": "1807-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "497_jacinto_barbera_lluciano"
+    ],
+    "father": "497_jacinto_barbera_lluciano",
+    "mother": null,
+    "spouse": [
+      "3053_clara_luciano_collado"
+    ],
+    "children": [
+      "497_jacinto_barbera_lluciano",
+      "498_juan_bautista_barbera_luciano",
+      "499_francisco_barbera_lluciano",
+      "500_juan_barbera_lluciano"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Jacinto Barberà Lluciano",
+      "Josefa Maria Obiol"
+    ],
+    "father_name": "Jacinto Barberà",
+    "mother_name": "Josefa Maria Obiol",
+    "spouse_names": [
+      "Clara Luciano Collado"
+    ],
+    "children_names": [
+      "Jacinto Barberà Lluciano",
+      "Juan Bautista Barberà Luciano",
+      "Francisco Barberà Lluciano",
+      "Juan Barberà Lluciano"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  a Tortosa [aprox. 1807].\n\nCasament: el 29 de juliol de 1833 amb Clara Lluciano [o Luciano] Collado de Castelló de la Plana [1803]. Es va casar als 26 anys.\n\nFills: Jacinto [1834], Juan Bautista [1837], Francisco [1839] i Juan [1841].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

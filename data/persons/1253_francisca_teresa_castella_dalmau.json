@@ -1,0 +1,78 @@
+{
+  "id": "1253_francisca_teresa_castella_dalmau",
+  "source_id": "1253",
+  "row_ref": "1253. Francisca Teresa Castellà Dalmau",
+  "name": "Francisca Teresa Castellà Dalmau",
+  "gender": "female",
+  "birth": {
+    "date": "1797-02-19",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1343_francisco_castella_zaragoza",
+      "1699_maria_dalmau_fabregat"
+    ],
+    "father": "1343_francisco_castella_zaragoza",
+    "mother": "1699_maria_dalmau_fabregat",
+    "spouse": [
+      "2643_vicente_gombau_ortiz"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Castellà Zaragoza",
+      "María Dalmau Fabregat"
+    ],
+    "father_name": "Francisco Castellà Zaragoza",
+    "mother_name": "Maria Dalmau Fabregat",
+    "spouse_names": [
+      "Vicente Gombau Ortiz"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Gasparini",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 19 de febrer de 1797 a la Ràpita.\n\nPadrins: Francisco Gasparini i Teresa Matamoros.\n\nCasament: el 8 de febrer de 1817 amb Vicente Gombau Ortíz d'Amposta [1789].\n\nFills: Francisca [1819], Bautista [1821], María Tomasa [1824], María Teresa [1826], Vicente Juan [1829], Gonzalo [1832], Pedro Armengol [1834], Juan Francisco [1836] i Gerardo [1839].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

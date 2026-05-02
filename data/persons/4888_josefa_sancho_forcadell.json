@@ -1,0 +1,73 @@
+{
+  "id": "4888_josefa_sancho_forcadell",
+  "source_id": "4888",
+  "row_ref": "4888. Josefa Sancho Forcadell",
+  "name": "Josefa Sancho Forcadell",
+  "gender": "female",
+  "birth": {
+    "date": "1775-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1838-03-02",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Baltasar Sancho",
+      "María Forcadell"
+    ],
+    "father_name": "Baltasar Sancho",
+    "mother_name": "María Forcadell",
+    "spouse_names": [
+      "Bautista Bort"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1775]. \n\nCasament: amb Bautista Bort.\n\nDefunció: el 2 de març de 1838 a la Ràpita. Va ser enterrada el 3 de març de 1838. \"Murió en una cueva de este término a las doce horas de la noche del día anterior\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

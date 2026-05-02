@@ -1,0 +1,83 @@
+{
+  "id": "197_peregrin_arbo_sanchez",
+  "source_id": "197",
+  "row_ref": "197. Peregrin Arbó Sánchez",
+  "name": "Peregrin Arbó Sánchez",
+  "gender": "male",
+  "birth": {
+    "date": "1824-08-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "175_tomas_arbo_ingles"
+    ],
+    "father": "175_tomas_arbo_ingles",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "4724_teresa_sanchez_batiste",
+      "4817_maria_de_la_concepcion_sanchez_ventura",
+      "4818_teresa_maria_sanchez_ventura"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomás Arbó Inglés",
+      "Teresa Sánchez Yserte"
+    ],
+    "father_name": "Tomás Arbó Inglés",
+    "mother_name": "Teresa Sánchez Yserte",
+    "spouse_names": [
+      "Teresa Sans Arlández"
+    ],
+    "children_names": [
+      "Teresa Sánchez Batiste",
+      "María de la Concepción Sánchez Ventura",
+      "Teresa María Sánchez Ventura"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Peregrín Silvestre",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  l'1 d'agost de 1824 a la Ràpita.\n\nEls padrins son Peregrín Silvestre Sanchís i Josefa Arroyo Pérez.\n\nProfessió: mariner.\n\nCasament: el 16 d'agost de 1845 amb Teresa Sans Arlández de la Ràpita [1826].\n\nFills: Rosa [1846], Francisco [1850], Tomás [1857], José [1850], Josefa [1852] i Domingo [1857].\n\nDefunció: el 8 de novembre de 1876 a la Ràpita de neumonía al seu domicili del carrer del Castillo. Fa testament davant del Pbro. Tomás Alomá.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

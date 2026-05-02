@@ -1,0 +1,68 @@
+{
+  "id": "3460_manuela_montserrat_arques",
+  "source_id": "3460",
+  "row_ref": "3460. Manuela Montserrat Arqués",
+  "name": "Manuela Montserrat Arqués",
+  "gender": "female",
+  "birth": {
+    "date": "1853-01-01",
+    "place": "l'Enveja"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a l'Enveja [aprox. 1853].\n\nCasament: el 8 de juny de 1872 amb Sebastián Torta Reverté [1843]. Es casa als 19 anys. Viuen al carrer \"San José cuarto principal.\n\nFills: Manuela Teresa Sebastiana [1875] i Manuela Dolores Concepción [1879].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

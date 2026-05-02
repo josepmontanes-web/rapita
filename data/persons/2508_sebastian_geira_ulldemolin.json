@@ -1,0 +1,97 @@
+{
+  "id": "2508_sebastian_geira_ulldemolin",
+  "source_id": "2508",
+  "row_ref": "2508. Sebastian Geira Ulldemolin",
+  "name": "Sebastian Geira Ulldemolin",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2508_sebastian_geira_ulldemolin"
+    ],
+    "father": "2508_sebastian_geira_ulldemolin",
+    "mother": null,
+    "spouse": [
+      "4660_rosa_salomo_omedes"
+    ],
+    "children": [
+      "2499_dolores_geira_salomo",
+      "2501_angelo_sebastian_geira_salomo",
+      "2502_prudencio_timoteo_geira_salomo",
+      "2503_vicenta_geira_salomo",
+      "2504_dorotea_geira_salomo",
+      "2505_monica_geira_salomo",
+      "2506_teresa_geira_salomo",
+      "2507_andres_geira_salomo",
+      "2508_sebastian_geira_ulldemolin"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Sebastian Geira Ulldemolin",
+      "Joaquina Ulldemolin"
+    ],
+    "father_name": "Sebastian Geira",
+    "mother_name": "Joaquina Ulldemolin",
+    "spouse_names": [
+      "Rosa Salomo Omedes"
+    ],
+    "children_names": [
+      "Dolores Geira Salomó",
+      "Angelo Sebastián Geira Salomó",
+      "Prudencio Timoteo Geira Salomó",
+      "Vicenta Geira Salomó",
+      "Dorotea Geira Salomó",
+      "Mónica Geira Salomó",
+      "Teresa Geira Salomó",
+      "Andrés Geira Salomó",
+      "Sebastian Geira Ulldemolin"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1800].\n\nCasament: l'11 de març de 1826 amb Rosa Salomó Omedes [o Homedes] de Tortosa [o Vinaròs] [1805].\n\nFills: Vicenta [1826], Dorotea [1828], Dolores [1830], Mónica [1832], Angelo Sebastián [1833], Prudencio Timoteo [1836], Andrés [1839] i Teresa [1842].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

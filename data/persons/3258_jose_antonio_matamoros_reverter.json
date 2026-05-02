@@ -1,0 +1,74 @@
+{
+  "id": "3258_jose_antonio_matamoros_reverter",
+  "source_id": "3258",
+  "row_ref": "3258. José Antonio Matamoros Reverter",
+  "name": "José Antonio Matamoros Reverter",
+  "gender": "male",
+  "birth": {
+    "date": "1821-04-20",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1822-04-16",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3247_agustin_matamoros_reverter",
+      "4250_mariana_reverter_fibla"
+    ],
+    "father": "3247_agustin_matamoros_reverter",
+    "mother": "4250_mariana_reverter_fibla",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustín Matamoros Reverter",
+      "Mariana Reverter Fibla"
+    ],
+    "father_name": "Agustín Matamoros Reverter",
+    "mother_name": "Mariana Reverter Fibla",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Josef Antonio Izquierdo",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 20 d'abril de 1821 a la Ràpita.\n\nPadrins: José Antonio Izquierdo i Concepción Chiscas.\n\nDefunció: el 16 d'abril de 1822 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

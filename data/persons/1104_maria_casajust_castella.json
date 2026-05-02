@@ -1,0 +1,88 @@
+{
+  "id": "1104_maria_casajust_castella",
+  "source_id": "1104",
+  "row_ref": "1104. Maria Casajust Castellà",
+  "name": "Maria Casajust Castellà",
+  "gender": "female",
+  "birth": {
+    "date": "1816-03-25",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1108_jose_agustin_casajust_castella",
+      "1204_manuela_castella_caldero"
+    ],
+    "father": "1108_jose_agustin_casajust_castella",
+    "mother": "1204_manuela_castella_caldero",
+    "spouse": [
+      "1577_francisco_comi_castella"
+    ],
+    "children": [
+      "1570_maria_comi_casajust",
+      "1571_jose_comi_casajust",
+      "1572_francisca_comi_casajust",
+      "1573_raymunda_comi_casajust"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Agustín Casajust Castellà",
+      "Manuela Castellà Calderó"
+    ],
+    "father_name": "José Agustín Casajust Michavila",
+    "mother_name": "Manuela Castellà Calderó",
+    "spouse_names": [
+      "Francisco Comí Castellà"
+    ],
+    "children_names": [
+      "Maria Comí Casajust",
+      "José Comí Casajust",
+      "Francisca Comí Casajust",
+      "Raymunda Comí Casajust"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Ignacio Casajust",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 25 de març de 1816 a la Ràpita.\n\nPadrins: Ignacio Casajust i María Calderó.\n\nCasament: el 9 de febrer de 1835 amb Francisco Comí Castellà de Tortosa [1811].\n\nFills: José [1834], Francisca [1836], Raymunda [1840], María [1843], Francisco [1845], María [1850] i Juan [1852].\n\nAl 1872 viu al carrer Sant Rafel.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

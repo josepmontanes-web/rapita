@@ -1,0 +1,79 @@
+{
+  "id": "3746_margarita_obiol_o_albiol_viscarro",
+  "source_id": "3746",
+  "row_ref": "3746. Margarita Obiol [o Albiol] Viscarro",
+  "name": "Margarita Obiol [o Albiol] Viscarro",
+  "gender": "female",
+  "birth": {
+    "date": "1785-01-01",
+    "place": "Peñíscola"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "4307_mateo_reverter_obiol",
+      "4310_josefa_reverter_obiol"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Albiol",
+      "Josefa María Viscarro"
+    ],
+    "father_name": "José Albiol",
+    "mother_name": "Josefa María Viscarro",
+    "spouse_names": [
+      "Josef Reverter Sancho"
+    ],
+    "children_names": [
+      "Mateo Reverter Obiol",
+      "Josefa Reverter Obiol"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Peníscola [aprox. 1785]. \n\nCasament: amb José Reverter Sancho d'Alcanar [1781].\n\nFills: Josefa [1806], Pedro [1808], Peregrina [1809] i Mateo [1812].\n\nDe l'1 d'abril de 1831 al 30 de juny de 1838 ha de pagar un lloguer de 8 Rs mensuals per l'habitació del interior del pati de la casa 1 de la mançana 2. De l'1 d'agost de 1838 al 31 de juliol de 1839 ha de pagar un lloguer de 4 Rs mensuals pel pis alt interior de la casa 1 del carrer del Forn. (AGP.PER.LEG.1073/23 [Juan Vecino]).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

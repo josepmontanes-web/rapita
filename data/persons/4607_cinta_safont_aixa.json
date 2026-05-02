@@ -1,0 +1,68 @@
+{
+  "id": "4607_cinta_safont_aixa",
+  "source_id": "4607",
+  "row_ref": "4607. Cinta Safont Aixa",
+  "name": "Cinta Safont Aixa",
+  "gender": "female",
+  "birth": {
+    "date": "1876-09-25",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 25 de setembre de 1876 a la Ràpita.\n\nDefunció: el 14 de juliol de 1877 a la Ràpita de \"Tabes mesenterica\". Declara la mor al registre civil Josefa Canalda.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

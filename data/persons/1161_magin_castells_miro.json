@@ -1,0 +1,83 @@
+{
+  "id": "1161_magin_castells_miro",
+  "source_id": "1161",
+  "row_ref": "1161. Magín Castells Miró",
+  "name": "Magín Castells Miró",
+  "gender": "male",
+  "birth": {
+    "date": "1815-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1145_manuela_castell_balada"
+    ],
+    "children": [
+      "1155_rosa_rafaela_castells_castell",
+      "1156_gabriel_castells_castell",
+      "1157_damian_castells_castell"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Castells",
+      "Cinta Miró"
+    ],
+    "father_name": "Juan Castells",
+    "mother_name": "Cinta Miró",
+    "spouse_names": [
+      "Manuela Castell Balada"
+    ],
+    "children_names": [
+      "Rosa Rafaela Castells Castell",
+      "Gabriel Castells Castell",
+      "Damian Castells Castell"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1815].\n\nCasament: amb Manuela Castell Balada d'Ulldecona [1815].\n\nFills: Rosa Rafaela [1839], Gabriel [1841] i Damian [1842].\n\nGermà de Camilo Castells Miró [1820].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

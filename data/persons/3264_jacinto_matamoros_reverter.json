@@ -1,0 +1,87 @@
+{
+  "id": "3264_jacinto_matamoros_reverter",
+  "source_id": "3264",
+  "row_ref": "3264. Jacinto Matamoros Reverter",
+  "name": "Jacinto Matamoros Reverter",
+  "gender": "male",
+  "birth": {
+    "date": "1815-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3248_jacinto_matamoros_reverte"
+    ],
+    "father": "3248_jacinto_matamoros_reverte",
+    "mother": null,
+    "spouse": [
+      "2872_dolores_jovani_grau"
+    ],
+    "children": [
+      "3220_maria_de_la_cinta_matamoros_jovani",
+      "3221_jose_matamoros_jovani",
+      "3222_miguel_matamoros_jovani",
+      "3262_bernarda_matamoros_reverter"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Jacinto Matamoros Reverté",
+      "Maria Reverter"
+    ],
+    "father_name": "Jacinto Matamoros Reverté",
+    "mother_name": "Maria Reverter",
+    "spouse_names": [
+      "Dolores Jovani Grau"
+    ],
+    "children_names": [
+      "Maria de la Cinta Matamoros Jovani",
+      "José Matamoros Jovani",
+      "Miguel Matamoros Jovani",
+      "Bernarda Matamoros Reverter"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1815]. \n\nCasament: el 7 de gener de 1837 amb Dolores Jovani Grau de la Ràpita [1816].\n\nFills: María de la Cinta [1837], José [1840], Miguel [1842] i Juan [1852].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

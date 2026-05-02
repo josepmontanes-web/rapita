@@ -1,0 +1,75 @@
+{
+  "id": "1432_tomas_chillida_cruelles",
+  "source_id": "1432",
+  "row_ref": "1432. Tomás Chillida Cruelles",
+  "name": "Tomás Chillida Cruelles",
+  "gender": "male",
+  "birth": {
+    "date": "1828-07-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1441_joaquin_chillida_querol"
+    ],
+    "father": "1441_joaquin_chillida_querol",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Chillida Querol",
+      "Francisca Cruelles Reverté"
+    ],
+    "father_name": "Joaquín Chillida Querol",
+    "mother_name": "Francisca Cruelles Reverté",
+    "spouse_names": [
+      "Mª. Dolores Rosales Granell"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Tomás Macià",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pescador"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'1 de juliol de 1828 a la Ràpita.\n\nPadrins: Tomás Macià i María Carbó.\n\nProfessió: al casament diu que es pescador i al naixement de la filla diu que es pagès. A la defunció també diu que es pagès.\n\nCasament: el 21 d'abril de 1855 amb María Dolores Rosales Granell de la Ràpita [1837]. Viuen al carrer Sant Roc. Testimonis: Juan Fibla i Agustín Reverté.\n\nFills: Francisca [1855], Inés [1864], José [1870], Tomás [1870], Dolores [1870] i María de la Cinta Filomena [1876].\n\nDefunció: el 22 de juny de 1878 a la Ràpita, als 49 anys d'una artritis a l'articulació del genoll dret. Declara la mor la seua cunyada Mariana Ibáñez.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

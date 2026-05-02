@@ -1,7 +1,7 @@
 {
   "id": "7_maria_accensi_accensi",
   "source_id": "7",
-  "row_ref": "7",
+  "row_ref": "7. Maria Accensi Accensi",
   "name": "Maria Accensi Accensi",
   "gender": "female",
   "birth": {
@@ -25,16 +25,40 @@
       "3_sebastian_accensi",
       "4_rafaela_accensi"
     ],
+    "father": "3_sebastian_accensi",
+    "mother": "4_rafaela_accensi",
     "spouse": [],
-    "children": []
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
   },
   "relations_detail": {
     "parents_names": [
       "Sebastián Accensi",
       "Rafaela Accensi"
     ],
+    "father_name": "Sebastián Accensi",
+    "mother_name": "Rafaela Accensi",
     "spouse_names": [],
-    "children_names": []
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
   },
   "occupation": {
     "title": null

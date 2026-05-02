@@ -1,0 +1,74 @@
+{
+  "id": "4352_tomas_reverte_sancho",
+  "source_id": "4352",
+  "row_ref": "4352. Tomás Reverté Sancho",
+  "name": "Tomás Reverté Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1827-02-14",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1827-07-03",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4265_agustin_reverter_forner",
+      "4921_teresa_sancho_querol"
+    ],
+    "father": "4265_agustin_reverter_forner",
+    "mother": "4921_teresa_sancho_querol",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustín Reverter Forner",
+      "Teresa Sancho Querol"
+    ],
+    "father_name": "Agustín Reverter Forner",
+    "mother_name": "Teresa Sancho Querol",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Tomás Capilla",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 14 de febrer de 1827 a la Ràpita.\n\nPadrins: Tomás Capilla i Serafina Iserte.\n\nDefunció: el 3 de juliol de 1827 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

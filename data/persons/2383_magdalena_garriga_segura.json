@@ -1,0 +1,87 @@
+{
+  "id": "2383_magdalena_garriga_segura",
+  "source_id": "2383",
+  "row_ref": "2383. Magdalena Garriga Segura",
+  "name": "Magdalena Garriga Segura",
+  "gender": "female",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3212_melchor_matamoros_garriga"
+    ],
+    "father": "3212_melchor_matamoros_garriga",
+    "mother": null,
+    "spouse": [
+      "4155_andres_rams_puell"
+    ],
+    "children": [
+      "4151_consuelo_rams_garriga",
+      "4152_luis_rams_garriga",
+      "4153_francisca_rams_garriga",
+      "4154_maria_de_la_cinta_rams_garriga"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Melchor Matamoros Garriga",
+      "María Francisca Segura"
+    ],
+    "father_name": "Melchor Garriga",
+    "mother_name": "María Francisca Segura",
+    "spouse_names": [
+      "Andrés Rams Puell"
+    ],
+    "children_names": [
+      "Consuelo Rams Garriga",
+      "Luís Rams Garriga",
+      "Francisca Rams Garriga",
+      "María de la Cinta Rams Garriga"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1810].\n\nCasament: amb Andrés Rams Puell de Tortosa [1810].\n\nFills: Consuelo [1830], Luís [1832], Francisca [1836] i María de la Cinta [1838].\n\nCasament: amb Salvador Sánchez de la Ràpita [1810], pagès.\n\nDefunció: l'11 de febrer de 1880 a la Ràpita als 70 anys de \"un ataque apoplético\". Declara la mor la seua neboda Rosa Garriga de 48 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

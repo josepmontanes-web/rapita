@@ -1,0 +1,74 @@
+{
+  "id": "4156_maria_de_la_cinta_rams_puell",
+  "source_id": "4156",
+  "row_ref": "4156. María de la Cinta Rams Puell",
+  "name": "María de la Cinta Rams Puell",
+  "gender": "female",
+  "birth": {
+    "date": "1815-01-01",
+    "place": "TORTOSA"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Rams",
+      "Tomasa Puell"
+    ],
+    "father_name": "Francisco Rams",
+    "mother_name": "Tomasa Puell",
+    "spouse_names": [
+      "Juan THOMAS",
+      "VIDAL"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1815]. \n\nCasament: el 12 d'abril de 1837 amb Juan Thomas Vidal d'Ulldecona [1780].\n\nFills: Juan Bautista [1841] i Asunción [1844].\n\nEs germana d'Andrés Rams Puell [1810].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

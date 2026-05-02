@@ -1,0 +1,94 @@
+{
+  "id": "5568_jose_antonio_vidal_sastre",
+  "source_id": "5568",
+  "row_ref": "5568. José Antonio Vidal Sastre",
+  "name": "José Antonio Vidal Sastre",
+  "gender": "male",
+  "birth": {
+    "date": "1789-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": "1841-11-16",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5538_jacinto_vidal_palos",
+      "5038_teresa_sastre_borrell"
+    ],
+    "father": "5538_jacinto_vidal_palos",
+    "mother": "5038_teresa_sastre_borrell",
+    "spouse": [
+      "3156_maria_masons_tabasca"
+    ],
+    "children": [
+      "5521_juan_vidal_masons",
+      "5522_candido_jacinto_vidal_masons",
+      "5523_tomas_silvestre_vidal_masons",
+      "5524_francisco_vidal_masons",
+      "5525_teresa_vidal_masons",
+      "5526_jose_vidal_masons",
+      "5527_maria_susana_vidal_masons"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Jacinto Vidal Palos",
+      "Teresa Sastre Borrell"
+    ],
+    "father_name": "Jacinto Vidal Palos",
+    "mother_name": "Teresa Sastre Borrell",
+    "spouse_names": [
+      "Maria Masons Tabascá."
+    ],
+    "children_names": [
+      "Juan Vidal Masons",
+      "Candido Jacinto Vidal Masons",
+      "Tomás Silvestre Vidal Masons",
+      "Francisco Vidal Masons",
+      "Teresa Vidal Masons",
+      "José Vidal Masons",
+      "Maria Susana Vidal Masons"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1789].\n\nCasament: amb María Masons Tabascà de Martorell [1790].\n\nFills: Francisco [1822], Teresa [1825], José [1826], María Susana [1829], Juan [1831], Candido Jacinto [1833] i Tomás Silvestre [1836].\n\nEl 3 de març de 1829 es un dels 7 veïns que forma part de la Junta de Foment de la Agricultura i volen demanar 1000 jornals de terra per a veïns del poble..\n\nDefunció: el 16 de novembre de 1841 a la Ràpita. Va morir als 52 anys. Va testar davant de Joaquín Figueres.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

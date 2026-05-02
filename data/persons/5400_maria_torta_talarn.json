@@ -1,0 +1,68 @@
+{
+  "id": "5400_maria_torta_talarn",
+  "source_id": "5400",
+  "row_ref": "5400. María Torta Talarn",
+  "name": "María Torta Talarn",
+  "gender": "female",
+  "birth": {
+    "date": "1877-06-29",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 29 de juny de 1877 a la Ràpita.\n\nDefunció: el 30 de juny de 1877 a la Ràpita d'afecció espasmódica. Declara la mor al registre civil Francisca Arbó fadrina de 18 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "5019_andres_sanz_sanarau",
+  "source_id": "5019",
+  "row_ref": "5019. Andrés Sanz Sanarau",
+  "name": "Andrés Sanz Sanarau",
+  "gender": "male",
+  "birth": {
+    "date": "1772-01-01",
+    "place": "Tivenys"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1652_antonia_cruelles_remisa"
+    ],
+    "children": [
+      "4983_teresa_sans_cruelles",
+      "4984_rafaela_sans_cruelles",
+      "4985_francisca_sans_cruelles"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Rufol Sanz",
+      "Francisca Sanarau"
+    ],
+    "father_name": "Rufol Sanz",
+    "mother_name": "Francisca Sanarau",
+    "spouse_names": [
+      "Antonia Cruelles Remisa"
+    ],
+    "children_names": [
+      "Teresa Sans Cruelles",
+      "Rafaela Sans Cruelles",
+      "Francisca Sans Cruelles"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tivenys [aprox. 1772]. \n\nProfessió: pagès.\n\nCasament: el 21 de novembre de 1798 amb Antonia Cruelles Remisa de Llissà d'Amunt [1776].\n\nAl gener de 1799 paga un lloguer de 6 Rv per la casa núm. 6 de la mansana vella (ACA BGRP caixa 34).\n\nFills: Francisca [1801], Rafaela [1800] i Teresa [1805].\n\nDel juliol de 1822 al juny de 1823 paga 10 Rv mensuals pel lloguer d'una part de la casa núm. 1 de la mansana 1 (es la que avui està a la cantonada de la Plaça Carles III amb el carrer Sant Antoni).\n\nDe l'1 de juliol de 1834 al 31 de juliol de 1839 ha de pagar un lloguer de 14 Rs mensuals pel pis de terra de la casa 3 de la mançana 2. (AGP.PER.LEG.1073/23 [Juan Vecino]).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

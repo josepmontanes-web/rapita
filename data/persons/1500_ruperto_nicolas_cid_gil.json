@@ -1,0 +1,71 @@
+{
+  "id": "1500_ruperto_nicolas_cid_gil",
+  "source_id": "1500",
+  "row_ref": "1500. Ruperto Nicolás Cid Gil",
+  "name": "Ruperto Nicolás Cid Gil",
+  "gender": null,
+  "birth": {
+    "date": "1820-03-27",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Don Josef Antonio Cid Ferreres",
+      "Doña Antonia Gil Santaló"
+    ],
+    "father_name": "Don Josef Antonio Cid Ferreres",
+    "mother_name": "Doña Antonia Gil Santaló",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Francisco Javier Bertis",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 27 de març de 1820 a la Ràpita.\n\nPadrins: Don Francisco Javier Bertis i Doña Nicolasa Castro.\n\nEs bessó de Agustín Ignacio Cid Gil [1820].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

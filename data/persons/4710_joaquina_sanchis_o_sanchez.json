@@ -1,0 +1,82 @@
+{
+  "id": "4710_joaquina_sanchis_o_sanchez",
+  "source_id": "4710",
+  "row_ref": "4710. Joaquina Sanchís [o Sánchez]",
+  "name": "Joaquina Sanchís [o Sánchez]",
+  "gender": "female",
+  "birth": {
+    "date": "1765-01-01",
+    "place": "Godall"
+  },
+  "death": {
+    "date": "1845-02-11",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "5288_joaquin_tomas"
+    ],
+    "children": [
+      "5299_sebastian_tomas_sanchis",
+      "5300_barbara_tomas_sanchis",
+      "5301_maria_tomas_sanchis",
+      "5302_miguel_tomas_sanchis"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Joaquín Tomas"
+    ],
+    "children_names": [
+      "Sebastián Tomás Sanchís",
+      "Bárbara Tomás Sanchís",
+      "María Tomás Sanchís",
+      "Miguel Tomás Sanchís"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Godall [aprox. 1765]. \n\nCasament: amb Joaquín Tomás de Godall [1765].\n\nFills: Bárbara (Godall) [1805], María (Godall) [1805], Miguel (Godall) [1805] i Sebastián [1814].\n\nDefunció: l'11 de febrer de 1845 a la Ràpita. Va morir als 80 anys. A la partida de defunció el cognom es Sánchez.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

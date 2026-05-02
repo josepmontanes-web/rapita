@@ -1,0 +1,73 @@
+{
+  "id": "2164_juan_bautista_fonollosa_guardino",
+  "source_id": "2164",
+  "row_ref": "2164. Juan Bautista Fonollosa Guardino",
+  "name": "Juan Bautista Fonollosa Guardino",
+  "gender": "male",
+  "birth": {
+    "date": "1831-01-04",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2823_manuel_ibanez_martinez"
+    ],
+    "father": "2823_manuel_ibanez_martinez",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel Ibáñez Martínez",
+      "María Vicenta Guardino Vizcarro"
+    ],
+    "father_name": "Manuel Fonollosa Martínez",
+    "mother_name": "María Vicenta Guardino Vizcarro",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Bautista Vizcarro",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 4 de gener de 1831 a la Ràpita.\n\nPadrins: Bautista Vizcarro i Agustina Vizcarro.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

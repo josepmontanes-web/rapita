@@ -1,0 +1,77 @@
+{
+  "id": "3745_jose_antonio_obiol_o_albiol_viscarro",
+  "source_id": "3745",
+  "row_ref": "3745. José Antonio Obiol [o Albiol] Viscarro",
+  "name": "José Antonio Obiol [o Albiol] Viscarro",
+  "gender": "male",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Peníscola"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "3744_joaquin_obiol_salvado"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Albiol",
+      "Josefa María Viscarro"
+    ],
+    "father_name": "José Albiol",
+    "mother_name": "Josefa María Viscarro",
+    "spouse_names": [
+      "Antonia Salvadó Planes"
+    ],
+    "children_names": [
+      "Joaquín Obiol Salvadó"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Peníscola [aprox. 1790]. \n\nCasament: amb Antonia Salvadó Planes de Peníscola, filla d'Antonio i Vicenta també de Peníscola.\n\nFills: Joaquín [1840].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

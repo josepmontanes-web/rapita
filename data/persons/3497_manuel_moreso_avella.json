@@ -1,0 +1,83 @@
+{
+  "id": "3497_manuel_moreso_avella",
+  "source_id": "3497",
+  "row_ref": "3497. Manuel Moreso Avellà",
+  "name": "Manuel Moreso Avellà",
+  "gender": "male",
+  "birth": {
+    "date": "1770-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "699_teresa_besalduch_sanarau"
+    ],
+    "children": [
+      "580_manuela_beltran_asnar",
+      "3506_francisco_moreso_besalduch",
+      "3507_rafaela_moreso_besalduch"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Moreso",
+      "Antonia Avellà"
+    ],
+    "father_name": "Francisco Moreso",
+    "mother_name": "Antonia Avellà",
+    "spouse_names": [
+      "Teresa Besalduch Sanarau"
+    ],
+    "children_names": [
+      "Manuela Beltran Asnar",
+      "Francisco Moreso Besalduch",
+      "Rafaela Moreso Besalduch"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1770]. \n\nCasament: el 24 de desembre de 1793 a la Catedral de Tortosa amb Teresa Besalduch Sanarau de Tortosa [1770].\n\nFills: Rafaela (Tortosa) [1805] i Francisco (Tortosa) [1806].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

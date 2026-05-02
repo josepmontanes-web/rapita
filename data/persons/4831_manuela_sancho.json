@@ -1,0 +1,76 @@
+{
+  "id": "4831_manuela_sancho",
+  "source_id": "4831",
+  "row_ref": "4831. Manuela Sancho",
+  "name": "Manuela Sancho",
+  "gender": "female",
+  "birth": {
+    "date": "1720-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": "1810-04-10",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2220_jose_forcadell_sancho",
+      "5139_mariana_simon_sancho"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Sebastián Enguera"
+    ],
+    "children_names": [
+      "José Forcadell Sancho",
+      "Mariana Simón Sancho"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1720]. \n\nCasament: amb Sebastián Enguera [o Anguera] d'Amposta [o Tortosa] [1728].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu al carrer davant del Canal i Horta (ACA BGRP Cajas 34).\n\nDefunció: el 10 d'abril de 1810 a la Ràpita. Va morir als 90 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

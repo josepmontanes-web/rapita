@@ -1,0 +1,74 @@
+{
+  "id": "1814_maria_concepcion_escorriola_zaragoza",
+  "source_id": "1814",
+  "row_ref": "1814. Maria Concepción Escorriola Zaragoza",
+  "name": "Maria Concepción Escorriola Zaragoza",
+  "gender": "male",
+  "birth": {
+    "date": "1821-12-07",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1813_carlos_escorriola_alegret",
+      "5652_francisca_zaragoza_carbo"
+    ],
+    "father": "1813_carlos_escorriola_alegret",
+    "mother": "5652_francisca_zaragoza_carbo",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Carlos Escorriola Alegret",
+      "Francisca Zaragoza Carbó"
+    ],
+    "father_name": "Carlos Escorriola Alegret",
+    "mother_name": "Francisca Zaragoza Carbó",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Segarra",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 7 de desembre de 1821 a la Ràpita.\n\nPadrins: Juan Segarra i Doña Teresa de la Quadra.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

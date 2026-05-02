@@ -1,0 +1,84 @@
+{
+  "id": "2422_francisca_gasparin_gombau",
+  "source_id": "2422",
+  "row_ref": "2422. Francisca Gasparín Gombau",
+  "name": "Francisca Gasparín Gombau",
+  "gender": "female",
+  "birth": {
+    "date": "1816-07-04",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2436_francisco_gasparin_matamoros",
+      "2642_barbara_gombau_ortiz"
+    ],
+    "father": "2436_francisco_gasparin_matamoros",
+    "mother": "2642_barbara_gombau_ortiz",
+    "spouse": [
+      "3601_pedro_navarro_balaguer"
+    ],
+    "children": [
+      "3631_pedro_navarro_gasparin",
+      "3636_maria_francisca_navarro_gasparin"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Gasparín Matamoros",
+      "Bàrbara Gombau Ortiz"
+    ],
+    "father_name": "Francisco Gasparín Matamoros",
+    "mother_name": "Barbara Gombau Ortiz",
+    "spouse_names": [
+      "Pedro Navarro Balaguer"
+    ],
+    "children_names": [
+      "Pedro Navarro Gasparín",
+      "María Francisca Navarro Gasparín"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Vicente Gombau",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 4 de juliol de 1816 a la Ràpita.\n\nPadrins: Vicente Gombau i Teresa Castellà.\n\nCasament: el 14 de desembre de 1835 amb Pedro Navarro Balaguer de la Ràpita [1814].\n\nFills: Pedro [1837], Francisco [1840], María Francisca [1842], Juan [1845], Teresa [1845] i Pedro [1852].\n\nDefunció: el 10 de desembre de 1877 a la Ràpita de \"gota anómala y metástica\". Declara la defunció la seua neboda Francisca Gasparín.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

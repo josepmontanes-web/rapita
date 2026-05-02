@@ -1,0 +1,73 @@
+{
+  "id": "3188_gaspar_matamoros_castells",
+  "source_id": "3188",
+  "row_ref": "3188. Gaspar Matamoros Castells",
+  "name": "Gaspar Matamoros Castells",
+  "gender": "male",
+  "birth": {
+    "date": "1841-01-15",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3251_pascual_matamoros_reverter"
+    ],
+    "father": "3251_pascual_matamoros_reverter",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pascual Matamoros Reverter",
+      "Josefa Castells Roe"
+    ],
+    "father_name": "Pascual Matamoros Reverter",
+    "mother_name": "Josefa Castells Roe",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Gaspar García",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 15 de gener de 1841 a la Ràpita.\n\nPadrins: Gaspar García i Miguela García.\n\nProfessió: pagès.\n\nCasament: amb Josefa Sanz Reverté de la Ràpita [1845]. Viuen a la Plaça Major (Plaça Carles III).\n\nFills: María Rosa [1876] i Cinta [1881].\n\nNo signa la declaració de naixement de la filla al registre civil per no saber.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

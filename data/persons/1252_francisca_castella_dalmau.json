@@ -1,0 +1,74 @@
+{
+  "id": "1252_francisca_castella_dalmau",
+  "source_id": "1252",
+  "row_ref": "1252. Francisca Castellà Dalmau",
+  "name": "Francisca Castellà Dalmau",
+  "gender": "female",
+  "birth": {
+    "date": "1788-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1814-03-09",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1343_francisco_castella_zaragoza",
+      "1699_maria_dalmau_fabregat"
+    ],
+    "father": "1343_francisco_castella_zaragoza",
+    "mother": "1699_maria_dalmau_fabregat",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Castellà Zaragoza",
+      "María Dalmau Fabregat"
+    ],
+    "father_name": "Francisco Castellà Zaragoza",
+    "mother_name": "Maria Dalmau Fabregat",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1788].\n\nDefunció: el 9 de març de 1814 a la Ràpita. Va morir als 26 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

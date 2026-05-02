@@ -1,0 +1,73 @@
+{
+  "id": "3353_andres_mies_garcia",
+  "source_id": "3353",
+  "row_ref": "3353. Andrés Míes García",
+  "name": "Andrés Míes García",
+  "gender": "male",
+  "birth": {
+    "date": "1846-04-06",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1846-04-24",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3362_andres_mies_guinjuan"
+    ],
+    "father": "3362_andres_mies_guinjuan",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Andrés Míes Guinjuan",
+      "Agustina Rita García Puchol"
+    ],
+    "father_name": "Andrés Míes Guijuan",
+    "mother_name": "Agustina Rita García Puchol",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 6 d'abril de 1846 a la Ràpita.\n\nDefunció: el 24 d'abril de 1846 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

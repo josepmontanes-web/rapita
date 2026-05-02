@@ -1,0 +1,74 @@
+{
+  "id": "14_maria_agustina_francisca_accensi_o_asensi_navarro",
+  "source_id": "14",
+  "row_ref": "14. Maria Agustina Francisca Accensi [o Asensi] Navarro",
+  "name": "Maria Agustina Francisca Accensi [o Asensi] Navarro",
+  "gender": "female",
+  "birth": {
+    "date": "1812-08-14",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1814-12-30",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "17_jose_antonio_accensi_o_ascensi_sancho",
+      "3660_francisca_navarro_paulo"
+    ],
+    "father": "17_jose_antonio_accensi_o_ascensi_sancho",
+    "mother": "3660_francisca_navarro_paulo",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": "2_jose_antonio_accensi",
+      "paternal_grandmother": null,
+      "maternal_grandfather": "3592_francisco_navarro",
+      "maternal_grandmother": "3850_manuela_paulo"
+    },
+    "godparents": {
+      "godfather": "5046_juan_segarra_bel",
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Antonio Accensi [o Ascensi] Sancho",
+      "Francisca Navarro Paulo"
+    ],
+    "father_name": "José Antonio Ascensi Sancho",
+    "mother_name": "Francisca Navarro Paulo",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "José Antonio Accensi",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "Francisco Navarro",
+      "maternal_grandmother": "Manuela Paulo"
+    },
+    "godparents_names": {
+      "godfather": "Juan Segarra Bel",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 14 d'agost de 1812 a la Ràpita.\n\nPadrins: Juan Segarra d'Ulldecona i María Bel dels Freginals.\n\nDefunció: el 30 de desembre de 1814 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

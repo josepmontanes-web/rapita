@@ -1,0 +1,75 @@
+{
+  "id": "5138_juan_francisco_simo_obiol",
+  "source_id": "5138",
+  "row_ref": "5138. Juan Francisco Simó Obiol",
+  "name": "Juan Francisco Simó Obiol",
+  "gender": "male",
+  "birth": {
+    "date": "1825-01-01",
+    "place": "Peñiscola"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "67_jose_albiol_o_obiol_simo"
+    ],
+    "father": "67_jose_albiol_o_obiol_simo",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Albiol [o Obiol] Simó",
+      "Rosa Obiol"
+    ],
+    "father_name": "José Simó",
+    "mother_name": "Rosa Obiol",
+    "spouse_names": [
+      "Teresa Forné Navarro"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Matriculado"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Peníscola [aprox. 1825]. \n\nProfessió: \"matriculado\".\n\nCasament: el 9 de setembre de 1848 amb Teresa Torné Navarro de Tortosa [1833]. Es casa als 23 anys.\n\nFills: Cinta [1850], Francisco [1850] i Juan [1855].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

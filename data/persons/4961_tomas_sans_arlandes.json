@@ -1,0 +1,75 @@
+{
+  "id": "4961_tomas_sans_arlandes",
+  "source_id": "4961",
+  "row_ref": "4961. Tomás Sans Arlandes",
+  "name": "Tomás Sans Arlandes",
+  "gender": "male",
+  "birth": {
+    "date": "1825-01-12",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4975_juan_sans_castell"
+    ],
+    "father": "4975_juan_sans_castell",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Sans Castell",
+      "Maria Hernández Cavaller"
+    ],
+    "father_name": "Juan Sans Castell",
+    "mother_name": "Maria Hernández Cavaller",
+    "spouse_names": [
+      "Josefa López Noll"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Mariano Safont",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 12 de gener de 1825 a la Ràpita.\n\nCasament: el 29 de novembre de 1850 amb Josefa López Noll de la Ràpita [1827].\n\nFills: Tomás [1852], Juan [1854], José [1856] i Francisco [1859].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

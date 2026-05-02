@@ -1,0 +1,73 @@
+{
+  "id": "3561_francisco_juan_moya_vilarroya",
+  "source_id": "3561",
+  "row_ref": "3561. Francisco Juan Moya Vilarroya",
+  "name": "Francisco Juan Moya Vilarroya",
+  "gender": "male",
+  "birth": {
+    "date": "1799-10-22",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1802-08-29",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3550_juan_moia_oruspina_o_ruspina"
+    ],
+    "father": "3550_juan_moia_oruspina_o_ruspina",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Moia Oruspina [o Ruspina]",
+      "Theresa Vilarroya Perolada"
+    ],
+    "father_name": "Juan Moya Oruspina",
+    "mother_name": "Theresa Vilarroya Perolada",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Geire",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 22 d'octubre de 1799 a la Ràpita.\n\nPadrins: Francisco Geire i Ventura Parramón.\n\nDefunció: el 29 d'agost de 1802 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

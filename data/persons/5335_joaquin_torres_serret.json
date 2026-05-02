@@ -1,0 +1,79 @@
+{
+  "id": "5335_joaquin_torres_serret",
+  "source_id": "5335",
+  "row_ref": "5335. Joaquín Torres Serret",
+  "name": "Joaquín Torres Serret",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "La Galera"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "5333_francisco_torres_chulvi",
+      "5334_agustin_torres_julve"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Torres",
+      "Candia Serret"
+    ],
+    "father_name": "José Torres",
+    "mother_name": "Candia Serret",
+    "spouse_names": [
+      "Teresa Julve"
+    ],
+    "children_names": [
+      "Francisco Torres Chulvi",
+      "Agustín Torres Julve"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a La Galera [aprox. 1800].\n\nCasament: amb Teresa Julve Serrania de la Senia de Rossell [1795].\n\nFills: Francisco [1823] i Agustín [1824].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

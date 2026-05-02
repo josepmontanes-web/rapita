@@ -1,0 +1,68 @@
+{
+  "id": "4035_rosa_prunonosa_falco",
+  "source_id": "4035",
+  "row_ref": "4035. Rosa Pruñonosa Falcó",
+  "name": "Rosa Pruñonosa Falcó",
+  "gender": "female",
+  "birth": {
+    "date": "1862-01-01",
+    "place": "Benicarló"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Benicarló [aprox. 1862].\n\nCasament: el 14 de desembre de 1885 amb Adelino Pascual Boix d'Alcanar [1862]. Es casa als 23 anys. Testimonis: Agustín Casajust i José Chillida.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "373_miguel_balada_reverter",
+  "source_id": "373",
+  "row_ref": "373. Miguel Balada Reverter",
+  "name": "Miguel Balada Reverter",
+  "gender": "male",
+  "birth": {
+    "date": "1841-08-19",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1844-01-08",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "324_rafael_balada_balada"
+    ],
+    "father": "324_rafael_balada_balada",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Rafael Balada Balada",
+      "Peregrina Reverter Obiol"
+    ],
+    "father_name": "Rafael Balada Balada",
+    "mother_name": "Peregrina Reverter Obiol",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Mariano Miralles",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 19 d'agost de 1841 a la Ràpita.\n\nPadrins: Mariano Miralles i Antonia Balada.\n\nDefunció: el 8 de gener de 1844 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

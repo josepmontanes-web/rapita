@@ -1,0 +1,68 @@
+{
+  "id": "5661_maria_zaragoza_clua",
+  "source_id": "5661",
+  "row_ref": "5661. María Zaragoza Clua",
+  "name": "María Zaragoza Clua",
+  "gender": "female",
+  "birth": {
+    "date": "1849-01-01",
+    "place": "Santa Bàrbara"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Santa Bàrbara [aprox. 1849].\n\nCasament: amb Agustín Guardia Andreu de la Ràpita [1848].\n\nFills: José, Cinta i Gabriel [1877].\n\nDefunció: el 13 de setembre de 1880 a la Ràpita als 31 anys de \"fiebre tifoidea\". Declara la mor la mor la seua cosina Maria Biosca de 23 anys, casada. Podria ser Maria Biosca Clua [1857]. Va testar davant del capellà Tomás Aloma que era vidua d'Agustí Cid, pagès de Santa Bàrbara. D'aquest matrimoni no va tenir cap fill.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

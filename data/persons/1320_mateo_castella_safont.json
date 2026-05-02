@@ -1,0 +1,73 @@
+{
+  "id": "1320_mateo_castella_safont",
+  "source_id": "1320",
+  "row_ref": "1320. Mateo Castellà Safont",
+  "name": "Mateo Castellà Safont",
+  "gender": "male",
+  "birth": {
+    "date": "1827-09-20",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1171_juan_castella_alegret"
+    ],
+    "father": "1171_juan_castella_alegret",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Castellà Alegret",
+      "Maria Safont Fabregat"
+    ],
+    "father_name": "Juan Castellà Alegre",
+    "mother_name": "Maria Safont Fabregat",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Castellà",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 20 de setembre de 1827 a la Ràpita.\n\nPadrins: Juan Castellà i Francisca Fabregat.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

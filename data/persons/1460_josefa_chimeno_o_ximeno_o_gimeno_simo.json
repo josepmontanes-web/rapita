@@ -1,0 +1,71 @@
+{
+  "id": "1460_josefa_chimeno_o_ximeno_o_gimeno_simo",
+  "source_id": "1460",
+  "row_ref": "1460. Josefa Chimeno [o Ximeno, o Gimeno] Simó",
+  "name": "Josefa Chimeno [o Ximeno, o Gimeno] Simó",
+  "gender": "female",
+  "birth": {
+    "date": "1793-01-11",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Ximeno",
+      "Tomasa Simó"
+    ],
+    "father_name": "Pedro Ximeno",
+    "mother_name": "Tomasa Simó",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Josef Roig",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'11 de gener de 1793 a la Ràpita.\n\nPadrins: José Roig i Mariana Simó (tia).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "5175_raymunda_solsona_ribera",
+  "source_id": "5175",
+  "row_ref": "5175. Raymunda Solsona Ribera",
+  "name": "Raymunda Solsona Ribera",
+  "gender": "female",
+  "birth": {
+    "date": "1839-01-09",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1845-03-15",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5173_bartolome_solsona_miralles"
+    ],
+    "father": "5173_bartolome_solsona_miralles",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bartolomé Solsona Miralles",
+      "Inés Ribera Roig"
+    ],
+    "father_name": "Bartolomé Solsona Miralles",
+    "mother_name": "Inés Ribera Roig",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Sans",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 9 de gener de 1839 a la Ràpita.\n\nPadrins: Juan Sans i Raymunda Puig.\n\nDefunció: el 15 de març de 1845 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

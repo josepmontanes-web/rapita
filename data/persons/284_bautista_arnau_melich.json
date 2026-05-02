@@ -1,0 +1,83 @@
+{
+  "id": "284_bautista_arnau_melich",
+  "source_id": "284",
+  "row_ref": "284. Bautista Arnau Melich",
+  "name": "Bautista Arnau Melich",
+  "gender": "male",
+  "birth": {
+    "date": "1785-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "940_vicenta_camas_escriva"
+    ],
+    "children": [
+      "273_joaquin_arnau_jamas",
+      "274_hilario_arnau_camas",
+      "275_miguel_arnau_camas"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Arnau",
+      "María Melich"
+    ],
+    "father_name": "Bautista Arnau",
+    "mother_name": "María Melich",
+    "spouse_names": [
+      "Vicenta Camás Escrivá"
+    ],
+    "children_names": [
+      "Joaquín Arnau Jamas",
+      "Hilario Arnau Camàs",
+      "Miguel Arnau Camàs"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1785].\n\nCasament: amb Vicenta Camás Escrivà.\n\nFills: Joaquín [1817], Hilario [1819] i Miguel [1819].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

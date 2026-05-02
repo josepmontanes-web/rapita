@@ -1,0 +1,68 @@
+{
+  "id": "4982_francisca_carmen_sans_cristofol",
+  "source_id": "4982",
+  "row_ref": "4982. Francisca Carmen Sans Cristofol",
+  "name": "Francisca Carmen Sans Cristofol",
+  "gender": "female",
+  "birth": {
+    "date": "1873-01-01",
+    "place": "Barcelona"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Barcelona [aprox. 1873].\n\nDefunció: el 15 de març de 1877 a la Ràpita als 4 anys de derrame cerebral. Declara la seua mor al registre civil Dolores Castellà.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

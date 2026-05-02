@@ -1,0 +1,74 @@
+{
+  "id": "4863_maria_lorenza_sancho_bort",
+  "source_id": "4863",
+  "row_ref": "4863. María Lorenza Sancho Bort",
+  "name": "María Lorenza Sancho Bort",
+  "gender": "female",
+  "birth": {
+    "date": "1829-05-23",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1830-06-17",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4895_jose_sancho_gil",
+      "805_agustina_bort_lleti"
+    ],
+    "father": "4895_jose_sancho_gil",
+    "mother": "805_agustina_bort_lleti",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Sancho Gil",
+      "Agustina Bort Lletí"
+    ],
+    "father_name": "José Sancho Gil",
+    "mother_name": "Agustina Bort Lletí",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Pascual Bellafon",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 23 de maig de 1829 a la Ràpita.\n\nPadrins: Pascual Bellafon i Lorenza Guardia.\n\nDefunció: el 17 de juny de 1830 a la Ràpita. Va morir de \"espasmo\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

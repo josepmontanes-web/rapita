@@ -1,0 +1,73 @@
+{
+  "id": "5549_francisco_vidal_planes",
+  "source_id": "5549",
+  "row_ref": "5549. Francisco Vidal Planes",
+  "name": "Francisco Vidal Planes",
+  "gender": "male",
+  "birth": {
+    "date": "1821-02-24",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1822-11-12",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5500_francisco_vidal_beltran"
+    ],
+    "father": "5500_francisco_vidal_beltran",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Vidal Beltran",
+      "Francisca Planes Govern"
+    ],
+    "father_name": "Francisco Vidal Beltran",
+    "mother_name": "Francisca Planes Govern",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Santiago Porta",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 24 de febrer de 1821 a la Ràpita.\n\nPadrins: Santiago Porta i Feliciana Subirats.\n\nDefunció: el 12 de novembre de 1822 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

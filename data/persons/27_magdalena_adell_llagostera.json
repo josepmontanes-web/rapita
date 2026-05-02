@@ -1,12 +1,12 @@
 {
   "id": "27_magdalena_adell_llagostera",
   "source_id": "27",
-  "row_ref": "27",
+  "row_ref": "27. Magdalena Adell Llagostera",
   "name": "Magdalena Adell Llagostera",
   "gender": "female",
   "birth": {
-    "date": "1817-08-04",
-    "place": null
+    "date": "1817-04-08",
+    "place": "la Ràpita"
   },
   "death": {
     "date": null,
@@ -22,22 +22,47 @@
   },
   "family": {
     "parents": [
-      "34_andres_adell_sancho"
+      "34_andres_adell_sancho",
+      "2921_beatriz_llagostera_bonamich"
     ],
+    "father": "34_andres_adell_sancho",
+    "mother": "2921_beatriz_llagostera_bonamich",
     "spouse": [
-      "36_manuel_adlert_baneras"
+      "3916_manuel_perez_cid"
     ],
-    "children": []
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
   },
   "relations_detail": {
     "parents_names": [
       "Andrés Adell Sancho",
       "Beatriz Llagostera Bonamich"
     ],
+    "father_name": "Andrés Adell Sancho",
+    "mother_name": "Beatriz Llagostera Bonamich",
     "spouse_names": [
       "Manuel Pérez Cid"
     ],
-    "children_names": []
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Bautista emelio Genova",
+      "godmother": null
+    }
   },
   "occupation": {
     "title": null

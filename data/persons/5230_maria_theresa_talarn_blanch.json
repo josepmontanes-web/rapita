@@ -1,0 +1,74 @@
+{
+  "id": "5230_maria_theresa_talarn_blanch",
+  "source_id": "5230",
+  "row_ref": "5230. Maria Theresa Talarn Blanch",
+  "name": "Maria Theresa Talarn Blanch",
+  "gender": "female",
+  "birth": {
+    "date": "1814-01-10",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1814-09-19",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5263_salvador_talarn_valldeperez",
+      "730_francisca_blanch_aguilar"
+    ],
+    "father": "5263_salvador_talarn_valldeperez",
+    "mother": "730_francisca_blanch_aguilar",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Salvador Talarn Valldeperez",
+      "Francisca Blanch Aguilar"
+    ],
+    "father_name": "Salvador Talarn Valldeperez",
+    "mother_name": "Francisca Blanch Aguilar",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Manuel Izquierdo",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 10 de gener de 1814 a la Ràpita.\n\nPadrins: Manuel Izquierdo i Serafina Reverter.\n\nDefunció: el 19 de setembre de 1814 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

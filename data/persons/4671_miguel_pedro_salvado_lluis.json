@@ -1,0 +1,71 @@
+{
+  "id": "4671_miguel_pedro_salvado_lluis",
+  "source_id": "4671",
+  "row_ref": "4671. Miguel Pedro Salvadó Lluís",
+  "name": "Miguel Pedro Salvadó Lluís",
+  "gender": "male",
+  "birth": {
+    "date": "1824-06-29",
+    "place": "SC"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomás Salvadó Carranza",
+      "Vicenta Lluís Fontanet"
+    ],
+    "father_name": "Tomás Salvadó Carranza",
+    "mother_name": "Vicenta Lluís Fontanet",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "MIGUEL ROSALES",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 29 de juny de 1824 a la Ràpita.\n\nPadrins: Miguel Rosales i Tomasa Granell.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

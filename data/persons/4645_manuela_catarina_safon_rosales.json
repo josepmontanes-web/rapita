@@ -1,0 +1,73 @@
+{
+  "id": "4645_manuela_catarina_safon_rosales",
+  "source_id": "4645",
+  "row_ref": "4645. Manuela Catarina Safon Rosales",
+  "name": "Manuela Catarina Safon Rosales",
+  "gender": "female",
+  "birth": {
+    "date": "1840-10-31",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1841-10-15",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4626_jose_safont_fabregat"
+    ],
+    "father": "4626_jose_safont_fabregat",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Safont Fabregat",
+      "Tomasa Rosales Juñent"
+    ],
+    "father_name": "José Safón Fabregat",
+    "mother_name": "Tomasa Rosales Juñent",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Manuel Safón",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 31 d'octubre de 1840 a la Ràpita.\n\nPadrins: Manuel Safont i Catarina Junyent.\n\nDefunció: el 15 d'octubre de 1841 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

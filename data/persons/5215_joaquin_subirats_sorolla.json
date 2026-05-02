@@ -1,0 +1,81 @@
+{
+  "id": "5215_joaquin_subirats_sorolla",
+  "source_id": "5215",
+  "row_ref": "5215. Joaquín Subirats Sorolla",
+  "name": "Joaquín Subirats Sorolla",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1837-12-27",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5185_jose_subirats"
+    ],
+    "father": "5185_jose_subirats",
+    "mother": null,
+    "spouse": [
+      "3743_ana_maria_obiol_masip"
+    ],
+    "children": [
+      "5204_fernanda_subirats_obiol"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Subirats",
+      "Ana María Sorolla"
+    ],
+    "father_name": "José Subirats",
+    "mother_name": "Ana María Sorolla",
+    "spouse_names": [
+      "Ana María Obiol Masip"
+    ],
+    "children_names": [
+      "Fernanda Subirats Obiol"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1800]. \n\nCasament: el 20 de setembre de 1828 amb Ana María Obiol Masip d'Ulldecona [1810].\n\nFills: Fernanda [1834].\n\nDefunció: el 27 de desembre de 1837 a la Ràpita. No fa testament.\n\nA la partida de defunció diu que era marit d'Ana María Obiol Peris d'Ulldecona.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "5086_agustin_segarra_zaragoza",
+  "source_id": "5086",
+  "row_ref": "5086. Agustín Segarra Zaragoza",
+  "name": "Agustín Segarra Zaragoza",
+  "gender": "male",
+  "birth": {
+    "date": "1811-04-07",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1811-06-30",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5046_juan_segarra_bel",
+      "5654_antonia_zaragoza_carbo"
+    ],
+    "father": "5046_juan_segarra_bel",
+    "mother": "5654_antonia_zaragoza_carbo",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Segarra Bel",
+      "Antonia Zaragoza Carbó"
+    ],
+    "father_name": "Juan Segarra Bel",
+    "mother_name": "Antonia Zaragoza Carbó",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Agustín Safont",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 7 d'abril de 1811 a la Ràpita.\n\nPadrins: Agustín Safont i Lorenza Fornera.\n\nDefunció: el 30 de juny de 1811 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

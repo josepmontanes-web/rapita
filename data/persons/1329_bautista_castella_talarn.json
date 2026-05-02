@@ -1,0 +1,68 @@
+{
+  "id": "1329_bautista_castella_talarn",
+  "source_id": "1329",
+  "row_ref": "1329. Bautista Castellà Talarn",
+  "name": "Bautista Castellà Talarn",
+  "gender": "male",
+  "birth": {
+    "date": "1851-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1851].\n\nProfessió: pagès i ramader.\n\nCasament: el 6 de març de 1871 amb María Barrera Fibla de la Ràpita [1858]. Es casa als 20 anys. Viuen al carrer de la Estrella.\n\nFills: María [1873], Francisca [1875], Carmen [1877] i Teresa [1880].\n\nNo signa les declaracions de naixement al registre civil per no saber.\n\nUn fill: Bautista Castellà Barrera es ramader.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

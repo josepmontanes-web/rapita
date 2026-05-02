@@ -1,0 +1,79 @@
+{
+  "id": "3783_francisco_pamies_garcia",
+  "source_id": "3783",
+  "row_ref": "3783. Francisco Pamíes García",
+  "name": "Francisco Pamíes García",
+  "gender": "male",
+  "birth": {
+    "date": "1830-01-01",
+    "place": "Reus"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3783_francisco_pamies_garcia"
+    ],
+    "father": "3783_francisco_pamies_garcia",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "3783_francisco_pamies_garcia"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Pamíes García",
+      "María García"
+    ],
+    "father_name": "Francisco Pamíes",
+    "mother_name": "María García",
+    "spouse_names": [
+      "Maria Pino Bedós"
+    ],
+    "children_names": [
+      "Francisco Pamíes García"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Guardia civil"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Reus [aprox. 1830]. \n\n\"Guardia civil de 1ª clase, 4ª Compañía, 2º tercio\".\n\nCasament: el 31 d'octubre de 1853 amb María Pino Bedós de la Ràpita [1833]. Testimonis: Vicente Alcañíz i Mariano Monfort \"Guardia civiles\".\n\nFills: María [1855] i Francesca [1860].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

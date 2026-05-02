@@ -1,0 +1,72 @@
+{
+  "id": "799_francisca_borrell_foguet",
+  "source_id": "799",
+  "row_ref": "799. Francisca Borrell Foguet",
+  "name": "Francisca Borrell Foguet",
+  "gender": "female",
+  "birth": {
+    "date": "1744-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1832-08-26",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "5037_tomas_sastre"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Tomàs Sastre"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1744].\n\nVeïna de la Torre del Codonyol.\n\nCasament: amb Tomás Sastre de Tortosa [1743].\n\nFills: Teresa (Tortosa) [1770] i Francisca (Tortosa) [1773].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu al Codoñol  (ACA BGRP Cajas 34).\n\nDefunció: el 26 d'agost de 1832 a la Ràpita. Va morir als 88 anys. \"Hizo testamento pero sus hijos no saben bajo que fecha ni ante que escribano. Dotó su alma en 15 libras valencianas\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

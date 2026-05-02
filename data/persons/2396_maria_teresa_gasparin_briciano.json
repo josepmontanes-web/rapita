@@ -1,0 +1,73 @@
+{
+  "id": "2396_maria_teresa_gasparin_briciano",
+  "source_id": "2396",
+  "row_ref": "2396. María Teresa Gasparín Briciano",
+  "name": "María Teresa Gasparín Briciano",
+  "gender": "female",
+  "birth": {
+    "date": "1834-10-27",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1834-12-30",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2448_agustin_gasparin_ortiz"
+    ],
+    "father": "2448_agustin_gasparin_ortiz",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustín Gasparín Ortiz",
+      "Teresa Briciano Pasqual"
+    ],
+    "father_name": "Agustín Gasparín Ortiz",
+    "mother_name": "Teresa Briciano Pasqual",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Pedro Navarro",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 27 d'octubre de 1834 a la Ràpita.\n\nPadrins: Pedro Navarro i Francisca Gasparín.\n\nDefunció: el 30 de desembre de 1834 a la Ràpita. Va ser enterrada el mateix dia.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

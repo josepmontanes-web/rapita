@@ -1,0 +1,72 @@
+{
+  "id": "380_juan_o_jose_balaguer",
+  "source_id": "380",
+  "row_ref": "380. Juan [o José] Balaguer",
+  "name": "Juan [o José] Balaguer",
+  "gender": "male",
+  "birth": {
+    "date": "1760-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "5498_francisca_vidal"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Francisca Vidal"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1760].\n\nCasament: el 19 de febrer de 1791 amb Francisca Vidal de Benissanet [1768].\n\nA la partida de defunció de Francisca Vidal diu que va morir al maig de 1815 i que era viuda de José Balaguer.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

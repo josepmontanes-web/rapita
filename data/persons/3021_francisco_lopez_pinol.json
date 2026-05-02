@@ -1,0 +1,95 @@
+{
+  "id": "3021_francisco_lopez_pinol",
+  "source_id": "3021",
+  "row_ref": "3021. Francisco López Piñol",
+  "name": "Francisco López Piñol",
+  "gender": "male",
+  "birth": {
+    "date": "1762-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": "1845-09-14",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1991_francisca_ferran_guinot"
+    ],
+    "children": [
+      "2987_manuel_lopez_ferran",
+      "2988_maria_lopez_ferran",
+      "2989_miguel_lopez_ferran",
+      "2990_vicente_lopez_ferran",
+      "2991_ramon_lopez_ferran",
+      "2992_maria_rosa_concepcion_lopez_ferran",
+      "2993_lorenza_lopez_ferran",
+      "2994_antonia_lopez_ferran",
+      "2995_peregrina_lopez_ferran"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef López",
+      "Maria Piñol"
+    ],
+    "father_name": "Josef López",
+    "mother_name": "Maria Piñol",
+    "spouse_names": [
+      "Francisca Ferrán Guiñot"
+    ],
+    "children_names": [
+      "Manuel López Ferran",
+      "María López Ferrán",
+      "Miguel López Ferràn",
+      "Vicente López Ferran",
+      "Ramón López Ferrán",
+      "María Rosa Concepción López Ferrán",
+      "Lorenza López Ferrán",
+      "Antonia López Ferrán",
+      "Peregrina López Ferrán"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta  [aprox. 1762]. \n\nProfessió: pagès.\n\nCasament: el 31 d'agost de 1799 amb Francisca Ferran Guiñot de Riudoms [1775].\n\nAl juliol de 1799 paga un lloguer de 6 Rv per la casa núm. 9 de la mansana vella (ACA BGRP caixa 34).\n\nFills: Vicente [1800], Manuel [1802], María [1805], Peregrina [1808], María Rosa Concepción [1810], Lorenza [1814], Antonia [1816] i Ramón [1818].\n\nDe l'1 de juliol de 1828 al 31 de juliol de 1839 ha de pagar un lloguer de 10 Rs mensuals per part del pis alt i part del pis de terra de la casa 5 de la mançana 2. (AGP.PER.LEG.1073/23 [Juan Vecino]).\n\nDefunció: el 14 de setembre de 1845 a la Ràpita. Va morir als 83 anys. Va fer testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

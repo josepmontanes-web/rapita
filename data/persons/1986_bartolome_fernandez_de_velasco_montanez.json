@@ -1,0 +1,73 @@
+{
+  "id": "1986_bartolome_fernandez_de_velasco_montanez",
+  "source_id": "1986",
+  "row_ref": "1986. Bartolomé Fernández de Velasco Montañez",
+  "name": "Bartolomé Fernández de Velasco Montañez",
+  "gender": "male",
+  "birth": {
+    "date": "1797-01-01",
+    "place": "Vinaròs"
+  },
+  "death": {
+    "date": "1835-10-09",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Ignacio Fernández de Velasco",
+      "Vicenta Rosa Montañez"
+    ],
+    "father_name": "Ignacio Fernández de Velasco",
+    "mother_name": "Vicenta Rosa Montañez",
+    "spouse_names": [
+      "Josefa Antolí"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1797].\n\nCasament: amb Josefa Antolí de Calig.\n\nDefunció: el 9 d'octubre de 1835 a la Ràpita. Va morir als 38 anys. \"Hizo testamento y dotó su alma con 100 R. V.\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

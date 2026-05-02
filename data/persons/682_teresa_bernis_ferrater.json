@@ -1,0 +1,74 @@
+{
+  "id": "682_teresa_bernis_ferrater",
+  "source_id": "682",
+  "row_ref": "682. Teresa Bernis Ferrater",
+  "name": "Teresa Bernis Ferrater",
+  "gender": "female",
+  "birth": {
+    "date": "1834-12-12",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "691_jose_francisco_bernis_murall",
+      "1994_teresa_ferrater_pares"
+    ],
+    "father": "691_jose_francisco_bernis_murall",
+    "mother": "1994_teresa_ferrater_pares",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Francisco Bernis Murall",
+      "Teresa Ferrater Parés"
+    ],
+    "father_name": "José Francisco Bernis Murall",
+    "mother_name": "Teresa Ferrater Parés",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Jayme Ferrater",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 12 de desembre de 1834 a la Ràpita.\n\nPadrí: Jayme Ferrater.\n\nCasament: amb Juan Paz Fernández de Ribadeo [1829].\n\nFills: Antonio i Teresa.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

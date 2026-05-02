@@ -1,0 +1,75 @@
+{
+  "id": "4934_maria_sancho_sancho",
+  "source_id": "4934",
+  "row_ref": "4934. Maria Sancho Sancho",
+  "name": "Maria Sancho Sancho",
+  "gender": "female",
+  "birth": {
+    "date": "1750-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1840-01-26",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "2379_josef_garriga"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Andrés Sancho",
+      "Maria Sancho"
+    ],
+    "father_name": "Andrés Sancho",
+    "mother_name": "Maria Sancho",
+    "spouse_names": [
+      "Josef Garriga"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1750]. \n\nCasament: amb José Garriga [1750].\n\nDefunció: el 26 de gener de 1840 a la Ràpita. Va morir als 90 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

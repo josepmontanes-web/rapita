@@ -1,0 +1,74 @@
+{
+  "id": "4757_francisca_sanchez_guardia",
+  "source_id": "4757",
+  "row_ref": "4757. Francisca Sánchez Guardia",
+  "name": "Francisca Sánchez Guardia",
+  "gender": "female",
+  "birth": {
+    "date": "1841-02-28",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4783_vicente_sanchiz_pasqual",
+      "2722_alexandra_guardia_bort"
+    ],
+    "father": "4783_vicente_sanchiz_pasqual",
+    "mother": "2722_alexandra_guardia_bort",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Sánchiz Pasqual",
+      "Alexandra Guardia Bort"
+    ],
+    "father_name": "Vicente Sánchez Pasqual",
+    "mother_name": "Alexandra Guardia Bort",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Bautista Guardia",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 28 de febrer de 1841 a la Ràpita.\n\nPadrins: Bautista Guardia i Francisca Rosales.\n\nCasament: amb Francisco Arbó Tomás de la Ràpita [1836].\n\nFills: Francisca [1859] i Domicilda Cinta [1877].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "167_juan_aragones_vidal",
+  "source_id": "167",
+  "row_ref": "167. Juan Aragonés Vidal",
+  "name": "Juan Aragonés Vidal",
+  "gender": "male",
+  "birth": {
+    "date": "1792-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "803_maria_presentacion_bort_bort"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Aragonés",
+      "Maria Vidal"
+    ],
+    "father_name": "Juan Aragonés",
+    "mother_name": "Maria Vidal",
+    "spouse_names": [
+      "Maria Fabregat Mateu"
+    ],
+    "children_names": [
+      "María Presentación Bort Bort"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  a Tortosa [aprox. 1792].\n\nProfessió: pagès.\n\nCasament: el 30 de novembre de 1816 amb María Fabregat Mateu de la Ràpita [1895].\n\nés el col·lector de censos de les monges. També fa una mica com del seu representant, tot i que les terres i rendes les tenen arrendades (juliol de 1842) a un altre. Té amistat amb Vicente Gombau. És zelador de la muntanya del Montsià (mano de cartas)\n\nEs un dels 28 veïns de la Ràpita que figuren al primer cens electoral de San Carlos de la Ràpita de 1867, diu que viu al carrer Sant Isidre, 6.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "987_joaquina_carapuig_borfa",
+  "source_id": "987",
+  "row_ref": "987. Joaquina Carapuig Borfa",
+  "name": "Joaquina Carapuig Borfa",
+  "gender": "female",
+  "birth": {
+    "date": "1800-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2012_manuela_francisca_ferrer_carapuig"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Carapuig",
+      "Laureana Borfa"
+    ],
+    "father_name": "Miguel Carapuig",
+    "mother_name": "Laureana Borfa",
+    "spouse_names": [
+      "Manuel Ferrer Fibla"
+    ],
+    "children_names": [
+      "Manuela Francisca Ferrer Carapuig"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1800].\n\nCasament: amb Manuel Ferrer Fibla de la Ràpita [1799].\n\nFills: Manuela Francisca [1821].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

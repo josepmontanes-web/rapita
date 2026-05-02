@@ -1,0 +1,71 @@
+{
+  "id": "4234_juan_reverte_ferre",
+  "source_id": "4234",
+  "row_ref": "4234. Juan Reverté Ferré",
+  "name": "Juan Reverté Ferré",
+  "gender": "male",
+  "birth": {
+    "date": "1855-04-16",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustí Reverté Izquierdo",
+      "Agustina Ferré Fabregat"
+    ],
+    "father_name": "Agustí Reverté Izquierdo",
+    "mother_name": "Agustina Ferré Fabregat",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 16 d'abril de 1855 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

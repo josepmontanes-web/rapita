@@ -1,0 +1,75 @@
+{
+  "id": "1433_josefa_chillida_cruelles",
+  "source_id": "1433",
+  "row_ref": "1433. Josefa Chillida Cruelles",
+  "name": "Josefa Chillida Cruelles",
+  "gender": "female",
+  "birth": {
+    "date": "1831-02-23",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1441_joaquin_chillida_querol"
+    ],
+    "father": "1441_joaquin_chillida_querol",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Chillida Querol",
+      "Francisca Cruelles Reverté"
+    ],
+    "father_name": "Joaquín Chillida Querol",
+    "mother_name": "Francisca Cruelles Reverté",
+    "spouse_names": [
+      "José Rosales Granell"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Zaragoza",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 23 de febrer de 1831 a la Ràpita.\n\nPadrins: Francisco Zaragoza i Josefa Sol.\n\nCasament: el 28 de febrer de 1854 amb José Rosales Granell de la Ràpita [1830]. Testimonis: Miguel Ferré i Agustín Reverté.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

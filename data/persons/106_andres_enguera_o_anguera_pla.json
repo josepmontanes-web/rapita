@@ -1,0 +1,74 @@
+{
+  "id": "106_andres_enguera_o_anguera_pla",
+  "source_id": "106",
+  "row_ref": "106. Andrés Enguera [o Anguera] Pla",
+  "name": "Andrés Enguera [o Anguera] Pla",
+  "gender": "male",
+  "birth": {
+    "date": "1833-11-30",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "129_sebastian_anguera_sancho",
+      "3987_francisca_pla_fonollosa"
+    ],
+    "father": "129_sebastian_anguera_sancho",
+    "mother": "3987_francisca_pla_fonollosa",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Sebastian Anguera Sancho",
+      "Francisca Pla Fonollosa"
+    ],
+    "father_name": "Sebastián Enguera Sancho",
+    "mother_name": "Francisca Plà Fonollosa",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Pascual Fortes",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  el 30 de novembre de 1833 a la Ràpita.\n\nEls padrins son Pascual Fortes d'Ulldecona i Josefa Pla.\n\nProfessió: pagès.\n\nCasament: amb … Fibla Bel… (filla de Joaquín Fibla d'Alcanar i Rosa Bel...).\n\nFills: Juan [1876].\n\nNo signa la declaració de naixement del fill al registre civil per no saber..",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

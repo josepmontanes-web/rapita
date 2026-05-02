@@ -1,0 +1,91 @@
+{
+  "id": "4655_francisca_salom_ponset",
+  "source_id": "4655",
+  "row_ref": "4655. Francisca Salom Ponset",
+  "name": "Francisca Salom Ponset",
+  "gender": "female",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Sevilla"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4654_antonio_salom"
+    ],
+    "father": "4654_antonio_salom",
+    "mother": null,
+    "spouse": [
+      "1003_juan_carbo_fibla"
+    ],
+    "children": [
+      "1007_francisco_carbo_salom",
+      "1008_juan_carbo_salom",
+      "1009_jose_agustin_carbo_salom",
+      "1010_joaquina_carbo_saloma",
+      "1011_rosa_carbo_saloma",
+      "1012_teresa_carbo_salomo"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Salom",
+      "Isabel Ponset"
+    ],
+    "father_name": "Antonio Salom",
+    "mother_name": "Isabel Ponset",
+    "spouse_names": [
+      "Juan Carbó Fibla"
+    ],
+    "children_names": [
+      "Francisco Carbó Salom",
+      "Juan Carbó Salom",
+      "José Agustín Carbó Salom",
+      "Joaquina Carbó Saloma",
+      "Rosa Carbó Salóma",
+      "Teresa Carbó Salomó"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Sevilla [aprox. 1790]. A la partida de defunció d'una filla diu que es de Tortosa.\n\nCasament: el 20 de juliol de 1809 amb Juan Carbó Fibla d'Amposta [1789]. Es casa als 19 anys.\n\nFills: José Agustín [1811], Juan [1816], Rosa [1820], Joaquina [1824], Teresa [1827] i Francisco [1829].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

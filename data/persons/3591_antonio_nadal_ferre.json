@@ -1,0 +1,75 @@
+{
+  "id": "3591_antonio_nadal_ferre",
+  "source_id": "3591",
+  "row_ref": "3591. Antonio Nadal Ferré",
+  "name": "Antonio Nadal Ferré",
+  "gender": "male",
+  "birth": {
+    "date": "1798-09-20",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2061_delfina_antonia_ferre_martinez"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Nadal Bigatana",
+      "María Angela Ferré Sánchez"
+    ],
+    "father_name": "Josef Nadal Bigatana",
+    "mother_name": "María Angela Ferré Sánchez",
+    "spouse_names": [],
+    "children_names": [
+      "Delfina Antonia Ferré Martínez"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Antonio Carcasó y Mesias",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 20 de setembre de 1798 a la Ràpita.\n\nPadrins: Don Antonio Carcasó y Mesias \"cabo de rentas reales en esta población y natural de Cartagena\" i Mariana Pascual.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

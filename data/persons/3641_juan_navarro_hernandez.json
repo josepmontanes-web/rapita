@@ -1,0 +1,99 @@
+{
+  "id": "3641_juan_navarro_hernandez",
+  "source_id": "3641",
+  "row_ref": "3641. Juan Navarro Hernández",
+  "name": "Juan Navarro Hernández",
+  "gender": "male",
+  "birth": {
+    "date": "1775-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1845-09-04",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1568_rosa_comi_caldero"
+    ],
+    "children": [
+      "3599_juan_navarro_ayet",
+      "3619_juan_navarro_comi",
+      "3620_francisco_navarro_comi",
+      "3621_pablo_marcelino_navarro_comi",
+      "3622_teresa_navarro_comi",
+      "3623_manuela_navarro_comi",
+      "3624_josefa_navarro_comi",
+      "3625_esperanza_navarro_comi",
+      "3626_rosa_navarro_comi",
+      "3627_calamanda_navarro_comi",
+      "3643_josefa_navarro_hernandez"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Navarro",
+      "Paula Hernández"
+    ],
+    "father_name": "Juan Navarro",
+    "mother_name": "Paula Hernández",
+    "spouse_names": [
+      "Rosa Comí Calderó"
+    ],
+    "children_names": [
+      "Juan Navarro Ayet",
+      "Juan Navarro Comí",
+      "Francisco Navarro Comí",
+      "Pablo Marcelino Navarro Comí",
+      "Teresa Navarro Comí",
+      "Manuela Navarro Comí",
+      "Josefa Navarro Comí",
+      "Esperanza Navarro Comí",
+      "Rosa Navarro Comí",
+      "Calamanda Navarro Comí",
+      "Josefa Navarro Hernández"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1775]. \n\nCasament: amb Rosa Comí Calderó de Tortosa [1780].\n\nFills: Esperanza (Tortosa) [1807], Rosa (Tortosa) [1809], Juan [1814], Manuela [1816], Josefa [1818], Calamanda [1821], Francisco [1823], Pablo Marcelino [1827] i Teresa [1829].\n\nDefunció: el 4 de setembre de 1845 a la Ràpita. Va morir als 70 anys.\n\nEs germà de Domingo Navarro Hernández [1779] i Josefa Navarro Hernández [1792].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

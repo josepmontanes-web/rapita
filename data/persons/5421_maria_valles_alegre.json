@@ -1,0 +1,68 @@
+{
+  "id": "5421_maria_valles_alegre",
+  "source_id": "5421",
+  "row_ref": "5421. María Vallés Alegre",
+  "name": "María Vallés Alegre",
+  "gender": "female",
+  "birth": {
+    "date": "1850-01-01",
+    "place": "Cabanes"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Cabanes [aprox. 1850].\n\nCasament: amb Juan Gavaldà Risa de Roquetes [1850].\n\nFills: María de la Cinta [1876] i Juan [1879].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

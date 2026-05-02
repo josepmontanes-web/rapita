@@ -1,0 +1,71 @@
+{
+  "id": "4504_juan_bautista_ros_comi",
+  "source_id": "4504",
+  "row_ref": "4504. Juan Bautista Ros Comí",
+  "name": "Juan Bautista Ros Comí",
+  "gender": "male",
+  "birth": {
+    "date": "1834-11-14",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Ros Llonarc",
+      "Josefa Comí Comí"
+    ],
+    "father_name": "Antonio Ros Llonarc",
+    "mother_name": "Josefa Comí Comí",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Onorato Pastor",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 14 de novembre de 1834 a la Ràpita.\n\nPadrins: Onorato Pastor i Francisca Casajust.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

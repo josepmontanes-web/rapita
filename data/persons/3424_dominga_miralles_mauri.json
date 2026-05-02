@@ -1,0 +1,75 @@
+{
+  "id": "3424_dominga_miralles_mauri",
+  "source_id": "3424",
+  "row_ref": "3424. Dominga Miralles Mauri",
+  "name": "Dominga Miralles Mauri",
+  "gender": "female",
+  "birth": {
+    "date": "1834-01-01",
+    "place": "Freginals"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "4042_vicente_puig_argento"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustín Miralles",
+      "Maria Mauri"
+    ],
+    "father_name": "Agustín Miralles",
+    "mother_name": "Maria Mauri",
+    "spouse_names": [
+      "Vicente Puig Argentó"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Freginals [aprox. 1834]. \n\nCasament: l'1 de febrer de 1854 amb Vicente Puig Argentó de Santa Bàrbara [1829]. Es casa als 20 anys. Testimonis: José Puig i Francisco Villobí.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

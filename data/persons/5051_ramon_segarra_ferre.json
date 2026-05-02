@@ -1,0 +1,68 @@
+{
+  "id": "5051_ramon_segarra_ferre",
+  "source_id": "5051",
+  "row_ref": "5051. Ramón Segarra Ferré",
+  "name": "Ramón Segarra Ferré",
+  "gender": "male",
+  "birth": {
+    "date": "1857-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1857].\n\nProfessió: mariner.\n\nCasament: el 22 de setembre de 1881 amb Dolores Balagué Fusté [1860]. Es casa als 24 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

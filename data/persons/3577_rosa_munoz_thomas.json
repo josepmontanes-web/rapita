@@ -1,0 +1,84 @@
+{
+  "id": "3577_rosa_munoz_thomas",
+  "source_id": "3577",
+  "row_ref": "3577. Rosa Muñoz Thomas",
+  "name": "Rosa Muñoz Thomas",
+  "gender": "female",
+  "birth": {
+    "date": "1819-06-24",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3570_vicente_munoz_ibanez",
+      "5306_teresa_thomas_vidal"
+    ],
+    "father": "3570_vicente_munoz_ibanez",
+    "mother": "5306_teresa_thomas_vidal",
+    "spouse": [
+      "4638_pedro_safont_pasqual"
+    ],
+    "children": [
+      "4633_carmen_safont_munoz",
+      "4634_luisa_safont_munoz"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Muñoz Ibáñez",
+      "Teresa Thomas Vidal"
+    ],
+    "father_name": "Vicente Muñoz Ibáñez",
+    "mother_name": "Teresa Thomas Vidal",
+    "spouse_names": [
+      "Pedro Safont Pasqual"
+    ],
+    "children_names": [
+      "Carmen Safont Muñoz",
+      "Luísa Safont Muñoz"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Pelegrín Manguilles",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 24 de juny de 1819 a la Ràpita.\n\nPadrins: Pelegrín Manguilles i Rosa Manguilles.\n\nCasament: amb Pedro Safont Pasqual de la Ràpita [1817].\n\nFills: Carmen [1840] i Luísa [1842].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

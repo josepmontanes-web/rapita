@@ -1,0 +1,77 @@
+{
+  "id": "1987_bautista_fernando_curto",
+  "source_id": "1987",
+  "row_ref": "1987. Bautista Fernando Curto",
+  "name": "Bautista Fernando Curto",
+  "gender": "male",
+  "birth": {
+    "date": "1808-11-06",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1987_bautista_fernando_curto"
+    ],
+    "father": "1987_bautista_fernando_curto",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1987_bautista_fernando_curto"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Fernando Curto",
+      "Maria Curto Pla"
+    ],
+    "father_name": "Bautista Fernando Fatsini",
+    "mother_name": "Maria Curto Pla",
+    "spouse_names": [],
+    "children_names": [
+      "Bautista Fernando Curto"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Josef Vilar",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 6 de noviembre de 1808 a la Ràpita.\n\nPadrins: José Vilar i Raymunda Cortiella.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "5468_agustin_verge_monserrat",
+  "source_id": "5468",
+  "row_ref": "5468. Agustín Verge Monserrat",
+  "name": "Agustín Verge Monserrat",
+  "gender": "male",
+  "birth": {
+    "date": "1823-05-29",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5463_andres_verge_gilabert"
+    ],
+    "father": "5463_andres_verge_gilabert",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Andrés Verge Gilabert",
+      "Vicenta Montserrat Guasch"
+    ],
+    "father_name": "Andrés Verge Gilabert",
+    "mother_name": "Vicenta Montserrat Guasch",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Agustín Izquierdo",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 29 de maig de 1823 a la Ràpita.\n\nPadrins: Agustín Izquierdo i María Reverter.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

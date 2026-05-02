@@ -1,0 +1,73 @@
+{
+  "id": "700_maria_francisca_bese_navarro",
+  "source_id": "700",
+  "row_ref": "700. Maria Francisca Besé Navarro",
+  "name": "Maria Francisca Besé Navarro",
+  "gender": "female",
+  "birth": {
+    "date": "1822-11-02",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3648_rosa_navarro_lluis"
+    ],
+    "father": null,
+    "mother": "3648_rosa_navarro_lluis",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Besé Queral",
+      "Rosa Navarro Lluís"
+    ],
+    "father_name": "Juan Besé Queral",
+    "mother_name": "Rosa Navarro Lluís",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Tomás Navarro",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 2 de novembre de 1822 a la Ràpita.\n\nPadrins: Tomás Navarro i María Vidal.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

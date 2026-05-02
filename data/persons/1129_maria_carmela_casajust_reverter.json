@@ -1,0 +1,74 @@
+{
+  "id": "1129_maria_carmela_casajust_reverter",
+  "source_id": "1129",
+  "row_ref": "1129. Maria Carmela Casajust Reverter",
+  "name": "Maria Carmela Casajust Reverter",
+  "gender": "female",
+  "birth": {
+    "date": "1834-07-16",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1115_rafael_casajust_michavila",
+      "4262_maria_reverter_forner"
+    ],
+    "father": "1115_rafael_casajust_michavila",
+    "mother": "4262_maria_reverter_forner",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Rafael Casajust Michavila",
+      "María Reverter Forner"
+    ],
+    "father_name": "Rafael Casajust Michavila",
+    "mother_name": "Maria Reverter Forner",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Honorato Pastor",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 16 de juliol de 1834 a la Ràpita.\n\nPadrins: Honorato Pastor de Vinaròs i Francisca Casajust.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

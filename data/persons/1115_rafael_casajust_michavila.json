@@ -1,0 +1,94 @@
+{
+  "id": "1115_rafael_casajust_michavila",
+  "source_id": "1115",
+  "row_ref": "1115. Rafael Casajust Michavila",
+  "name": "Rafael Casajust Michavila",
+  "gender": "male",
+  "birth": {
+    "date": "1799-02-16",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1834-01-01",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1094_ignacio_casajust_ballester",
+      "3338_vicenta_michavila_bayarri"
+    ],
+    "father": "1094_ignacio_casajust_ballester",
+    "mother": "3338_vicenta_michavila_bayarri",
+    "spouse": [
+      "4262_maria_reverter_forner"
+    ],
+    "children": [
+      "1125_teresa_casajust_reverte",
+      "1126_maria_agustina_casajust_reverte",
+      "1127_maria_dolores_casajust_reverte",
+      "1128_felicia_casajust_reverte",
+      "1129_maria_carmela_casajust_reverter",
+      "1130_juan_bautista_casajust_reverte",
+      "1131_jose_ramon_casajust_reverte"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Ignacio Casajust Ballester",
+      "Vicenta Michavila Bayarri"
+    ],
+    "father_name": "Ignacio Casajust Ballester",
+    "mother_name": "Vicenta Michavila Bayarri",
+    "spouse_names": [
+      "Maria Reverter Forner"
+    ],
+    "children_names": [
+      "Teresa Casajust Reverté",
+      "María Agustina Casajust Reverté",
+      "María Dolores Casajust Reverté",
+      "Felicia Casajust Reverté",
+      "Maria Carmela Casajust Reverter",
+      "Juan Bautista Casajust Reverté",
+      "José Ramón Casajust Reverté"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Manuel Benlloch",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 16 de febrer de 1799 a la Ràpita.\n\nPadrins: Manuel Benlloch i Rafaela Guasch.\n\nCasament: el 24 de novembre de 1821 amb María Reverter Forner d'Alcanar [1801].\n\nFills: María de los Dolores [1823], Teresa [1825], María Agustina [1827], José Ramón [1829], Juan Bautista [1830], Felicia [1832] i María Carmela [1834].\n\nDefunció: l'1 de gener de 1834 a la Ràpita. No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "5280_catarina_teixidor_sancho",
+  "source_id": "5280",
+  "row_ref": "5280. Catarina Teixidor Sancho",
+  "name": "Catarina Teixidor Sancho",
+  "gender": "female",
+  "birth": {
+    "date": "1834-02-13",
+    "place": "Sant Carles dela Ràpita"
+  },
+  "death": {
+    "date": "1834-06-12",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5275_pedro_teixidor_lucena",
+      "4945_maria_sancho_subirats"
+    ],
+    "father": "5275_pedro_teixidor_lucena",
+    "mother": "4945_maria_sancho_subirats",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Teixidor Lucena",
+      "María Sancho Subirats"
+    ],
+    "father_name": "Pedro Teixidó Lucena",
+    "mother_name": "Maria Sancho Subirats",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Sebastián Sabater",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 13 de febrer de 1834 a la Ràpita.\n\nPadrins: Sebastián Sabater i Antonia López.\n\nDefunció: el 12 de juny de 1834 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

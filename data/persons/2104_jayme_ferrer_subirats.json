@@ -1,0 +1,73 @@
+{
+  "id": "2104_jayme_ferrer_subirats",
+  "source_id": "2104",
+  "row_ref": "2104. Jayme Ferrer Subirats",
+  "name": "Jayme Ferrer Subirats",
+  "gender": "male",
+  "birth": {
+    "date": "1819-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1823-03-30",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "429_pedro_balaguer_ferrer"
+    ],
+    "father": "429_pedro_balaguer_ferrer",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Balaguer Ferrer",
+      "Teresa Subirats"
+    ],
+    "father_name": "Pedro Ferrer",
+    "mother_name": "Teresa Subirats",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1819].\n\nDefunció: el 30 de març de 1823 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

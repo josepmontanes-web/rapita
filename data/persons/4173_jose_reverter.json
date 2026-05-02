@@ -1,0 +1,90 @@
+{
+  "id": "4173_jose_reverter",
+  "source_id": "4173",
+  "row_ref": "4173. José Reverter",
+  "name": "José Reverter",
+  "gender": "male",
+  "birth": {
+    "date": "1760-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1807-03-02",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "4825_rosa_sancho"
+    ],
+    "children": [
+      "4208_joaquin_reverter_barrera",
+      "4316_maria_reverter_queralt",
+      "4317_bernarda_reverter_queralt",
+      "4318_miguel_reverter_queralt",
+      "4343_jose_reverter_sancho",
+      "4344_miguel_reverter_sancho",
+      "4345_serafina_reverter_sancho",
+      "4346_antonia_reverter_sancho"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Rosa Sancho"
+    ],
+    "children_names": [
+      "Joaquín Reverter Barrera",
+      "Maria Reverter Queralt",
+      "Bernarda Reverter Queralt",
+      "Miguel Reverter Queralt",
+      "José Reverter Sancho",
+      "Miguel Reverter Sancho",
+      "Serafina Reverter Sancho",
+      "Antonia Reverter Sancho"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1760]. \n\nCasament: amb Rosa Sancho d'Alcanar [1761].\n\nFills: José (Alcanar) [1787], Miguel (Alcanar) [1788], Serafina (Alcanar) [1791] i Antonia (Alcanar) [1800].\n\nDefunció: el 2 de març de 1807 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

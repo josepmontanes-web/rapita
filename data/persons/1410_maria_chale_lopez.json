@@ -1,0 +1,77 @@
+{
+  "id": "1410_maria_chale_lopez",
+  "source_id": "1410",
+  "row_ref": "1410. María Chalé López",
+  "name": "María Chalé López",
+  "gender": "female",
+  "birth": {
+    "date": "1829-07-10",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2997_manuela_lopez_garcia"
+    ],
+    "father": null,
+    "mother": "2997_manuela_lopez_garcia",
+    "spouse": [
+      "604_vicente_beltran_ferre"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Esteban Chaler Perayre",
+      "Manuela López García"
+    ],
+    "father_name": "Esteban Chaler Perayre",
+    "mother_name": "Manuela López García",
+    "spouse_names": [
+      "Vicente Beltran Ferré"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Mola",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 10 de juliol de 1829 a la Ràpita.\n\nPadrins: Francisco Mola i María Casachust.\n\nCasament: el 19 d'abril de 1852 amb Vicente Beltran Ferré de la Ràpita [1830]. Testimonis: Fermín Ferré i Domingo Castellà.\n\nFills: Francisco [1853] i María [1856].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

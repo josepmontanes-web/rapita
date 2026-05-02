@@ -1,0 +1,94 @@
+{
+  "id": "5463_andres_verge_gilabert",
+  "source_id": "5463",
+  "row_ref": "5463. Andrés Verge Gilabert",
+  "name": "Andrés Verge Gilabert",
+  "gender": "male",
+  "birth": {
+    "date": "1785-01-01",
+    "place": "La Jana"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "5465_raymunda_verge_monserrat",
+      "5466_maria_carlina_verge_monserrat",
+      "5467_eduardo_verge_monserrat",
+      "5468_agustin_verge_monserrat",
+      "5469_rafaela_verge_montserrat",
+      "5470_prudencio_verge_montserrat",
+      "5471_manuel_verge_montserrat",
+      "5472_peregrin_verge_montserrat",
+      "5473_juana_verge_montserrat",
+      "5474_francisca_verge_monserrat",
+      "5475_antonio_verge_montserrat"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Vicenta Monserrat"
+    ],
+    "children_names": [
+      "Raymunda Verge Monserrat",
+      "María Carlina Verge Monserrat",
+      "Eduardo Verge Monserrat",
+      "Agustín Verge Monserrat",
+      "Rafaela Verge Montserrat",
+      "Prudencio Verge Montserrat",
+      "Manuel Verge Montserrat",
+      "Peregrín Verge Montserrat",
+      "Juana Verge Montserrat",
+      "Francisca Verge Monserrat",
+      "Antonio Verge Montserrat"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Barber"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a La Jana [aprox. 1785].\n\nProfessió: barber. Podria ser cirujà.\n\nCasament: amb Vicenta Montserrat Guasch d'Amposta [1787].\n\nFills: Rafaela [1805], Prudencio (les Salines) [1810], Manuel [1814], Peregrín [1816], Antonio [1819], Juana [1820], Francisca [1822], Agustín [1823], Eduardo [1825], María Carlina [1828 i Raymunda [1833].\n\nPer Real Ordre de 16 de març de 1826,  el 13 de maig de 1828 s'envia una carta a la Junta Superior Gubernativa de Barcelona denunciant que está exercint de cirujà i sangrador sense tenir cap titulació i \"causando perjuicios de mucha consideración a la Humanidad\", per això ha de ser desterrat de la població com a minim a 10 leguas. Signen Pablo Carsi i Francisco Vidal. (ACA Real Patrimoni Caixa 35).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "4378_miguel_agustin_reverter_torta",
+  "source_id": "4378",
+  "row_ref": "4378. Miguel Agustín Reverter Torta",
+  "name": "Miguel Agustín Reverter Torta",
+  "gender": "male",
+  "birth": {
+    "date": "1844-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1844-09-07",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4344_miguel_reverter_sancho",
+      "5397_concepcion_torta_subirats"
+    ],
+    "father": "4344_miguel_reverter_sancho",
+    "mother": "5397_concepcion_torta_subirats",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Reverter Sancho",
+      "Concepción Torta Subirats"
+    ],
+    "father_name": "Miguel Reverter Sancho",
+    "mother_name": "Concepción Torta Subirats",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1844]. \n\nDefunció: el 7 de setembre de 1844 a la Ràpita. Va morir pàrvul.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

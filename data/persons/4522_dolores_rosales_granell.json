@@ -1,0 +1,78 @@
+{
+  "id": "4522_dolores_rosales_granell",
+  "source_id": "4522",
+  "row_ref": "4522. Dolores Rosales Granell",
+  "name": "Dolores Rosales Granell",
+  "gender": "female",
+  "birth": {
+    "date": "1837-05-27",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4556_jose_antonio_rosales_valls",
+      "2662_tomasa_granell_puig"
+    ],
+    "father": "4556_jose_antonio_rosales_valls",
+    "mother": "2662_tomasa_granell_puig",
+    "spouse": [
+      "1432_tomas_chillida_cruelles"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Antonio Rosales Valls",
+      "Tomasa Granell Puig"
+    ],
+    "father_name": "José Antonio Rosales Valls",
+    "mother_name": "Tomasa Granell Puig",
+    "spouse_names": [
+      "Tomás Chillida Cruelles"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Tomás Navarro",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 27 de maig de 1837 a la Ràpita.\n\nPadrí: Tomás Navarro.\n\nCasament: el 21 d'abril de 1855 amb Tomás Chillida Cruelles de la Ràpita [1828]. Viuen al carrer Sant Roc. Testimonis: Juan Fibla i Agustín Reverté.\n\nFills: Francisca [1855], Inés [1864], José [1870], Tomás [1870], Dolores [1870] i María de la Cinta Filomena [1876].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

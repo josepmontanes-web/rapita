@@ -1,0 +1,77 @@
+{
+  "id": "3504_maria_moreso_balaguer",
+  "source_id": "3504",
+  "row_ref": "3504. María Moreso Balaguer",
+  "name": "María Moreso Balaguer",
+  "gender": "female",
+  "birth": {
+    "date": "1834-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3506_francisco_moreso_besalduch"
+    ],
+    "father": "3506_francisco_moreso_besalduch",
+    "mother": null,
+    "spouse": [
+      "1302_francisco_castella_navarro"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Moreso Besalduch",
+      "Josefa Balaguer"
+    ],
+    "father_name": "Francisco Moreso",
+    "mother_name": "Josefa Balaguer",
+    "spouse_names": [
+      "Francisco Castellà Navarro"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1834]. \n\nCasament: el 19 d'abril de 1852 amb Francisco Castellà Navarro de Tortosa [1828]. Quan es casa té 18 anys. Testimonis: Fermín Ferré i Domingo Castellà.\n\nFills: Francisca [1853], Dolores [1867] i Rosa [1869].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

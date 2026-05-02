@@ -1,7 +1,7 @@
 {
   "id": "39_jose_agramunt",
   "source_id": "39",
-  "row_ref": "39",
+  "row_ref": "39. José Agramunt",
   "name": "José Agramunt",
   "gender": "male",
   "birth": {
@@ -22,17 +22,41 @@
   },
   "family": {
     "parents": [],
+    "father": null,
+    "mother": null,
     "spouse": [
-      "18_antonia_asensi_sancho"
+      "1604_antonia_conesa"
     ],
-    "children": []
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
   },
   "relations_detail": {
     "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
     "spouse_names": [
       "Antonia Conesa"
     ],
-    "children_names": []
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
   },
   "occupation": {
     "title": null

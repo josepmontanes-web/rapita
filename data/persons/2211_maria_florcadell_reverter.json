@@ -1,0 +1,74 @@
+{
+  "id": "2211_maria_florcadell_reverter",
+  "source_id": "2211",
+  "row_ref": "2211. María Florcadell Reverter",
+  "name": "María Florcadell Reverter",
+  "gender": "female",
+  "birth": {
+    "date": "1839-07-28",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1839-08-02",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2198_pelegrin_florcadell_o_forcadell_espinach",
+      "4351_maria_reverter_sancho"
+    ],
+    "father": "2198_pelegrin_florcadell_o_forcadell_espinach",
+    "mother": "4351_maria_reverter_sancho",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pelegrín Florcadell [o Forcadell] Espinach",
+      "María Reverter Sancho"
+    ],
+    "father_name": "Pelegrín Florcadell Espinach",
+    "mother_name": "María Reverter Sancho",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Agustín Reverter",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 28 de juliol de 1839 a la Ràpita.\n\nPadrins: Agustín Reverter i Tecla Espinach.\n\nDefunció: el 2 d'agost de 1839 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

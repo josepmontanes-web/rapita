@@ -1,0 +1,76 @@
+{
+  "id": "4620_mariana_safon_castella",
+  "source_id": "4620",
+  "row_ref": "4620. Mariana Safon Castellà",
+  "name": "Mariana Safon Castellà",
+  "gender": "female",
+  "birth": {
+    "date": "1834-11-28",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4637_mariano_safon_pasqual",
+      "1234_josefa_castella_colomines"
+    ],
+    "father": "4637_mariano_safon_pasqual",
+    "mother": "1234_josefa_castella_colomines",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Mariano Safon Pasqual",
+      "Josefa Castellà Colomines"
+    ],
+    "father_name": "Mariano Safon Pasqual",
+    "mother_name": "Josefa Castellà Colomines",
+    "spouse_names": [
+      "Eugenio Albiol Simó"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Vicente Puig",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 28 de novembre de 1834 a la Ràpita.\n\nPadrins: Vicente Puig i María Safont.\n\nCasament: el 27 de gener de 1855 amb Eugenio Albiol [o Obiol] Simó de Peníscola [1833]. Testimonis: Buenaventura Degollada i Bruno Safont.\n\nFills: Eugenio [1859].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

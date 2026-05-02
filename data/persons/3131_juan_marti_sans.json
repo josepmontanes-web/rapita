@@ -1,0 +1,91 @@
+{
+  "id": "3131_juan_marti_sans",
+  "source_id": "3131",
+  "row_ref": "3131. Juan Martí Sans",
+  "name": "Juan Martí Sans",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Cambrils"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1788_maria_escardo_cachot"
+    ],
+    "children": [
+      "3120_maria_ana_marti_escardo",
+      "3121_juan_bautista_marti_escardo",
+      "3122_buenaventura_marti_escardo",
+      "3123_teresa_marti_fornos",
+      "4963_vicenta_sans_arlandes",
+      "4964_casiano_sans_arlandes",
+      "4965_francisco_sans_arlandes"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Martí",
+      "Maria Sans"
+    ],
+    "father_name": "José Martí",
+    "mother_name": "Maria Sans",
+    "spouse_names": [
+      "Maria Escardo Cachot"
+    ],
+    "children_names": [
+      "Maria Ana Martí Escardó",
+      "Juan Bautista Martí Escardó",
+      "Buenaventura Martí Escardó",
+      "Teresa Martí Fornós",
+      "Vicenta Sans Arlandes",
+      "Casiano Sans Arlandes",
+      "Francisco Sans Arlandes"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Cambrils [aprox. 1800]. \n\nCasament: el 18 d'agost de 1827 amb María Escardó Cachot de Tortosa [1800].\n\nFills: María Ana [1829], Juan Bautista [1836] i Buenaventura [1838].\n\nDe l'1 de març de 1836 al 30 de juny de 1839 ha de pagar un lloguer de 14 Rs mensuals pel pis alt de la casa 3 de la mançana 2. (AGP.PER.LEG.1073/23 [Juan Vecino]).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

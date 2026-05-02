@@ -1,0 +1,74 @@
+{
+  "id": "1130_juan_bautista_casajust_reverte",
+  "source_id": "1130",
+  "row_ref": "1130. Juan Bautista Casajust Reverté",
+  "name": "Juan Bautista Casajust Reverté",
+  "gender": "male",
+  "birth": {
+    "date": "1830-10-17",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1832-09-03",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1115_rafael_casajust_michavila",
+      "4262_maria_reverter_forner"
+    ],
+    "father": "1115_rafael_casajust_michavila",
+    "mother": "4262_maria_reverter_forner",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Rafael Casajust Michavila",
+      "María Reverter Forner"
+    ],
+    "father_name": "Rafael Casajust Michavila",
+    "mother_name": "Maria Reverter Forner",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Balagué",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 17 d'octubre de 1830 a la Ràpita.\n\nPadrins: Juan Balagué i Paula Vidal.\n\nDefunció: el 3 de setembre de 1832 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

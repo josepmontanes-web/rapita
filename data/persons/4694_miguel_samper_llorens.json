@@ -1,0 +1,73 @@
+{
+  "id": "4694_miguel_samper_llorens",
+  "source_id": "4694",
+  "row_ref": "4694. Miguel Samper Llorens",
+  "name": "Miguel Samper Llorens",
+  "gender": "male",
+  "birth": {
+    "date": "1831-05-07",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4699_vicente_samper_moncho"
+    ],
+    "father": "4699_vicente_samper_moncho",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Samper Moncho",
+      "Rosa Llorens García"
+    ],
+    "father_name": "Vicente Samper Moncho",
+    "mother_name": "Rosa Llorens García",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Miguel Sampere",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 7 de maig de 1831 a la Ràpita.\n\nPadrins: Miguel Sampere i Peregrina Cambra.\n\nProfessió: mariner.\n\nCasament: amb María Cartes García de Tortosa [1840].\n\nFills: Juan [1877] i Federico [1880].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "3701_manuela_nicolau_sacanella",
+  "source_id": "3701",
+  "row_ref": "3701. Manuela Nicolau Sacanella",
+  "name": "Manuela Nicolau Sacanella",
+  "gender": "female",
+  "birth": {
+    "date": "1845-01-01",
+    "place": "Vallderoures"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vallderoures [aprox. 1845].\n\nCasament: amb José Fabregat Segarra de la Ràpita [1840]. Viuen al carrer de la Parra, 3.\n\nFills: José [1876] i Ildefonso [1880].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

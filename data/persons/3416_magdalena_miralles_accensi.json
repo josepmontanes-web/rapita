@@ -1,0 +1,68 @@
+{
+  "id": "3416_magdalena_miralles_accensi",
+  "source_id": "3416",
+  "row_ref": "3416. Magdalena Miralles Accensi",
+  "name": "Magdalena Miralles Accensi",
+  "gender": "female",
+  "birth": {
+    "date": "1818-01-01",
+    "place": "Freginals"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Freginals [aprox. 1818].\n\nCasament: amb Juan Chalé López de la Ràpita [1821].\n\nFills: Jacinto Juan [1842], Rosa [1850] i Josefa [1853]. \n\nDefunció: el 4 de desembre de 1876 a la Ràpita. Va morir als 58 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

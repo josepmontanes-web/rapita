@@ -1,0 +1,80 @@
+{
+  "id": "4825_rosa_sancho",
+  "source_id": "4825",
+  "row_ref": "4825. Rosa Sancho",
+  "name": "Rosa Sancho",
+  "gender": "female",
+  "birth": {
+    "date": "1761-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1837-06-08",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "4343_jose_reverter_sancho",
+      "4344_miguel_reverter_sancho",
+      "4345_serafina_reverter_sancho",
+      "4346_antonia_reverter_sancho"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Josef Reverter"
+    ],
+    "children_names": [
+      "José Reverter Sancho",
+      "Miguel Reverter Sancho",
+      "Serafina Reverter Sancho",
+      "Antonia Reverter Sancho"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1761]. \n\nCasament: amb José Reverter d'Alcanar [1760].\n\nFills: José (Alcanar) [1787], Miguel (Alcanar) [1788], Serafina (Alcanar) [1791] i Antonia (Alcanar) [1800].\n\nDefunció: el 8 de juny de 1837 a la Ràpita. Fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

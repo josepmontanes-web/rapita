@@ -1,0 +1,68 @@
+{
+  "id": "1793_antonio_escardo_llovera",
+  "source_id": "1793",
+  "row_ref": "1793. Antonio Escardó Llovera",
+  "name": "Antonio Escardó Llovera",
+  "gender": "male",
+  "birth": {
+    "date": "1810-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "A D. Antonio Escardó Llovera patrón de la matricula de la ciudad de Tortosa todo aquel solar de terreno para edificar de extensión de 5700 palmos catalanes cuadrados superficiales sito en la calle de San Francisco de la Población de San Carlos de la Rápita, lindante con dicha calle, con la calle de la Dársena del antiguo canal y con huerto de D. Pedro Costa.[]\n7 de septiembre de 1857.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

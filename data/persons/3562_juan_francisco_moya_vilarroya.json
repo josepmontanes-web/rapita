@@ -1,0 +1,73 @@
+{
+  "id": "3562_juan_francisco_moya_vilarroya",
+  "source_id": "3562",
+  "row_ref": "3562. Juan Francisco Moya Vilarroya",
+  "name": "Juan Francisco Moya Vilarroya",
+  "gender": "male",
+  "birth": {
+    "date": "1804-05-14",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1805-05-30",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3550_juan_moia_oruspina_o_ruspina"
+    ],
+    "father": "3550_juan_moia_oruspina_o_ruspina",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Moia Oruspina [o Ruspina]",
+      "Theresa Vilarroya Perolada"
+    ],
+    "father_name": "Juan Moya Oruspina",
+    "mother_name": "Theresa Vilarroya Perolada",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Cachot",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 14 de maig de 1804 a la Ràpita.\n\nPadrins: Francisco Cachot i Francisca Castellà.\n\nDefunció: el 30 de maig de 1805 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

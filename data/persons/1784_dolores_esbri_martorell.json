@@ -1,0 +1,68 @@
+{
+  "id": "1784_dolores_esbri_martorell",
+  "source_id": "1784",
+  "row_ref": "1784. Dolores Esbrí Martorell",
+  "name": "Dolores Esbrí Martorell",
+  "gender": "female",
+  "birth": {
+    "date": "1852-01-01",
+    "place": "Barcelona"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Barcelona [aprox. 1852].\n\nCasament: el 28 de maig de 1877 amb José Arnau Pascual de Vinaròs [1852]. Es casa als 25 anys.\n\nFills: José [1878].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

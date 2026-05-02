@@ -1,0 +1,78 @@
+{
+  "id": "5301_maria_tomas_sanchis",
+  "source_id": "5301",
+  "row_ref": "5301. María Tomás Sanchís",
+  "name": "María Tomás Sanchís",
+  "gender": "female",
+  "birth": {
+    "date": "1805-01-01",
+    "place": "Godall"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5288_joaquin_tomas",
+      "4710_joaquina_sanchis_o_sanchez"
+    ],
+    "father": "5288_joaquin_tomas",
+    "mother": "4710_joaquina_sanchis_o_sanchez",
+    "spouse": [
+      "177_francisco_arbo_ingles"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Tomás",
+      "Joaquina Sanchís [o Sánchez]"
+    ],
+    "father_name": "Joaquín Tomas",
+    "mother_name": "Joaquina Sanchís",
+    "spouse_names": [
+      "Francisco Arbó Inglès"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Godall [aprox. 1805].\n\nCasament: el 21 de febrer de 1826 amb Francisco Arbó Inglés de Benicarló [1800].\n\nFills: Providencia o Prudencia [1827], Dolores [1829], Rafaela [1831], Simona [1833], Francisco [1836], José Agustín [1839], María Manuela [1841] i Tomasa [1845].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "712_thomas_biosca_grau",
+  "source_id": "712",
+  "row_ref": "712. Thomas  Biosca Grau",
+  "name": "Thomas Biosca Grau",
+  "gender": "male",
+  "birth": {
+    "date": "1837-10-26",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "707_pedro_biosca_cid"
+    ],
+    "father": "707_pedro_biosca_cid",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Biosca Cid",
+      "Juana Grau Jinerés"
+    ],
+    "father_name": "Pedro Biosca López",
+    "mother_name": "Juana Grau Jinerés",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Tomás Grau",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 26 d'octubre de 1837 a la Ràpita.\n\nPadrins: Tomás Grau i Francisca Rosales.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

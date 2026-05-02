@@ -1,0 +1,93 @@
+{
+  "id": "2531_jose_gil_queralt",
+  "source_id": "2531",
+  "row_ref": "2531. José Gil Queralt",
+  "name": "José Gil Queralt",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4896_bautista_sancho_gil"
+    ],
+    "father": "4896_bautista_sancho_gil",
+    "mother": null,
+    "spouse": [
+      "4900_maria_sancho_matamoros"
+    ],
+    "children": [
+      "2535_agapita_gil_sancho",
+      "2536_josefa_maria_gil_sancho",
+      "2537_maria_de_la_cinta_gil_sancho",
+      "2538_maria_ana_gil_sancho",
+      "2539_juan_gil_sancho",
+      "2540_juan_carlos_gil_sancho",
+      "4103_maria_queralt_garriga"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Sancho Gil",
+      "María Francisca Queralt"
+    ],
+    "father_name": "Bautista Gil",
+    "mother_name": "María Francisca Queralt",
+    "spouse_names": [
+      "María Sancho Matamoros"
+    ],
+    "children_names": [
+      "Agapita Gil Sancho",
+      "Josefa Maria Gil Sancho",
+      "Maria de la Cinta Gil Sancho",
+      "Maria Ana Gil Sancho",
+      "Juan Gil Sancho",
+      "Juan Carlos Gil Sancho",
+      "Maria Queralt Garriga"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1800].\n\nCasament: amb María Sancho Matamoros d'Alcanar [1800].\n\nFills: Agapita [1822], Josefa María [1824], María de la Cinta [1827], María Ana [1830], Juan [1833] i Juan Carlos [1835].\n\nViuen a la partida de la senieta del terme d'Amposta.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

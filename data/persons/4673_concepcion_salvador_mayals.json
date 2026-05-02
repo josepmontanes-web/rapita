@@ -1,0 +1,74 @@
+{
+  "id": "4673_concepcion_salvador_mayals",
+  "source_id": "4673",
+  "row_ref": "4673. Concepción Salvador Mayals",
+  "name": "Concepción Salvador Mayals",
+  "gender": "female",
+  "birth": {
+    "date": "1814-04-21",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4668_juan_salvador_christofol",
+      "3321_maria_mayals_navarro"
+    ],
+    "father": "4668_juan_salvador_christofol",
+    "mother": "3321_maria_mayals_navarro",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Salvador Christofol",
+      "María Mayals Navarro"
+    ],
+    "father_name": "Juan Salvador Cristofol",
+    "mother_name": "Maria Mayals Navarro",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Navarro",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 21 d'abril de 1814 a la Ràpita.\n\nPadrins: José Navarro i Teresa Homedes.\n\nEs cosina de Teresa María Mayals Cartes.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

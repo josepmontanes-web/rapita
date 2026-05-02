@@ -1,0 +1,78 @@
+{
+  "id": "3228_manuela_matamoros_lleti",
+  "source_id": "3228",
+  "row_ref": "3228. Manuela Matamoros Lletí",
+  "name": "Manuela Matamoros Lletí",
+  "gender": "female",
+  "birth": {
+    "date": "1834-04-13",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4337_juan_bautista_reverter_sancho",
+      "2944_tomasa_lleti_navarro"
+    ],
+    "father": "4337_juan_bautista_reverter_sancho",
+    "mother": "2944_tomasa_lleti_navarro",
+    "spouse": [
+      "5237_braulio_talarn_blanch"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Bautista Reverter Sancho",
+      "Tomasa Lletí Navarro"
+    ],
+    "father_name": "Juan Bautista Matamoros Reverter",
+    "mother_name": "Tomasa Lletí Navarro",
+    "spouse_names": [
+      "Braulio Talarn Blanch"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Manuel Safon",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 13 d'abril de 1834 a la Ràpita.\n\nPadrins: Manuel Safont i Josefa Matamoros.\n\nCasament: el 2 de setembre de 1854 amb Braulio Talarn Blanch de la Ràpita [1832]. Testimonis: Casiano Sanz i Jayme Balada.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

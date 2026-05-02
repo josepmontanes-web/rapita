@@ -1,0 +1,73 @@
+{
+  "id": "4166_jayme_ratto_bosco",
+  "source_id": "4166",
+  "row_ref": "4166. Jayme Ratto Bosco",
+  "name": "Jayme Ratto Bosco",
+  "gender": "male",
+  "birth": {
+    "date": "1783-01-01",
+    "place": "Savona-Rep.Genova"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Ratto",
+      "Francisca Bosco"
+    ],
+    "father_name": "José Ratto",
+    "mother_name": "Francisca Bosco",
+    "spouse_names": [
+      "Lorenza Fornesa Prado"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Savona (República de Genova) [aprox. 1783]. \n\n\"Bisconsul de su magestat sarda\"\n\nCasament: el 31 de maig de 1815 amb Lorenza Fornesa Prado. Es casa als 32 anys.\n\nFills: Jaime [1816].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

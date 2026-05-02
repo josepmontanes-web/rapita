@@ -1,0 +1,73 @@
+{
+  "id": "3529_pedro_moya_brisciano",
+  "source_id": "3529",
+  "row_ref": "3529. Pedro Moya Brisciano",
+  "name": "Pedro Moya Brisciano",
+  "gender": "male",
+  "birth": {
+    "date": "1842-06-05",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3559_juan_moya_vilarroya"
+    ],
+    "father": "3559_juan_moya_vilarroya",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Moya Vilarroya",
+      "Francisca Brisciano Pascual"
+    ],
+    "father_name": "Juan Moya Vilarroya",
+    "mother_name": "Francisca Brisciano Pascual",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Pedro Navarro",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 5 de juny de 1842 a la Ràpita.\n\nPadrins: Pedro Navarro i Bàrbara Gombau.\n\nProfessió: pagès.\n\nCasament: amb Bienvenida Matamoros Muñoz de la Galera [1845].\n\nFills: Pedro [1877].\n\nNo signa la declaració de naixement del fill al registre civil per no saber.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

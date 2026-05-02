@@ -1,0 +1,73 @@
+{
+  "id": "994_escolastica_carbo_castella",
+  "source_id": "994",
+  "row_ref": "994. Escolástica Carbó Castellà",
+  "name": "Escolástica Carbó Castellà",
+  "gender": "female",
+  "birth": {
+    "date": "1817-08-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1819-06-23",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1247_teresa_castella_dalmau"
+    ],
+    "father": null,
+    "mother": "1247_teresa_castella_dalmau",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Felis Carbó",
+      "Teresa Castellà Dalmau"
+    ],
+    "father_name": "Felis Carbó",
+    "mother_name": "Teresa Castellà Dalmau",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a l'agost de 1817 a la Ràpita.\n\nDefunció: el 23 de juny de 1819 a la Ràpita. Va morir als 22 mesos.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "1651_juan_cruelles_remisa",
+  "source_id": "1651",
+  "row_ref": "1651. Juan Cruelles Remisa",
+  "name": "Juan Cruelles Remisa",
+  "gender": "male",
+  "birth": {
+    "date": "1784-01-01",
+    "place": "Llissà d'Amunt"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3974_mariana_pique_vayeta"
+    ],
+    "children": [
+      "1650_ventura_josefa_cruelles_pique"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Jayme Cruelles Riera",
+      "Coloma Remisa"
+    ],
+    "father_name": "Jayme Cruelles Riera",
+    "mother_name": "Coloma Remisa",
+    "spouse_names": [
+      "Mariana Piqué Vayeta"
+    ],
+    "children_names": [
+      "Ventura Josefa Cruelles Piqué"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Lliçà d'Amunt [aprox. 1784].\n\nProfessió: pagès.\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Mansana Vella núm. 15 amb el seu germà Francisco Cruells (ACA BGRP Cajas 34).\n\nCasament: el 13 de juliol de 1805 amb Mariana Piqué Vayeta de Mas de las Matas (Terol) [1786]. Es casa als 21 anys, ella en té 19.\n\nFills: Ventura Josefa [1806].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

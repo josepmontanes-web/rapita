@@ -1,0 +1,78 @@
+{
+  "id": "4988_agustin_sans_fabregat",
+  "source_id": "4988",
+  "row_ref": "4988. Agustín Sans Fabregat",
+  "name": "Agustín Sans Fabregat",
+  "gender": "male",
+  "birth": {
+    "date": "1811-10-02",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5017_domingo_sans_sanarau",
+      "1928_pascuala_fabregat_obiol"
+    ],
+    "father": "5017_domingo_sans_sanarau",
+    "mother": "1928_pascuala_fabregat_obiol",
+    "spouse": [
+      "4197_maria_reverter_balada"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Domingo Sans Sanarau",
+      "Pascuala Fabregat Obiol"
+    ],
+    "father_name": "Domingo Sans Sanarau",
+    "mother_name": "Pascuala Fabregat Obiol",
+    "spouse_names": [
+      "Maria Reverter Balada"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Agustín Fornesa",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 2 d'octubre de 1811 a la Ràpita.\n\nPadrins: Don Agustín Fornesa i Doña Vicenta Tallada.\n\nCasament: el 18 de març de 1842 amb María Reverter Balada d'Alcanar [1813].\n\nFills: Josefa [1845], Francisca [1849] i Mariano [1851].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

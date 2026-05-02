@@ -1,0 +1,80 @@
+{
+  "id": "4832_bautista_sancho",
+  "source_id": "4832",
+  "row_ref": "4832. Bautista Sancho",
+  "name": "Bautista Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1805-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "4834_jose_sancho",
+      "4876_agustin_sancho_fibla",
+      "4893_jose_sancho_garriga",
+      "4894_benita_sancho_garriga"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Bárbara Garriga"
+    ],
+    "children_names": [
+      "José Sancho",
+      "Agustín Sancho Fibla",
+      "José Sancho Garriga",
+      "Benita Sancho Garriga"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1805]. \n\nCasament: amb Bárbara Garriga.\n\nFills: José (Alcanar) [1829] i Benita (Alcanar) [1833].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "2761_maria_guinot_tristany",
+  "source_id": "2761",
+  "row_ref": "2761. María Guinot Tristany",
+  "name": "María Guinot Tristany",
+  "gender": "female",
+  "birth": {
+    "date": "1748-01-01",
+    "place": "Riudoms"
+  },
+  "death": {
+    "date": "1805-04-10",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Jaime Guiñot",
+      "Francisca Tristán"
+    ],
+    "father_name": "Jaime Guiñot",
+    "mother_name": "Francisca Tristán",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Riudoms [1748]. Al 12 d'abril de 1748 fou batejada segons ritu de la SSCR Rosa Maria Marina filla llegitima y natural de Jaume Guinot pagès y de Francisca Guinot y Tristany conjuges de la present vila de Riudoms. Foren padrins Francesch Guinot pagès y Marina Tristany tots de la dita vila (pagina digitalitzada 264 AHAT).\n\nCasament: amb Pedro Ferran [1750].\n\nFills: Francisca [1775].\n\nDefunció: el 10 d'abril de 1805 a la Ràpita.\n\nEl 13 de febrer de 1747 es casen a Riudoms Jaume Guinot fadrí pagès fill de Francech Guinot pagès i de Maria Guinot i Morés amb Francisca Tristany donzella filla de Antoni Tristany pagès i de Marina Tristany i Micó (pag 423 doc. digit. AHAT).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

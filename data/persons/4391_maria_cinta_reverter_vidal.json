@@ -1,0 +1,74 @@
+{
+  "id": "4391_maria_cinta_reverter_vidal",
+  "source_id": "4391",
+  "row_ref": "4391. María Cinta Reverter Vidal",
+  "name": "María Cinta Reverter Vidal",
+  "gender": "female",
+  "birth": {
+    "date": "1837-05-23",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1839-07-01",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4299_juan_reverter_matamoros",
+      "5591_maria_vidal_vines"
+    ],
+    "father": "4299_juan_reverter_matamoros",
+    "mother": "5591_maria_vidal_vines",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Reverter Matamoros",
+      "Maria Vidal Viñes"
+    ],
+    "father_name": "Juan Reverter Matamoros",
+    "mother_name": "Maria Vidal Viñes",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Jacinto Barberá",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 23 de maig de 1837 a la Ràpita.\n\nPadrins: Jacinto Barberá i Clara Lluciano.\n\nDefunció: l'1 de juliol de 1839 a la Ràpita.\n\nEs bessona de Francisco Carlos.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

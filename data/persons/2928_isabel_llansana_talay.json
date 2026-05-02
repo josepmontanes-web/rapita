@@ -1,0 +1,68 @@
+{
+  "id": "2928_isabel_llansana_talay",
+  "source_id": "2928",
+  "row_ref": "2928. Isabel Llansana Talay",
+  "name": "Isabel Llansana Talay",
+  "gender": "female",
+  "birth": {
+    "date": "1837-01-01",
+    "place": "València"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a València [aprox. 1837]. El seu segón cognom podria ser Ramos. Té dos germans: Miguel i Felipe que no sabem si viuen a la Ràpita.\n\nProfessió: tavernera.\n\nCasament: amb Juan García Mompo de València [1835].\n\nFills: Isabel [1860], Salvadora [1860], Juan [1860], En.... [1860], María del Pilar [1876] i Serafín [1878].\n\nQuan mor el marit al desembre de 1877 ella té 40 anys i està embaraçada.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

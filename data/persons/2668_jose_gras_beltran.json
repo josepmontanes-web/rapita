@@ -1,0 +1,79 @@
+{
+  "id": "2668_jose_gras_beltran",
+  "source_id": "2668",
+  "row_ref": "2668. José Gras Beltran",
+  "name": "José Gras Beltran",
+  "gender": "male",
+  "birth": {
+    "date": "1782-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1822-12-23",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3196_tomasa_matamoros_elies"
+    ],
+    "children": [
+      "638_bautista_beltran_subirats"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Gras",
+      "María Beltran"
+    ],
+    "father_name": "Joaquín Gras",
+    "mother_name": "María Beltran",
+    "spouse_names": [
+      "Tomasa Matamoros Elíes"
+    ],
+    "children_names": [
+      "Bautista Beltran Subirats"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1785].\n\nCasament: amb Tomasa Matamoros Elíes d'Alcanar [1785].\n\nFills: Baltasar José [1820].\n\nDefunció: el 23 de desembre de 1822 a la Ràpita. Va morir als 40 anys de \"muerte natural\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

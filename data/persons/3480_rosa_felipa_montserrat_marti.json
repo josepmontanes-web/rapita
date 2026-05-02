@@ -1,0 +1,73 @@
+{
+  "id": "3480_rosa_felipa_montserrat_marti",
+  "source_id": "3480",
+  "row_ref": "3480. Rosa Felipa Montserrat Martí",
+  "name": "Rosa Felipa Montserrat Martí",
+  "gender": "female",
+  "birth": {
+    "date": "1842-08-02",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3462_jose_monsarrat_cavalle"
+    ],
+    "father": "3462_jose_monsarrat_cavalle",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Monsarrat Cavallé",
+      "Maria Martí Subirats"
+    ],
+    "father_name": "José Montserrat Cavallé",
+    "mother_name": "Maria Martí Subirats",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Felipe Montserrat",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 2 d'agost de 1842 a la Ràpita.\n\nPadrins: Felipe Montserrat i Bernarda Subirats.\n\nCasament: amb José Sánchez Sancho de la Ràpita [1838].\n\nFills: Juan [1875], Agustín [1877] i Agustín [1879].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "564_agustina_bel_chimeno_o_gimeno",
+  "source_id": "564",
+  "row_ref": "564. Agustina Bel Chimeno [o Gimeno]",
+  "name": "Agustina Bel Chimeno [o Gimeno]",
+  "gender": "female",
+  "birth": {
+    "date": "1855-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1855].\n\nCasament: amb Francisco Torta Accensi de la Ràpita [1838].\n\nFills: María [1879].\n\nCasament: el 4 d'octubre de 1883 amb Agustín Esteller Miralles de Vinaròs. [1853].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

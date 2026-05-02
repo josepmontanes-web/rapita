@@ -1,0 +1,83 @@
+{
+  "id": "3919_tomas_peris_pavia",
+  "source_id": "3919",
+  "row_ref": "3919. Tomàs Peris Pavia",
+  "name": "Tomàs Peris Pavia",
+  "gender": "male",
+  "birth": {
+    "date": "1770-01-01",
+    "place": "València"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3919_tomas_peris_pavia"
+    ],
+    "father": "3919_tomas_peris_pavia",
+    "mother": null,
+    "spouse": [
+      "5624_francisca_vines_sevilla"
+    ],
+    "children": [
+      "3919_tomas_peris_pavia",
+      "3927_josefa_peris_vines"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomàs Peris Pavia",
+      "María Pavia"
+    ],
+    "father_name": "Tomás Peris",
+    "mother_name": "María Pavia",
+    "spouse_names": [
+      "Francisca Viñes Sevilla"
+    ],
+    "children_names": [
+      "Tomàs Peris Pavia",
+      "Josefa Peris Viñes"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Russafa (València) [aprox. 1770]. \n\nCasament: amb Francisca Viñes Sevilla de València [1770].\n\nFills: Josefa [1792], Salvador [1798] i Antonia [1801].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

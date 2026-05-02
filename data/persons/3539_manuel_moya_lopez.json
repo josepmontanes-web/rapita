@@ -1,0 +1,74 @@
+{
+  "id": "3539_manuel_moya_lopez",
+  "source_id": "3539",
+  "row_ref": "3539. Manuel Moya López",
+  "name": "Manuel Moya López",
+  "gender": "male",
+  "birth": {
+    "date": "1795-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1801-05-12",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3544_juan_bautista_moya_masia",
+      "2985_maria_lopez_costa"
+    ],
+    "father": "3544_juan_bautista_moya_masia",
+    "mother": "2985_maria_lopez_costa",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Bautista Moya Masià",
+      "María López Costa"
+    ],
+    "father_name": "Juan Bautista Moya Rebertona",
+    "mother_name": "Maria López Costa",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1795]. \n\nDefunció: el 12 de maig de 1801 a la Ràpita. Va morir pàrvul.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

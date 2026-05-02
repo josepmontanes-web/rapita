@@ -1,0 +1,82 @@
+{
+  "id": "2288_vicente_garcia",
+  "source_id": "2288",
+  "row_ref": "2288. Vicente García",
+  "name": "Vicente García",
+  "gender": "male",
+  "birth": {
+    "date": "1760-01-01",
+    "place": "Benidorm"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "5419_esperanza_valero"
+    ],
+    "children": [
+      "2309_jose_antonio_garcia_bonet",
+      "2377_jose_garcia_valero",
+      "2378_vicente_garcia_valero",
+      "2310_eleuterio_garcia_bonet"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Esperanza Valero"
+    ],
+    "children_names": [
+      "José Antonio García Bonet",
+      "José García Valero",
+      "Vicente García Valero",
+      "Eleuterio García Bonet"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Benidorm [aprox. 1760].\n\nCasament: amb Esperanza Valero de Benidorm [1760].\n\nFills: José (Benidorm) [1795] i Vicente (Benidorm) [1800].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

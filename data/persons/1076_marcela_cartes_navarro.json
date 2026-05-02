@@ -1,0 +1,74 @@
+{
+  "id": "1076_marcela_cartes_navarro",
+  "source_id": "1076",
+  "row_ref": "1076. Marcela Cartes Navarro",
+  "name": "Marcela Cartes Navarro",
+  "gender": "female",
+  "birth": {
+    "date": "1833-01-30",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1834-11-23",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1063_juan_cartes_ferrer_o_castella",
+      "3602_antonia_navarro_balaguer"
+    ],
+    "father": "1063_juan_cartes_ferrer_o_castella",
+    "mother": "3602_antonia_navarro_balaguer",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Cartes Ferrer [o Castellà]",
+      "Antonia Navarro Balaguer"
+    ],
+    "father_name": "Juan Cartes Ferrer",
+    "mother_name": "Antonia Navarro Balaguer",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Pedro Navarro",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 31 de gener de 1833 a la Ràpita.\n\nPadrins: Pedro Navarro i Serafina Reverter.\n\nDefunció: el 23 de novembre de 1834 a la Ràpita. Va ser enterrada el mateix dia.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

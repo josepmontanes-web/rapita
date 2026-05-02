@@ -1,0 +1,77 @@
+{
+  "id": "511_francisco_barragan_ramos",
+  "source_id": "511",
+  "row_ref": "511. Francisco Barragán Ramos",
+  "name": "Francisco Barragán Ramos",
+  "gender": "male",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Puebla del Conde (Extrem."
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4149_josefa_ramos_o_rams"
+    ],
+    "father": null,
+    "mother": "4149_josefa_ramos_o_rams",
+    "spouse": [
+      "3900_isabel_pepiol_pascual"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Barragán",
+      "Josefa Ramos [o Rams]"
+    ],
+    "father_name": "José Barragán",
+    "mother_name": "Josefa Ramos",
+    "spouse_names": [
+      "Isabel Pepiol Pascual"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  a Puebla del Conde (Extremadura) [aprox. 1810].\n\nCasament: el 26 de juliol de 1841 amb Isabel Pepiol Pascual de la Ràpita [1815].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

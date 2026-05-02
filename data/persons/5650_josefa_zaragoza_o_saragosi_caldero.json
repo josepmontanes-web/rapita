@@ -1,0 +1,68 @@
+{
+  "id": "5650_josefa_zaragoza_o_saragosi_caldero",
+  "source_id": "5650",
+  "row_ref": "5650. Josefa Zaragoza [o Saragosí] Calderó",
+  "name": "Josefa Zaragoza [o Saragosí] Calderó",
+  "gender": "female",
+  "birth": {
+    "date": "1735-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1735].\n\nCasament: amb Bautista Castellà Font de Tortosa [1830].\n\nFills: Bautista (Tortosa) [1759], Mateo [1760], José (Tortosa) [1760] i Francisco (Tortosa) [1760].\n\nTestament de Josefa Saragosí consorte de Bautista Castellà Font, pescador. Fills Mateo, Francisco, José i Bautista. Neta Josefa Castellà consorte de Francisco Comí. Hereu universal el fill Bautista. Data del testament el 7 de juny de 1796",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

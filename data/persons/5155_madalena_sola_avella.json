@@ -1,0 +1,68 @@
+{
+  "id": "5155_madalena_sola_avella",
+  "source_id": "5155",
+  "row_ref": "5155. Madalena Solà Avellà",
+  "name": "Madalena Solà Avellà",
+  "gender": "female",
+  "birth": {
+    "date": "1750-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Vidua de José Fonollosa.\n\nHereu universal la seua filla Sebastiana Fonollosa vidua de Gregorio Armero [o Armengol]. Altres fills: Josefa Fonollosa Solà [1770] dona de Agustín Cartes.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

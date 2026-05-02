@@ -1,0 +1,78 @@
+{
+  "id": "1964_maria_francisca_fatsini_chillida",
+  "source_id": "1964",
+  "row_ref": "1964. Maria Francisca Fatsini Chillida",
+  "name": "Maria Francisca Fatsini Chillida",
+  "gender": "female",
+  "birth": {
+    "date": "1830-03-03",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1971_nicolas_fatsini_pons",
+      "1442_tomasa_chillida_querol"
+    ],
+    "father": "1971_nicolas_fatsini_pons",
+    "mother": "1442_tomasa_chillida_querol",
+    "spouse": [
+      "4880_bautista_sancho_fibla"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Nicolás Fatsini Pons",
+      "Tomasa Chillida Querol"
+    ],
+    "father_name": "Nicolás Fatsini Pons",
+    "mother_name": "Tomasa Chillida Querol",
+    "spouse_names": [
+      "Bautista Sancho Fibla"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Domingo Pepiol",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 3 de març de 1830 a la Ràpita.\n\nPadrins: Domingo Pepiol i Francisca Talarn.\n\nCasament: el 29 de juliol de 1854 amb Bautista Sancho Fibla [1831]. Testimonis: Juan Curto i Bartolomé Silvestre.\n\nFills: María [1870].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

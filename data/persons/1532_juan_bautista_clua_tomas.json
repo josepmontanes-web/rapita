@@ -1,0 +1,73 @@
+{
+  "id": "1532_juan_bautista_clua_tomas",
+  "source_id": "1532",
+  "row_ref": "1532. Juan Bautista Clua Tomás",
+  "name": "Juan Bautista Clua Tomás",
+  "gender": "male",
+  "birth": {
+    "date": "1841-11-03",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1845-03-05",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1518_miguel_clua_cid"
+    ],
+    "father": "1518_miguel_clua_cid",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Clua Cid",
+      "Maria Tomás Arquenes"
+    ],
+    "father_name": "Miguel Clua Cid",
+    "mother_name": "Maria Tomás Arquenes",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Adell",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 3 de novembre de 1841 a la Ràpita.\n\nPadrins: José Adell i María Clua.\n\nDefunció: el 5 de març de 1845 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

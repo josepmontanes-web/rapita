@@ -1,0 +1,73 @@
+{
+  "id": "1210_vicente_castella_caldero",
+  "source_id": "1210",
+  "row_ref": "1210. Vicente Castellà Calderó",
+  "name": "Vicente Castellà Calderó",
+  "gender": "male",
+  "birth": {
+    "date": "1803-10-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1804-07-04",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1164_bautista_castella"
+    ],
+    "father": "1164_bautista_castella",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Castellà",
+      "Josefa Calderó"
+    ],
+    "father_name": "Bautista Castellà",
+    "mother_name": "Josefa Calderó",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1803].\n\nDefunció: el 4 de juliol de 1804 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

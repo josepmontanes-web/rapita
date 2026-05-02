@@ -1,0 +1,76 @@
+{
+  "id": "4100_miguel_queral_fibla",
+  "source_id": "4100",
+  "row_ref": "4100. Miguel Queral Fibla",
+  "name": "Miguel Queral Fibla",
+  "gender": "male",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4098_jose_queral_esteller"
+    ],
+    "father": "4098_jose_queral_esteller",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Queral Esteller",
+      "Maria Fibla"
+    ],
+    "father_name": "José Queral",
+    "mother_name": "Maria Fibla",
+    "spouse_names": [
+      "Leonor Reverter",
+      "Maria Sancho Sancho"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1790].\n\nCasament: amb Leonor Reverter. \n\nCasament: el 20 de març de 1819 amb María Sancho Sancho.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

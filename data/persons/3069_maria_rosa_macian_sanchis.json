@@ -1,0 +1,71 @@
+{
+  "id": "3069_maria_rosa_macian_sanchis",
+  "source_id": "3069",
+  "row_ref": "3069. Maria Rosa Macián Sanchís",
+  "name": "Maria Rosa Macián Sanchís",
+  "gender": "female",
+  "birth": {
+    "date": "1806-05-29",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1806-06-04",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Macián Asencio",
+      "Catarina Sanchís Iserti"
+    ],
+    "father_name": "Josef Macián Asencio",
+    "mother_name": "Catarina Sanchís Iserti",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Domigo Estrada",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 29 de maig de 1806 a la Ràpita.\n\nPadrins: Domingo Estrada i Rosa Saperes.\n\nDefunció: el 4 de juny de 1806 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

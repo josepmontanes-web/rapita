@@ -1,0 +1,73 @@
+{
+  "id": "194_ramon_tomas_arbo_sanchis",
+  "source_id": "194",
+  "row_ref": "194. Ramón Tomás Arbó Sanchís",
+  "name": "Ramón Tomás Arbó Sanchís",
+  "gender": "male",
+  "birth": {
+    "date": "1830-07-29",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "175_tomas_arbo_ingles"
+    ],
+    "father": "175_tomas_arbo_ingles",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomás Arbó Inglés",
+      "Teresa Sanchís Yserte"
+    ],
+    "father_name": "Tomas Arbó Inglés",
+    "mother_name": "Teresa Sanchís Yserte",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Tomás Macián",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 29 de juliol de 1830 a la Ràpita.\n\n\"Por hallarse en peligro de muerte fue bautizado en casa de los padres por Casilda Manzanares de edad 64 años\". Els padrins son Tomás Macián Sanchís  i Catarina Sánchez Iserte.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

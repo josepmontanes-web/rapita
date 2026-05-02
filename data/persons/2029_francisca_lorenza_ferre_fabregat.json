@@ -1,0 +1,75 @@
+{
+  "id": "2029_francisca_lorenza_ferre_fabregat",
+  "source_id": "2029",
+  "row_ref": "2029. Francisca Lorenza Ferré Fabregat",
+  "name": "Francisca Lorenza Ferré Fabregat",
+  "gender": "female",
+  "birth": {
+    "date": "1827-04-05",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2062_miguel_ferre_ortiz"
+    ],
+    "father": "2062_miguel_ferre_ortiz",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Ferré Ortiz",
+      "Teresa Fabregat Mateu"
+    ],
+    "father_name": "Miguel Ferré Ortiz",
+    "mother_name": "Teresa Fabregat Mateu",
+    "spouse_names": [
+      "José Reverté Jovani"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Lorenzo Fabregat",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 5 d'abril de 1827 a la Ràpita.\n\nPadrins: Lorenzo Fabregat i Francisca Segarra.\n\nCasament: el 15 de febrer de 1851 amb José Reverté Jovani de la Ràpita [1824].\n\nFills: Tomás [1852], Cinta [1860] i María [1862].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

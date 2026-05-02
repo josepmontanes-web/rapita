@@ -1,0 +1,77 @@
+{
+  "id": "5595_josefa_vidiella_cartes",
+  "source_id": "5595",
+  "row_ref": "5595. Josefa Vidiella Cartes",
+  "name": "Josefa Vidiella Cartes",
+  "gender": "female",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5594_felipe_vidiella_carles"
+    ],
+    "father": "5594_felipe_vidiella_carles",
+    "mother": null,
+    "spouse": [
+      "250_tomas_arlandez_cid"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Felipe Vidiella Carles",
+      "Josefa Cartes"
+    ],
+    "father_name": "Felipe Vidiella",
+    "mother_name": "Josefa Cartes",
+    "spouse_names": [
+      "Tomàs Arlández Cid"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1820].\n\nCasament: el 9 de desembre de 1842 amb Tomás Arlández Cid de Tortosa [1820].\n\nPodria ser germana de Felipe Vidiella Carles [o Cartes] [1823].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

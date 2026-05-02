@@ -1,0 +1,76 @@
+{
+  "id": "1776_rosa_esbri_castell",
+  "source_id": "1776",
+  "row_ref": "1776. Rosa Esbrí Castell",
+  "name": "Rosa Esbrí Castell",
+  "gender": "female",
+  "birth": {
+    "date": "1825-01-01",
+    "place": "Benicarló"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1775_vicente_esbri_bayarri",
+      "1149_antonia_castell_comes"
+    ],
+    "father": "1775_vicente_esbri_bayarri",
+    "mother": "1149_antonia_castell_comes",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Esbrí Bayarri",
+      "Antonia Castell Comes"
+    ],
+    "father_name": "Vicente Esbrí Bayarri",
+    "mother_name": "Antonia Castell Comes",
+    "spouse_names": [
+      "Miguel Beltran Ferré"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Benicarló [aprox. 1825].\n\nCasament: el 26 de setembre de 1847 amb Miguel Beltran Ferrer de la Ràpita [1826].\n\nFills: Rosa [1852], María [1850], Pedro [1850], Antonia [1855], Carmen [1856], Miguel [1855], Cinta [1858], Miguela [1859], Teresa [1861], Josefa [1863] i Inés [1865].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

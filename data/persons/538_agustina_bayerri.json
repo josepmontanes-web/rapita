@@ -1,0 +1,74 @@
+{
+  "id": "538_agustina_bayerri",
+  "source_id": "538",
+  "row_ref": "538. Agustina Bayerri",
+  "name": "Agustina Bayerri",
+  "gender": "female",
+  "birth": {
+    "date": "1740-01-01",
+    "place": "Traiguera"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "3339_agustina_michavila_bayerri"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Damián Michavila"
+    ],
+    "children_names": [
+      "Agustina Michavila Bayerri"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  a Traiguera [aprox. 1740].\n\nCasament: amb Damián Michavila de Traiguera.\n\nFills: Agustina (Traiguera) [1769] i Vicenta (Traiguera) [1770].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

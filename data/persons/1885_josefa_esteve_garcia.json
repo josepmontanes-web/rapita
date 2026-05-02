@@ -1,0 +1,90 @@
+{
+  "id": "1885_josefa_esteve_garcia",
+  "source_id": "1885",
+  "row_ref": "1885. Josefa Esteve García",
+  "name": "Josefa Esteve García",
+  "gender": "female",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": "1836-10-31",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1890_jose_esteve_rodon",
+      "2353_basilia_garcia_mendoza"
+    ],
+    "father": "1890_jose_esteve_rodon",
+    "mother": "2353_basilia_garcia_mendoza",
+    "spouse": [],
+    "children": [
+      "152_vicenta_ano_esteve",
+      "153_francisco_ano_esteve",
+      "154_josefa_basilia_ano_esteve",
+      "155_joaquin_ano_esteve",
+      "156_andres_ano_esteve",
+      "157_vicente_ano_esteve"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Esteve Rodón",
+      "Basilia Garcia Mendoza"
+    ],
+    "father_name": "José Esteve Rondón",
+    "mother_name": "Basilia Garcia Mendoza",
+    "spouse_names": [
+      "Juan Añó Arlandes"
+    ],
+    "children_names": [
+      "Vicenta Añó Esteve",
+      "Francisco Añó Esteve",
+      "Josefa Basilia Añó Esteve",
+      "Joaquín Añó Esteve",
+      "Andrés Añó Esteve",
+      "Vicente Añó Esteve"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1790].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu al carrer davant el canal i l'horta amb els seus pares (ACA BGRP Cajas 34).\n\nCasament: el 21 d'abril de 1810 amb Juan Añó Arlández d'Amposta [1793]. Es casa als 20 anys.\n\nFills: Andrés [1811], Vicenta [1814], Francisco [1815], Josefa Basilia [1818], Vicente [1820] i Joaquín [1822].\n\nDefunció: el 31 d'octubre de 1836 a la Ràpita. \"Murió desgraciadamente de un tiro de fusil\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

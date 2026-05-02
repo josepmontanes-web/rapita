@@ -1,0 +1,74 @@
+{
+  "id": "4436_gabriel_roca_giol",
+  "source_id": "4436",
+  "row_ref": "4436. Gabriel Roca Giol",
+  "name": "Gabriel Roca Giol",
+  "gender": null,
+  "birth": {
+    "date": "1770-01-01",
+    "place": "Barcelona"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1796_2_1846"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Doña Narcisa Antigua"
+    ],
+    "children_names": [
+      "2 1846"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Comerciant"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Barcelona [aprox. 1770]. \n\nProfessió: comerciant.\n\nCasament: amb Doña Narcisa Antigüa de Barcelona.\n\nFills: María Concepción (Barcelona) [1800].\n\nApareix un Don Gabriel Roca (Marchant) veí de la Ràpita, com a contribuient d'aigua a les monges per 17 jornals en partida indeterminada. (Doc 52: Gabriel Roca Giol i Narcisa Roca Antiga -esposa- fan una hipoteca a favor de Pedro Coret -prevere- (1808) per 590 ll, 12 s i 6 d d'una parcel·la de terra de 4 jornals comprada a Josepha Noguerón, vídua de José Gombau a la partida del Rajolar i 40 jornals a La Mallada Vella, a nom de Narcisa Antigua (esposa)\n\nVeure també (ACA caixa 58).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

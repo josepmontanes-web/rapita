@@ -1,0 +1,77 @@
+{
+  "id": "470_cristobal_balanza_comes",
+  "source_id": "470",
+  "row_ref": "470. Cristobal Balanzá Comes",
+  "name": "Cristobal Balanzá Comes",
+  "gender": "male",
+  "birth": {
+    "date": "1824-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "465_francisco_balanza"
+    ],
+    "father": "465_francisco_balanza",
+    "mother": null,
+    "spouse": [
+      "26_beatriz_adell_llagostera"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Balanzá",
+      "Pascuala Comes"
+    ],
+    "father_name": "Francisco Balanzá",
+    "mother_name": "Pascuala Comes",
+    "spouse_names": [
+      "Beatriz Adell Llagostera"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Benicarló [aprox. 1824].\n\nCasament: el 17 de gener de 1852 amb Beatríz Adell Llagostera de la Ràpita [1822]. Es va casar als 28 anys.\n\nFills: Francisca [1853].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

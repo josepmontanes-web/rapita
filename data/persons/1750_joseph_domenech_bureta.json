@@ -1,0 +1,79 @@
+{
+  "id": "1750_joseph_domenech_bureta",
+  "source_id": "1750",
+  "row_ref": "1750. Joseph Domenech Bureta",
+  "name": "Joseph Domenech Bureta",
+  "gender": "male",
+  "birth": {
+    "date": "1789-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1750_joseph_domenech_bureta"
+    ],
+    "father": "1750_joseph_domenech_bureta",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1750_joseph_domenech_bureta"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joseph Domenech Bureta",
+      "Tomasa Bureta"
+    ],
+    "father_name": "Joseph Domenech",
+    "mother_name": "Tomasa Bureta",
+    "spouse_names": [
+      "Rosa Vera Canalda"
+    ],
+    "children_names": [
+      "Joseph Domenech Bureta"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1789].\n\nCasament: el 26 de desembre de 1813 amb Rosa Cera Canalda de Tortosa [1790]. Es casa als 24 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

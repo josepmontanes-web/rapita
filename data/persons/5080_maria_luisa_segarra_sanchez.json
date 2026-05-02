@@ -1,0 +1,74 @@
+{
+  "id": "5080_maria_luisa_segarra_sanchez",
+  "source_id": "5080",
+  "row_ref": "5080. María Luísa Segarra Sánchez",
+  "name": "María Luísa Segarra Sánchez",
+  "gender": "female",
+  "birth": {
+    "date": "1801-03-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5047_francisco_segarra_bel",
+      "4740_josefa_sanchez_ferre"
+    ],
+    "father": "5047_francisco_segarra_bel",
+    "mother": "4740_josefa_sanchez_ferre",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Segarra Bel",
+      "Josefa Sánchez Ferré"
+    ],
+    "father_name": "Francisco Segarra Bel",
+    "mother_name": "Josefa Sánchez Ferré",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Antonio Monsarrat",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'1 de març de 1801 a la Ràpita.\n\nPadrins: Antonio Monsarrat i Vicenta Monsarrat.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

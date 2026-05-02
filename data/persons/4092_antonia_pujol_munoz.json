@@ -1,0 +1,77 @@
+{
+  "id": "4092_antonia_pujol_munoz",
+  "source_id": "4092",
+  "row_ref": "4092. Antonia Pujol Muñoz",
+  "name": "Antonia Pujol Muñoz",
+  "gender": "female",
+  "birth": {
+    "date": "1775-01-01",
+    "place": "Marçà"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4086_jose_pujol"
+    ],
+    "father": "4086_jose_pujol",
+    "mother": null,
+    "spouse": [
+      "5048_tomas_segarra_bel"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Pujol",
+      "Antonia Muñoz"
+    ],
+    "father_name": "José Pujol",
+    "mother_name": "Antonia Muñoz",
+    "spouse_names": [
+      "Tomas Segarra Bel"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Marçà [aprox. 1775]. \n\nEl seu cognom també apareix com Puigol, Puchol i Puxol.\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Fonda Vella amb la seua mare (ACA BGRP Cajas 34).\n\nCasament: el 4 de gener de 1799 amb Tomás Segarra Bel d'Ulldecona [1776].\n\nFills: Casilda [1799], Tomás [1801], Francisca [1805], Francisca [1809] i Manuel [1811].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "484_antonio_balleste_fabra",
+  "source_id": "484",
+  "row_ref": "484. Antonio Ballesté Fabra",
+  "name": "Antonio Ballesté Fabra",
+  "gender": "male",
+  "birth": {
+    "date": "1850-01-01",
+    "place": "Benicarló"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Benicarló [aprox. 1850].\n\nProfessió: jornaler, pagès.\n\nCasament: el 28 d'octubre de 1871 amb Vicenta Sanz Queralt de la Ràpita [1850]. Es casa als 20 anys.\n\nFills: Juan [1873], Pilara i Manuel [1874].\n\nNo signa la declaració de naixement del fill al registre civil per no saber.\n\nDefunció: el 16 de gener de 1881 a la Ràpita als 30 anys de \"ataque cerebral\". Declara la mor Francisca Anguera de 30 anys, casada.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

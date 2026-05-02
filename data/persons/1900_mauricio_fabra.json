@@ -1,0 +1,72 @@
+{
+  "id": "1900_mauricio_fabra",
+  "source_id": "1900",
+  "row_ref": "1900. Mauricio Fabra",
+  "name": "Mauricio Fabra",
+  "gender": null,
+  "birth": {
+    "date": "1780-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1903_antonia_fabra_miralles"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Antonia Fabra Miralles"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1780].\n\nCasament: amb Paula Miralles de Freginals.\n\nFills: Antonia (Freginals) [1810].\n\nApareix un Mauricio Fabra, veí de Freginals, que paga censos a les Monges per 10 Jornals a la partida Mundana. Satisfet fins a 1812 (Doc. 1) Conjuntament amb Francisco Fabra, consta com a no contribuient d'aigua a les monges, amb un total de 120 jornals que es detallen com segueix: 30 al Racó Calent, 10, 20, 20 i 40 en d'altres parcel·les de partida indeterminada. Aquests 120 jornals es divideixen entre els registres d'ambdós propietaris.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "4669_matheo_salvador_christofol",
+  "source_id": "4669",
+  "row_ref": "4669. Matheo Salvador Christofol",
+  "name": "Matheo Salvador Christofol",
+  "gender": "male",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "4565_teresa_rosell_cartes"
+    ],
+    "children": [
+      "4679_sebastian_salvador_rosell"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Matheo Salvador",
+      "Paula Christofol"
+    ],
+    "father_name": "Matheo Salvador",
+    "mother_name": "Paula Christofol",
+    "spouse_names": [
+      "Teresa Rosell Cartes"
+    ],
+    "children_names": [
+      "Sebastián Salvador Rosell"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1790]. \n\nCasament: amb Teresa Rosell Cartes de Tortosa [1790].\n\nFills: Sebastián [1814].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

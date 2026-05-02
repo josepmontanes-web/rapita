@@ -1,0 +1,73 @@
+{
+  "id": "5084_jose_christobal_segarra_torta",
+  "source_id": "5084",
+  "row_ref": "5084. José Christobal Segarra Torta",
+  "name": "José Christobal Segarra Torta",
+  "gender": "male",
+  "birth": {
+    "date": "1842-11-06",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5068_jose_segarra_miralles"
+    ],
+    "father": "5068_jose_segarra_miralles",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Segarra Miralles",
+      "Tomasa Torta Llasat"
+    ],
+    "father_name": "José Segarra Miralles",
+    "mother_name": "Tomasa Torta Llasat",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Christobal Alegret",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 6 de novembre de 1842 a la Ràpita.\n\nPadrins: Christobal Alegret i Bárbara Gombau.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

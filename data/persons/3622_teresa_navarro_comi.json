@@ -1,0 +1,78 @@
+{
+  "id": "3622_teresa_navarro_comi",
+  "source_id": "3622",
+  "row_ref": "3622. Teresa Navarro Comí",
+  "name": "Teresa Navarro Comí",
+  "gender": "female",
+  "birth": {
+    "date": "1829-08-14",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3641_juan_navarro_hernandez",
+      "1568_rosa_comi_caldero"
+    ],
+    "father": "3641_juan_navarro_hernandez",
+    "mother": "1568_rosa_comi_caldero",
+    "spouse": [
+      "3966_juan_pinana_zaragoza"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Navarro Hernández",
+      "Rosa Comí Calderó"
+    ],
+    "father_name": "Juan Navarro Hernández",
+    "mother_name": "Rosa Comí Calderó",
+    "spouse_names": [
+      "Juan Piñana Zaragoza"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Alejandro Monserrat",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 14 d'agost de 1829 a la Ràpita.\n\nPadrins: Alejandro Montserrat i Teresa Alegret.\n\nCasament: el 5 de novembre de 1849 amb Juan Piñana Zaragoza de Tortosa [1826].\n\nFills: Juan [1855].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

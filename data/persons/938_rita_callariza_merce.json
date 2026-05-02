@@ -1,0 +1,85 @@
+{
+  "id": "938_rita_callariza_merce",
+  "source_id": "938",
+  "row_ref": "938. Rita Callariza Mercé",
+  "name": "Rita Callariza Mercé",
+  "gender": "female",
+  "birth": {
+    "date": "1805-01-01",
+    "place": "Ulldecona"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "840_jose_antonio_brunet_antoli"
+    ],
+    "children": [
+      "841_josefa_brunet_callariza",
+      "842_martin_brunet_callariza",
+      "843_vicente_brunet_callariza",
+      "844_jose_brunet_callerisa"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Callariza",
+      "Teresa Mercé"
+    ],
+    "father_name": "Miguel Callariza",
+    "mother_name": "Teresa Mercé",
+    "spouse_names": [
+      "José Antonio Brunet Antolí"
+    ],
+    "children_names": [
+      "Josefa Brunet Callariza",
+      "Martín Brunet Callariza",
+      "Vicente Brunet Callariza",
+      "José Brunet Callerisa"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Ulldecona [aprox. 1805].\n\nCasament: amb José Antonio Brunet Antolí de Xerta [1805].\n\nFills: Josefa [1829], Martín [1832], Vicente [1835] i José [1839].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

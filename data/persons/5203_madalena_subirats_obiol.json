@@ -1,0 +1,83 @@
+{
+  "id": "5203_madalena_subirats_obiol",
+  "source_id": "5203",
+  "row_ref": "5203. Madalena Subirats Obiol",
+  "name": "Madalena Subirats Obiol",
+  "gender": "female",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Godall o Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "131_jayme_anguera_sancho"
+    ],
+    "children": [
+      "133_josefa_maria_anguera_subirats",
+      "134_salvador_anguera_subirats",
+      "135_tomas_anguera_subirats"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Julián Subirats",
+      "Teresa Obiol"
+    ],
+    "father_name": "Julián Subirats",
+    "mother_name": "Teresa Obiol",
+    "spouse_names": [
+      "Jayme Anguera Sancho"
+    ],
+    "children_names": [
+      "Josefa Maria Anguera Subirats",
+      "Salvador Anguera Subirats",
+      "Tomás Anguera Subirats"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Godall (o a Tortosa) [aprox. 1820]. \n\nCasament: amb Jayme Anguera Sancho de la Ràpita [1798].\n\nFills: Josefa María [1842], Salvador [1843] i Tomás [1846].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

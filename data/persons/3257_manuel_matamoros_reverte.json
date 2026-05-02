@@ -1,0 +1,74 @@
+{
+  "id": "3257_manuel_matamoros_reverte",
+  "source_id": "3257",
+  "row_ref": "3257. Manuel Matamoros Reverté",
+  "name": "Manuel Matamoros Reverté",
+  "gender": "male",
+  "birth": {
+    "date": "1826-02-08",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1826-02-24",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3247_agustin_matamoros_reverter",
+      "4250_mariana_reverter_fibla"
+    ],
+    "father": "3247_agustin_matamoros_reverter",
+    "mother": "4250_mariana_reverter_fibla",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustín Matamoros Reverter",
+      "Mariana Reverter Fibla"
+    ],
+    "father_name": "Agustín Matamoros Reverter",
+    "mother_name": "Mariana Reverter Fibla",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Manuel Bel",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 8 de febrer de 1826 a la Ràpita.\n\nPadrins: Manuel Bel i María Reverté.\n\nDefunció: el 24 de febrer de 1826 a la Ràpita. Va morir de \"espasmo\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

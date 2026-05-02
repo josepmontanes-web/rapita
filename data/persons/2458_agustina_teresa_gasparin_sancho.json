@@ -1,0 +1,74 @@
+{
+  "id": "2458_agustina_teresa_gasparin_sancho",
+  "source_id": "2458",
+  "row_ref": "2458. Agustina Teresa Gasparín Sancho",
+  "name": "Agustina Teresa Gasparín Sancho",
+  "gender": "female",
+  "birth": {
+    "date": "1840-07-15",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2438_manuel_gasparin_matamoros",
+      "4918_maria_sancho_querol"
+    ],
+    "father": "2438_manuel_gasparin_matamoros",
+    "mother": "4918_maria_sancho_querol",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel Gasparín Matamoros",
+      "María Sancho Querol"
+    ],
+    "father_name": "Manuel Gasparín Matamoros",
+    "mother_name": "Maria Sancho Querol",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Miguel Izquierdo",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 15 de juliol de 1840 a la Ràpita.\n\nPadrins: Miguel Izquierdo i Agustina Gasparín.\n\nCasament: amb Juan Reverté Talarn de la Ràpita [1835].\n\nFills: María [1860], Agustina [1877] i Juan [1881].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

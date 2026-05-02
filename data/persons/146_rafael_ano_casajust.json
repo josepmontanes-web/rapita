@@ -1,0 +1,72 @@
+{
+  "id": "146_rafael_ano_casajust",
+  "source_id": "146",
+  "row_ref": "146. Rafael Añó Casajust",
+  "name": "Rafael Añó Casajust",
+  "gender": "male",
+  "birth": {
+    "date": "1852-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "141_vicente_joaquin_ano_arbo"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Vicente Joaquín Añó Arbó"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1852].\n\nProfessió: pagès.\n\nCasament: el 6 de juliol de 1878 amb Francisca Arbó Sánchez de la Ràpita [1859].\n\nFills: Vicente Joaquín [1880]. Signa al registre la declaració del fill.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

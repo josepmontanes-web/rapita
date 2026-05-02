@@ -1,0 +1,78 @@
+{
+  "id": "1176_juan_castella_balague",
+  "source_id": "1176",
+  "row_ref": "1176. Juan Castellà Balagué",
+  "name": "Juan Castellà Balagué",
+  "gender": "male",
+  "birth": {
+    "date": "1832-11-23",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1225_mariano_castella_cid"
+    ],
+    "father": "1225_mariano_castella_cid",
+    "mother": null,
+    "spouse": [
+      "1567_mariana_comi_beltri"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Mariano Castellà Cid",
+      "Candia Balagué Omedes"
+    ],
+    "father_name": "Mariano Castellà Cid",
+    "mother_name": "Candia Balagué Omedes",
+    "spouse_names": [
+      "Mª.de la Cinta Fortuna",
+      "Mariana Comí Beltri"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Safon",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pescador"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 23 de novembre de 1832 a la Ràpita.\n\nPadrins: Juan Safont i María Balagué.\n\nProfessió: pescador.\n\nCasament: el 24 de desembre de 1854 amb María de la Cinta Fortuna de Tortosa [1836]. Testimonis: Miguel Borràs i José Comí.\n\nFills: Juan [1855], Rosa [1860], Cándida [1860], Cinta [1864] i Mateu [1860].\n\nCasament: el 6 de febrer de 1868 a la Catedral de Tortosa amb Mariana Comí Beltri de Tortosa [1834].\n\nFills: Agustín [1870] i Carlota [1870].\n\nDefunció: el 21 de novembre de 1877 a la Ràpita de \"Emoptisis pulmonar\". Declara la defunció Rosa Traval.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

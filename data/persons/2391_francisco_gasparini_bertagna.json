@@ -1,0 +1,77 @@
+{
+  "id": "2391_francisco_gasparini_bertagna",
+  "source_id": "2391",
+  "row_ref": "2391. Francisco Gasparini Bertagna",
+  "name": "Francisco Gasparini Bertagna",
+  "gender": "male",
+  "birth": {
+    "date": "1761-01-01",
+    "place": "Aix (Est. Milan)(Ob.Como)"
+  },
+  "death": {
+    "date": "1820-07-26",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3261_theresa_matamoros_reverter",
+      "3758_francisca_ortiz_albacar"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Andrea Gasparini",
+      "Elisabetta Bertagna"
+    ],
+    "father_name": "Andrea Gasparini",
+    "mother_name": "Elisabetta Bertagna",
+    "spouse_names": [
+      "Theresa Matamoros Reverter",
+      "Francisca Ortiz Albacar"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Botiguer"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Azzio (Italia) [aprox. 1761].\n\nAls llibres sacramentals de la Ràpita, a diferentes partides, diu que va naixer a \"Achio\", \"Adchio\", \"Aix\", \"Achovaleni\" i \"Achio valcui\" del bisbat de Como (Italia).\n\nMolt probablement va naixer a Azzio que es pronuncia quasi igual i que en dialecte de la provincia de Varese es diu Asc. Es un poble que al 2020 té uns 800 habitants situat a la Valcuvia, una vall al nord de la provincia de Varese. Aquest poble esta a a menys de quilometre i mig d'Orino d'ont va venir Juan Moya Oruspina [1753] i Juan Bautista Moya Robertoni [1760].\n\nEl cognom Bretaña no existeix a Italia, el que se li sembla més es Bertagna. N' hi ha 7 a Comerio.\n\nAl gener de 1784 treballa com a paleta a una brigada de treballadors de les obres del Canal de Navegació. Al maig de 1784 li paguen 280 Rs per fer un pou a la casa fonda que s'està construint a aquesta Població (ACA BGRP caixa 47).\n\nProfessió: botiguer i \"negociante\". Sap escriure i signa com a Francesco Gasparino.\n\nCasament: amb Teresa Matamoros Reverter d'Alcanar [1762].\n\nFills: Francisca [1787], Juan [1790], José Antonio [1790], Francisco [1793], José Nicolás [1796], Lorenzo [1799] i Manuel [1800].\n\nAl estat de veïns de setembre de 1798 diu que viuen a la \"Plasa\" [podria ser la placeta vella] (ACA BGRP Cajas 34). Al gener de 1799 paga un lloguer de 15 Rv a Patrimoni per la botiga. També al gener de 1799 paga un lloguer de 31 Rv pels baixos de la casa núm. 11.\n\nCasament: el 15 de juliol de 1803 amb Francisca Ortíz Albacar d'Amposta [1765]. Es casa als 42 anys.\n\nFills: Agustín [1804] i José [1807].\n\nDefunció: el 26 de juliol de 1820 a la Ràpita. Va fer testament el 30 d'abril de 1820 \"en poder del Ecónomo, para bien de su alma dotó el producto de una casa que tiene en la Villa de Alcanar\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

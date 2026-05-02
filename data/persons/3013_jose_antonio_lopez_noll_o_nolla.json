@@ -1,0 +1,71 @@
+{
+  "id": "3013_jose_antonio_lopez_noll_o_nolla",
+  "source_id": "3013",
+  "row_ref": "3013. José Antonio López Noll [o Nolla]",
+  "name": "José Antonio López Noll [o Nolla]",
+  "gender": "male",
+  "birth": {
+    "date": "1820-12-25",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Bautista Joaquín López Segarra",
+      "Cinta Noll Barberà"
+    ],
+    "father_name": "Juan Bautista Joaquín López Segarra",
+    "mother_name": "Cinta Noll Barberà",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Casimiro Míes",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 25 de desembre de 1820 a la Ràpita.\n\nPadrins: Casimiro Míes i María Dam.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

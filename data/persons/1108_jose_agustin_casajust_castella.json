@@ -1,0 +1,86 @@
+{
+  "id": "1108_jose_agustin_casajust_castella",
+  "source_id": "1108",
+  "row_ref": "1108. José Agustín Casajust Castellà",
+  "name": "José Agustín Casajust Castellà",
+  "gender": "male",
+  "birth": {
+    "date": "1826-10-12",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1828-09-12",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1108_jose_agustin_casajust_castella",
+      "1204_manuela_castella_caldero"
+    ],
+    "father": "1108_jose_agustin_casajust_castella",
+    "mother": "1204_manuela_castella_caldero",
+    "spouse": [],
+    "children": [
+      "1104_maria_casajust_castella",
+      "1105_francisca_casajust_castella",
+      "1106_raymunda_casajust_castella",
+      "1108_jose_agustin_casajust_castella",
+      "1109_juan_casajust_castella"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Agustín Casajust Castellà",
+      "Manuela Castellà Calderó"
+    ],
+    "father_name": "José Agustín Casajust Michavila",
+    "mother_name": "Manuela Castellà Calderó",
+    "spouse_names": [],
+    "children_names": [
+      "Maria Casajust Castellà",
+      "Francisca Casajust Castellà",
+      "Raymunda Casajust Castellà",
+      "José Agustín Casajust Castellà",
+      "Juan Casajust Castellà"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Agustín Izquierdo",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 12 d'octubre de 1826 a la Ràpita. \"Por hallarse en peligro de muerte fue bautizado en casa de los padres por Francisco Casachust\".\n\nPadrins: Agustín Izquierdo i María Concepción Ciscar.\n\nDefunció: el 12 de setembre de 1828 a la Ràpita. Va morir de \"espasmo\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

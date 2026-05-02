@@ -1,0 +1,71 @@
+{
+  "id": "3489_fernando_bartolome_more_esteve",
+  "source_id": "3489",
+  "row_ref": "3489. Fernando Bartolome Moré Esteve",
+  "name": "Fernando Bartolome Moré Esteve",
+  "gender": "male",
+  "birth": {
+    "date": "1809-08-29",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Fernando Moré Gordils",
+      "? Esteve"
+    ],
+    "father_name": "Fernando Moré Gordils",
+    "mother_name": "? Esteve",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Bartolome Blanch",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 29 d'agost de 1809 a la Ràpita.\n\nPadrins: Bartolomé Blanch i Teresa Bistrer.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

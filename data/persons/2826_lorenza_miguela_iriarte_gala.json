@@ -1,0 +1,71 @@
+{
+  "id": "2826_lorenza_miguela_iriarte_gala",
+  "source_id": "2826",
+  "row_ref": "2826. Lorenza Miguela Iriarte Gala",
+  "name": "Lorenza Miguela Iriarte Gala",
+  "gender": "female",
+  "birth": {
+    "date": "1813-09-28",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Antonio Iriarte Gombau",
+      "Thomasa Gala Pol"
+    ],
+    "father_name": "José Antonio Iriarte Gombau",
+    "mother_name": "Thomasa Gala Pol",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Lorenzo Casadevall",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 28 de setembre de 1813 a la Ràpita.\n\nPadrins: Don Lorenzo Casadevall i Lorenza Fornesa.\n\nEs neboda de Ventura Iriarte Gombau.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "4043_maria_rosa_puig_granell",
+  "source_id": "4043",
+  "row_ref": "4043. Maria Rosa Puig Granell",
+  "name": "Maria Rosa Puig Granell",
+  "gender": "female",
+  "birth": {
+    "date": "1791-01-01",
+    "place": "La Galera"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4040_bautista_puig_bricart"
+    ],
+    "father": "4040_bautista_puig_bricart",
+    "mother": null,
+    "spouse": [
+      "4485_jose_romeu_pla"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Puig Bricart",
+      "Mariana Granell"
+    ],
+    "father_name": "Bautista Puig",
+    "mother_name": "Mariana Granell",
+    "spouse_names": [
+      "José Romeu Pla"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a La Galera [aprox. 1791]. \n\nCasament: el 25 de setembre de 1815 amb José Romeu Pla de la Ràpita [1793]. Es casa als 24 anys.\n\nFills: Isabel [1816], María [1820], José Tomás [1822], Francisco [1825], María Ana [1828] i Mariano [1830].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

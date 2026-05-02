@@ -1,0 +1,68 @@
+{
+  "id": "2143_maria_fibla_ronsano_o_lonzano",
+  "source_id": "2143",
+  "row_ref": "2143. María Fibla Ronsano [o Lonzano)",
+  "name": "María Fibla Ronsano [o Lonzano)",
+  "gender": "female",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1810].\n\nCasament: amb Blas Sancho Fibla d'Alcanar [1810].\n\nFills: Bautista [1831], Andrés [1838], Francisca [1839], Tomás Fermín [1841] i Teresa [1847].\n\nVenta: de Francisco Guardia a María Fibla (Ronsano) viuda de Blas Sancho (Fibla), de patio para edificar en la calle del Arrabal de San Isidro. 24 palmos de ancho y 60 de fondo. Linda con dicha calle, herederos de Jacinto Matamoros, Andrés Escrihuela (Reverter, marit d’Antonia Fibla Ronsano) y la otra calle de detrás. 31 de agosto de 1857. Valor 160.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "5471_manuel_verge_montserrat",
+  "source_id": "5471",
+  "row_ref": "5471. Manuel Verge Montserrat",
+  "name": "Manuel Verge Montserrat",
+  "gender": "male",
+  "birth": {
+    "date": "1814-02-03",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1844-09-02",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5463_andres_verge_gilabert"
+    ],
+    "father": "5463_andres_verge_gilabert",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "5461_manuel_pablo_verge_carceller"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Andrés Verge Gilabert",
+      "Vicenta Montserrat Guasch"
+    ],
+    "father_name": "Andrés Verge Gilabert",
+    "mother_name": "Vicenta Montserrat Guasch",
+    "spouse_names": [
+      "Paula Carceller Paiges"
+    ],
+    "children_names": [
+      "Manuel Pablo Verge Carceller"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Manuel Izquierdo",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 3 de febrer de 1814 a la Ràpita.\n\nPadrins: Manuel Izquierdo i Lorenza Fornesa.\n\nCasament: el 18 de març de 1842 amb Paula Carceller Pagès de Tortosa [1821].\n\nFills: Manuel Pablo [1842] i Cinta [1845].\n\nDefunció: el 2 de setembre de 1844 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

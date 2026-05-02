@@ -1,0 +1,74 @@
+{
+  "id": "351_francisca_balada_planes",
+  "source_id": "351",
+  "row_ref": "351. Francisca Balada Planes",
+  "name": "Francisca Balada Planes",
+  "gender": "female",
+  "birth": {
+    "date": "1802-03-27",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1802-05-04",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "342_francisco_balada_forcadell",
+      "3995_eulalia_planes_gubern"
+    ],
+    "father": "342_francisco_balada_forcadell",
+    "mother": "3995_eulalia_planes_gubern",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Balada Forcadell",
+      "Eulalia Planes Gubern"
+    ],
+    "father_name": "Francisco Balada Forcadell",
+    "mother_name": "Eulalia Planes Gubern",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Thomas Sastre",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 27 de març de 1802 a la Ràpita.\n\nPadrins: Tomás Sastre de Tortosa i Francisca Redó d'Amposta.\n\nDefunció: el 4 de maig de 1802 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

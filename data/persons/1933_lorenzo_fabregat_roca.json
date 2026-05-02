@@ -1,0 +1,87 @@
+{
+  "id": "1933_lorenzo_fabregat_roca",
+  "source_id": "1933",
+  "row_ref": "1933. Lorenzo Fabregat Roca",
+  "name": "Lorenzo Fabregat Roca",
+  "gender": "male",
+  "birth": {
+    "date": "1799-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1943_manuel_fabregat_segarra",
+      "1944_narcisa_fabregat_segarra",
+      "1945_agustin_lorenzo_fabregat_segarra",
+      "1946_inocencio_fabregat_segarra",
+      "1947_francisco_antonio_fabregat_segarra",
+      "1948_jose_fabregat_segarra"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pablo Fabregat",
+      "Isabel Roca"
+    ],
+    "father_name": "Pablo Fabregat",
+    "mother_name": "Isabel Roca",
+    "spouse_names": [
+      "Francisca Segarra Puchol"
+    ],
+    "children_names": [
+      "Manuel Fabregat Segarra",
+      "Narcisa Fabregat Segarra",
+      "Agustín Lorenzo Fabregat Segarra",
+      "Inocencio Fabregat Segarra",
+      "Francisco Antonio Fabregat Segarra",
+      "José Fabregat Segarra"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1799].\n\nProfessió: fuster.\n\nCasament: el 21 de febrer de 1829 amb Francisca Segarra Puchol de la Ràpita [1809].\n\nFills: Agustín Lorenzo [1830], Inocencio [1832], Manuel [1835], Francisco Antonio [1838], José [1840] i Narcisa [1843].\n\nEs germà de Joaquín Fabregat Roca [1800].\n\nDe l'1 de juny de 1834 al 31 de març de 1835 ha de pagar un lloguer de 8 Rs mensuals pel pis alt de l'esquerra de la casa 1 del carrer del Forn. De l'1 d'abril de 1835 al 31 de juliol de 1839 ha de pagar un lloguer de 4 Rs mensuals pel pis alt interior de la casa 1 del carrer del Forn. (AGP.PER.LEG.1073/23 [Juan Vecino]).\n\nDefunció: el 27 de juliol de 1880 a la Ràpita als 81 anys de \"apoplegia\". Declara la mor el seu net Joan Fabregat de 14 anys, fuster, sap escriure i signa. A la mor la seua mare diu que es diu Antonia.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

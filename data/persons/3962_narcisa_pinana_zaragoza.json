@@ -1,0 +1,74 @@
+{
+  "id": "3962_narcisa_pinana_zaragoza",
+  "source_id": "3962",
+  "row_ref": "3962. Narcisa Piñana Zaragoza",
+  "name": "Narcisa Piñana Zaragoza",
+  "gender": "female",
+  "birth": {
+    "date": "1813-10-29",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1813-10-29",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3959_domingo_pinana_omedes",
+      "5670_tomasa_zaragoza_omedes"
+    ],
+    "father": "3959_domingo_pinana_omedes",
+    "mother": "5670_tomasa_zaragoza_omedes",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Domingo Piñana Omedes",
+      "Tomasa Zaragoza Omedes"
+    ],
+    "father_name": "Domingo Piñana Omedes",
+    "mother_name": "Tomasa Zaragoza Omedes",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 29 d'octubre de 1813 a la Ràpita.\n\nDefunció: el 29 d'octubre de 1813 a la Ràpita. Va morir a les 2 hores.\n\n\"Fue bautizado por Christoval Alegret de 30 años por necesidad\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

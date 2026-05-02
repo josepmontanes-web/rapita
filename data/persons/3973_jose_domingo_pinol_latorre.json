@@ -1,0 +1,68 @@
+{
+  "id": "3973_jose_domingo_pinol_latorre",
+  "source_id": "3973",
+  "row_ref": "3973. José Domingo Piñol Latorre",
+  "name": "José Domingo Piñol Latorre",
+  "gender": "male",
+  "birth": {
+    "date": "1790-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Venta de Cristoval Alegret, peón de sanidad del puerto de los Alfaques a D. José Domingo Piñol y Latorre, caballero, de un patio en la plaza nombrada de la Aduana Vieja. 30 palmos de frente y 60 de fondo. Linda a Sol saliente con calle nombrada subida del castillo, a mediodía con Juan Brunet, a poniente con casa del comprador y a cierzo o tramontana con la Plaza de la Aduana Vieja. Precio 48 duros. 14 de enero de 1846.\n\nVenta de Juan Brunet a D. José Domingo Piñol Latorre de un patio en la Plaza de la Aduana Vieja. 30 palmos de frente y 60 de hondo. Linda por un lado con casa del comprador que antes fue de Cristoval Alegret, con Roman Cantanera por detrás con José (Soma? Loma?) y por delante con calle que baja al mar. Precio 36 duros. 7 de junio de 1846.\n\nEl 22 de febrer de 1869 Patrimoni subasta el solar nº 8 (el de la casa de Laureano) a la plaça de Isabel II amb parets de distribució aixecades fins a la altura del primer pis, medeix una superficie de 210,160 metres quadrats, s'ha tasat en 1932,68 escudos; linda al E amb casa de José Piñol mitjançant \"plazuela\" , al O amb el carrer de la Rambla (es el mateix que la Plaça Isabel II), al S amb el patí nº 9 i al N amb el carrer de la Trinitat. La compra Don Julio Carvallo. ACA caixa 349.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

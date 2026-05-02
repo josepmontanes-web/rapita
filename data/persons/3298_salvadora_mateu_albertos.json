@@ -1,0 +1,71 @@
+{
+  "id": "3298_salvadora_mateu_albertos",
+  "source_id": "3298",
+  "row_ref": "3298. Salvadora Mateu Albertos",
+  "name": "Salvadora Mateu Albertos",
+  "gender": "female",
+  "birth": {
+    "date": "1831-04-22",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Antonio Mateu Brau",
+      "Rita Albertos Pérez"
+    ],
+    "father_name": "José Antonio Mateu Brau",
+    "mother_name": "Rita Albertos Pérez",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Antonio Mateu",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 22 d'abril de 1831 a la Ràpita.\n\nPadrins: José Antonio Mateu i Doña Magdalena Massip.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "664_mariana_benlloch_feu",
+  "source_id": "664",
+  "row_ref": "664. Mariana Benlloch Feu",
+  "name": "Mariana Benlloch Feu",
+  "gender": "female",
+  "birth": {
+    "date": "1770-01-01",
+    "place": "Rialp"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Don Manuel Benlloch Lasos",
+      "Dña. Mariana Feu"
+    ],
+    "father_name": "Don Manuel Benlloch Lasos",
+    "mother_name": "Dña. Mariana Feu",
+    "spouse_names": [
+      "Don Juan Espinosa"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Rialp [aprox. 1770].\n\nCasament: el 3 d'abril de 1793 amb Juan Espinosa Megía de Ciudad Real [1770] i \"Cabo de este Real Resguardo\".\n\nFills: Fernando [1809].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "2785_juan_hoffaker",
+  "source_id": "2785",
+  "row_ref": "2785. Juan Hoffaker",
+  "name": "Juan Hoffaker",
+  "gender": "male",
+  "birth": {
+    "date": "1757-01-01",
+    "place": "Cantón de Soleure (Suiza)"
+  },
+  "death": {
+    "date": "1798-12-28",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Soldat"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: al cantó de Soleure (Solothurn) (Suïssa) [aprox. 1757].\n\nDefunció: el 28 de desembre de 1798 a la Ràpita.\n\n\"se encontró un muerto en este Puerto de los Alfaques, cerca de la chosa dicha de los Canareos, sobre el camino de esta nueva y Real Población de San Carlos, Obispado de Tortosa, Principado de Cataluña, a la Torre de San Juan, el qual fue llevado en esta dicha población al anochecer del mismo día, después de haber sido visitado por el Sr. Alcalde y Cirujano del lugar, habiéndose hechas por la justicia las diligencias necesarias, baxó de Tortosa Juan Schirartzentrub, sargento del segundo batallón de regimiento Suisso de Schwaller, quien ha reconocido al difunto y nos ha declarado que dicho difunto se llama Juan Hoffaker, quien es originario del cantón de Soleure en la Suissa, de edad cerca de quarenta y un años y que era soldado de la tercera compañía del segundo batallón de dicho regimiento, recivida esta declaración el día 30 de dicho mes y año, dí sepultura eclesiástica a dicho difunto en el cementerio de esta población en presencia de dicho sargento y de Don Lorenzo Casadevall, alcalde de la misma\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

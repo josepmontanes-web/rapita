@@ -1,0 +1,68 @@
+{
+  "id": "403_teresa_balague_caldero",
+  "source_id": "403",
+  "row_ref": "403. Teresa Balagué Calderó",
+  "name": "Teresa Balagué Calderó",
+  "gender": "female",
+  "birth": {
+    "date": "1854-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1854].\n\nCasament: el 25 de gener de 1874 amb Felipe Balagué Grego de Tortosa [1850]. Viuen a la Plaça Major (Plaça Carles III).\n\nFills: Francisco [1875] i Francisco Ismael [1880].\n\nEs germana de Francisca [1850].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

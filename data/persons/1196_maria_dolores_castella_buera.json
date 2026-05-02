@@ -1,0 +1,73 @@
+{
+  "id": "1196_maria_dolores_castella_buera",
+  "source_id": "1196",
+  "row_ref": "1196. María Dolores Castellà Buera",
+  "name": "María Dolores Castellà Buera",
+  "gender": "female",
+  "birth": {
+    "date": "1842-09-09",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1211_ramon_castella_caldero"
+    ],
+    "father": "1211_ramon_castella_caldero",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Ramon Castellà Calderó",
+      "Doña María Buera Cartes"
+    ],
+    "father_name": "Ramón Castellà Calderó",
+    "mother_name": "Doña María Buera Cartes",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Juan José Martínez",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 9 de setembre de 1842 a la Ràpita.\n\nPadrins: Don Juan José Martínez i Ildefonsa Castellà.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

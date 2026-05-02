@@ -1,0 +1,72 @@
+{
+  "id": "2787_candia_homedes",
+  "source_id": "2787",
+  "row_ref": "2787. Candia Homedes",
+  "name": "Candia Homedes",
+  "gender": "female",
+  "birth": {
+    "date": "1771-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1822-11-26",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3595_joaquin_navarro"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Joaquín Navarro"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1771].\n\nCasament: amb Joaquín Navarro de Tortosa [1770].\n\nFills: Candia (Tortosa) [1790].\n\nDefunció: el 26 de novembre de 1822 a la Ràpita. Va morir als 51 anys de \"muerte natural\". No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

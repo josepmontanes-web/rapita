@@ -1,0 +1,72 @@
+{
+  "id": "3849_maragarita_patuel",
+  "source_id": "3849",
+  "row_ref": "3849. Maragarita Patuel",
+  "name": "Maragarita Patuel",
+  "gender": "female",
+  "birth": {
+    "date": "1784-01-01",
+    "place": "Mataró"
+  },
+  "death": {
+    "date": "1828-09-24",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "2979_jose_lopez"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "José López"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Mataró [aprox. 1784]. \n\nCasament: amb José López de Granada [1770].\n\nDefunció: el 24 de setembre de 1828 a la Ràpita. Va morir als 44 anys de \"enfermedad de hidropecia\". No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

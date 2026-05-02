@@ -1,0 +1,78 @@
+{
+  "id": "3525_juan_moya_briciano",
+  "source_id": "3525",
+  "row_ref": "3525. Juan Moya Briciano",
+  "name": "Juan Moya Briciano",
+  "gender": "male",
+  "birth": {
+    "date": "1831-04-06",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3559_juan_moya_vilarroya",
+      "832_francisca_briciano_pasqual"
+    ],
+    "father": "3559_juan_moya_vilarroya",
+    "mother": "832_francisca_briciano_pasqual",
+    "spouse": [
+      "1104_maria_casajust_castella"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Moya Vilarroya",
+      "Francisca Briciano Pasqual"
+    ],
+    "father_name": "Juan Moya Vilarroya",
+    "mother_name": "Francisca Briciano Pasqual",
+    "spouse_names": [
+      "María Casajust Castellà"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Agustín Gasparín",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 6 d'abril de 1831 a la Ràpita.\n\nPadrins: Agustín Gasparín i Teresa Briciano.\n\nProfessió: pagès i jornaler.\n\nCasament: el 18 de desembre de 1852 amb María Francisca Casajust Castellà de la Ràpita [1830]. Testimonis: Lorenzo Gasparín i Manuel Sánchez.\n\nFills: Juan [1855], Mariano [1857] i Francisca [1862].\n\nCasament: el 16 de desembre de 1871 amb María Falcó Piñol de Xerta [1840].\n\nFills: Francisco, Cristobal [1876] i Prudencio.\n\nNo signa la declaració de naixement del fill al registre civil per no saber.\n\nDefunció: el 6 de maig de 1880 a la Ràpita de pleuro neumonia. Declara la mor la seua germana Francisca Moya de 20 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

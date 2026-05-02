@@ -1,0 +1,75 @@
+{
+  "id": "2275_teresa_gala_ximenes",
+  "source_id": "2275",
+  "row_ref": "2275. Teresa Gala Ximenes",
+  "name": "Teresa Gala Ximenes",
+  "gender": "female",
+  "birth": {
+    "date": "1814-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3756_juan_ortega_estramper"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Domingo Gala",
+      "Teresa Ximenes"
+    ],
+    "father_name": "Domingo Gala",
+    "mother_name": "Teresa Ximenes",
+    "spouse_names": [
+      "Juan Ortega Estramper"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1814].\n\nCasament: el 17 de desembre de 1832 amb Juan Ortega Estramper. Es casa als 18 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "3393_pedro_mir",
+  "source_id": "3393",
+  "row_ref": "3393. Pedro Mir",
+  "name": "Pedro Mir",
+  "gender": "male",
+  "birth": {
+    "date": "1740-01-01",
+    "place": "Barcelona"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Doña Rosa Alexandro"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Barcelona [aprox. 1740]. \n\nCasament: amb Doña Rosa Alejandro de Beceite (Teruel) [1850].\n\nFills: Antonia (Barcelona) [1770] i Pedro [1792].\n\nEmpleat de les Obres des de 1786. Al 1787 Josef Naudín diu que serà \"Cobrador de los derechos del Canal y vigilará a la cantera y demás encargos que estaban a cargo de Ulldemolins\". (ACA_BGRP_Correspondència_caixa 9).\n\nA l'estat de veïns de setembre de 1798 diu que la seua dona  viu a la casa núm. 1 de la \"Calle Mayor\" amb la seua filla i el seu gendre (ACA BGRP Cajas 34), pel que podria ser que ell hagués mor abans..",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

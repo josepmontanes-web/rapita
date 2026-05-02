@@ -1,0 +1,74 @@
+{
+  "id": "3616_enrique_navarro_castella",
+  "source_id": "3616",
+  "row_ref": "3616. Enrique Navarro Castellá",
+  "name": "Enrique Navarro Castellá",
+  "gender": null,
+  "birth": {
+    "date": "1906-04-24",
+    "place": "SC"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3657_enrique_navarro_martinez",
+      "1213_martina_castella_capilla"
+    ],
+    "father": "3657_enrique_navarro_martinez",
+    "mother": "1213_martina_castella_capilla",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Enrique Navarro Martínez",
+      "Martina Castellá Capilla"
+    ],
+    "father_name": "Enrique Navarro Martínez",
+    "mother_name": "Martina Castellá Capilla",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 24 d'abril de 1906 a la Ràpita.\n\nCasament: amb Angeles Beltran Enero de la Ràpita.\n\nFills: Angeles [1933] i Enrique [1941].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

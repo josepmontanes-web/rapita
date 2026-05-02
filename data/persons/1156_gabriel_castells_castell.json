@@ -1,0 +1,80 @@
+{
+  "id": "1156_gabriel_castells_castell",
+  "source_id": "1156",
+  "row_ref": "1156. Gabriel Castells Castell",
+  "name": "Gabriel Castells Castell",
+  "gender": "male",
+  "birth": {
+    "date": "1841-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1842-12-23",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1161_magin_castells_miro",
+      "1145_manuela_castell_balada"
+    ],
+    "father": "1161_magin_castells_miro",
+    "mother": "1145_manuela_castell_balada",
+    "spouse": [],
+    "children": [
+      "1145_manuela_castell_balada",
+      "1153_agustin_castells"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Magín Castells Miró",
+      "Manuela Castell Balada"
+    ],
+    "father_name": "Magín Castells Miró",
+    "mother_name": "Manuela Castell Balada",
+    "spouse_names": [],
+    "children_names": [
+      "Manuela Castell Balada",
+      "Agustín Castells"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1841].\n\nDefunció: el 23 de desembre de 1842 a la Ràpita. Va morir quan tenia un any.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

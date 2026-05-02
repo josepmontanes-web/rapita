@@ -1,0 +1,73 @@
+{
+  "id": "4672_matheo_salvador_mayals",
+  "source_id": "4672",
+  "row_ref": "4672. Matheo Salvador Mayals",
+  "name": "Matheo Salvador Mayals",
+  "gender": "male",
+  "birth": {
+    "date": "1811-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1812-07-04",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4668_juan_salvador_christofol"
+    ],
+    "father": "4668_juan_salvador_christofol",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Salvador Christofol",
+      "Maria Mayals"
+    ],
+    "father_name": "Juan Salvador",
+    "mother_name": "Maria Mayals",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1811]. \n\nDefunció: el 4 de juliol de 1812 a la Ràpita. Va morir als 9 mesos.\n\nEs cosí de Teresa María Mayals Cartes.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

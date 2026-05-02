@@ -1,0 +1,81 @@
+{
+  "id": "5303_ramon_tomas_sole",
+  "source_id": "5303",
+  "row_ref": "5303. Ramón Tomas Solé",
+  "name": "Ramón Tomas Solé",
+  "gender": "male",
+  "birth": {
+    "date": "1814-01-01",
+    "place": "Godall"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5302_miguel_tomas_sanchis"
+    ],
+    "father": "5302_miguel_tomas_sanchis",
+    "mother": null,
+    "spouse": [
+      "307_casimira_badenes_sancho"
+    ],
+    "children": [
+      "5190_jose_subirats_carseles"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Tomás Sanchís",
+      "Agustina Solé"
+    ],
+    "father_name": "Miguel Tomas",
+    "mother_name": "Agustina Solé",
+    "spouse_names": [
+      "Casimira Badenes Sancho"
+    ],
+    "children_names": [
+      "José Subirats Carseles"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Godall [aprox. 1814].\n\nProfessió: pagès.\n\nCasament: el 26 d'abril de 1848 amb Casimira Badenes Sancho. Quan es casa es veí de Godall. Es casa als 34 anys vidu.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

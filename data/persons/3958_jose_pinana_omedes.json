@@ -1,0 +1,75 @@
+{
+  "id": "3958_jose_pinana_omedes",
+  "source_id": "3958",
+  "row_ref": "3958. José Piñana Omedes",
+  "name": "José Piñana Omedes",
+  "gender": "male",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1792_maria_escardo_domingo"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Piñana",
+      "Felipa Omedes"
+    ],
+    "father_name": "Pedro Piñana",
+    "mother_name": "Felipa Omedes",
+    "spouse_names": [
+      "María Escardó Domingo"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1790]. \n\nCasament: amb María Escardó Domingo de Tortosa [1790].\n\nFills: Dolores [1811].\n\nEs germà de Domingo Piñana Omedes [1790].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

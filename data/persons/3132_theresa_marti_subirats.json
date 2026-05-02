@@ -1,0 +1,74 @@
+{
+  "id": "3132_theresa_marti_subirats",
+  "source_id": "3132",
+  "row_ref": "3132. Theresa Martí Subirats",
+  "name": "Theresa Martí Subirats",
+  "gender": "female",
+  "birth": {
+    "date": "1812-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1814-07-01",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3117_joaquin_marti_cardona",
+      "5201_rosa_subirats_miro"
+    ],
+    "father": "3117_joaquin_marti_cardona",
+    "mother": "5201_rosa_subirats_miro",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Martí Cardona",
+      "Rosa Subirats Miró"
+    ],
+    "father_name": "Joaquín Martí Cardona",
+    "mother_name": "Rosa Subirats Miró",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1812]. \n\nDefunció: l'1 de juliol de 1814 a la Ràpita. Va morir als 2 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

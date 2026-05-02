@@ -1,0 +1,74 @@
+{
+  "id": "5527_maria_susana_vidal_masons",
+  "source_id": "5527",
+  "row_ref": "5527. Maria Susana Vidal Masons",
+  "name": "Maria Susana Vidal Masons",
+  "gender": "female",
+  "birth": {
+    "date": "1829-04-28",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1830-05-30",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5568_jose_antonio_vidal_sastre",
+      "3156_maria_masons_tabasca"
+    ],
+    "father": "5568_jose_antonio_vidal_sastre",
+    "mother": "3156_maria_masons_tabasca",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Antonio Vidal Sastre",
+      "María Masons Tabascà"
+    ],
+    "father_name": "José Antonio Vidal Sastre",
+    "mother_name": "Maria Masons Tabascà",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Lorenzo Fabregat",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 28 d'abril de 1829 a la Ràpita.\n\nPadrins: Lorenzo Fabregat i Susana Bosch.\n\nDefunció: el 30 de maig de 1830 a la Ràpita. Va morir de \"espasmo\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

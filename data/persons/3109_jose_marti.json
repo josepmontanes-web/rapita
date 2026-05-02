@@ -1,0 +1,74 @@
+{
+  "id": "3109_jose_marti",
+  "source_id": "3109",
+  "row_ref": "3109. José Martí",
+  "name": "José Martí",
+  "gender": "male",
+  "birth": {
+    "date": "1791-01-01",
+    "place": "Cervera"
+  },
+  "death": {
+    "date": "1818-11-14",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "3119_antonia_marti_castells",
+      "3131_juan_marti_sans"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Antonia Martí Castells",
+      "Juan Martí Sans"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Soldat"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Cervera [aprox. 1791]. \n\n\"Soldado de la 3ª Cia. del Batallón 4º ligero Voluntarios de Tarragona\".\n\nDefunció: el 14 de novembre de 1818 a la Ràpita. Va morir als 27 anys. Se l'enterra el dia 17. \"No hizo testamento porqué se le encontró en la calle herido mortalmente\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

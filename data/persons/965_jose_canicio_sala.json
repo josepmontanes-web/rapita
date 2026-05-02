@@ -1,0 +1,68 @@
+{
+  "id": "965_jose_canicio_sala",
+  "source_id": "965",
+  "row_ref": "965. José Canicio Sala",
+  "name": "José Canicio Sala",
+  "gender": "male",
+  "birth": {
+    "date": "1840-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Es un dels 28 veïns de la Ràpita que figuren al primer cens electoral de San Carlos de la Rápita de 1867, diu que viu al carrer Sant Francesc, 2.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

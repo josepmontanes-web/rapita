@@ -1,0 +1,78 @@
+{
+  "id": "3415_rosa_miralles",
+  "source_id": "3415",
+  "row_ref": "3415. Rosa Miralles",
+  "name": "Rosa Miralles",
+  "gender": "female",
+  "birth": {
+    "date": "1802-01-01",
+    "place": "Freginals"
+  },
+  "death": {
+    "date": "1832-10-15",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "544_francisco_bel"
+    ],
+    "children": [
+      "568_jose_bel_miralles",
+      "569_vicenta_bel_miralles"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Francisco Bel"
+    ],
+    "children_names": [
+      "José Bel Miralles",
+      "Vicenta Bel Miralles"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Freginals [aprox. 1802]. \n\nCasament: amb Francisco Bel de Freginals [1800].\n\nFills: Vicenta [1827] i José [1831].\n\nDefunció: el 15 d'octubre de 1832 a la Ràpita. Va morir als 30 anys. Va fer testament davant de Francisco Avella. \"Dotó su alma en 10 libras valencianas\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

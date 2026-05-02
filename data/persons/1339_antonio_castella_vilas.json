@@ -1,0 +1,79 @@
+{
+  "id": "1339_antonio_castella_vilas",
+  "source_id": "1339",
+  "row_ref": "1339. Antonio Castellà Vilàs",
+  "name": "Antonio Castellà Vilàs",
+  "gender": "male",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1165_salvador_castella"
+    ],
+    "father": "1165_salvador_castella",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1231_antonio_castella_cobina"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Salvador Castellà",
+      "María Antonia Vilàs o Vilaró"
+    ],
+    "father_name": "Salvador Castellà",
+    "mother_name": "María Antonia Vilàs o Vilaró",
+    "spouse_names": [
+      "Rosalea Cobina Veuza"
+    ],
+    "children_names": [
+      "Antonio Castellà Cobina"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1790].\n\nCasament: amb Rosalea Cobina Veuza de Cartagena, filla de José i María Rosa de Tortosa.\n\nFills: Tomasa (Tortosa) [1810] i Antonio [1813].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

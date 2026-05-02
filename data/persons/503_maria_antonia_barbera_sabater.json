@@ -1,0 +1,81 @@
+{
+  "id": "503_maria_antonia_barbera_sabater",
+  "source_id": "503",
+  "row_ref": "503. María Antonia Barberà Sabater",
+  "name": "María Antonia Barberà Sabater",
+  "gender": "female",
+  "birth": {
+    "date": "1770-01-01",
+    "place": "Fresneda (Zaragoza)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "493_jayme_barbera"
+    ],
+    "father": "493_jayme_barbera",
+    "mother": null,
+    "spouse": [
+      "2986_ramon_lopez_costa"
+    ],
+    "children": [
+      "1797_38_1800"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Jayme Barberà",
+      "Mª. Antonia Sabater"
+    ],
+    "father_name": "Jayme Barberà",
+    "mother_name": "Mª. Antonia Sabater",
+    "spouse_names": [
+      "Ramón López Costa"
+    ],
+    "children_names": [
+      "38 1800"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  a La Fresneda (La Freixneda en català)[aprox. 1770].\n\nCasament: amb Ramón López Costa de Baza (Granada) [1770].\n\nFills: José Antonio [1794].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Fonda Vella núm. 8 (ACA BGRP Cajas 34).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

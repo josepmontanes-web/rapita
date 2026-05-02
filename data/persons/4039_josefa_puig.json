@@ -1,0 +1,82 @@
+{
+  "id": "4039_josefa_puig",
+  "source_id": "4039",
+  "row_ref": "4039. Josefa Puig",
+  "name": "Josefa Puig",
+  "gender": "female",
+  "birth": {
+    "date": "1785-01-01",
+    "place": "Ulldecona"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "2163_jose_fonollosa"
+    ],
+    "children": [
+      "2166_francisca_fonollosa_puig",
+      "2167_josefa_fonollosa_puig",
+      "2168_maria_fonollosa_puig",
+      "2169_jose_fonollosa_puig"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "José Fonollosa"
+    ],
+    "children_names": [
+      "Francisca Fonollosa Puig",
+      "Josefa Fonollosa Puig",
+      "Maria Fonollosa Puig",
+      "José Fonollosa Puig"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Ulldecona [aprox. 1785]. \n\nCasament: amb José Fonollosa de Rossell [1784].\n\nFills: Josefa (Freginals) [1813], María (Freginals) [1820], Francisca (Freginals) [1820] i José [1822].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

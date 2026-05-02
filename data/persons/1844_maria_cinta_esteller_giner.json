@@ -1,0 +1,68 @@
+{
+  "id": "1844_maria_cinta_esteller_giner",
+  "source_id": "1844",
+  "row_ref": "1844. Maria Cinta Esteller Giner",
+  "name": "Maria Cinta Esteller Giner",
+  "gender": "female",
+  "birth": {
+    "date": "1877-04-04",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 4 d'abril de 1877 a la Ràpita. Al naixement consta com a Josefa.\n\nDefunció: el 28 de juny de 1878 a la Ràpita, al any de enteritis.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

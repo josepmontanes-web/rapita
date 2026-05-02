@@ -1,0 +1,73 @@
+{
+  "id": "1908_teresa_francisca_fabregat_fabra",
+  "source_id": "1908",
+  "row_ref": "1908. Teresa Francisca Fabregat Fabra",
+  "name": "Teresa Francisca Fabregat Fabra",
+  "gender": "female",
+  "birth": {
+    "date": "1838-10-16",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1923_juan_fabregat_mateu"
+    ],
+    "father": "1923_juan_fabregat_mateu",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Fabregat Mateu",
+      "Antonia Fabra Miralles"
+    ],
+    "father_name": "Juan Fabregat Mateu",
+    "mother_name": "Antonia Fabra Miralles",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Gasparín",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 16 d'octubre de 1838 a la Ràpita.\n\nPadrins: Francisco Gasparín i Teresa Ferrer.\n\nCasament: amb Juan Bernaltes.\n\nCasament: el 13 de juny de 1876 amb Vicente Sogues Bella de Traiguera [1854].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

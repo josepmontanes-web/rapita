@@ -1,0 +1,93 @@
+{
+  "id": "71_agueda_alegret_cid",
+  "source_id": "71",
+  "row_ref": "71. Agueda Alegret Cid",
+  "name": "Agueda Alegret Cid",
+  "gender": "female",
+  "birth": {
+    "date": "1774-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1846-06-24",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1171_juan_castella_alegret"
+    ],
+    "father": "1171_juan_castella_alegret",
+    "mother": null,
+    "spouse": [
+      "1287_juan_castella_mola"
+    ],
+    "children": [
+      "1167_agueda_castella_alegret",
+      "1168_rosa_castella_alegret",
+      "1169_bautista_castella_alegret",
+      "1170_tomas_castella_alegret",
+      "1171_juan_castella_alegret",
+      "1172_pedro_castella_alegret",
+      "1173_mariano_castella_alegret"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Castellà Alegret",
+      "Candia Cid"
+    ],
+    "father_name": "Juan Alegret",
+    "mother_name": "Candia Cid",
+    "spouse_names": [
+      "Juan Castellà Mola"
+    ],
+    "children_names": [
+      "Agueda Castellà Alegret",
+      "Rosa Castellà Alegret",
+      "Bautista Castellà Alegret",
+      "Tomás Castellà Alegret",
+      "Juan Castellà Alegret",
+      "Pedro Castellà Alegret",
+      "Mariano Castellà Alegret"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  a Tortosa [aprox. 1774].\n\nCasament: el 3 de febrer de 1798 a la Catedral de Tortosa amb Juan Castellà Mola de Tortosa [1775].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu al barri dels pescadors  (ACA BGRP Cajas 34).\n\nFills: Juan (Tortosa) [aprox 1800], Agueda [1802], Pedro (Tortosa) [aprox 1806], Rosa (Tortosa) [aprox 1809], Mariano [1812], Tomás [1816] i Bautista [1820].\n\nDefunció: el 24 de juny de 1846 a la Ràpita de apoplexia. No fa testament. A la seva partida de defunció el pare consta com a Francisco i la mare com a Candida.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

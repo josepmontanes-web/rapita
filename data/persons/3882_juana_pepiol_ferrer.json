@@ -1,0 +1,73 @@
+{
+  "id": "3882_juana_pepiol_ferrer",
+  "source_id": "3882",
+  "row_ref": "3882. Juana Pepiol Ferrer",
+  "name": "Juana Pepiol Ferrer",
+  "gender": "female",
+  "birth": {
+    "date": "1832-01-26",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3898_francisco_pepiol_pascual"
+    ],
+    "father": "3898_francisco_pepiol_pascual",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Pepiol Pascual",
+      "Ramona Ferré Subirats"
+    ],
+    "father_name": "Francisco Pepiol Pascual",
+    "mother_name": "Ramona Ferré Subirats",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Pedro Ferrer",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 26 de gener de 1832 a la Ràpita.\n\nPadrins: Pedro Ferrer i Teresa Pascual.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "2259_francisco_fructuoso",
+  "source_id": "2259",
+  "row_ref": "2259. Francisco Fructuoso",
+  "name": "Francisco Fructuoso",
+  "gender": "male",
+  "birth": {
+    "date": "1844-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1844].\n\nProfessió: mariner.\n\nCasament: el 20 d'agost de 1873 amb María Degollada Safont de la Ràpita [1853]. Es casa als 29 anys.\n\nFills: Teresa [1876].\n\nNo signa la declaració de naixement de la filla al registre civil per no saber.\n\nDefunció: el 19 de maig de 1877 a la Ràpita als 29 anys de tisis tuberculosa. Diu que deixa una filla que es diu Francisca. Declara la mor al registre civil la tia Josefa Safont.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

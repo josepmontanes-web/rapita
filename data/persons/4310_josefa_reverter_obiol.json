@@ -1,0 +1,77 @@
+{
+  "id": "4310_josefa_reverter_obiol",
+  "source_id": "4310",
+  "row_ref": "4310. Josefa Reverter Obiol",
+  "name": "Josefa Reverter Obiol",
+  "gender": "female",
+  "birth": {
+    "date": "1806-02-25",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3746_margarita_obiol_o_albiol_viscarro"
+    ],
+    "father": null,
+    "mother": "3746_margarita_obiol_o_albiol_viscarro",
+    "spouse": [
+      "4486_manuel_romeu_pla"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Reverter Sancho",
+      "Margarita Obiol [o Albiol] Viscarro"
+    ],
+    "father_name": "Josef Reverter Sancho",
+    "mother_name": "Margarita Obiol Viscarró",
+    "spouse_names": [
+      "Manuel Romeu Pla"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Gil Ignacio Herent",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 25 de febrer de 1806 a la Ràpita.\n\nPadrins: Don Gil Ignacio Herent es de Venencienes i Doña Antonia Marsal.\n\nCasament: el 7 de maig de 1821 amb Manuel Romeu Pla de la Ràpita [1800].\n\nFills: Miguel [1824], Rafael [1827], José [1830], Atanacio [1833], Apolonia María [1836], Manuel Francisco [1840] i María Rosa [1842].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "id": "2057_fermin_ferrer_marti",
+  "source_id": "2057",
+  "row_ref": "2057. Fermín Ferrer Martí",
+  "name": "Fermín Ferrer Martí",
+  "gender": "male",
+  "birth": {
+    "date": "1795-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2103_francisco_ferrer_sorolla",
+      "3111_salvadora_marti"
+    ],
+    "father": "2103_francisco_ferrer_sorolla",
+    "mother": "3111_salvadora_marti",
+    "spouse": [],
+    "children": [
+      "2081_juan_manuel_ferre_sancho",
+      "2082_jose_ferrer_sancho",
+      "2083_francisco_tomas_ferrer_sancho",
+      "2084_tomasa_ferrer_sancho",
+      "2085_severo_ferrer_sancho",
+      "2086_maria_de_la_concepcion_ferrer_sancho",
+      "2087_buenaventura_ferrer_sancho",
+      "2088_manuel_ferrer_sancho"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Ferrer Sorolla",
+      "Salvadora Martí"
+    ],
+    "father_name": "Francisco Ferrer Sorolla",
+    "mother_name": "Salvadora Martí",
+    "spouse_names": [
+      "Raymunda Sancho Pla"
+    ],
+    "children_names": [
+      "Juan Manuel Ferré Sancho",
+      "José Ferrer Sancho",
+      "Francisco Tomás Ferrer Sancho",
+      "Tomasa Ferrer Sancho",
+      "Severo Ferrer Sancho",
+      "Maria de la Concepción Ferrer Sancho",
+      "Buenaventura Ferrer Sancho",
+      "Manuel Ferrer Sancho"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Portell de Morella [aprox. 1795].\n\nOcupació: propietari i pagès.\n\nCasament: l'11 de maig de 1822 amb Raymunda Sancho Pla de la Ràpita [1803].\n\nFills: José [1825], Francisco Tomás [1827], Juan Manuel [1830], Severo [1832], Tomasa [1835], María de la Concepción [1837], Buenaventura [1840], Manuel [1842], Fermin [1850] i Josefa [1853].\n\nDel 1858 al 1862 té llogats els horts i garroferal del Real Patrimoni a raó de 600 rv el primer any, 600 el segón, 1000 el tercer i 1000 el quart. (ACA caixa 860).\n\nDefunció: el 31 de maig de 1878 a la Ràpita, als 83 anys de gastroenteritis. Alcalde de 1850 a 1853.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

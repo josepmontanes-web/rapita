@@ -1,0 +1,75 @@
+{
+  "id": "2490_agustina_gavas_ines",
+  "source_id": "2490",
+  "row_ref": "2490. Agustina Gavas Inés",
+  "name": "Agustina Gavas Inés",
+  "gender": "female",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3092_agustin_mana_vea"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustín Gavas",
+      "Cinta Inés"
+    ],
+    "father_name": "Agustín Gavas",
+    "mother_name": "Cinta Inés",
+    "spouse_names": [
+      "Agustín Maña Vea"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1800].\n\nCasament: el 15 de setembre de 1845 amb Agustín Maña Vea [1795]. Quan es va casar era veïna de Tortosa.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

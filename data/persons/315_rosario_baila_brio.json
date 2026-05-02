@@ -1,0 +1,68 @@
+{
+  "id": "315_rosario_baila_brio",
+  "source_id": "315",
+  "row_ref": "315. Rosario Baila Brió",
+  "name": "Rosario Baila Brió",
+  "gender": "female",
+  "birth": {
+    "date": "1830-01-01",
+    "place": "Vinaròs"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1830].\n\nCasament: amb Ignacio Bayerri.\n\nCasament: el 5 de juliol de 1880 amb Juan Bel Baima de la Ràpita [1838]. Es casa als 50 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "5502_juan_vidal_beltran",
+  "source_id": "5502",
+  "row_ref": "5502. Juan Vidal Beltran",
+  "name": "Juan Vidal Beltran",
+  "gender": "male",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5535_francisco_vidal_palos",
+      "637_juana_beltran_sancho"
+    ],
+    "father": "5535_francisco_vidal_palos",
+    "mother": "637_juana_beltran_sancho",
+    "spouse": [
+      "1359_josefa_caubet_rodriguez"
+    ],
+    "children": [
+      "5513_rosa_paula_vidal_caubet",
+      "5514_magdalena_vidal_caubet"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Vidal Palos",
+      "Juana Beltran Sancho"
+    ],
+    "father_name": "Francisco Vidal Palos",
+    "mother_name": "Juana Beltran Sancho",
+    "spouse_names": [
+      "Josefa Caubet Rodríguez"
+    ],
+    "children_names": [
+      "Rosa Paula Vidal Caubet",
+      "Magdalena Vidal Caubet"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1810].\n\nCasament: amb Josefa Caubet Rodríguez de Tortosa [1810].\n\nFills: Rosa Paula [1829] i Magdalena [1831].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

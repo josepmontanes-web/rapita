@@ -1,0 +1,81 @@
+{
+  "id": "970_antonio_cantero_pinar",
+  "source_id": "970",
+  "row_ref": "970. Antonio Cantero Pinar",
+  "name": "Antonio Cantero Pinar",
+  "gender": "male",
+  "birth": {
+    "date": "1805-01-01",
+    "place": "Lloret (Ob. Barcelona)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "968_blas_cantero_martinez"
+    ],
+    "father": "968_blas_cantero_martinez",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "969_maria_ana_cantero_zaragoza",
+      "3932_antonia_pinar_baran"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Blas Cantero Martínez",
+      "Antonia Pinart Baran"
+    ],
+    "father_name": "Blas Cantero Martínez",
+    "mother_name": "Antonia Pinart Baran",
+    "spouse_names": [
+      "Maria Zaragoza Cartes"
+    ],
+    "children_names": [
+      "Maria Ana Cantero Zaragoza",
+      "Antonia Pinar Baran"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Lloret (Ob. Barcelona) [aprox. 1805].\n\nCasament: amb María Zaragoza Cartes de Tortosa filla de José Zaragoza i María Ana Cartes de Tortosa.\n\nFills: María Ana [1826].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "5451_francisco_de_ventura",
+  "source_id": "5451",
+  "row_ref": "5451. Francisco de Ventura",
+  "name": "Francisco de Ventura",
+  "gender": "male",
+  "birth": {
+    "date": "1839-05-01",
+    "place": null
+  },
+  "death": {
+    "date": "1839-06-09",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1839].\n\nDefunció: el 9 de juny de 1839 a la Ràpita. Va morir al mes de naixer.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

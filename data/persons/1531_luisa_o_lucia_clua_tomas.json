@@ -1,0 +1,78 @@
+{
+  "id": "1531_luisa_o_lucia_clua_tomas",
+  "source_id": "1531",
+  "row_ref": "1531. Luisa [o Lucia] Clua Tomás",
+  "name": "Luisa [o Lucia] Clua Tomás",
+  "gender": "female",
+  "birth": {
+    "date": "1830-01-01",
+    "place": "La Galera"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1518_miguel_clua_cid"
+    ],
+    "father": "1518_miguel_clua_cid",
+    "mother": null,
+    "spouse": [
+      "726_jose_biosca_marti"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Clua Cid",
+      "María Tomás Arquenes"
+    ],
+    "father_name": "Miguel Clua Cid",
+    "mother_name": "María Tomás Arquenes",
+    "spouse_names": [
+      "José Biosca Martí",
+      "es natural i veí de Freginals."
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Galera [aprox. 1830].\n\nCasament: el 13 de gener de 1855 amb José Biosca Martí natural i veí de Freginals. Es casa als 25 anys. Testimonis: Bartolomé Silvestre i Miguel Clua.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

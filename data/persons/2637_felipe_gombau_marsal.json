@@ -1,0 +1,79 @@
+{
+  "id": "2637_felipe_gombau_marsal",
+  "source_id": "2637",
+  "row_ref": "2637. Felipe Gombau Marsal",
+  "name": "Felipe Gombau Marsal",
+  "gender": "male",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2636_domingo_gombau_marsal"
+    ],
+    "father": "2636_domingo_gombau_marsal",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2646_juan_agustin_gombau_safont"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Domingo Gombau Marsal",
+      "Maria Marsal"
+    ],
+    "father_name": "Domingo Gombau",
+    "mother_name": "Maria Marsal",
+    "spouse_names": [
+      "Rosa Safont Balaguer"
+    ],
+    "children_names": [
+      "Juan Agustín Gombau Safont"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1820].\n\nCasament: el 30 d'octubre de 1841 amb Rosa Safont Balagué de la Ràpita [1823].\n\nFills: Juan Agustín [1842], María [1845], Vicenta [1850] i Francisco [1851].\n\nEs germà de Domingo Gombau Marsal [1825].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

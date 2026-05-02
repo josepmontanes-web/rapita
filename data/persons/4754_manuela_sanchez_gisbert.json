@@ -1,0 +1,73 @@
+{
+  "id": "4754_manuela_sanchez_gisbert",
+  "source_id": "4754",
+  "row_ref": "4754. Manuela Sánchez Gisbert",
+  "name": "Manuela Sánchez Gisbert",
+  "gender": "female",
+  "birth": {
+    "date": "1807-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1809-08-26",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4709_dionisio_sanchez"
+    ],
+    "father": "4709_dionisio_sanchez",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Dionisio Sánchez",
+      "Josefa Gisbert"
+    ],
+    "father_name": "Dionisio Sánchez",
+    "mother_name": "Josefa Gisbert",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1807]. \n\nDefunció: el 26 d'agost de 1809 a la Ràpita. Va morir als 2 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

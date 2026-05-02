@@ -1,7 +1,7 @@
 {
   "id": "35_rosa_adell_tallada",
   "source_id": "35",
-  "row_ref": "35",
+  "row_ref": "35. Rosa Adell Tallada",
   "name": "Rosa Adell Tallada",
   "gender": "female",
   "birth": {
@@ -21,19 +21,56 @@
     "lng": null
   },
   "family": {
-    "parents": [],
-    "spouse": [],
-    "children": []
+    "parents": [
+      "19_jose_adell_domech_o_domenech",
+      "5264_vicenta_tallada"
+    ],
+    "father": "19_jose_adell_domech_o_domenech",
+    "mother": "5264_vicenta_tallada",
+    "spouse": [
+      "4902_miguel_sancho_matamoros"
+    ],
+    "children": [
+      "4836_francisca_sancho_adell",
+      "4837_josef_manuel_sancho_adell",
+      "4838_pedro_sancho_adell"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
   },
   "relations_detail": {
     "parents_names": [
-      "José Adell",
+      "José Adell Domech [o Domenech].",
       "Vicenta Tallada"
     ],
+    "father_name": "José Adell",
+    "mother_name": "Vicenta Tallada",
     "spouse_names": [
       "Miguel Sancho Matamoros"
     ],
-    "children_names": []
+    "children_names": [
+      "Francisca Sancho Adell",
+      "Josef Manuel Sancho Adell",
+      "Pedro Sancho Adell"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
   },
   "occupation": {
     "title": null

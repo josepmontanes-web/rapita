@@ -1,0 +1,73 @@
+{
+  "id": "4842_mariano_sancho_balada",
+  "source_id": "4842",
+  "row_ref": "4842. Mariano Sancho Balada",
+  "name": "Mariano Sancho Balada",
+  "gender": "male",
+  "birth": {
+    "date": "1845-06-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1846-09-16",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4834_jose_sancho"
+    ],
+    "father": "4834_jose_sancho",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Sancho",
+      "Raymunda Balada"
+    ],
+    "father_name": "José Sancho",
+    "mother_name": "Raymunda Balada",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1845]. \n\nDefunció: el 16 de setembre de 1846 a la Ràpita. Va morir als 15 mesos de \"espasmo\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

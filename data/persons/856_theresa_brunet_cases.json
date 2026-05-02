@@ -1,0 +1,81 @@
+{
+  "id": "856_theresa_brunet_cases",
+  "source_id": "856",
+  "row_ref": "856. Theresa Brunet Cases",
+  "name": "Theresa Brunet Cases",
+  "gender": "female",
+  "birth": {
+    "date": "1768-01-01",
+    "place": "Xerta"
+  },
+  "death": {
+    "date": "1816-05-28",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "756_bautista_borras"
+    ],
+    "children": [
+      "761_francisca_antonia_borras_brunet",
+      "762_josefa_borras_brunet"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Bautista Brunet",
+      "Josefa Cases"
+    ],
+    "father_name": "Juan Bautista Brunet",
+    "mother_name": "Josefa Cases",
+    "spouse_names": [
+      "Bautista Borràs"
+    ],
+    "children_names": [
+      "Francisca Antonia Borràs Brunet",
+      "Josefa Borràs Brunet"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Xerta [aprox. 1768].\n\nCasament: amb Bautista Borràs de Xerta [1770].\n\nFills: Francisca Antonia (Xerta) [aprox 1800] i Josefa [aprox 1809].\n\nDefunció: el 28 de maig de 1816 a la Ràpita. Va morir als 48 anys de \"recargo de terciana\".\n\nEs germana de Juan Bautista Brunet Cases de Xerta [1765].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

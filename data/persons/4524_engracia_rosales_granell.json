@@ -1,0 +1,78 @@
+{
+  "id": "4524_engracia_rosales_granell",
+  "source_id": "4524",
+  "row_ref": "4524. Engracia Rosales Granell",
+  "name": "Engracia Rosales Granell",
+  "gender": "female",
+  "birth": {
+    "date": "1825-06-05",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4548_antonio_rosales_sole",
+      "2662_tomasa_granell_puig"
+    ],
+    "father": "4548_antonio_rosales_sole",
+    "mother": "2662_tomasa_granell_puig",
+    "spouse": [
+      "4138_bernabe_ramirez_benlloch"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Rosales Solé",
+      "Tomasa Granell Puig"
+    ],
+    "father_name": "Antonio Rosales Valls",
+    "mother_name": "Tomasa Granell Puig",
+    "spouse_names": [
+      "Bernabé Ramírez Benlloch"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Miguel Rosales",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 5 de juny de 1825 a la Ràpita.\n\nPadrins: Miguel Rosales i Engracia Carles.\n\nCasament: el 24 de gener de 1853 amb Bernabé Ramírez Benlloch de la Ràpita [1823]. Testimonis: Agustín Reverté i Ramón Ferré.\n\nFills: Bernabé [1853].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

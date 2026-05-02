@@ -1,0 +1,74 @@
+{
+  "id": "1314_maria_castella_safon",
+  "source_id": "1314",
+  "row_ref": "1314. Maria Castellà Safon",
+  "name": "Maria Castellà Safon",
+  "gender": "female",
+  "birth": {
+    "date": "1842-09-15",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1171_juan_castella_alegret",
+      "4625_maria_safon_fabregat"
+    ],
+    "father": "1171_juan_castella_alegret",
+    "mother": "4625_maria_safon_fabregat",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Castellà Alegret",
+      "María Safon Fabregat"
+    ],
+    "father_name": "Juan Castellà Alegret",
+    "mother_name": "Maria Safon Fabregat",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Manuel Safon",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 15 de setembre de 1842 a la Ràpita.\n\nPadrins: Manuel Safon i Juana Castellà.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

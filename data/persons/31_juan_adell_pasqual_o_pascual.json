@@ -1,12 +1,12 @@
 {
   "id": "31_juan_adell_pasqual_o_pascual",
   "source_id": "31",
-  "row_ref": "31",
+  "row_ref": "31. Juan Adell Pasqual [o Pascual]",
   "name": "Juan Adell Pasqual [o Pascual]",
   "gender": "male",
   "birth": {
-    "date": "1803-05-07",
-    "place": null
+    "date": "1803-07-05",
+    "place": "la Ràpita"
   },
   "death": {
     "date": "1811-11-22",
@@ -21,17 +21,44 @@
     "lng": null
   },
   "family": {
-    "parents": [],
+    "parents": [
+      "19_jose_adell_domech_o_domenech",
+      "3828_gertrudis_pasqual_fuster"
+    ],
+    "father": "19_jose_adell_domech_o_domenech",
+    "mother": "3828_gertrudis_pasqual_fuster",
     "spouse": [],
-    "children": []
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
   },
   "relations_detail": {
     "parents_names": [
-      "José Adell Domenech",
+      "José Adell Domech [o Domenech].",
       "Gertrudis Pasqual Fuster"
     ],
+    "father_name": "José Adell Domenech",
+    "mother_name": "Gertrudis Pasqual Fuster",
     "spouse_names": [],
-    "children_names": []
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Sera",
+      "godmother": null
+    }
   },
   "occupation": {
     "title": null

@@ -1,0 +1,74 @@
+{
+  "id": "1077_felipe_cartes_navarro",
+  "source_id": "1077",
+  "row_ref": "1077. Felipe Cartes Navarro",
+  "name": "Felipe Cartes Navarro",
+  "gender": "male",
+  "birth": {
+    "date": "1837-12-02",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1218_juan_castella_cartes",
+      "3602_antonia_navarro_balaguer"
+    ],
+    "father": "1218_juan_castella_cartes",
+    "mother": "3602_antonia_navarro_balaguer",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Castellà Cartes",
+      "Antonia Navarro Balaguer"
+    ],
+    "father_name": "Juan Cartes Castellà",
+    "mother_name": "Antonia Navarro Balaguer",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Felipe Piñana",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 2 de desembre de 1837 a la Ràpita.\n\nPadrins: Felipe Piñana i Felipa Cid, els dos de Tortosa.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

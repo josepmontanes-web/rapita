@@ -1,0 +1,73 @@
+{
+  "id": "1826_jose_estape_comadaran",
+  "source_id": "1826",
+  "row_ref": "1826. José Estapé Comadaran",
+  "name": "José Estapé Comadaran",
+  "gender": "male",
+  "birth": {
+    "date": "1791-12-25",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1795-09-01",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1825_ramon_estape"
+    ],
+    "father": "1825_ramon_estape",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Ramón Estapé",
+      "Mariana Comadaran"
+    ],
+    "father_name": "Ramón Estapé",
+    "mother_name": "Mariana Comadaran",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Josef Garrigues",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 25 de desembre de 1791 a la Ràpita.\n\nPadrí: Don José Garrigues.\n\nDefunció: l'1 de setembre de 1795 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

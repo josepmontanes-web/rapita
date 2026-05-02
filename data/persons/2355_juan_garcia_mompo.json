@@ -1,0 +1,68 @@
+{
+  "id": "2355_juan_garcia_mompo",
+  "source_id": "2355",
+  "row_ref": "2355. Juan García Mompo",
+  "name": "Juan García Mompo",
+  "gender": "male",
+  "birth": {
+    "date": "1835-01-01",
+    "place": "València"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a València [aprox. 1835].\n\nProfessió: taverner.\n\nCasament: amb Isabel Llansana Talay de València [1837].\n\nFills: Isabel [1860], Salvadora [1860], Juan [1860], En.... [1860], María del Pilar [1876] i Serafín [1878].\n\nDefunció: el 23 de desembre de 1877 a la Ràpita als 42 anys de disenteria. Declara la defunció Francisca Vidal.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

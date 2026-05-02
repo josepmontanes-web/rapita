@@ -1,0 +1,68 @@
+{
+  "id": "579_rafaela_beltran_arnos",
+  "source_id": "579",
+  "row_ref": "579. Rafaela Beltran Arnos",
+  "name": "Rafaela Beltran Arnos",
+  "gender": "female",
+  "birth": {
+    "date": "1850-01-01",
+    "place": "Peníscola"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Peníscola [aprox 1850].\n\nCasament: amb Francisco Salvadó Montserrat de la Ribera [1850]. Viuen al carrer Sant Sebastià.\n\nFills: Raimunda [1875].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "1707_manuel_de_la_fuente_nunez",
+  "source_id": "1707",
+  "row_ref": "1707. Manuel De la Fuente Núñez",
+  "name": "Manuel De la Fuente Núñez",
+  "gender": "male",
+  "birth": {
+    "date": "1840-01-01",
+    "place": "Justel de la Sierra (Zamora)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Justel de la Sierra (Zamora) [aprox. 1840].\n\nCasament: amb María Godall Sánchez de Tamarit [1845].\n\nFills: Joaquín Ricardo [1878].\n\nSap escriure, signa la declaració de naixement del fill al registre civil.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

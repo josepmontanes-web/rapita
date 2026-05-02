@@ -1,0 +1,78 @@
+{
+  "id": "335_pedro_balada_balada",
+  "source_id": "335",
+  "row_ref": "335. Pedro Balada Balada",
+  "name": "Pedro Balada Balada",
+  "gender": "male",
+  "birth": {
+    "date": "1831-04-17",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1831-05-16",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "322_juan_balada_balada",
+      "363_maria_balada_queralt"
+    ],
+    "father": "322_juan_balada_balada",
+    "mother": "363_maria_balada_queralt",
+    "spouse": [],
+    "children": [
+      "363_maria_balada_queralt"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Balada Balada",
+      "Maria Balada Queralt"
+    ],
+    "father_name": "Juan Balada Balada",
+    "mother_name": "Maria Balada Queralt",
+    "spouse_names": [],
+    "children_names": [
+      "Maria Balada Queralt"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Pedro Navarro",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 17 d'abril de 1831 a la Ràpita.\n\nPadrins: Pedro Navarro i Teresa Monserrat.\n\nDefunció: el 16 de maig de 1831 a la Ràpita. Va morir de \"espasmo\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

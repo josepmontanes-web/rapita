@@ -1,0 +1,68 @@
+{
+  "id": "2253_pascual_franquesa_aguilar",
+  "source_id": "2253",
+  "row_ref": "2253. Pascual Franquesa Aguilar",
+  "name": "Pascual Franquesa Aguilar",
+  "gender": "male",
+  "birth": {
+    "date": "1818-01-01",
+    "place": "Pego (València)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Pego (València) [aprox. 1818].\n\nProfessió: jornaler.\n\nCasament: amb Vicenta Antoni de Sueca [1822]. A la mor del marit ella té 56 anys.\n\nFills: Pascual [1850].\n\nDefunció: el 13 de maig de 1878 a la Ràpita. Mor de pericarditis als 60 anys. Declara la mor el seu nebot Juan Sans, pagès, que sap escriure i signa.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

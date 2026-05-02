@@ -1,0 +1,78 @@
+{
+  "id": "2851_agustina_izquierdo_chiscas",
+  "source_id": "2851",
+  "row_ref": "2851. Agustina Izquierdo Chiscas",
+  "name": "Agustina Izquierdo Chiscas",
+  "gender": "female",
+  "birth": {
+    "date": "1824-11-22",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2857_jose_antonio_izquierdo_saperas",
+      "1466_concepcion_chiscas_tallada"
+    ],
+    "father": "2857_jose_antonio_izquierdo_saperas",
+    "mother": "1466_concepcion_chiscas_tallada",
+    "spouse": [
+      "2298_jose_garcia_beltran"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Antonio Izquierdo Saperas",
+      "Concepción Chiscás Tallada"
+    ],
+    "father_name": "José Antonio Izquierdo Saperas",
+    "mother_name": "Concepción Chiscas Tallada",
+    "spouse_names": [
+      "José García Beltran"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Agustín Izquierdo",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 22 de novembre de 1824 a la Ràpita.\n\nPadrins: Agustín Izquierdo i Doña Vicenta Tallada.\n\nCasament: el 7 de gener de 1847 amb José García Beltran de la Ràpita [1824].\n\nFills: Concepción [1848], José [1852], Dolores [1852] i Francisco [1861].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

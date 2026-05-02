@@ -1,0 +1,74 @@
+{
+  "id": "1295_jose_castella_navarro",
+  "source_id": "1295",
+  "row_ref": "1295. José Castellà Navarro",
+  "name": "José Castellà Navarro",
+  "gender": "male",
+  "birth": {
+    "date": "1835-02-27",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1836-08-04",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1169_bautista_castella_alegret",
+      "3625_esperanza_navarro_comi"
+    ],
+    "father": "1169_bautista_castella_alegret",
+    "mother": "3625_esperanza_navarro_comi",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Castellà Alegret",
+      "Esperanza Navarro Comí"
+    ],
+    "father_name": "Bautista Castellà Colomines",
+    "mother_name": "Esperanza Navarro Comí",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Cartes",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 27 de febrer de 1835 a la Ràpita.\n\nPadrins: José Cartes i Rosa Navarro.\n\nDefunció: el 4 d'agost de 1836 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

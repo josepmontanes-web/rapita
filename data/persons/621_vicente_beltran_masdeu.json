@@ -1,0 +1,92 @@
+{
+  "id": "621_vicente_beltran_masdeu",
+  "source_id": "621",
+  "row_ref": "621. Vicente Beltran Masdeu",
+  "name": "Vicente Beltran Masdeu",
+  "gender": "male",
+  "birth": {
+    "date": "1795-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "626_vicente_beltran_minana",
+      "3155_eulalia_masdeu"
+    ],
+    "father": "626_vicente_beltran_minana",
+    "mother": "3155_eulalia_masdeu",
+    "spouse": [],
+    "children": [
+      "642_bernardo_beltran_thomas",
+      "643_sebastian_beltran_thomas",
+      "644_jose_beltran_thomas",
+      "645_antonia_beltran_thomas",
+      "646_jose_domingo_beltran_thomas",
+      "647_safarino_vicente_beltran_thomas",
+      "648_martin_beltran_thomas"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Beltran Miñana",
+      "Eulalia Masdeu"
+    ],
+    "father_name": "Vicente Beltran Miñana",
+    "mother_name": "Eulalia Masdeu",
+    "spouse_names": [
+      "María Josefa Thomas Desler"
+    ],
+    "children_names": [
+      "Bernardo Beltran Thomas",
+      "Sebastián Beltran Thomas",
+      "José Beltran Thomas",
+      "Antonia Beltran Thomas",
+      "José Domingo Beltran Thomas",
+      "Safarino Vicente Beltran Thomas",
+      "Martín Beltran Thomas"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1795].\n\nCasament: amb María Josefa Thomas Deser de Aven (Flandes) [1795]. Es podria referir a  Anvers (Amberes).\n\nFills: Safarino Vicente [1817], Bernardo [1821], Martín [1824], José Domingo [1826], Sebastián (Alp) [1828], José (la Seu d'Urgell) [1831] i Antonia [1837].\n\nDonación: Vicente Beltran a Bernardo Beltran. Vicente Beltran y Masdeu, labrador hizo donación a su hijo Bernardo Beltran para después de seguida la muerte del donador entre otras cosas aquel patio sito en la calle de San Roque parte del cual está cubierto, lindante con honores de Manuel Rosales, herederos de José Antonio Rosales situado delante de la casa que es de sus otros hijos Sebastián y José Beltran de valor 20 duros. 10 de octubre de 1859. Esc. Juan Ventosa de Amposta.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

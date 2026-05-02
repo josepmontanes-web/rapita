@@ -1,0 +1,95 @@
+{
+  "id": "4559_maria_rosales_valls",
+  "source_id": "4559",
+  "row_ref": "4559. Maria Rosales Valls",
+  "name": "Maria Rosales Valls",
+  "gender": "female",
+  "birth": {
+    "date": "1805-06-11",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4548_antonio_rosales_sole"
+    ],
+    "father": "4548_antonio_rosales_sole",
+    "mother": null,
+    "spouse": [
+      "5588_joaquin_vidal_talarn"
+    ],
+    "children": [
+      "5552_teresa_paula_vidal_rosales",
+      "5553_maria_antonia_vidal_rosales",
+      "5554_gregorio_vidal_rosales",
+      "5555_miguela_maria_vidal_rosales",
+      "5556_jose_antonio_vidal_rosales",
+      "5557_marcelina_vidal_rosales",
+      "5558_francisca_maria_ana_vidal_rosales",
+      "5559_manuela_casilda_vidal_rosales"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Rosales Solé",
+      "Theresa Valls Peralta"
+    ],
+    "father_name": "Antonio Rosales Solé",
+    "mother_name": "Theresa Valls Peralta",
+    "spouse_names": [
+      "Joaquín Vidal Talarn"
+    ],
+    "children_names": [
+      "Teresa Paula Vidal Rosales",
+      "María Antonia Vidal Rosales",
+      "Gregorio Vidal Rosales",
+      "Miguela Maria Vidal Rosales",
+      "José Antonio Vidal Rosales",
+      "Marcelina Vidal Rosales",
+      "Francisca María Ana Vidal Rosales",
+      "Manuela Casilda Vidal Rosales"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Josef Carbó",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'11 de juny de 1805 a la Ràpita.\n\nPadrins: José Carbó i Teresa Castellà.\n\nCasament: el 28 de setembre de 1822 amb Joaquín Vidal Talarn de la Ràpita [1796].\n\nFills: María Antonia [1824], Miguela María [1825], Teresa Paula [1827], José Antonio [1830], Marcelina [1833], Francisca [1836], Manuela Casilda [1840] i Gregorio [1846].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

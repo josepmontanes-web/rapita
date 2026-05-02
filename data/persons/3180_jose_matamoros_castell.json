@@ -1,0 +1,78 @@
+{
+  "id": "3180_jose_matamoros_castell",
+  "source_id": "3180",
+  "row_ref": "3180. José Matamoros Castell",
+  "name": "José Matamoros Castell",
+  "gender": "male",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Freginals"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3251_pascual_matamoros_reverter",
+      "1151_josefa_castell_roe"
+    ],
+    "father": "3251_pascual_matamoros_reverter",
+    "mother": "1151_josefa_castell_roe",
+    "spouse": [
+      "2671_antonia_gras_forcadell"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pascual Matamoros Reverter",
+      "Josefa Castell Roe"
+    ],
+    "father_name": "Pascual Matamoros Reverter",
+    "mother_name": "Josefa Castell Roe",
+    "spouse_names": [
+      "Antonia Gras Forcadell"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Freginals [aprox. 1820]. \n\nCasament: el 7 de gener de 1843 amb Antonia Gras Forcadell d'Alcanar [1820].\n\nFills: José [1845], Ramón [1850], Carlos [1850] i Josefa [1855].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "1712_eudalda_deop_montaner",
+  "source_id": "1712",
+  "row_ref": "1712. Eudalda Deop Montaner",
+  "name": "Eudalda Deop Montaner",
+  "gender": "female",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Ripoll"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "D. Juan Rodríguez de Alcántara"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Ripoll [aprox. 1790].\n\nCasament: amb Don Juan Rodríguez de Alcántara de Madrid [1787].\n\nFills: Carmen [1817] i María del Carmen [1821].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

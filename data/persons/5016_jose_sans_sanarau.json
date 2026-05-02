@@ -1,0 +1,77 @@
+{
+  "id": "5016_jose_sans_sanarau",
+  "source_id": "5016",
+  "row_ref": "5016. José Sans Sanarau",
+  "name": "José Sans Sanarau",
+  "gender": "male",
+  "birth": {
+    "date": "1765-01-01",
+    "place": "Tivenys"
+  },
+  "death": {
+    "date": "1835-05-16",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1152_mariana_castell_ortiz",
+      "4581_maria_rubert"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Rúfol Sans",
+      "Francisca Sanarau"
+    ],
+    "father_name": "Rúfol Sans",
+    "mother_name": "Francisca Sanarau",
+    "spouse_names": [
+      "Mariana Castell Ortiz",
+      "Maria Rubert"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tivenys [aprox. 1765]. \n\nProfessió: pagès.\n\nCasament: amb Mariana Castell Ortíz d'Ulldecona [1767].\n\nFills: Juan [1792], Rosa Mariana [1794], Francisco [1797], Francisca [1800], Ramón [1802] i Alexandro [1804].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Fonda Vella (ACA BGRP Cajas 34).\n\nCasament: el 9 de desembre de 1809 amb María Rubert de Barcelona [1767]. Es casa als 43 anys.\n\nDe l'1 d'abril de 1828 al 30 de novembre de 1833 ha de pagar un lloguer de 14 Rs mensuals pel pis de terra de la casa 3 de la mançana 4 (casa cantonera entre el Coc i la plaça Carles III davant de l'ajuntament). Aquesta casa estava fortificada i el pis alt s'utilitzava com a Sala Capitular. (AGP.PER.LEG.1073/23 [Juan Vecino]).\n\nDefunció: el 16 de maig de 1835 a la Ràpita. Va morir als 71 anys. \"Hizo testamento ante mi (Pascual Navarro). Dotó su alma con el valor de la mitad de una pieza de tierra nombrada el Malecó\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

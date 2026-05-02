@@ -1,0 +1,78 @@
+{
+  "id": "5239_maria_rosa_talarn_bosch",
+  "source_id": "5239",
+  "row_ref": "5239. Maria Rosa Talarn Bosch",
+  "name": "Maria Rosa Talarn Bosch",
+  "gender": "female",
+  "birth": {
+    "date": "1798-07-11",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5262_geronimo_talarn_valldeperez",
+      "812_maria_bosch_castell"
+    ],
+    "father": "5262_geronimo_talarn_valldeperez",
+    "mother": "812_maria_bosch_castell",
+    "spouse": [
+      "4261_juan_reverter_forner"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Gerónimo Talarn Valldepérez",
+      "María Bosch Castell"
+    ],
+    "father_name": "Gerónimo Talarn Valldepérez",
+    "mother_name": "Maria Bosch Castell",
+    "spouse_names": [
+      "Juan Reverter Forner"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Izquierdo",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'11 de juliol de 1798 a la Ràpita.\n\nPadrins: Juan Izquierdo i Rosa Saperes.\n\nCasament: l'1 de juny de 1820 amb Juan Reverter Forner d'Alcanar [1795].\n\nFills: Rosa [1821], María [1823], Lorenza [1824], Gerónimo Lorenzo [1827], Francisca [1829], Juan Bartolomé [1831], Jacinto [1833], Juan Bautista [1835], José [1838] i José Agustín [1842].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

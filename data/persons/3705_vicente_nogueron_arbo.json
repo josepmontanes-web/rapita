@@ -1,0 +1,74 @@
+{
+  "id": "3705_vicente_nogueron_arbo",
+  "source_id": "3705",
+  "row_ref": "3705. Vicente Noguerón Arbó",
+  "name": "Vicente Noguerón Arbó",
+  "gender": "male",
+  "birth": {
+    "date": "1807-02-18",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1809-12-10",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3713_manuel_nogueron_badia",
+      "190_antonia_arbo_ramia"
+    ],
+    "father": "3713_manuel_nogueron_badia",
+    "mother": "190_antonia_arbo_ramia",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel Noguerón Badia",
+      "Antonia Arbó Ramia"
+    ],
+    "father_name": "Manuel Noguerón Badia",
+    "mother_name": "Antonia Arbó Ramia",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Alexandro Campolmi",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 18 de febrer de 1807 a la Ràpita.\n\nPadrins: Alexandro Campolmi i Josefa Bort.\n\nDefunció: el 10 de desembre de 1809 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

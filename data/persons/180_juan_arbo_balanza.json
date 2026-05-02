@@ -1,0 +1,74 @@
+{
+  "id": "180_juan_arbo_balanza",
+  "source_id": "180",
+  "row_ref": "180. Juan Arbó Balanzá",
+  "name": "Juan Arbó Balanzá",
+  "gender": "male",
+  "birth": {
+    "date": "1841-03-05",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1844-11-09",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "178_juan_arbo_angles",
+      "468_felipa_balanza_comes"
+    ],
+    "father": "178_juan_arbo_angles",
+    "mother": "468_felipa_balanza_comes",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Arbó Anglès",
+      "Felipa Balanzá Comes"
+    ],
+    "father_name": "Juan Arbó Sanches",
+    "mother_name": "Felipa Balanzá Comes",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Gabriel Obiol",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 5 de març de 1841 a la Ràpita.\n\nPadrins: Gabriel Obiol i Rosa Casajust.\n\nDefunció: el 9 de novembre de 1844 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

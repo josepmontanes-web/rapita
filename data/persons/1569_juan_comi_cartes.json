@@ -1,0 +1,81 @@
+{
+  "id": "1569_juan_comi_cartes",
+  "source_id": "1569",
+  "row_ref": "1569. Juan Comí Cartes",
+  "name": "Juan Comí Cartes",
+  "gender": "male",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "4677_manuela_salvador_reverter"
+    ],
+    "children": [
+      "1584_candia_lina_comi_gueche",
+      "1594_jose_esteban_comi_salvador"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pablo Comí",
+      "Antonia Cartes"
+    ],
+    "father_name": "Pablo Comí",
+    "mother_name": "Antonia Cartes",
+    "spouse_names": [
+      "Manuela Salvador Reverter"
+    ],
+    "children_names": [
+      "Candia Lina Comí Gueché",
+      "José Esteban Comí Salvador"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1790].\n\nCasament: amb Manuela Salvador Reverter de Tortosa [1790].\n\nFills: José Esteban [1814].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

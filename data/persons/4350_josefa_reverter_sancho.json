@@ -1,0 +1,90 @@
+{
+  "id": "4350_josefa_reverter_sancho",
+  "source_id": "4350",
+  "row_ref": "4350. Josefa Reverter Sancho",
+  "name": "Josefa Reverter Sancho",
+  "gender": "female",
+  "birth": {
+    "date": "1819-06-19",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4265_agustin_reverter_forner",
+      "4921_teresa_sancho_querol"
+    ],
+    "father": "4265_agustin_reverter_forner",
+    "mother": "4921_teresa_sancho_querol",
+    "spouse": [],
+    "children": [
+      "1680_rosa_curto_reverte",
+      "1681_thomas_curto_reverter",
+      "1682_agustin_curto_reverter",
+      "1683_teresa_curto_reverte",
+      "1684_francisca_curto_reverte",
+      "1685_jose_curto_reverter"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustín Reverter Forner",
+      "Teresa Sancho Querol"
+    ],
+    "father_name": "Agustín Reverter Forner",
+    "mother_name": "Teresa Sancho Querol",
+    "spouse_names": [
+      "Tomas Curto Cavaller"
+    ],
+    "children_names": [
+      "Rosa Curto Reverté",
+      "Thomas Curto Reverter",
+      "Agustín Curto Reverter",
+      "Teresa Curto Reverté",
+      "Francisca Curto Reverté",
+      "José Curto Reverter"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Christoval Alegret",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 19 de juny de 1819 a la Ràpita.\n\nPadrins: Christoval Alegret i Josefa Fabregat.\n\nCasament: el 13 de juliol de 1835 amb Tomás Curto Cavaller de la Ràpita [1813].\n\nFills: Rosa [1836], Francisca [1838], Tomás [1840], Agustín [1842], José [1844], Teresa [1846] i Josefa [1850].\n\nDonación: de Agustín Reverter (Forner) a su hija Josefa Reverter (Sancho) por la celebración de su matrimonio con Tomás Curto (Cavaller), casa en el callejón de la Iglesia. Linda con Lucas Torta (Subirats, casat amb Francisca Accensi Lozaro), Ramón Accensi (casat amb Maria Lozano) y Manuel Barrera. Febrero de 1858. Esc. Lorenzo Figueres de Alcanar.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

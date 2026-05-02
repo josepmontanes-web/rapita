@@ -1,0 +1,78 @@
+{
+  "id": "4955_teresa_paula_sans_arlandez",
+  "source_id": "4955",
+  "row_ref": "4955. Teresa Paula Sans Arlández",
+  "name": "Teresa Paula Sans Arlández",
+  "gender": "female",
+  "birth": {
+    "date": "1826-01-24",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4976_francisco_sans_castell",
+      "244_rosa_arlandez_o_hernandez_cavaller"
+    ],
+    "father": "4976_francisco_sans_castell",
+    "mother": "244_rosa_arlandez_o_hernandez_cavaller",
+    "spouse": [
+      "197_peregrin_arbo_sanchez"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Sans Castell",
+      "Rosa Arlández [o Hernández] Cavaller"
+    ],
+    "father_name": "Francisco Sans Castell",
+    "mother_name": "Rosa Arlández Cavaller",
+    "spouse_names": [
+      "Peregrín Arbó Sánchez"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Pablo Carsí",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 24 de gener de 1826 a la Ràpita.\n\nPadrins: Don Pablo Carsi i Teresa Rosales.\n\nCasament: el 16 d'agost de 1845 amb Peregrín Arbó Sánchez de la Ràpita [1824].\n\nFills: Francisco [1850], Tomás [1857], José [1850], Josefa [1852], Rosa [1855] i Domingo [1857].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

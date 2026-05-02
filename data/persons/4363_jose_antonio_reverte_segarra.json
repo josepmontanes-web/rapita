@@ -1,0 +1,77 @@
+{
+  "id": "4363_jose_antonio_reverte_segarra",
+  "source_id": "4363",
+  "row_ref": "4363. José Antonio Reverté Segarra",
+  "name": "José Antonio Reverté Segarra",
+  "gender": "male",
+  "birth": {
+    "date": "1826-02-11",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4260_jose_reverter_forner"
+    ],
+    "father": "4260_jose_reverter_forner",
+    "mother": null,
+    "spouse": [
+      "4394_joaquina_reverter_vidal"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Reverter Forner",
+      "Casilda Segarra Puchol"
+    ],
+    "father_name": "José Reverter Forner",
+    "mother_name": "Casilda Segarra Puchol",
+    "spouse_names": [
+      "Joaquina Reverter Vidal"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Antonio Segarra",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pescador"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'11 de febrer de 1826 a la Ràpita.\n\nPadrins: Antonio Segarra i Francisca Segarra.\n\nProfessió: pescador.\n\nCasament: el 15 d'octubre de 1852 amb Joaquina Reverter Vidal de la Ràpita [1830]. Testimonis: Juan Aragonés i Tomás Talarn.\n\nFills: José [1853], Teresa [1861] i María [1865].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

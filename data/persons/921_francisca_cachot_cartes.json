@@ -1,0 +1,89 @@
+{
+  "id": "921_francisca_cachot_cartes",
+  "source_id": "921",
+  "row_ref": "921. Francisca Cachot Cartes",
+  "name": "Francisca Cachot Cartes",
+  "gender": "female",
+  "birth": {
+    "date": "1804-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1835-05-18",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "920_francisco_cachot"
+    ],
+    "father": "920_francisco_cachot",
+    "mother": null,
+    "spouse": [
+      "1211_ramon_castella_caldero"
+    ],
+    "children": [
+      "1197_josefa_castella_cachot",
+      "1198_ignacio_castella_cachot",
+      "1199_estevan_castella_cachot",
+      "1200_maria_del_pilar_castella_cachot",
+      "1201_pascuala_castella_cachot"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Cachot",
+      "Engracia Cartes"
+    ],
+    "father_name": "Francisco Cachot",
+    "mother_name": "Engracia Cartes",
+    "spouse_names": [
+      "Ramon Castellà Calderó"
+    ],
+    "children_names": [
+      "Josefa Castellà Cachot",
+      "Ignacio Castellà Cachot",
+      "Estevan Castellà Cachot",
+      "Maria del Pilar Castellà Cachot",
+      "Pascuala Castellà Cachot"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1804].\n\nCasament: el 17 de gener de 1824 amb Ramón Castellà Calderó de Tortosa [1800].\n\nFills: Josefa [1824], Ignacio Ramón [1826], Esteban [1830], María del Pilar [1833] i Pascuala [1835].\n\nDefunció: el 18 de maig de 1835 a la Ràpita. Va morir als 31 anys. No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

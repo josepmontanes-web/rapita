@@ -1,0 +1,74 @@
+{
+  "id": "2630_pedro_armengol_gombau_castella",
+  "source_id": "2630",
+  "row_ref": "2630. Pedro Armengol Gombau Castellà",
+  "name": "Pedro Armengol Gombau Castellà",
+  "gender": "male",
+  "birth": {
+    "date": "1834-04-26",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2643_vicente_gombau_ortiz",
+      "1247_teresa_castella_dalmau"
+    ],
+    "father": "2643_vicente_gombau_ortiz",
+    "mother": "1247_teresa_castella_dalmau",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Gombau Ortiz",
+      "Teresa Castellà Dalmau"
+    ],
+    "father_name": "Vicente Gombau Ortiz",
+    "mother_name": "Teresa Castellà Dalmau",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Mariano Puigcerver",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 26 d'abril de 1834 a la Ràpita.\n\nPadrins: Mariano Puigcerver i Manuela Llorens.\n\nProfessió: pagès.\n\nCasament: amb María Ferré Rosales de la Ràpita [1842].\n\nFills: Pedro [1877] i Casimiro [1877].\n\nNo signa la declaració de naixement dels fills al registre civil per no saber.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "1589_cristobal_comi_nicolau",
+  "source_id": "1589",
+  "row_ref": "1589. Cristobal Comí Nicolau",
+  "name": "Cristobal Comí Nicolau",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1800].\n\nProfessió: calafat.\n\nCasament: amb Paula Pagès de Barcelona.\n\nFills: Ramon [1831], Bernarda [1834] i Simeón [1835].\n\nDefunció: el 16 d'abril de 1880 a la Ràpita als 80 anys de \"Asina\". Declara la mor Manuela Obiol de Peníscola de 37 anys, casada.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

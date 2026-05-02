@@ -1,0 +1,81 @@
+{
+  "id": "2672_rafaela_gras_gil",
+  "source_id": "2672",
+  "row_ref": "2672. Rafaela Gras Gil",
+  "name": "Rafaela Gras Gil",
+  "gender": "female",
+  "birth": {
+    "date": "1779-01-01",
+    "place": "Ulldecona"
+  },
+  "death": {
+    "date": "1802-12-22",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2515_maria_gil"
+    ],
+    "father": null,
+    "mother": "2515_maria_gil",
+    "spouse": [
+      "1654_francisco_cruelles_remisa"
+    ],
+    "children": [
+      "1647_francisco_cruelles_gras"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Gras",
+      "María Gil"
+    ],
+    "father_name": "Josef Gras",
+    "mother_name": "Maria Gil",
+    "spouse_names": [
+      "Francisco Cruelles Remisa"
+    ],
+    "children_names": [
+      "Francisco Cruelles Gras"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Ulldecona [aprox. 1779].\n\nCasament: el 16 d'agost de 1798 amb Francisco Cruelles Remisa de Lliçà d'Amunt [1775].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Mansana Vella núm. 15 (ACA BGRP Cajas 34).\n\nFills: Francisco [1800].\n\nDefunció: el 22 de desembre de 1802 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

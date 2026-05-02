@@ -1,0 +1,74 @@
+{
+  "id": "1019_vicenta_carceller",
+  "source_id": "1019",
+  "row_ref": "1019. Vicenta Carceller",
+  "name": "Vicenta Carceller",
+  "gender": "female",
+  "birth": {
+    "date": "1760-01-01",
+    "place": "Portell de Morella"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1997_francisco_ferrer",
+      "4444_feliz_roda"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Francisco Ferrer",
+      "Feliz Roda"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Portell de Morella [aprox. 1760].\n\nCasament: amb Francisco Ferrer del Portell de Morella [1759].\n\nCasament: el 2 de juliol de 1812 amb Feliz Roda d'Amposta [1760]. Testimonis: José Ferrer i Francisco Vidal.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

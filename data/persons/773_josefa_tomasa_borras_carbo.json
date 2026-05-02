@@ -1,0 +1,73 @@
+{
+  "id": "773_josefa_tomasa_borras_carbo",
+  "source_id": "773",
+  "row_ref": "773. Josefa Tomasa Borràs Carbó",
+  "name": "Josefa Tomasa Borràs Carbó",
+  "gender": "female",
+  "birth": {
+    "date": "1828-08-15",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1829-10-29",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "788_tomas_borras_pauls"
+    ],
+    "father": "788_tomas_borras_pauls",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomas Borràs Pauls",
+      "Tadea Carbó Fibla"
+    ],
+    "father_name": "Tomas Borràs Pauls",
+    "mother_name": "Tadea Carbó Fibla",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Tomás Talarn",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 15 d'agost de 1828 a la Ràpita.\n\nPadrins: Tomás Talarn i Josefa Balaguer.\n\nDefunció: el 29 d'octubre de 1829 a la Ràpita. Va morir de pigota (\"viruela\").",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

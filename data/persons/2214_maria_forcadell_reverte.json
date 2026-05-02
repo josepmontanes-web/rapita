@@ -1,0 +1,71 @@
+{
+  "id": "2214_maria_forcadell_reverte",
+  "source_id": "2214",
+  "row_ref": "2214. Maria Forcadell Reverté",
+  "name": "Maria Forcadell Reverté",
+  "gender": "female",
+  "birth": {
+    "date": "1846-08-16",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1846-08-16",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pelegrín Forcadell",
+      "Maria Reverté"
+    ],
+    "father_name": "Pelegrín Forcadell",
+    "mother_name": "Maria Reverté",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 16 d'agost de 1846 a la Ràpita.\n\nDefunció: el 16 d'agost de 1846 a la Ràpita. \"Nace prematura y muere recién nacida\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

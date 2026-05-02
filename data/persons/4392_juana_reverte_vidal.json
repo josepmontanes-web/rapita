@@ -1,0 +1,78 @@
+{
+  "id": "4392_juana_reverte_vidal",
+  "source_id": "4392",
+  "row_ref": "4392. Juana Reverté Vidal",
+  "name": "Juana Reverté Vidal",
+  "gender": "female",
+  "birth": {
+    "date": "1825-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4299_juan_reverter_matamoros",
+      "5591_maria_vidal_vines"
+    ],
+    "father": "4299_juan_reverter_matamoros",
+    "mother": "5591_maria_vidal_vines",
+    "spouse": [
+      "2669_miguel_gras_forcadell"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Reverter Matamoros",
+      "Maria Vidal Viñes"
+    ],
+    "father_name": "Juan Reverter Matamoros",
+    "mother_name": "Maria Vidal Viñes",
+    "spouse_names": [
+      "Miguel Gras Forcadell"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1825]. \n\nCasament: el 18 de setembre de 1847 amb Miguel Gras Forcadell d'Alcanar [1825].\n\nFills: Antonia [1850] i Benita [1852].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "2286_juan_bautista_garano_sapia",
+  "source_id": "2286",
+  "row_ref": "2286. Juan Bautista Garano Sapia",
+  "name": "Juan Bautista Garano Sapia",
+  "gender": "male",
+  "birth": {
+    "date": "1785-01-01",
+    "place": "San Remo-Rep. Genova"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "2651_mariana_gomes_llorens"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Nicolas Garano",
+      "Francisca Sapia"
+    ],
+    "father_name": "Nicolas Garano",
+    "mother_name": "Francisca Sapia",
+    "spouse_names": [
+      "Mariana Gomes Llorens"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Mariner"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a San Remo (República de Génova) [aprox. 1785].\n\nProfessió: mariner.\n\nCasament: el 29 de juliol de 1808 amb Mariana Gomes Llorens.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

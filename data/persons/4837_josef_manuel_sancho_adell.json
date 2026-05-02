@@ -1,0 +1,74 @@
+{
+  "id": "4837_josef_manuel_sancho_adell",
+  "source_id": "4837",
+  "row_ref": "4837. Josef Manuel Sancho Adell",
+  "name": "Josef Manuel Sancho Adell",
+  "gender": "male",
+  "birth": {
+    "date": "1840-03-30",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4902_miguel_sancho_matamoros",
+      "35_rosa_adell_tallada"
+    ],
+    "father": "4902_miguel_sancho_matamoros",
+    "mother": "35_rosa_adell_tallada",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Sancho Matamoros",
+      "Rosa Adell Tallada"
+    ],
+    "father_name": "Miguel Sancho Matamoros",
+    "mother_name": "Rosa Adell Tallada",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Josef Pino",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 30 de març de 1840 a la Ràpita.\n\nPadrins: José Pino i Teresa Pino.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "644_jose_beltran_thomas",
+  "source_id": "644",
+  "row_ref": "644. José Beltran Thomas",
+  "name": "José Beltran Thomas",
+  "gender": "male",
+  "birth": {
+    "date": "1831-01-01",
+    "place": "Selva d'Urgell"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "621_vicente_beltran_masdeu"
+    ],
+    "father": "621_vicente_beltran_masdeu",
+    "mother": null,
+    "spouse": [
+      "4290_josefa_reverte_jovani"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Beltran Masdeu",
+      "Maria Josefa Thomas"
+    ],
+    "father_name": "Vicente Beltràn Masdeu",
+    "mother_name": "Maria Josefa Thomas",
+    "spouse_names": [
+      "Josefa Reverté Jovani"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Seu d'Urgell [aprox. 1831].\n\nProfessió: pagès.\n\nCasament: el 5 d'agost de 1854 amb Josefa Reverté Jovani de la Ràpita [1831]. Testimonis: Casiano Sanz i Francisco Borràs. Es va casar als 23 anys.\n\nFills: Josefa [1855].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

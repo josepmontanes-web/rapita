@@ -1,0 +1,81 @@
+{
+  "id": "5100_juan_serres_arbo",
+  "source_id": "5100",
+  "row_ref": "5100. Juan Serres Arbó",
+  "name": "Juan Serres Arbó",
+  "gender": "male",
+  "birth": {
+    "date": "1780-01-01",
+    "place": "Mora d'Ebre"
+  },
+  "death": {
+    "date": "1812-11-07",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "5101_francisca_serres_ferre",
+      "5102_juan_bautista_serres_ferrer",
+      "5103_manuela_serres_ferrer"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Serres",
+      "María Arbó"
+    ],
+    "father_name": "Bautista Serres",
+    "mother_name": "María Arbó",
+    "spouse_names": [
+      "Teresa Francisca Ferré Piñol"
+    ],
+    "children_names": [
+      "Francisca Serres Ferré",
+      "Juan Bautista Serres Ferrer",
+      "Manuela Serres Ferrer"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Mora d'Ebre [aprox. 1780]. \n\nProfessió: pagès.\n\nCasament: amb Teresa Francisca Ferré Piñol del Perelló [1783].\n\nFills: Francisca [1803], Manuela [1809] i Juan Bautista [1813].\n\nDefunció: el 7 de novembre de 1812 a la Ràpita. Diu que va morir als 25 anys (en podria tenir algun més). Fa testament. \"Primero que se enterró en el Nuevo Cementerio existente junto a la carretera real\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

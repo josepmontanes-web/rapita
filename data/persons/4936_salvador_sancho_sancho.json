@@ -1,0 +1,78 @@
+{
+  "id": "4936_salvador_sancho_sancho",
+  "source_id": "4936",
+  "row_ref": "4936. Salvador Sancho Sancho",
+  "name": "Salvador Sancho Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1795-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4923_salvador_sancho_reverter",
+      "4830_antonia_sancho"
+    ],
+    "father": "4923_salvador_sancho_reverter",
+    "mother": "4830_antonia_sancho",
+    "spouse": [
+      "2193_maria_forcadell_fibla"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Salvador Sancho Reverter",
+      "Antonia Sancho"
+    ],
+    "father_name": "Salvador Sancho Reverter",
+    "mother_name": "Antonia Sancho",
+    "spouse_names": [
+      "Maria Forcadell Fibla"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1795]. \n\nCasament: el 14 d'abril de 1819 amb María Forcadell Fibla d'Alcanar [1800].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

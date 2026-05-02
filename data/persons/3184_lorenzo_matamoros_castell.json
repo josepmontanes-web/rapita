@@ -1,0 +1,78 @@
+{
+  "id": "3184_lorenzo_matamoros_castell",
+  "source_id": "3184",
+  "row_ref": "3184. Lorenzo Matamoros Castell",
+  "name": "Lorenzo Matamoros Castell",
+  "gender": "male",
+  "birth": {
+    "date": "1830-07-09",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3251_pascual_matamoros_reverter",
+      "1151_josefa_castell_roe"
+    ],
+    "father": "3251_pascual_matamoros_reverter",
+    "mother": "1151_josefa_castell_roe",
+    "spouse": [
+      "4957_felicia_sans_arlandez"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pascual Matamoros Reverter",
+      "Josefa Castell Roe"
+    ],
+    "father_name": "Pascual Matamoros Reverter",
+    "mother_name": "Josefa Castell Roe",
+    "spouse_names": [
+      "Felicia Sans Arlández"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Lorenzo Del Valle",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Jornaler"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 9 de juliol de 1830 a la Ràpita.\n\nPadrins: Lorenzo del Valle \"carabinero\" i Vicenta Reverté.\n\nProfessió: jornaler.\n\nCasament: el 16 de setembre de 1854 amb Felicia Sans Arlández de la Ràpita [1831]. Testimonis: Francisco Pepiol i José Matamoros.\n\nFills: Juan [1858].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

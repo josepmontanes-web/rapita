@@ -1,0 +1,71 @@
+{
+  "id": "5627_francisco_vivo_cavalera",
+  "source_id": "5627",
+  "row_ref": "5627. Francisco Vivo Cavalera",
+  "name": "Francisco Vivo Cavalera",
+  "gender": "male",
+  "birth": {
+    "date": "1808-01-01",
+    "place": "Ciutadella (Menorca)"
+  },
+  "death": {
+    "date": "1826-11-30",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Vivo",
+      "Antonia Cavalera"
+    ],
+    "father_name": "Juan Vivo",
+    "mother_name": "Antonia Cavalera",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Ciutadella (Menorca) [aprox. 1808].\n\nDefunció: el 30 de novembre de 1826 a la Ràpita. Va morir als 18 anys de \"inflamación interna\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

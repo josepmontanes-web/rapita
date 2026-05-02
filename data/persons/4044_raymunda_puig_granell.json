@@ -1,0 +1,81 @@
+{
+  "id": "4044_raymunda_puig_granell",
+  "source_id": "4044",
+  "row_ref": "4044. Raymunda Puig Granell",
+  "name": "Raymunda Puig Granell",
+  "gender": "female",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "La Galera"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4040_bautista_puig_bricart"
+    ],
+    "father": "4040_bautista_puig_bricart",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2736_jose_francisco_guardia_puig",
+      "2737_clemente_francisco_guardia_puig"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Puig Bricart",
+      "Mariana Granell"
+    ],
+    "father_name": "Bautista Puig",
+    "mother_name": "Mariana Granell",
+    "spouse_names": [
+      "José Guardia Bort"
+    ],
+    "children_names": [
+      "José Francisco Guardia Puig",
+      "Clemente Francisco Guardia Puig"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a La Galera [aprox. 1800]. \n\nCasament: el 4 de maig de 1825 amb José Guardia Bort [1805].\n\nFills: José [1825], José Francisco [1826] i Clemente Francisco [1827].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

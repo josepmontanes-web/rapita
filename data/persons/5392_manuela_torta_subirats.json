@@ -1,0 +1,88 @@
+{
+  "id": "5392_manuela_torta_subirats",
+  "source_id": "5392",
+  "row_ref": "5392. Manuela Torta Subirats",
+  "name": "Manuela Torta Subirats",
+  "gender": "female",
+  "birth": {
+    "date": "1814-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5389_juan_torta_sole",
+      "5191_teresa_subirats_fabregat"
+    ],
+    "father": "5389_juan_torta_sole",
+    "mother": "5191_teresa_subirats_fabregat",
+    "spouse": [
+      "3171_jose_matamoros_biosca"
+    ],
+    "children": [
+      "3289_jose_matamoros_torta",
+      "3290_maria_josefa_matamoros_torta",
+      "3291_lorenzo_matamoros_torta",
+      "3292_vicente_matamoros_torta"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Torta Solé",
+      "Teresa Subirats Fabregat"
+    ],
+    "father_name": "Juan Torta Solé",
+    "mother_name": "Teresa Subirats Fabregat",
+    "spouse_names": [
+      "José Matamoros Biosca"
+    ],
+    "children_names": [
+      "José Matamoros Torta",
+      "María Josefa Matamoros Torta",
+      "Lorenzo Matamoros Torta",
+      "Vicente Matamoros Torta"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1814].\n\nCasament: el 13 de desembre de1834 amb José Matamoros Biosca de la Ràpita [1814]. Es casa als 20 anys.\n\nFills: José [1835], María Josefa [1837], Lorenzo [1839], Vicente Antonio [1842], Felix [1850] i Juan [1850].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

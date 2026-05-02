@@ -1,0 +1,89 @@
+{
+  "id": "4031_ventura_prado_de_ulloa_munoz",
+  "source_id": "4031",
+  "row_ref": "4031. Ventura Prado de Ulloa Muñoz",
+  "name": "Ventura Prado de Ulloa Muñoz",
+  "gender": "female",
+  "birth": {
+    "date": "1768-01-01",
+    "place": "València"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "2238_agustin_fornesa_orri"
+    ],
+    "children": [
+      "2239_lorenzo_fornesa_prado_de_ulloa",
+      "2240_manuela_fornesa_prado_de_ulloa",
+      "2241_narcisa_fornesa_prado_de_ulloa",
+      "2242_jose_fornesa_prado_de_ulloa",
+      "2243_lorenza_fornesa_prado_de_ulloa",
+      "2245_josefa_fornesa_prado_de_ulloa"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Don Juan De Prado y Ulloa",
+      "Doña Antonia Muñoz del Moral"
+    ],
+    "father_name": "Don Juan De Prado y Ulloa",
+    "mother_name": "Doña Antonia Muñoz del Moral",
+    "spouse_names": [
+      "Agustín Fornesa Orri"
+    ],
+    "children_names": [
+      "Lorenzo Fornesa Prado de Ulloa",
+      "Manuela Fornesa Prado de Ulloa",
+      "Narcisa Fornesa Prado de Ulloa",
+      "José Fornesa Prado de Ulloa",
+      "Lorenza Fornesa Prado de Ulloa",
+      "Josefa Fornesa Prado de Ulloa"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a València [aprox. 1768]. \n\nCasament: amb Agustín Fornesa Orri de Sant Celoni [1763]. A l'estat de veïns de setembre de 1798 diu que viuen a la casa núm. 15 de la \"Calle Mayor\" (ACA BGRP Cajas 34).\n\nFills: Lorenzo [1790], José [1790], Narcisa [1792], Lorenza [1796], María [1798], Josefa [1804] i Manuela [1807].\n\nDe l'1 de juliol de 1834 al 31 de desembre de 1836 ha de pagar un lloguer de 33,12 Rs mensuals per la casa 1 de la mançana 4 (es la casa de la farmacia de la plaça del coc). (AGP.PER.LEG.1073/23 [Juan Vecino]).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

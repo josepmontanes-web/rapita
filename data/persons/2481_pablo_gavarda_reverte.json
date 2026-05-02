@@ -1,0 +1,88 @@
+{
+  "id": "2481_pablo_gavarda_reverte",
+  "source_id": "2481",
+  "row_ref": "2481. Pablo Gavarda Reverté",
+  "name": "Pablo Gavarda Reverté",
+  "gender": "male",
+  "birth": {
+    "date": "1828-03-20",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2481_pablo_gavarda_reverte",
+      "4317_bernarda_reverter_queralt"
+    ],
+    "father": "2481_pablo_gavarda_reverte",
+    "mother": "4317_bernarda_reverter_queralt",
+    "spouse": [],
+    "children": [
+      "2481_pablo_gavarda_reverte",
+      "2484_maria_teresa_gavarda_reverte",
+      "2485_jose_rafael_gavarda_reverte",
+      "2486_cinta_gavarda_reverter",
+      "2487_antonia_gavarda_reverter",
+      "2489_pau_gavarda_romero"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pablo Gavarda Reverté",
+      "Bernarda Reverter Queralt"
+    ],
+    "father_name": "Pablo Gavarda Romero",
+    "mother_name": "Bernarda Reverter Queralt",
+    "spouse_names": [],
+    "children_names": [
+      "Pablo Gavarda Reverté",
+      "María Teresa Gavarda Reverté",
+      "José Rafael Gavarda Reverté",
+      "Cinta Gavarda Reverter",
+      "Antonia Gavarda Reverter",
+      "Pau Gavarda Romero"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Jayme Balagué",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 20 de març de 1828 a la Ràpita.\n\nPadrins: Jayme Balagué i Tomasa Silvestre.\n\nVenta: de Manuela Lacomba consorte de Pablo Gavarda Reverter de la matricula de mar de Tortosa, vecinos de Tarragona, a Francisca Reverter, de una casa en la calle de San Miguel. Linda de lado con propiedad de Agustín Goday y José M..ulla y por detrás Rosa Moya. 12 de noviembre de 1857. Escribano Francisco Poy de Vinaroz. Valor 1920.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

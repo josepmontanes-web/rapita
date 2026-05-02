@@ -1,0 +1,71 @@
+{
+  "id": "5611_josefa_villalva_prados",
+  "source_id": "5611",
+  "row_ref": "5611. Josefa Villalva Prados",
+  "name": "Josefa Villalva Prados",
+  "gender": "female",
+  "birth": {
+    "date": "1820-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1823-08-24",
+    "place": "Sant Carlos de la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Villalva",
+      "Teresa Prados"
+    ],
+    "father_name": "Antonio Villalva",
+    "mother_name": "Teresa Prados",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1820].\n\nDefunció: el 24 d'agost de 1823 a la Ràpita. Va morir als 3 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

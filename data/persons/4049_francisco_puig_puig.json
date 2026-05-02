@@ -1,0 +1,74 @@
+{
+  "id": "4049_francisco_puig_puig",
+  "source_id": "4049",
+  "row_ref": "4049. Francisco Puig Puig",
+  "name": "Francisco Puig Puig",
+  "gender": "male",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Vilaseca"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Puig",
+      "Rosa Puig"
+    ],
+    "father_name": "Francisco Puig",
+    "mother_name": "Rosa Puig",
+    "spouse_names": [
+      "Clara Jana",
+      "Lorenza Reverter Balagué"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vilaseca [aprox. 1810]. \n\nCasament: Clara Jana.\n\nCasament: el 20 de maig de 1841 amb Lorenza Reverter Balagué de la Ràpita [1812].\n\nFills: Mariana [1845].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

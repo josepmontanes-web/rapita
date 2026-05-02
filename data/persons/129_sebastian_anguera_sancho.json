@@ -1,0 +1,90 @@
+{
+  "id": "129_sebastian_anguera_sancho",
+  "source_id": "129",
+  "row_ref": "129. Sebastian Anguera Sancho",
+  "name": "Sebastian Anguera Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1801-01-04",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "136_agustin_anguera_o_enguera_torres",
+      "4857_pascuala_sancho_bonet"
+    ],
+    "father": "136_agustin_anguera_o_enguera_torres",
+    "mother": "4857_pascuala_sancho_bonet",
+    "spouse": [
+      "3987_francisca_pla_fonollosa"
+    ],
+    "children": [
+      "105_mariano_enguera_o_anguera_pla",
+      "106_andres_enguera_o_anguera_pla",
+      "107_miguel_enguera_o_anguera_pla",
+      "108_vicente_enguera_o_anguera_pla",
+      "109_mariana_enguera_o_anguera_pla"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustín Anguera [ o Enguera] Torres",
+      "Pascuala Sancho Bonet"
+    ],
+    "father_name": "Agustín Anguera Torres",
+    "mother_name": "Pascuala Sancho Bonet",
+    "spouse_names": [
+      "Francisca Pla Fonollosa"
+    ],
+    "children_names": [
+      "Mariano Enguera [o Anguera] Pla",
+      "Andrés Enguera [o Anguera] Pla",
+      "Miguel Enguera [o Anguera] Pla",
+      "Vicente Enguera [o Anguera] Pla",
+      "Mariana Enguera [o Anguera] Pla"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Sebastián Trillero",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  el 4 de gener de 1801 a la Ràpita.\n\nEls padrins son els cònjuges Sebastián Trillero de Calanda i Vicenta Milian de Villaluengo.\n\nCasament: el 22 d'abril de 1830 amb Francisca Pla Fonollosa de Rossell [1810].\n\nFills: Mariano [1831], Andrés [1833], Miguel [1836], Vicente [1840], Mariana [1840], Manuel [1845] i Josefa [1845].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

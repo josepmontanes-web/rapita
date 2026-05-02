@@ -1,0 +1,78 @@
+{
+  "id": "1389_rosa_cera_cartes",
+  "source_id": "1389",
+  "row_ref": "1389. Rosa Cera Cartes",
+  "name": "Rosa Cera Cartes",
+  "gender": "female",
+  "birth": {
+    "date": "1828-05-28",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1393_jose_cera_marman",
+      "1064_agustina_cartes_fonollosa"
+    ],
+    "father": "1393_jose_cera_marman",
+    "mother": "1064_agustina_cartes_fonollosa",
+    "spouse": [
+      "4066_pedro_puigcerver_llorens"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Cera Marmañ",
+      "Agustina Cartes Fonollosa"
+    ],
+    "father_name": "José Cera Marmañ",
+    "mother_name": "Agustina Cartes Fonollosa",
+    "spouse_names": [
+      "Pedro Puigcerver Llorens"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Carbó",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 28 de maig de 1828 a la Ràpita.\n\nPadrins: Francisco Carbó i Rosa Navarro.\n\nCasament: el 3 de juny de 1852 amb Pedro Puigcerver Llorens de la Ràpita [1828]. Testimonis: Miguel Llobet i Juan Borràs.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

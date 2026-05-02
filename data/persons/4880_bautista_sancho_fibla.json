@@ -1,0 +1,75 @@
+{
+  "id": "4880_bautista_sancho_fibla",
+  "source_id": "4880",
+  "row_ref": "4880. Bautista Sancho Fibla",
+  "name": "Bautista Sancho Fibla",
+  "gender": "male",
+  "birth": {
+    "date": "1831-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4877_blas_sancho_fibla"
+    ],
+    "father": "4877_blas_sancho_fibla",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Blas Sancho Fibla",
+      "Maria Fibla Ronsano"
+    ],
+    "father_name": "Blas Sancho Fibla",
+    "mother_name": "Maria Fibla Ronsano",
+    "spouse_names": [
+      "Francisca Fatsini Chillida"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1831]. \n\nProfessió: pagès.\n\nCasament: el 29 de juliol de 1854 amb Francisca Fatsini Chillida de la Ràpita [1830]. Es casa als 23 anys. Testimonis: Juan Curto i Bartolomé Silvestre.\n\nFills: María [1870].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "3310_teresa_mauri_royo",
+  "source_id": "3310",
+  "row_ref": "3310. Teresa Mauri Royo",
+  "name": "Teresa Mauri Royo",
+  "gender": "female",
+  "birth": {
+    "date": "1854-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1854].\n\nCasament: amb Tomás Subirats Pla de la Ràpita [1848].\n\nFills: Tomás [1877] i José [1879].\n\nDefunció: el 23 de maig de 1879 a la Ràpita als 25 anys de \"eclampcia\". Declara la mor el seu cunyat Vicente Subirats, pastor, de Freginals.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

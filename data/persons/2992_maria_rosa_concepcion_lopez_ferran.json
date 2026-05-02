@@ -1,0 +1,78 @@
+{
+  "id": "2992_maria_rosa_concepcion_lopez_ferran",
+  "source_id": "2992",
+  "row_ref": "2992. María Rosa Concepción López Ferrán",
+  "name": "María Rosa Concepción López Ferrán",
+  "gender": "female",
+  "birth": {
+    "date": "1810-03-24",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1835-01-17",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3021_francisco_lopez_pinol",
+      "1991_francisca_ferran_guinot"
+    ],
+    "father": "3021_francisco_lopez_pinol",
+    "mother": "1991_francisca_ferran_guinot",
+    "spouse": [
+      "2073_jose_ferrer_rostoll"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco López Piñol",
+      "Francisca Ferran Guiñot"
+    ],
+    "father_name": "Francisco López Piñol",
+    "mother_name": "Francisca Ferrán Guiñot",
+    "spouse_names": [
+      "José Ferrer Rostoll"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Domingo Estrada",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 24 de març de 1810 a la Ràpita. A la partida de bateig es diu María de la Encarnación Rosa Agustina.\n\nPadrins: Domingo Estrada i Rosa Saperes.\n\nCasament: el 6 de setembre de 1831 amb José Ferrer Rostoll d'Altea [1800].\n\nFills: Juliana [1832].\n\nDe l'1 de juliol de 1834 al 30 de novembre de 1834 ha de pagar un lloguer de 6 Rs mensuals per la guardilla de la casa 5 de la mançana 2. (AGP.PER.LEG.1073/23 [Juan Vecino]).\n\nDefunció: el 17 de gener de 1835 a la Ràpita. Va morir als 25 anys. A la partida de defunció es diu María Rosa Concepción.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

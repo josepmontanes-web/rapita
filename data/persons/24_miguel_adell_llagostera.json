@@ -1,7 +1,7 @@
 {
   "id": "24_miguel_adell_llagostera",
   "source_id": "24",
-  "row_ref": "24",
+  "row_ref": "24. Miguel Adell Llagostera",
   "name": "Miguel Adell Llagostera",
   "gender": "male",
   "birth": {
@@ -22,20 +22,53 @@
   },
   "family": {
     "parents": [
+      "34_andres_adell_sancho",
+      "2921_beatriz_llagostera_bonamich"
+    ],
+    "father": "34_andres_adell_sancho",
+    "mother": "2921_beatriz_llagostera_bonamich",
+    "spouse": [
+      "4729_francisca_sanchez_capilla"
+    ],
+    "children": [
+      "33_resuelto_joaquina_adell_royo",
       "34_andres_adell_sancho"
     ],
-    "spouse": [],
-    "children": []
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
   },
   "relations_detail": {
     "parents_names": [
       "Andrés Adell Sancho",
       "Beatriz Llagostera Bonamich"
     ],
+    "father_name": "Andrés Adell Sancho",
+    "mother_name": "Beatriz Llagostera Bonamich",
     "spouse_names": [
       "Francisca Sánchez Capilla"
     ],
-    "children_names": []
+    "children_names": [
+      "resuelto Joaquina Adell Royo",
+      "Andrés Adell Sancho"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
   },
   "occupation": {
     "title": null

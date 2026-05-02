@@ -1,0 +1,81 @@
+{
+  "id": "4096_teresa_queralt",
+  "source_id": "4096",
+  "row_ref": "4096. Teresa Queralt",
+  "name": "Teresa Queralt",
+  "gender": "female",
+  "birth": {
+    "date": "1790-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "4454_rafael_roe"
+    ],
+    "children": [
+      "4316_maria_reverter_queralt",
+      "4317_bernarda_reverter_queralt",
+      "4318_miguel_reverter_queralt"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Josef Reverter",
+      "Rafael Roe"
+    ],
+    "children_names": [
+      "Maria Reverter Queralt",
+      "Bernarda Reverter Queralt",
+      "Miguel Reverter Queralt"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1790]. \n\nCasament: amb José Reverter.\n\nCasament: el 7 de setembre de 1825 amb Rafael Roe de La Galera.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

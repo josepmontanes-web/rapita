@@ -1,0 +1,74 @@
+{
+  "id": "2586_teresa_giner_ramos",
+  "source_id": "2586",
+  "row_ref": "2586. Teresa Giner Ramos",
+  "name": "Teresa Giner Ramos",
+  "gender": "female",
+  "birth": {
+    "date": "1846-08-01",
+    "place": null
+  },
+  "death": {
+    "date": "1847-12-27",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2555_agustin_giner",
+      "4149_josefa_ramos_o_rams"
+    ],
+    "father": "2555_agustin_giner",
+    "mother": "4149_josefa_ramos_o_rams",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustín Giner",
+      "Josefa Ramos [o Rams]"
+    ],
+    "father_name": "Agustín Giner",
+    "mother_name": "Josefa Ramos",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1846].\n\nDefunció: el 27 de desembre de 1847 a la Ràpita. Va morir als 16 mesos.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "3252_bautista_matamoros_reverter",
+  "source_id": "3252",
+  "row_ref": "3252. Bautista Matamoros Reverter",
+  "name": "Bautista Matamoros Reverter",
+  "gender": "male",
+  "birth": {
+    "date": "1812-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1845-10-08",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3247_agustin_matamoros_reverter",
+      "4250_mariana_reverter_fibla"
+    ],
+    "father": "3247_agustin_matamoros_reverter",
+    "mother": "4250_mariana_reverter_fibla",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustín Matamoros Reverter",
+      "Mariana Reverter Fibla"
+    ],
+    "father_name": "Agustín Matamoros Reverter",
+    "mother_name": "Mariana Reverter Fibla",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1812]. \n\nDefunció: el 8 d'octubre de 1845 a la Ràpita. Va morir fadrí als 33 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

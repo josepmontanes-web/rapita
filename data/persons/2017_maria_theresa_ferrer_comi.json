@@ -1,0 +1,74 @@
+{
+  "id": "2017_maria_theresa_ferrer_comi",
+  "source_id": "2017",
+  "row_ref": "2017. Maria Theresa Ferrer Comí",
+  "name": "Maria Theresa Ferrer Comí",
+  "gender": "female",
+  "birth": {
+    "date": "1840-01-23",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2011_jose_antonio_ferrer_busquets",
+      "1588_juana_comi_nicolau"
+    ],
+    "father": "2011_jose_antonio_ferrer_busquets",
+    "mother": "1588_juana_comi_nicolau",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Antonio Ferrer Busquets",
+      "Juana Comí Nicolau"
+    ],
+    "father_name": "José Antonio Ferrer Busquets",
+    "mother_name": "Juana Comí Nicolau",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Feliciano Florcadell",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 23 de gener de 1840 a la Ràpita.\n\nPadrins: Feliciano Florcadell i Teresa Goday.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

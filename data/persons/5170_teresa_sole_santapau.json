@@ -1,0 +1,79 @@
+{
+  "id": "5170_teresa_sole_santapau",
+  "source_id": "5170",
+  "row_ref": "5170. Teresa Solé Santapau",
+  "name": "Teresa Solé Santapau",
+  "gender": "female",
+  "birth": {
+    "date": "1726-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1816-08-30",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "4548_antonio_rosales_sole",
+      "4549_joaquina_rosales_sole"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Solé",
+      "Maria Santapau"
+    ],
+    "father_name": "Pedro Solé",
+    "mother_name": "Maria Santapau",
+    "spouse_names": [
+      "Antonio Rosales"
+    ],
+    "children_names": [
+      "Antonio Rosales Solé",
+      "Joaquina Rosales Solé"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1726]. \n\nCasament: amb Antonio Rosales de Tortosa.\n\nFills: Antonio (Tortosa) [1756] i Joaquina (Tortosa) [1767].\n\nDefunció: el 30 d'agost de 1816 a la Ràpita. Va morir als 90 anys de \"hinchazón\". No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

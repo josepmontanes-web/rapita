@@ -1,0 +1,73 @@
+{
+  "id": "3139_pascacio_martinez_balero",
+  "source_id": "3139",
+  "row_ref": "3139. Pascacio Martínez Balero",
+  "name": "Pascacio Martínez Balero",
+  "gender": "male",
+  "birth": {
+    "date": "1783-01-01",
+    "place": "Almoguera (Toledo)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Manuel Martínez",
+      "Teresa Balero"
+    ],
+    "father_name": "Juan Manuel Martínez",
+    "mother_name": "Teresa Balero",
+    "spouse_names": [
+      "DªMªdel Carmen Lobo Pontones"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Almoguera [aprox. 1783]. \n\nCasament: el 30 d'abril de 1817 amb Doña María del Carmen Lobo Pontonés de Barcelona [1792]. Es casa als 34 anys. Testimonis: Francisco Marguillez i Pablo Palau \"dependientes\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

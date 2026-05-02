@@ -1,0 +1,81 @@
+{
+  "id": "1305_nicolasa_castella_navarro",
+  "source_id": "1305",
+  "row_ref": "1305. Nicolasa Castellà Navarro",
+  "name": "Nicolasa Castellà Navarro",
+  "gender": "female",
+  "birth": {
+    "date": "1825-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1233_domingo_castella_colomines"
+    ],
+    "father": "1233_domingo_castella_colomines",
+    "mother": null,
+    "spouse": [
+      "458_rafael_balague_riba"
+    ],
+    "children": [
+      "416_jose_balague_castella"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Domingo Castellà Colomines",
+      "Josefa Navarro Arlández"
+    ],
+    "father_name": "Domingo Castellà Colomines",
+    "mother_name": "Josefa Navarro Arlández",
+    "spouse_names": [
+      "Rafael Balagué Riba"
+    ],
+    "children_names": [
+      "José Balagué Castellà"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1825].\n\nCasament: el 9 de maig de 1844 amb Rafael Balagué Riba de Tortosa [1820].\n\nFills: José [1846], Buenaventura [1848] i Fernando [1854].\n\nTambé l'anomenen \"Colaça\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

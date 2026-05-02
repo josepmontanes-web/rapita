@@ -1,0 +1,68 @@
+{
+  "id": "2542_maria_gilabert_ferre",
+  "source_id": "2542",
+  "row_ref": "2542. María Gilabert Ferré",
+  "name": "María Gilabert Ferré",
+  "gender": "female",
+  "birth": {
+    "date": "1852-01-01",
+    "place": "Patones (Madrid)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Patones (Madrid) [aprox. 1852].\n\nCasament: el 12 de novembre 1870 amb Miguel López Garriga de la Ràpita [1849].\n\nFills: María [1875], Miguel [1878] i Gabriel [1880].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

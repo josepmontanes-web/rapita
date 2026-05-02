@@ -1,0 +1,89 @@
+{
+  "id": "1206_agustin_castella_caldero",
+  "source_id": "1206",
+  "row_ref": "1206. Agustín Castellà Calderó",
+  "name": "Agustín Castellà Calderó",
+  "gender": "male",
+  "birth": {
+    "date": "1798-01-13",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "929_maria_caldero_ferre"
+    ],
+    "father": null,
+    "mother": "929_maria_caldero_ferre",
+    "spouse": [
+      "3646_josefa_navarro_lluis"
+    ],
+    "children": [
+      "1219_maria_rosa_castella_cartes",
+      "1291_maria_castella_navarro",
+      "1292_martin_castella_navarro",
+      "1293_ildefonsa_castella_navarro",
+      "1294_carlos_castella_navarro"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joseph Castellà Zaragoza",
+      "María Calderó Ferré"
+    ],
+    "father_name": "Joseph Castellà Zaragoza",
+    "mother_name": "Maria Calderó Ferré",
+    "spouse_names": [
+      "Josefa Navarro Lluís"
+    ],
+    "children_names": [
+      "Maria Rosa Castellà Cartes",
+      "Maria Castellà Navarro",
+      "Martín Castellà Navarro",
+      "Ildefonsa Castellà Navarro",
+      "Carlos Castellà Navarro"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Joseph Antonio Pasqual",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 13 de gener de 1798 a la Ràpita. Testimonis del bateig: Don Lorenzo Casadevall \"Alcalde de esta población\" i Don Agustín Fornesa \"cirujano\".\n\nPadrins: José Antonio Pasqual i Agustina Rubio.\n\nCasament: el 18 de gener de 1823 amb Josefa Navarro Lluís de la Ràpita [1803].\n\nFills: Ildefonsa (Tortosa) [1825], María (Tortosa) [1831], Martín [1832] i Carlos [1835].\n\nCasament: amb María Cartes Homedes [o Omedes] de la Ràpita [1814].\n\nFills: María Rosa [1840].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

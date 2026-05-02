@@ -1,0 +1,74 @@
+{
+  "id": "480_lorenza_balanza_sanz",
+  "source_id": "480",
+  "row_ref": "480. Lorenza Balanzá Sanz",
+  "name": "Lorenza Balanzá Sanz",
+  "gender": "female",
+  "birth": {
+    "date": "1847-03-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1847-04-12",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "467_jose_balanza_comes",
+      "4989_joaquina_sanz_fabregat"
+    ],
+    "father": "467_jose_balanza_comes",
+    "mother": "4989_joaquina_sanz_fabregat",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Balanzá Comes",
+      "Joaquina Sanz Fabregat"
+    ],
+    "father_name": "José Balanzá Comes",
+    "mother_name": "Joaquina Sanz Fabregat",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. març 1847].\n\nDefunció: el 12 d'abril de 1847 a la Ràpita. Va morir al mes i mig.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

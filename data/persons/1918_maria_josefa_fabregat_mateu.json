@@ -1,0 +1,74 @@
+{
+  "id": "1918_maria_josefa_fabregat_mateu",
+  "source_id": "1918",
+  "row_ref": "1918. Maria Josefa Fabregat Mateu",
+  "name": "Maria Josefa Fabregat Mateu",
+  "gender": "female",
+  "birth": {
+    "date": "1794-02-15",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1794-04-25",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1905_juan_fabregat_balaguer",
+      "3301_mariana_mateu_sancho"
+    ],
+    "father": "1905_juan_fabregat_balaguer",
+    "mother": "3301_mariana_mateu_sancho",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Fabregat Balaguer",
+      "Mariana Mateu Sancho"
+    ],
+    "father_name": "Juan Fabregat Balaguer",
+    "mother_name": "Mariana Mateu Sancho",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Gaspari Bretaña",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 15 de febrer de 1794 a la Ràpita.\n\nPadrins: Francisco Gaspari Bretaña i María Dalmau.\n\nDefunció: el 25 d'abril de 1794 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "4226_ramon_reverte_chillida",
+  "source_id": "4226",
+  "row_ref": "4226. Ramón Reverté Chillida",
+  "name": "Ramón Reverté Chillida",
+  "gender": "male",
+  "birth": {
+    "date": "1824-08-30",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4222_domingo_reverter_cases"
+    ],
+    "father": "4222_domingo_reverter_cases",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Domingo Reverter Cases",
+      "Rosa Chillida Badoca"
+    ],
+    "father_name": "Domingo Reverté Cases",
+    "mother_name": "Rosa Chillida Badoca",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Casimiro Míes",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 30 d'agost de 1824 a la Ràpita.\n\nPadrins: Casimiro Míes i Luísa Fibla.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

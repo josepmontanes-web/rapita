@@ -1,0 +1,71 @@
+{
+  "id": "5018_agustin_sans_sanarau",
+  "source_id": "5018",
+  "row_ref": "5018. Agustín Sans Sanarau",
+  "name": "Agustín Sans Sanarau",
+  "gender": "male",
+  "birth": {
+    "date": "1780-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": "1840-03-14",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Rúfol Sans",
+      "Francisca Sanarau"
+    ],
+    "father_name": "Rúfol Sans",
+    "mother_name": "Francisca Sanarau",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1780]. \n\nDefunció: el 14 de març de 1840 a la Ràpita. Va morir als 50 anys. No fa testament. (Potser tenia 60 anys, ja que s'ha mare mor al 1785)",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

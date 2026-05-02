@@ -1,0 +1,79 @@
+{
+  "id": "2028_teresa_ferre_fabregat",
+  "source_id": "2028",
+  "row_ref": "2028. Teresa Ferré Fabregat",
+  "name": "Teresa Ferré Fabregat",
+  "gender": "female",
+  "birth": {
+    "date": "1823-01-24",
+    "place": "sc"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2062_miguel_ferre_ortiz"
+    ],
+    "father": "2062_miguel_ferre_ortiz",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "4238_teresa_reverte_ferre"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Ferré Ortiz",
+      "Teresa Fabregat Mateu"
+    ],
+    "father_name": "Miguel Ferré Ortiz",
+    "mother_name": "Teresa Fabregat Mateu",
+    "spouse_names": [
+      "Bautista Reverté Balada"
+    ],
+    "children_names": [
+      "Teresa Reverté Ferré"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Fabregat",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 24 de gener de 1823 a la Ràpita.\n\nPadrins: Juan Fabregat i Teresa Brexiano.\n\nCasament: el 28 de novembre de 1847 amb Bautista Reverté Balada de la Ràpita [1815].\n\nFills: Teresa [1848], Francisca [1852] i Andrés [1857].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

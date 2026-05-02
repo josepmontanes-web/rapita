@@ -1,0 +1,71 @@
+{
+  "id": "5356_mariano_jose_torta_fabregat",
+  "source_id": "5356",
+  "row_ref": "5356. Mariano José Torta Fabregat",
+  "name": "Mariano José Torta Fabregat",
+  "gender": "male",
+  "birth": {
+    "date": "1821-07-26",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Torta Llasa",
+      "Josefa Fabregat Mateu"
+    ],
+    "father_name": "Josef Torta Llasa",
+    "mother_name": "Josefa Fabregat Mateu",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Fabregat",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 26 de juliol de 1821 a la Ràpita.\n\nPadrins: Juan Fabregat i Josefa Torta.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

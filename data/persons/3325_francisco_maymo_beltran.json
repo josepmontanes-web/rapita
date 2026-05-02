@@ -1,0 +1,72 @@
+{
+  "id": "3325_francisco_maymo_beltran",
+  "source_id": "3325",
+  "row_ref": "3325. Francisco Maymó Beltran",
+  "name": "Francisco Maymó Beltran",
+  "gender": "male",
+  "birth": {
+    "date": "1775-01-01",
+    "place": "San Mateo"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "3328_pablo_juan_antonio_maymo_pons"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Pablo Juan Antonio Maymó Pons"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a San Mateo [aprox. 1775].\n\nCasament: amb Francisca Pons Subirats d'Amposta [1775].\n\nFills: Susana [1795], Pedro [1795] i Pablo [1800].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viuen a la mansana vella (carrer del forn) núm. 22 (ACA BGRP caixa 34). Al gener de 1799 paga un lloguer de 8 Rv per la mateixa casa.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

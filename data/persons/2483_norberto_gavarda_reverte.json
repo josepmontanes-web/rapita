@@ -1,0 +1,71 @@
+{
+  "id": "2483_norberto_gavarda_reverte",
+  "source_id": "2483",
+  "row_ref": "2483. Norberto Gavarda Reverté",
+  "name": "Norberto Gavarda Reverté",
+  "gender": "male",
+  "birth": {
+    "date": "1833-06-06",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pablo Favardà Romero",
+      "Bernarda Reverter Queral"
+    ],
+    "father_name": "Pablo Favardà Romero",
+    "mother_name": "Bernarda Reverter Queral",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Gasparín",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 6 de juny de 1833 a la Ràpita.\n\nPadrins: Francisco Gasparín i Francisca Gasparín.\n\nProfessió: mariner.\n\nCasament: amb Francisca Llopis Llopis de Peníscola [1840].\n\nFills: Francisca [1861] i José María [1878].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "2622_maria_de_los_dolores_gombau_betii",
+  "source_id": "2622",
+  "row_ref": "2622. María de los Dolores Gombau Betii",
+  "name": "María de los Dolores Gombau Betii",
+  "gender": "female",
+  "birth": {
+    "date": "1816-04-05",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Valentín Gombau Rusnon",
+      "Maria Manuela Betii Llorens"
+    ],
+    "father_name": "Valentín Gombau Rusnon",
+    "mother_name": "Maria Manuela Betii Llorens",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Benito Florensa",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 5 d'abril de 1816 a la Ràpita.\n\nPadrins: Don Benito Florensa i María Reverter.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

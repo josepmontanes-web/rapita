@@ -1,0 +1,73 @@
+{
+  "id": "3082_maria_leonor_magrina_gatimo",
+  "source_id": "3082",
+  "row_ref": "3082. María Leonor Magriñá Gatimó",
+  "name": "María Leonor Magriñá Gatimó",
+  "gender": "female",
+  "birth": {
+    "date": "1834-08-04",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3086_juan_magrina_rosales"
+    ],
+    "father": "3086_juan_magrina_rosales",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Magriñá Rosales",
+      "Doña Paula Galimó Bosch"
+    ],
+    "father_name": "Juan Magriñá Rosales",
+    "mother_name": "Doña Paula Galimó Bosch",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Agustín Magriñá",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 4 d'agost de 1834 a la Ràpita.\n\nPadrins: Don Agustín Magriñá \"Pro Secretario del Ilustre Ayuntamiento de la Ciudad de Peñíscola\" i Teresa Rosales.\n\nAmonestacions de casament a Reus: 16 de febrer de 1863 amb Josep Antoni Cabrer Torrell, propietari, de Vinyols resident a Reus (ACBC280-93-T2-21099).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

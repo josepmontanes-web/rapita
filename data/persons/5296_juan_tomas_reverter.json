@@ -1,0 +1,74 @@
+{
+  "id": "5296_juan_tomas_reverter",
+  "source_id": "5296",
+  "row_ref": "5296. Juan Tomás Reverter",
+  "name": "Juan Tomás Reverter",
+  "gender": "male",
+  "birth": {
+    "date": "1842-04-12",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1846-11-03",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4791_miguel_sanchez_reverter",
+      "4263_teresa_reverter_forner"
+    ],
+    "father": "4791_miguel_sanchez_reverter",
+    "mother": "4263_teresa_reverter_forner",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Sánchez Reverter",
+      "Teresa Reverter Forner"
+    ],
+    "father_name": "Miguel Tomás Sánchez",
+    "mother_name": "Teresa Reverter Forner",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Muños",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 12 d'abril de 1842 a la Ràpita.\n\nPadrins: Juan Muños i María Arbó.\n\nDefunció: el 3 de novembre de 1846 a la Ràpita. Va morir de \"terciana\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

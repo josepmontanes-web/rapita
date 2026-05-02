@@ -1,0 +1,74 @@
+{
+  "id": "5553_maria_antonia_vidal_rosales",
+  "source_id": "5553",
+  "row_ref": "5553. María Antonia Vidal Rosales",
+  "name": "María Antonia Vidal Rosales",
+  "gender": "female",
+  "birth": {
+    "date": "1824-01-04",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1824-01-14",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5588_joaquin_vidal_talarn",
+      "4559_maria_rosales_valls"
+    ],
+    "father": "5588_joaquin_vidal_talarn",
+    "mother": "4559_maria_rosales_valls",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Vidal Talarn",
+      "Maria Rosales Valls"
+    ],
+    "father_name": "Joaquín Vidal Talarn",
+    "mother_name": "Maria Rosales Valls",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Antonio Rosales",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 4 de gener de 1824 a la Ràpita.\n\nPadrins: José Antonio Rosales i Teresa Rosales.\n\nDefunció: el 14 de gener de 1824 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

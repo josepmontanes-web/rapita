@@ -1,0 +1,77 @@
+{
+  "id": "3992_francisco_planas_pons",
+  "source_id": "3992",
+  "row_ref": "3992. Francisco Planas Pons",
+  "name": "Francisco Planas Pons",
+  "gender": "male",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Barcelona"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "4010_luis_pons_reverter"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "D.Joseph Planas",
+      "Dª Raymunda Pons"
+    ],
+    "father_name": "D.Joseph Planas",
+    "mother_name": "Dª Raymunda Pons",
+    "spouse_names": [
+      "DªMªConcepción Roca Antigüa"
+    ],
+    "children_names": [
+      "Luís Pons Reverter"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Of. Contaduria"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Barcelona [aprox. 1790]. \n\n\"Oficial de la contaduria de esta Nueva Población de San Carlos\".\n\nCasament: el 25 d'agost de 1821 amb Doña María Concepción Roca Antigüa de Barcelona [1800]. Testimonis: Don Juan de Quesada \"Administrador de esta Aduana Nacional y Don José Ignacio Pi contador de la misma\".\n\nFills: Rosendo Gabriel [1822].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

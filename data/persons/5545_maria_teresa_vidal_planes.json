@@ -1,0 +1,73 @@
+{
+  "id": "5545_maria_teresa_vidal_planes",
+  "source_id": "5545",
+  "row_ref": "5545. María Teresa Vidal Planes",
+  "name": "María Teresa Vidal Planes",
+  "gender": "female",
+  "birth": {
+    "date": "1829-06-12",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1829-10-15",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5500_francisco_vidal_beltran"
+    ],
+    "father": "5500_francisco_vidal_beltran",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Vidal Beltran",
+      "Francisca Planes Govern"
+    ],
+    "father_name": "Francisco Vidal Beltran",
+    "mother_name": "Francisca Planes Govern",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Tomás",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 12 de juny de 1829 a la Ràpita.\n\nPadrins: Juan Tomás i María Ripoll.\n\n\"Fue bautizada por la madrina Eulalia Planes de 40 años\".\n\nDefunció: el 15 d'octubre de 1829 a la Ràpita. Va morir de \"viruelas\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

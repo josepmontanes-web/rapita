@@ -1,0 +1,81 @@
+{
+  "id": "1066_juan_cartes_fonollosa",
+  "source_id": "1066",
+  "row_ref": "1066. Juan Cartes Fonollosa",
+  "name": "Juan Cartes Fonollosa",
+  "gender": "male",
+  "birth": {
+    "date": "1795-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1082_agustin_cartes_rosell"
+    ],
+    "father": "1082_agustin_cartes_rosell",
+    "mother": null,
+    "spouse": [
+      "1700_joaquina_dalmau_fabregat"
+    ],
+    "children": [
+      "1058_ildefonso_cartes_dalmau"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustín Cartes Rosell",
+      "Josefa Fonollosa"
+    ],
+    "father_name": "Agustín Cartes",
+    "mother_name": "Josefa Fonollosa",
+    "spouse_names": [
+      "Joaquina Dalmau Fabregat"
+    ],
+    "children_names": [
+      "Ildefonso Cartes Dalmau"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1795].\n\nCasament: amb Joaquina Dalmau Fabregat de Tortosa [1795].\n\nFills: Ildefonso [1814].\n\nEs germà de Agustina Cartes Fonollosa [1790] i José Cartes Fonollosa [1790].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

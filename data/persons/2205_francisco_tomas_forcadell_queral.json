@@ -1,0 +1,73 @@
+{
+  "id": "2205_francisco_tomas_forcadell_queral",
+  "source_id": "2205",
+  "row_ref": "2205. Francisco Tomás Forcadell Queral",
+  "name": "Francisco Tomás Forcadell Queral",
+  "gender": "male",
+  "birth": {
+    "date": "1837-05-13",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1839-09-06",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2182_francisco_forcadell_badoch"
+    ],
+    "father": "2182_francisco_forcadell_badoch",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Forcadell Badoch",
+      "Maria Queral Huguet"
+    ],
+    "father_name": "Francisco Forcadell Badoch",
+    "mother_name": "Maria Queral Huguet",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Tomás Curto",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 13 de maig de 1837 a la Ràpita.\n\nPadrins: Tomás Curto i Francisca Reverter.\n\nDefunció: el 6 de setembre de 1839 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

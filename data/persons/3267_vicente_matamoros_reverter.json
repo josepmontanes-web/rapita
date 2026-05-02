@@ -1,0 +1,74 @@
+{
+  "id": "3267_vicente_matamoros_reverter",
+  "source_id": "3267",
+  "row_ref": "3267. Vicente Matamoros Reverter",
+  "name": "Vicente Matamoros Reverter",
+  "gender": "male",
+  "birth": {
+    "date": "1832-10-26",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1845-01-30",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3248_jacinto_matamoros_reverte",
+      "4251_maria_reverter_fibla"
+    ],
+    "father": "3248_jacinto_matamoros_reverte",
+    "mother": "4251_maria_reverter_fibla",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Jacinto Matamoros Reverté",
+      "María Reverter Fibla"
+    ],
+    "father_name": "Jacinto Matamoros Reverté",
+    "mother_name": "Maria Reverter Fibla",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Jacinto Matamoros",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 26 d'octubre de 1832 a la Ràpita.\n\nPadrins: Jacinto Matamoros i Josefa Bort.\n\nDefunció: el 30 de gener de 1845 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

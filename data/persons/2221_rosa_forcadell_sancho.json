@@ -1,0 +1,68 @@
+{
+  "id": "2221_rosa_forcadell_sancho",
+  "source_id": "2221",
+  "row_ref": "2221. Rosa Forcadell Sancho",
+  "name": "Rosa Forcadell Sancho",
+  "gender": "female",
+  "birth": {
+    "date": "1856-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1856].\n\nCasament: el 20 d'agost de 1879 amb Tomás Subirats Pla de Freginals [1848]. Es casa als 23 anys.\n\nFills: Miguel [1880].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

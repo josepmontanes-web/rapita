@@ -1,0 +1,68 @@
+{
+  "id": "292_cristobal_arnau_torrent",
+  "source_id": "292",
+  "row_ref": "292. Cristobal Arnau Torrent",
+  "name": "Cristobal Arnau Torrent",
+  "gender": "male",
+  "birth": {
+    "date": "1832-01-01",
+    "place": "Vinaròs"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1832].\n\nProfessió: pagès i tartanero.\n\nCasament: amb Agustina Sogues Bedós de Traiguera [1842].\n\nFills: Cristobal, Rafael, Juanito, Cinta, Agustín [1876] i Agustina [1879].\n\nNo signa la declaració de naixement del fill al registre civil per no saber.\n\nDefunció: el 23 de febrer de 1881 a la Ràpita als 48 anys de \" una aneurisma fecbarazon\". La seua dona té 38 anys. Declara la mor la seua cosina Josefa Arnau, casada.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

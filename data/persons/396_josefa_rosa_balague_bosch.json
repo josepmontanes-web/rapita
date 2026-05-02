@@ -1,0 +1,74 @@
+{
+  "id": "396_josefa_rosa_balague_bosch",
+  "source_id": "396",
+  "row_ref": "396. Josefa Rosa Balagué Bosch",
+  "name": "Josefa Rosa Balagué Bosch",
+  "gender": "female",
+  "birth": {
+    "date": "1830-01-30",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "451_jayme_balague_navarro",
+      "811_angela_bosch_bordera"
+    ],
+    "father": "451_jayme_balague_navarro",
+    "mother": "811_angela_bosch_bordera",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Jayme Balagué Navarro",
+      "Angela Bosch Bordera"
+    ],
+    "father_name": "Jayme Balagué Navarro",
+    "mother_name": "Angela Bosch Bordera",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Balagué",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 30 de gener de 1830 a la Ràpita.\n\nPadrins: Juan Balagué i Rosa Balagué.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

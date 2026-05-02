@@ -1,0 +1,74 @@
+{
+  "id": "1873_salvador_esteve",
+  "source_id": "1873",
+  "row_ref": "1873. Salvador Esteve",
+  "name": "Salvador Esteve",
+  "gender": "male",
+  "birth": {
+    "date": "1730-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1796-03-04",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1890_jose_esteve_rodon"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Francisca Rodón"
+    ],
+    "children_names": [
+      "José Esteve Rodón"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1730].\n\nA finals de maig de 1781 treballa com a fuster a les Obres del Canal de Navegació (ACA BGRP Caixa 44).\n\nCasament: amb Francisca Rodón.\n\nFills: José (Mataró) [1752].\n\nDefunció: el 4 de març de 1796 a la Ràpita. \"No hizo testamento porqué no tuvo de qué testar\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

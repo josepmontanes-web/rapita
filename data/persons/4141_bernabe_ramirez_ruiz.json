@@ -1,0 +1,93 @@
+{
+  "id": "4141_bernabe_ramirez_ruiz",
+  "source_id": "4141",
+  "row_ref": "4141. Bernabé Ramírez Ruiz",
+  "name": "Bernabé Ramírez Ruiz",
+  "gender": "male",
+  "birth": {
+    "date": "1770-01-01",
+    "place": "Dolar (Granada)"
+  },
+  "death": {
+    "date": "1832-02-25",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4133_juan_ramirez_benlloch"
+    ],
+    "father": "4133_juan_ramirez_benlloch",
+    "mother": null,
+    "spouse": [
+      "665_buenaventura_benlloch_feu"
+    ],
+    "children": [
+      "4132_luis_ramirez_benlloch",
+      "4133_juan_ramirez_benlloch",
+      "4134_facundo_ramirez_benlloch",
+      "4135_joaquin_ramirez_benlloch",
+      "4136_tecla_maria_ramirez_benlloch",
+      "4137_antonio_pablo_ramirez_benlloch",
+      "4138_bernabe_ramirez_benlloch"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Ramírez Benlloch",
+      "Juana Ruiz"
+    ],
+    "father_name": "Juan Ramírez",
+    "mother_name": "Juana Ruiz",
+    "spouse_names": [
+      "Buenaventura Benlloch Feu"
+    ],
+    "children_names": [
+      "Luís Ramírez Benlloch",
+      "Juan Ramírez Benlloch",
+      "Facundo Ramírez Benlloch",
+      "Joaquín Ramírez Benlloch",
+      "Tecla María Ramírez Benlloch",
+      "Antonio Pablo Ramírez Benlloch",
+      "Bernabé Ramírez Benlloch"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Ministre de rendes"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Dólar (Granada) [aprox. 1770]. \n\nProfessió: \"Ministro de Rentas\".\n\nCasament: el 28 de febrer de 1804 amb Buenaventura Benlloch Feu de Rialp [1785]. Es casa als 33 anys.\n\nFills: Facundo [1809], Joaquín (Mataró) [1813], Luís [1815], Antonio [1818], Juan Manuel [1820], Bernabé [1823] i Tecla [1825].\n\nDefunció: el 25 de febrer de 1832 a la Ràpita. Va morir als 62 anys de \"asma\". No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "1479_tomas_cid_herlandes",
+  "source_id": "1479",
+  "row_ref": "1479. Tomás Cid Herlandes",
+  "name": "Tomás Cid Herlandes",
+  "gender": "male",
+  "birth": {
+    "date": "1813-09-28",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1496_francisco_cid_ferrer"
+    ],
+    "father": "1496_francisco_cid_ferrer",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Cid Ferrer",
+      "Theresa Herlandes Cartes"
+    ],
+    "father_name": "Francisco Cid Ferrer",
+    "mother_name": "Theresa Herlandes Cartes",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Thomas Herlandes",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 28 de setembre de 1813 a la Ràpita.\n\nPadrins: Tomás Arlández i Rosa Castellà.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

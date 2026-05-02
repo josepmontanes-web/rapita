@@ -1,0 +1,74 @@
+{
+  "id": "2579_tomas_giner_hernandez",
+  "source_id": "2579",
+  "row_ref": "2579. Tomás Giner Hernández",
+  "name": "Tomás Giner Hernández",
+  "gender": "male",
+  "birth": {
+    "date": "1790-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1792-07-03",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2569_salvador_giner_ferran",
+      "264_rosa_hernandez_o_arlandez_pla"
+    ],
+    "father": "2569_salvador_giner_ferran",
+    "mother": "264_rosa_hernandez_o_arlandez_pla",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Salvador Giner Ferrán",
+      "Rosa Hernández [o Arlández] Pla"
+    ],
+    "father_name": "Salvador Giner Ferràn",
+    "mother_name": "Rosa Hernandez Pla",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1790].\n\nDefunció: el 3 de juliol de 1792 a la Ràpita. Va morir pàrvul.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

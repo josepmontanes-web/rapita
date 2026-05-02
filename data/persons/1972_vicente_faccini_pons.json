@@ -1,0 +1,74 @@
+{
+  "id": "1972_vicente_faccini_pons",
+  "source_id": "1972",
+  "row_ref": "1972. Vicente Faccini Pons",
+  "name": "Vicente Faccini Pons",
+  "gender": "male",
+  "birth": {
+    "date": "1812-06-03",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1960_vicente_faccini_marjet",
+      "3999_maria_pons_bullon"
+    ],
+    "father": "1960_vicente_faccini_marjet",
+    "mother": "3999_maria_pons_bullon",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Faccini Marjet",
+      "María Pons Bullón"
+    ],
+    "father_name": "Vicente Faccini Marjet",
+    "mother_name": "Maria Pons Bullón",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Vicente Díaz de Pedregal",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 3 de juny de 1812 a la Ràpita.\n\nPadrins: Don Vicente Díaz de Pedregal de Valladolid i Raymunda Cortiella.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

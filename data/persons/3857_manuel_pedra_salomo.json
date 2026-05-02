@@ -1,0 +1,74 @@
+{
+  "id": "3857_manuel_pedra_salomo",
+  "source_id": "3857",
+  "row_ref": "3857. Manuel Pedra Salomó",
+  "name": "Manuel Pedra Salomó",
+  "gender": "male",
+  "birth": {
+    "date": "1841-08-24",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3859_miguel_pedra_roca",
+      "4659_dolores_salomo_homedes"
+    ],
+    "father": "3859_miguel_pedra_roca",
+    "mother": "4659_dolores_salomo_homedes",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Pedra Roca",
+      "Dolores Salomó Homedes"
+    ],
+    "father_name": "Miguel Pedra Roca",
+    "mother_name": "Dolores Salomó Homedes",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Manuel Verge",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 24 d'agost de 1841 a la Ràpita.\n\nPadrins: Manuel Verge i María Miguel.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

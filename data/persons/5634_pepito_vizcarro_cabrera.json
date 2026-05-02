@@ -1,0 +1,68 @@
+{
+  "id": "5634_pepito_vizcarro_cabrera",
+  "source_id": "5634",
+  "row_ref": "5634. Pepito Vizcarro Cabrera",
+  "name": "Pepito Vizcarro Cabrera",
+  "gender": "male",
+  "birth": {
+    "date": null,
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1902].\n\nCasament: amb Cinta Subirats López.\n\nFills: Cintin i Pepe.\n\nDefunció: 1981.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

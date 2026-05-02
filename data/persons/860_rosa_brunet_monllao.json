@@ -1,0 +1,84 @@
+{
+  "id": "860_rosa_brunet_monllao",
+  "source_id": "860",
+  "row_ref": "860. Rosa Brunet Monllaó",
+  "name": "Rosa Brunet Monllaó",
+  "gender": "female",
+  "birth": {
+    "date": "1780-01-01",
+    "place": "Xerta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "855_juan_bautista_brunet_cases",
+      "3441_theresa_monlleo_ortiz"
+    ],
+    "father": "855_juan_bautista_brunet_cases",
+    "mother": "3441_theresa_monlleo_ortiz",
+    "spouse": [],
+    "children": [
+      "582_francisco_beltran_brunet",
+      "583_josefa_beltran_brunet",
+      "585_magdalena_beltran_brunet"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Bautista Brunet Cases",
+      "Theresa Monlleó Ortíz"
+    ],
+    "father_name": "Juan Bautista Brunet Cases",
+    "mother_name": "Theresa Monlleó Ortiz",
+    "spouse_names": [
+      "Domingo Beltran Sancho"
+    ],
+    "children_names": [
+      "Francisco Beltran Brunet",
+      "Josefa Beltran Brunet",
+      "Magdalena Beltran Brunet"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Xerta [aprox. 1780].\n\nCasament: amb Domingo Beltran Querol de Canet [o de la Senia] [1769].\n\nFills: Francisco [1804], Josefa [1807], Bautista [1809], Magdalena [1814], Josefa [1817] i Agueda [1821].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

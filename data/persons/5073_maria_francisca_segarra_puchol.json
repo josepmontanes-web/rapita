@@ -1,0 +1,77 @@
+{
+  "id": "5073_maria_francisca_segarra_puchol",
+  "source_id": "5073",
+  "row_ref": "5073. Maria Francisca Segarra Puchol",
+  "name": "Maria Francisca Segarra Puchol",
+  "gender": "female",
+  "birth": {
+    "date": "1809-04-22",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5048_tomas_segarra_bel"
+    ],
+    "father": "5048_tomas_segarra_bel",
+    "mother": null,
+    "spouse": [
+      "1933_lorenzo_fabregat_roca"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomàs Segarra Bel",
+      "Antonia Puchol Muños"
+    ],
+    "father_name": "Tomàs Segarra Bel",
+    "mother_name": "Antonia Puchol Muños",
+    "spouse_names": [
+      "Lorenzo Fabregat Roca"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Turull",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 22 d'abril de 1809 a la Ràpita.\n\nPadrins: Francisco Turull i María Ildefonso.\n\nCasament: el 21 de febrer de 1829 amb Lorenzo Fabregat Roca de Tortosa [1805].\n\nFills: Agustín Lorenzo [1830], Inocencio [1832], Manuel [1835], Francisco Antonio [1838], José [1840] i Narcisa [1843].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "4474_josefa_romero_exposita",
+  "source_id": "4474",
+  "row_ref": "4474. Josefa Romero Expósita",
+  "name": "Josefa Romero Expósita",
+  "gender": "female",
+  "birth": {
+    "date": "1860-01-01",
+    "place": "Roquetes"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Roquetes [aprox. 1860].\n\nCasament: el 10 de setembre de 1883 amb Jorge Tul Expósito de Tortosa [1855]. Es casa als 23 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

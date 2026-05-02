@@ -1,0 +1,72 @@
+{
+  "id": "879_vicente_budesca",
+  "source_id": "879",
+  "row_ref": "879. Vicente Budesca",
+  "name": "Vicente Budesca",
+  "gender": "male",
+  "birth": {
+    "date": "1760-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "880_manuela_budesca_bonet"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Manuela Budesca Bonet"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1770].\n\nCasament: amb Teresa Bonet de Tortosa.\n\nAl 1784 el patró Vicente Budesca i Teresa Bonet fan Capitols Matrimonials a Tortosa però diuen que son veïns de San Carlos.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

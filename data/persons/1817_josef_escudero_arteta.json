@@ -1,0 +1,74 @@
+{
+  "id": "1817_josef_escudero_arteta",
+  "source_id": "1817",
+  "row_ref": "1817. Josef Escudero Arteta",
+  "name": "Josef Escudero Arteta",
+  "gender": "male",
+  "birth": {
+    "date": "1785-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1792-07-30",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1816_josef_escudero",
+      "296_josefa_arteta"
+    ],
+    "father": "1816_josef_escudero",
+    "mother": "296_josefa_arteta",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Escudero",
+      "Josefa Arteta"
+    ],
+    "father_name": "Josef Escudero",
+    "mother_name": "Josefa Arteta",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1785].\n\nDefunció: el 30 de juliol de 1792 a la Ràpita. Va morir als 7 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

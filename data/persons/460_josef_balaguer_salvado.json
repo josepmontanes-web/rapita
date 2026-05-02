@@ -1,0 +1,85 @@
+{
+  "id": "460_josef_balaguer_salvado",
+  "source_id": "460",
+  "row_ref": "460. Josef Balaguer Salvadó",
+  "name": "Josef Balaguer Salvadó",
+  "gender": "male",
+  "birth": {
+    "date": "1753-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1831-08-12",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "460_josef_balaguer_salvado"
+    ],
+    "father": "460_josef_balaguer_salvado",
+    "mother": null,
+    "spouse": [
+      "2793_teresa_homedes_cartes"
+    ],
+    "children": [
+      "432_abdon_balaguer_geira",
+      "460_josef_balaguer_salvado",
+      "3612_ramon_navarro_castella"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Balaguer Salvadó",
+      "Teresa Salvadó"
+    ],
+    "father_name": "Josef Balaguer",
+    "mother_name": "Teresa Salvadó",
+    "spouse_names": [
+      "Teresa Homedes Cartes"
+    ],
+    "children_names": [
+      "Abdón Balaguer Geira",
+      "Josef Balaguer Salvadó",
+      "Ramon Navarro Castellà"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1753].\n\nCasament: a la Catedral de Tortosa el 3 de juny de 1793 amb Teresa Homedes Cartes [1770].\n\nFills: Candia (Tortosa) [aprox 1795], María (Tortosa) [aprox 1799], Rosa (Tortosa) [aprox 1800], Josefa (Tortosa) [1803], Francisca (Tortosa) [aprox 1805] i José (Tortosa) [aprox 1810].\n\nDefunció: el 12 d'agost de 1831 a la Ràpita. Va morir als 78 anys de \"asma\". No va fer testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

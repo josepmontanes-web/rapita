@@ -1,0 +1,80 @@
+{
+  "id": "2973_ildefonsa_lluis",
+  "source_id": "2973",
+  "row_ref": "2973. Ildefonsa Lluís",
+  "name": "Ildefonsa Lluís",
+  "gender": "female",
+  "birth": {
+    "date": "1765-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1837-07-02",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3593_pedro_navarro"
+    ],
+    "children": [
+      "3646_josefa_navarro_lluis",
+      "3647_tomas_navarro_lluis",
+      "3648_rosa_navarro_lluis"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Pedro Navarro"
+    ],
+    "children_names": [
+      "Josefa Navarro Lluís",
+      "Tomás Navarro Lluís",
+      "Rosa Navarro Lluís"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa  [aprox. 1765]. \n\nCasament: amb Pedro Navarro de Tortosa [1763].\n\nFills: Pedro (Tortosa) [1780], Tomás (Tortosa) [1800], Rosa (Tortosa) [1800] i Josefa [1803].\n\nDefunció: el 2 de juliol de 1837 a la Ràpita. Va ser enterrada el mateix dia. No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "4855_jose_sancho_biosca",
+  "source_id": "4855",
+  "row_ref": "4855. José Sancho Biosca",
+  "name": "José Sancho Biosca",
+  "gender": "male",
+  "birth": {
+    "date": "1791-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1819-12-16",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4899_joaquin_sancho_matamoros",
+      "704_josefa_maria_biosca"
+    ],
+    "father": "4899_joaquin_sancho_matamoros",
+    "mother": "704_josefa_maria_biosca",
+    "spouse": [],
+    "children": [
+      "4910_josefa_sancho_planes",
+      "4911_josefa_agustina_sancho_planes",
+      "4912_jose_sancho_planes"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Sancho Matamoros",
+      "Josefa María Biosca"
+    ],
+    "father_name": "Joaquín Sancho Matamoros",
+    "mother_name": "Josefa Maria Biosca",
+    "spouse_names": [
+      "Francisca Planes Gubern"
+    ],
+    "children_names": [
+      "Josefa Sancho Planes",
+      "Josefa Agustina Sancho Planes",
+      "José Sancho Planes"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1791]. \n\nCasament: el 15 de gener de 1811 amb Francisca Planes Gubern d'Amposta [1793]. Es casa als 19 anys.\n\nFills: Josefa [1812], Josefa Agustina [1813] i José [1815].\n\nDefunció: el 16 de desembre de 1819 a la Ràpita. Va morir als 24 anys. \"Testamento el 24 de noviembre de 1818 en poder del ecónomo, 6 duros para bien de almas\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

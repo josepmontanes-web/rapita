@@ -1,0 +1,82 @@
+{
+  "id": "4731_juan_sanchez_capilla",
+  "source_id": "4731",
+  "row_ref": "4731. Juan Sánchez Capilla",
+  "name": "Juan Sánchez Capilla",
+  "gender": "male",
+  "birth": {
+    "date": "1823-12-03",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4767_blas_sanchez_marin",
+      "976_florencia_capilla_macian"
+    ],
+    "father": "4767_blas_sanchez_marin",
+    "mother": "976_florencia_capilla_macian",
+    "spouse": [
+      "4368_lorenza_reverter_talarn"
+    ],
+    "children": [
+      "4793_lorenza_sanchez_reverter"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Blas Sánchez Marín",
+      "Florencia Capilla Macián"
+    ],
+    "father_name": "Blas Sánchez Marín",
+    "mother_name": "Florencia Capilla Macián",
+    "spouse_names": [
+      "Lorenza Reverter Talarn"
+    ],
+    "children_names": [
+      "Lorenza Sánchez Reverter"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Aragones",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 3 de desembre de 1823 a la Ràpita.\n\nPadrins: Juan Aragonés i María Fabregat.\n\nCasament: el 6 de desembre de 1841 amb Lorenza Reverter Talarn de la Ràpita [1824].\n\nFills: Lorenza [1842], Rosa [1850] i Juan [1861].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

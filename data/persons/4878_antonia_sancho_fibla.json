@@ -1,0 +1,83 @@
+{
+  "id": "4878_antonia_sancho_fibla",
+  "source_id": "4878",
+  "row_ref": "4878. Antonia Sancho Fibla",
+  "name": "Antonia Sancho Fibla",
+  "gender": "female",
+  "birth": {
+    "date": "1815-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4827_bartolome_sancho"
+    ],
+    "father": "4827_bartolome_sancho",
+    "mother": null,
+    "spouse": [
+      "5433_antonio_valls_sans"
+    ],
+    "children": [
+      "5430_josef_antonio_valls_sancho",
+      "5431_jose_valls_sancho"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bartolomé Sancho",
+      "María Fibla"
+    ],
+    "father_name": "Bartolomé Sancho",
+    "mother_name": "María Fibla",
+    "spouse_names": [
+      "Antonio Valls Sans"
+    ],
+    "children_names": [
+      "Josef Antonio Valls Sancho",
+      "José Valls Sancho"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1815]. \n\nCasament: amb Antonio Valls Sans d'Alcanar [1820].\n\nFills: José Antonio [1840], José [1842] i Teresa [1847].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

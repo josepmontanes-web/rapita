@@ -1,0 +1,73 @@
+{
+  "id": "989_jose_narciso_carbo_arlandez",
+  "source_id": "989",
+  "row_ref": "989. José Narciso Carbó Arlandez",
+  "name": "José Narciso Carbó Arlandez",
+  "gender": "male",
+  "birth": {
+    "date": "1813-11-12",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1014_estevan_carbo_sarsa"
+    ],
+    "father": "1014_estevan_carbo_sarsa",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Estevan Carbó Sarsa",
+      "Rosa Arlandez Roig"
+    ],
+    "father_name": "Estevan Carbó Sarsa",
+    "mother_name": "Rosa Arlandez Roig",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Carbó",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 12 de novembre de 1813 a la Ràpita.\n\nPadrins: José Carbó i Antonia Arlández",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

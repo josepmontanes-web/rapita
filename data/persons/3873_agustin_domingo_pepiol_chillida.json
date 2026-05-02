@@ -1,0 +1,73 @@
+{
+  "id": "3873_agustin_domingo_pepiol_chillida",
+  "source_id": "3873",
+  "row_ref": "3873. Agustín Domingo Pepiol Chillida",
+  "name": "Agustín Domingo Pepiol Chillida",
+  "gender": "male",
+  "birth": {
+    "date": "1840-02-28",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1443_teresa_chillida_querol"
+    ],
+    "father": null,
+    "mother": "1443_teresa_chillida_querol",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Domingo Pipiol Pasqual",
+      "Teresa Chillida Querol"
+    ],
+    "father_name": "Domingo Pipiol Pasqual",
+    "mother_name": "Teresa Chillida Querol",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Pipiol",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 28 de febrer de 1840 a la Ràpita.\n\nPadrins: Francisco Pipiol i Agustina Noguerón.\n\nProfessió: pagès.\n\nCasament: amb Vicenta Arlández Balada de la Ràpita [1841].\n\nFills: Teresa [1876], Josefa [1877], Sebastián [1877] i Enrique Tomás [1880].\n\nNo signa la declaració de naixement de la filla al registre civil per no saber.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

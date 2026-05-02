@@ -1,0 +1,91 @@
+{
+  "id": "3559_juan_moya_vilarroya",
+  "source_id": "3559",
+  "row_ref": "3559. Juan Moya Vilarroya",
+  "name": "Juan Moya Vilarroya",
+  "gender": "male",
+  "birth": {
+    "date": "1808-04-24",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3550_juan_moia_oruspina_o_ruspina"
+    ],
+    "father": "3550_juan_moia_oruspina_o_ruspina",
+    "mother": null,
+    "spouse": [
+      "832_francisca_briciano_pasqual"
+    ],
+    "children": [
+      "3524_juan_agustin_moya_briciano",
+      "3525_juan_moya_briciano",
+      "3526_salvador_moya_briciano",
+      "3527_francisca_moya_briciano",
+      "3528_agustin_moya_briciano",
+      "3529_pedro_moya_brisciano"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Moia Oruspina [o Ruspina]",
+      "Theresa Vilarroya Perolada"
+    ],
+    "father_name": "Juan Moya Oruspina",
+    "mother_name": "Theresa Vilarroya Perolada",
+    "spouse_names": [
+      "Francisca Briciano Pasqual"
+    ],
+    "children_names": [
+      "Juan Agustín Moya Briciano",
+      "Juan Moya Briciano",
+      "Salvador Moya Briciano",
+      "Francisca Moya Briciano",
+      "Agustín Moya Briciano",
+      "Pedro Moya Brisciano"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Moya",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 24 d'abril de 1808 a la Ràpita.\n\nPadrins: Francisco Moya (germà) i Bàrbara Gombau.\n\nProfessió: pagès.\n\nCasament: el 29 de desembre de 1828 amb Francisca Briciano Pasqual de la Ràpita [1811].\n\nFills: Juan Agustín [1829], Juan [1831], Salvador [1834], Francisca [1837], Agustín [1840], Pedro [1842] i Cristobal [1845].\n\nCasament: amb Raymunda Alonso d'Alcanar.\n\nFills: Ramón [1847], Francisco [1852] i Francisca [1856]. \n\nAl maig de 1880 mor el seu fill Juan i ell encara està viu.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "107_miguel_enguera_o_anguera_pla",
+  "source_id": "107",
+  "row_ref": "107. Miguel Enguera [o Anguera] Pla",
+  "name": "Miguel Enguera [o Anguera] Pla",
+  "gender": "male",
+  "birth": {
+    "date": "1836-09-17",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "129_sebastian_anguera_sancho",
+      "3987_francisca_pla_fonollosa"
+    ],
+    "father": "129_sebastian_anguera_sancho",
+    "mother": "3987_francisca_pla_fonollosa",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Sebastian Anguera Sancho",
+      "Francisca Pla Fonollosa"
+    ],
+    "father_name": "Sebastián Enguera Sancho",
+    "mother_name": "Francisca Plà Fonollosa",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Miguel Jovani",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  el 17 de setembre de 1836 a la Ràpita.\n\nEls padrins son Miguel Jovani Grau i María Josefa Enguera Sancho.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "3935_victorio_pino_aliau",
+  "source_id": "3935",
+  "row_ref": "3935. Victorio Pino Aliau",
+  "name": "Victorio Pino Aliau",
+  "gender": "male",
+  "birth": {
+    "date": "1805-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1847-06-10",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "542_mariana_bedos_rallo"
+    ],
+    "children": [
+      "3936_jose_fernando_pino_bedos",
+      "3937_francisco_pino_bedos",
+      "3938_teresa_pino_bedos",
+      "3939_maria_madrona_pino_bedos",
+      "3940_francisco_julian_pino_bedos",
+      "3941_juan_bautista_pino_bedos",
+      "3942_leandro_pino_bedos",
+      "3943_amalia_pino_chiscas"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomás Pino",
+      "Juana Aliau"
+    ],
+    "father_name": "Tomás Pino",
+    "mother_name": "Juana Aliau",
+    "spouse_names": [
+      "Mariana Bedos Rallo"
+    ],
+    "children_names": [
+      "José Fernando Pino Bedós",
+      "Francisco Pino Bedós",
+      "Teresa Pino Bedós",
+      "María Madrona Pino Bedós",
+      "Francisco Julian Pino Bedós",
+      "Juan Bautista Pino Bedós",
+      "Leandro Pino Bedós",
+      "Amalia Pino Chiscas"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1805]. \n\nCasament: el 8 d'abril de 1826 amb Mariana Bedós Rallo de Xerta [1805].\n\nEntre l'1 de març de 1834 i el 31 de juliol de 1839 paga un lloguer de 38 Rs. mensuals per la casa 1ª de la mançana 3 (Plaça Carles III, 40 aprox.)\n\nFills: José Fernando [1827], Teresa [1829], Francisco [1831], María Madrona [1833], Leandro [1833], Francisco Julián [1835], Juan Bautista [1837] i un altre que va morir a les 5 hores l'1 de novembre de 1839 \"Presignado por Eulalia Planes\".\n\nCasament: amb Concepción Chiscás Tallada de Tortosa [1800].\n\nFills: Amalia [1844].\n\nDefunció: el 10 de juny de 1847 a la Ràpita. Va morir als 42 anys. Va testar davant de V. Sabaté.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

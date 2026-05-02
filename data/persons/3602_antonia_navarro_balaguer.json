@@ -1,0 +1,88 @@
+{
+  "id": "3602_antonia_navarro_balaguer",
+  "source_id": "3602",
+  "row_ref": "3602. Antonia Navarro Balaguer",
+  "name": "Antonia Navarro Balaguer",
+  "gender": "female",
+  "birth": {
+    "date": "1810-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3645_pedro_navarro_lluis",
+      "409_antonia_balaguer_castella"
+    ],
+    "father": "3645_pedro_navarro_lluis",
+    "mother": "409_antonia_balaguer_castella",
+    "spouse": [],
+    "children": [
+      "1075_antonia_cartes_navarro",
+      "1076_marcela_cartes_navarro",
+      "1077_felipe_cartes_navarro",
+      "1078_francisco_cartes_navarro",
+      "1079_candia_cartes_navarro"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Navarro Lluís",
+      "Antonia Balaguer Castellà"
+    ],
+    "father_name": "Pedro Navarro Lluís",
+    "mother_name": "Antonia Balaguer Castellà",
+    "spouse_names": [
+      "Juan Cartes"
+    ],
+    "children_names": [
+      "Antonia Cartes Navarro",
+      "Marcela Cartes Navarro",
+      "Felipe Cartes Navarro",
+      "Francisco Cartes Navarro",
+      "Candia Cartes Navarro"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1810]. \n\nCasament: amb Juan Cartes de Tortosa [1810].\n\nFills: Antonia (Tortosa) [1830], Marcela [1833], Felipe [1837], Candia [1840] i Francisco [1842].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

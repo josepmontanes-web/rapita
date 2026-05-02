@@ -1,0 +1,74 @@
+{
+  "id": "2040_josefa_maria_ferre_franquet",
+  "source_id": "2040",
+  "row_ref": "2040. Josefa Maria Ferré Franquet",
+  "name": "Josefa Maria Ferré Franquet",
+  "gender": "female",
+  "birth": {
+    "date": "1804-05-31",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2064_geronimo_ferre_princep",
+      "2256_felicia_franquet_pla"
+    ],
+    "father": "2064_geronimo_ferre_princep",
+    "mother": "2256_felicia_franquet_pla",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Gerónimo Ferré Princep",
+      "Felicia Franquet Pla"
+    ],
+    "father_name": "Geronimo Ferré Princep",
+    "mother_name": "Felicia Franquet Plà",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Feliz Carbó",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 31 de maig de 1804 a la Ràpita.\n\nPadrins: Feliz Carbó i Teresa Rosales.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

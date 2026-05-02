@@ -1,0 +1,72 @@
+{
+  "id": "535_jayme_bastet",
+  "source_id": "535",
+  "row_ref": "535. Jayme Bastet",
+  "name": "Jayme Bastet",
+  "gender": "male",
+  "birth": {
+    "date": "1760-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1794-09-23",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3970_magdalena_pinol"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Magdalena Piñol"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1760].\n\nCasament: el 27 de maig de 1792 amb Magdalena Piñol del Perelló [1760].\n\nDefunció: el 23 de setembre de 1794 a la Ràpita. No fa testament perquè no té res.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

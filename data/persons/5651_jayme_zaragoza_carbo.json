@@ -1,0 +1,83 @@
+{
+  "id": "5651_jayme_zaragoza_carbo",
+  "source_id": "5651",
+  "row_ref": "5651. Jayme Zaragoza Carbó",
+  "name": "Jayme Zaragoza Carbó",
+  "gender": "male",
+  "birth": {
+    "date": "1780-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5646_bautista_zaragoza"
+    ],
+    "father": "5646_bautista_zaragoza",
+    "mother": null,
+    "spouse": [
+      "4678_vicenta_salvador_reverter"
+    ],
+    "children": [
+      "5672_christoval_zaragoza_salvador",
+      "5673_esteban_agustin_zaragoza_salvador"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Zaragoza",
+      "Madalena Carbó"
+    ],
+    "father_name": "Bautista Zaragoza",
+    "mother_name": "Madalena Carbó",
+    "spouse_names": [
+      "Vicenta Salvador Reverter"
+    ],
+    "children_names": [
+      "Christoval Zaragoza Salvador",
+      "Esteban Agustín Zaragoza Salvador"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1780].\n\nCasament: amb Vicenta Salvador Reverter de Tortosa [1790].\n\nFills: Christoval [1804] i Esteban Agustín [1813].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

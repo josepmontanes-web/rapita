@@ -1,0 +1,82 @@
+{
+  "id": "513_manuel_barrera",
+  "source_id": "513",
+  "row_ref": "513. Manuel Barrera",
+  "name": "Manuel Barrera",
+  "gender": "male",
+  "birth": {
+    "date": "1780-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "4828_josefa_sancho"
+    ],
+    "children": [
+      "527_vicenta_barrera_sancho",
+      "528_jose_barrera_sancho",
+      "529_rosa_barrera_sancho",
+      "530_madalena_barrera_sancho"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Josefa Sancho"
+    ],
+    "children_names": [
+      "Vicenta Barrera Sancho",
+      "José Barrera Sancho",
+      "Rosa Barrera Sancho",
+      "Madalena Barrera Sancho"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  a Alcanar [aprox. 1780].\n\nCasament: amb Josefa Sancho d'Alcanar [1780].\n\nFills: Rosa (Alcanar) [aprox 1815], Vicenta [aprox 1817], José (Alcanar) [aprox 1820] i Madalena [aprox 1826].\n\nDonación: de Agustín Reverter (Forner) a su hija Josefa Reverter (Sancho) por la celebración de su matrimonio con Tomás Curto (Cavaller), casa en el callejón de la Iglesia. Linda con Lucas Torta (Subirats, casat amb Francisca Accensi Lozaro), Ramón Accensi (casat amb Maria Lozano) y Manuel Barrera. Febrero de 1858. Esc. Lorenzo Figueres de Alcanar.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

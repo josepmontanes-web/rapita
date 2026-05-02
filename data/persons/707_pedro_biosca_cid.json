@@ -1,0 +1,107 @@
+{
+  "id": "707_pedro_biosca_cid",
+  "source_id": "707",
+  "row_ref": "707. Pedro Biosca Cid",
+  "name": "Pedro Biosca Cid",
+  "gender": "male",
+  "birth": {
+    "date": "1789-01-01",
+    "place": "Freginals"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1488_josefa_cid_beltri"
+    ],
+    "father": null,
+    "mother": "1488_josefa_cid_beltri",
+    "spouse": [
+      "3033_isabel_lopez_segarra"
+    ],
+    "children": [
+      "711_domingo_biosca_grau",
+      "712_thomas_biosca_grau",
+      "715_gervasio_biosca_lopez",
+      "716_rosa_biosca_lopez",
+      "717_francisco_juan_biosca_lopez",
+      "718_lorenza_melchora_biosca_lopez",
+      "719_josefa_isabel_biosca_lopez",
+      "720_francisca_biosca_lopez",
+      "721_maria_biosca_lopez",
+      "722_francisco_manuel_biosca_lopez",
+      "723_jose_antonio_biosca_lopez",
+      "724_pedro_jose_biosca_lopez",
+      "725_lorenza_agustina_biosca_lopez",
+      "727_jose_biosca_segarra"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Biosca Segarra",
+      "Josefa Cid Beltri"
+    ],
+    "father_name": "Josef Biosca Segarra",
+    "mother_name": "Josefa Cid Beltri",
+    "spouse_names": [
+      "Isabel López Segarra"
+    ],
+    "children_names": [
+      "Domingo Biosca Grau",
+      "Thomas Biosca Grau",
+      "Gervasio Biosca López",
+      "Rosa Biosca López",
+      "Francisco Juan Biosca López",
+      "Lorenza Melchora Biosca López",
+      "Josefa Isabel Biosca López",
+      "Francisca Biosca López",
+      "María Biosca López",
+      "Francisco Manuel Biosca López",
+      "José Antonio Biosca López",
+      "Pedro José Biosca López",
+      "Lorenza Agustina Biosca López",
+      "José Biosca Segarra"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Freginals [aprox. 1789].\n\nCasament: el 18 de març de 1811 amb Isabel López Segarra de la Ràpita [1791].\n\nFills: Lorenza Melchora [1812], Lorenza Agustina [1813], Pedro José [1814], José Antonio [1816], María [1818], Francisco Manuel [1820], Francisco Juan [1822], Gervasio [1824], Francisca [1826], Josefa Isabel [1828] i Rosa [1830].\n\nEl 3 de març de 1829 es un dels 7 veïns que forma part de la Junta de Foment de la Agricultura i volen demanar 1000 jornals de terra per a veïns del poble..\n\nDe l'1 de gener de 1833 al 30 de novembre de 1836 ha de pagar un lloguer de 14 Rs mensuals per part del pis alt i part del pis de terra de la casa 4 de la mançana 2. (AGP.PER.LEG.1073/23 [Juan Vecino]).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

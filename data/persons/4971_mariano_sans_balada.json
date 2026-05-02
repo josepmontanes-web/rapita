@@ -1,0 +1,74 @@
+{
+  "id": "4971_mariano_sans_balada",
+  "source_id": "4971",
+  "row_ref": "4971. Mariano Sans Balada",
+  "name": "Mariano Sans Balada",
+  "gender": "male",
+  "birth": {
+    "date": "1841-03-08",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1842-06-30",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4977_ramon_sans_castell",
+      "359_lorenza_balada_planes"
+    ],
+    "father": "4977_ramon_sans_castell",
+    "mother": "359_lorenza_balada_planes",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Ramón Sans Castell",
+      "Lorenza Balada Planes"
+    ],
+    "father_name": "Ramón Sans Castells",
+    "mother_name": "Lorenza Balada Planes",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Jayme Balagué",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 8 de març de 1841 a la Ràpita.\n\nPadrins: Jayme Balagué i Mariana Cachot.\n\nDefunció: el 30 de juny de 1842 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

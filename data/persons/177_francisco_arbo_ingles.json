@@ -1,0 +1,93 @@
+{
+  "id": "177_francisco_arbo_ingles",
+  "source_id": "177",
+  "row_ref": "177. Francisco Arbó Inglés",
+  "name": "Francisco Arbó Inglés",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Benicarló"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "209_tomas_arbo_solsona"
+    ],
+    "father": "209_tomas_arbo_solsona",
+    "mother": null,
+    "spouse": [
+      "5301_maria_tomas_sanchis"
+    ],
+    "children": [
+      "212_providencia_arbo_tomas",
+      "213_dolores_arbo_tomas",
+      "214_rafaela_arbo_tomas",
+      "215_simona_arbo_tomas",
+      "216_francisco_mateo_arbo_tomas",
+      "217_josef_agustin_arbo_tomas",
+      "218_maria_manuela_arbo_tomas"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomás Arbó Solsona",
+      "Francisca Inglés"
+    ],
+    "father_name": "Tomas Arbó",
+    "mother_name": "Francisca Inglés",
+    "spouse_names": [
+      "Maria Tomas Sanchis"
+    ],
+    "children_names": [
+      "Providencia Arbó Tomas",
+      "Dolores Arbó Tomas",
+      "Rafaela Arbó Tomas",
+      "Simona Arbó Tomás",
+      "Francisco Mateo Arbó Tomás",
+      "Josef Agustín Arbó Tomás",
+      "Maria Manuela Arbó Tomás"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  a Benicarló [aprox. 1800].\n\nCasament: el 21 de febrer de 1826 amb María Tomás Sanchís de Godall [1805].\n\nFills: Providencia o Prudencia [1827], Dolores [1829], Rafaela [1831], Simona [1833], Francisco [1836], José Agustín [1839], María Manuela [1841] i Tomasa [1845].\n\nVenta: de Dolores Arbó (Tomás) consorte de Domingo Vidal (Serrano), Tomás Arlández (Balada) viudo de Prudencia Arbó (Providencia Arbó Tomás) , Rafaela Arbó (Tomás) consorte de Bartolomé Silvestre (Jovani) y Ramón Cid (Herlandes) marido de Simona Arbó (Tomás), todos labradores, a Luís Rams Herrero y Joaquina Segarra consortes, de una casa en la calle de San Isidro que aún estaba para …, esto es, a madera colocada. Linda con Tomás Vidal y terrenos de las Monjas. 4 de diciembre de 1857. Escribano Lorenzo Jimenez de Alcanar. Valor 2880. (El pare de les germanes es Francisco Arbó Inglés de Benicarló i el iaio Tomás Arbó).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

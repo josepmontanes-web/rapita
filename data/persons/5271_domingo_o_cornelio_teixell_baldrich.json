@@ -1,0 +1,68 @@
+{
+  "id": "5271_domingo_o_cornelio_teixell_baldrich",
+  "source_id": "5271",
+  "row_ref": "5271. Domingo [o Cornelio] Teixell Baldrich",
+  "name": "Domingo [o Cornelio] Teixell Baldrich",
+  "gender": "male",
+  "birth": {
+    "date": "1850-01-01",
+    "place": "La Riera de Gaià (Tarragona)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a La Riera de Gaià (Tarragona) [aprox. 1750]. \n\nProfessió: Carrabiner.\n\nCasament: amb Dolores Requesens de la Riera de Gaià (Tarragona).\n\nFills: Dolores [1876] i Cornelio [1877].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

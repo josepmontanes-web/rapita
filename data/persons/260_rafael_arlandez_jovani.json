@@ -1,0 +1,68 @@
+{
+  "id": "260_rafael_arlandez_jovani",
+  "source_id": "260",
+  "row_ref": "260. Rafael Arlández Jovani",
+  "name": "Rafael Arlández Jovani",
+  "gender": "male",
+  "birth": {
+    "date": "1858-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1858].\n\nProfessió: pagès.\n\nCasament: el 26 de maig de 1883 amb María Guardia Reverté de la Ràpita [1860]. Es casa als 24 anys. Al casament, el segon cognom consta com a Juaní.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

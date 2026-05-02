@@ -1,0 +1,71 @@
+{
+  "id": "517_juan_barrera_castro",
+  "source_id": "517",
+  "row_ref": "517. Juan Barrera Castro",
+  "name": "Juan Barrera Castro",
+  "gender": "male",
+  "birth": {
+    "date": "1820-06-28",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1820-06-28",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Don Juan María Barrera Amit",
+      "Doña Nicolasa Castro Ruíz"
+    ],
+    "father_name": "Don Juan María Barrera Amit",
+    "mother_name": "Doña Nicolasa Castro Ruíz",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 28 de juny de 1820 a la Ràpita.\n\nVa morir el mateix dia. \"nació de parto peligroso y fue bautizado sin solemnidad en casa por Don Agustín Fornesa\".\n\nDefunció: el 28 de juny de 1820 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "4829_francisco_sancho",
+  "source_id": "4829",
+  "row_ref": "4829. Francisco Sancho",
+  "name": "Francisco Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1775-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "5183_josefa_subirats"
+    ],
+    "children": [
+      "2711_agustin_guardia_bort",
+      "2713_josefa_guardia_bort",
+      "4944_paula_sancho_subirats",
+      "4945_maria_sancho_subirats"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Josefa Subirats"
+    ],
+    "children_names": [
+      "Agustín Guardia Bort",
+      "Josefa Guardia Bort",
+      "Paula Sancho Subirats",
+      "María Sancho Subirats"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1775]. \n\nCasament: amb Josefa Subirats d'Alcanar [1775].\n\nFills: Paula (Alcanar) [1800] i María (Alcanar) [1805].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "2819_mariana_ibanez_marti",
+  "source_id": "2819",
+  "row_ref": "2819. Mariana Ibáñez Martí",
+  "name": "Mariana Ibáñez Martí",
+  "gender": "female",
+  "birth": {
+    "date": "1838-10-17",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2822_sebastian_ibanez_martinez",
+      "3129_mariana_marti_pons"
+    ],
+    "father": "2822_sebastian_ibanez_martinez",
+    "mother": "3129_mariana_marti_pons",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Sebastián Ibáñez Martínez",
+      "Mariana Martí Pons"
+    ],
+    "father_name": "Sebastián Ibáñez Martínez",
+    "mother_name": "Mariana Martí Pons",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Castellà",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 17 d'octubre de 1838 a la Ràpita.\n\nPadrins: Juan Castellà i Teresa Rosales.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

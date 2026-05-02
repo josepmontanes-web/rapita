@@ -1,0 +1,73 @@
+{
+  "id": "5085_juan_segarra_torta",
+  "source_id": "5085",
+  "row_ref": "5085. Juan Segarra Torta",
+  "name": "Juan Segarra Torta",
+  "gender": "male",
+  "birth": {
+    "date": "1835-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1847-12-08",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5068_jose_segarra_miralles"
+    ],
+    "father": "5068_jose_segarra_miralles",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Segarra Miralles",
+      "Tomasa Torta"
+    ],
+    "father_name": "José Segarra",
+    "mother_name": "Tomasa Torta",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1835]. \n\nDefunció: el 8 de desembre de 1847 a la Ràpita. Va morir als 12 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

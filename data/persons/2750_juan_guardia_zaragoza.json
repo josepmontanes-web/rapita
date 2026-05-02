@@ -1,0 +1,68 @@
+{
+  "id": "2750_juan_guardia_zaragoza",
+  "source_id": "2750",
+  "row_ref": "2750. Juan Guardia Zaragoza",
+  "name": "Juan Guardia Zaragoza",
+  "gender": "male",
+  "birth": {
+    "date": "1879-12-20",
+    "place": "la Ràpita al carrer Sant Francésc"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 20 de desembre de 1879 a la Ràpita al carrer Sant Francésc.\n\nDefunció: el 6 de gener de 1880 a la Ràpita als 17 dies de \"eclapsia\". Declara la mor el seu pare, jornaler.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

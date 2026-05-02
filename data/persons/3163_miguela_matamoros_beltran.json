@@ -1,0 +1,68 @@
+{
+  "id": "3163_miguela_matamoros_beltran",
+  "source_id": "3163",
+  "row_ref": "3163. Miguela Matamoros Beltran",
+  "name": "Miguela Matamoros Beltran",
+  "gender": "female",
+  "birth": {
+    "date": "1880-02-04",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 4 de febrer de 1880 a la Ràpita. El seu pare té 24 anys i es pagès.\n\nDefunció: el 6 de febrer de 1880 a la Ràpita als 2 dies de \"una afección espasmódica\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

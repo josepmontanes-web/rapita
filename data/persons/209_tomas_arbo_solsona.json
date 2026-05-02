@@ -1,0 +1,83 @@
+{
+  "id": "209_tomas_arbo_solsona",
+  "source_id": "209",
+  "row_ref": "209. Tomás Arbó Solsona",
+  "name": "Tomás Arbó Solsona",
+  "gender": "male",
+  "birth": {
+    "date": "1766-01-01",
+    "place": "Benicarló"
+  },
+  "death": {
+    "date": "1819-02-05",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "175_tomas_arbo_ingles",
+      "176_antonio_arbo_ingles",
+      "177_francisco_arbo_ingles",
+      "178_juan_arbo_angles"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomás Arbó",
+      "Vicenta Solsona"
+    ],
+    "father_name": "Tomás Arbó",
+    "mother_name": "Vicenta Solsona",
+    "spouse_names": [
+      "Francisca Anglés Arnau"
+    ],
+    "children_names": [
+      "Tomás Arbó Inglés",
+      "Antonio Arbó Inglés",
+      "Francisco Arbó Inglés",
+      "Juan Arbó Anglès"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  a Benicarló [aprox. 1766].\n\nCasament: amb Francisca Anglès Arnau de Benicarló [1767].\n\nFills: Tomás (Benicarló) [aprox 1793], Antonio (Benicarló) [aprox 1798], Francisco (Benicarló) [aprox 1800], Juan [1806] i Agustín [1808].\n\nAl 1807 paga lloguer per la casa 5 de la Fonda Vella.\n\nDefunció: el 5 de febrer de 1819 a la Ràpita. No fa testament. Va morir de \"calenturas\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

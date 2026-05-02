@@ -1,0 +1,81 @@
+{
+  "id": "2691_lorenza_grause_bernis",
+  "source_id": "2691",
+  "row_ref": "2691. Lorenza Grausé Bernis",
+  "name": "Lorenza Grausé Bernis",
+  "gender": "female",
+  "birth": {
+    "date": "1780-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1805-03-22",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "5623_antonio_vines_sevilla"
+    ],
+    "children": [
+      "5617_antonio_salvador_vines_grause",
+      "5618_antonia_maria_vines_grause"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Carlos Grausé (francés)",
+      "Margarita Bernis de Piens"
+    ],
+    "father_name": "Carlos Grausé (francés)",
+    "mother_name": "Margarita Bernis de Piens",
+    "spouse_names": [
+      "Antonio Viñes Sevilla"
+    ],
+    "children_names": [
+      "Antonio Salvador Viñes Grausé",
+      "Antonia María Viñes Grausé"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1780].\n\nCasament: el 15 d'abril de 1798 amb Antonio Viñes Sevilla de València [1775]. A l'estat de veïns de setembre de 1798 diu que viuen a la casa núm. 10 de la \"Calle Mayor\" (ACA BGRP Cajas 34).\n\nFills: Lorenza [1799], Antonio [1800] i Antonia [1802].\n\nDefunció: el 22 de març de 1805 a la Ràpita.\n\nEs germana de Casilda Grausé Bernis [1780].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

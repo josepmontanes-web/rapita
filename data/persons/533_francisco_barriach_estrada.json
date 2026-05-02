@@ -1,0 +1,72 @@
+{
+  "id": "533_francisco_barriach_estrada",
+  "source_id": "533",
+  "row_ref": "533. Francisco Barriach Estrada",
+  "name": "Francisco Barriach Estrada",
+  "gender": "male",
+  "birth": {
+    "date": "1769-01-01",
+    "place": "Pla (Arz"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "534_cecilio_jose_barriach_oliva"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Cecilio José Barriach Oliva"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: al Pla (Arz. Tarragona) [aprox. 1769]. Quan naix el fill té 38 anys. Podria ser El Pla de Santa Maria.\n\nProfessió: soldat artiller.\n\nCasament: amb Teresa Oliva Capdevila de Cabra (Arz. Tarragona) [1768].\n\nFills: Cecilio José [1807].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

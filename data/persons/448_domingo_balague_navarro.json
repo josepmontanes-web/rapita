@@ -1,0 +1,87 @@
+{
+  "id": "448_domingo_balague_navarro",
+  "source_id": "448",
+  "row_ref": "448. Domingo Balagué Navarro",
+  "name": "Domingo Balagué Navarro",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "434_juan_jayme_balague_grego"
+    ],
+    "father": "434_juan_jayme_balague_grego",
+    "mother": null,
+    "spouse": [
+      "692_maria_cinta_bernis_murall"
+    ],
+    "children": [
+      "392_francisca_dolores_balague_vernis_o_bernis",
+      "393_rosalia_balague_bernis",
+      "394_josefa_balague_vernis_o_bernis",
+      "427_manuela_balague_falco"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Jayme Balagué Grego",
+      "Lucia Navarro"
+    ],
+    "father_name": "Juan Jayme Balagué",
+    "mother_name": "Lucia Navarro",
+    "spouse_names": [
+      "Maria Cinta Bernis Murall"
+    ],
+    "children_names": [
+      "Francisca Dolores Balagué Vernis [o Bernís]",
+      "Rosalia Balagué Bernis",
+      "Josefa Balagué Vernis [o Bernís]",
+      "Manuela Balagué Falcó"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1800].\n\nCasament: el 26 de febrer de 1828 amb María Cinta Bernís Murall [1810].\n\nFills: María Cinta [1828], Francisca [1830], Rosalía [1832] i Josefa [1835].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2793_teresa_homedes_cartes",
+  "source_id": "2793",
+  "row_ref": "2793. Teresa Homedes Cartes",
+  "name": "Teresa Homedes Cartes",
+  "gender": "female",
+  "birth": {
+    "date": "1770-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5668_rafael_zaragoza_homedes"
+    ],
+    "father": "5668_rafael_zaragoza_homedes",
+    "mother": null,
+    "spouse": [
+      "460_josef_balaguer_salvado"
+    ],
+    "children": [
+      "436_rosa_balague_homedes_o_omedes",
+      "437_josefa_balague_homedes_o_omedes",
+      "438_francisca_balague_homedes_o_omedes",
+      "439_candia_balague_homedes_o_omedes",
+      "440_maria_o_mariana_balague_homedes_o_omedes",
+      "441_jose_balague_homedes_o_omedes"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Rafael Zaragoza Homedes",
+      "Esperanza Cartes"
+    ],
+    "father_name": "Rafael Homedes",
+    "mother_name": "Esperanza Cartes",
+    "spouse_names": [
+      "Josef Balaguer Salvadó"
+    ],
+    "children_names": [
+      "Rosa Balagué Homedes [o Omedes]",
+      "Josefa Balagué Homedes [o Omedes]",
+      "Francisca Balagué Homedes [o Omedes]",
+      "Candia Balagué Homedes [o Omedes]",
+      "María [o Mariana] Balagué Homedes [o Omedes]",
+      "José Balagué Homedes [o Omedes]"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1770].\n\nCasament: a la Catedral de Tortosa el 3 de juny de 1793 amb José Balaguer Salvadó de Tortosa [1753].\n\nFills: Candia (Tortosa) [aprox 1795], María (Tortosa) [aprox 1799], Rosa (Tortosa) [aprox 1800], Josefa (Tortosa) [1803], Francisca (Tortosa) [aprox 1805] i José (Tortosa) [aprox 1810].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

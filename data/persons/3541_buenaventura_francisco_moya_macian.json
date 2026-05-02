@@ -1,0 +1,74 @@
+{
+  "id": "3541_buenaventura_francisco_moya_macian",
+  "source_id": "3541",
+  "row_ref": "3541. Buenaventura Francisco Moya Macián",
+  "name": "Buenaventura Francisco Moya Macián",
+  "gender": "male",
+  "birth": {
+    "date": "1838-05-28",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3557_francisco_moya_vilarroya",
+      "3066_vicenta_macian_sanchez"
+    ],
+    "father": "3557_francisco_moya_vilarroya",
+    "mother": "3066_vicenta_macian_sanchez",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Moya Vilarroya",
+      "Vicenta Macián Sanchez"
+    ],
+    "father_name": "Francisco Moya Vilarroya",
+    "mother_name": "Vicenta Macián Sanchez",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Buenaventura Baluenga",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 28 de maig de 1838 a la Ràpita.\n\nPadrins: Buenaventura Baluenga i Francisca Carbó.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

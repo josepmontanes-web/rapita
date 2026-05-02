@@ -1,0 +1,91 @@
+{
+  "id": "4699_vicente_samper_moncho",
+  "source_id": "4699",
+  "row_ref": "4699. Vicente Samper Moncho",
+  "name": "Vicente Samper Moncho",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Benidorm"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4680_gregorio_samper"
+    ],
+    "father": "4680_gregorio_samper",
+    "mother": null,
+    "spouse": [
+      "2966_maria_rosa_llorens_garcia"
+    ],
+    "children": [
+      "4692_gregorio_samper_llorens",
+      "4693_rosa_joana_samper_llorens",
+      "4694_miguel_samper_llorens",
+      "4695_feliz_sampere_llorens",
+      "4696_pedro_pablo_samper_llorens",
+      "4697_francisco_samper_llorens"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Gregorio Samper",
+      "Rosa Moncho"
+    ],
+    "father_name": "Gregorio Samper",
+    "mother_name": "Rosa Moncho",
+    "spouse_names": [
+      "Maria Rosa Llorens García"
+    ],
+    "children_names": [
+      "Gregorio Samper Llorens",
+      "Rosa Joana Samper Llorens",
+      "Miguel Samper Llorens",
+      "Feliz Sampere Llorens",
+      "Pedro Pablo Samper Llorens",
+      "Francisco Samper Llorens"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Benidorm [aprox. 1800]. \n\nEl primer cognom podria ser Sempere, Sampere o Samper i el segón cognom podria ser Moncho o Monjo.\n\nCasament: el 26 de febrer de 1826 amb María Rosa Llorens García del Perelló [1800].\n\nFills: Rosa Joana [1827], Gregorio [1829], Miguel [1831], Felíz [1833], Pedro Pablo [1836] i Francisco [1842].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

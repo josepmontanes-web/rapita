@@ -1,0 +1,74 @@
+{
+  "id": "4561_juan_rosell",
+  "source_id": "4561",
+  "row_ref": "4561. Juan Rosell",
+  "name": "Juan Rosell",
+  "gender": "male",
+  "birth": {
+    "date": "1770-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "4562_vicenta_rosell_alguero",
+      "4576_candia_rosell_pinana"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Vicenta Rosell Algueró",
+      "Candia Rosell Piñana"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Casament: amb Antonia Pastor [1770].\n\nFills: Rosa [1790], Vicens [1790], Manuel [1790], Teresa [1795], Ramón [1795] i Juan [1795].\n\nA l'estat de veïns de la Població de San carlos a 1 de setembre de 1798 consta que viu al barri de pescadors (ACA BGRP caixa 34).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

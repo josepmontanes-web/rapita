@@ -1,0 +1,96 @@
+{
+  "id": "4824_blas_sanches_ximenes",
+  "source_id": "4824",
+  "row_ref": "4824. Blas Sanches Ximenes",
+  "name": "Blas Sanches Ximenes",
+  "gender": "male",
+  "birth": {
+    "date": "1741-01-01",
+    "place": "Canales de Begís(Castelló"
+  },
+  "death": {
+    "date": "1816-04-20",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4708_josef_sanches"
+    ],
+    "father": "4708_josef_sanches",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "4761_vicenta_sanchis_iserte_o_yserte",
+      "4762_peregrin_sanchis_iserte_o_yserte",
+      "4763_catarina_sanchis_iserte_o_yserte",
+      "4764_pascuala_sanchis_iserte_o_yserte",
+      "4765_maria_teresa_sanchis_iserte_o_yserte",
+      "4807_catarina_sanches_sanjuan",
+      "4809_angela_sanchis_sanjuan",
+      "4810_vicente_jose_sanchis_sanjuan",
+      "4811_juan_antonio_sanchis_sanjuan"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Sánches",
+      "Margarita Ximenes"
+    ],
+    "father_name": "Josef Sanches",
+    "mother_name": "Margarita Ximenes",
+    "spouse_names": [
+      "Manuela Yserte",
+      "Joasefa Sanjuan la Sala"
+    ],
+    "children_names": [
+      "Vicenta Sanchís Iserte [o Yserte]",
+      "Peregrín Sanchís Iserte [o Yserte]",
+      "Catarina Sanchís Iserte [o Yserte]",
+      "Pascuala Sanchís Iserte [o Yserte]",
+      "María Teresa Sanchís Iserte [o Yserte]",
+      "Catarina Sanches Sanjuan",
+      "Angela Sanchís Sanjuan",
+      "Vicente José Sanchís Sanjuan",
+      "Juan Antonio Sanchís Sanjuan"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Begís (Castelló) [aprox. 1741]. El segón cognom podria ser Gimenes.\n\nCasament: amb Manuela Iserte [o Yserte] de Sarrión (Teruel) [1750].\n\nFills: Pascuala (Sarrión) [1775], Catarina (Canales de Begís) [1778], Vicenta [1790], Peregrín (Amposta) [1790] i María Teresa [1793].\n\n27 d'octubre de 1788 es veí de San Carlos i obté llicencia per fer carbó durant 2 mesos a les faixes tancades i font del Burgar (ACA BGRP Correspondencia Caixa 10).\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Fonda Vella núm. 1 (ACA BGRP Cajas 34).\n\nDel setembre de 1798 al juny de 1801 paga un lloguer de 4 Rs mensuals per la casa 1 de la Fonda Vella.\n\nCasament: amb Josefa Sanjuan La Sala de Catí [1775].\n\nFills: Catarina [1800], Cecilia [1802], Angela [1804], Vicente José [1807] i Juan Antonio [1810].\n\nDefunció: el 20 d'abril de 1816 a la Ràpita. Va morir als 75 anys de \"enf. hinchazón\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

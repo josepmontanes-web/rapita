@@ -1,0 +1,79 @@
+{
+  "id": "3854_miguel_pedra_boix",
+  "source_id": "3854",
+  "row_ref": "3854. Miguel Pedra Boix",
+  "name": "Miguel Pedra Boix",
+  "gender": "male",
+  "birth": {
+    "date": "1779-01-01",
+    "place": "Peníscola"
+  },
+  "death": {
+    "date": "1829-10-23",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "3858_francisco_pedra_roca",
+      "3859_miguel_pedra_roca"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Pedra",
+      "Luísa Boix"
+    ],
+    "father_name": "Vicente Pedra",
+    "mother_name": "Luísa Boix",
+    "spouse_names": [
+      "Barbara Roca Aubiol"
+    ],
+    "children_names": [
+      "Francisco Pedra Roca",
+      "Miguel Pedra Roca"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Peníscola [aprox. 1779]. \n\nCasament: amb Bárbara Roca Aubiol de Peníscola, filla de José i Josefa María.\n\nFills: Miguel (Peníscola) [1805] i Francisco [1824].\n\nDefunció: el 23 d'octubre de 1829 a la Ràpita. Va morir als 50 anys de \"asma\". No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "915_antonio_cabrera_martinez",
+  "source_id": "915",
+  "row_ref": "915. Antonio Cabrera Martínez",
+  "name": "Antonio Cabrera Martínez",
+  "gender": "male",
+  "birth": {
+    "date": "1830-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1830].\n\nProfessió: pagès.\n\nCasament: amb Carmen Arqués de la Cava [1834].\n\nFills: Agustín [1853], Rosa [1863], Maria i Aguatina.\n\nDefunció: el 23 d'agost de 1880 a la Ràpita als 50 anys de tifus. Declara la mor Josefa Torta de 26 anys, casada.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

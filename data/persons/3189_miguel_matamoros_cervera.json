@@ -1,0 +1,68 @@
+{
+  "id": "3189_miguel_matamoros_cervera",
+  "source_id": "3189",
+  "row_ref": "3189. Miguel Matamoros Cervera",
+  "name": "Miguel Matamoros Cervera",
+  "gender": "male",
+  "birth": {
+    "date": "1816-01-01",
+    "place": "Godall"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Godall [aprox. 1816].\n\nProfessió: jornaler.\n\nCasament: amb Francisca Ferré.\n\nFills: Miguel i Francisca.\n\nCasament: el 31 d'octubre de 1871 amb Magdalena Barrera Sancho d'Alcanar [1826]. Es casa als 55 anys.\n\nDefunció: el 4 d'abril de 1879 a la Ràpita als 64 anys de pleuro-neumonia. A la partida de defunció els seus pares consten com Miguel i Francisca.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

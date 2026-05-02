@@ -1,0 +1,99 @@
+{
+  "id": "2602_pablo_goday_andreu",
+  "source_id": "2602",
+  "row_ref": "2602. Pablo Goday Andreu",
+  "name": "Pablo Goday Andreu",
+  "gender": "male",
+  "birth": {
+    "date": "1780-01-01",
+    "place": "Canet de Mar"
+  },
+  "death": {
+    "date": "1848-01-21",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "962_agustin_canicio_goday"
+    ],
+    "father": "962_agustin_canicio_goday",
+    "mother": null,
+    "spouse": [
+      "5161_teresa_sola_coll"
+    ],
+    "children": [
+      "2608_matias_jose_goday_sola",
+      "2609_juan_jose_goday_sola",
+      "2610_maria_teresa_goday_sola",
+      "2611_pablo_francisco_goday_sola",
+      "2612_manuel_goday_sola",
+      "2613_agustin_goday_sola",
+      "2614_pablo_goday_sola",
+      "2615_antonia_goday_sola",
+      "2616_teresa_goday_sola",
+      "2617_miguel_goday_sola"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustín Canicio Goday",
+      "Antonia Andreu"
+    ],
+    "father_name": "Agustín Goday",
+    "mother_name": "Antonia Andreu",
+    "spouse_names": [
+      "Teresa Solà Coll"
+    ],
+    "children_names": [
+      "Matias José Goday Solà",
+      "Juan José Goday Solà",
+      "Maria Teresa Goday Solà",
+      "Pablo Francisco Goday Solà",
+      "Manuel Goday Solà",
+      "Agustín Goday Solà",
+      "Pablo Goday Solà",
+      "Antonia Goday Solà",
+      "Teresa Goday Solà",
+      "Miguel Goday Solà"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "forner"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Canet de Mar [aprox. 1780].\n\nProfessió: forner.\n\nCasament: amb Teresa Solà Coll de Calella [1780].\n\nFills: Miguel [1809], Agustín [1811], Teresa [1813], Antonia [1815], Pablo [1816], Manuel [1818], Pablo Francisco [1820], María Teresa [1823], Juan José [1825] i Matías José [1828].\n\nEl 3 de març de 1829 es un dels 7 veïns que forma part de la Junta de Foment de la Agricultura i volen demanar 1000 jornals de terra per a veïns del poble..\n\nDefunció: el 21 de gener de 1848 a la Ràpita. Va morir als 68 anys. No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

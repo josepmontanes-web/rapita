@@ -1,12 +1,12 @@
 {
   "id": "38_tomasa_agost_belenguer",
   "source_id": "38",
-  "row_ref": "38",
+  "row_ref": "38. Tomasa Agost Belenguer",
   "name": "Tomasa Agost Belenguer",
   "gender": "female",
   "birth": {
-    "date": "1823-08-06",
-    "place": null
+    "date": "1823-06-08",
+    "place": "la Ràpita"
   },
   "death": {
     "date": null,
@@ -22,16 +22,40 @@
   },
   "family": {
     "parents": [],
+    "father": null,
+    "mother": null,
     "spouse": [],
-    "children": []
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
   },
   "relations_detail": {
     "parents_names": [
       "Tomás Agost Ximenes",
       "Esperanza Belenguer Hurtado"
     ],
+    "father_name": "Tomás Agost Ximenes",
+    "mother_name": "Esperanza Belenguer Hurtado",
     "spouse_names": [],
-    "children_names": []
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Joaquín Agost",
+      "godmother": null
+    }
   },
   "occupation": {
     "title": null

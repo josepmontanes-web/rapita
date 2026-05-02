@@ -1,0 +1,76 @@
+{
+  "id": "155_joaquin_ano_esteve",
+  "source_id": "155",
+  "row_ref": "155. Joaquín Añó Esteve",
+  "name": "Joaquín Añó Esteve",
+  "gender": "male",
+  "birth": {
+    "date": "1822-10-25",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "142_juan_ano_arlandez",
+      "1885_josefa_esteve_garcia"
+    ],
+    "father": "142_juan_ano_arlandez",
+    "mother": "1885_josefa_esteve_garcia",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Añó Arlández",
+      "Josefa Esteve García"
+    ],
+    "father_name": "Juan Añó Harnandez",
+    "mother_name": "Josefa Esteve García",
+    "spouse_names": [
+      "Teresa Casajust Reverté"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Joaquín Vidal",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  el 25 d'octubre de 1822 a la Ràpita.\n\nEls padrins son els cònjuges Joaquín Vidal Talarn i María Rosales Valls.\n\nCasament: el 2 d'octubre de 1847 amb Teresa Casajust Reverté de la Ràpita [1825].\n\nFills: Rafael [1858].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

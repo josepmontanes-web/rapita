@@ -1,0 +1,85 @@
+{
+  "id": "4899_joaquin_sancho_matamoros",
+  "source_id": "4899",
+  "row_ref": "4899. Joaquín Sancho Matamoros",
+  "name": "Joaquín Sancho Matamoros",
+  "gender": "male",
+  "birth": {
+    "date": "1758-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1803-08-30",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3811_domingo_parra_sancho"
+    ],
+    "father": "3811_domingo_parra_sancho",
+    "mother": null,
+    "spouse": [
+      "704_josefa_maria_biosca"
+    ],
+    "children": [
+      "4853_pedro_sancho_biosca",
+      "4854_josefa_sancho_biosca",
+      "4855_jose_sancho_biosca"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Domingo Parra Sancho",
+      "Antonia Matamoros"
+    ],
+    "father_name": "Domingo Sancho",
+    "mother_name": "Antonia Matamoros",
+    "spouse_names": [
+      "Josefa María Biosca"
+    ],
+    "children_names": [
+      "Pedro Sancho Biosca",
+      "Josefa Sancho Biosca",
+      "José Sancho Biosca"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1758]. \n\nCasament: amb Josefa María Biosca de Freginals [1757].\n\nFills: Pedro (Alcanar) [1775], Josefa (Alcanar) [1789] i José (Alcanar) [1791].\n\nA l'estat de veïns de setembre de 1798 diu que viuen a la casa núm. 7 de la \"Calle Mayor\" (ACA BGRP Cajas 34).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

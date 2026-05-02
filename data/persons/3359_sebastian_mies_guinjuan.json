@@ -1,0 +1,77 @@
+{
+  "id": "3359_sebastian_mies_guinjuan",
+  "source_id": "3359",
+  "row_ref": "3359. Sebastián Míes Guinjuan",
+  "name": "Sebastián Míes Guinjuan",
+  "gender": "male",
+  "birth": {
+    "date": "1801-05-19",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3363_sebastian_mies_montes"
+    ],
+    "father": "3363_sebastian_mies_montes",
+    "mother": null,
+    "spouse": [
+      "770_rosa_borras_carbo"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Sebastián Míes Montes",
+      "Antonia Guinjuan Ribes"
+    ],
+    "father_name": "Sebastián Míes Montes",
+    "mother_name": "Antonia Guinjuan Ribes",
+    "spouse_names": [
+      "Rosa Borràs Carbó"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Antonio Rosales",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 19 de maig de 1801 a la Ràpita.\n\nPadrins: Antonio Rosales i Rosa Saperas.\n\nCasament: el 31 d'agost de 1844 amb Rosa Borràs Carbó de la Ràpita [1817].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "1632_teresa_christofol_omedes",
+  "source_id": "1632",
+  "row_ref": "1632. Teresa Christofol Omedes",
+  "name": "Teresa Christofol Omedes",
+  "gender": "female",
+  "birth": {
+    "date": "1784-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2_jose_antonio_accensi"
+    ],
+    "father": "2_jose_antonio_accensi",
+    "mother": null,
+    "spouse": [
+      "3516_juan_moreso_reverter"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Antonio Accensi",
+      "Agustina Omedes"
+    ],
+    "father_name": "José Antonio",
+    "mother_name": "Agustina Omedes",
+    "spouse_names": [
+      "Juan Moreso Reverter"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1784].\n\nCasament: amb Juan Moreso Reverter de Tortosa [1790].\n\nFills: Juan Bautista [1813], Lorenzo Francisco [1817] i José Antonio [1823].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

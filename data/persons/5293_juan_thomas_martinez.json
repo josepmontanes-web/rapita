@@ -1,0 +1,87 @@
+{
+  "id": "5293_juan_thomas_martinez",
+  "source_id": "5293",
+  "row_ref": "5293. Juan Thomas Martínez",
+  "name": "Juan Thomas Martínez",
+  "gender": "male",
+  "birth": {
+    "date": "1760-01-01",
+    "place": "Càlig"
+  },
+  "death": {
+    "date": "1796-08-29",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "5536_teresa_vidal_palos"
+    ],
+    "children": [
+      "5304_francisca_tomas_vidal",
+      "5305_francisco_thomas_vidal",
+      "5306_teresa_thomas_vidal",
+      "5307_juan_bautista_thomas_vidal",
+      "5308_jacinto_juan_thomas_vidal"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel Thomas",
+      "Francisca Martínez"
+    ],
+    "father_name": "Manuel Thomas",
+    "mother_name": "Francisca Martínez",
+    "spouse_names": [
+      "Teresa Vidal Palos"
+    ],
+    "children_names": [
+      "Francisca Tomas Vidal",
+      "Francisco Thomas Vidal",
+      "Teresa Thomas Vidal",
+      "Juan Bautista Thomas Vidal",
+      "Jacinto Juan Thomás Vidal"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Càlig [aprox. 1760].\n\nCasament: amb Teresa Vidal Palos de la Pobla de Benifassà [1760].\n\nFills: Francisca (Ulldecona) [1779], Juan Bautista (Ulldecona) [1780], Teresa (Amposta) [1786], Francisco [1791] i Jacinto Juan [1794].\n\nDefunció: el 29 d'agost de 1796 a la Ràpita. \"Murió de un insulto (o un resulto) de pertecial (o de pertecias) que no dio lugar para nada\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "2748_francisco_guardia_sancho",
+  "source_id": "2748",
+  "row_ref": "2748. Francisco Guardia Sancho",
+  "name": "Francisco Guardia Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1878-05-10",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2707_miguel_guardia_bort",
+      "2710_jose_francisco_guardia_bort",
+      "2711_agustin_guardia_bort",
+      "2713_josefa_guardia_bort"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Miguel Guardia Bort",
+      "José Francisco Guardia Bort",
+      "Agustín Guardia Bort",
+      "Josefa Guardia Bort"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 10 de maig de 1878 a la Ràpita.\n\nDefunció: el 14 d'agost de 1879 a la Ràpita de \"entero colitis\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

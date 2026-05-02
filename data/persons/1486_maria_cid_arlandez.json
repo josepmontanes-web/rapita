@@ -1,0 +1,78 @@
+{
+  "id": "1486_maria_cid_arlandez",
+  "source_id": "1486",
+  "row_ref": "1486. Maria Cid Arlández",
+  "name": "Maria Cid Arlández",
+  "gender": "female",
+  "birth": {
+    "date": "1828-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1496_francisco_cid_ferrer",
+      "239_teresa_arlandez_cartes"
+    ],
+    "father": "1496_francisco_cid_ferrer",
+    "mother": "239_teresa_arlandez_cartes",
+    "spouse": [
+      "3968_rafael_pinana_zaragoza"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Cid Ferrer",
+      "Teresa Arlández Cartes"
+    ],
+    "father_name": "Francisco Cid Ferrer",
+    "mother_name": "Teresa Arlández Cartes",
+    "spouse_names": [
+      "Rafael Piñana Zaragoza"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1828].\n\nCasament: el 4 de setembre de 1853 amb Rafael Piñana Zaragoza de Tortosa [1830]. Es casa als 25 anys. Testimonis: Juan Piñana i Marcelino Navarro.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

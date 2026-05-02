@@ -1,0 +1,100 @@
+{
+  "id": "3033_isabel_lopez_segarra",
+  "source_id": "3033",
+  "row_ref": "3033. Isabel López Segarra",
+  "name": "Isabel López Segarra",
+  "gender": "female",
+  "birth": {
+    "date": "1791-03-20",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1832-09-10",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2996_juan_lopez_flores",
+      "5045_maria_segarra_bel"
+    ],
+    "father": "2996_juan_lopez_flores",
+    "mother": "5045_maria_segarra_bel",
+    "spouse": [
+      "707_pedro_biosca_cid"
+    ],
+    "children": [
+      "716_rosa_biosca_lopez",
+      "717_francisco_juan_biosca_lopez",
+      "718_lorenza_melchora_biosca_lopez",
+      "719_josefa_isabel_biosca_lopez",
+      "720_francisca_biosca_lopez",
+      "721_maria_biosca_lopez",
+      "722_francisco_manuel_biosca_lopez",
+      "723_jose_antonio_biosca_lopez",
+      "724_pedro_jose_biosca_lopez",
+      "725_lorenza_agustina_biosca_lopez"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan López Flores",
+      "María Segarra Bel"
+    ],
+    "father_name": "Juan López Flores",
+    "mother_name": "María Segarra Bel",
+    "spouse_names": [
+      "Pedro Biosca Cid"
+    ],
+    "children_names": [
+      "Rosa Biosca López",
+      "Francisco Juan Biosca López",
+      "Lorenza Melchora Biosca López",
+      "Josefa Isabel Biosca López",
+      "Francisca Biosca López",
+      "María Biosca López",
+      "Francisco Manuel Biosca López",
+      "José Antonio Biosca López",
+      "Pedro José Biosca López",
+      "Lorenza Agustina Biosca López"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Josef Garrigues",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 20 de març de 1791 a la Ràpita.\n\nPadrins: Don José Garrigues i Isabel Corch.\n\nCasament: el 18 de març de 1811 amb Pedro Biosca Cid de Freginals [1789].\n\nFills: Lorenza Melchora [1812], Lorenza Agustina [1813], Pedro José [1814], José Antonio [1816], María [1818], Francisco Manuel [1820], Francisco Juan [1822], Gervasio [1824], Francisca [1826], Josefa Isabel [1828] i Rosa [1830].\n\nDefunció: el 10 de setembre de 1832 a la Ràpita. No fa testament. \"Dotó su alma en 222 Reales vellón\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

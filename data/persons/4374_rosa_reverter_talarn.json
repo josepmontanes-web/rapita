@@ -1,0 +1,73 @@
+{
+  "id": "4374_rosa_reverter_talarn",
+  "source_id": "4374",
+  "row_ref": "4374. Rosa Reverter Talarn",
+  "name": "Rosa Reverter Talarn",
+  "gender": "female",
+  "birth": {
+    "date": "1821-07-30",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1822-12-15",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4261_juan_reverter_forner"
+    ],
+    "father": "4261_juan_reverter_forner",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Reverter Forner",
+      "Rosa Talarn Bosch"
+    ],
+    "father_name": "Juan Reverter Forner",
+    "mother_name": "Rosa Talarn Bosch",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Antonio Talarn",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 30 de juliol de 1821 a la Ràpita.\n\nPadrins: Antonio Talarn i Feliciana Subirats.\n\nDefunció: el 15 de desembre de 1822 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

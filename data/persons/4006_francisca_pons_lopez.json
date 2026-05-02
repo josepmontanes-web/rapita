@@ -1,0 +1,78 @@
+{
+  "id": "4006_francisca_pons_lopez",
+  "source_id": "4006",
+  "row_ref": "4006. Francisca Pons López",
+  "name": "Francisca Pons López",
+  "gender": "female",
+  "birth": {
+    "date": "1821-09-05",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4009_manuel_pons_reverter",
+      "3037_rafaela_lopez_segarra"
+    ],
+    "father": "4009_manuel_pons_reverter",
+    "mother": "3037_rafaela_lopez_segarra",
+    "spouse": [
+      "1834_lucas_esteller_bordes"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel Pons Reverter",
+      "Rafaela López Segarra"
+    ],
+    "father_name": "Manuel Pons Reverter",
+    "mother_name": "Rafaela López Segarra",
+    "spouse_names": [
+      "Lucas Esteller Bordes"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Joaquín López",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 5 de setembre de 1821 a la Ràpita.\n\nPadrins: Joaquín López i Isabel López.\n\nCasament: l'1 d'abril de 1844 amb Lucas Esteller Bordes d'Ulldecona [1820].\n\nFills: Francisco [1850], Josefa [1854] i Vicente [1855].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

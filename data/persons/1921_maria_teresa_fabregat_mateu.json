@@ -1,0 +1,77 @@
+{
+  "id": "1921_maria_teresa_fabregat_mateu",
+  "source_id": "1921",
+  "row_ref": "1921. Maria Teresa Fabregat Mateu",
+  "name": "Maria Teresa Fabregat Mateu",
+  "gender": "female",
+  "birth": {
+    "date": "1797-06-10",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1905_juan_fabregat_balaguer"
+    ],
+    "father": "1905_juan_fabregat_balaguer",
+    "mother": null,
+    "spouse": [
+      "2062_miguel_ferre_ortiz"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Fabregat Balaguer",
+      "Mariana Matheu Sancho"
+    ],
+    "father_name": "Juan Fabregat Balaguer",
+    "mother_name": "Mariana Matheu Sancho",
+    "spouse_names": [
+      "Miguel Ferré Ortiz"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Bautista Fabregat",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 10 de juny de 1797 a la Ràpita.\n\nPadrins: Bautista Fabregat i Cándida Balaguer.\n\nA la partida de bateig diu que l'avia materna es Madalena Muñoz de La Galera.\n\nCasament: el 3 de gener de 1818 amb Miguel Ferré Ortíz d'Amposta [1795].\n\nFills: Pedro [1818], Miguel [1820], Teresa [1823], Agustina Esperanza [1825], Francisca [1827], María Ana [1829], Valentín [1831], Josefa [1834] i Pascuala [1836].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

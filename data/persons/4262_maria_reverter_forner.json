@@ -1,0 +1,94 @@
+{
+  "id": "4262_maria_reverter_forner",
+  "source_id": "4262",
+  "row_ref": "4262. María Reverter Forner",
+  "name": "María Reverter Forner",
+  "gender": "female",
+  "birth": {
+    "date": "1801-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1846-03-29",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4177_agustin_reverter",
+      "2232_maria_forner_felip"
+    ],
+    "father": "4177_agustin_reverter",
+    "mother": "2232_maria_forner_felip",
+    "spouse": [
+      "1115_rafael_casajust_michavila"
+    ],
+    "children": [
+      "1125_teresa_casajust_reverte",
+      "1126_maria_agustina_casajust_reverte",
+      "1127_maria_dolores_casajust_reverte",
+      "1128_felicia_casajust_reverte",
+      "1129_maria_carmela_casajust_reverter",
+      "1130_juan_bautista_casajust_reverte",
+      "1131_jose_ramon_casajust_reverte"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustín Reverter",
+      "Maria Forner Felip"
+    ],
+    "father_name": "Agustín Reverter",
+    "mother_name": "Maria Forner Felip",
+    "spouse_names": [
+      "Rafael Casajust Michavila"
+    ],
+    "children_names": [
+      "Teresa Casajust Reverté",
+      "María Agustina Casajust Reverté",
+      "María Dolores Casajust Reverté",
+      "Felicia Casajust Reverté",
+      "Maria Carmela Casajust Reverter",
+      "Juan Bautista Casajust Reverté",
+      "José Ramón Casajust Reverté"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1801]. \n\nCasament: el 24 de novembre de 1821 amb Rafael Casajust Michavila de la Ràpita [1799].\n\nFills: María de los Dolores [1823], Teresa [1825], María Agustina [1827], José Ramón [1829], Juan Bautista [1830], Felicia [1832] i María Carmela [1834].\n\nDe l'1 de març de 1831 al 31 de juliol de 1839 ha de pagar un lloguer de 8 Rs mensuals pel pis de terra de la dreta de la casa 6 del carrer del Forn. (AGP.PER.LEG.1073/23 [Juan Vecino]).\n\nDefunció: el 29 de març de 1846 a la Ràpita. Va morir als 45 anys. Era veïna del Codonyol. \"Muere de enfermedad contagiosa. No hizo testamento por ser pobre y fue enterrada amore Dei\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

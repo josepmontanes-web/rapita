@@ -1,0 +1,72 @@
+{
+  "id": "2250_mariano_fort",
+  "source_id": "2250",
+  "row_ref": "2250. Mariano Fort",
+  "name": "Mariano Fort",
+  "gender": "male",
+  "birth": {
+    "date": "1757-01-01",
+    "place": "Vilanova d'Escornalbou"
+  },
+  "death": {
+    "date": "1833-08-13",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3104_maria_mariner"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Maria Mariner"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vilanova d'Escornalbou [aprox. 1757].\n\nCasament: amb Maria Mariner.\n\nDefunció: el 13 d'agost de 1833 a la Ràpita. Va morir als 76 anys. \"Hace testamento ante Don Francisco Arnella el 9 de agosto de 1833. Dotó su alma en 120 reales de vellón\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

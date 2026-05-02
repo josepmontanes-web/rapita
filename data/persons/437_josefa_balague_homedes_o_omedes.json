@@ -1,0 +1,77 @@
+{
+  "id": "437_josefa_balague_homedes_o_omedes",
+  "source_id": "437",
+  "row_ref": "437. Josefa Balagué Homedes [o Omedes]",
+  "name": "Josefa Balagué Homedes [o Omedes]",
+  "gender": "female",
+  "birth": {
+    "date": "1803-11-11",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2793_teresa_homedes_cartes"
+    ],
+    "father": null,
+    "mother": "2793_teresa_homedes_cartes",
+    "spouse": [
+      "3506_francisco_moreso_besalduch"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Balaguer Salvadó",
+      "Teresa Homedes Cartes"
+    ],
+    "father_name": "José Balaguer Salvadó",
+    "mother_name": "Teresa Homedes Cartes",
+    "spouse_names": [
+      "Francisco Moreso Besalduch"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Durán",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'11 de novembre de 1803 a Tortosa.\n\nPadrins: Francisco Durán i Rosa Omedes.\n\nCasament: el 16 de març de 1829 amb Francisco Moreso Besalduch de Tortosa [1806].\n\nFills: Francisco [1827], María [1834], Margarita [1835], Margarita Agustina [1837], María Teresa [1839], Miguel [1842], Juan [1846] i Rosa [1848].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

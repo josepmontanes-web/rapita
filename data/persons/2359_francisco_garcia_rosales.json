@@ -1,0 +1,78 @@
+{
+  "id": "2359_francisco_garcia_rosales",
+  "source_id": "2359",
+  "row_ref": "2359. Francisco García Rosales",
+  "name": "Francisco García Rosales",
+  "gender": "male",
+  "birth": {
+    "date": "1806-03-06",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1807-10-10",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2320_francisco_garcia_garcia",
+      "4557_teresa_rosales_valls"
+    ],
+    "father": "2320_francisco_garcia_garcia",
+    "mother": "4557_teresa_rosales_valls",
+    "spouse": [],
+    "children": [
+      "2317_ramon_garcia_de_la_ballina"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco García García",
+      "Teresa Rosales Valls"
+    ],
+    "father_name": "Francisco García García",
+    "mother_name": "Teresa Rosales Valls",
+    "spouse_names": [],
+    "children_names": [
+      "Ramon García de la Ballina"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Antonio Rosales",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 6 de març de 1806 a la Ràpita.\n\nPadrins: Antonio Rosales i Teresa Valls (iaios).\n\nDefunció: el 10 d'octubre de 1807 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

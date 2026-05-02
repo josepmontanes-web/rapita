@@ -1,0 +1,76 @@
+{
+  "id": "1482_felipa_cid_arlandez",
+  "source_id": "1482",
+  "row_ref": "1482. Felipa Cid Arlández",
+  "name": "Felipa Cid Arlández",
+  "gender": "female",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1496_francisco_cid_ferrer",
+      "239_teresa_arlandez_cartes"
+    ],
+    "father": "1496_francisco_cid_ferrer",
+    "mother": "239_teresa_arlandez_cartes",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Cid Ferrer",
+      "Teresa Arlández Cartes"
+    ],
+    "father_name": "Francisco Cid Ferrer",
+    "mother_name": "Teresa Arlández Cartes",
+    "spouse_names": [
+      "Mariano Puigcervé Murries"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1810].\n\nCasament: el 12 de juliol de 1838 amb Mariano Puigcervé Murries del Cabanyal (València) [1810]. Quan es casa es veí de Peníscola.\n\nFills: Mariano [1841], Francisco [1844], Felipa [1850] i Juan [1857].\n\nHipoteca: Felipa Cid a los menores Rosales. Felipa Cid …29 duros … su esposo Mariano Puigcerver … de los menores Rosales … una casa en la calle San Roque. 23 de mayo de 1859. Esc. Juan Ventosa de Amposta",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "1721_agustin_diago_gras",
+  "source_id": "1721",
+  "row_ref": "1721. Agustín Diago Gras",
+  "name": "Agustín Diago Gras",
+  "gender": "male",
+  "birth": {
+    "date": "1802-01-11",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1719_pascual_diago_campanals"
+    ],
+    "father": "1719_pascual_diago_campanals",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pascual Diago Campanals",
+      "Caramela Gras Gil"
+    ],
+    "father_name": "Pascual Diago Campanals",
+    "mother_name": "Caramela Gras Gil",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Agustín Sancho",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'11 de gener de 1802 a la Ràpita.\n\nPadrins: Agustín Sancho i Basilia García.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "1553_juan_colomer_more",
+  "source_id": "1553",
+  "row_ref": "1553. Juan Colomer Moré",
+  "name": "Juan Colomer Moré",
+  "gender": "male",
+  "birth": {
+    "date": "1808-09-01",
+    "place": null
+  },
+  "death": {
+    "date": "1809-10-19",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1548_jayme_colomer"
+    ],
+    "father": "1548_jayme_colomer",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Jayme Colomer",
+      "Petrolina Moré"
+    ],
+    "father_name": "Jayme Colomer",
+    "mother_name": "Petrolina Moré",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1808].\n\nDefunció: el 19 d'octubre de 1809 a la Ràpita. Va morir als 14 mesos.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

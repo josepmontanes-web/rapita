@@ -1,0 +1,82 @@
+{
+  "id": "294_maria_artero_celez",
+  "source_id": "294",
+  "row_ref": "294. Maria Artero Célez",
+  "name": "Maria Artero Célez",
+  "gender": "female",
+  "birth": {
+    "date": "1791-01-01",
+    "place": "Almassora"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "295_pasqual_artero_taura",
+      "1369_mariana_celez_o_sere"
+    ],
+    "father": "295_pasqual_artero_taura",
+    "mother": "1369_mariana_celez_o_sere",
+    "spouse": [
+      "3336_jose_merga_jordan"
+    ],
+    "children": [
+      "3335_pedro_vicente_merga_artero"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pasqual Artero Taurá",
+      "Mariana Célez [o Sere]"
+    ],
+    "father_name": "Pasqual Artero Taurá",
+    "mother_name": "Mariana Célez",
+    "spouse_names": [
+      "José Merga Jordán"
+    ],
+    "children_names": [
+      "Pedro Vicente Merga Artero"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  a Almassora [aprox. 1791].\n\nCasament: el 17 d'abril de 1808 amb José Merga Jordán de San Remo [1788]. Es casa als 17 anys.\n\nFills: Pedro [1809].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

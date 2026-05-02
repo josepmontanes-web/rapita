@@ -1,0 +1,68 @@
+{
+  "id": "2742_maria_cinta_guardia_reverte",
+  "source_id": "2742",
+  "row_ref": "2742. María Cinta Guardia Reverté",
+  "name": "María Cinta Guardia Reverté",
+  "gender": "female",
+  "birth": {
+    "date": "1860-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1860].\n\nCasament: el 26 de maig de 1883 amb Rafael Arlández Jovani de la Ràpita [1858]. Es casa als 22 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

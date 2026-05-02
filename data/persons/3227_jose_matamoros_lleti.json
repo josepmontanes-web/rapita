@@ -1,0 +1,78 @@
+{
+  "id": "3227_jose_matamoros_lleti",
+  "source_id": "3227",
+  "row_ref": "3227. José Matamoros Lletí",
+  "name": "José Matamoros Lletí",
+  "gender": "male",
+  "birth": {
+    "date": "1829-09-03",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4337_juan_bautista_reverter_sancho",
+      "2944_tomasa_lleti_navarro"
+    ],
+    "father": "4337_juan_bautista_reverter_sancho",
+    "mother": "2944_tomasa_lleti_navarro",
+    "spouse": [
+      "1692_rosa_curto_sancho"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Bautista Reverter Sancho",
+      "Tomasa Lletí Navarro"
+    ],
+    "father_name": "Juan Bautista Matamoros Reverter",
+    "mother_name": "Tomasa Lletí Navarro",
+    "spouse_names": [
+      "Rosa Curto Sancho"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Matamoros",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 3 de setembre de 1829 a la Ràpita.\n\nPadrins: José Matamoros i Catarina Chulié.\n\nProfessió: pagès.\n\nCasament: el 26 d'agost de 1854 amb Rosa Curto Sancho de la Ràpita [1833]. Testimonis: Alejandro Blanch i Juan Fibla.\n\nFills: María [1855] i Asunción [1858].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

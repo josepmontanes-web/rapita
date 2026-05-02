@@ -1,0 +1,81 @@
+{
+  "id": "4091_jose_pujol_munoz",
+  "source_id": "4091",
+  "row_ref": "4091. José Pujol Muñoz",
+  "name": "José Pujol Muñoz",
+  "gender": "male",
+  "birth": {
+    "date": "1770-01-01",
+    "place": "Marçà"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3574_antonia_munoz_rodriguez"
+    ],
+    "father": null,
+    "mother": "3574_antonia_munoz_rodriguez",
+    "spouse": [
+      "5283_mariana_temprado_cucala"
+    ],
+    "children": [
+      "1797_38_1800"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Puigol",
+      "Antonia Muñoz Rodríguez"
+    ],
+    "father_name": "Josef Puigol",
+    "mother_name": "Antonia Muñoz Rodríguez",
+    "spouse_names": [
+      "Mariana Temprado Cucala"
+    ],
+    "children_names": [
+      "38 1800"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Marçà [aprox. 1770]. \n\nEl seu cognom també apareix com Puigol, Puchol i Puxol.\n\nCasament: el 20 de març de 1792 amb Mariana Temprado Cucala d'Alcalà de Xivert [1770].\n\nFills: Manuel [1794].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Fonda Vella amb la seua mare, a més diu que era vidu (ACA BGRP Cajas 34).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

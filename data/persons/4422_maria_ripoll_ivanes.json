@@ -1,0 +1,77 @@
+{
+  "id": "4422_maria_ripoll_ivanes",
+  "source_id": "4422",
+  "row_ref": "4422. Maria Ripoll Ivañes",
+  "name": "Maria Ripoll Ivañes",
+  "gender": "female",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Vinaroz"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4420_francisco_ripoll"
+    ],
+    "father": "4420_francisco_ripoll",
+    "mother": null,
+    "spouse": [
+      "1671_francisco_curto_cavaller"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Ripoll",
+      "Ana María Mañer"
+    ],
+    "father_name": "Francisco Ripoll",
+    "mother_name": "Ana María Mañer",
+    "spouse_names": [
+      "Francisco Curto Cavaller"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1810]. \n\nCasament: el 16 d'abril de 1831 amb Francisco Curto Cavaller de Tivenys [1810].\n\nFills: Marcos [1832], María Rosa [1834] i María Francisca [1837].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

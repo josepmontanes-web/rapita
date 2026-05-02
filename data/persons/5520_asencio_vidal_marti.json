@@ -1,0 +1,75 @@
+{
+  "id": "5520_asencio_vidal_marti",
+  "source_id": "5520",
+  "row_ref": "5520. Asencio Vidal Martí",
+  "name": "Asencio Vidal Martí",
+  "gender": "male",
+  "birth": {
+    "date": "1791-01-01",
+    "place": "Alfarrací (Valencia)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1929_antonia_fabregat_obiol"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Gerónimo Vidal",
+      "Casilda Martí"
+    ],
+    "father_name": "Gerónimo Vidal",
+    "mother_name": "Casilda Martí",
+    "spouse_names": [
+      "Antonia Fabregat Obiol"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alfarrací (València) [aprox. 1791].\n\nCasament: el 28 de març de 1815 amb Antonia Fabregat Obiol de Peníscola [1776]. Es casa als 24 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

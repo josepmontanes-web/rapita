@@ -1,0 +1,79 @@
+{
+  "id": "1513_felipa_climent_bilbe",
+  "source_id": "1513",
+  "row_ref": "1513. Felipa Climent Bilbé",
+  "name": "Felipa Climent Bilbé",
+  "gender": "female",
+  "birth": {
+    "date": "1770-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1512_joaquin_climent"
+    ],
+    "father": "1512_joaquin_climent",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1796_2_1846"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Climent",
+      "Teresa Bilbé"
+    ],
+    "father_name": "Joaquín Climent",
+    "mother_name": "Teresa Bilbé",
+    "spouse_names": [
+      "Don Josef Blanco Aleman"
+    ],
+    "children_names": [
+      "2 1846"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1770].\n\nCasament: amb Don José Blanco Aleman de Zaragoza [1760].\n\nFills: Justo [1791] i María Teresa [1793].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

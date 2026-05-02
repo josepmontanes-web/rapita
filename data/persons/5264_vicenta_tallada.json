@@ -1,0 +1,80 @@
+{
+  "id": "5264_vicenta_tallada",
+  "source_id": "5264",
+  "row_ref": "5264. Vicenta Tallada",
+  "name": "Vicenta Tallada",
+  "gender": "female",
+  "birth": {
+    "date": "1775-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1839-01-23",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1465_josef_chiscas"
+    ],
+    "children": [
+      "35_rosa_adell_tallada",
+      "1466_concepcion_chiscas_tallada"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Tallada"
+    ],
+    "father_name": "Pedro Tallada",
+    "mother_name": null,
+    "spouse_names": [
+      "Josef Chiscás"
+    ],
+    "children_names": [
+      "Rosa Adell Tallada",
+      "Concepción Chiscás Tallada"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  a Tortosa [aprox. 1775].\n\nCasament: amb José Chiscás de Berga [1770].\n\nFills: Concepción (Tortosa) [1800].\n\nDel juliol de 1822 al juny de 1823 paga 8 Rv mensuals pel lloguer d'una part de la casa núm. 1 de la mansana 1 (es la que avui està a la cantonada de la Plaça Carles III amb el carrer Sant Antoni).\n\nDe l'1 de juny de 1834 al 31 de juliol de 1839 ha de pagar un lloguer de 14 Rs mensuals pel pis alt de la casa 2 de la mançana 2. (AGP.PER.LEG.1073/23 [Juan Vecino]).\n\nDefunció: el 23 de gener de 1839 a la Ràpita. Mor als 64 anys. No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

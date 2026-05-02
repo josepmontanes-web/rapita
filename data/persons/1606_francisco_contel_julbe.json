@@ -1,0 +1,78 @@
+{
+  "id": "1606_francisco_contel_julbe",
+  "source_id": "1606",
+  "row_ref": "1606. Francisco Contel Julbe",
+  "name": "Francisco Contel Julbe",
+  "gender": "male",
+  "birth": {
+    "date": "1815-01-01",
+    "place": "Zorita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1607_juan_bautista_contel_damia",
+      "1608_juan_bautista_contel_damia"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Felipe Contel",
+      "Lucía Julbe"
+    ],
+    "father_name": "Felipe Contel",
+    "mother_name": "Lucía Julbe",
+    "spouse_names": [
+      "Maria Ana Damia"
+    ],
+    "children_names": [
+      "Juan Bautista Contel Damià"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Zorita [aprox. 1815].\n\nCasament: amb María Ana Damià Navarro de la Portellada, filla de Domingo de Favara i María de Fornols.\n\nFills: Juan Bautista [1828] i Juan Bautista [1829].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "5218_jose_subirats_torta",
+  "source_id": "5218",
+  "row_ref": "5218. José Subirats Torta",
+  "name": "José Subirats Torta",
+  "gender": "male",
+  "birth": {
+    "date": "1824-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5185_jose_subirats"
+    ],
+    "father": "5185_jose_subirats",
+    "mother": null,
+    "spouse": [
+      "5024_rita_sanz_tallada"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Subirats",
+      "Tomasa Torta"
+    ],
+    "father_name": "José Subirats",
+    "mother_name": "Tomasa Torta",
+    "spouse_names": [
+      "Rita Sanz Tallada"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Fuster"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1824]. \n\nProfessió: fuster i carreter.\n\nCasament: el 12 de febrer de 1850 amb Rita Sanz Tallada de Tortosa [1834]. Capitols matrimonials en poder de Felipe Tallada - notari.\n\nFills: José [1855] i María de la Cinta [1857].\n\nEs un dels 28 veïns de la Ràpita que figuren al primer cens electoral de San Carlos de la Rápita de 1867, diu que viu al carrer Sant Josep.\n\nCasament: el 8 de febrer de 1884 amb María Falcó Piñol de Xerta [1840].\n\nSap escriure, signa la declaració de casament al registre civil.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "1722_basilia_diago_gras",
+  "source_id": "1722",
+  "row_ref": "1722. Basilia Diago Gras",
+  "name": "Basilia Diago Gras",
+  "gender": "female",
+  "birth": {
+    "date": "1805-01-31",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1719_pascual_diago_campanals"
+    ],
+    "father": "1719_pascual_diago_campanals",
+    "mother": null,
+    "spouse": [
+      "143_jayme_ano_arlandez"
+    ],
+    "children": [
+      "147_antonio_cucufate_ano_diago",
+      "148_maria_cecilia_ano_diago",
+      "149_antonio_ano_diago",
+      "150_jayme_ano_diago",
+      "151_teresa_ano_diago"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pascual Diago Campanals",
+      "Caramela Gras Gil"
+    ],
+    "father_name": "Pascual Diago Campanals",
+    "mother_name": "Caramela Gras Gil",
+    "spouse_names": [
+      "Jayme Añó Arlández"
+    ],
+    "children_names": [
+      "Antonio Cucufate Añó Diago",
+      "María Cecilia Añó Diago",
+      "Antonio Añó Diago",
+      "Jayme Añó Diago",
+      "Teresa Añó Diago"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Domingo Sans",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 31 de gener de 1805 a la Ràpita.\n\nPadrins: Domingo Sans i Basilia García.\n\nCasament: el 27 d'agost de 1827 amb Jayme Añó Arlández de la Ràpita [1802].\n\nFills: Antonio Cucufate [1828], María Cecilia [1830], Antonio [1834], Jayme [1838] i Teresa [1840].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

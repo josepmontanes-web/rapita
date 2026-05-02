@@ -1,0 +1,86 @@
+{
+  "id": "4337_juan_bautista_reverter_sancho",
+  "source_id": "4337",
+  "row_ref": "4337. Juan Bautista Reverter Sancho",
+  "name": "Juan Bautista Reverter Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1790-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1796-10-08",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4174_pedro_reverter",
+      "4933_christofola_sancho_sancho"
+    ],
+    "father": "4174_pedro_reverter",
+    "mother": "4933_christofola_sancho_sancho",
+    "spouse": [],
+    "children": [
+      "3224_miguel_ramon_matamoros_lleti",
+      "3225_ramona_matamoros_lleti",
+      "3226_josefa_matamoros_lleti",
+      "3227_jose_matamoros_lleti",
+      "3228_manuela_matamoros_lleti"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Reverter",
+      "Christofola Sancho Sancho"
+    ],
+    "father_name": "Pedro Reverter",
+    "mother_name": "Christofola Sancho Sancho",
+    "spouse_names": [],
+    "children_names": [
+      "Miguel Ramón Matamoros Lletí",
+      "Ramona Matamoros Lletí",
+      "Josefa Matamoros Lletí",
+      "José Matamoros Lletí",
+      "Manuela Matamoros Lletí"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1790]. \n\nDefunció: el 8 d'octubre de 1796 a la Ràpita. Va morir pàrvul.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

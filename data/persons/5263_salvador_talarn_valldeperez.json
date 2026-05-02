@@ -1,0 +1,96 @@
+{
+  "id": "5263_salvador_talarn_valldeperez",
+  "source_id": "5263",
+  "row_ref": "5263. Salvador Talarn Valldeperez",
+  "name": "Salvador Talarn Valldeperez",
+  "gender": "male",
+  "birth": {
+    "date": "1780-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5221_juan_talarn"
+    ],
+    "father": "5221_juan_talarn",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "5229_jose_salvador_talarn_blanc",
+      "5230_maria_theresa_talarn_blanch",
+      "5231_manuela_francisca_talarn_blanch",
+      "5232_maria_teresa_talarn_blanch",
+      "5233_francisca_talarn_blanch",
+      "5234_tomas_talarn_blanch",
+      "5235_francisca_talarn_blanch",
+      "5236_gabriel_talarn_blanch",
+      "5237_braulio_talarn_blanch",
+      "5238_salvador_talarn_blanch"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Talarn",
+      "Theresa Valldepérez"
+    ],
+    "father_name": "Juan Talarn",
+    "mother_name": "Theresa Valldepérez",
+    "spouse_names": [
+      "Francisca Blanch"
+    ],
+    "children_names": [
+      "José Salvador Talarn Blanc",
+      "Maria Theresa Talarn Blanch",
+      "Manuela Francisca Talarn Blanch",
+      "Maria Teresa Talarn Blanch",
+      "Francisca Talarn Blanch",
+      "Tomás Talarn Blanch",
+      "Gabriel Talarn Blanch",
+      "Braulio Talarn Blanch",
+      "Salvador Talarn Blanch"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1780]. \n\nCasament: amb Francisca Blanch Aguilar de Tortosa [1780].\n\nFills: Gabriel (Tortosa) [1800], Francisca (Amposta) [1805], Teresa [1814], Francisca [1821], Teresa [1822], Tomás [1825], José Salvador [1827], Manuela Francisca [1830], Braulio [1832] i Salvador [1834].\n\nDe l'1 de desembre de 1832 al 31 de juliol de 1839 ha de pagar un lloguer de 30 Rs mensuals per la casa 6 de la mançana 4. (AGP.PER.LEG.1073/23 [Juan Vecino]).\n\nCapitulos matrimoniales: Salvador Talarn y Francisca Blanch donan a su hijo José siete jornales y medio de tierra (la mitad de toda la heredad) plantada de algarrobos y parte maleza, partida de les coves de la Sansa. Linda a tramontana con José N. Matagats , al mar con Miguel Rosales, a poniente con Miguel Balada y a levante con herederos de Lorenzo Casajust, y un solar de casa de 60 palmos de largo y 30 de ancho con el pacto de que el donatario deberá vivir y habitar los tres primeros siguientes años en la casa y compañía de los donadores poniendo en … todos los bienes, y no cumpliéndolo le darán sólo el dicho patio y un caliz y medio de trigo; balviendo a los mismos donadores la expresada mitad de heredad para disponer de ella libremente; y si cumple dichos tres años conti… el donatario y su futura esposa en estar en compañía de los donantes podrán alcorrarse al producto de la referida heredad de les coves. \n\nVenta: de José Talarn y Blanch (fill de Salvador Talarn Valldeperez i de Francisca Blanch Aguilar), labrador, a Vicente Lletí y Fonollosa, labrador de Amposta, de un patio en el arrabal de San Isidro. 31 palmos de ancho por 62. Linda con tierras de las Monjas, con patio de Vicente Gombau, con Pedro Biosca y con dicha calle del arrabal. 17 de junio de 1858. Esc. Juan Ventosa de Amposta. Valor 240.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

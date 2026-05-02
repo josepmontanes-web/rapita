@@ -1,0 +1,99 @@
+{
+  "id": "345_miguel_balada_lluch",
+  "source_id": "345",
+  "row_ref": "345. Miguel Balada Lluch",
+  "name": "Miguel Balada Lluch",
+  "gender": "male",
+  "birth": {
+    "date": "1777-01-01",
+    "place": "Benicarló"
+  },
+  "death": {
+    "date": "1822-11-25",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "323_miguel_balada_balada"
+    ],
+    "father": "323_miguel_balada_balada",
+    "mother": null,
+    "spouse": [
+      "350_joaquina_balada_miralles"
+    ],
+    "children": [
+      "322_juan_balada_balada",
+      "323_miguel_balada_balada",
+      "324_rafael_balada_balada",
+      "325_raymunda_balada_balada",
+      "326_antonia_balada_balada",
+      "327_maria_balada_balada",
+      "328_alexandro_rafael_balada_balada",
+      "329_francisca_maria_balada_balada",
+      "330_francisca_balada_balada",
+      "331_juan_bautista_balada_balada"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Balada Balada",
+      "Manuela Lluch"
+    ],
+    "father_name": "Miguel Balada",
+    "mother_name": "Manuela Lluch",
+    "spouse_names": [
+      "Joaquina Balada Miralles"
+    ],
+    "children_names": [
+      "Juan Balada Balada",
+      "Miguel Balada Balada",
+      "Rafael Balada Balada",
+      "Raymunda Balada Balada",
+      "Antonia Balada Balada",
+      "Maria Balada Balada",
+      "Alexandro Rafael Balada Balada",
+      "Francisca María Balada Balada",
+      "Francisca Balada Balada",
+      "Juan Bautista Balada Balada"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Benicarló [aprox. 1777].\n\nProfessió: pagès.\n\nCasament: amb Joaquina Balada Miralles d'Ulldecona [1780]. \n\nA l'estat de veïns de setembre de 1798 diu que viuen a una casa al costat de l'esglesia juntament amb Juan Reverter [1738] i María Balada [1740] (ACA BGRP Cajas 34).\n\nAl gener de 1799 consta que paga un lloguer de 20,23 Rv per la casa núm. 38 de la mansana 1.\n\nFills: Juan (Ulldecona) [aprox 1796], María [1797], Francisca María [1799], Miguel [1800], Alexandro Rafael [1803], Raymunda [1805], Francisca [1807], Rafael [1810], Juan Bautista [1817] i Antonia [1821].\n\nDefunció: el 25 de novembre de 1822 a la Ràpita. Va morir als 45 anys \"de muerte natural\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

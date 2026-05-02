@@ -1,0 +1,78 @@
+{
+  "id": "4316_maria_reverter_queralt",
+  "source_id": "4316",
+  "row_ref": "4316. Maria Reverter Queralt",
+  "name": "Maria Reverter Queralt",
+  "gender": "female",
+  "birth": {
+    "date": "1791-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4173_jose_reverter",
+      "4096_teresa_queralt"
+    ],
+    "father": "4173_jose_reverter",
+    "mother": "4096_teresa_queralt",
+    "spouse": [
+      "666_manuel_benlloch_feu"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Reverter",
+      "Teresa Queralt"
+    ],
+    "father_name": "José Reverter",
+    "mother_name": "Teresa Queralt",
+    "spouse_names": [
+      "Manuel Benlloch Feu"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1791]. \n\nCasament: el 17 d'agost de 1807 amb Manuel Benlloch Feu de Rialp [1780]. Es casa als 16 anys.\n\nFills: Manuel [1811], María Antonia [1813] i Manuel Jayme [1815].\n\nEs germana de Miguel Reverter Queralt [1787] i Bernarda Reverter Queralt [1800].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

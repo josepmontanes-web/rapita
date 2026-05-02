@@ -1,0 +1,68 @@
+{
+  "id": "3789_vicenta_panisello_roig",
+  "source_id": "3789",
+  "row_ref": "3789. Vicenta Panisello Roig",
+  "name": "Vicenta Panisello Roig",
+  "gender": "female",
+  "birth": {
+    "date": "1855-01-01",
+    "place": "Masdenverge"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Masdenverge [aprox. 1855].\n\nCasament: el 16 de desembre de 1876 amb Agustín Biosca Grau d'Amposta [1851]. Es casa als 21 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

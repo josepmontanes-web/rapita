@@ -1,0 +1,71 @@
+{
+  "id": "3814_sebastian_pasarell",
+  "source_id": "3814",
+  "row_ref": "3814. Sebastián Pasarell",
+  "name": "Sebastián Pasarell",
+  "gender": "male",
+  "birth": {
+    "date": "1740-01-01",
+    "place": "Moià (Vic)"
+  },
+  "death": {
+    "date": "1803-02-11",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Pasarell",
+      "Catarina"
+    ],
+    "father_name": "Juan Pasarell",
+    "mother_name": "Catarina",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Moià [aprox. 1740]. \n\nDefunció: l'11 de febrer de 1803 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

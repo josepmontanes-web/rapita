@@ -1,0 +1,74 @@
+{
+  "id": "3058_pedro_tomas_macian_biosca",
+  "source_id": "3058",
+  "row_ref": "3058. Pedro Tomás Macián Biosca",
+  "name": "Pedro Tomás Macián Biosca",
+  "gender": "male",
+  "birth": {
+    "date": "1836-09-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1836-11-24",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3071_tomas_macian_sanchis",
+      "721_maria_biosca_lopez"
+    ],
+    "father": "3071_tomas_macian_sanchis",
+    "mother": "721_maria_biosca_lopez",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomás Macián Sanchis",
+      "María Biosca López"
+    ],
+    "father_name": "Tomás Macián Sanchiz",
+    "mother_name": "María Biosca López",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Pedro Biosca",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'1 de setembre de 1836 a la Ràpita.\n\nPadrins: Pedro Biosca i Vicenta Macián.\n\nDefunció: el 24 de novembre de 1836 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

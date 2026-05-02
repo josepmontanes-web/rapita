@@ -1,0 +1,86 @@
+{
+  "id": "1732_francisco_diago_michavila",
+  "source_id": "1732",
+  "row_ref": "1732. Francisco Diago Michavila",
+  "name": "Francisco Diago Michavila",
+  "gender": "male",
+  "birth": {
+    "date": "1797-10-29",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1829-08-15",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1717_joaquin_diago_campanals",
+      "3339_agustina_michavila_bayerri"
+    ],
+    "father": "1717_joaquin_diago_campanals",
+    "mother": "3339_agustina_michavila_bayerri",
+    "spouse": [],
+    "children": [
+      "1725_josefa_diago_jovani",
+      "1726_joaquin_diago_jovani",
+      "1727_peregrin_diago_jovani",
+      "1728_tomas_diago_jovani"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Diago Campanals",
+      "Agustina Michavila Bayerri"
+    ],
+    "father_name": "Joaquín Diago Campanals",
+    "mother_name": "Agustina Michavila Bayerri",
+    "spouse_names": [
+      "Maria Jovani Grau"
+    ],
+    "children_names": [
+      "Josefa Diago Jovani",
+      "Joaquín Diago Jovani",
+      "Peregrín Diago Jovani",
+      "Tomás Diago Jovani"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Carlos Lostalo",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 29 d'octubre de 1797 a la Ràpita.\n\nPadrins: Carlos Lostalo i Bárbara Arnal.\n\nCasament: l'1 de març de 1824 amb María Jovani Grau d'Alcanar [1800].\n\nFills: Josefa [1825], Joaquín [1828], Peregrín [1828] i Tomás [1829].\n\nDefunció: el 15 d'agost de 1829 a la Ràpita. Va morir de \"calenturas\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

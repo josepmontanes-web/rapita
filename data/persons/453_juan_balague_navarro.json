@@ -1,0 +1,72 @@
+{
+  "id": "453_juan_balague_navarro",
+  "source_id": "453",
+  "row_ref": "453. Juan Balagué Navarro",
+  "name": "Juan Balagué Navarro",
+  "gender": "male",
+  "birth": {
+    "date": "1879-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "398_josefa_juana_balague_bosch"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Josefa Juana Balagué Bosch"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1879].\n\nDefunció: el 21 de maig de 1880 a la Ràpita als 15 mesos de \"eclamsia\". El seu pare es mariner i té 30 anys. Declara la mor la seua tia Francisca Cartes de 16 anys, sap escriure i signa la declaració.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

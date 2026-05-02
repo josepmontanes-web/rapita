@@ -1,0 +1,77 @@
+{
+  "id": "5678_tomas_zaragoza_tora",
+  "source_id": "5678",
+  "row_ref": "5678. Tomás Zaragoza Tora",
+  "name": "Tomás Zaragoza Tora",
+  "gender": "male",
+  "birth": {
+    "date": "1828-01-01",
+    "place": "Vinaròs"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5647_bautista_zaragoza"
+    ],
+    "father": "5647_bautista_zaragoza",
+    "mother": null,
+    "spouse": [
+      "1321_juana_castella_safont"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Zaragoza",
+      "Francisca Tora"
+    ],
+    "father_name": "Bautista Zaragoza",
+    "mother_name": "Francisca Tora",
+    "spouse_names": [
+      "Juana Castellà Safont"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Marino"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1828].\n\nProfessió: marino.\n\nCasament: el 3 de març de 1855 amb Juana Castellà Safont de la Ràpita [1824]. Es casa als 27 anys. Testimonis: Don Agustín Castillo Albeytar i Juan Castellà.\n\nFills: Tomás [1855] i Mariana [1861].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

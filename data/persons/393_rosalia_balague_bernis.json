@@ -1,0 +1,73 @@
+{
+  "id": "393_rosalia_balague_bernis",
+  "source_id": "393",
+  "row_ref": "393. Rosalia Balagué Bernis",
+  "name": "Rosalia Balagué Bernis",
+  "gender": "female",
+  "birth": {
+    "date": "1832-09-03",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "448_domingo_balague_navarro"
+    ],
+    "father": "448_domingo_balague_navarro",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Domingo Balagué Navarro",
+      "Maria de la Cinta Bernis Murall"
+    ],
+    "father_name": "Domingo Balagué Navarro",
+    "mother_name": "Maria de la Cinta Bernis Murall",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Rafael Casajust",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 3 de setembre de 1832 a la Ràpita.\n\nPadrins: Rafael Casajust i Francisca Mayor de Xerta.\n\nCasament: amb Vicente Martí de Calp, mariner.\n\nDefunció: el 14 de maig de 1877 a la Ràpita de una gastritis. Declara la mor al registre civil Cinta Segarra.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

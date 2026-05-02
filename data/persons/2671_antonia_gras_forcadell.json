@@ -1,0 +1,77 @@
+{
+  "id": "2671_antonia_gras_forcadell",
+  "source_id": "2671",
+  "row_ref": "2671. Antonia Gras Forcadell",
+  "name": "Antonia Gras Forcadell",
+  "gender": "female",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2665_bautista_gras_balada"
+    ],
+    "father": "2665_bautista_gras_balada",
+    "mother": null,
+    "spouse": [
+      "3180_jose_matamoros_castell"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Gras Balada",
+      "Antonia Forcadell"
+    ],
+    "father_name": "Bautista Gras",
+    "mother_name": "Antonia Forcadell",
+    "spouse_names": [
+      "José Matamoros Castell"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1820].\n\nCasament: el 7 de gener de 1843 amb José Matamoros Castell de Freginals [1820].\n\nFills: José [1845], Ramón [1850], Carlos [1850] i Josefa [1855].\n\nEs germana de Miguel Gras Forcadell [1825] i de José Agustín Gras Forcadell [1826].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

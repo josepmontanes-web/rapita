@@ -1,0 +1,83 @@
+{
+  "id": "3339_agustina_michavila_bayerri",
+  "source_id": "3339",
+  "row_ref": "3339. Agustina Michavila Bayerri",
+  "name": "Agustina Michavila Bayerri",
+  "gender": "female",
+  "birth": {
+    "date": "1769-01-01",
+    "place": "Traiguera"
+  },
+  "death": {
+    "date": "1833-05-19",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "538_agustina_bayerri"
+    ],
+    "father": null,
+    "mother": "538_agustina_bayerri",
+    "spouse": [
+      "1717_joaquin_diago_campanals"
+    ],
+    "children": [
+      "1730_manuela_diago_michavila",
+      "1732_francisco_diago_michavila"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Damián Michavila",
+      "Agustina Bayerri"
+    ],
+    "father_name": "Damián Michavila",
+    "mother_name": "Agustina Bayerri",
+    "spouse_names": [
+      "Joaquín Diago Campanals"
+    ],
+    "children_names": [
+      "Manuela Diago Michavila",
+      "Francisco Diago Michavila"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Traiguera [aprox. 1769]. \n\nCasament: amb Joaquín Diago Campanals de Maella [1773].\n\nFills: Carlos [1791], Manuela [1795], Francisco [1797] i Francisco Mariano [1804].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu al carrer davant el canal i l'horta  (ACA BGRP Cajas 34).\n\nDefunció: el 19 de maig de 1833 a la Ràpita. Va morir als 64 anys. \"Enterrada antes de las 24 horas por disposición del facultativo Don Antonio Mira. No hizo testamento ni dotó su alma por ser pobre de solemnidad\".\n\nEs germana de Vicenta Michavila Bayarri [1770].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

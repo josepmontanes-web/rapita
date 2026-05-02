@@ -1,0 +1,68 @@
+{
+  "id": "2693_teresa_grego_christofol",
+  "source_id": "2693",
+  "row_ref": "2693. Teresa Grego Christofol",
+  "name": "Teresa Grego Christofol",
+  "gender": "female",
+  "birth": {
+    "date": "1725-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1725].\n\nCasament: amb José Balagué Saragosí de Tortosa [1720].\n\nFills: José, Paulino, Juan Jayme [1763], Teresa, Josefa i María.\n\nDefunció: el 4 de febrer de 1798 a Tortosa.\n\nTestament de Teresa Grego Christofol conyuge de José Balagué Saragosí. Vol ser enterrada a Tortosa al mateix lloc que el marit. Lega 10 lliures de plata a cada fill, la resta de testament es identic al del marit, es a dir, heru universal el fill José. Signat el 4 de juliol de 1795. Fa un altre testament el 14 de setembre de 1797.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

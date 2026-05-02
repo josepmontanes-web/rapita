@@ -1,0 +1,78 @@
+{
+  "id": "2302_andres_garcia_beltran",
+  "source_id": "2302",
+  "row_ref": "2302. Andrés García Beltrán",
+  "name": "Andrés García Beltrán",
+  "gender": "male",
+  "birth": {
+    "date": "1837-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1848-01-04",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2377_jose_garcia_valero",
+      "580_manuela_beltran_asnar"
+    ],
+    "father": "2377_jose_garcia_valero",
+    "mother": "580_manuela_beltran_asnar",
+    "spouse": [],
+    "children": [
+      "2320_francisco_garcia_garcia"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José García Valero",
+      "Manuela Beltran Asnar"
+    ],
+    "father_name": "José García Valero",
+    "mother_name": "Manuela Beltrán Asnar",
+    "spouse_names": [],
+    "children_names": [
+      "Francisco García García"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1837].\n\nDefunció: el 4 de gener de 1848 a la Ràpita. Va morir als 10 anys i 4 mesos.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

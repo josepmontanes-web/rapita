@@ -1,0 +1,68 @@
+{
+  "id": "379_miguel_balada_roig",
+  "source_id": "379",
+  "row_ref": "379. Miguel Balada Roig",
+  "name": "Miguel Balada Roig",
+  "gender": "male",
+  "birth": {
+    "date": "1860-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1860].\n\nProfessió: jornaler.\n\nCasament: el 19 de desembre de 1885 amb Josefa Cavallé Fumadó de l'Enveja [1865]. Es casa als 25 anys. Testimonis: Lorenzo Reverté i Agustín Abella.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "135_tomas_anguera_subirats",
+  "source_id": "135",
+  "row_ref": "135. Tomás Anguera Subirats",
+  "name": "Tomás Anguera Subirats",
+  "gender": "male",
+  "birth": {
+    "date": "1846-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1846-10-21",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "131_jayme_anguera_sancho",
+      "5203_madalena_subirats_obiol"
+    ],
+    "father": "131_jayme_anguera_sancho",
+    "mother": "5203_madalena_subirats_obiol",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Jayme Anguera Sancho",
+      "Madalena Subirats Obiol"
+    ],
+    "father_name": "Jayme Anguera Sancho",
+    "mother_name": "Madalena Subirats Obiol",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  [aprox. 1846].\n\nDefunció: el 21 d'octubre de 1846 a la Ràpita. Va morir als 9 mesos de \"enfermedad crónica\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

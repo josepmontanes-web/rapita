@@ -1,0 +1,86 @@
+{
+  "id": "3362_andres_mies_guinjuan",
+  "source_id": "3362",
+  "row_ref": "3362. Andrés Míes Guinjuan",
+  "name": "Andrés Míes Guinjuan",
+  "gender": "male",
+  "birth": {
+    "date": "1805-11-23",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1846-08-03",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3363_sebastian_mies_montes"
+    ],
+    "father": "3363_sebastian_mies_montes",
+    "mother": null,
+    "spouse": [
+      "2356_agustina_garcia_puchol"
+    ],
+    "children": [
+      "3350_jose_carlos_mies_garcia",
+      "3351_agustina_mies_garcia",
+      "3352_agustina_mies_garcia",
+      "3353_andres_mies_garcia"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Sebastián Míes Montes",
+      "Antonia Guinjuan Ribé"
+    ],
+    "father_name": "Sebastián Míes Montes",
+    "mother_name": "Antonia Guinjuan Ribé",
+    "spouse_names": [
+      "Agustina García Puchol"
+    ],
+    "children_names": [
+      "José Carlos Míes García",
+      "Agustina Míes García",
+      "Andrés Míes García"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Andrés Verge",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 23 de novembre de 1805 a la Ràpita.\n\nPadrins: Andrés Verge i Vicenta Montserrat.\n\nCasament: l'11 de gener de 1835 amb Agustina García Puchol de Vinaròs [1807].\n\nFills: José Carlos [1835], Agustina [1837], Agustina [1840] i Andrés [1846].\n\nDefunció: el 3 d'agost de 1846 a la Ràpita. \"Murió de una Leucoflamaria. Se enterró en el mismo día por querer de todos pues que reventó y había peligro de infestación\". \"Testó en poder de Vicente Sabaté Ecónomo\". Va morir a les 5 de la tarda.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

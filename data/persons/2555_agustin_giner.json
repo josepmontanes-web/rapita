@@ -1,0 +1,74 @@
+{
+  "id": "2555_agustin_giner",
+  "source_id": "2555",
+  "row_ref": "2555. Agustín Giner",
+  "name": "Agustín Giner",
+  "gender": "male",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Vinaròs"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2585_cinta_giner_ramos",
+      "2586_teresa_giner_ramos"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Cinta Giner Ramos",
+      "Teresa Giner Ramos"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [o a la Ràpita] [aprox. 1820].\n\nCasament: amb Josefa Ramos d'Amposta [ o Vinaròs] [1820].\n\nFills: Cinta [1842], Teresa [1846], Bernardina [1850] i Agustina [1850].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

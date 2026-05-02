@@ -1,0 +1,73 @@
+{
+  "id": "3943_amalia_pino_chiscas",
+  "source_id": "3943",
+  "row_ref": "3943. Amalia Pino Chiscas",
+  "name": "Amalia Pino Chiscas",
+  "gender": "female",
+  "birth": {
+    "date": "1844-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1845-10-27",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3935_victorio_pino_aliau"
+    ],
+    "father": "3935_victorio_pino_aliau",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Victorio Pino Aliau",
+      "Concepción Chiscas"
+    ],
+    "father_name": "Victorio Pino",
+    "mother_name": "Concepción Chiscas",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1844]. \n\nDefunció: el 27 d'octubre de 1845 a la Ràpita. Va morir pàrvul d'un any.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

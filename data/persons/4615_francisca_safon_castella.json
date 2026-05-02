@@ -1,0 +1,74 @@
+{
+  "id": "4615_francisca_safon_castella",
+  "source_id": "4615",
+  "row_ref": "4615. Francisca Safon Castellà",
+  "name": "Francisca Safon Castellà",
+  "gender": "female",
+  "birth": {
+    "date": "1821-10-04",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1823-08-14",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4637_mariano_safon_pasqual",
+      "1234_josefa_castella_colomines"
+    ],
+    "father": "4637_mariano_safon_pasqual",
+    "mother": "1234_josefa_castella_colomines",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Mariano Safon Pasqual",
+      "Josefa Castellà Colomines"
+    ],
+    "father_name": "Mariano Safon Pasqual",
+    "mother_name": "Josefa Castellà Colomines",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Josef Safon",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 4 d'octubre de 1821 a la Ràpita.\n\nPadrins: José Safont i Francisca Colomines.\n\nDefunció: el 14 d'agost de 1823 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "5456_joaquin_ventura_ferrando",
+  "source_id": "5456",
+  "row_ref": "5456. Joaquín Ventura Ferrando",
+  "name": "Joaquín Ventura Ferrando",
+  "gender": "male",
+  "birth": {
+    "date": "1790-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1791-10-19",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5456_joaquin_ventura_ferrando"
+    ],
+    "father": "5456_joaquin_ventura_ferrando",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "5456_joaquin_ventura_ferrando"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Ventura Ferrando",
+      "Ignes Ferrando"
+    ],
+    "father_name": "Joaquín Ventura",
+    "mother_name": "Ignes Ferrando",
+    "spouse_names": [],
+    "children_names": [
+      "Joaquín Ventura Ferrando"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1790].\n\nDefunció: el 19 d'octubre de 1791 a la Ràpita. Va morir pàrvul.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

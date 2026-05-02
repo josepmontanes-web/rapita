@@ -1,0 +1,81 @@
+{
+  "id": "2127_sebastian_fibla_fibla",
+  "source_id": "2127",
+  "row_ref": "2127. Sebastian Fibla Fibla",
+  "name": "Sebastian Fibla Fibla",
+  "gender": "male",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2127_sebastian_fibla_fibla"
+    ],
+    "father": "2127_sebastian_fibla_fibla",
+    "mother": null,
+    "spouse": [
+      "576_josefa_bellobi_berneda"
+    ],
+    "children": [
+      "2127_sebastian_fibla_fibla"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Sebastian Fibla Fibla",
+      "Maria Antonia Fibla"
+    ],
+    "father_name": "Sebastian Fibla",
+    "mother_name": "Maria Antonia Fibla",
+    "spouse_names": [
+      "Josefa Bellobi Berneda"
+    ],
+    "children_names": [
+      "Sebastian Fibla Fibla"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1820].\n\nCasament: el 28 de novembre de 1845 amb Josefa Bellovi Berneda de Tortosa [1823]. Quan es casa es veí d'Alcanar.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "4792_paula_sanchez_reverter",
+  "source_id": "4792",
+  "row_ref": "4792. Paula Sánchez Reverter",
+  "name": "Paula Sánchez Reverter",
+  "gender": "female",
+  "birth": {
+    "date": "1824-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4739_dionisio_sanchez_ferre",
+      "4278_agustina_reverter_gonzalez"
+    ],
+    "father": "4739_dionisio_sanchez_ferre",
+    "mother": "4278_agustina_reverter_gonzalez",
+    "spouse": [
+      "914_ramon_cabrera_martinez"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Dionisio Sánchez Ferré",
+      "Agustina Reverter González"
+    ],
+    "father_name": "Dionisio Sánchez Ferré",
+    "mother_name": "Agustina Reverter Gonzalez",
+    "spouse_names": [
+      "Ramon Cabrera Martínez"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1824]. \n\nCasament: l'1 d'octubre de 1842 amb Ramón Cabrera Martínez d'Amposta [1823].\n\nFills: Bautista [1845] i Ramón [1846].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

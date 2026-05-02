@@ -1,0 +1,93 @@
+{
+  "id": "2062_miguel_ferre_ortiz",
+  "source_id": "2062",
+  "row_ref": "2062. Miguel Ferré Ortiz",
+  "name": "Miguel Ferré Ortiz",
+  "gender": "male",
+  "birth": {
+    "date": "1795-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2028_teresa_ferre_fabregat",
+      "2029_francisca_lorenza_ferre_fabregat",
+      "2030_maria_ana_ferrer_fabregat",
+      "2031_valentin_ferrer_fabregat",
+      "2032_josefa_ferrer_fabregat",
+      "2033_pascuala_fernanda_ferrer_fabregat",
+      "2034_pedro_ferrer_fabregat",
+      "2035_agustina_esperanza_ferre_fabregat",
+      "2036_miguel_ferre_fabregat"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joseph Ferré",
+      "Cecilia Ortiz"
+    ],
+    "father_name": "Joseph Ferré",
+    "mother_name": "Cecilia Ortiz",
+    "spouse_names": [
+      "Teresa Fabregat Mateu"
+    ],
+    "children_names": [
+      "Teresa Ferré Fabregat",
+      "Francisca Lorenza Ferré Fabregat",
+      "Maria Ana Ferrer Fabregat",
+      "Valentín Ferrer Fabregat",
+      "Josefa Ferrer Fabregat",
+      "Pascuala Fernanda Ferrer Fabregat",
+      "Pedro Ferrer Fabregat",
+      "Agustina Esperanza Ferré Fabregat",
+      "Miguel Ferré Fabregat"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1795].\n\nCasament: el 3 de gener de 1818 amb Teresa Fabregat Mateu de la Ràpita [1797].\n\nFills: Pedro [1818], Miguel [1820], Teresa [1823], Agustina Esperanza [1825], Francisca [1827], María Ana [1829], Valentín [1831], Josefa [1834] i Pascuala [1836].\n\nDe l'1 de juliol de 1834 al 31 de juliol de 1839 ha de paga un lloguer de 28 Rs mensuals per la casa 5 de la mançana 2. (AGP.PER.LEG.1073/23 [Juan Vecino]).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

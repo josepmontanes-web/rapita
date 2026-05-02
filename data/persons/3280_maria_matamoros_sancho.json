@@ -1,0 +1,73 @@
+{
+  "id": "3280_maria_matamoros_sancho",
+  "source_id": "3280",
+  "row_ref": "3280. Maria Matamoros Sancho",
+  "name": "Maria Matamoros Sancho",
+  "gender": "female",
+  "birth": {
+    "date": "1785-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1845-03-03",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Matamoros",
+      "Maria Sancho"
+    ],
+    "father_name": "José Matamoros",
+    "mother_name": "Maria Sancho",
+    "spouse_names": [
+      "José Sancho"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1785]. \n\nCasament: amb José Sancho d'Alcanar.\n\nFills: Miguel (Alcanar) [1810].\n\nDefunció: el 3 de març de 1845 a la Ràpita. Va morir als 60 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

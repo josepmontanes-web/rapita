@@ -1,0 +1,97 @@
+{
+  "id": "2232_maria_forner_felip",
+  "source_id": "2232",
+  "row_ref": "2232. Maria Forner Felip",
+  "name": "Maria Forner Felip",
+  "gender": "female",
+  "birth": {
+    "date": "1763-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1831-09-08",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4259_francisco_reverter_forner"
+    ],
+    "father": "4259_francisco_reverter_forner",
+    "mother": null,
+    "spouse": [
+      "4177_agustin_reverter",
+      "5538_jacinto_vidal_palos"
+    ],
+    "children": [
+      "4258_antonio_reverter_forner",
+      "4259_francisco_reverter_forner",
+      "4260_jose_reverter_forner",
+      "4261_juan_reverter_forner",
+      "4262_maria_reverter_forner",
+      "4263_teresa_reverter_forner",
+      "4264_miguel_reverter_forner",
+      "4265_agustin_reverter_forner"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Reverter Forner",
+      "Teresa Felip"
+    ],
+    "father_name": "Francisco Forner",
+    "mother_name": "Teresa Felip",
+    "spouse_names": [
+      "Agustín Reverter",
+      "Jacinto Vidal Palos"
+    ],
+    "children_names": [
+      "Antonio Reverter Forner",
+      "Francisco Reverter Forner",
+      "José Reverter Forner",
+      "Juan Reverter Forner",
+      "María Reverter Forner",
+      "Teresa Reverter Forner",
+      "Miguel Reverter Forner",
+      "Agustín Reverter Forner"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1763].\n\nCasament: amb Agustín Reverter d'Alcanar [1765].\n\nFills: Francisco (Alcanar) [1788], Miguel (Alcanar) [1790], José (Alcanar) [1794], Juan (Alcanar) [1795], Antonio (Alcanar) [1800], Agustín (Alcanar) [1800], María (Alcanar) [1801] i Teresa (Alcanar) [1802].\n\nCasament: el 13 de març de 1815 amb Jacinto Vidal Palos de la Pobla de Benifassà [1765]. Es casa als 44 anys i es diu María Ferrer però diu que es vidua d'Agustín Reverter.\n\nDefunció: el 9 d'agost de 1831 a la Ràpita. Va morir als 68 anys de \"dolor reumático\". No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

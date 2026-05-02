@@ -1,0 +1,77 @@
+{
+  "id": "4032_maria_prima_fibla",
+  "source_id": "4032",
+  "row_ref": "4032. Maria Prima Fibla",
+  "name": "Maria Prima Fibla",
+  "gender": "female",
+  "birth": {
+    "date": "1796-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2120_josefa_fibla"
+    ],
+    "father": null,
+    "mother": "2120_josefa_fibla",
+    "spouse": [
+      "2658_vicente_gonzalvez_arcis"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Ramon Prima",
+      "Josefa Fibla"
+    ],
+    "father_name": "Ramon Prima",
+    "mother_name": "Josefa Fibla",
+    "spouse_names": [
+      "Vicente Gonzalvez Arcís"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1796]. \n\nCasament: el 2 de març de 1822 amb Vicente Gonzalvez Arcís. Es casa als 26 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

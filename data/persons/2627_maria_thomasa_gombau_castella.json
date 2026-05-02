@@ -1,0 +1,74 @@
+{
+  "id": "2627_maria_thomasa_gombau_castella",
+  "source_id": "2627",
+  "row_ref": "2627. Maria Thomasa Gombau Castellà",
+  "name": "Maria Thomasa Gombau Castellà",
+  "gender": "female",
+  "birth": {
+    "date": "1824-04-16",
+    "place": "SC"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2643_vicente_gombau_ortiz",
+      "1247_teresa_castella_dalmau"
+    ],
+    "father": "2643_vicente_gombau_ortiz",
+    "mother": "1247_teresa_castella_dalmau",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Gombau Ortiz",
+      "Teresa Castellà Dalmau"
+    ],
+    "father_name": "Vicente Gombau Ortiz",
+    "mother_name": "Teresa Castellà Dalmau",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Castellà",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 16 d'abril de 1824 a la Ràpita.\n\nPadrins: Francisco Castellà i Tomasa Castellà.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

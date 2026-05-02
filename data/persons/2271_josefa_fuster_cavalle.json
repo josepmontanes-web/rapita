@@ -1,0 +1,75 @@
+{
+  "id": "2271_josefa_fuster_cavalle",
+  "source_id": "2271",
+  "row_ref": "2271. Josefa Fuster Cavallé",
+  "name": "Josefa Fuster Cavallé",
+  "gender": "female",
+  "birth": {
+    "date": "1763-01-01",
+    "place": "Vinaròs"
+  },
+  "death": {
+    "date": "1823-03-02",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3383_joaquin_milian"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Fuster",
+      "Rita Cavallé"
+    ],
+    "father_name": "Juan Fuster",
+    "mother_name": "Rita Cavallé",
+    "spouse_names": [
+      "Joaquín Milian"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1763].\n\nCasament: el 24 de novembre de 1795 amb Joaquín Milian d'Almassora (Castelló) [1753]. Testimonis: Joaquín Traillero i Mariano Añó.\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Fonda Vella núm. 2 (ACA BGRP Cajas 34).\n\nDefunció: el 2 de març de 1823 a la Ràpita. Va morir als 60 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

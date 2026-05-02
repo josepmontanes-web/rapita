@@ -1,0 +1,74 @@
+{
+  "id": "1650_ventura_josefa_cruelles_pique",
+  "source_id": "1650",
+  "row_ref": "1650. Ventura Josefa Cruelles Piqué",
+  "name": "Ventura Josefa Cruelles Piqué",
+  "gender": "female",
+  "birth": {
+    "date": "1806-05-23",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1651_juan_cruelles_remisa",
+      "3974_mariana_pique_vayeta"
+    ],
+    "father": "1651_juan_cruelles_remisa",
+    "mother": "3974_mariana_pique_vayeta",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Cruelles Remisa",
+      "Mariana Piqué Vayeta"
+    ],
+    "father_name": "Juan Cruelles Remisa",
+    "mother_name": "Mariana Piqué Vayeta",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Andreu Verge",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 23 de maig de 1806 a la Ràpita.\n\nPadrins: Andreu Verge i Doña Ventura Prados.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

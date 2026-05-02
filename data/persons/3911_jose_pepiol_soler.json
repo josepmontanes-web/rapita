@@ -1,0 +1,86 @@
+{
+  "id": "3911_jose_pepiol_soler",
+  "source_id": "3911",
+  "row_ref": "3911. José Pepiol Soler",
+  "name": "José Pepiol Soler",
+  "gender": "male",
+  "birth": {
+    "date": "1766-01-01",
+    "place": "La Riera"
+  },
+  "death": {
+    "date": "1818-04-22",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3864_joaquin_pepiol"
+    ],
+    "father": "3864_joaquin_pepiol",
+    "mother": null,
+    "spouse": [
+      "4857_pascuala_sancho_bonet"
+    ],
+    "children": [
+      "3863_juan_pepiol",
+      "3909_lorenzo_serafin_pipiol_sancho",
+      "3910_juan_bautista_pepiol_sancho"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Pepiol",
+      "Margarita Soler"
+    ],
+    "father_name": "Joaquín Pepiol",
+    "mother_name": "Margarita Soler",
+    "spouse_names": [
+      "Josefa Valentí",
+      "Pascuala Sancho Bonet"
+    ],
+    "children_names": [
+      "Juan Pepiol",
+      "Lorenzo Serafín Pipiol Sancho",
+      "Juan Bautista Pepiol Sancho"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a La Riera de Gaià (Tarragona) [aprox. 1766]. \n\nCasament: amb Josefa Valentí.\n\nCasament: l'1 de febrer de 1812 amb Pascuala Sancho Bonet d'Amposta [1778]. Es casa als 46 anys. Testimonis: Blas Sanchís i Pedro Sancho.\n\nFills: Juan Bautista [1813] i Serafín [1817].\n\nDefunció: el 22 d'abril de 1818 a la Ràpita. Fa testament. \"Para bien de almas 8 duros\".\n\nPodria ser germanastre de Blas Pepiol Masdeu [1780], però no es segur.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

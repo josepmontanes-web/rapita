@@ -1,0 +1,68 @@
+{
+  "id": "462_jayme_balague_saragosi",
+  "source_id": "462",
+  "row_ref": "462. Jayme Balagué Saragosí",
+  "name": "Jayme Balagué Saragosí",
+  "gender": "male",
+  "birth": {
+    "date": "1720-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "El 6 de novembre de 1789 Jayme Balaguer pescador fa testament a Tortosa. Es fadrí i fill de Juan Jayme Balaguer i Teresa Saragocí difunts. Nomena Albaceas testementaris al Reverendo Paulino Balaguer, a José Balaguer pescador germà, al patró Jayme Balaguer y a Ventura Balaguer pescador nebots. Vol ser enterrat a la Cofradia del Rosari amb la sistència de 50 clergues i els tocs de campana corresponens. Li deixa 20 lliures de plata a la seua germana Rosa Balaguer vidua de Gaspar Comí pescador. Deixa tota la roba blanca a la seua neboda Rosalea Balaguer dona de José Antonio Escubero llaurador de la Senia. Deixa 4 lliure de plata a Francisca Balaguer menor de edat filla del seu nebot Jayme Balaguer. Al seu nebot reverendo Paulino Balaguer li deixa habitació a la casa que té al carrer de la Sebina a Tortosa. Deixa al seu germà José Balaguer i a la dona del seu germà Teresa Grego l'usdefruit de la mitat de la terra que té a la Partida de la Cruz de Tortosa i que mors els dos passi al meu hereu. Nomena com a hereu universal al seu nebot Ventura Balaguer pescador, però li imposa que ha de cedir la mitat de la casa que té al carrer de la Sebina al seu tio José Balaguer.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "2118_mariana_feu",
+  "source_id": "2118",
+  "row_ref": "2118. Mariana Feu",
+  "name": "Mariana Feu",
+  "gender": "female",
+  "birth": {
+    "date": "1746-01-01",
+    "place": "Barcelona"
+  },
+  "death": {
+    "date": "1807-08-21",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "D. Manuel Benlloch Lasos"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Barcelona [aprox. 1746].\n\nCasament: amb Don Manuel Benlloch Lasos de Campanar (València) [1740].\n\nFills: Mariana (Rialp) [aprox 1770], Manuel (Rialp) [aprox 1780], Mariano [1783] i Buenaventura (Rialp) [aprox 1785].\n\nA l'estat de veïns de setembre de 1798 diu que viuen a la casa núm. 14 de la \"Calle Mayor\" (ACA BGRP Cajas 34).\n\nDefunció: el 21 d'agost de 1807 a la Ràpita. No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

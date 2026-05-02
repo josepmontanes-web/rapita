@@ -1,0 +1,96 @@
+{
+  "id": "805_agustina_bort_lleti",
+  "source_id": "805",
+  "row_ref": "805. Agustina Bort Lletí",
+  "name": "Agustina Bort Lletí",
+  "gender": "female",
+  "birth": {
+    "date": "1796-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "802_jose_bort",
+      "2933_magdalena_lleti"
+    ],
+    "father": "802_jose_bort",
+    "mother": "2933_magdalena_lleti",
+    "spouse": [
+      "4895_jose_sancho_gil"
+    ],
+    "children": [
+      "4859_joaquin_sancho_bort",
+      "4860_fernando_sancho_bort",
+      "4861_micaela_sancho_bort",
+      "4862_juan_bautista_sancho_bort",
+      "4863_maria_lorenza_sancho_bort",
+      "4864_manuela_josefa_sancho_bort",
+      "4865_maria_teresa_sancho_bort",
+      "4866_francisca_sancho_bort"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Bort",
+      "Magdalena Lletí"
+    ],
+    "father_name": "José Bort",
+    "mother_name": "Magdalena Lletí",
+    "spouse_names": [
+      "José Sancho Gil"
+    ],
+    "children_names": [
+      "Joaquín Sancho Bort",
+      "Fernando Sancho Bort",
+      "Micaela Sancho Bort",
+      "Juan Bautista Sancho Bort",
+      "María Lorenza Sancho Bort",
+      "Manuela Josefa Sancho Bort",
+      "Maria Teresa Sancho Bort",
+      "Francisca Sancho Bort"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1796].\n\nCasament: amb José Sancho Gil d'Alcanar [1790].\n\nFills: Micaela (Alcanar) [1818], Juan [1820], Fernando [1826], Joaquín [1828], María Lorenza [1829], María Teresa [1831], Francisca [1834] i Manuela Josefa [1839].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

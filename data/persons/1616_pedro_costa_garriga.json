@@ -1,0 +1,79 @@
+{
+  "id": "1616_pedro_costa_garriga",
+  "source_id": "1616",
+  "row_ref": "1616. Pedro Costa Garriga",
+  "name": "Pedro Costa Garriga",
+  "gender": "male",
+  "birth": {
+    "date": "1825-01-01",
+    "place": "Orriols"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3087_casilda_magrina_rosales"
+    ],
+    "children": [
+      "1617_enrique_costa_magrina"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Costa",
+      "Francisca Garriga"
+    ],
+    "father_name": "José Costa",
+    "mother_name": "Francisca Garriga",
+    "spouse_names": [
+      "Casilda Magriñá Rosales"
+    ],
+    "children_names": [
+      "Enrique Costa Magriñá"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Orriols [aprox. 1825].\n\nCasament: el 25 de juny de 1844 amb Casilda Magriñá Rosales de la Ràpita [1823].\n\nFills: Enrique [1848], Teresa [1849] i Amalia [1852].\n\nA D. Antonio Escardó Llovera patrón de la matricula de la ciudad de Tortosa todo aquel solar de terreno para edificar de extensión de 5700 palmos catalanes cuadrados superficiales sito en la calle de San Francisco de la Población de San Carlos de la Rápita, lindante con dicha calle, con la calle de la Dársena del antiguo canal y con huerto de D. Pedro Costa.[]\n7 de septiembre de 1857.\n\nPrestamo y obligación: Pedro Costa tratante y Casilda Magriñá consortes confesaron deber a D. Buenaventura Baluenga cirujano la cantidad de 3000 reales prestados con promesa de devolverlos dentro de 4 años contaderos del día de la otorgación de la … y en el entretanto podrá el Baluenga servirse de un pedazo de casa en los bajos que era tienda café de aquella sita en San Carlos y Plaza Mayor que toca con Dª Ramona Ayguavives viuda de D. Ignacio Ramón pudiendo el referido Baluenga servirse de la … y del pozo para sacar agua de la que existía con dicha casa. Y fue pactado que si después de los referidos 4 años pasasen a enajenar tanto dicha tienda como el resto de la casa será preferido el referido D. Buenaventura Baluenga a todos los demás compradores y así mismo fue pactado que en caso que no vendiese la … casa o tienda será obligación de los consortes Costa y Magriñá facilitar al Baluenga una habitación de igual capacidad en las mismas fachadas que las antes deslindadas durando esta obligación únicamente por el tiempo de 8 años para ejercer la tienda de barbera pagando su este último … al antedicho Baluenga 24 reales… 5 de febrero de 1859. Esc. Lorenzo Figueras de Alcanar.\n\nVenta: de Pedro Costa y Casilda Magriñá consortes a Antonio Forcadell, de una casita en la calle de Pescadores marcada con el número 33 confrontante por un lado con Juan Balagué y por otro con Ana María nuera de Isidro Bosch. Por precio de 600 reales. 17 de octubre de 1859. Documento privado otorgado en San Carlos y firmado por los vendedores y los testigos D José Francisco Bernis y D. José Alba.\n\nVenta: de Pedro Costa y Casilda Magriñá de San Carlos de la Rápita a Bartolomé Borrás y Carbó de Id., de casa en la Plaza Mayor que hace esquina hasta la casa de Narciso Seck por la parte esta del medio día … otra esquina con su puerta exterior que tiene a dicha plaza que contiene 26 palmos de luz y desde dicha Plaza Mayor a la parte del sisar o sitar la distancia de unos 43 palmos dividiendo con los mismos vendedores mediante un tabique que está a unos 15 palmos de distancia de la puerta que da al N; y comprendiendo toda esta distancia en la parte de los bajos de dicha casa con dirección hacia arriba vulgarmente dicho hasta el cielo, comprendiendo el primer piso y guardilla que linda también con dicha casa de Narciso Seck. Vendiendole dicha parte de casa en la expresada conformidad y en el estado en que se halla en la actualidad juntamente con la mitad del pozo existente en dicha casa en la parte que les queda: debiendo empero venir a cargo del expresado comprador el hacer las obras necesarias para que este pueda sacar agua del mismo con lo cual quedará dicho pozo común. Cuya venta hacen todos con la obligación de dentro el término de dos meses hacer las paredes divisorias de … y que deberán hacerse de obra cocida vulgo tovots en todos los pisos o altos. Por precio de 437 duros y medio monedas españolas, de los cuales en cuanto a 300 duros confiesan los vendedores haberlos recibido del comprador antes de la otorgación de la escritura y por los restantes 137 duros y medio del importe de esta venta quedó convenido entre los vendedores y el comprador que esté dentro el término de un mes se obliga a … y quitar, poniendo … la cantidad que falte aquel censo a que estaba afecta toda la arriba referida casa según dicha escritura de establecimiento y parte del cual tenían ya … y quitado los vendedores según carta de pago que obra en su poder … otorgaron a los 26 de noviembre del año 1856 con el Juez de Hacienda de la Provincia de Tarragona … ante Eusebio Fontanilles. 20 de diciembre de 1859. Esc. Juan Ventosa de Amposta. Valor 8750, cargas 2750 y valor líquido 6000.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "770_rosa_borras_carbo",
+  "source_id": "770",
+  "row_ref": "770. Rosa Borràs Carbó",
+  "name": "Rosa Borràs Carbó",
+  "gender": "female",
+  "birth": {
+    "date": "1817-08-30",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "788_tomas_borras_pauls"
+    ],
+    "father": "788_tomas_borras_pauls",
+    "mother": null,
+    "spouse": [
+      "3359_sebastian_mies_guinjuan"
+    ],
+    "children": [
+      "757_felix_cristobal_borras"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomas Borràs Pauls",
+      "Tadea Carbó Fibla"
+    ],
+    "father_name": "Tomas Borràs Pauls",
+    "mother_name": "Tadea Carbó Fibla",
+    "spouse_names": [
+      "Sebastian Míes Guinjuan"
+    ],
+    "children_names": [
+      "Felix Cristobal Borràs"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Miguel Borràs",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 30 d'agost de 1817 a la Ràpita.\n\nPadrins: Miguel Borràs i Mariana Pascual.\n\nFills: Felix Cristobal Borràs [1842].\n\nCasament: el 31 d'agost de 1844 amb Sebastián Míes Guinjuan de la Ràpita [1801].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

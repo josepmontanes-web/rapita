@@ -1,0 +1,73 @@
+{
+  "id": "5465_raymunda_verge_monserrat",
+  "source_id": "5465",
+  "row_ref": "5465. Raymunda Verge Monserrat",
+  "name": "Raymunda Verge Monserrat",
+  "gender": "female",
+  "birth": {
+    "date": "1833-01-07",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5463_andres_verge_gilabert"
+    ],
+    "father": "5463_andres_verge_gilabert",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Andrés Verge Gilabert",
+      "Vicenta Montserrat Gonbau"
+    ],
+    "father_name": "Andrés Verge Gilabert",
+    "mother_name": "Vicenta Montserrat Gonbau",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Prudencio Verge",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 7 de gener de 1833 a la Ràpita.\n\nPadrins: Prudencio Verge i Magdalena García.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

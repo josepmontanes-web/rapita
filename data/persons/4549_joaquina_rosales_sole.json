@@ -1,0 +1,77 @@
+{
+  "id": "4549_joaquina_rosales_sole",
+  "source_id": "4549",
+  "row_ref": "4549. Joaquina Rosales Solé",
+  "name": "Joaquina Rosales Solé",
+  "gender": "female",
+  "birth": {
+    "date": "1767-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1847-10-19",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5170_teresa_sole_santapau"
+    ],
+    "father": null,
+    "mother": "5170_teresa_sole_santapau",
+    "spouse": [
+      "626_vicente_beltran_minana"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Rosales",
+      "Teresa Solé Santapau"
+    ],
+    "father_name": "Antonio Rosales",
+    "mother_name": "Teresa Solé Santapau",
+    "spouse_names": [
+      "Vicente Beltran Miñana"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1767]. \n\nCasament: el 2 de juny de 1823 amb Vicente Beltran Miñana d'Alcalà de Xivert [1760].\n\nDefunció: el 19 d'octubre de 1847 a la Ràpita. Va morir als 80 anys. No fa testament.\n\nEs germana d'Antonio Rosales Solé [1756].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "318_josefa_balada",
+  "source_id": "318",
+  "row_ref": "318. Josefa Balada",
+  "name": "Josefa Balada",
+  "gender": "female",
+  "birth": {
+    "date": "1735-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1795-12-26",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1735].\n\nDefunció: el 26 de desembre de 1795 a la Ràpita. No fa testament perquè diu que ja el té fet.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "4785_martina_sanches_pascual",
+  "source_id": "4785",
+  "row_ref": "4785. Martina Sanches Pascual",
+  "name": "Martina Sanches Pascual",
+  "gender": "female",
+  "birth": {
+    "date": "1822-03-16",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4741_francisco_sanchez_ferre",
+      "3830_juliana_pasqual_fuster"
+    ],
+    "father": "4741_francisco_sanchez_ferre",
+    "mother": "3830_juliana_pasqual_fuster",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Sánchez Ferré",
+      "Juliana Pasqual Fuster"
+    ],
+    "father_name": "Francisco Sánchez Ferré",
+    "mother_name": "Juliana Pasqual Fuster",
+    "spouse_names": [
+      "Miguel Rumeu Reverté"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Martín Galí",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 16 de març de 1822 a la Ràpita.\n\nPadrins: Martín Galí \"Dependiente de este Resguardo\" i Francisca Pascual.\n\nCasament: el 8 de gener de 1848 amb Miguel Romeu Reverté de la Ràpita [1824].\n\nCasament: el 3 de gener de 1874 amb José Barrera Sorella d'Ulldecona [1824].\n\nDefunció: el 31 d'octubre de 1877 a la Ràpita de \"inflamación crónica de los riñones\". Declara la defunció la seua neboda Francisca Arbó, sap escriure, signa la declaració.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

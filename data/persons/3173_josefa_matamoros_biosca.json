@@ -1,0 +1,84 @@
+{
+  "id": "3173_josefa_matamoros_biosca",
+  "source_id": "3173",
+  "row_ref": "3173. Josefa Matamoros Biosca",
+  "name": "Josefa Matamoros Biosca",
+  "gender": "female",
+  "birth": {
+    "date": "1821-03-06",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3250_jose_matamoros_reverter",
+      "706_agustina_biosca_cid"
+    ],
+    "father": "3250_jose_matamoros_reverter",
+    "mother": "706_agustina_biosca_cid",
+    "spouse": [
+      "2719_bautista_guardia_bort",
+      "5399_juan_torta_subirats"
+    ],
+    "children": [
+      "2732_agustina_guardia_matamoros"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Matamoros Reverter",
+      "Agustina Biosca Cid"
+    ],
+    "father_name": "José Matamoros Reverter",
+    "mother_name": "Agustina Biosca Cid",
+    "spouse_names": [
+      "Bautista Guardia Bort",
+      "Juan Torta Subirats"
+    ],
+    "children_names": [
+      "Agustina Guardia Matamoros"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Antonio Talarn",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 6 de març de 1821 a la Ràpita.\n\nPadrins: Antonio Talarn i Isabel López.\n\nCasament: el 9 d'abril de 1842 amb Bautista Guardia Bort de la Ràpita [1814].\n\nFills: Agustina [1847].\n\nCasament: el 20 de juliol de 1853 amb Juan Torta Subirats de la Ràpita [1832]. Testimonis: Vicente Baile i Miguel Baile.\n\nFills: Cinta [1857] i Felix [1858].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

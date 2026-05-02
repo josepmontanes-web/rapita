@@ -1,0 +1,68 @@
+{
+  "id": "1974_antoni_faura_mayor",
+  "source_id": "1974",
+  "row_ref": "1974. Antoni Faura Mayor",
+  "name": "Antoni Faura Mayor",
+  "gender": "male",
+  "birth": {
+    "date": "1890-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1890].\n\nProfessió: carrera judicial.\n\nCasament: amb Cinta Sanmartin Peralta.\n\nFills: Antoni, Valentí i Xavier advocats i Josep Lluis farmaceutic.\n\nDefunció: el 7 de juliol de 1974 a Tortosa. Jutge comarcal 1957-1960.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

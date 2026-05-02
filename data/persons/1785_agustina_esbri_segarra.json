@@ -1,0 +1,75 @@
+{
+  "id": "1785_agustina_esbri_segarra",
+  "source_id": "1785",
+  "row_ref": "1785. Agustina Esbrí Segarra",
+  "name": "Agustina Esbrí Segarra",
+  "gender": "female",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Ulldecona"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "282_jose_arnau_esbri"
+    ],
+    "father": "282_jose_arnau_esbri",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Arnau Esbrí",
+      "Francisca Segarra"
+    ],
+    "father_name": "José Esbrí",
+    "mother_name": "Francisca Segarra",
+    "spouse_names": [
+      "Francisco Tomàs Vidal"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Ulldecona [aprox. 1800].\n\nCasament: el 28 de novembre de 1826 amb Francisco Tomás Vidal de la Ràpita [1791].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

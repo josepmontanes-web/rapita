@@ -1,0 +1,79 @@
+{
+  "id": "2274_tomasa_gala_pol",
+  "source_id": "2274",
+  "row_ref": "2274. Tomasa Gala Pol",
+  "name": "Tomasa Gala Pol",
+  "gender": "female",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "631_domingo_beltran_querol"
+    ],
+    "father": "631_domingo_beltran_querol",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "72_felipa_alegret_gala",
+      "73_maria_consuelo_alegret_gala"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Domingo Beltrán Querol",
+      "Tomasa"
+    ],
+    "father_name": "Domingo",
+    "mother_name": "Tomasa",
+    "spouse_names": [],
+    "children_names": [
+      "Felipa Alegret Gala",
+      "María Consuelo Alegret Gala"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1800]\n\nCasament: amb Christoval Alegret Riba de Tortosa [1780].\n\nFills: Felipa [1824] i María Consuelo [1827].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

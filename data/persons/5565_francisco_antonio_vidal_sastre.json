@@ -1,0 +1,73 @@
+{
+  "id": "5565_francisco_antonio_vidal_sastre",
+  "source_id": "5565",
+  "row_ref": "5565. Francisco Antonio Vidal Sastre",
+  "name": "Francisco Antonio Vidal Sastre",
+  "gender": "male",
+  "birth": {
+    "date": "1798-02-20",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5538_jacinto_vidal_palos"
+    ],
+    "father": "5538_jacinto_vidal_palos",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Jacinto Vidal Palos",
+      "Theresa Sastre Borrell"
+    ],
+    "father_name": "Jacinto Vidal Palos",
+    "mother_name": "Theresa Sastre Borrell",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Francisco Stoppani",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 20 de febrer de 1798 a la Ràpita.\n\nPadrins: Don Francisco Stoppani i Doña Antonia Mir.\n\nEls pares i els iaios materns viuen a la Torre del Codonyol. El nen també neix al Codonyol.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

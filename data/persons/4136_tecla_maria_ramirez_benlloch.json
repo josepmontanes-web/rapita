@@ -1,0 +1,74 @@
+{
+  "id": "4136_tecla_maria_ramirez_benlloch",
+  "source_id": "4136",
+  "row_ref": "4136. Tecla María Ramírez Benlloch",
+  "name": "Tecla María Ramírez Benlloch",
+  "gender": "female",
+  "birth": {
+    "date": "1825-09-23",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4141_bernabe_ramirez_ruiz",
+      "665_buenaventura_benlloch_feu"
+    ],
+    "father": "4141_bernabe_ramirez_ruiz",
+    "mother": "665_buenaventura_benlloch_feu",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bernabé Ramírez Ruiz",
+      "Buenaventura Benlloch Feu"
+    ],
+    "father_name": "Bernabé Ramírez Ruiz",
+    "mother_name": "Buenaventura Benlloch Feu",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Andrés Ramirez",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 23 de setembre de 1825 a la Ràpita.\n\nPadrins: Andrés Ramírez i Dorotea Ramírez.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "4019_cinta_porres_montserrat",
+  "source_id": "4019",
+  "row_ref": "4019. Cinta Porres Montserrat",
+  "name": "Cinta Porres Montserrat",
+  "gender": "female",
+  "birth": {
+    "date": "1850-01-01",
+    "place": "l'Enveja"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a l'Enveja [aprox. 1850].\n\nCasament: el 22 de juny de 1872 amb Agustín Vidal Briciano de la Ràpita [1849]. Es casa als 22 anys. Viuen al carrer de la Cinta.\n\nFills: Francisco [1874] i Ramón [1874].\n\nDefunció: el 19 d'abril de 1879 a la Ràpita als 32 anys de \"una metro paretonitis puerperal\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

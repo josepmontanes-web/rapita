@@ -1,0 +1,74 @@
+{
+  "id": "3429_juan_bautista_miralles_serral",
+  "source_id": "3429",
+  "row_ref": "3429. Juan Bautista Miralles Serral",
+  "name": "Juan Bautista Miralles Serral",
+  "gender": "male",
+  "birth": {
+    "date": "1839-09-20",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1842-03-10",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3420_juan_bautista_miralles_gasulla",
+      "5095_francisca_serral_bedos"
+    ],
+    "father": "3420_juan_bautista_miralles_gasulla",
+    "mother": "5095_francisca_serral_bedos",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Bautista Miralles Gasulla",
+      "Francisca Serral Bedós"
+    ],
+    "father_name": "Juan Bautista Miralles Gasulla",
+    "mother_name": "Francisca Serral Bedós",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Josef Pino",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 20 de setembre de 1839 a la Ràpita.\n\nPadrins: José Pino i Josefa Balver.\n\nDefunció: el 10 de març de 1842 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

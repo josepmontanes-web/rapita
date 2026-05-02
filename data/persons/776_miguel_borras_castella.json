@@ -1,0 +1,74 @@
+{
+  "id": "776_miguel_borras_castella",
+  "source_id": "776",
+  "row_ref": "776. Miguel Borràs Castellà",
+  "name": "Miguel Borràs Castellà",
+  "gender": "male",
+  "birth": {
+    "date": "1843-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1844-12-28",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "793_miguel_borras_vernis",
+      "1181_carlina_castella_balague"
+    ],
+    "father": "793_miguel_borras_vernis",
+    "mother": "1181_carlina_castella_balague",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Borràs Vernis",
+      "Carlina Castellà Balagué"
+    ],
+    "father_name": "Miguel Borràs Bernis",
+    "mother_name": "Carlina Castellà Balagué",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1843].\n\nDefunció: el 28 de desembre de 1844 a la Ràpita. Va morir pàrvul d'un any.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

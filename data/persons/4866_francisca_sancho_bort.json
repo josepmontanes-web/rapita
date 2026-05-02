@@ -1,0 +1,78 @@
+{
+  "id": "4866_francisca_sancho_bort",
+  "source_id": "4866",
+  "row_ref": "4866. Francisca Sancho Bort",
+  "name": "Francisca Sancho Bort",
+  "gender": "female",
+  "birth": {
+    "date": "1834-11-14",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4895_jose_sancho_gil",
+      "805_agustina_bort_lleti"
+    ],
+    "father": "4895_jose_sancho_gil",
+    "mother": "805_agustina_bort_lleti",
+    "spouse": [
+      "4893_jose_sancho_garriga"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Sancho Gil",
+      "Agustina Bort Lletí"
+    ],
+    "father_name": "José Sancho Gil",
+    "mother_name": "Agustina Bort Lletí",
+    "spouse_names": [
+      "José Sancho Garriga"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Bautista Silvestre",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 14 de novembre de 1834 a la Ràpita.\n\nPadrins: Bautista Silvestre i Miguela Sancho.\n\nCasament: el 4 de desembre de 1852 amb José Sancho Garriga d'Alcanar [1829]. Testimonis: Germán Paches i Miguel Reverté.\n\nFills: Ramón [1857] i Teresa [1859].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

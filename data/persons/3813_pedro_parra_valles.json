@@ -1,0 +1,76 @@
+{
+  "id": "3813_pedro_parra_valles",
+  "source_id": "3813",
+  "row_ref": "3813. Pedro Parra Vallés",
+  "name": "Pedro Parra Vallés",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "BRUCH -BARCELONA"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3803_jose_parra_pardo"
+    ],
+    "father": "3803_jose_parra_pardo",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Parra Pardo",
+      "JOSEPHA VALLES"
+    ],
+    "father_name": "José PARRA",
+    "mother_name": "JOSEPHA VALLES",
+    "spouse_names": [
+      "Josefa SOLER",
+      "SATORRES"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: al Bruc (Barcelona) [aprox. 1800]. \n\nCasament: el 4 de març de 1820 amb Josefa Soler Satorres de la Pobla de Claramunt [1800].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

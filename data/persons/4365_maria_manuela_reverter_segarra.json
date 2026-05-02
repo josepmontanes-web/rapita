@@ -1,0 +1,73 @@
+{
+  "id": "4365_maria_manuela_reverter_segarra",
+  "source_id": "4365",
+  "row_ref": "4365. María Manuela Reverter Segarra",
+  "name": "María Manuela Reverter Segarra",
+  "gender": "female",
+  "birth": {
+    "date": "1830-06-06",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4260_jose_reverter_forner"
+    ],
+    "father": "4260_jose_reverter_forner",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Reverter Forner",
+      "Casilda Segarra Puchol"
+    ],
+    "father_name": "José Reverter Forner",
+    "mother_name": "Casilda Segarra Puchol",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Pepiol",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 6 de juny de 1830 a la Ràpita.\n\nPadrins: Francisco Pepiol i Francisca Talarn.\n\nCasament: amb Eleuterio Casajust Castellà de la Ràpita [1832].\n\nFills: Agustín [1859] i Teresa [1862].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

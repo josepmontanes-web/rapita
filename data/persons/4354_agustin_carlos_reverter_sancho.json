@@ -1,0 +1,74 @@
+{
+  "id": "4354_agustin_carlos_reverter_sancho",
+  "source_id": "4354",
+  "row_ref": "4354. Agustín Carlos Reverter Sancho",
+  "name": "Agustín Carlos Reverter Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1836-08-19",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1837-11-26",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4265_agustin_reverter_forner",
+      "4921_teresa_sancho_querol"
+    ],
+    "father": "4265_agustin_reverter_forner",
+    "mother": "4921_teresa_sancho_querol",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustín Reverter Forner",
+      "Teresa Sancho Querol"
+    ],
+    "father_name": "Agustín Reverter Forner",
+    "mother_name": "Teresa Sancho Querol",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Agustín Reverter",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 19 d'agost de 1836 a la Ràpita.\n\nPadrins: Agustín Reverter i María Reverter.\n\nDefunció: el 26 de novembre de 1837 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

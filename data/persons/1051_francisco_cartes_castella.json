@@ -1,0 +1,73 @@
+{
+  "id": "1051_francisco_cartes_castella",
+  "source_id": "1051",
+  "row_ref": "1051. Francisco Cartes Castellà",
+  "name": "Francisco Cartes Castellà",
+  "gender": "male",
+  "birth": {
+    "date": "1839-01-25",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1082_agustin_cartes_rosell"
+    ],
+    "father": "1082_agustin_cartes_rosell",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustín Cartes Rosell",
+      "Thomasa Castellà Cubina"
+    ],
+    "father_name": "Agustín Cartes Rosell",
+    "mother_name": "Thomasa Castellà Cubina",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Joseph Navarro",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 25 de gener de 1839 a la Ràpita.\n\nPadrins: José Navarro de Tortosa i Francisca Gombau.\n\nProfessió: mariner.\n\nCasament: amb Teresa Matamoros Reverté de la Ràpita [1850].\n\nFills: Francisco [1877] i María Teresa [1879].\n\nNo signa la declaració de naixement del fill al registre civil per no saber.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "id": "814_francisco_bosch_montanes",
+  "source_id": "814",
+  "row_ref": "814. Francisco Bosch Montañés",
+  "name": "Francisco Bosch Montañés",
+  "gender": "male",
+  "birth": {
+    "date": "1768-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": "1832-01-16",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "816_francisco_bosch_torta",
+      "817_susana_bosch_torta",
+      "818_francisca_bosch_torta",
+      "819_pascuala_bosch_torta",
+      "820_mariana_bosch_torta"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Bosch",
+      "Teresa Montañés"
+    ],
+    "father_name": "Francisco Bosch",
+    "mother_name": "Teresa Montañés",
+    "spouse_names": [
+      "Josefa Torta Subirats"
+    ],
+    "children_names": [
+      "Francisco Bosch Torta",
+      "Susana Bosch Torta",
+      "Francisca Bosch Torta",
+      "Pascuala Bosch Torta",
+      "Mariana Bosch Torta"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1768].\n\nCasament: amb Josefa Torta Subirats d'Amposta [1777].\n\nFills: Mariana (Amposta) [1795], Pascuala (Amposta) [1806], Susana (Amposta) [1812], Francisco (Amposta) [1815] i Francisca [1818].\n\nDefunció: el 16 de gener de 1832 a la Ràpita. Va morir als 64 anys de \"enf. cardialgia\". Fa testament davant del capellà. \"Se celebraron para bien de su alma la cantidad de 750 Rs.vllon\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

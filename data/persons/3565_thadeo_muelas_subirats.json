@@ -1,0 +1,77 @@
+{
+  "id": "3565_thadeo_muelas_subirats",
+  "source_id": "3565",
+  "row_ref": "3565. Thadeo Muelas Subirats",
+  "name": "Thadeo Muelas Subirats",
+  "gender": "male",
+  "birth": {
+    "date": "1823-11-30",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3565_thadeo_muelas_subirats"
+    ],
+    "father": "3565_thadeo_muelas_subirats",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "3565_thadeo_muelas_subirats"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Thadeo Muelas Subirats",
+      "Rita Subirats Fontanet"
+    ],
+    "father_name": "Thadeo Muelas Fontanet",
+    "mother_name": "Rita Subirats Fontanet",
+    "spouse_names": [],
+    "children_names": [
+      "Thadeo Muelas Subirats"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Vicente Ortuño",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 30 de novembre de 1823 a la Ràpita.\n\nPadrins: Vicente Ortuño i Josefa María Fontanet.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

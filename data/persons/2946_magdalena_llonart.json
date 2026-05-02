@@ -1,0 +1,70 @@
+{
+  "id": "2946_magdalena_llonart",
+  "source_id": "2946",
+  "row_ref": "2946. Magdalena Llonart",
+  "name": "Magdalena Llonart",
+  "gender": "female",
+  "birth": {
+    "date": "1769-01-01",
+    "place": "Vinaròs"
+  },
+  "death": {
+    "date": "1834-09-19",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Antonio Ros"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1769].\n\nCasament: amb Antonio Ros.\n\nFills: Antonio.\n\nDefunció: el 19 de setembre de 1834 a la Ràpita. Va morir als 65 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

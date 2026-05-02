@@ -1,0 +1,76 @@
+{
+  "id": "1371_jacinto_cera",
+  "source_id": "1371",
+  "row_ref": "1371. Jacinto Cera",
+  "name": "Jacinto Cera",
+  "gender": "male",
+  "birth": {
+    "date": "1760-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "922_vicenta_calafell_granell"
+    ],
+    "children": [
+      "1377_rosa_cera_canalda"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Vicenta Calafell Granell"
+    ],
+    "children_names": [
+      "Rosa Cera Canalda"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1760].\n\nCasament: amb Vicenta Calafell Granell de Tortosa [1764].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

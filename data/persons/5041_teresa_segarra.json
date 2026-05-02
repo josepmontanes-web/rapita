@@ -1,0 +1,72 @@
+{
+  "id": "5041_teresa_segarra",
+  "source_id": "5041",
+  "row_ref": "5041. Teresa Segarra",
+  "name": "Teresa Segarra",
+  "gender": "female",
+  "birth": {
+    "date": "1750-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2222_jose_forcadell_segarra"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "José Forcadell Segarra"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1750].\n\nCasament: amb José Forcadell d'Alcanar [1750].\n\nFills: José (Alcanar) [1778].\n\nA l'estat de veïns de la Población de San Carlos a 1 de setembre de 1798 consta que viu a una \"casa de las Monjas de San Juan\" (ACA BGRP caixa 34).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

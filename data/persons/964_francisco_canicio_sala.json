@@ -1,0 +1,68 @@
+{
+  "id": "964_francisco_canicio_sala",
+  "source_id": "964",
+  "row_ref": "964. Francisco Canicio Sala",
+  "name": "Francisco Canicio Sala",
+  "gender": "male",
+  "birth": {
+    "date": "1831-01-01",
+    "place": "Novelda (Alacant)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Novelda (Alacant) [aprox. 1831].\n\nAl 1875 viu a la Plaça Major, 12 (Plaça Carles III).\n\nTestimoni d'anotacions al registre civil des de 1875.\n\nCasament: amb Francesca Comí Casajust de la Ràpita [1836].\n\nFills: Francesc.\n\nCasament: amb María Comí Casajust de la Ràpita [1840]. Compte sembla que podria ser María Comí Carapuig.\n\nFills: Federico Eugenio [1879], Mercedes Ramona [1880], Francesca, Maria i Josepa.\n\nDefunció: el 12 de gener de 1894 a la Ràpita.\n\nEs un dels 28 veïns de la Ràpita que figuren al primer cens electoral de San Carlos de la Rápita de 1867, diu que viu a la \"Plaza Mayor\". Es Alcalde entre 1867 i 1872 i al 1883.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

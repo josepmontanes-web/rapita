@@ -1,0 +1,71 @@
+{
+  "id": "2244_maria_fornesa_prado_de_ulloa",
+  "source_id": "2244",
+  "row_ref": "2244. María Fornesa Prado de Ulloa",
+  "name": "María Fornesa Prado de Ulloa",
+  "gender": "female",
+  "birth": {
+    "date": "1798-09-19",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "D. Agustín Fornesa Orri",
+      "Ventura Prado y Ulloa Muñoz"
+    ],
+    "father_name": "D. Agustín Fornesa Orri",
+    "mother_name": "Ventura Prado y Ulloa Muñoz",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Lorenzo Casadevall",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 19 de setembre de 1798 a la Ràpita. Testimonis del bateig: Don Antonio Carcasó i Don Francisco Stoppani.\n\nPadrí: Don Lorenzo Casadevall.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

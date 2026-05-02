@@ -1,0 +1,78 @@
+{
+  "id": "3224_miguel_ramon_matamoros_lleti",
+  "source_id": "3224",
+  "row_ref": "3224. Miguel Ramón Matamoros Lletí",
+  "name": "Miguel Ramón Matamoros Lletí",
+  "gender": "male",
+  "birth": {
+    "date": "1825-08-31",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4337_juan_bautista_reverter_sancho",
+      "2944_tomasa_lleti_navarro"
+    ],
+    "father": "4337_juan_bautista_reverter_sancho",
+    "mother": "2944_tomasa_lleti_navarro",
+    "spouse": [
+      "4529_ramona_rosales_junyent"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Bautista Reverter Sancho",
+      "Tomasa Lletí Navarro"
+    ],
+    "father_name": "Juan Bautista Matamoros Reverter",
+    "mother_name": "Tomasa Lletí Navarro",
+    "spouse_names": [
+      "Ramona Rosales Junyent"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Miguel Rosales",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 31 d'agost de 1825 a la Ràpita.\n\nPadrins: Miguel Rosales i Catalina Chulié.\n\nCasament: el 20 de setembre de 1851 amb Ramona Rosales Junyent de la Ràpita [1826].\n\nFills: Miguel [1852], Pedro [1855], Carmen [1857], Antonio [1860] i Miguela [1865].\n\nDefunció: el 8 de març de 1877 a la Ràpita de tisis pulmonar. Declara la mor al registre civil Josefa Matamoros.\n\nVenta: de Miguel Ramón Matamoros (podría ser Miguel Ramón Matamoros Lletí fill de Juan Bautista Matamoros Reverter i de Tomasa Lletí Navarro y casat amb Ramona Rosales Junyent filla de Miguel Rosales Valls i Catarina Junyent Llaó), labrador, a José Curto (podría ser José Curto Cavaller casat amb Maria Sancho Reverté), labrador, de porción de casa en la calle de Valencia que a del primer piso alto hacia arriba y cuyos bajos son ya del comprador. Linda con Juan Moya, con Josefa Matamoros y con patio de la viuda de Miguel Reverter. 31 de marzo de 1858. Escribano Juan Ventosa de Amposta. Valor 845.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

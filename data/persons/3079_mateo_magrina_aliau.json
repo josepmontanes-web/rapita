@@ -1,0 +1,83 @@
+{
+  "id": "3079_mateo_magrina_aliau",
+  "source_id": "3079",
+  "row_ref": "3079. Mateo Magriñá Aliau",
+  "name": "Mateo Magriñá Aliau",
+  "gender": "male",
+  "birth": {
+    "date": "1780-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3079_mateo_magrina_aliau"
+    ],
+    "father": "3079_mateo_magrina_aliau",
+    "mother": null,
+    "spouse": [
+      "2690_casilda_grause_bernis"
+    ],
+    "children": [
+      "3079_mateo_magrina_aliau",
+      "3080_francisco_magrina_aliau"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Mateo Magriñá Aliau",
+      "Teresa Aliau"
+    ],
+    "father_name": "Mateo Magriñá",
+    "mother_name": "Teresa Aliau",
+    "spouse_names": [
+      "Casilda Grausé Bernís"
+    ],
+    "children_names": [
+      "Mateo Magriñá Aliau",
+      "Francisco Magriñá Aliau"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "forner"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1780]. \n\nProfessió: forner.\n\nCasament: amb Casilda Grausé Bernis de Tortosa [1780].\n\nFills: Francisca Josefa [1806] i Pascuala [1808].\n\nEs germà de Francisco Magriñá Aliau [1777].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

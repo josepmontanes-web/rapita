@@ -1,0 +1,77 @@
+{
+  "id": "5431_jose_valls_sancho",
+  "source_id": "5431",
+  "row_ref": "5431. José Valls Sancho",
+  "name": "José Valls Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1842-12-09",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1846-09-06",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5433_antonio_valls_sans"
+    ],
+    "father": "5433_antonio_valls_sans",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "5433_antonio_valls_sans"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Valls Sans",
+      "Antonia Sancho Fibla"
+    ],
+    "father_name": "Antonio Valls Sans",
+    "mother_name": "Antonia Sancho Fibla",
+    "spouse_names": [],
+    "children_names": [
+      "Antonio Valls Sans"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don José Bernis",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 9 de desembre de 1842 a la Ràpita.\n\nPadrins: Don José Bernis i Doña Teresa Ferrater.\n\nDefunció: el 6 de setembre de 1846 a la Ràpita. Va morir als 4 anys \"por haberse quemado\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

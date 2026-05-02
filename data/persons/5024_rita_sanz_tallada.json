@@ -1,0 +1,77 @@
+{
+  "id": "5024_rita_sanz_tallada",
+  "source_id": "5024",
+  "row_ref": "5024. Rita Sanz Tallada",
+  "name": "Rita Sanz Tallada",
+  "gender": "female",
+  "birth": {
+    "date": "1834-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "204_tomas_arbo_sanz"
+    ],
+    "father": "204_tomas_arbo_sanz",
+    "mother": null,
+    "spouse": [
+      "5218_jose_subirats_torta"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomás Arbó Sanz",
+      "Teresa Tallada"
+    ],
+    "father_name": "Tomas Sanz",
+    "mother_name": "Teresa Tallada",
+    "spouse_names": [
+      "José Subirats Torta"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1834]. \n\nCasament: el 12 de febrer de 1850 amb José Subirats Torta d'Amposta [1824]. Es casa als 16 anys. Capitols matrimonials en poder de Felipe Tallada (notari).\n\nFills: José [1855] i María de la Cinta [1857].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

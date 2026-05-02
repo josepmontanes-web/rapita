@@ -1,0 +1,68 @@
+{
+  "id": "4848_rafael_sancho_balada",
+  "source_id": "4848",
+  "row_ref": "4848. Rafael Sancho Balada",
+  "name": "Rafael Sancho Balada",
+  "gender": "male",
+  "birth": {
+    "date": "1848-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1848].\n\nProfessió: pagès.\n\nCasament: el 13 de gener de 1872 amb Teresa Cruelles Beltran de la Ràpita [1853]. Es casa als 24 anys.\n\nFills: Ramón [1876] i Manuel [1879].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

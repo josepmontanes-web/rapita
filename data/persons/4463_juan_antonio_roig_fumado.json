@@ -1,0 +1,71 @@
+{
+  "id": "4463_juan_antonio_roig_fumado",
+  "source_id": "4463",
+  "row_ref": "4463. Juan Antonio Roig Fumadó",
+  "name": "Juan Antonio Roig Fumadó",
+  "gender": "male",
+  "birth": {
+    "date": "1824-05-06",
+    "place": "SC"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Roig Cavallé",
+      "María Fumadó Sabater"
+    ],
+    "father_name": "Antonio Roig Cavallé",
+    "mother_name": "María Fumadó Sabater",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "JOSE ANTONIO ROSALES",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 6 de maig de 1824 a la Ràpita.\n\nPadrins: José Antonio Rosales i Tomasa Granell.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

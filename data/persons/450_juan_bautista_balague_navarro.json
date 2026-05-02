@@ -1,0 +1,81 @@
+{
+  "id": "450_juan_bautista_balague_navarro",
+  "source_id": "450",
+  "row_ref": "450. Juan Bautista Balagué Navarro",
+  "name": "Juan Bautista Balagué Navarro",
+  "gender": "male",
+  "birth": {
+    "date": "1816-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "434_juan_jayme_balague_grego"
+    ],
+    "father": "434_juan_jayme_balague_grego",
+    "mother": null,
+    "spouse": [
+      "818_francisca_bosch_torta"
+    ],
+    "children": [
+      "397_maria_rosa_balaguer_bosch"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Jayme Balagué Grego",
+      "Lucia Navarro"
+    ],
+    "father_name": "Juan Jayme Balagué",
+    "mother_name": "Lucia Navarro",
+    "spouse_names": [
+      "Francisca Bosch Torta"
+    ],
+    "children_names": [
+      "Maria Rosa Balaguer Bosch"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1816].\n\nCasament: el 6 de juny de 1835 amb Francisca Bosch Torta de la Ràpita [1818]. Es va casar als 19 anys.\n\nFills: María Rosa [1836], Josefa Juana [1841], Francisca [1843] i Jaime [1847].\n\nEs un dels 28 veïns de la Ràpita que figuren al primer cens electoral de San Carlos de la Rápita de 1867, diu que viu al carrer Sant Rafel.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

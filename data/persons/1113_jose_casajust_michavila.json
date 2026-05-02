@@ -1,0 +1,84 @@
+{
+  "id": "1113_jose_casajust_michavila",
+  "source_id": "1113",
+  "row_ref": "1113. José Casajust Michavila",
+  "name": "José Casajust Michavila",
+  "gender": "male",
+  "birth": {
+    "date": "1789-01-01",
+    "place": "Vinaroz"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1094_ignacio_casajust_ballester",
+      "3338_vicenta_michavila_bayarri"
+    ],
+    "father": "1094_ignacio_casajust_ballester",
+    "mother": "3338_vicenta_michavila_bayarri",
+    "spouse": [
+      "1204_manuela_castella_caldero"
+    ],
+    "children": [
+      "1107_maria_antonia_casajust_castella",
+      "1110_rosa_casajust_castella"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Ignacio Casajust Ballester",
+      "Vicenta Michavila Bayarri"
+    ],
+    "father_name": "Ignacio Casajust Ballester",
+    "mother_name": "Vicenta Michavila Bayarri",
+    "spouse_names": [
+      "Manuela Castellà Calderó"
+    ],
+    "children_names": [
+      "Maria Antonia Casajust Castellà",
+      "Rosa Casajust Castellà"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1789].\n\nCasament: el 20 de maig de 1815 amb Manuela Castellà Calderó de Tortosa [1793]. Es casa als 26 anys.\n\nFills: María [1816], Francisca [1818], Raymunda [1821], Rosa [1822], María Antonia [1825], José Agustín [1826] i Juan [1831].\n\nDel juliol de 1822 al juny de 1823 paga 13 Rv mensuals pel lloguer d'una part de la casa núm. 1 de la mansana 1 (es la que avui està a la cantonada de la Plaça Carles III amb el carrer Sant Antoni).\n\nTestamento: de José Casajust que murió el 16 de septiembre de 1858. Es propietario e hijo legitimo y natural de Ignacio y de Vicenta Michavila. Nombra por su albacea a D. Agustín Goday, panadero, y a su esposa Manuela Castellá (Manuela Castellà Calderó es la esposa de José Casajust Michavila). \nA su hija Maria Casajust viuda de Francisco Comí en pago de todos sus días legitimarios paternos y demás que pudiera pretender sobre sus bienes le legó una pieza de tierra de regadío con su noria y casita? sita a la orilla del puente? de dicha nueva población de San Carlos. Además toda aquella casa sita a la orilla del mar de la misma población que era en la que habitaba cuando la otorgación del testamento su expresada hija Maria, además la mitad de toda aquella pieza de tierra que tiene el propio testador en el término de dicha población dicha del Racó Calent. \nA su otra hija Raymunda Casajust le legó la mitad de aquella casa sita en las inmediaciones de dicha población y contigua al jueme o pueme o puente de la parte de delante que es la misma parte en que habitaba cuando la otorgación del testamento y que habitaba de mucho tiempo incluyéndola en dicha parte … todo el terrado de dicha casa y debiendo aparedar la puerta que da a la otra parte de la misma casa, además toda aquella pieza de tierra dicha de la Boquera o Roquera con su noria que contiene unos 6 jornales entre toda ella … el huerto de debajo de la misma finca que la divide una acequia regadera. Además la mitad de aquella … finca del Racó Calent. Y además toda aquella otra pieza de tierra dicha de la quinxot… está en el expresado término de San Carlos y partida de les coves de la sansa queriendo que si su dicha hija Raymunda no tiene sucesión o que aunque tenga hijos ninguno de ellos llegare a la edad perfecta de testar, que después de su muerte pase y sea todo lo arriba a ella dado y dejado a la nieta del testador llamada Francisca Comí hija del difunto Francisco Comí y a la madre de esta Maria Casajust hija de dicho testador en partes iguales empero que también la voluntad del testador que si el esposo de su hija Raymunda nombrado José Vidal dejare a ella usufructuaria de todos sus bienes para durante su vida natural que pueda dicha su hija Raymunda nombrar también a su dicho esposo José Vidal así mismo para durante su vida natural usufructuario de todos sus bienes de ella dados por el expresado testador. \nA su otra hija Francisca Casajust … le legó la otra parte a mitad … de aquella arriba expresada casa inmediata al puente de dicha nueva población, que es la de la parte de detrás; debiendo tapar o aparedar la puerta del corral que da a la parte de la casa dejada a su hija Raymunda. Además legó a su hija Francisca toda aquella otra pieza de tierra que tenía el testador en el mismo término dicho de la Mundana y a más la mitad de aquella heredad sita en el mismo término y partida del Mas den Sevill que quiere fuera la de la parte de arriba, queriendo que si dicha su hija Francisca no tiene sucesión o aunque tenga hijos ninguno de ellos llegare a la edad perfecta de testar, que … de su muerte pase y sea todo lo arriba a ella dado y dejado a la … madre e hija Maria Casajust y Francisca Comí también en partes iguales; prohibiendo dicho testador a su expresada hija Francisca Casajust el que pueda vender ni empeñar en manera alguna ninguna de las fincas arriba a ella dadas y dejadas.\nA su referida nieta Francisca Comí … le legó la mitad de toda aquella arriba expresada heredad que esta sita en el mismo término y partida del Mas den Sevill que quiso fuera la de la parte de abajo, queriendo queden a favor de su dicha nieta Francisca Comí todas las ropas de su uso y parte que tenia como también los otros muebles y efectos que le había comprado dicho testador y su expresada esposa Manuela Castellá.\nA su otro nieto José Comí le legó el capote nuevo que tenia el mismo testador y a más toda la ropa de su uso de color y tres  … a las mejoras que tuviera. Dispuso que si alguna o cualquiera de sus expresadas hijas promoviera cualquier cuestión o pleito sobre cualquiera de las cosas que les tiene dejadas y señaladas en este testamento, que pierda lo que le tiene dado y prometido dejandole en pago  y compensación de todos sus legitimarios paternos treinta … o lo menos que en derecho pueda dejarle.\nA su expresada esposa Manuela Castellá le legó el usufructo de todos sus bienes muebles y … y de cualquiera otra clase y denominación que se fueren presentes y futuros para durante toda su vida natural, sin que estuviera obligada a prestación alguna, empero conservando viudedad y no de otra manera. A su misma expresada consorte le legó todos los muebles, trastos utensilios frutos y efectos que tenga dicho testador en el día de su fallecimiento para que dispusiese de todo a sus voluntades, queriendo que si dicha su consorte por no querer o no poder , no dispusiese de lo a ella dado que todo fuera para sus dos referidas hijas Maria y Raymunda Casajust y su nieta Francisca Comí en partes iguales. Y en todos sus restante bienes muebles e inmuebles y … presentes y futuros … (firmado dicho usufructo) instituyo en herederas suyas universales a sus hijas María y Raymunda Casajust y a su nieta Francisca Comí en partes iguales a sus voluntades , debiendo empero dar a su otra hija Francisca Casajust, un colchón grande y dos sabanas con las demás … de estilo.\nJosé Casajust ordenó codicilo a su expresado testamento en el que dispuso y legó a su hija María Casajust viuda de Francisco Comí trescientos duros que su expresado difunto yerno le quedó a deber por resta de mayor partida que tenia dejada graciosamente para la compra y arreglo de las barcas de pescar vulgarmente dichas de Bou y de dos muletas según más por menos lo tenia notado en su libreta de asuntos domésticos; para que su expresada hija pudiere cobralos de los herederos de su expresado difunto yerno y hacer de dichos trescientos duros a sus voluntades. Manifestando asi mismo como para durante toda su vida natural y de su esposa, dejaba esta  y habitar a dicha su hija en la cas que tenia en la población de San Carlos y calle de Pescadores o sea a la orilla del mar para que por sus herederos no le pueda pedir ni reclamar interés o alquiler alguno. Queriendo que todo lo demás en su citado testamento contenido en dicho testamento no oponiéndose al codicilo fuera …\n18 de junio de 1856 el codicilo y 13 de septiembre 1855. Esc. Juan Ventosa de Amposta 27 de noviembre de 1858.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

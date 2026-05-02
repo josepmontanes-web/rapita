@@ -1,7 +1,7 @@
 {
   "id": "44_luisa_aguilar_temprado",
   "source_id": "44",
-  "row_ref": "44",
+  "row_ref": "44. Luisa Aguilar Temprado",
   "name": "Luisa Aguilar Temprado",
   "gender": "female",
   "birth": {
@@ -22,18 +22,44 @@
   },
   "family": {
     "parents": [],
-    "spouse": [],
-    "children": []
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3302_mariano_mateu_sancho"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
   },
   "relations_detail": {
     "parents_names": [
       "Antonio Aguilar",
       "Maria Temprado"
     ],
+    "father_name": "Antonio Aguilar",
+    "mother_name": "Maria Temprado",
     "spouse_names": [
       "Mariano Mateu Sancho"
     ],
-    "children_names": []
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
   },
   "occupation": {
     "title": null

@@ -1,0 +1,86 @@
+{
+  "id": "631_domingo_beltran_querol",
+  "source_id": "631",
+  "row_ref": "631. Domingo Beltrán Querol",
+  "name": "Domingo Beltrán Querol",
+  "gender": "male",
+  "birth": {
+    "date": "1769-01-01",
+    "place": "Canet (o a la Senia)"
+  },
+  "death": {
+    "date": "1848-01-21",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "582_francisco_beltran_brunet",
+      "583_josefa_beltran_brunet",
+      "584_agueda_beltran_brunet",
+      "585_magdalena_beltran_brunet",
+      "586_josefa_beltran_brunet",
+      "587_bautista_beltran_brunet",
+      "2274_tomasa_gala_pol"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Gregorio Beltrán",
+      "Maria Rosa Querol"
+    ],
+    "father_name": "Gregorio Beltrán",
+    "mother_name": "Maria Rosa Querol",
+    "spouse_names": [],
+    "children_names": [
+      "Francisco Beltran Brunet",
+      "Josefa Beltran Brunet",
+      "Agueda Beltran Brunet",
+      "Magdalena Beltran Brunet",
+      "Bautista Beltran Brunet",
+      "Tomasa Gala Pol"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Canet (o a la Senia) [aprox. 1769].\n\nProfessió: teixidor.\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu al Codoñol com a criat del teixidor Tomás Sastre (ACA BGRP caixa 34).\n\nCasament: amb Rosa Brunet Monllaó de Xerta [1780].\n\nFills: Francisco [1804], Josefa [1807], Bautista [1809], Magdalena [1814], Josefa [1817] i Agueda [1821].\n\nDefunció: el 21 de gener de 1848 a la Ràpita. Va morir als 79 anys. No va fer testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

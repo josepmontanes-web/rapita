@@ -1,0 +1,74 @@
+{
+  "id": "5119_blas_silvestre_jovani",
+  "source_id": "5119",
+  "row_ref": "5119. Blas Silvestre Jovani",
+  "name": "Blas Silvestre Jovani",
+  "gender": "male",
+  "birth": {
+    "date": "1830-09-19",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1830-09-29",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5132_peregrin_silvestre_sanchis",
+      "2871_josefa_jovani_grau"
+    ],
+    "father": "5132_peregrin_silvestre_sanchis",
+    "mother": "2871_josefa_jovani_grau",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Peregrín Silvestre Sanchís",
+      "Josefa Jovani Grau"
+    ],
+    "father_name": "Peregrín Silvestre Sánchez",
+    "mother_name": "Josefa Jovani Grau",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Blas Silvestre",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 19 de setembre de 1830 a la Ràpita.\n\nPadrins: Blas Silvestre i Antonia Grau.\n\nDefunció: el 29 de setembre de 1830 a la Ràpita.Va morir de \"espasmo\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "3743_ana_maria_obiol_masip",
+  "source_id": "3743",
+  "row_ref": "3743. Ana Maria Obiol Masip",
+  "name": "Ana Maria Obiol Masip",
+  "gender": "female",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Ulldecona"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3735_jose_obiol"
+    ],
+    "father": "3735_jose_obiol",
+    "mother": null,
+    "spouse": [
+      "5215_joaquin_subirats_sorolla",
+      "4902_miguel_sancho_matamoros"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Obiol",
+      "Antonia Maria Masip"
+    ],
+    "father_name": "José Obiol",
+    "mother_name": "Antonia Maria Masip",
+    "spouse_names": [
+      "Joaquín Subirats Sorolla",
+      "Miguel Sancho Matamoros"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Ulldecona [aprox. 1810]. \n\nCasament: el 20 de setembre de 1828 amb Joaquín Subirats Sorolla d'Alcanar [1800].\n\nFills: Fernanda [1834].\n\nCasament: el 2 de novembre de 1842 amb Miguel Sancho Matamoros d'Alcanar [1810].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

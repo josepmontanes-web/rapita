@@ -1,0 +1,88 @@
+{
+  "id": "3035_joaquin_lopez_segarra",
+  "source_id": "3035",
+  "row_ref": "3035. Joaquín López Segarra",
+  "name": "Joaquín López Segarra",
+  "gender": "male",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Ulldecona"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2996_juan_lopez_flores",
+      "5045_maria_segarra_bel"
+    ],
+    "father": "2996_juan_lopez_flores",
+    "mother": "5045_maria_segarra_bel",
+    "spouse": [],
+    "children": [
+      "3014_teresa_rafaela_lopez_noll_o_nolla",
+      "3015_jose_francisco_lopez_noll_o_nolla",
+      "3016_josefa_lopez_noll_o_nolla",
+      "3017_miguel_lopez_noll_o_nolla",
+      "3018_maria_rosa_lopez_noll_o_nolla"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan López Flores",
+      "María Segarra Bel"
+    ],
+    "father_name": "Juan López Flores",
+    "mother_name": "María Segarra Bel",
+    "spouse_names": [
+      "María de la Cinta Noll Barberà"
+    ],
+    "children_names": [
+      "Teresa Rafaela López Noll [o Nolla]",
+      "José Francisco López Noll [o Nolla]",
+      "Josefa López Noll [o Nolla]",
+      "Miguel López Noll [o Nolla]",
+      "Maria Rosa López Noll [o Nolla]"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Ulldecona  [aprox. 1790]. \n\nCasament: amb María de la Cinta Noll (o Nolla) Barberà de Tortosa [1790].\n\nFills: Juan [1816], María Rosa [1818], José Antonio [1820], Teresa Rafaela [1822], José Francisco [1825], Josefa [1827] i Miguel [1830].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

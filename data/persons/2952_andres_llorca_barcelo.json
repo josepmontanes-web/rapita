@@ -1,0 +1,74 @@
+{
+  "id": "2952_andres_llorca_barcelo",
+  "source_id": "2952",
+  "row_ref": "2952. Andrés Llorca Barceló",
+  "name": "Andrés Llorca Barceló",
+  "gender": "male",
+  "birth": {
+    "date": "1830-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1834-08-29",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2954_miguel_llorca_valero",
+      "508_angela_barcelo_ortiz"
+    ],
+    "father": "2954_miguel_llorca_valero",
+    "mother": "508_angela_barcelo_ortiz",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Llorca Valero",
+      "Angela Barceló Ortíz"
+    ],
+    "father_name": "Miguel Llorca Valero",
+    "mother_name": "Angela Barceló Ortiz",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1830].\n\nDefunció: el 29 d'agost de 1834 a la Ràpita. Va morir als 4 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

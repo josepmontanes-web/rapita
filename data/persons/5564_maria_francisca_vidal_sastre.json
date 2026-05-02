@@ -1,0 +1,77 @@
+{
+  "id": "5564_maria_francisca_vidal_sastre",
+  "source_id": "5564",
+  "row_ref": "5564. María Francisca Vidal Sastre",
+  "name": "María Francisca Vidal Sastre",
+  "gender": "female",
+  "birth": {
+    "date": "1795-03-05",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1830-09-30",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5538_jacinto_vidal_palos"
+    ],
+    "father": "5538_jacinto_vidal_palos",
+    "mother": null,
+    "spouse": [
+      "1517_jose_clua_cid"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Jacinto Vidal Palos",
+      "Theresa Sastre Borrell"
+    ],
+    "father_name": "Jacinto Vidal Palos",
+    "mother_name": "Theresa Sastre Borrell",
+    "spouse_names": [
+      "José Clua Cid"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Pedro Bresciano",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 5 de març de 1795 a la Ràpita.\n\nPadrins: Pedro Bresciano i Francisca Sastre Borrell.\n\nCasament: el 15 d'abril de 1815 amb José Clua Cid de la Galera [1788].\n\nFills: Miguel [1818], José [1819], Jacinto [1820], Tomás [1823], María Teresa [1826] i Josefa [1830].\n\nDefunció: el 30 de setembre de 1830 a la Ràpita. Va morir de \"sobreparto\". No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

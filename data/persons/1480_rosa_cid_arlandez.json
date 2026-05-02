@@ -1,0 +1,78 @@
+{
+  "id": "1480_rosa_cid_arlandez",
+  "source_id": "1480",
+  "row_ref": "1480. Rosa Cid Arlández",
+  "name": "Rosa Cid Arlández",
+  "gender": "female",
+  "birth": {
+    "date": "1827-10-05",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1496_francisco_cid_ferrer",
+      "239_teresa_arlandez_cartes"
+    ],
+    "father": "1496_francisco_cid_ferrer",
+    "mother": "239_teresa_arlandez_cartes",
+    "spouse": [
+      "4510_manuel_rosales_castella"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Cid Ferrer",
+      "Teresa Arlández Cartes"
+    ],
+    "father_name": "Francisco Cid Ferrer",
+    "mother_name": "Teresa Arlández Cartes",
+    "spouse_names": [
+      "Manuel Rosales Castellà"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Mola",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 5 d'octubre de 1827 a la Ràpita.\n\nPadrins: Francisco Mola i Rosa Calderó.\n\nCasament: el 22 de gener de 1848 amb Manuel Rosales Castellà de la Ràpita [1825].\n\nFills: Carlota [1863].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

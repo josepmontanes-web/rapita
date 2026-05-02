@@ -1,0 +1,74 @@
+{
+  "id": "2820_miguel_ibanez_marti",
+  "source_id": "2820",
+  "row_ref": "2820. Miguel Ibáñez Martí",
+  "name": "Miguel Ibáñez Martí",
+  "gender": "male",
+  "birth": {
+    "date": "1841-06-21",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2822_sebastian_ibanez_martinez",
+      "3129_mariana_marti_pons"
+    ],
+    "father": "2822_sebastian_ibanez_martinez",
+    "mother": "3129_mariana_marti_pons",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Sebastián Ibáñez Martínez",
+      "Mariana Martí Pons"
+    ],
+    "father_name": "Sebastián Ibáñez Martínez",
+    "mother_name": "Mariana Martí Pons",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Miguel Rosales ??",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 21 de juny de 1841 a la Ràpita.\n\nPadrins: Miguel Rosales i Rosa Borràs.\n\nCasament: amb Francisca Ferré Samper de la Ràpita [1851].\n\nFills: Rosa [1876] i María de la Cinta [1879].\n\nNo signa la declaració de naixement de la seua filla al registre civil per no saber.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

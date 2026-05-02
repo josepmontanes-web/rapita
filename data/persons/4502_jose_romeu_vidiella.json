@@ -1,0 +1,79 @@
+{
+  "id": "4502_jose_romeu_vidiella",
+  "source_id": "4502",
+  "row_ref": "4502. José Romeu Vidiella",
+  "name": "José Romeu Vidiella",
+  "gender": "male",
+  "birth": {
+    "date": "1775-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1820-12-03",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "2063_teresa_ferrer_pinol"
+    ],
+    "children": [
+      "4476_maria_romeu_ferrer"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Romeu",
+      "Candia Molinas"
+    ],
+    "father_name": "Juan Romeu",
+    "mother_name": "Candia Molinas",
+    "spouse_names": [
+      "Teresa Ferrer Piñol"
+    ],
+    "children_names": [
+      "María Romeu Ferrer"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1775]. \n\nCasament: el 22 de juny de 1814 amb Teresa Ferrer Piñol del Perelló [1783]. Es casa als 36 anys.\n\nFills: José Antonio [1815] i María [1819].\n\nDefunció: el 3 de desembre de 1820 a la Ràpita. Va morir als 45 anys de \"un ataque al celebro\". No fa testament.\n\nEs germà de Jacinto Romeu Vidiella [1771].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

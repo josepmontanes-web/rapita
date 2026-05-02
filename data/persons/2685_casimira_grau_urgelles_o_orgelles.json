@@ -1,0 +1,73 @@
+{
+  "id": "2685_casimira_grau_urgelles_o_orgelles",
+  "source_id": "2685",
+  "row_ref": "2685. Casimira Grau Urgellés [o Orgellés]",
+  "name": "Casimira Grau Urgellés [o Orgellés]",
+  "gender": "female",
+  "birth": {
+    "date": "1834-03-04",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2679_tomas_grau_fibla"
+    ],
+    "father": "2679_tomas_grau_fibla",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomás Grau Fibla",
+      "Tomasa Orgellés Nofre"
+    ],
+    "father_name": "Tomás Grau Fibla",
+    "mother_name": "Tomasa Orgellés Nofre",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Manuel Noguera",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 4 de març de 1834 a la Ràpita.\n\nPadrins: Manuel Noguera i Mariana Beltri.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "283_miguel_arnau_forner_o_torner",
+  "source_id": "283",
+  "row_ref": "283. Miguel Arnau Forner [o Torner]",
+  "name": "Miguel Arnau Forner [o Torner]",
+  "gender": "male",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Vinaròs"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "272_manuel_arnau_borras"
+    ],
+    "father": "272_manuel_arnau_borras",
+    "mother": null,
+    "spouse": [
+      "3360_antonia_mies_guinjuan",
+      "771_maria_borras_carbo"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel Arnau Borràs",
+      "Maria Vicenta Forner"
+    ],
+    "father_name": "Manuel Arnau",
+    "mother_name": "Maria Vicenta Forner",
+    "spouse_names": [
+      "Antonia Míes Guinjuan",
+      "Maria Borràs Carbó"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Jornaler"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1820].\n\nProfessió: Jornaler.\n\nCasament: el 2 d'octubre de 1843 amb Antonia Míes Guinjuan [1800].\n\nCasament: el 3 de febrer de 1855 amb María Borràs Carbó [1823]. Es casa per segona vegada als 35 anys. Testimonis: Juan Aragonés i Manuel Míes.\n\nFills: Tomás [1855] i Manuel [1858].\n\nVenta: de Miguel Arnau y Forner, labrador, a Pablo Segarra y Guardia, matriculado, de casa de un piso de alto sita en la calle de Pescadores. Linda con herederos de Sebastián Míes, con un callejón y huerto de D. Mariano Castellá. Por precio de 75 duros. 25 de febrero de 1860. Esc. Juan Ventosa de Amposta. Valor 1500.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

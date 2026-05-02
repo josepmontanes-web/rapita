@@ -1,0 +1,77 @@
+{
+  "id": "1321_juana_castella_safont",
+  "source_id": "1321",
+  "row_ref": "1321. Juana Castellà Safont",
+  "name": "Juana Castellà Safont",
+  "gender": "female",
+  "birth": {
+    "date": "1824-06-07",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1171_juan_castella_alegret"
+    ],
+    "father": "1171_juan_castella_alegret",
+    "mother": null,
+    "spouse": [
+      "5678_tomas_zaragoza_tora"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Castellà Alegret",
+      "Maria Safont Fabregat"
+    ],
+    "father_name": "Juan Castellà Alegre",
+    "mother_name": "Maria Safont Fabregat",
+    "spouse_names": [
+      "Tomás Zaragoza Tora"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Manuel Safont",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 7 de juny de 1824 a la Ràpita.\n\nPadrins: Manuel Safont i Agueda Alegret.\n\nCasament: el 3 de març de 1855 amb Tomás Zaragoza Tora de Vinaròs [1828]. Testimonis: Don Agustín Castillo Albeytar i Juan Castellà.\n\nFills: Tomás [1855] i Mariana [1861].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

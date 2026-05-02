@@ -1,0 +1,78 @@
+{
+  "id": "357_francisco_balada_planes",
+  "source_id": "357",
+  "row_ref": "357. Francisco Balada Planes",
+  "name": "Francisco Balada Planes",
+  "gender": "male",
+  "birth": {
+    "date": "1818-04-30",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "342_francisco_balada_forcadell",
+      "3995_eulalia_planes_gubern"
+    ],
+    "father": "342_francisco_balada_forcadell",
+    "mother": "3995_eulalia_planes_gubern",
+    "spouse": [
+      "3377_casilda_miguel_fibla"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Balada Forcadell",
+      "Eulalia Planes Gubern"
+    ],
+    "father_name": "Francisco Balada Forcadell",
+    "mother_name": "Eulalia Planes Gubern",
+    "spouse_names": [
+      "Casilda Miguel Fibla"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Ballen",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 30 d'abril de 1818 a la Ràpita.\n\nPadrins: Juan Ballen soldat del regiment de Barbastre i María Safon.\n\nCasament: el 10 de novembre de 1849 amb Casilda Miguel Fibla de la Ràpita [1820].\n\nFills: Francisca [1850].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

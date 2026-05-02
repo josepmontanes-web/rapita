@@ -1,0 +1,77 @@
+{
+  "id": "4698_juan_samper_moncho",
+  "source_id": "4698",
+  "row_ref": "4698. Juan Samper Moncho",
+  "name": "Juan Samper Moncho",
+  "gender": "male",
+  "birth": {
+    "date": "1817-01-01",
+    "place": "Benidorm"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4680_gregorio_samper"
+    ],
+    "father": "4680_gregorio_samper",
+    "mother": null,
+    "spouse": [
+      "486_antonia_ballester_llorens"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Gregorio Samper",
+      "Rosa Moncho"
+    ],
+    "father_name": "Gregorio Samper",
+    "mother_name": "Rosa Moncho",
+    "spouse_names": [
+      "Antonia Ballester Llorens"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Matriculado"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Benidorm [aprox. 1817]. \n\nEl primer cognom podria ser Sempere, Sampere o Samper i el segón cognom podria ser Moncho o Monjo.\n\nProfessió: \"matriculado\".\n\nCasament: el 12 de gener de 1850 amb Antonia Ballester Llorens de Benidorm [1825]. Es casa als 33 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

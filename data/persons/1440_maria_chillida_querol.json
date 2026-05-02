@@ -1,0 +1,89 @@
+{
+  "id": "1440_maria_chillida_querol",
+  "source_id": "1440",
+  "row_ref": "1440. Maria Chillida Querol",
+  "name": "Maria Chillida Querol",
+  "gender": "female",
+  "birth": {
+    "date": "1798-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1429_gabriel_chillida"
+    ],
+    "father": "1429_gabriel_chillida",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2844_manuel_izquierdo_chillida",
+      "2845_francisco_de_paula_izquierdo_chillida",
+      "2846_maria_rosa_izquierdo_chillida",
+      "2847_pablo_izquierdo_chillida",
+      "2848_agustin_izquierdo_chillida",
+      "2849_juan_izquierdo_chillida"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Gabriel Chillida",
+      "Teresa Querol"
+    ],
+    "father_name": "Gabriel Chillida",
+    "mother_name": "Teresa Querol",
+    "spouse_names": [
+      "Agustín Izquierdo Saperes"
+    ],
+    "children_names": [
+      "Manuel Izquierdo Chillida",
+      "Francisco de Paula Izquierdo Chillida",
+      "María Rosa Izquierdo Chillida",
+      "Pablo Izquierdo Chillida",
+      "Agustín Izquierdo Chillida",
+      "Juan Izquierdo Chillida"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1798].\n\nCasament: el 13 de febrer de 1826 amb Agustín Izquierdo Saperes de la Ràpita [1799].\n\nFills: Manuel [1826], Pablo [1828], Francisco de Paula [1834], María Rosa [1836], Agustín [1838] i Juan [1841].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

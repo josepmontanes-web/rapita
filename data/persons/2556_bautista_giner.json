@@ -1,0 +1,72 @@
+{
+  "id": "2556_bautista_giner",
+  "source_id": "2556",
+  "row_ref": "2556. Bautista Giner",
+  "name": "Bautista Giner",
+  "gender": "male",
+  "birth": {
+    "date": "1757-01-01",
+    "place": "Vinaròs"
+  },
+  "death": {
+    "date": "1832-08-14",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "4087_maria_agustina_pujol"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "María Agustina Pujol"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1757].\n\nCasament: amb María Agustina Pujol de Vinaròs [1760].\n\nDefunció: el 14 d'agost de 1832 a la Ràpita. Va morir als 75 anys. No fa testamet. \"No dotó su alma en cantidad alguna por ser pobre y no tener bienes algunos\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

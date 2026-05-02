@@ -1,0 +1,74 @@
+{
+  "id": "4797_domingo_jayme_sanchez_sancho",
+  "source_id": "4797",
+  "row_ref": "4797. Domingo Jayme Sánchez Sancho",
+  "name": "Domingo Jayme Sánchez Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1835-07-24",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4791_miguel_sanchez_reverter",
+      "4890_josefa_sancho_garcia"
+    ],
+    "father": "4791_miguel_sanchez_reverter",
+    "mother": "4890_josefa_sancho_garcia",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Sánchez Reverter",
+      "Josefa Sancho García"
+    ],
+    "father_name": "Miguel Sánchez Reverter",
+    "mother_name": "Josefa Sancho García",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Domingo Balaguer",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 24 de juliol de 1835 a la Ràpita.\n\nPadrins: Domingo Balaguer i Josefa García.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

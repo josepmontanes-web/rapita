@@ -1,0 +1,73 @@
+{
+  "id": "2638_madalena_gombau_marti",
+  "source_id": "2638",
+  "row_ref": "2638. Madalena Gombau Martí",
+  "name": "Madalena Gombau Martí",
+  "gender": "female",
+  "birth": {
+    "date": "1808-05-01",
+    "place": "Vinaròs"
+  },
+  "death": {
+    "date": "1810-07-14",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2625_bautista_gombau_castella"
+    ],
+    "father": "2625_bautista_gombau_castella",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Gombau Castellà",
+      "María Martí"
+    ],
+    "father_name": "Bautista Gombau",
+    "mother_name": "María Martí",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1808].\n\nDefunció: el 14 de juliol de 1810 a la Ràpita. Va morir als 26 mesos. \"Murio en este puerto\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "312_agustina_badoch_garriga",
+  "source_id": "312",
+  "row_ref": "312. Agustina Badoch Garriga",
+  "name": "Agustina Badoch Garriga",
+  "gender": "female",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3807_toribio_parra_sancho"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustín Badoch",
+      "Agustina Garriga"
+    ],
+    "father_name": "Agustín Badoch",
+    "mother_name": "Agustina Garriga",
+    "spouse_names": [
+      "Toribio Parra Sancho"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  a Alcanar [aprox. 1820].\n\nCasament: el 25 de juliol de 1843  amb Toribio Parra Sancho de Madrid [1820]. Testimonis: Tomás Castellà i Juan Castellà.\n\nFills: José [1845], Pedro [1845], Toribio [1850], Agustín [1854] i Toribia [1860].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

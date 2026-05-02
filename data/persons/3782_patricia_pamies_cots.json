@@ -1,0 +1,71 @@
+{
+  "id": "3782_patricia_pamies_cots",
+  "source_id": "3782",
+  "row_ref": "3782. Patricia Pamies Cots",
+  "name": "Patricia Pamies Cots",
+  "gender": "female",
+  "birth": {
+    "date": "1832-03-17",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Pamies Porta",
+      "Francisca Cots Monlló"
+    ],
+    "father_name": "José Pamies Porta",
+    "mother_name": "Francisca Cots Monlló",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Andrés Verge",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 17 de març de 1832 a la Ràpita.\n\nMare: Francisca Cots Monlló es d'Arbeca i es filla de Manuel i María també d'Arbeca.\n\nPadrins: Andrés Verge i Rafaela Verge.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

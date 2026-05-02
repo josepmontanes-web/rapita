@@ -1,0 +1,89 @@
+{
+  "id": "175_tomas_arbo_ingles",
+  "source_id": "175",
+  "row_ref": "175. Tomás Arbó Inglés",
+  "name": "Tomás Arbó Inglés",
+  "gender": "male",
+  "birth": {
+    "date": "1793-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1837-06-09",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "209_tomas_arbo_solsona"
+    ],
+    "father": "209_tomas_arbo_solsona",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "193_jose_arbo_sanchis",
+      "194_ramon_tomas_arbo_sanchis",
+      "195_felix_arbo_sanchis",
+      "196_josefa_arbo_sanchez",
+      "197_peregrin_arbo_sanchez",
+      "198_juan_arbo_sanchez"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomás Arbó Solsona",
+      "Francisca Inglés"
+    ],
+    "father_name": "Tomás Arbó",
+    "mother_name": "Francisca Inglés",
+    "spouse_names": [
+      "Teresa Sánchez Yserte"
+    ],
+    "children_names": [
+      "José Arbó Sanchís",
+      "Ramón Tomás Arbó Sanchís",
+      "Felix Arbó Sanchís",
+      "Josefa Arbó Sánchez",
+      "Peregrin Arbó Sánchez",
+      "Juan Arbó Sánchez"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  a Benicarló [aprox. 1793].\n\nProfessió: pagès.\n\nCasament: el 4 de març de 1815 amb Teresa Sánchez Iserte de la Ràpita [1793].\n\nFills: Juan [1816], Josefa [1820], Peregrín [1824], José [1827], Ramón Tomás [1830] i Felix [1833].\n\nDefunció: el 9 de juny de 1837 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "1702_jose_agustin_darder",
+  "source_id": "1702",
+  "row_ref": "1702. José Agustín Darder",
+  "name": "José Agustín Darder",
+  "gender": "male",
+  "birth": {
+    "date": "1750-01-01",
+    "place": "Vinaròs"
+  },
+  "death": {
+    "date": "1815-03-19",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Agustina García"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1750].\n\nCasament: amb Agustina García.\n\nDefunció: el 19 de març de 1815 a la Ràpita. Va morir als 65 anys. \"Muere en esta badia\". Era veí de Vinaròs.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

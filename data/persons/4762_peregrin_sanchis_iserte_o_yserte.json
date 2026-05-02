@@ -1,0 +1,85 @@
+{
+  "id": "4762_peregrin_sanchis_iserte_o_yserte",
+  "source_id": "4762",
+  "row_ref": "4762. Peregrín Sanchís Iserte [o Yserte]",
+  "name": "Peregrín Sanchís Iserte [o Yserte]",
+  "gender": "male",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4824_blas_sanches_ximenes"
+    ],
+    "father": "4824_blas_sanches_ximenes",
+    "mother": null,
+    "spouse": [
+      "536_teresa_batiste_vidal",
+      "5455_francisca_ventura_exposita"
+    ],
+    "children": [
+      "4723_catarina_sanchis_batiste",
+      "4819_josefa_sanchis_ventura"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Blas Sanches Ximenes",
+      "Manuela Yserte"
+    ],
+    "father_name": "Blas Sanchís Ximenes",
+    "mother_name": "Manuela Yserte",
+    "spouse_names": [
+      "Teresa Batiste Vidal",
+      "Francisca Ventura Expósita"
+    ],
+    "children_names": [
+      "Catarina Sanchís Batiste",
+      "Josefa Sanchis Ventura"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1790]. \n\nCasament: amb Teresa Batiste Vidal de Tortosa [1796].\n\nFills: Blas [1820], Catarina [1822] i Teresa [1824].\n\nCasament: el 29 de març de 1824 amb Francisca Ventura Expósita de Tortosa [1790]. Testimonis: Francisco Moya i Don Felipe Verges.\n\nFills: Teresa María [1825], Josefa [1828], Peregrín Vicente [1829], Andrés [1831], Teresa María [1833], Francisco [1835], Christoval [1838], María de la Concepción [1840] i Pelegrín [1846].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

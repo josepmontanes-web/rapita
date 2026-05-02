@@ -1,0 +1,68 @@
+{
+  "id": "4427_joaquin_ripolles_baiges",
+  "source_id": "4427",
+  "row_ref": "4427. Joaquín Ripollés Baiges",
+  "name": "Joaquín Ripollés Baiges",
+  "gender": "male",
+  "birth": {
+    "date": "1848-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [o Vinallop] [aprox. 1848].\n\nProfessió: pagès.\n\nCasament: el 15 de desembre de 1870 amb Tomasa Ferré Rosales de la Ràpita [1852]. Es casa als 22 anys. Viuen al carrer Santa Eulalia.\n\nFills: Juan [1872] i Jayme [1873].\n\nNo signa al registre per no saber.\n\nEs germà de Juana [1852].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

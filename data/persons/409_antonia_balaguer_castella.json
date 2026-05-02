@@ -1,0 +1,81 @@
+{
+  "id": "409_antonia_balaguer_castella",
+  "source_id": "409",
+  "row_ref": "409. Antonia Balaguer Castellà",
+  "name": "Antonia Balaguer Castellà",
+  "gender": "female",
+  "birth": {
+    "date": "1783-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1828-01-15",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3645_pedro_navarro_lluis"
+    ],
+    "children": [
+      "3601_pedro_navarro_balaguer",
+      "3602_antonia_navarro_balaguer"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Jayme Balaguer",
+      "Josefa Castellà"
+    ],
+    "father_name": "Jayme Balaguer",
+    "mother_name": "Josefa Castellà",
+    "spouse_names": [
+      "Pedro Navarro Lluís"
+    ],
+    "children_names": [
+      "Pedro Navarro Balaguer",
+      "Antonia Navarro Balaguer"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1783].\n\nCasament: amb Pedro Navarro Lluís de Tortosa [1780].\n\nFills: José (Tortosa) [1805], Antonia [1810], Pedro [1814] i Juan [1817].\n\nDefunció: el 15 de gener de 1828 a la Ràpita. Va morir repentinament als 45 anys de \"asma de pecho\". No va fer testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "4117_christobal_quixada_bordeters",
+  "source_id": "4117",
+  "row_ref": "4117. Christobal Quixada Bordeters",
+  "name": "Christobal Quixada Bordeters",
+  "gender": "male",
+  "birth": {
+    "date": "1802-07-01",
+    "place": "Vinaroz"
+  },
+  "death": {
+    "date": "1803-05-04",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Ventura Quixada (Pagès)",
+      "Manuela Bordeters"
+    ],
+    "father_name": "Ventura Quixada (Pagès)",
+    "mother_name": "Manuela Bordeters",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1802]. \n\nDefunció: el 4 de maig de 1803 a la Ràpita. Va morir pàrvul de 10 mesos.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

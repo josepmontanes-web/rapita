@@ -1,0 +1,73 @@
+{
+  "id": "3014_teresa_rafaela_lopez_noll_o_nolla",
+  "source_id": "3014",
+  "row_ref": "3014. Teresa Rafaela López Noll [o Nolla]",
+  "name": "Teresa Rafaela López Noll [o Nolla]",
+  "gender": "female",
+  "birth": {
+    "date": "1822-09-20",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3035_joaquin_lopez_segarra"
+    ],
+    "father": "3035_joaquin_lopez_segarra",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín López Segarra",
+      "Mª. De la Cinta Noll Barberà"
+    ],
+    "father_name": "Joaquín López Segarra",
+    "mother_name": "Mª. De la Cinta Noll Barberà",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Miguel Reverter",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 20 de setembre de 1822 a la Ràpita.\n\nPadrins: Miguel Reverter i Rafaela López.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

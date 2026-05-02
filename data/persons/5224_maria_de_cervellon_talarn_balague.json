@@ -1,0 +1,73 @@
+{
+  "id": "5224_maria_de_cervellon_talarn_balague",
+  "source_id": "5224",
+  "row_ref": "5224. María de Cervellón Talarn Balagué",
+  "name": "María de Cervellón Talarn Balagué",
+  "gender": "female",
+  "birth": {
+    "date": "1832-09-24",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1834-07-04",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5241_tomas_talarn_bosch"
+    ],
+    "father": "5241_tomas_talarn_bosch",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomás Talarn Bosch",
+      "Francisca Balaguer Omedes"
+    ],
+    "father_name": "Tomás Talarn Bosch",
+    "mother_name": "Francisca Balaguer Omedes",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Joaquín Fabregat",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 24 de setembre de 1832 a la Ràpita.\n\nPadrins: Joaquín Fabregat i María Balaguer.\n\nDefunció: el 4 de juliol de 1834 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

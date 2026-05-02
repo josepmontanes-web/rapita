@@ -1,0 +1,79 @@
+{
+  "id": "898_rafael_cabanes_thomas",
+  "source_id": "898",
+  "row_ref": "898. Rafael Cabanes Thomas",
+  "name": "Rafael Cabanes Thomas",
+  "gender": "male",
+  "birth": {
+    "date": "1823-06-01",
+    "place": "Godall"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "720_francisca_biosca_lopez"
+    ],
+    "children": [
+      "892_francisca_cabanes_biosca"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joseph Cabanes Albiol",
+      "Josefa Thomas García"
+    ],
+    "father_name": "Joseph Cabanes Albiol",
+    "mother_name": "Josefa Thomas García",
+    "spouse_names": [
+      "Francisca Biosca López"
+    ],
+    "children_names": [
+      "Francisca Cabanes Biosca"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'1 de juny de 1823 a Godall.\n\nCasament: el 28 de novembre de 1844 amb Francisca Biosca López de la Ràpita [1826].\n\nFills: José [1853], María [1853], Juan [1856] i Francisca [1867].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

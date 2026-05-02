@@ -1,0 +1,74 @@
+{
+  "id": "755_jose_borras",
+  "source_id": "755",
+  "row_ref": "755. José Borràs",
+  "name": "José Borràs",
+  "gender": "male",
+  "birth": {
+    "date": "1781-01-01",
+    "place": "Xerta"
+  },
+  "death": {
+    "date": "1825-03-15",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "785_miguel_borras_moles"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Rosa Folqué"
+    ],
+    "children_names": [
+      "Miguel Borràs Moles"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Xerta [aprox. 1781].\n\nCasament: amb Rosa Folqué.\n\nDefunció: el 15 de març de 1825 a la Ràpita. Va morir als 44 anys de \"inflamación de sangre\". No fa testament per no tenir que testar.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

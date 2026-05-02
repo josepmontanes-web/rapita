@@ -1,0 +1,76 @@
+{
+  "id": "1465_josef_chiscas",
+  "source_id": "1465",
+  "row_ref": "1465. Josef Chiscás",
+  "name": "Josef Chiscás",
+  "gender": "male",
+  "birth": {
+    "date": "1770-01-01",
+    "place": "Berga"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "5264_vicenta_tallada"
+    ],
+    "children": [
+      "1466_concepcion_chiscas_tallada"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Vicenta Tallada"
+    ],
+    "children_names": [
+      "Concepción Chiscás Tallada"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Berga [aprox. 1770].\n\nA una partida diu que es de Gironella (Ob. Solsona).\n\nTeniente de Artillería. \"Guarda Almacen del Real Cuerpo de Artilleria, natural de Gironella, Obispado de Solsona\".\n\nCasament: amb Vicenta Tallada de Tortosa [1775].\n\nFills Concepción (Tortosa) [1800].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

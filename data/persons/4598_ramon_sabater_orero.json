@@ -1,0 +1,73 @@
+{
+  "id": "4598_ramon_sabater_orero",
+  "source_id": "4598",
+  "row_ref": "4598. Ramón Sabater Orero",
+  "name": "Ramón Sabater Orero",
+  "gender": "male",
+  "birth": {
+    "date": "1844-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1845-07-15",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4602_manuel_sabater_orero"
+    ],
+    "father": "4602_manuel_sabater_orero",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel Sabater Orero",
+      "Pascuala Orero"
+    ],
+    "father_name": "Manuel Sabater",
+    "mother_name": "Pascuala Orero",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1844]. \n\nDefunció: el 15 de juliol de 1845 a la Ràpita. Va morir pàrvul d'un any.\n\nEs germà de Jaime [1840].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

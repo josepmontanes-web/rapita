@@ -1,0 +1,74 @@
+{
+  "id": "4808_cecilia_sanchis_sanjuan",
+  "source_id": "4808",
+  "row_ref": "4808. Cecilia Sanchís Sanjuan",
+  "name": "Cecilia Sanchís Sanjuan",
+  "gender": "female",
+  "birth": {
+    "date": "1802-05-24",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1802-12-29",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5127_blas_silvestre_sanchis",
+      "4951_josefa_sanjuan_la_sala"
+    ],
+    "father": "5127_blas_silvestre_sanchis",
+    "mother": "4951_josefa_sanjuan_la_sala",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Blas Silvestre Sanchís",
+      "Josefa Sanjuan La Sala"
+    ],
+    "father_name": "Blas Sanchís Gimenes",
+    "mother_name": "Josefa Sanjuan la Sala",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Carlos Loszalo",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 24 de maig de 1802 a la Ràpita.\n\nPadrins: Carlos Loszalo de Serós i Francisca Pasqual.\n\nDefunció: el 29 de desembre de 1802 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

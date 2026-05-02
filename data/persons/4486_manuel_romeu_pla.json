@@ -1,0 +1,93 @@
+{
+  "id": "4486_manuel_romeu_pla",
+  "source_id": "4486",
+  "row_ref": "4486. Manuel Romeu Pla",
+  "name": "Manuel Romeu Pla",
+  "gender": "male",
+  "birth": {
+    "date": "1800-08-30",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4501_jacinto_romeu_vidiella"
+    ],
+    "father": "4501_jacinto_romeu_vidiella",
+    "mother": null,
+    "spouse": [
+      "4310_josefa_reverter_obiol"
+    ],
+    "children": [
+      "4493_maria_rosa_romeu_reverter",
+      "4494_rafael_romeu_reverte",
+      "4495_jose_romeu_reverte",
+      "4496_atanacio_romeu_reverter",
+      "4497_apolonia_maria_romeu_reverter",
+      "4498_manuel_francisco_romeu_reverter",
+      "4499_miguel_romeu_reverter"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Jacinto Romeu Vidiella",
+      "Eugenia Pla Sánchez"
+    ],
+    "father_name": "Jacinto Romeu Molinos",
+    "mother_name": "Eugenia Pla Sánchez",
+    "spouse_names": [
+      "Josefa Reverter Obiol"
+    ],
+    "children_names": [
+      "Maria Rosa Romeu Reverter",
+      "Rafael Romeu Reverté",
+      "José Romeu Reverté",
+      "Atanacio Romeu Reverter",
+      "Apolonia María Romeu Reverter",
+      "Manuel Francisco Romeu Reverter",
+      "Miguel Romeu Reverter"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Manuel Culla",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 30 d'agost de 1800 a la Ràpita.\n\nPadrins: Manuel Culla i María Agramunt.\n\nCasament: el 7 de maig de 1821 amb Josefa Reverter Obiol de la Ràpita [1806].\n\nFills: Miguel [1824], Rafael [1827], José [1830], Atanacio [1833], Apolonia María [1836], Manuel Francisco [1840] i María Rosa [1842].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

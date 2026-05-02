@@ -1,0 +1,76 @@
+{
+  "id": "1512_joaquin_climent",
+  "source_id": "1512",
+  "row_ref": "1512. Joaquín Climent",
+  "name": "Joaquín Climent",
+  "gender": "male",
+  "birth": {
+    "date": "1750-01-01",
+    "place": "Vallibona"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1513_felipa_climent_bilbe",
+      "1514_ramon_climent_bilbe"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Teresa Bilbé"
+    ],
+    "children_names": [
+      "Felipa Climent Bilbé",
+      "Ramon Climent Bilbé"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vallibona [aprox. 1750].\n\nCasament: amb Teresa Bilbé de Corbera.\n\nFills: Felipa (Tortosa) [1770] i Ramón [1770].\n\nEl 20 de febrer de 1791 la Priora de les Monges escriu a Josef Naudín: \"He tenido noticia que Joaquín Climent carpintero de estas reales obras, sin permiso ... no dudó en años pasados romper tierras de pertenencia de esta Heredad de la Rápita propia de esta Comunidad en el barranco junto a la Manzana...\". (ACA BGRP caixa 24). La resposta es que des de el principi els habitants de les vivendes de la Mansana que donen al barranc on es troba el terreny tenien el consentiment de fer-ho.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

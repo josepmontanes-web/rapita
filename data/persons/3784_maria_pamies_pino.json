@@ -1,0 +1,68 @@
+{
+  "id": "3784_maria_pamies_pino",
+  "source_id": "3784",
+  "row_ref": "3784. María Pamies Pino",
+  "name": "María Pamies Pino",
+  "gender": "female",
+  "birth": {
+    "date": "1855-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1855].\n\nAmonestacions de casament a Reus: 20 de març de 1880 amb Josep Maria Aloma Cerdà, cisteller, (fill de Josep i Teresa de Reus). (ACBC280-93-T2-22756).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

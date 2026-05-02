@@ -1,0 +1,77 @@
+{
+  "id": "3558_rosa_moya_vilarroya",
+  "source_id": "3558",
+  "row_ref": "3558. Rosa Moya Vilarroya",
+  "name": "Rosa Moya Vilarroya",
+  "gender": "female",
+  "birth": {
+    "date": "1797-10-22",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3550_juan_moia_oruspina_o_ruspina"
+    ],
+    "father": "3550_juan_moia_oruspina_o_ruspina",
+    "mother": null,
+    "spouse": [
+      "2437_lorenzo_gasparin_matamoros"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Moia Oruspina [o Ruspina]",
+      "Theresa Vilarroya Perolada"
+    ],
+    "father_name": "Juan Moya Oruspina",
+    "mother_name": "Theresa Vilarroya Perolada",
+    "spouse_names": [
+      "Lorenzo Gasparín Matamoros"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Izquierdo",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 22 d'octubre de 1797 a la Ràpita.\n\nPadrins: Juan Izquierdo i Rosa Saperes.\n\nCasament: el 29 de desembre de 1817 amb Lorenzo Gasparín Matamoros de la Ràpita [1799].\n\nFills: Francisco [1818], María [1820], Agustina [1823], Juan [1825], Susana [1827], Lorenzo [1830], Manuel [1832] i Pedro [1835].\n\nPermuta: Juan Fabregat de Alcanar con Rosa Moya, Francisco, María, Agustina, Susana, Lorenzo y Manuel Gasparín de San Carlos. Rosa Moya viuda de Lorenzo Gasparín en calidad de usufructuaria, Francisco Gasparín y Moya, María, Agustina, Susana, Lorenzo y Manuel Gasparín y Moya, madre e hijos permutaron y entregaron a Juan Fabregat una heredad en el término de Alcanar y partida de la Planera de extensión 4 jornales. Y el Fabregat dio a los referidos madre e hijos toda aquella heredad plantada de algarrobos y olivos sita en el término de San Carlos partida de Mundana de extensión 3 jornales en poca la diferencia, lindante con José Fabregat, José N a Rabolí, viuda de Vicente Fabregat y José Queralt. Y con el pacto: que los dichos Moya y Gasparín haya de satisfacer la pensión o censo que corresponda a dicha religión o al Estado: de valor dicha finca la primera 1050 reales y la otra 750 de cuya diferencia los Moya y Gasparín hacen en grácia al Fabregat. 25 de julio de 1859. Esc. Lorenzo Figueres de Alcanar.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

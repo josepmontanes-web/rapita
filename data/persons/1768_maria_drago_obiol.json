@@ -1,0 +1,68 @@
+{
+  "id": "1768_maria_drago_obiol",
+  "source_id": "1768",
+  "row_ref": "1768. Maria Drago Obiol",
+  "name": "Maria Drago Obiol",
+  "gender": "female",
+  "birth": {
+    "date": "1853-01-01",
+    "place": "Peníscola"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Peníscola [aprox. 1853].\n\nCasament: amb Bernardo Beltran de la Ràpita [1850], jornaler.\n\nFills: Teresa i Bernardo.\n\nDefunció: el 27 de juny de 1880 a la Ràpita als 27 anys de pleuro neumonia. Declara la mor la seua cosina Agustina Navarro de 26 anys, casada.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

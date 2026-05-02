@@ -1,12 +1,12 @@
 {
   "id": "33_miguel_carlos_adell_sanchis",
   "source_id": "33",
-  "row_ref": "33",
+  "row_ref": "33. Miguel Carlos Adell Sanchís",
   "name": "Miguel Carlos Adell Sanchís",
   "gender": "male",
   "birth": {
     "date": "1836-02-29",
-    "place": null
+    "place": "la Ràpita"
   },
   "death": {
     "date": null,
@@ -24,16 +24,44 @@
     "parents": [
       "24_miguel_adell_llagostera"
     ],
+    "father": "24_miguel_adell_llagostera",
+    "mother": null,
     "spouse": [],
-    "children": []
+    "children": [
+      "28_francisco_adell_mauri"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
   },
   "relations_detail": {
     "parents_names": [
       "Miguel Adell Llagostera",
       "Francisca Sanchís Capilla"
     ],
+    "father_name": "Miguel Adell Llagostera",
+    "mother_name": "Francisca Sanchís Capilla",
     "spouse_names": [],
-    "children_names": []
+    "children_names": [
+      "Francisco Adell Mauri"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Bautista Alsó",
+      "godmother": null
+    }
   },
   "occupation": {
     "title": null

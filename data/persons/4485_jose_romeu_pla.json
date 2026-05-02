@@ -1,0 +1,91 @@
+{
+  "id": "4485_jose_romeu_pla",
+  "source_id": "4485",
+  "row_ref": "4485. José Romeu Pla",
+  "name": "José Romeu Pla",
+  "gender": "male",
+  "birth": {
+    "date": "1793-03-23",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4501_jacinto_romeu_vidiella"
+    ],
+    "father": "4501_jacinto_romeu_vidiella",
+    "mother": null,
+    "spouse": [
+      "4043_maria_rosa_puig_granell"
+    ],
+    "children": [
+      "4475_jose_antonio_romeu_ferre",
+      "4487_isabel_romeu_puig",
+      "4488_mariano_romeu_puig",
+      "4489_jose_tomas_romeu_puig",
+      "4491_maria_ana_romeu_puig",
+      "4492_maria_romeu_puig"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Jacinto Romeu Vidiella",
+      "Eugenia Pla Sánchez"
+    ],
+    "father_name": "Jacinto Romeu Bediella",
+    "mother_name": "Eugenia Pla Sánchez",
+    "spouse_names": [
+      "Maria Rosa Puig Granell"
+    ],
+    "children_names": [
+      "José Antonio Romeu Ferré",
+      "Isabel Romeu Puig",
+      "Mariano Romeu Puig",
+      "José Tomás Romeu Puig",
+      "Maria Ana Romeu Puig",
+      "María Romeu Puig"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Josef Huguet",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 23 de març de 1793 a la Ràpita.\n\nPadrins: José Huguet i María Guardia.\n\nCasament: el 25 de setembre de 1815 amb María Rosa Puig Granell de la Galera [1791].\n\nFills: Isabel [1816], María [1820], José Tomás [1822], Francisco [1825], María Ana [1828] i Mariano [1830].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

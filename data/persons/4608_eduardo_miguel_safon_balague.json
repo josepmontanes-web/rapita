@@ -1,0 +1,73 @@
+{
+  "id": "4608_eduardo_miguel_safon_balague",
+  "source_id": "4608",
+  "row_ref": "4608. Eduardo Miguel Safon Balagué",
+  "name": "Eduardo Miguel Safon Balagué",
+  "gender": "male",
+  "birth": {
+    "date": "1821-05-07",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4624_juan_safon_fabregat"
+    ],
+    "father": "4624_juan_safon_fabregat",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Safon Fabregat",
+      "Maria Balagué Omedes"
+    ],
+    "father_name": "Juan Safont Fabregat",
+    "mother_name": "Maria Balagué Omedes",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Juan de Quesada",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 7 de maig de 1821 a la Ràpita.\n\nPadrins: Don Juan De Quesada es de Cabra del Santo Cristo (Jaen) i María Safont.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

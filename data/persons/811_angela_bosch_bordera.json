@@ -1,0 +1,81 @@
+{
+  "id": "811_angela_bosch_bordera",
+  "source_id": "811",
+  "row_ref": "811. Angela Bosch Bordera",
+  "name": "Angela Bosch Bordera",
+  "gender": "female",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "451_jayme_balague_navarro"
+    ],
+    "children": [
+      "395_juan_jayme_balague_bosch",
+      "396_josefa_rosa_balague_bosch"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Isidro Bosch",
+      "Tomasa Bordera"
+    ],
+    "father_name": "Isidro Bosch",
+    "mother_name": "Tomasa Bordera",
+    "spouse_names": [
+      "Jayme Balagué Navarro"
+    ],
+    "children_names": [
+      "Juan Jayme Balagué Bosch",
+      "Josefa Rosa Balagué Bosch"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1800].\n\nCasament: amb Jayme Balagué Navarro de Tortosa [1800].\n\nFills: Juan Jayme [1826] i Josefa Rosa [1830].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

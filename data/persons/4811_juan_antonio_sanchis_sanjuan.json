@@ -1,0 +1,74 @@
+{
+  "id": "4811_juan_antonio_sanchis_sanjuan",
+  "source_id": "4811",
+  "row_ref": "4811. Juan Antonio Sanchís Sanjuan",
+  "name": "Juan Antonio Sanchís Sanjuan",
+  "gender": "male",
+  "birth": {
+    "date": "1810-02-11",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4824_blas_sanches_ximenes",
+      "4951_josefa_sanjuan_la_sala"
+    ],
+    "father": "4824_blas_sanches_ximenes",
+    "mother": "4951_josefa_sanjuan_la_sala",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Blas Sanches Ximenes",
+      "Josefa Sanjuan La Sala"
+    ],
+    "father_name": "Blas Sanchís Ximenes",
+    "mother_name": "Josefa Sanjuan la Sala",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Torres",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'11 de febrer de 1810 a la Ràpita.\n\nPadrins: Juan Torres \"Dependiente del Resguardo\" es de Villanueva de los Infantes i Francisca Planes.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

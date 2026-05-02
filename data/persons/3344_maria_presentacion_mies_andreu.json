@@ -1,0 +1,74 @@
+{
+  "id": "3344_maria_presentacion_mies_andreu",
+  "source_id": "3344",
+  "row_ref": "3344. María Presentación Míes Andreu",
+  "name": "María Presentación Míes Andreu",
+  "gender": "female",
+  "birth": {
+    "date": "1832-11-27",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1833-01-10",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3358_casimiro_mies_guinjuan",
+      "96_francisca_andreu_fontanet"
+    ],
+    "father": "3358_casimiro_mies_guinjuan",
+    "mother": "96_francisca_andreu_fontanet",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Casimiro Míes Guinjuan",
+      "Francisca Andreu Fontanet"
+    ],
+    "father_name": "Casimiro Míes Guijuan",
+    "mother_name": "Francisca Andreu Fontanet",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Escardó",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 27 de novembre de 1832 a la Ràpita.\n\nPadrins: José Escardó i Mariana Cachot.\n\nDefunció: el 10 de gener de 1833 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

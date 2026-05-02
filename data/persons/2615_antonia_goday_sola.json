@@ -1,0 +1,74 @@
+{
+  "id": "2615_antonia_goday_sola",
+  "source_id": "2615",
+  "row_ref": "2615. Antonia Goday Solà",
+  "name": "Antonia Goday Solà",
+  "gender": "female",
+  "birth": {
+    "date": "1815-06-08",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1815-06-30",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2602_pablo_goday_andreu",
+      "5161_teresa_sola_coll"
+    ],
+    "father": "2602_pablo_goday_andreu",
+    "mother": "5161_teresa_sola_coll",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pablo Goday Andreu",
+      "Teresa Solà Coll"
+    ],
+    "father_name": "Pablo Goday Andreu",
+    "mother_name": "Teresa Solà Coll",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Vicente Fuster",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 8 de juny de 1815 a la Ràpita.\n\nPadrins: Don Vicente Fuster i Julita Solà.\n\nDefunció: el 30 de juny de 1815 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "3031_gregorio_lopez_rullo",
+  "source_id": "3031",
+  "row_ref": "3031. Gregorio López Rullo",
+  "name": "Gregorio López Rullo",
+  "gender": "male",
+  "birth": {
+    "date": "1833-03-10",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1837-10-20",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3038_juan_lopez_segarra",
+      "4585_teresa_rullo_borras"
+    ],
+    "father": "3038_juan_lopez_segarra",
+    "mother": "4585_teresa_rullo_borras",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan López Segarra",
+      "Teresa Rullo Borràs"
+    ],
+    "father_name": "Juan López Segarra",
+    "mother_name": "Teresa Rullo Borràs",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 10 de març de 1833 a la Ràpita.\n\nPadrina: Francisca Mayor.\n\nDefunció: el 20 d'octubre de 1837 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

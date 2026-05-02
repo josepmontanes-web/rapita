@@ -1,0 +1,74 @@
+{
+  "id": "2071_maria_juana_ferrer_rosales",
+  "source_id": "2071",
+  "row_ref": "2071. Maria Juana Ferrer Rosales",
+  "name": "Maria Juana Ferrer Rosales",
+  "gender": "female",
+  "birth": {
+    "date": "1842-09-15",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2066_ramon_ferrer_puell",
+      "4521_teresa_rosales_granell"
+    ],
+    "father": "2066_ramon_ferrer_puell",
+    "mother": "4521_teresa_rosales_granell",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Ramón Ferrer Puell",
+      "Teresa Rosales Granell"
+    ],
+    "father_name": "Ramón Ferrer Puell",
+    "mother_name": "Teresa Rosales Granell",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Balagué",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 15 de setembre de 1842 a la Ràpita.\n\nPadrins: Juan Balagué i María Cid.\n\nCasament: amb Pedro Gombau Castellà de la Ràpita [1834].\n\nFills: Pedro [1877] i Casimiro [1877].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

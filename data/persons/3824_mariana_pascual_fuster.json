@@ -1,0 +1,88 @@
+{
+  "id": "3824_mariana_pascual_fuster",
+  "source_id": "3824",
+  "row_ref": "3824. Mariana Pascual Fuster",
+  "name": "Mariana Pascual Fuster",
+  "gender": "female",
+  "birth": {
+    "date": "1779-01-01",
+    "place": "Vinaròs"
+  },
+  "death": {
+    "date": "1833-12-28",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3817_mariano_pascual_antequera",
+      "2270_antonia_fuster"
+    ],
+    "father": "3817_mariano_pascual_antequera",
+    "mother": "2270_antonia_fuster",
+    "spouse": [
+      "4640_jose_safont_pla"
+    ],
+    "children": [
+      "4635_theresa_safont_pasqual",
+      "4637_mariano_safon_pasqual",
+      "4638_pedro_safont_pasqual",
+      "4639_maria_safont_pasqual"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Mariano Pascual Antequera",
+      "Antonia Fuster"
+    ],
+    "father_name": "Mariano Pascual Antequera",
+    "mother_name": "Antonia Fuster",
+    "spouse_names": [
+      "José Safont Pla"
+    ],
+    "children_names": [
+      "Theresa Safont Pasqual",
+      "Mariano Safon Pasqual",
+      "Pedro Safont Pasqual",
+      "María Safont Pasqual"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1779]. \n\nCasament: el 5 de gener de 1799 amb José Safont Pla d'Alcanar [1775].\n\nFills: Mariano [1800], Tomás [1806], Teresa [1809], María [1813] i Pedro [1817].\n\nDefunció: el 28 de desembre de 1833 a la Ràpita. Va morir als 54 anys. \"No hizo testamento ni dotó su alma por ser pobre de solemnidad\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

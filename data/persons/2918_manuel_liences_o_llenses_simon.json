@@ -1,0 +1,75 @@
+{
+  "id": "2918_manuel_liences_o_llenses_simon",
+  "source_id": "2918",
+  "row_ref": "2918. Manuel Liences [o Llenses] Simón",
+  "name": "Manuel Liences [o Llenses] Simón",
+  "gender": "male",
+  "birth": {
+    "date": "1751-01-01",
+    "place": "Santillana de Campos"
+  },
+  "death": {
+    "date": "1825-12-15",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "2353_basilia_garcia_mendoza"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Llenses (Liences)",
+      "Bernarda Simón"
+    ],
+    "father_name": "Pedro Llenses (Liences)",
+    "mother_name": "Bernarda Simón",
+    "spouse_names": [
+      "Basilia Garcia Mendoza"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Fuster"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Santillana de Campos (Palència)  [aprox. 1751].\n\nProfessió: fuster.\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Mansana Vella núm. 7 (ACA BGRP Cajas 34). Al gener de 1799 paga un lloguer de 8 Rv per la mateixa casa.\n\nCasament: el 4 de febrer de 1805 amb Basilia García Mendoza de Morella [1760]. Es casa als 45 anys.\n\nDefunció: el 12 de maig de 1814 a la Ràpita. Va morir als 74 anys de \"inflamación de sangre\". No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

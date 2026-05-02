@@ -1,0 +1,81 @@
+{
+  "id": "4145_policarpa_ramon_guardino",
+  "source_id": "4145",
+  "row_ref": "4145. Policarpa Ramon Guardino",
+  "name": "Policarpa Ramon Guardino",
+  "gender": "female",
+  "birth": {
+    "date": "1814-01-01",
+    "place": "Vinaròs"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4142_jose_ramon"
+    ],
+    "father": "4142_jose_ramon",
+    "mother": null,
+    "spouse": [
+      "1392_juan_bautista_cera_mangraner"
+    ],
+    "children": [
+      "1398_isabel_cera_ramon"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Ramón",
+      "Policarpa Guardino"
+    ],
+    "father_name": "José Ramon",
+    "mother_name": "Policarpa Guardino",
+    "spouse_names": [
+      "Juan Bautista Cera Mangraner"
+    ],
+    "children_names": [
+      "Isabel Cera Ramon"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1814]. \n\nCasament: el 7 d'abril de 1836 amb Juan Bautista Cera Mangraner de Tortosa [1810]. Es casa als 22 anys.\n\nFills: Isabel [1836].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

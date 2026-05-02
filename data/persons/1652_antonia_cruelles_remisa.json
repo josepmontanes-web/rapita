@@ -1,0 +1,83 @@
+{
+  "id": "1652_antonia_cruelles_remisa",
+  "source_id": "1652",
+  "row_ref": "1652. Antonia Cruelles Remisa",
+  "name": "Antonia Cruelles Remisa",
+  "gender": "female",
+  "birth": {
+    "date": "1776-01-01",
+    "place": "Llissà d'Amunt"
+  },
+  "death": {
+    "date": "1840-04-09",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "5019_andres_sanz_sanarau"
+    ],
+    "children": [
+      "4983_teresa_sans_cruelles",
+      "4984_rafaela_sans_cruelles",
+      "4985_francisca_sans_cruelles"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Jayme Cruelles Riera",
+      "Coloma Remisa"
+    ],
+    "father_name": "Jayme Cruelles Riera",
+    "mother_name": "Coloma Remisa",
+    "spouse_names": [
+      "Andrés Sanz Sanarau"
+    ],
+    "children_names": [
+      "Teresa Sans Cruelles",
+      "Rafaela Sans Cruelles",
+      "Francisca Sans Cruelles"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Lliçà d'Amunt [aprox. 1776].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Mansana Vella núm. 15 amb el seu germà Francisco Cruells (ACA BGRP Cajas 34).\n\nCasament: el 21 de novembre de 1798 amb Andrés Sanz Sanarau de Tivenys [1772].\n\nFills: Francisca [1801], Rafaela [1800] i Teresa [1805].\n\nDefunció: el 9 d'abril de 1840 a la Ràpita. Va morir als 64 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

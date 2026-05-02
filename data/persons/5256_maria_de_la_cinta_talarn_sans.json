@@ -1,0 +1,74 @@
+{
+  "id": "5256_maria_de_la_cinta_talarn_sans",
+  "source_id": "5256",
+  "row_ref": "5256. María de la Cinta Talarn Sans",
+  "name": "María de la Cinta Talarn Sans",
+  "gender": "female",
+  "birth": {
+    "date": "1836-03-26",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5240_antonio_talarn_bosch",
+      "4984_rafaela_sans_cruelles"
+    ],
+    "father": "5240_antonio_talarn_bosch",
+    "mother": "4984_rafaela_sans_cruelles",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Talarn Bosch",
+      "Rafaela Sans Cruelles"
+    ],
+    "father_name": "Antonio Talarn Bosch",
+    "mother_name": "Rafaela Sans Cruelles",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Jacinto Matamoros",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 26 de març de 1836 a la Ràpita.\n\nPadrins: Jacinto Matamoros i María Martí.\n\nCasament: amb Vicente Juan de Vinaròs.\n\nFills: José [1859].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

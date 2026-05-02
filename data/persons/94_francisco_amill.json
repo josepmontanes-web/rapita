@@ -1,0 +1,68 @@
+{
+  "id": "94_francisco_amill",
+  "source_id": "94",
+  "row_ref": "94. Francisco Amill",
+  "name": "Francisco Amill",
+  "gender": "male",
+  "birth": {
+    "date": "1750-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Aparellador de les Obres des de 1783 al 1785. Al 10 de juny de 1787 diuen que ha deixat de pagar als germans Lantí i li reclamen (ACA BGPR Correspondencia Caixa 9).\n\nFrancisco Amill albañil con su hijo pasa a estas obras como maestro mayor y aparejador de las mismas el 19 de gener de 1781. (ACA BGRP caixa 5).\n\nAl 1786 les monges diuen que Francesch Canals li va donar un troç de terra que pertanyia al monasteri i que era veí de la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

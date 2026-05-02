@@ -1,0 +1,73 @@
+{
+  "id": "3587_pedro_nadal_ferrer",
+  "source_id": "3587",
+  "row_ref": "3587. Pedro Nadal Ferrer",
+  "name": "Pedro Nadal Ferrer",
+  "gender": "male",
+  "birth": {
+    "date": "1791-01-21",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2047_maria_angela_ferrer_gorgorio"
+    ],
+    "father": null,
+    "mother": "2047_maria_angela_ferrer_gorgorio",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Nadal Bigatana",
+      "Maria Angela Ferrer Gorgorio"
+    ],
+    "father_name": "Josef Nadal Bigatana",
+    "mother_name": "Maria Angela Ferrer Gorgorio",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Pedro David",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 21 de gener de 1791 a la Ràpita.\n\nPadrins: Pedro David i Rosalía Bayot.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

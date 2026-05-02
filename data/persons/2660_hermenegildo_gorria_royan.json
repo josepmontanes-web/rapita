@@ -1,0 +1,68 @@
+{
+  "id": "2660_hermenegildo_gorria_royan",
+  "source_id": "2660",
+  "row_ref": "2660. Hermenegildo Gorría Royán",
+  "name": "Hermenegildo Gorría Royán",
+  "gender": "male",
+  "birth": {
+    "date": "1843-01-01",
+    "place": "Huesca"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Huesca [aprox. 1843].\n\nCasament: el 9 de març de 1873 amb Magdalena Canicio Ferran de Tortosa [1853]. Es casa als 30 anys.\n\nDefunció: el 3 de gener de 1920 a Barcelona.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

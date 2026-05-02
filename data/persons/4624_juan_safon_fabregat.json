@@ -1,0 +1,88 @@
+{
+  "id": "4624_juan_safon_fabregat",
+  "source_id": "4624",
+  "row_ref": "4624. Juan Safon Fabregat",
+  "name": "Juan Safon Fabregat",
+  "gender": "male",
+  "birth": {
+    "date": "1801-10-11",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4641_manuel_safont_pla",
+      "1927_francisca_fabregat_obiol"
+    ],
+    "father": "4641_manuel_safont_pla",
+    "mother": "1927_francisca_fabregat_obiol",
+    "spouse": [],
+    "children": [
+      "4608_eduardo_miguel_safon_balague",
+      "4609_maria_rosa_safon_balaguer",
+      "4610_josefa_maria_safont_balague",
+      "4611_francisco_safont_balague",
+      "4612_josefa_tomasa_safont_balague"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel Safont Pla",
+      "Francisca Fabregat Obiol"
+    ],
+    "father_name": "Manuel Safon Plà",
+    "mother_name": "Francisca Fabregat Obiol",
+    "spouse_names": [
+      "Mariana Balagué Homedes"
+    ],
+    "children_names": [
+      "Eduardo Miguel Safon Balagué",
+      "Maria Rosa Safon Balaguer",
+      "Josefa Maria Safont Balagué",
+      "Francisco Safont Balagué",
+      "Josefa Tomasa Safont Balagué"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Joseph Procob Briner",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'11 d'octubre de 1801 a la Ràpita.\n\nPadrins: Don Joseph Procop Briner es de Madrid i Doña Juana Müller de Fridberg es de San Pal (Suïssa).\n\nCasament: el 15 de juliol de 1820 amb Mariana Balagué Homedes de Tortosa [1799].\n\nFills: Eduardo Miguel [1821], María Rosa [1823], Josefa María [1825], Francisco [1825] i Josefa Tomasa [1827].\n\nCasament: amb Concepción Chiscás Tallada de Tortosa [1800].\n\nDefunció: el 19 de gener de 1877 a la Ràpita d'una afecció asmàtica. Declara la defunció al registre civil la seua neboda Vicenta Gombau. Quan mor, només té una filla viva: María Rosa.\n \nVenta de Bautista Silvestre (podría ser Juan Bautista Silvestre Sanchís [1812]), labrador, a D. José Castellá (podría ser José Castellá Balaguer casat amb Francisca Borrás Vernís i fill de Mariano Castellá Cid), negociante, de una casa en el barrio de pescadores o del Puerto en las inmediaciones del Mar. Linda por un lado con la de Juan Safont (Sabio)(podría ser Juan Safont Fabregat casat amb Mariana Balagué Homedes), por otro con José Francisco Bernís (Murall) mediante calle, por detrás con la de Miguel Borrás (podría ser Miguel Borrás Vernís casat amb Carlina Castellá Balagué) y por delante con la playa. Precio 100 duros. 7 de agosto de 1846.\nEs un dels 28 veïns de la Ràpita que figuren al primer cens electoral de San Carlos de la Rápita de 1867, diu que viu al carrer Sant Rafel.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

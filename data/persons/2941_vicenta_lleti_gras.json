@@ -1,0 +1,68 @@
+{
+  "id": "2941_vicenta_lleti_gras",
+  "source_id": "2941",
+  "row_ref": "2941. Vicenta Lletí Gras",
+  "name": "Vicenta Lletí Gras",
+  "gender": "female",
+  "birth": {
+    "date": "1852-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1852].\n\nCasament: el 28 d'agost de 1873 amb José Jacinto López Baluenga de la Ràpita [1848]. Es casa als 21 anys. Viuen al carrer de la Constancia.\n\nFills: María Francisca Josefa [1874], Vicente [1878], Francisca [1878] i Antonio [1881].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

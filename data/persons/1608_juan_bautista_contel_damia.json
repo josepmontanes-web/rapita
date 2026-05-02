@@ -1,0 +1,73 @@
+{
+  "id": "1608_juan_bautista_contel_damia",
+  "source_id": "1608",
+  "row_ref": "1608. Juan Bautista Contel Damià",
+  "name": "Juan Bautista Contel Damià",
+  "gender": "male",
+  "birth": {
+    "date": "1829-11-27",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1830-05-17",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1606_francisco_contel_julbe"
+    ],
+    "father": "1606_francisco_contel_julbe",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Contel Julbe",
+      "Maria Ana Damià Navarro"
+    ],
+    "father_name": "Francisco Contel Julbe",
+    "mother_name": "Maria Ana Damià Navarro",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Agustín Giner",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 27 de novembre de 1829 a la Ràpita.\n\nPadrins: Agustín Giner i Ramona Sancho.\n\nDefunció: el 17 de maig de 1830 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "494_jose_barbera_gairal",
+  "source_id": "494",
+  "row_ref": "494. José Barberà Gairal",
+  "name": "José Barberà Gairal",
+  "gender": "male",
+  "birth": {
+    "date": "1828-01-01",
+    "place": "Montroig"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "494_jose_barbera_gairal"
+    ],
+    "father": "494_jose_barbera_gairal",
+    "mother": null,
+    "spouse": [
+      "2487_antonia_gavarda_reverter"
+    ],
+    "children": [
+      "494_jose_barbera_gairal",
+      "495_francisco_barbera_gavarda"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Barberà Gairal",
+      "Maria Gairal"
+    ],
+    "father_name": "José Barberà",
+    "mother_name": "Maria Gairal",
+    "spouse_names": [
+      "Antonia Gavarda Reverter"
+    ],
+    "children_names": [
+      "José Barberà Gairal",
+      "Francisco Barberá Gavarda"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  a Mont-roig [aprox. 1828].\n\nProfessió: podria ser filador però no es segur. Armador i Patró de pesca.\n\nCasament: el 18 de gener de 1845 amb Antonia Gavarda Reverter de València [1825].\n\nFills: Francisco [1846], Pau, Josep, Serafí i Ignasi.\n\nDefunció: el 26 de febrer de 1892 a la Ràpita als 64 anys. Consta com alcalde al 1882.\n\nHipoteca: José Barberá y Gairal a Agustín Ferrer y Febrer de Benicarló. Agustín Ferrer y Febrer en atención a que … el permiso solicitado y obtenido de la Ayudantia Militar de Marina del distrito de Vinaroz … por decreto del día de la otorgación de la escritura que se presente y … con las notas de haberse cumplido a dicha Ayudantía; otorgo que recibía … de José Barberá y Geirala todo aquel laudo …nombrado … del Mar de parte de … 171 de las segundas listas de extracciones de dichas matriculadas con su velamen y aparejos libres de todo genero de gravamen por el precio de 6000 reales en que se han convenido que se pagasen en tres plazos siguientes, el primero en el día primero de noviembre de 1860, el segundo el mismo día y mes del año 1861 y el último en igual día del mes de noviembre de 1862. Dicho comprador prometió cumplir lo estipulado y al efecto hipotecó expresamente una casa en la calle de Pescadores con puerta a la de San Roque lindante con herederos de Vicente Gombau y Mariano Castellá y a mayor abundamiento presento por fiador a José Roca y Ferrer marinero vecino de Benicarló de que aceptó dicho cargo. 29 de diciembre de 1859. Esc. Francisco Poy de Vinaroz. \n\nSap escriure, signa la declaració de naixement d'un nebot al registre civil.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

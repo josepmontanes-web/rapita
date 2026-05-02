@@ -1,0 +1,75 @@
+{
+  "id": "5645_maria_ximenez_capdevila",
+  "source_id": "5645",
+  "row_ref": "5645. María Ximenez Capdevila",
+  "name": "María Ximenez Capdevila",
+  "gender": "female",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Barcelona"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "311_antonio_badiola_payro"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "D.José Antonio Ximenez",
+      "DªCatarina Capdevila"
+    ],
+    "father_name": "D.José Antonio Ximenez",
+    "mother_name": "DªCatarina Capdevila",
+    "spouse_names": [
+      "Antonio Badiola Payro"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Barcelona [aprox. 1800].\n\nCasament: el 14 de novembre de 1823 amb Antonio Badiola Payro.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "2161_juan_fon_escardo",
+  "source_id": "2161",
+  "row_ref": "2161. Juan Fon Escardó",
+  "name": "Juan Fon Escardó",
+  "gender": "male",
+  "birth": {
+    "date": "1827-02-13",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1790_engracia_escardo_cachot"
+    ],
+    "father": null,
+    "mother": "1790_engracia_escardo_cachot",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pablo Fon",
+      "Engracia Escardó Cachot"
+    ],
+    "father_name": "Pablo Fon",
+    "mother_name": "Engracia Escardó Cachot",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Escardó",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 13 de febrer de 1827 a la Ràpita.\n\nPadrins: José Escardó i María Escardó.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "3340_antonia_mies_andreu",
+  "source_id": "3340",
+  "row_ref": "3340. Antonia Míes Andreu",
+  "name": "Antonia Míes Andreu",
+  "gender": "female",
+  "birth": {
+    "date": "1828-05-26",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3358_casimiro_mies_guinjuan",
+      "96_francisca_andreu_fontanet"
+    ],
+    "father": "3358_casimiro_mies_guinjuan",
+    "mother": "96_francisca_andreu_fontanet",
+    "spouse": [
+      "1169_bautista_castella_alegret"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Casimiro Míes Guinjuan",
+      "Francisca Andreu Fontanet"
+    ],
+    "father_name": "Casimiro Míes Guijuan",
+    "mother_name": "Francisca Andreu Fontanet",
+    "spouse_names": [
+      "Bautista Castellà Alegret"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Tomás Míes",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 26 de maig de 1828 a la Ràpita.\n\nPadrins: Tomás Míes i Tomasa Silvestre.\n\nCasament: el 26 de juliol de 1847 amb Bautista Castellà Alegret de la Ràpita [1820].\n\nFills: Bautista [1850], María [1853], Casimiro [1855] i Tomás [1860].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

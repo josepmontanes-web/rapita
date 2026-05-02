@@ -1,0 +1,80 @@
+{
+  "id": "3086_juan_magrina_rosales",
+  "source_id": "3086",
+  "row_ref": "3086. Juan Magriñá Rosales",
+  "name": "Juan Magriñá Rosales",
+  "gender": "male",
+  "birth": {
+    "date": "1815-12-19",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3080_francisco_magrina_aliau",
+      "4557_teresa_rosales_valls"
+    ],
+    "father": "3080_francisco_magrina_aliau",
+    "mother": "4557_teresa_rosales_valls",
+    "spouse": [],
+    "children": [
+      "3082_maria_leonor_magrina_gatimo"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Magriñá Aliau",
+      "Teresa Rosales Valls"
+    ],
+    "father_name": "Francisco Magriñá Aliau",
+    "mother_name": "Teresa Rosales Valls",
+    "spouse_names": [
+      "Doña Paula Galimó Bosch"
+    ],
+    "children_names": [
+      "María Leonor Magriñá Gatimó"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Juan Ruíz",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 19 de desembre de 1815 a la Ràpita.\n\nPadrí: Don Juan Ruíz.\n\nCasament: amb Doña Paula Gatimó Bosch de Reus, filla de Don José d'Arlés (França) i Doña María Ana de Reus.\n\nFills: María Leonor [1834].\n\nVenta: de D. José A…mo cirujano de Amposta en calidad de apoderado de D. Juan Magriñá y Rosales cirujano de Reus, a Juan Miracle, de aquella quinta parte de aquella casa situada en la calle de San Isidro que … de un alto o j… que hacía esquina con el camino que conducía al nuevo cementerio, juntamente con la misma parte que tenia aquellos dos patios cercados de pared a la nombrada casa contigüos. Linda por el otro lado con casa de los herederos de Miguel Rosales y por detrás dicho patio con otro de Eulalia Planes (Gubern). 26 de enero de 1858. Escribano Juan Ventosa de Amposta. Valor 2000.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

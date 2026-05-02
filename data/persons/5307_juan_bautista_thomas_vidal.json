@@ -1,0 +1,80 @@
+{
+  "id": "5307_juan_bautista_thomas_vidal",
+  "source_id": "5307",
+  "row_ref": "5307. Juan Bautista Thomas Vidal",
+  "name": "Juan Bautista Thomas Vidal",
+  "gender": "male",
+  "birth": {
+    "date": "1780-01-01",
+    "place": "Ulldecona"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5293_juan_thomas_martinez",
+      "5536_teresa_vidal_palos"
+    ],
+    "father": "5293_juan_thomas_martinez",
+    "mother": "5536_teresa_vidal_palos",
+    "spouse": [],
+    "children": [
+      "5294_juan_bautista_tomas_rams"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Thomas Martínez",
+      "Teresa Vidal Palos"
+    ],
+    "father_name": "Juan Thomas Martínez",
+    "mother_name": "Teresa Vidal Palos",
+    "spouse_names": [
+      "Mª de la Cinta Rams Puell"
+    ],
+    "children_names": [
+      "Juan Bautista Tomás Rams"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Ulldecona [aprox. 1780].\n\nCasament: el 12 d'abril de 1837 amb María de la Cinta Rams Puell de Tortosa [1815].\n\nFills: Juan Bautista [1841] i Asunción [1844].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

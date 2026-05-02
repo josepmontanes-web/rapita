@@ -1,0 +1,73 @@
+{
+  "id": "5121_rosa_silvestre_lopez",
+  "source_id": "5121",
+  "row_ref": "5121. Rosa Silvestre López",
+  "name": "Rosa Silvestre López",
+  "gender": "female",
+  "birth": {
+    "date": "1844-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1845-07-25",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5122_bautista_silvestre_lopez"
+    ],
+    "father": "5122_bautista_silvestre_lopez",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Silvestre López",
+      "Rosa López"
+    ],
+    "father_name": "Bautista Silvestre",
+    "mother_name": "Rosa López",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1844]. \n\nDefunció: el 25 de juliol de 1845 a la Ràpita.Va morir al any.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

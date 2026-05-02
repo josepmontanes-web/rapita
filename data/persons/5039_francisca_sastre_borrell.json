@@ -1,0 +1,79 @@
+{
+  "id": "5039_francisca_sastre_borrell",
+  "source_id": "5039",
+  "row_ref": "5039. Francisca Sastre Borrell",
+  "name": "Francisca Sastre Borrell",
+  "gender": "female",
+  "birth": {
+    "date": "1773-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1800-07-08",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5037_tomas_sastre"
+    ],
+    "father": "5037_tomas_sastre",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "833_teresa_breciano_sastre"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomás Sastre",
+      "Francisca Borrell"
+    ],
+    "father_name": "Tomàs Sastre",
+    "mother_name": "Francisca Borrell",
+    "spouse_names": [
+      "Pedro Breciano Boraster"
+    ],
+    "children_names": [
+      "Teresa Breciano Sastre"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1773]. \n\nAbans de casarse viu al Codoñol amb els seus pares.\n\nCasament: el 31 de març de 1793 amb Pedro Bresciano Burastero de Verzi di Loano (Italia) [1762].\n\nFills: Teresa [1795] i una altra nena que mort abans de batejar.\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Mansana Vella núm. 17 (ACA BGRP Cajas 34).\n\n\"Día 4 de julio de 1800 abortó Francisca Sastre de Tortosa mujer de Pedro Breciano de nación Genovés y dio a luz con mucha dificultad una niña que fue por necesidad persignada o bautizada por Bautista Estellé de Alcanar y habitante en la misma casa como consta el examen de este y lo atestiguan Rita Gubern madrina y Maria Guinot de Riudoms las únicas que se encontraban presentes y no se pudieron suplir las ceremonias porqué sólo vivió poco más de dos minutos\".\n\nDefunció: el 8 de juliol de 1800 a la Ràpita. Va morir del part.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

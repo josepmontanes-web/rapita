@@ -1,0 +1,68 @@
+{
+  "id": "2689_francisco_grau_serra",
+  "source_id": "2689",
+  "row_ref": "2689. Francisco Grau Serra",
+  "name": "Francisco Grau Serra",
+  "gender": "male",
+  "birth": {
+    "date": "1855-01-01",
+    "place": "Godall"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Godall [aprox. 1855].\n\nProfessió: jornaler.\n\nCasament: el 14 de desembre de 1882 amb Gerónima Dolz Biosca [1860]. Es casa als 27 anys.\n\nSap escriure, signa la declaració de casament al registre civil.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "5417_tomasa_urgelles_nofre",
+  "source_id": "5417",
+  "row_ref": "5417. Tomasa Urgellés Nofre",
+  "name": "Tomasa Urgellés Nofre",
+  "gender": "female",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Ulldecona"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2686_pedro_manuel_grau_urgelles",
+      "2687_jose_agustin_grau_urgelles"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Pedro Manuel Grau Urgellés",
+      "José Agustín Grau Urgellés"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Ulldecona [aprox. 1800].\n\nCasament: amb Tomás Grau Fibla d'Alcanar [1795].\n\nFills: Benito [1829], Casimira [1834], Pedro Manuel [1837] i José Agustín [1842].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

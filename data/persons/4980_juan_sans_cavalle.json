@@ -1,0 +1,84 @@
+{
+  "id": "4980_juan_sans_cavalle",
+  "source_id": "4980",
+  "row_ref": "4980. Juan Sans Cavallé",
+  "name": "Juan Sans Cavallé",
+  "gender": "male",
+  "birth": {
+    "date": "1794-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5020_benito_sanz_sanareu"
+    ],
+    "father": "5020_benito_sanz_sanareu",
+    "mother": null,
+    "spouse": [
+      "3765_maria_ortuno_gallart"
+    ],
+    "children": [
+      "5006_maria_francisca_sans_ortuno",
+      "5007_joaquin_sans_ortuno"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Benito Sanz Sanareu",
+      "Teresa Cavallé"
+    ],
+    "father_name": "Benito Sanz Sanarau",
+    "mother_name": "Teresa Cavallé",
+    "spouse_names": [
+      "Mª. Dolores Roses",
+      "Maria Ortuño Gallart"
+    ],
+    "children_names": [
+      "Maria Francisca Sans Ortuño",
+      "Joaquín Sans Ortuño"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1794]. \n\nCasament: amb María Dolores Roses.\n\nCasament: el 30 d'octubre de 1822 amb María Ortuño Gallart del Lugar Nuevo del Mar (València) [1802]. Es casa als 28 anys.\n\nFills: María [1823] i Joaquín [1839].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

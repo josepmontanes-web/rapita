@@ -1,0 +1,74 @@
+{
+  "id": "4510_manuel_rosales_castella",
+  "source_id": "4510",
+  "row_ref": "4510. Manuel Rosales Castellà",
+  "name": "Manuel Rosales Castellà",
+  "gender": "male",
+  "birth": {
+    "date": "1832-12-31",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1834-05-28",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4558_ramon_rosales_valls",
+      "1235_antonia_castella_colomines"
+    ],
+    "father": "4558_ramon_rosales_valls",
+    "mother": "1235_antonia_castella_colomines",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Ramón Rosales Valls",
+      "Antonia Castellà Colomines"
+    ],
+    "father_name": "Ramón Rosales Valls",
+    "mother_name": "Antonia Castellà Colomines",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Vicente Beltran",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 31 de desembre de 1832 a la Ràpita.\n\nPadrins: Vicente Beltran i Josefa María Castells.\n\nDefunció: el 28 de maig de 1834 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

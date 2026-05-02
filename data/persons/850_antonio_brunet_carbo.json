@@ -1,0 +1,82 @@
+{
+  "id": "850_antonio_brunet_carbo",
+  "source_id": "850",
+  "row_ref": "850. Antonio Brunet Carbó",
+  "name": "Antonio Brunet Carbó",
+  "gender": "male",
+  "birth": {
+    "date": "1815-06-15",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1816-11-22",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "859_bautista_brunet_monlleo",
+      "1004_teresa_carbo_fibla"
+    ],
+    "father": "859_bautista_brunet_monlleo",
+    "mother": "1004_teresa_carbo_fibla",
+    "spouse": [],
+    "children": [
+      "840_jose_antonio_brunet_antoli",
+      "842_martin_brunet_callariza",
+      "1006_antonio_carbo_pons"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Brunet Monlleó",
+      "Teresa Carbó Fibla"
+    ],
+    "father_name": "Bautista Brunet Ambrosio",
+    "mother_name": "Teresa Carbó Fibla",
+    "spouse_names": [],
+    "children_names": [
+      "José Antonio Brunet Antolí",
+      "Martín Brunet Callariza",
+      "Antonio Carbó Pons"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Antonio Rosales",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 15 de juny de 1815 a la Ràpita.\n\nPadrins: Antonio Rosales i Polonia Pitarch.\n\nDefunció: el 22 novembre de 1816 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

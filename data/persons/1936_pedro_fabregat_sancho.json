@@ -1,0 +1,76 @@
+{
+  "id": "1936_pedro_fabregat_sancho",
+  "source_id": "1936",
+  "row_ref": "1936. Pedro Fabregat Sancho",
+  "name": "Pedro Fabregat Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1827-12-30",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1934_vicente_fabregat_sancho",
+      "4908_francisca_sancho_pla"
+    ],
+    "father": "1934_vicente_fabregat_sancho",
+    "mother": "4908_francisca_sancho_pla",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Fabregat Sancho",
+      "Francisca Sancho Pla"
+    ],
+    "father_name": "Vicente Fabregat Sancho",
+    "mother_name": "Francisca Sancho Plà",
+    "spouse_names": [
+      "Maria Sancho Bort"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Prudencio Verge",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 30 de desembre de 1827 a la Ràpita.\n\nPadrins: Prudencio Verge i Ramona Sancho.\n\nCasament: el 14 de juliol de 1849 amb María Sancho Bort de la Ràpita [1831].\n\nFills: José [1850] i Francisco [1857].\n\nVenta: de José Curto, labrador, a Pedro Fabregues o Fabregat (podría ser Pedro Fabregat Sancho fill de Vicente Fabregat Sancho y Francisca Sancho Pla y casat amb Maria Sancho Bort filla de José Sancho Gil y Agustina Bort Lletí), labrador, de sitio para edificar en la calle del Arraval de San Isidro. 24 palmos por 60. Linda con Casimiro Pascual (podría ser Casimiro Pascual Tomás fill de Juan Bautista Pascual Fuster i Francisca Tomás Vidal i casat amb Tomasa Balada Planes filla de Francisco Balada Forcadell i Eulalia Planes Gubern), con Francisca Reverté y con camino de la Pedrera. 31 de marzo de 1858. Esc. Juan Ventosa de Amposta. Valor 220.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

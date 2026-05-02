@@ -1,0 +1,79 @@
+{
+  "id": "1700_joaquina_dalmau_fabregat",
+  "source_id": "1700",
+  "row_ref": "1700. Joaquina Dalmau Fabregat",
+  "name": "Joaquina Dalmau Fabregat",
+  "gender": "female",
+  "birth": {
+    "date": "1795-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1066_juan_cartes_fonollosa"
+    ],
+    "children": [
+      "1058_ildefonso_cartes_dalmau"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Dalmau",
+      "Josefa Fabregat"
+    ],
+    "father_name": "Dalmau",
+    "mother_name": "Josefa Fabregat",
+    "spouse_names": [
+      "Juan Cartes Fonollosa"
+    ],
+    "children_names": [
+      "Ildefonso Cartes Dalmau"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1795].\n\nCasament: amb Juan Cartes Fonollosa de Tortosa [1795].\n\nFills: Ildefonso [1814].\n\nEs germana de María Dalmau Fabregat [1764] i de Candia Dalmau Fabregat [1800].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

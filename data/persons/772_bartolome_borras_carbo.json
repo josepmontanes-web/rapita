@@ -1,0 +1,77 @@
+{
+  "id": "772_bartolome_borras_carbo",
+  "source_id": "772",
+  "row_ref": "772. Bartolomé Borràs Carbó",
+  "name": "Bartolomé Borràs Carbó",
+  "gender": "male",
+  "birth": {
+    "date": "1825-08-24",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "788_tomas_borras_pauls"
+    ],
+    "father": "788_tomas_borras_pauls",
+    "mother": null,
+    "spouse": [
+      "654_manuela_beltri_cardona"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomas Borràs Pauls",
+      "Tadea Carbó Fibla"
+    ],
+    "father_name": "Tomás Borràs Pauls",
+    "mother_name": "Tadea Carbó Fibla",
+    "spouse_names": [
+      "Manuela Beltri Cardona"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Pablo Carsí",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 24 d'agost de 1825 a la Ràpita.\n\nPadrins: Don Pablo Carsi i Lucía Navarro.\n\nProfessió: \"tartanero\".\n\nCasament: el 31 de juliol de 1852 amb Manuela Beltri Cardona [1824]. Testimonis: Don José Alegret i Don Luís Esteller.\n\nFills: Cinta [1853], Ramón [1855] i Concepción [1862].\n\nVenta: de Pedro Costa y Casilda Magriñá de San Carlos de la Rápita a Bartolomé Borrás y Carbó de Id., de casa en la Plaza Mayor que hace esquina hasta la casa de Narciso Seck por la parte esta del medio día … otra esquina con su puerta exterior que tiene a dicha plaza que contiene 26 palmos de luz y desde dicha Plaza Mayor a la parte del sisar o sitar la distancia de unos 43 palmos dividiendo con los mismos vendedores mediante un tabique que está a unos 15 palmos de distancia de la puerta que da al N; y comprendiendo toda esta distancia en la parte de los bajos de dicha casa con dirección hacia arriba vulgarmente dicho hasta el cielo, comprendiendo el primer piso y guardilla que linda también con dicha casa de Narciso Seck. Vendiendole dicha parte de casa en la expresada conformidad y en el estado en que se halla en la actualidad juntamente con la mitad del pozo existente en dicha casa en la parte que les queda: debiendo empero venir a cargo del expresado comprador el hacer las obras necesarias para que este pueda sacar agua del mismo con lo cual quedará dicho pozo común. Cuya venta hacen todos con la obligación de dentro el término de dos meses hacer las paredes divisorias de … y que deberán hacerse de obra cocida vulgo tovots en todos los pisos o altos. Por precio de 437 duros y medio monedas españolas, de los cuales en cuanto a 300 duros confiesan los vendedores haberlos recibido del comprador antes de la otorgación de la escritura y por los restantes 137 duros y medio del importe de esta venta quedó convenido entre los vendedores y el comprador que esté dentro el término de un mes se obliga a … y quitar, poniendo … la cantidad que falte aquel censo a que estaba afecta toda la arriba referida casa según dicha escritura de establecimiento y parte del cual tenían ya … y quitado los vendedores según carta de pago que obra en su poder … otorgaron a los 26 de noviembre del año 1856 con el Juez de Hacienda de la Provincia de Tarragona … ante Eusebio Fontanilles. 20 de diciembre de 1859. Esc. Juan Ventosa de Amposta. Valor 8750, cargas 2750 y valor líquido 6000.\n\nDefunció: el 25 de març de 1879 a la Ràpita als 50 anys de \"apoplegia pulmonar\". A la defunció diu que la dona es Francisca Beltri.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

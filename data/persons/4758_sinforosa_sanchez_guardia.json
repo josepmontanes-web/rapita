@@ -1,0 +1,68 @@
+{
+  "id": "4758_sinforosa_sanchez_guardia",
+  "source_id": "4758",
+  "row_ref": "4758. Sinforosa Sánchez Guardia",
+  "name": "Sinforosa Sánchez Guardia",
+  "gender": "female",
+  "birth": {
+    "date": "1853-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1853].\n\nCasament: amb José Arbó Tomás de la Ràpita [1839].\n\nFills: Francisca Sinforosa [1878] i Maria [1880]. Al naixement de Maria diu que té 26 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

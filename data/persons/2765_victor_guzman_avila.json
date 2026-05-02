@@ -1,0 +1,74 @@
+{
+  "id": "2765_victor_guzman_avila",
+  "source_id": "2765",
+  "row_ref": "2765. Victor Guzmán Avila",
+  "name": "Victor Guzmán Avila",
+  "gender": "male",
+  "birth": {
+    "date": "1833-07-28",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1833-12-17",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2774_jose_guzman_obiol",
+      "298_antonia_avila_matias"
+    ],
+    "father": "2774_jose_guzman_obiol",
+    "mother": "298_antonia_avila_matias",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Guzmán Obiol",
+      "Antonia Avila Matias"
+    ],
+    "father_name": "José Guzmán Obiol",
+    "mother_name": "Antonia Avila Matias",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Castellà",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 28 de juliol de 1833 a la Ràpita.\n\nPadrins: José Castellà i Josefa Mayor.\n\nDefunció: el 17 de desembre de 1833 a la Ràpita. A la partida de defunció es diu Victoriano.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

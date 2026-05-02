@@ -1,0 +1,68 @@
+{
+  "id": "4468_agustina_roig_panicello",
+  "source_id": "4468",
+  "row_ref": "4468. Agustina Roig Panicello",
+  "name": "Agustina Roig Panicello",
+  "gender": "female",
+  "birth": {
+    "date": "1850-01-01",
+    "place": "Santa Bàrbara"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Santa Bàrbara [aprox. 1850].\n\nCasament: amb Antonio López Garriga de la Ràpita [1843].\n\nFills: María de la Cinta [1875], Francisca [1878] i Francisco [1880].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

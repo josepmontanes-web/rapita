@@ -1,0 +1,98 @@
+{
+  "id": "4557_teresa_rosales_valls",
+  "source_id": "4557",
+  "row_ref": "4557. Teresa Rosales Valls",
+  "name": "Teresa Rosales Valls",
+  "gender": "female",
+  "birth": {
+    "date": "1783-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4548_antonio_rosales_sole"
+    ],
+    "father": "4548_antonio_rosales_sole",
+    "mother": null,
+    "spouse": [
+      "5049_pablo_segarra_cartes",
+      "2320_francisco_garcia_garcia"
+    ],
+    "children": [
+      "2359_francisco_garcia_rosales",
+      "2360_pedro_garcia_rosales",
+      "2361_maria_luisa_garcia_rosales",
+      "3085_agustin_magrina_rosales",
+      "3086_juan_magrina_rosales",
+      "3087_casilda_magrina_rosales",
+      "3088_teresa_magrina_rosales",
+      "3089_francisco_magrina_rosales"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Rosales Solé",
+      "Teresa Valls"
+    ],
+    "father_name": "Antonio Rosales Solé",
+    "mother_name": "Teresa Valls",
+    "spouse_names": [
+      "Pablo Segarra Cartes",
+      "Francisco García García",
+      "Mateo Marco Magriñá Aliau"
+    ],
+    "children_names": [
+      "Francisco García Rosales",
+      "Pedro García Rosales",
+      "María Luísa García Rosales",
+      "Agustín Magriñá Rosales",
+      "Juan Magriñá Rosales",
+      "Casilda Magriñá Rosales",
+      "Teresa Magriñá Rosales",
+      "Francisco Magriñá Rosales"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1783]. \n\nCasament: el 6 de març de 1802 amb Pablo Segarra Cartes de Tortosa [1780].\n\nCasament: el 29 de desembre de 1804 amb Francisco García García de Hevia-Siero (Asturias) [1760]. Es casa als 21 anys. Diu que era vidua de Tomás Zaragoza.\n\nFills: Francisco [1806], María Luísa [1808] i Pedro [1810].\n\nCasament: el 20 d'abril de 1812 amb Francisco Magriñá Aliau de Tortosa [1777].\n\nFills: Agustín [1813], Juan [1815], Teresa [1818], Francisco [1820] i Casilda [1823].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "4909_tomasa_sancho_pla",
+  "source_id": "4909",
+  "row_ref": "4909. Tomasa Sancho Pla",
+  "name": "Tomasa Sancho Pla",
+  "gender": null,
+  "birth": {
+    "date": "1805-04-27",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4853_pedro_sancho_biosca"
+    ],
+    "father": "4853_pedro_sancho_biosca",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Sancho Biosca",
+      "Tomasa Pla"
+    ],
+    "father_name": "Pedro Sancho",
+    "mother_name": "Tomasa Pla",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 27 d'abril de 1805 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,7 +1,7 @@
 {
   "id": "12_francisca_accensi_lazaro",
   "source_id": "12",
-  "row_ref": "12",
+  "row_ref": "12. Francisca Accensi Lazaro",
   "name": "Francisca Accensi Lazaro",
   "gender": "female",
   "birth": {
@@ -22,20 +22,67 @@
   },
   "family": {
     "parents": [
-      "5_ramon_accensi"
+      "5_ramon_accensi",
+      "2916_maria_lazaro_domenech"
     ],
-    "spouse": [],
-    "children": []
+    "father": "5_ramon_accensi",
+    "mother": "2916_maria_lazaro_domenech",
+    "spouse": [
+      "5393_lucas_torta_subirats"
+    ],
+    "children": [
+      "5338_juan_ramon_torta_accensi",
+      "5339_francisco_jose_torta_accensi",
+      "5340_jose_torta_accensi",
+      "5341_francisca_torta_accensi",
+      "5342_bautista_torta_accensi",
+      "5343_agustin_torta_accensi",
+      "5344_lucas_torta_accensi",
+      "5345_carmen_torta_accensi",
+      "5346_tomasa_torta_accensi"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
   },
   "relations_detail": {
     "parents_names": [
       "Ramón Accensi",
-      "Maria Lozano"
+      "María Lázaro Domenech"
     ],
+    "father_name": "Ramon Accensi",
+    "mother_name": "Maria Lozano",
     "spouse_names": [
       "Lucas Torta Subirats"
     ],
-    "children_names": []
+    "children_names": [
+      "Juan Ramón Torta Accensi",
+      "Francisco José Torta Accensi",
+      "José Torta Accensi",
+      "Francisca Torta Accensi",
+      "Bautista Torta Accensi",
+      "Agustín Torta Accensi",
+      "Lucas Torta Accensi",
+      "Carmen Torta Accensi",
+      "Tomasa Torta Accensi"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
   },
   "occupation": {
     "title": null

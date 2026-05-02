@@ -1,0 +1,72 @@
+{
+  "id": "4896_bautista_sancho_gil",
+  "source_id": "4896",
+  "row_ref": "4896. Bautista Sancho Gil",
+  "name": "Bautista Sancho Gil",
+  "gender": "male",
+  "birth": {
+    "date": "1843-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2531_jose_gil_queralt"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "José Gil Queralt"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1843].\n\nProfessió: pagès.\n\nCasament: amb Teresa Matamoros Sans d'Alcanar [1851].\n\nFills: Gabriel [1878] i Francisco [1881].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

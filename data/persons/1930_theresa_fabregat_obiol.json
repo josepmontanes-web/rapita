@@ -1,0 +1,71 @@
+{
+  "id": "1930_theresa_fabregat_obiol",
+  "source_id": "1930",
+  "row_ref": "1930. Theresa Fabregat Obiol",
+  "name": "Theresa Fabregat Obiol",
+  "gender": "female",
+  "birth": {
+    "date": "1789-01-01",
+    "place": "Penyíscola"
+  },
+  "death": {
+    "date": "1814-11-06",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Fabregat",
+      "Joaquina Obiol"
+    ],
+    "father_name": "José Fabregat",
+    "mother_name": "Joaquina Obiol",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Peníscola [aprox. 1789].\n\nDefunció: el 6 de novembre de 1814 a la Ràpita. Va morir als 25 anys.\n\nEs germana d'Antonia [1776], Francisca [1782] i Pascuala [1792].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

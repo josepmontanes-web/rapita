@@ -1,0 +1,81 @@
+{
+  "id": "3975_antonia_pla",
+  "source_id": "3975",
+  "row_ref": "3975. Antonia Pla",
+  "name": "Antonia Pla",
+  "gender": "female",
+  "birth": {
+    "date": "1730-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1796-07-02",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "263_tomas_hernandez_o_arlandez_pla",
+      "264_rosa_hernandez_o_arlandez_pla",
+      "1668_josef_cugat_pla",
+      "4644_juan_zafon_pla"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Manuel Cugat",
+      "Josef Hernández"
+    ],
+    "children_names": [
+      "Tomás Hernández [o Arlández] Pla",
+      "Rosa Hernández [o Arlández] Pla",
+      "Josef Cugat Pla",
+      "Juan Zafon Pla"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1730]. \n\nCasament: amb Eugenio Hernández [o Arlández] de Tortosa [1729].\n\nFills: Tomás (Tortosa) [aprox 1768] i Rosa (Tortosa) [aprox. 1778].\n\nDefunció: el 2 de juliol de 1796 a la Ràpita. \"Tenia hecho testamento\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "4861_micaela_sancho_bort",
+  "source_id": "4861",
+  "row_ref": "4861. Micaela Sancho Bort",
+  "name": "Micaela Sancho Bort",
+  "gender": "female",
+  "birth": {
+    "date": "1818-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4895_jose_sancho_gil",
+      "805_agustina_bort_lleti"
+    ],
+    "father": "4895_jose_sancho_gil",
+    "mother": "805_agustina_bort_lleti",
+    "spouse": [
+      "4786_francisco_sanches_pasqual"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Sancho Gil",
+      "Agustina Bort Lletí"
+    ],
+    "father_name": "José Sancho Gil",
+    "mother_name": "Agustina Bort Lletí",
+    "spouse_names": [
+      "Francisco Sanches Pasqual"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1818]. \n\nCasament: el 19 de març de 1836 amb Francisco Sanches Pasqual de la Ràpita [1815]. Es casa als 18 anys.\n\nFills: José Matías [1838], Juan Jayme [1841], Agustín [1848] i Francisca [1859].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

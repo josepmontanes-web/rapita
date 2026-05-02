@@ -1,0 +1,74 @@
+{
+  "id": "2703_francisca_rafaela_guardia_andreu",
+  "source_id": "2703",
+  "row_ref": "2703. Francisca Rafaela Guardia Andreu",
+  "name": "Francisca Rafaela Guardia Andreu",
+  "gender": "female",
+  "birth": {
+    "date": "1837-04-20",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2711_agustin_guardia_bort",
+      "97_rosa_andreu_fontanet"
+    ],
+    "father": "2711_agustin_guardia_bort",
+    "mother": "97_rosa_andreu_fontanet",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustín Guardia Bort",
+      "Rosa Andreu Fontanet"
+    ],
+    "father_name": "Agustín Guardia Bort",
+    "mother_name": "Rosa Andreu Fontanet",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Antonio Segarra",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 20 d'abril de 1837 a la Ràpita.\n\nPadrins: Antonio Segarra i Francisca Andreu.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

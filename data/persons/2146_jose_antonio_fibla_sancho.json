@@ -1,0 +1,74 @@
+{
+  "id": "2146_jose_antonio_fibla_sancho",
+  "source_id": "2146",
+  "row_ref": "2146. José Antonio Fibla Sancho",
+  "name": "José Antonio Fibla Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1842-10-25",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2138_juan_fibla_querol",
+      "4944_paula_sancho_subirats"
+    ],
+    "father": "2138_juan_fibla_querol",
+    "mother": "4944_paula_sancho_subirats",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Fibla Querol",
+      "Paula Sancho Subirats"
+    ],
+    "father_name": "Juan Fibla Querol",
+    "mother_name": "Paula Sancho Subirats",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Matamoros",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 25 d'octubre de 1842 a la Ràpita.\n\nPadrins: José Matamoros i Antonia Gras.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

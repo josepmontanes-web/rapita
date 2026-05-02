@@ -1,0 +1,80 @@
+{
+  "id": "2847_pablo_izquierdo_chillida",
+  "source_id": "2847",
+  "row_ref": "2847. Pablo Izquierdo Chillida",
+  "name": "Pablo Izquierdo Chillida",
+  "gender": "male",
+  "birth": {
+    "date": "1828-06-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2860_agustin_izquierdo_saperas",
+      "1440_maria_chillida_querol"
+    ],
+    "father": "2860_agustin_izquierdo_saperas",
+    "mother": "1440_maria_chillida_querol",
+    "spouse": [],
+    "children": [
+      "2839_juan_izquierdo_carceller",
+      "2840_manuel_izquierdo_carceller"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Agustín Izquierdo Saperas",
+      "Maria Chillida Querol"
+    ],
+    "father_name": "Agustín Izquierdo Saperas",
+    "mother_name": "Maria Chillida Querol",
+    "spouse_names": [],
+    "children_names": [
+      "Juan Izquierdo Carceller",
+      "Manuel Izquierdo Carceller"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Pablo Carsi",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'1 de juny de 1828 a la Ràpita.\n\nPadrins: Don Pablo Carsi \"Administrador de este Portazgo\" es de Valencia i Esperanza Izquierdo.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

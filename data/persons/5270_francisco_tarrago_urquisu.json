@@ -1,0 +1,75 @@
+{
+  "id": "5270_francisco_tarrago_urquisu",
+  "source_id": "5270",
+  "row_ref": "5270. Francisco Tarragó Urquisu",
+  "name": "Francisco Tarragó Urquisu",
+  "gender": "male",
+  "birth": {
+    "date": "1820-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5268_francisco_tarrago"
+    ],
+    "father": "5268_francisco_tarrago",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Tarragó",
+      "Agustina Urquisu"
+    ],
+    "father_name": "Francisco Tarragó",
+    "mother_name": "Agustina Urquisu",
+    "spouse_names": [
+      "Joaquina Rosales Giulienc"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1820]. \n\nCasament: el 27 de febrer de 1847 amb Joaquina Rosales Junyent de la Ràpita [1822].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

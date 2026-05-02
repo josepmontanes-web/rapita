@@ -1,0 +1,78 @@
+{
+  "id": "2484_maria_teresa_gavarda_reverte",
+  "source_id": "2484",
+  "row_ref": "2484. María Teresa Gavarda Reverté",
+  "name": "María Teresa Gavarda Reverté",
+  "gender": "female",
+  "birth": {
+    "date": "1836-06-04",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2481_pablo_gavarda_reverte",
+      "4317_bernarda_reverter_queralt"
+    ],
+    "father": "2481_pablo_gavarda_reverte",
+    "mother": "4317_bernarda_reverter_queralt",
+    "spouse": [
+      "1937_prudencio_fabregat_sancho"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pablo Gavarda Reverté",
+      "Bernarda Reverter Queralt"
+    ],
+    "father_name": "Pablo Gavarda Romero",
+    "mother_name": "Bernarda Reverter Queralt",
+    "spouse_names": [
+      "Prudencio Fabregat Sancho"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Agustín Gasparín",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 4 de juny de 1836 a la Ràpita.\n\nPadrins: Agustín Gasparín i María Teresa Gasparín.\n\nCasament: el 2 d'abril de 1855 amb Prudencio Fabregat Sancho de la Ràpita [1830]. Testimonis: Salvador Sánchez i Manuel Pons. Viuen al carrer de Jesús.\n\nFills: Ramona [1858], Providencia [1862], Modesto Joaquín [1876] i Modesto Prudencio [1878].\n\nReconocimiento: de Dª Rosa Celma consorte de D. Vicente Linares a Teresa Gabarda (Reverté) consorte de Prudencio Fabregat (Sancho). Dª Rosa Celma consorte en segundas nupcias de D. Vicente Linares. En 30 de marzo de 1859 Dª Rosa Celma compra a Tomás Borrás y a su hija Maria y marido Miguel Arnau un sitio para edificar en la calle del mar y en los bajos de la población de San Carlos de 24 palmos de ancho por 55, lindante con herederos de Juan Bautista Borrás y con restante terreno de Tomás Borrás. Y atendiendo que la propia otorgante reconoció que aceptó dicha venta en … y provecho de Teresa Gavarda consorte de Prudencio Fabregat… 20 de abril de1858. Esc. Juan Ventosa de Amposta.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

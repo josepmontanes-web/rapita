@@ -1,0 +1,89 @@
+{
+  "id": "4933_christofola_sancho_sancho",
+  "source_id": "4933",
+  "row_ref": "4933. Christofola Sancho Sancho",
+  "name": "Christofola Sancho Sancho",
+  "gender": "female",
+  "birth": {
+    "date": "1757-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1804-04-18",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "4174_pedro_reverter"
+    ],
+    "children": [
+      "4337_juan_bautista_reverter_sancho",
+      "4338_pedro_reverter_sancho",
+      "4339_rosa_reverter_sancho",
+      "4340_jose_reverter_sancho",
+      "4341_matilde_reverter_sancho",
+      "4342_candia_reverter_sancho"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Sancho",
+      "Matilda Sancho"
+    ],
+    "father_name": "Joaquín Sancho",
+    "mother_name": "Matilda Sancho",
+    "spouse_names": [
+      "Pedro Reverter"
+    ],
+    "children_names": [
+      "Juan Bautista Reverter Sancho",
+      "Pedro Reverter Sancho",
+      "Rosa Reverter Sancho",
+      "José Reverter Sancho",
+      "Matilde Reverter Sancho",
+      "Candia Reverter Sancho"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1757]. \n\nCasament: amb Pedro Reverter d'Alcanar [1760].\n\nFills: José (Alcanar) [1781], Matilde (Alcanar) [1783], Pedro (Alcanar) [1786], Rosa (Alcanar) [1789], Candia (Alcanar) [1792] i Juan Bautista [1796].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Masia de Don Joaquín Anglès  (ACA BGRP Cajas 34).\n\nDefunció: el 18 d'abril de 1804 a la Ràpita. Fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

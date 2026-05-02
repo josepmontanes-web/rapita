@@ -1,0 +1,78 @@
+{
+  "id": "1194_ramon_castella_buera",
+  "source_id": "1194",
+  "row_ref": "1194. Ramon Castellà Buera",
+  "name": "Ramon Castellà Buera",
+  "gender": "male",
+  "birth": {
+    "date": "1836-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1211_ramon_castella_caldero",
+      "882_maria_buera_cartes"
+    ],
+    "father": "1211_ramon_castella_caldero",
+    "mother": "882_maria_buera_cartes",
+    "spouse": [
+      "1128_felicia_casajust_reverte"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Ramon Castellà Calderó",
+      "María Buera Cartes"
+    ],
+    "father_name": "Ramon Castellà Calderó",
+    "mother_name": "Maria Buera Cartes",
+    "spouse_names": [
+      "Felicia Casajust Reverté"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pescador"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1836].\n\nProfessió: pescador.\n\nCasament: el 28 de juliol de 1853 amb Felicia Casajust Reverté de la Ràpita [1832]. Es casa als 17 anys. Testimonis: Agustín Reverté i Agustín Curto.\n\nFills: Francisco [1877].\n\nDefunció: el 31 d'agost de 1878 a la Ràpita de pleuroneumonia. Declara la mor la seua neboda Dolores Beltran.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

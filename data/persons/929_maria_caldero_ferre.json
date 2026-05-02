@@ -1,0 +1,83 @@
+{
+  "id": "929_maria_caldero_ferre",
+  "source_id": "929",
+  "row_ref": "929. María Calderó Ferré",
+  "name": "María Calderó Ferré",
+  "gender": "female",
+  "birth": {
+    "date": "1769-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1839-09-15",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1202_francisca_castella_caldero",
+      "1204_manuela_castella_caldero",
+      "1205_theresa_castella_caldero",
+      "1206_agustin_castella_caldero"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pere Calderó",
+      "Francisca Ferré"
+    ],
+    "father_name": "Pere Calderó",
+    "mother_name": "Francisca Ferré",
+    "spouse_names": [
+      "Josef Castellà Zaragoza"
+    ],
+    "children_names": [
+      "Francisca Castellà Calderó",
+      "Manuela Castellà Calderó",
+      "Theresa Castellà Calderó",
+      "Agustín Castellà Calderó"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1769].\n\nCasament: amb José Castellà Zaragoza de Tortosa [1760].\n\nFills: Francisca (Tortosa) [1785], José Antonio [1790], Manuela (Tortosa) [1793], Teresa (Tortosa) [1796] i Agustín [1798].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu al barri dels pescadors  (ACA BGRP Cajas 34).\n\nGermana de Josefa Calderó Ferré [1765] i Rosa Calderó Ferré [1775].\n\nDefunció: el 15 de setembre de 1839 a la Ràpita. Va morir als 70 anys. No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "5283_mariana_temprado_cucala",
+  "source_id": "5283",
+  "row_ref": "5283. Mariana Temprado Cucala",
+  "name": "Mariana Temprado Cucala",
+  "gender": "female",
+  "birth": {
+    "date": "1770-01-01",
+    "place": "Alcalà Gisbert"
+  },
+  "death": {
+    "date": "1795-10-20",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "4093_manuel_pujol_temprado",
+      "5598_magdalena_vilar_temprado"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Temprado",
+      "Maria Teresa Cucala"
+    ],
+    "father_name": "Josef Temprado",
+    "mother_name": "Maria Teresa Cucala",
+    "spouse_names": [
+      "Antonio Vilar",
+      "Josef Puigol Muños"
+    ],
+    "children_names": [
+      "Manuel Pujol Temprado",
+      "Magdalena Vilar Temprado"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcalà de Xivert [aprox. 1770]. \n\nCasament: amb Antonio Vilar.\n\nFills: Magdalena [1790].\n\nCasament: el 20 de març de 1792 amb José Pujol [o Puigol] Muños de Marçà [1770].\n\nFills: Manuel [1794].\n\nDefunció: el 20 d'octubre de 1795 a la Ràpita. \"No pudo hacer testamento\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

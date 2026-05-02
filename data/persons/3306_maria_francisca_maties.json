@@ -1,0 +1,70 @@
+{
+  "id": "3306_maria_francisca_maties",
+  "source_id": "3306",
+  "row_ref": "3306. María Francisca Maties",
+  "name": "María Francisca Maties",
+  "gender": "female",
+  "birth": {
+    "date": "1772-01-01",
+    "place": "Benicarló"
+  },
+  "death": {
+    "date": "1832-08-21",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Francisco Avila"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Benicarló [aprox. 1772]. \n\nCasament: amb Francisco Ávila de Benicarló.\n\nFills: Antonia (Benicarló) [1800].\n\nDefunció: el 21 d'agost de 1832 a la Ràpita. Va morir als 60 anys. No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

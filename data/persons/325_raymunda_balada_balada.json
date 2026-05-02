@@ -1,0 +1,94 @@
+{
+  "id": "325_raymunda_balada_balada",
+  "source_id": "325",
+  "row_ref": "325. Raymunda Balada Balada",
+  "name": "Raymunda Balada Balada",
+  "gender": "female",
+  "birth": {
+    "date": "1805-03-19",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "345_miguel_balada_lluch",
+      "350_joaquina_balada_miralles"
+    ],
+    "father": "345_miguel_balada_lluch",
+    "mother": "350_joaquina_balada_miralles",
+    "spouse": [
+      "4919_jose_sancho_querol"
+    ],
+    "children": [
+      "4840_jose_miguel_sancho_balada",
+      "4841_melchora_sancho_balada",
+      "4843_theresa_sancho_balada",
+      "4844_maria_sancho_balada",
+      "4845_jose_sancho_balada",
+      "4846_miguel_salvador_sancho_balada",
+      "4847_juan_bautista_sancho_balada"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Balada Lluch",
+      "Joaquina Balada Miralles"
+    ],
+    "father_name": "Miguel Balada Lluch",
+    "mother_name": "Joaquina Balada Miralles",
+    "spouse_names": [
+      "José Sancho Querol"
+    ],
+    "children_names": [
+      "José Miguel Sancho Balada",
+      "Melchora Sancho Balada",
+      "Theresa Sancho Balada",
+      "Maria Sancho Balada",
+      "José Sancho Balada",
+      "Miguel Salvador Sancho Balada",
+      "Juan Bautista Sancho Balada"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Alexandro Beltri",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 19 de març de 1805 a la Ràpita.\n\nPadrins: Alexandro Beltri i Raymunda Cortiella.\n\nCasament: el 18 de setembre de 1830 amb José Sancho Querol d'Alcanar [1805].\n\nFills: José Miguel [1831], Melchora [1833], José [1834], Miguel Salvador [1836], Juan Bautista [1838], Teresa [1840], María [1841], Mariano [1845] i Rafael [1848].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

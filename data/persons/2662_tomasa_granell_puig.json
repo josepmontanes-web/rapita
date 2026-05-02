@@ -1,0 +1,93 @@
+{
+  "id": "2662_tomasa_granell_puig",
+  "source_id": "2662",
+  "row_ref": "2662. Tomasa Granell Puig",
+  "name": "Tomasa Granell Puig",
+  "gender": "female",
+  "birth": {
+    "date": "1795-01-01",
+    "place": "La Galera (Les Planes)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "4556_jose_antonio_rosales_valls"
+    ],
+    "children": [
+      "4519_isabel_rosales_granell",
+      "4520_salvador_rosales_granell",
+      "4521_teresa_rosales_granell",
+      "4522_dolores_rosales_granell",
+      "4523_juan_bautista_rosales_granell",
+      "4524_engracia_rosales_granell",
+      "4525_jose_antonio_rosales_granell",
+      "4527_tomasa_rosales_granell"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Domingo Granell",
+      "Agustina Puig"
+    ],
+    "father_name": "Domingo Granell",
+    "mother_name": "Agustina Puig",
+    "spouse_names": [
+      "José Antonio Rosales Valls"
+    ],
+    "children_names": [
+      "Isabel Rosales Granell",
+      "Salvador Rosales Granell",
+      "Teresa Rosales Granell",
+      "Dolores Rosales Granell",
+      "Juan Bautista Rosales Granell",
+      "Engracia Rosales Granell",
+      "José Antonio Rosales Granell",
+      "Tomasa Rosales Granell"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Galera [aprox. 1795].\n\nApareix un Domingo Granell, veí de Las Planas, que paga censos a les monges per 4 jornals en partida indeterminada. (Doc. 1)\n\nCasament: amb José Antonio Rosales Valls de la Ràpita [1792].\n\nFills: Teresa (Santa Bàrbara) [1820], Salvador [1821], Juan Bautista [1825], Engracia [1825], Isabel [1828], José Antonio [1830], Dolores [1837], Vicente [1838] i Tomasa [1840].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

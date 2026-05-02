@@ -1,0 +1,74 @@
+{
+  "id": "4068_vicenta_puigcerver_llorens",
+  "source_id": "4068",
+  "row_ref": "4068. Vicenta Puigcerver Llorens",
+  "name": "Vicenta Puigcerver Llorens",
+  "gender": "female",
+  "birth": {
+    "date": "1835-02-16",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4070_mariano_puigcerver_martinez",
+      "2965_manuela_llorens_garcia"
+    ],
+    "father": "4070_mariano_puigcerver_martinez",
+    "mother": "2965_manuela_llorens_garcia",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Mariano Puigcerver Martínez",
+      "Manuela Llorens García"
+    ],
+    "father_name": "Mariano Puigcerver Martínez",
+    "mother_name": "Manuela Llorens Garcia",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Vicente Gombau",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 16 de febrer de 1835 a la Ràpita.\n\nPadrins: Vicente Gombau i Teresa Castellà.\n\nCasament: amb José Moreso.\n\nFills: Josefa [1859], Teresa [1860] i Felipa [1864].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

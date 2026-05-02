@@ -1,0 +1,83 @@
+{
+  "id": "2064_geronimo_ferre_princep",
+  "source_id": "2064",
+  "row_ref": "2064. Gerónimo Ferré Princep",
+  "name": "Gerónimo Ferré Princep",
+  "gender": "male",
+  "birth": {
+    "date": "1765-01-01",
+    "place": "Aldover"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5615_antonio_vines_ferre"
+    ],
+    "father": "5615_antonio_vines_ferre",
+    "mother": null,
+    "spouse": [
+      "2256_felicia_franquet_pla"
+    ],
+    "children": [
+      "2040_josefa_maria_ferre_franquet",
+      "2041_lorenzo_ferre_franquet"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Viñes Ferré",
+      "Teresa Princep"
+    ],
+    "father_name": "Antonio Ferré",
+    "mother_name": "Teresa Princep",
+    "spouse_names": [
+      "Felicia Franquet Pla"
+    ],
+    "children_names": [
+      "Josefa Maria Ferré Franquet",
+      "Lorenzo Ferré Franquet"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Aldover [aprox. 1765].\n\nProfessió: pagès.\n\nCasament: amb Felicia Franquet Pla d'Aldover [1767].\n\nFills: Josefa María [1804] i Lorenzo [1805].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

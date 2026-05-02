@@ -1,0 +1,81 @@
+{
+  "id": "1407_jayme_chaler_lopez",
+  "source_id": "1407",
+  "row_ref": "1407. Jayme Chaler López",
+  "name": "Jayme Chaler López",
+  "gender": "male",
+  "birth": {
+    "date": "1815-08-10",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2997_manuela_lopez_garcia"
+    ],
+    "father": null,
+    "mother": "2997_manuela_lopez_garcia",
+    "spouse": [
+      "5593_manuela_vidal_vines"
+    ],
+    "children": [
+      "1421_susana_chale_vidal"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Esteban Chaler Perayre",
+      "Manuela López García"
+    ],
+    "father_name": "Esteban Chaler Perayre",
+    "mother_name": "Manuela López García",
+    "spouse_names": [
+      "Manuela Vidal Viñes"
+    ],
+    "children_names": [
+      "Susana Chalé Vidal"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Jayme Ratto",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 10 d'agost de 1815 a la Ràpita.\n\nPadrins: Jayme Ratto (genovés) i Isabel Coll.\n\nCasament: el 16 de desembre de 1840 amb Manuela Vidal Viñes de la Senia [1815].\n\nFills: Susana [1842].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

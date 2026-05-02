@@ -1,0 +1,74 @@
+{
+  "id": "2714_maria_francisca_guardia_bort",
+  "source_id": "2714",
+  "row_ref": "2714. María Francisca Guardia Bort",
+  "name": "María Francisca Guardia Bort",
+  "gender": "female",
+  "birth": {
+    "date": "1828-10-17",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1834-03-18",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2719_bautista_guardia_bort",
+      "806_teresa_bort_lleti"
+    ],
+    "father": "2719_bautista_guardia_bort",
+    "mother": "806_teresa_bort_lleti",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Guardia Bort",
+      "Teresa Bort Lletí"
+    ],
+    "father_name": "Bautista Guardia Sanches",
+    "mother_name": "Teresa Bort Lletí",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Joaquín Guardia",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 17 d'octubre de 1828 a la Ràpita.\n\nPadrins: Joaquín Guardia i María Fabregat.\n\nDefunció: el 18 de març de 1834 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

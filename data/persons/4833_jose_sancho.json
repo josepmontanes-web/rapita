@@ -1,0 +1,100 @@
+{
+  "id": "4833_jose_sancho",
+  "source_id": "4833",
+  "row_ref": "4833. José Sancho",
+  "name": "José Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1775-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "4895_jose_sancho_gil",
+      "4902_miguel_sancho_matamoros",
+      "4918_maria_sancho_querol",
+      "4919_jose_sancho_querol",
+      "4920_miguel_sancho_querol",
+      "4921_teresa_sancho_querol",
+      "4922_maria_sancho_reverte",
+      "4842_mariano_sancho_balada",
+      "4850_maria_sancho_balada",
+      "4857_pascuala_sancho_bonet",
+      "4914_mariana_sancho_queral",
+      "4915_teresa_sancho_queral",
+      "4916_juan_sancho_queralt",
+      "4917_jose_manuel_sancho_queralt"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "María Querol"
+    ],
+    "children_names": [
+      "José Sancho Gil",
+      "Miguel Sancho Matamoros",
+      "María Sancho Querol",
+      "José Sancho Querol",
+      "Miguel Sancho Querol",
+      "Teresa Sancho Querol",
+      "María Sancho Reverté",
+      "Mariano Sancho Balada",
+      "María Sancho Balada",
+      "Pascuala Sancho Bonet",
+      "Mariana Sancho Queral",
+      "Teresa Sancho Queral",
+      "Juan Sancho Queralt",
+      "José Manuel Sancho Queralt"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1775]. \n\nCasament: amb María Querol d'Alcanar.\n\nFills: Teresa (Alcanar) [1800], María (Alcanar) [1800], José (Alcanar) [1805] i Miguel (Alcanar) [1815].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

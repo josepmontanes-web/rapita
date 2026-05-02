@@ -1,0 +1,77 @@
+{
+  "id": "5130_catarina_silvestre_sanchis",
+  "source_id": "5130",
+  "row_ref": "5130. Catarina Silvestre Sanchís",
+  "name": "Catarina Silvestre Sanchís",
+  "gender": "female",
+  "birth": {
+    "date": "1823-03-05",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1868-10-30",
+    "place": null
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5124_blas_silvestre_moreno"
+    ],
+    "father": "5124_blas_silvestre_moreno",
+    "mother": null,
+    "spouse": [
+      "1170_tomas_castella_alegret"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Blas Silvestre Moreno",
+      "Pascuala Sanchís Yserte"
+    ],
+    "father_name": "Blas Silvestre Moreno",
+    "mother_name": "Pascuala Sanchís Yserte",
+    "spouse_names": [
+      "Tomas Castellà Alegret"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Peregrín Sanchís",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 5 de març de 1823 a la Ràpita.\n\nPadrins: Peregrín Sanchís i Catalina Sanchís.\n\nCasament: el 29 de juliol de 1843 amb Tomás Castellà Alegret de la Ràpita [1816].\n\nDefunció: el 30 d'octubre de 1868 a la Ràpita.\n\nToda aquella porción de huerto que está una Barraca y que se ha edificado el comprador Juan Mateu sita en la población de San Carlos de la Rápita y calle de San Roque o sea de Pescadores que confronta por un lado con casa de los herederos de Pelegrín Silvestre por otro con un callejón y por otro con huerto de Mariano Castellá. Por precio de 48 duros [].\n22 de noviembre de 1857 o 1856\n[notari: D Juan N? de Amposta 2 de enero de 1857] \nVenta: Tomás Castellá [Alegret] y Catalina Silvestre [Sánchez] consortes labradores de San Carlos a Juan Mateu y Villaubí albañíl [Juan Mateu Bellobi está casat amb Dolores Silvestre Sánchez].\nValor 960",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

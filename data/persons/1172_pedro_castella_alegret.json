@@ -1,0 +1,93 @@
+{
+  "id": "1172_pedro_castella_alegret",
+  "source_id": "1172",
+  "row_ref": "1172. Pedro Castellà Alegret",
+  "name": "Pedro Castellà Alegret",
+  "gender": "male",
+  "birth": {
+    "date": "1806-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1287_juan_castella_mola",
+      "71_agueda_alegret_cid"
+    ],
+    "father": "1287_juan_castella_mola",
+    "mother": "71_agueda_alegret_cid",
+    "spouse": [
+      "3626_rosa_navarro_comi"
+    ],
+    "children": [
+      "79_christobal_alegret_riba",
+      "1324_hilario_castella_talarn",
+      "1325_lazaro_castella_talarn",
+      "1326_mariano_castella_talarn",
+      "1327_pedro_castella_talarn",
+      "1328_tomas_castella_talarn"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Castellà Mola",
+      "Agueda Alegret Cid"
+    ],
+    "father_name": "Juan Castellà Mola",
+    "mother_name": "Agueda Alegret Cid",
+    "spouse_names": [
+      "Francisca Talarn Blanch",
+      "Rosa Navarro Comí"
+    ],
+    "children_names": [
+      "Christobal Alegret Riba",
+      "Hilario Castellà Talarn",
+      "Lázaro Castellà Talarn",
+      "Mariano Castellà Talarn",
+      "Pedro Castellà Talarn",
+      "Tomás Castellà Talarn"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1806].\n\nProfessió: pagès.\n\nCasament: el 16 d'abril de 1831 amb Francisca Talarn Blanch d'Amposta [1805].\n\nFills: Hilario [1832], Lázaro [1833], Mariano [1836], Pedro [1838], Tomás [1841], Bautista [1850] i Francisca [1850].\n\nDe l'1 de juliol de 1834 al 31 de gener de 1838 ha de pagar un lloguer de 5 Rs mensuals per la casa 2 de la mançana 3. (AGP.PER.LEG.1073/23 [Juan Vecino]).\n\nCasament: el 4 de desembre de 1854 amb Rosa Navarro Comí de Tortosa [1809]. Es casa per segona vegada als 48 anys. Testimonis: Miguel Ferré i Agustín Sanz.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

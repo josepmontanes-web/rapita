@@ -1,0 +1,73 @@
+{
+  "id": "4576_candia_rosell_pinana",
+  "source_id": "4576",
+  "row_ref": "4576. Candia Rosell Piñana",
+  "name": "Candia Rosell Piñana",
+  "gender": "female",
+  "birth": {
+    "date": "1813-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1813-06-12",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4561_juan_rosell"
+    ],
+    "father": "4561_juan_rosell",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Rosell",
+      "Thomasa Piñana"
+    ],
+    "father_name": "Juan Rosell",
+    "mother_name": "Thomasa Piñana",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1813]. \n\nDefunció: el 12 de juny de 1813 a la Ràpita. Va morir als 6 mesos.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

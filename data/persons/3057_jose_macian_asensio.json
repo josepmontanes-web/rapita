@@ -1,0 +1,79 @@
+{
+  "id": "3057_jose_macian_asensio",
+  "source_id": "3057",
+  "row_ref": "3057. José Macián Asensio",
+  "name": "José Macián Asensio",
+  "gender": "male",
+  "birth": {
+    "date": "1768-01-01",
+    "place": "Begís (Alt Palància)"
+  },
+  "death": {
+    "date": "1831-08-25",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "3068_josefa_pasquala_macian_sanchis",
+      "3070_juan_bautista_macian_sanchis"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Macián",
+      "Vicenta Asensio"
+    ],
+    "father_name": "Juan Macián",
+    "mother_name": "Vicenta Asensio",
+    "spouse_names": [
+      "Catarina Sanchis Yserte"
+    ],
+    "children_names": [
+      "Josefa Pasquala Macián Sanchís",
+      "Juan Bautista Macián Sanchís"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Begís (Castelló) [aprox. 1768]. \n\nCasament: el 19 de juliol de 1797 amb Catarina Sanchís Iserte de Canales de Bejís (Castelló) [1778]. Testimonis: Vicente Noguerón i Manuel Izquierdo.\n\nFills: Vicenta [1798], Josefa Pasquala [1801], Josefa Pasquala [1803], María Rosa [1806], Tomás [1808] i Juan Bautista [1811].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu al patí de Talavera  (ACA BGRP Cajas 34).\n\nDefunció: el 25 d'agost de 1831 a la Ràpita. Va morir als 63 anys de \"terciana cardíaca\". No fa testament. \"Cumplido el bien de almas\". A la partida de defunció diu que es de Canales de Begís.\n\nApareix un José Mesián (Doc. 1) que paga censos a les monges per dues parcel·les al Rajolà de 10 i 16 jornals; 3 jornals en partida indeterminada.\n\nUn altre José Mesian \"Solito\", paga per 1 jornal en partida indeterminada.\n\nPodria ser germà de Josefa Macián [1760] però no es segur.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

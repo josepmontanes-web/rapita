@@ -1,0 +1,68 @@
+{
+  "id": "3305_lorenzo_matheu",
+  "source_id": "3305",
+  "row_ref": "3305. Lorenzo Matheu",
+  "name": "Lorenzo Matheu",
+  "gender": "male",
+  "birth": {
+    "date": "1766-01-01",
+    "place": "Vinaroz"
+  },
+  "death": {
+    "date": "1808-02-16",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Mariner"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1766]. \n\nDefunció: el 16 de febrer de 1808 a la Ràpita.\n\n\"Iba en el barco del Patrón Sebastián Ribera de Vinaroz. Tres días de dolor cólico, lo encontraron sus compañeros muerto en el barco. Casado con una hija de Rita Galán\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

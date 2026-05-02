@@ -1,0 +1,74 @@
+{
+  "id": "2710_jose_francisco_guardia_bort",
+  "source_id": "2710",
+  "row_ref": "2710. José Francisco Guardia Bort",
+  "name": "José Francisco Guardia Bort",
+  "gender": "male",
+  "birth": {
+    "date": "1822-03-11",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "128_francisco_enguera_sancho",
+      "807_josefa_bort_lleti"
+    ],
+    "father": "128_francisco_enguera_sancho",
+    "mother": "807_josefa_bort_lleti",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Enguera Sancho",
+      "Josefa Bort Lletí"
+    ],
+    "father_name": "Francisco Guardia Sancho",
+    "mother_name": "Josefa Bort Lletí",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Guardia",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'11 de març de 1822 a la Ràpita.\n\nPadrins: José Guardia i Francisca Català.\n\nAquel sitio o posesión de tierras para edificar sito en la nueva población de San Carlos y en la calle del Arrabal de San Isidro de extensión 24 palmos de luz de ancho y de sesenta de profundidad todos catalanes lindante a medio día con José Lafont, a norte con otra calle, a levante herederos de Pedro Reverter y a poniente, o sea por la parte del [] con dicha calle Arraval de San Isidro. La que tiene bajo dominio cierto hoy tras la amortización al censo de un [] ardites que anualmente deberá pagar dicha [] . Por el precio de 8 duros recibidos a voluntad.\n16 de febrero de 1857\n[notari: D. Juan Ventosa de Amposta ¿?]\nVenta: Francisco Guardia y Bort labrador de San Carlos a Francisca Sancho [Pla] viuda de Vicente Fabregat [Sancho].\nValor 160.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

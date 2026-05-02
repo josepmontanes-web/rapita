@@ -1,0 +1,74 @@
+{
+  "id": "4724_teresa_sanchez_batiste",
+  "source_id": "4724",
+  "row_ref": "4724. Teresa Sánchez Batiste",
+  "name": "Teresa Sánchez Batiste",
+  "gender": "female",
+  "birth": {
+    "date": "1824-03-04",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1824-03-06",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "197_peregrin_arbo_sanchez",
+      "536_teresa_batiste_vidal"
+    ],
+    "father": "197_peregrin_arbo_sanchez",
+    "mother": "536_teresa_batiste_vidal",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Peregrin Arbó Sánchez",
+      "Teresa Batiste Vidal"
+    ],
+    "father_name": "Peregrín Sánchez Yserte",
+    "mother_name": "Teresa Batiste Vidal",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Blas Silvestre",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 4 de març de 1824 a la Ràpita.\n\nPadrins: Blas Silvestre i Antonia Batiste.\n\nDefunció: el 6 de març de 1824 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

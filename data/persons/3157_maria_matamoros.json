@@ -1,0 +1,81 @@
+{
+  "id": "3157_maria_matamoros",
+  "source_id": "3157",
+  "row_ref": "3157. Maria Matamoros",
+  "name": "Maria Matamoros",
+  "gender": "female",
+  "birth": {
+    "date": "1740-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1798-09-06",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1871_juan_bautista_esteller_valles"
+    ],
+    "children": [
+      "1851_0_1900",
+      "1852_0_1900",
+      "4299_juan_reverter_matamoros",
+      "4902_miguel_sancho_matamoros"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Juan Bautista Esteller Vallés"
+    ],
+    "children_names": [
+      "0 1900",
+      "Juan Reverter Matamoros",
+      "Miguel Sancho Matamoros"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1740]. \n\nCasament: amb Juan Bautista Esteller Vallés d'Alcanar [1731].\n\nFills: Juan Bautista (Alcanar) [1770] i María (Alcanar) [1775].\n\nDefunció: el 6 de setembre de 1798 a la Ràpita. \"Asistió al entierro el parentesco i testigos Mariano Benlloch y Juan Moya\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

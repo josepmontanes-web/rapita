@@ -1,0 +1,74 @@
+{
+  "id": "4844_maria_sancho_balada",
+  "source_id": "4844",
+  "row_ref": "4844. Maria Sancho Balada",
+  "name": "Maria Sancho Balada",
+  "gender": "female",
+  "birth": {
+    "date": "1841-07-07",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1842-07-13",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4919_jose_sancho_querol",
+      "325_raymunda_balada_balada"
+    ],
+    "father": "4919_jose_sancho_querol",
+    "mother": "325_raymunda_balada_balada",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Sancho Querol",
+      "Raymunda Balada Balada"
+    ],
+    "father_name": "José Sancho Querol",
+    "mother_name": "Raymunda Balada Balada",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Tomás Reverter",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 7 de juliol de 1841 a la Ràpita.\n\nPadrins: Tomás Reverter i María Gasparín.\n\nDefunció: el 13 de juliol de 1842 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

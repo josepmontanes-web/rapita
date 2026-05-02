@@ -1,0 +1,84 @@
+{
+  "id": "5396_jose_torta_subirats",
+  "source_id": "5396",
+  "row_ref": "5396. José Torta Subirats",
+  "name": "José Torta Subirats",
+  "gender": "male",
+  "birth": {
+    "date": "1819-09-24",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5389_juan_torta_sole",
+      "5191_teresa_subirats_fabregat"
+    ],
+    "father": "5389_juan_torta_sole",
+    "mother": "5191_teresa_subirats_fabregat",
+    "spouse": [
+      "5219_teresa_subirats_ventura"
+    ],
+    "children": [
+      "5358_josefa_maria_torta_fabregat",
+      "5385_agustina_torta_sanchez"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Torta Solé",
+      "Teresa Subirats Fabregat"
+    ],
+    "father_name": "Juan Torta Solé",
+    "mother_name": "Teresa Subirats Fabregat",
+    "spouse_names": [
+      "Teresa Subirats Ventura"
+    ],
+    "children_names": [
+      "Josefa María Torta Fabregat",
+      "Agustina Torta Sánchez"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Josef Fornesa",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 24 de setembre de 1819 a la Ràpita.\n\nPadrins: José Fornesa i Josefa Antonia Fornesa.\n\nCasament: el 23 de juny de 1842 amb Teresa Subirats Ventura [1820].\n\nCasament: el 24 d'agost de 1872 amb Josefa Sánchez Cid de la Ràpita [1832]. Es casa als 40 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

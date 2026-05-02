@@ -1,0 +1,92 @@
+{
+  "id": "156_andres_ano_esteve",
+  "source_id": "156",
+  "row_ref": "156. Andrés Añó Esteve",
+  "name": "Andrés Añó Esteve",
+  "gender": "male",
+  "birth": {
+    "date": "1811-05-07",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "142_juan_ano_arlandez",
+      "1885_josefa_esteve_garcia"
+    ],
+    "father": "142_juan_ano_arlandez",
+    "mother": "1885_josefa_esteve_garcia",
+    "spouse": [
+      "3585_clara_murtiero_domenech"
+    ],
+    "children": [
+      "159_dominga_ano_murtiero",
+      "160_angela_ano_murtiero",
+      "161_josefa_maria_ano_murtiero",
+      "162_francisca_ano_murtiero",
+      "163_carlina_ano_murtiero",
+      "1888_ana_esteve_masconda"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Añó Arlández",
+      "Josefa Esteve García"
+    ],
+    "father_name": "Juan Añó Arnandez",
+    "mother_name": "Josefa Esteve García",
+    "spouse_names": [
+      "Clara Murtiero Domenech"
+    ],
+    "children_names": [
+      "Dominga Añó Murtiero",
+      "Angela Añó Murtiero",
+      "Josefa Maria Añó Murtiero",
+      "Francisca Añó Murtiero",
+      "Carlina Añó Murtiero",
+      "Ana Esteve Masconda"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Andrés Verge",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  el 7 de maig de 1811 a la Ràpita.\n\nEls padrins son Andrés Verge Gilabert de la Jana i Ventura Prado de Ulloa Muñoz de Castelló.\n\nCasament: el 24 de maig de 1834 amb Clara Murtiero Domenech de Tortosa [1810].\n\nFills: Dominga [1835], Angela [1837], Francisca [1839], Josefa María [1841] i Carlina [1844].\n\nDe l'1 de juny de 1835 al 30 de setembre de 1835 ha de pagar un lloguer de 4 Rs mensuals pel pis alt interior de la casa 1 del carrer del Forn. (AGP.PER.LEG.1073/23 [Juan Vecino]).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "2105_raymunda_ferrer_subirats",
+  "source_id": "2105",
+  "row_ref": "2105. Raymunda Ferrer Subirats",
+  "name": "Raymunda Ferrer Subirats",
+  "gender": "female",
+  "birth": {
+    "date": "1811-03-11",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2020_pedro_ferrer_conillera"
+    ],
+    "father": "2020_pedro_ferrer_conillera",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Ferrer Conillera",
+      "Theresa Subirats Simón"
+    ],
+    "father_name": "Pedro Ferrer Conillera",
+    "mother_name": "Theresa Subirats Simón",
+    "spouse_names": [
+      "Francisco Pepiol Pasqual"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Andrés Verge",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'11 de març de 1811 a la Ràpita.\n\nPadrins: Andrés Verge i Raymunda Cortiella.\n\nCasament: el 12 de febrer de 1831 amb Francisco Pepiol Pasqual de la Ràpita [1810]. Quan es casa li diuen Ramona.\n\nFills: Juana [1832], Eugenio [1834], Miguel Matías [1836], Francisco [1838], Basilio [1840], Juliana [1843] i Andrés [1847].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

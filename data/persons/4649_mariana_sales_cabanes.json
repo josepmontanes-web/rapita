@@ -1,0 +1,81 @@
+{
+  "id": "4649_mariana_sales_cabanes",
+  "source_id": "4649",
+  "row_ref": "4649. Mariana Sales Cabañes",
+  "name": "Mariana Sales Cabañes",
+  "gender": "female",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Freginals"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "4010_luis_pons_reverter"
+    ],
+    "children": [
+      "4011_juan_bautista_pons_sales",
+      "4012_pasquala_pons_sales"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Antonio Sales",
+      "Tomasa Cabañes"
+    ],
+    "father_name": "José Antonio Sales",
+    "mother_name": "Tomasa Cabañes",
+    "spouse_names": [
+      "Luis Pons Reverter"
+    ],
+    "children_names": [
+      "Juan Bautista Pons Sales",
+      "Pasquala Pons Sales"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Freginals [aprox. 1810]. \n\nCasament: amb Luís Pons Reverter d'Amposta [1810].\n\nFills: Juan Bautista [1838] i Pasquala [1839].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

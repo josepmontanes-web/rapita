@@ -1,0 +1,93 @@
+{
+  "id": "362_josefa_balada_queralt",
+  "source_id": "362",
+  "row_ref": "362. Josefa Balada Queralt",
+  "name": "Josefa Balada Queralt",
+  "gender": "female",
+  "birth": {
+    "date": "1785-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "319_pablo_o_pedro_balada"
+    ],
+    "father": "319_pablo_o_pedro_balada",
+    "mother": null,
+    "spouse": [
+      "4314_bautista_reverter_pla"
+    ],
+    "children": [
+      "4192_juan_reverter_balada",
+      "4193_bautista_reverter_balada",
+      "4194_bartolome_reverter_balada",
+      "4195_manuela_reverter_balada",
+      "4196_francisco_reverter_balada",
+      "4197_maria_reverter_balada",
+      "4198_francisca_reverter_balada"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pablo o Pedro Balada",
+      "Antonia Queralt"
+    ],
+    "father_name": "Pablo o Pedro Balada",
+    "mother_name": "Antonia Queralt",
+    "spouse_names": [
+      "Bautista Reverter Pla"
+    ],
+    "children_names": [
+      "Juan Reverter Balada",
+      "Bautista Reverter Balada",
+      "Bartolomé Reverter Balada",
+      "Manuela Reverter Balada",
+      "Francisco Reverter Balada",
+      "María Reverter Balada",
+      "Francisca Reverter Balada"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1785].\n\nCasament: amb Bautista Reverter Pla d'Alcanar [1785].\n\nFills: Juan [1807], Francisco [1810], María (Alcanar) [1813], Bautista [1815], Bartolomé [1815], Manuela [1820] i Francisca [1823].\n\nDonación: de Josefa Balada (Queralt 1785 esposa de Bautista Reverter Pla) a Francisco, Juan Bautista y Francisca Reverter (Balada) y a Josefa, Juan y Bautista Ferrer (podrien ser fills de Manuela Reverter Balada i Pedro Ferrer Fabregat). Permuta: Juan Bautista y Francisco Reverter y Cesión Francisco Reverter a Josefa Ferrer.\nJosefa Balada viuda de Juan Reverter por el afecto y voluntad que tenia a sus hijos Francisco, Juan Bautista y Francisca Reverter Balada, esta última consorte de Juan Balada, labradores … hizo donación a sus tres expresados hijos Francisco, Juan Bautista y Francisca Reverter, empero para después de la muerte dicha donación a los suyos y a quien en derecho … en partes iguales entre ellos la parte de a…mentos y demás que dicha donante tenía y provenía de los bienes que fueron de su expresado difunto marido, por razón de estar asociada y hermanada con el mismo; en aquellas heredades o piezas de tierras situadas en el término de la población de San Carlos en la partida de Aiguaceres plantada de algarrobos y de extensión la parte … a la donante  de unos 6 jornales poco más o menos que confrontan con Juan Bautista Guardia, con Juan Balada y con José Crua; que es de valor de unos 80 duros. \nA más los derechos y parte que tenía en aquella otra situada detrás de la Guardiola, partida de este nombre, que se considera ser la mitad de dicha finca que contiene esta parte también unos 6 jornales de dicha cabida, plantados asimismo de algarrobos que confronta con José Pino, con D. Joaquín Ramón de Suñé, con Joaquín Guardia y con José Crua, que es de valor de 80 duros; y en aquella otra situada también detrás de dicha Guardiola que es de extensión en todo de un jornal y medio poco más o menos plantado de algarrobos; que confronta con José Anguera, con Tomás Capilla y algún otro; y cuya mitad correspondiente a dicha donante es de valor de 16 duros. \nA más la propia donante dio a su referido hijo Francisco la mitad que tenía en toda aquella casa situada en dicha población de San Carlos y en la calle de San Isidro que confronta con José Monserrrat y con Francisco Vidal, que es de valor dicha parte de casa dada de 40 duros;\nA más dio a su expresado hijo Francisco los 8 duros que tiene en la otra mitad de dicha casa que era de su expresado difunto marido.\nA más dio a su expresado hijo Francisco los derechos o parte que la propia donante tenía en aquella otra porción de tierra situada también detrás de la Guardiola dicha la Careta, que era antes maleza y que se desmontó a su costa que es de extensión de unos 3 jornales que confronta con José Guardia y con D. Joaquín Ramón de Suñé que es de valor su parte de 10 duros. \nY la otra mitad que la propia donante tiene en aquella otra casa situada en la misma población y en otra calle nombrada también de San Isidro que confronta con Casimiro Míes y con Juan Fibla que es de valor de 40 duros, la dio a su expresada hija Francisca juntamente con todo lo que la propia donante tenga dentro de la misma, en el día de su muerte de su pertenencia vulgarmente dicho a puerta cerrada.\nA su expresado hijo Juan Bautista le dio asimismo la parte de los derechos que le corresponden en aquella otra pieza de tierra situada en el mismo término de San Carlos y en la expresada partida de  la Aiguacera, que es de tierra maleza y extensión de unos 2 jornales parte de la cual se ha des… su expresado hijo Bautista a su cuenta; que es de valor su parte de 10 duros ; a cual le dio un huerto de tierra prado de cor… de un cuarto de jornal que confronta con Francisca Balada y con N. Moreno que es de valor de 4 duros y a más la mitad de aquel patio que tiene en dicha población y calle detrás de la de San Isidro que confronta con el cementerio viejo y con Francisco Guardia que es de valor 6 duros.\nA su mencionada hija Francisca le dio a más  aquella suerte de tierra prado que es la suerte Carga del Pas de la Carrasca que contiene un jornal de tierra que es la del entrando al Pas que confronta con Francisco Sánchez y con Pelegrín Balada que es de valor de 10 duros. \nA más a sus otros hijos llamados Bartolomé y Mª. Reverter y Balada aunque ausentes de este acto y por ello presente el Exmo. Infra por su cuenta y complemento de todos sus derechos legitimarios maternos las dio a dicho Bartolomé dos huertecitos prado situados en dicha partida del Pas que contendrán cosa de medio jornal de tierra que confronta con Bautista Reverter, con Juan Ventura y con Francisca Reverter que son de valor de 8 duros y a la dicha María uno que es de extensión de un cuarto de jornal poco más o menos que confronta con Juan Ventura, con camino y con Juan Fibla de valor 4 duros.\nA sus nietos Juan, Josefa y Bautista Ferrer hijos de su difunta hija Manuela y de Pedro Ferrer por … y complemento de los derechos que dicha su hija hubiera podido pretender sobre sus bienes dio y cedió: Primo: a su dicha nieta Josefa la Veleta de delante de la Barraca de la tierra prado del Pas de la Carrasca que contiene cosa de una octava parte de jornal de tierra que es de valor de 4 duros y a más la mitad de aquel patio o sitio que tiene dicha donante detrás de la casa de Juan Fibla y calle detrás de la de San Isidro que confronta con el Cementerio Viejo y con Francisco Guardia de valor 6 duros; y a más 2 duros que ordena le entreguen cada uno de sus hijos Francisco y Bautista; y a sus otros dichos nietos Juan y Bautista la cantidad de 5 duros y medio entre ambos , que dispuso los entregue su referida hija Francisca y a todos para cuando tomen estado. Con los pactos siguientes: que el expresado su hijo Bautista cediese a su expresado hermano Francisco la parte que aquel tiene en la otra mitad de aquella casa que era de su difunto marido Juan Bautista Reverter arriba indicada situada en la dicha población de San Carlos y calle de San Isidro que confronta con José Monserrat y con Francisco Vidal que se considera parte de dicha mitad, de valor 11 duros. Que su expresado hijo Francisco ceda y traspase en su compensación a su dicho hijo Juan Bautista la otra parte que tiene en aquella otra casa arriba indicada situada en la misma población y en la otra calle de San Isidro arriba también nombrada que confronta con Casimiro Míes y con Juan Fibla que es de valor dicha su parte de 12 duros y a más que el propio su hijo Francisco ceda y traspase a su referida nieta Josefa Ferrer la tercera parte que tiene en aquel patio lindante … con el arriba indicado, cuya mitad a dejado la donante a su referida nieta que es de valor dicha parte de 4 duros. Que sus expresados hijos Francisco y Francisca no puedan pretender ni reclamar a su otro hermano Juan Bautista derecho alguno en lo que se haya desmontado ni demás de aquella heredad que era maleza de unos 2 jornales de extensión sita en el término de dicha población y partida de la Aiguacera arriba ya nombrada. Que sus referidos hijos Francisca y Juan Bautista no podrán pretender ni reclamar a su otro hijo Francisco derecho alguno por parte de padre  en aquella arriba expresada hacienda detrás la Guardiola dicha la Careta por cuanto era maleza que se ha desmontado a su costa. Que dichos tres hijos suyos deban cuidar y mantener a la donante en sanidad y en enfermedad bien y debidamente a su igual y de su demás familia y no haciendolo a toda su satisfacción se reservó la facultad de poder vender o empeñar lo que de lo dado le convenga sin intervención alguna de sus expresados hijos donatarios. Y que sus tres repetidos hijos deban invertir y gastar cada uno de ellos en bien y sufragio del alma de dicha donante y pago de derechos parroquiales 2 duros.\nLos nombrados Francisco, Juan Bautista y Francisca Reverter aceptaron la donación con dichos pactos que prometieron cumplir con obligación …\n14 de febrero de 1859. Esc. Juan Ventosa de Amposta.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

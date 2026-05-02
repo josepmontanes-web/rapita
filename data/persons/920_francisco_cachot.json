@@ -1,0 +1,74 @@
+{
+  "id": "920_francisco_cachot",
+  "source_id": "920",
+  "row_ref": "920. Francisco Cachot",
+  "name": "Francisco Cachot",
+  "gender": "male",
+  "birth": {
+    "date": "1754-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1826-11-24",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "921_francisca_cachot_cartes"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Engracia Cartes"
+    ],
+    "children_names": [
+      "Francisca Cachot Cartes"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1754].\n\nCasament: amb Engracia Cartes de Tortosa.\n\nFills: Francisca (Tortosa) [1804].\n\nDefunció: el 24 de novembre de 1826 a la Ràpita. Va morir als 72 anys de \"enf. catarral\". Fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

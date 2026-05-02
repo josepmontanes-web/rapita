@@ -1,0 +1,87 @@
+{
+  "id": "3570_vicente_munoz_ibanez",
+  "source_id": "3570",
+  "row_ref": "3570. Vicente Muñoz Ibáñez",
+  "name": "Vicente Muñoz Ibáñez",
+  "gender": "male",
+  "birth": {
+    "date": "1785-01-01",
+    "place": "Altea"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3142_vicente_martinez_munoz"
+    ],
+    "father": "3142_vicente_martinez_munoz",
+    "mother": null,
+    "spouse": [
+      "5306_teresa_thomas_vidal"
+    ],
+    "children": [
+      "3569_ana_maria_munoz_ivanes",
+      "3571_joaquin_munoz_ibanez",
+      "3576_batista_munoz_tomas",
+      "3577_rosa_munoz_thomas"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Martínez Muñoz",
+      "Vicenta Ibáñez"
+    ],
+    "father_name": "Vicente Muñoz",
+    "mother_name": "Vicenta Ibáñez",
+    "spouse_names": [
+      "Teresa Thomas Vidal"
+    ],
+    "children_names": [
+      "Ana María Muñoz Ivañes",
+      "Joaquín Muñoz Ibáñez",
+      "Batista Muñoz Tomàs",
+      "Rosa Muñoz Thomas"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Navegant"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Altea [aprox. 1785]. \n\nProfessió: navegant.\n\nCasament: el 22 de juny de 1807 amb Teresa Thomas Vidal d'Amposta [1786]. Es casa als 22 anys. Testimonis: Don José Chiscas \"alcalde de San Carlos\" i Don José Antonio Pasqual \"cabo de sanidad\".\n\nFills: Batista (Vinaròs) [1816], Rosa [1819] i Juan (Vinaròs) [1820].\n\nEs germà de Joaquín Muñoz Ibáñez [1799] i Ana María Muñoz Ibáñez [1810].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

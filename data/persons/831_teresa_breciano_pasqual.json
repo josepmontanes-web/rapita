@@ -1,0 +1,78 @@
+{
+  "id": "831_teresa_breciano_pasqual",
+  "source_id": "831",
+  "row_ref": "831. Teresa Breciano Pasqual",
+  "name": "Teresa Breciano Pasqual",
+  "gender": "female",
+  "birth": {
+    "date": "1808-10-21",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "823_pedro_bresciano_burastero",
+      "3826_francisca_pasqual_fuster"
+    ],
+    "father": "823_pedro_bresciano_burastero",
+    "mother": "3826_francisca_pasqual_fuster",
+    "spouse": [
+      "2448_agustin_gasparin_ortiz"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Bresciano Burastero",
+      "Francisca Pasqual Fuster"
+    ],
+    "father_name": "Pedro Bresciano Borastero",
+    "mother_name": "Francisca Pasqual Fuster",
+    "spouse_names": [
+      "Agustín Gasparín Ortiz"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Moya",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 21 d'octubre de 1808 a la Ràpita.\n\nPadrins: Juan Moya i Mariana Pasqual.\n\nCasament: el 24 de maig de 1826 amb Agustín Gasparín Ortíz de la Ràpita [1804].\n\nFills: María Francisca [1830], María Teresa [1834], Francisco [1835], Juan Bautista [1838], María Teresa [1841], Manuel [1848] i Agustín [1850].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

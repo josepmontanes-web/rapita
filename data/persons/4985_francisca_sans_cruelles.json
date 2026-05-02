@@ -1,0 +1,78 @@
+{
+  "id": "4985_francisca_sans_cruelles",
+  "source_id": "4985",
+  "row_ref": "4985. Francisca Sans Cruelles",
+  "name": "Francisca Sans Cruelles",
+  "gender": "female",
+  "birth": {
+    "date": "1801-01-10",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5019_andres_sanz_sanarau",
+      "1652_antonia_cruelles_remisa"
+    ],
+    "father": "5019_andres_sanz_sanarau",
+    "mother": "1652_antonia_cruelles_remisa",
+    "spouse": [
+      "1504_miguel_cid_marti"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Andrés Sanz Sanarau",
+      "Antonia Cruelles Remisa"
+    ],
+    "father_name": "Andrés Sanz Sanarau",
+    "mother_name": "Antonia Cruelles Remisa",
+    "spouse_names": [
+      "Miguel Cid Martí"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Joseph Antonio Cavallé",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 10 de gener de 1801 a la Ràpita.\n\nPadrins: José Antonio Cavallé i Francisca Pasqual.\n\nCasament: el 27 de novembre de 1834 amb Miguel Cid Martí de Santa Bàrbara [o de la Galera] [1810].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

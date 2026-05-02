@@ -1,0 +1,77 @@
+{
+  "id": "2358_josefa_garcia_puchol",
+  "source_id": "2358",
+  "row_ref": "2358. Josefa García Puchol",
+  "name": "Josefa García Puchol",
+  "gender": "female",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Vinaròs"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "3465_vicente_luis_montserrat_garcia"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel García",
+      "Juliana Puchol"
+    ],
+    "father_name": "Miguel García",
+    "mother_name": "Juliana Puchol",
+    "spouse_names": [
+      "Alexandro Montserrat Guasch"
+    ],
+    "children_names": [
+      "Vicente Luís Montserrat García"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1810].\n\nCasament: amb Alexandro Montserrat Guasch de la Ràpita [1806].\n\nFills: Vicente Luís [1841], Francisco [1844], Rafael [1847], Teresa [1850] i Alejandro [1850].\n\nEs germana d'Agustina García Puchol [1807] Magdalena García Puchol [1810].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "5083_maria_josefa_segarra_torta",
+  "source_id": "5083",
+  "row_ref": "5083. María Josefa Segarra Torta",
+  "name": "María Josefa Segarra Torta",
+  "gender": "female",
+  "birth": {
+    "date": "1840-10-05",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5068_jose_segarra_miralles"
+    ],
+    "father": "5068_jose_segarra_miralles",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Segarra Miralles",
+      "Tomasa Torta Llasat"
+    ],
+    "father_name": "José Segarra Miralles",
+    "mother_name": "Tomasa Torta Llasat",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Buenaventura Baluenga",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 5 d'octubre de 1840 a la Ràpita.\n\nPadrins: Buenaventura Baluenga i María Josefa Anguera.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

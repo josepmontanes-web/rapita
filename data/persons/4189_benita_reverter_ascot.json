@@ -1,0 +1,73 @@
+{
+  "id": "4189_benita_reverter_ascot",
+  "source_id": "4189",
+  "row_ref": "4189. Benita Reverter Ascot",
+  "name": "Benita Reverter Ascot",
+  "gender": "female",
+  "birth": {
+    "date": "1843-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1844-07-25",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4192_juan_reverter_balada"
+    ],
+    "father": "4192_juan_reverter_balada",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Reverter Balada",
+      "Maria Ascot"
+    ],
+    "father_name": "Juan Reverter",
+    "mother_name": "Maria Ascot",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1843]. \n\nDefunció: el 25 de juliol de 1844 a la Ràpita. Va morir pàrvula d'un any.\n\nEs germana de Dominica Reverter Ascot [1843].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

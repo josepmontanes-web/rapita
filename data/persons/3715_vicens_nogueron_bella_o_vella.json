@@ -1,0 +1,73 @@
+{
+  "id": "3715_vicens_nogueron_bella_o_vella",
+  "source_id": "3715",
+  "row_ref": "3715. Vicens Noguerón Bella [o Vella]",
+  "name": "Vicens Noguerón Bella [o Vella]",
+  "gender": "male",
+  "birth": {
+    "date": "1740-01-01",
+    "place": "València"
+  },
+  "death": {
+    "date": "1802-12-29",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Noguerón",
+      "Madalena Bella"
+    ],
+    "father_name": "Juan Noguerón",
+    "mother_name": "Madalena Bella",
+    "spouse_names": [
+      "Teresa Badia Algolfa"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a València (parròquia de San Esteban) [aprox. 1740]. \n\nProfessió: ministre del resguard de rendes.\n\nCasament: amb Teresa Badia [o Abadia] Algolfa de Pont de Suert [1745]. A l'estat de veïns de la Població de San Carlos  a 1 de setembre de 1798 consta que viuen a una casa d'empleats de sanitat (ACA BGRP caixa 34).\n\nFills: María (Calella) [1779] i Manuel (Arenys de Mar) [1778].\n\nAl \"estado de vecinos\" d'1 de setembre de 1798 diu que es empleat de sanitat i que es del Resguardo (ACA BGRP Cajas 34).\n\nEl 24 d'agost de 1798 els hi compra una casa a Don Estanislao Vallescar i a Doña Maria Antonia Vieta. ACA caixa 768.\n\nDefunció: el 29 de desembre de 1802 a la Ràpita. Fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

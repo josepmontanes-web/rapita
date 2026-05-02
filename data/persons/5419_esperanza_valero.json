@@ -1,0 +1,78 @@
+{
+  "id": "5419_esperanza_valero",
+  "source_id": "5419",
+  "row_ref": "5419. Esperanza Valero",
+  "name": "Esperanza Valero",
+  "gender": "female",
+  "birth": {
+    "date": "1760-01-01",
+    "place": "Benidorm"
+  },
+  "death": {
+    "date": "1830-06-12",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "2288_vicente_garcia"
+    ],
+    "children": [
+      "2377_jose_garcia_valero",
+      "2378_vicente_garcia_valero"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Vicente García"
+    ],
+    "children_names": [
+      "José García Valero",
+      "Vicente García Valero"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Benidorm [aprox. 1760].\n\nFills: José (Benidorm) [1795] i Vicente (Benidorm) [1800].\n\nDefunció: el 12 de juny de 1830 a la Ràpita. Va morir als 70 anys de \"enfermedad de asma\". No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

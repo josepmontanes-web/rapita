@@ -1,0 +1,79 @@
+{
+  "id": "4127_thomas_rafels_caldes",
+  "source_id": "4127",
+  "row_ref": "4127. Thomas Rafels Caldes",
+  "name": "Thomas Rafels Caldes",
+  "gender": "male",
+  "birth": {
+    "date": "1780-01-01",
+    "place": "Benicarló"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "2059_raymunda_ferrer_marti"
+    ],
+    "children": [
+      "4130_raymunda_rafels_ferrer"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Ildefonso Rafels Caldes",
+      "Serafina Caldes"
+    ],
+    "father_name": "Ildefonso Rafels Caldes",
+    "mother_name": "Serafina Caldes",
+    "spouse_names": [
+      "Raymunda Ferrer Martí"
+    ],
+    "children_names": [
+      "Raymunda Rafels Ferrer"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Benicarló [aprox. 1780]. \n\nCasament: amb Raymunda Ferrer Martí del Portell de Morella [1783].\n\nFills: Raymunda [1810].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

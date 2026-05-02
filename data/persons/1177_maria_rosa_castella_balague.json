@@ -1,0 +1,77 @@
+{
+  "id": "1177_maria_rosa_castella_balague",
+  "source_id": "1177",
+  "row_ref": "1177. Maria Rosa Castellà Balagué",
+  "name": "Maria Rosa Castellà Balagué",
+  "gender": "female",
+  "birth": {
+    "date": "1828-06-21",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1225_mariano_castella_cid"
+    ],
+    "father": "1225_mariano_castella_cid",
+    "mother": null,
+    "spouse": [
+      "3620_francisco_navarro_comi"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Mariano Castellà Cid",
+      "Candia Balagué Omedes"
+    ],
+    "father_name": "Mariano Castellà Cid",
+    "mother_name": "Candia Balagué Omedes",
+    "spouse_names": [
+      "Francisco Navarro Comí"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Carbó",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 21 de juny de 1828 a la Ràpita.\n\nPadrins: Francisco Carbó i Rosa Balaguer.\n\nCasament: el 13 de maig de 1848 amb Francisco Navarro Comí de la Ràpita [1823].\n\nEl marit al 1851 es torna a casar, pel que es podria pensar que ella havia mor abans.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

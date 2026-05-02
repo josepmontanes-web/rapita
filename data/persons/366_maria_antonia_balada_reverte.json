@@ -1,0 +1,78 @@
+{
+  "id": "366_maria_antonia_balada_reverte",
+  "source_id": "366",
+  "row_ref": "366. María Antonia Balada Reverté",
+  "name": "María Antonia Balada Reverté",
+  "gender": "female",
+  "birth": {
+    "date": "1829-02-16",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "323_miguel_balada_balada",
+      "4346_antonia_reverter_sancho"
+    ],
+    "father": "323_miguel_balada_balada",
+    "mother": "4346_antonia_reverter_sancho",
+    "spouse": [
+      "2670_jose_agustin_gras_forcadell"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Balada Balada",
+      "Antonia Reverter Sancho"
+    ],
+    "father_name": "Miguel Balada Balada",
+    "mother_name": "Antonia Reverter Sancho",
+    "spouse_names": [
+      "José Agustín Gras Forcadell"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Pedro Navarro",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 26 de febrer de 1829 a la Ràpita.\n\nPadrins: Pedro Navarro i Raymunda Balada.\n\nCasament: el 10 de febrer de 1849 amb José Agustín Gras Forcadell d'Alcanar [1826].\n\nFills: Bautista [1850], Andrés [1855] i Miguel [1857].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

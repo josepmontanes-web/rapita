@@ -1,0 +1,78 @@
+{
+  "id": "2120_josefa_fibla",
+  "source_id": "2120",
+  "row_ref": "2120. Josefa Fibla",
+  "name": "Josefa Fibla",
+  "gender": "female",
+  "birth": {
+    "date": "1770-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1796-02-20",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2678_jose_grau_fibla",
+      "2679_tomas_grau_fibla",
+      "4032_maria_prima_fibla"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Josef Grau"
+    ],
+    "children_names": [
+      "José Grau Fibla",
+      "Tomás Grau Fibla",
+      "Maria Prima Fibla"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1770].\n\nCasament: amb José Grau d'Alcanar. Viuen al Codonyol.\n\nFills: José [1792], Tomás (Alcanar) [1795], Pere [1795] i Maria [1795].\n\nDefunció: el 20 de febrer de 1796 a la Ràpita. No fa testament.\n\nPodria ser germana d'Agustina Fibla Beltran [1775] però no es segur.\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que el seu marit i els fills son pescadors del Codoñol  (ACA BGRP Cajas 34).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

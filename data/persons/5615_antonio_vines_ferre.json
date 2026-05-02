@@ -1,0 +1,87 @@
+{
+  "id": "5615_antonio_vines_ferre",
+  "source_id": "5615",
+  "row_ref": "5615. Antonio Viñes Ferré",
+  "name": "Antonio Viñes Ferré",
+  "gender": "male",
+  "birth": {
+    "date": "1736-01-01",
+    "place": "València"
+  },
+  "death": {
+    "date": "1802-09-05",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5621_pascual_vines_servero"
+    ],
+    "father": "5621_pascual_vines_servero",
+    "mother": null,
+    "spouse": [
+      "5106_francisca_sevilla"
+    ],
+    "children": [
+      "2064_geronimo_ferre_princep",
+      "5622_bautista_vines_sevilla",
+      "5623_antonio_vines_sevilla",
+      "5624_francisca_vines_sevilla"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pascual Viñes Servero",
+      "Josefa Ferré"
+    ],
+    "father_name": "Pascual Viñes",
+    "mother_name": "Josefa Ferré",
+    "spouse_names": [
+      "Francisca Sevilla"
+    ],
+    "children_names": [
+      "Gerónimo Ferré Princep",
+      "Bautista Viñes Sevilla",
+      "Antonio Viñes Sevilla",
+      "Francisca Viñes Sevilla"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a València [aprox. 1736].\n\nCasament: amb Francisca Sevilla de València [1740].\n\nFills: Francisca (València) [1770], Antonio (València) [1775], Bautista (València) [1775], Vicente [1780] i María [1780].\n\nA l'estat de veïns de setembre de 1798 diu que viuen a la casa núm. 10 de la \"Calle Mayor\" (ACA BGRP Cajas 34). Al gener de 1799 paga un lloguer de 24 Rv per la mateixa casa. També al gener de 1799 paga un lloguer  a Patrimoni de 8 Rv per la casa de la sanitat.\n\nDefunció: el 5 de setembre de 1802 a la Ràpita. Fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

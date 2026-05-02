@@ -1,0 +1,78 @@
+{
+  "id": "306_pedro_badenes",
+  "source_id": "306",
+  "row_ref": "306. Pedro Badenes",
+  "name": "Pedro Badenes",
+  "gender": "male",
+  "birth": {
+    "date": "1777-01-01",
+    "place": "Godall"
+  },
+  "death": {
+    "date": "1839-10-12",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "4828_josefa_sancho"
+    ],
+    "children": [
+      "307_casimira_badenes_sancho",
+      "308_francisco_badenes_sancho"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Josefa Sancho"
+    ],
+    "children_names": [
+      "Casimira Badenes Sancho",
+      "Francisco Badenes Sancho"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  a Godall [aprox. 1777].\n\nCasament: amb Josefa Sancho de Godall.\n\nFills: Casimira (Godall) [aprox 1820] i Francisco (Godall) [aprox 1825].\n\nDefunció: el 12 d'octubre de 1839 a la Ràpita. Va morir als 64 anys. No va fer testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

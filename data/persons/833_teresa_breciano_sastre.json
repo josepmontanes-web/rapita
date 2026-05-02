@@ -1,0 +1,74 @@
+{
+  "id": "833_teresa_breciano_sastre",
+  "source_id": "833",
+  "row_ref": "833. Teresa Breciano Sastre",
+  "name": "Teresa Breciano Sastre",
+  "gender": "female",
+  "birth": {
+    "date": "1795-01-04",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1808-02-13",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "823_pedro_bresciano_burastero",
+      "5039_francisca_sastre_borrell"
+    ],
+    "father": "823_pedro_bresciano_burastero",
+    "mother": "5039_francisca_sastre_borrell",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Bresciano Burastero",
+      "Francisca Sastre Borrell"
+    ],
+    "father_name": "Pedro Bresciano Burastero",
+    "mother_name": "Francisca Sastre Borrell",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Thomás Sastre",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 4 de gener de 1795 a la Ràpita.\n\nPadrí: Tomás Sastre.\n\nel 4 de juliol de 1800 la seua mare té una nena que mor a les 2 hores. La mare també mor el dia 8.\n\nDefunció: el 13 de febrer de 1808 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

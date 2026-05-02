@@ -1,0 +1,85 @@
+{
+  "id": "3569_ana_maria_munoz_ivanes",
+  "source_id": "3569",
+  "row_ref": "3569. Ana María Muñoz Ivañes",
+  "name": "Ana María Muñoz Ivañes",
+  "gender": "female",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Perelló"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3570_vicente_munoz_ibanez"
+    ],
+    "father": "3570_vicente_munoz_ibanez",
+    "mother": null,
+    "spouse": [
+      "3138_felipe_martinez_agullo"
+    ],
+    "children": [
+      "3142_vicente_martinez_munoz",
+      "3143_francisca_martinez_munoz",
+      "3144_felipe_martinez_munoz"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Muñoz Ibáñez",
+      "Vicenta Ibáñez"
+    ],
+    "father_name": "Vicente Muñoz",
+    "mother_name": "Vicenta Ibáñez",
+    "spouse_names": [
+      "Felipe Martínez Agulló"
+    ],
+    "children_names": [
+      "Vicente Martínez Muñoz",
+      "Francisca Martínez Muñoz",
+      "Felipe Martínez Muñoz"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: al Perelló [aprox. 1810]. Podria ser el Perelló de València però no ho diu.\n\nCasament: amb Felipe Martínez Agulló d'Altea [1810].\n\nFills: Vicente [1831], Francisca [1833] i Felipe [1835].\n\nEs germana de Vicente Muñoz Ibáñez [1785] i Joaquín Muñoz Ibáñez [1799].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

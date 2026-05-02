@@ -1,0 +1,74 @@
+{
+  "id": "16_josef_manuel_benito_accensi_o_aucenci_navarro",
+  "source_id": "16",
+  "row_ref": "16. Josef Manuel Benito Accensi [o Aucenci] Navarro",
+  "name": "Josef Manuel Benito Accensi [o Aucenci] Navarro",
+  "gender": "male",
+  "birth": {
+    "date": "1818-04-02",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1820-03-19",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "17_jose_antonio_accensi_o_ascensi_sancho",
+      "3660_francisca_navarro_paulo"
+    ],
+    "father": "17_jose_antonio_accensi_o_ascensi_sancho",
+    "mother": "3660_francisca_navarro_paulo",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": "2_jose_antonio_accensi",
+      "paternal_grandmother": null,
+      "maternal_grandfather": "3592_francisco_navarro",
+      "maternal_grandmother": "3850_manuela_paulo"
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": "2944_tomasa_lleti_navarro"
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Antonio Accensi [o Ascensi] Sancho",
+      "Francisca Navarro Paulo"
+    ],
+    "father_name": "Josef Antonio Ascensi Sancho",
+    "mother_name": "Francisca Navarro Paul",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "José Antonio Accensi",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "Francisco Navarro",
+      "maternal_grandmother": "Manuela Paulo"
+    },
+    "godparents_names": {
+      "godfather": "Manuel Vilanueva",
+      "godmother": "Tomasa Lletí Navarro"
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 2 d'abril de 1818 a la Ràpita.\n\nPadríns: Manuel Vilanueva de Benicarló i Tomasa Lletí dels Freginals.\n\nDefunció: el 19 de març de 1820 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

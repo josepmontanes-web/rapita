@@ -1,0 +1,74 @@
+{
+  "id": "3923_concepcion_peris_jane",
+  "source_id": "3923",
+  "row_ref": "3923. Concepción Peris Jané",
+  "name": "Concepción Peris Jané",
+  "gender": "female",
+  "birth": {
+    "date": "1829-05-12",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1830-05-28",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3920_jose_agustin_peris_puig",
+      "2861_manuela_jane_subirats"
+    ],
+    "father": "3920_jose_agustin_peris_puig",
+    "mother": "2861_manuela_jane_subirats",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Agustín Peris Puig",
+      "Manuela Jané Subirats"
+    ],
+    "father_name": "José Agustín Peris Puig",
+    "mother_name": "Manuela Jané Subirats",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José López",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 12 de maig de 1829 a la Ràpita.\n\nPadrins: José López \"Dependiente del Resguardo\" i María de la Concepción Chiscas.\n\nDefunció: el 28 de maig de 1830 a la Ràpita. Va morir de \"pujos de sangre\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

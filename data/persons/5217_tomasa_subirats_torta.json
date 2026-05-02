@@ -1,0 +1,81 @@
+{
+  "id": "5217_tomasa_subirats_torta",
+  "source_id": "5217",
+  "row_ref": "5217. Tomasa Subirats Torta",
+  "name": "Tomasa Subirats Torta",
+  "gender": "female",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5185_jose_subirats"
+    ],
+    "father": "5185_jose_subirats",
+    "mother": null,
+    "spouse": [
+      "816_francisco_bosch_torta"
+    ],
+    "children": [
+      "815_francisco_bosch_subirats"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Subirats",
+      "Tomasa Torta"
+    ],
+    "father_name": "José Subirats",
+    "mother_name": "Tomasa Torta",
+    "spouse_names": [
+      "Francisco Bosch Torta"
+    ],
+    "children_names": [
+      "Francisco Bosch Subirats"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1820]. \n\nCasament: amb Francisco Bosch Torta d'Amposta [1815].\n\nFills: Francisco [1841].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

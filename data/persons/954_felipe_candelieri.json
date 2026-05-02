@@ -1,0 +1,70 @@
+{
+  "id": "954_felipe_candelieri",
+  "source_id": "954",
+  "row_ref": "954. Felipe Candelieri",
+  "name": "Felipe Candelieri",
+  "gender": "male",
+  "birth": {
+    "date": "1770-01-01",
+    "place": "Quier del Piamont (Italia)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Lorenza Poli"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Quier del Piamont (Italia).\n\nAl 1791 diu que fa tres anys i mig que resideix a Espanya.\n\nProfessió: serraller.\n\nCasament: el 15 d'abril de 1792 amb Lorenza Poli.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

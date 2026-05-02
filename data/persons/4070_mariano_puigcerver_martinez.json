@@ -1,0 +1,92 @@
+{
+  "id": "4070_mariano_puigcerver_martinez",
+  "source_id": "4070",
+  "row_ref": "4070. Mariano Puigcerver Martínez",
+  "name": "Mariano Puigcerver Martínez",
+  "gender": "male",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Cabañal (València)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4079_antonio_puigcerver_moreso"
+    ],
+    "father": "4079_antonio_puigcerver_moreso",
+    "mother": null,
+    "spouse": [
+      "2965_manuela_llorens_garcia"
+    ],
+    "children": [
+      "4064_victorio_puigcerver_llorens",
+      "4065_manuela_puigcerver_llorens",
+      "4066_pedro_puigcerver_llorens",
+      "4067_vicente_puigcerver_llorens",
+      "4068_vicenta_puigcerver_llorens",
+      "4069_jose_puigcerver_llorens"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Puigcerver Moreso",
+      "Vicenta Martínez"
+    ],
+    "father_name": "Antonio Puigcerver",
+    "mother_name": "Vicenta Martínez",
+    "spouse_names": [
+      "Mª. Inés Pascual",
+      "Manuela Llorens Garcia"
+    ],
+    "children_names": [
+      "Victorio Puigcerver Llorens",
+      "Manuela Puigcerver Llorens",
+      "Pedro Puigcerver Llorens",
+      "Vicente Puigcerver Llorens",
+      "Vicenta Puigcerver Llorens",
+      "José Puigcerver Llorens"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: al Cabanyal (València) [aprox. 1790]. \"Expósito del Hospital General de Valencia\".\n\nCasament: amb María Inés Pascual.\n\nCasament: el 31 d'octubre de 1822 amb Manuela Llorens García de Vandellós [1796]. Es casa als 32 anys.\n\nFills: Vicente [1825], Pedro [1828], Manuela [1830], Victorio [1832], Vicenta [1835] i José [1841].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

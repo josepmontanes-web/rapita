@@ -1,0 +1,68 @@
+{
+  "id": "2529_antonio_gil_molins",
+  "source_id": "2529",
+  "row_ref": "2529. Antonio Gil Molins",
+  "name": "Antonio Gil Molins",
+  "gender": "male",
+  "birth": {
+    "date": "1857-01-01",
+    "place": "Vinaròs"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1857].\n\nProfessió: mariner.\n\nCasament: el 25 d'agost de 1877 amb Agueda Ferreres Zaragoza de la Ràpita [1859]. Es casa als 20 anys.\n\nFills: Antonio [1878], Magdalena [1880], Agustín [1881] i Manuel [1893].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

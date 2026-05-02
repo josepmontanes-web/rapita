@@ -1,12 +1,12 @@
 {
   "id": "2_jose_antonio_accensi",
   "source_id": "2",
-  "row_ref": "2",
+  "row_ref": "2. José Antonio Accensi",
   "name": "José Antonio Accensi",
   "gender": "male",
   "birth": {
     "date": "1760-01-01",
-    "place": "Freginals [aprox"
+    "place": "Freginals"
   },
   "death": {
     "date": null,
@@ -22,13 +22,49 @@
   },
   "family": {
     "parents": [],
+    "father": null,
+    "mother": null,
     "spouse": [],
-    "children": []
+    "children": [
+      "5_ramon_accensi",
+      "17_jose_antonio_accensi_o_ascensi_sancho",
+      "18_antonia_accensi_o_ausensi_sanches_o_sancho",
+      "429_pedro_balaguer_ferrer",
+      "1632_teresa_christofol_omedes"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
   },
   "relations_detail": {
     "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
     "spouse_names": [],
-    "children_names": []
+    "children_names": [
+      "Ramón Accensi",
+      "José Antonio Accensi [o Ascensi] Sancho",
+      "Antonia Accensi [o Ausensi] Sanches [o Sancho]",
+      "Pedro Balaguer Ferrer",
+      "Teresa Christofol Omedes"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
   },
   "occupation": {
     "title": null

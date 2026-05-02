@@ -1,0 +1,68 @@
+{
+  "id": "1005_miguel_carbo_munoz",
+  "source_id": "1005",
+  "row_ref": "1005. Miguel Carbó Muñoz",
+  "name": "Miguel Carbó Muñoz",
+  "gender": "male",
+  "birth": {
+    "date": "1850-01-01",
+    "place": "Jesús"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Jesús [o Castelló] [aprox. 1850].\n\nProfessió: pagès i constructor de cadires.\n\nCasament: amb Antonia Solé Ciscás.\n\nCasament: el 18 d'agost de 1877 amb Cinta Escrihuela Matamoros de la Ràpita [1849].\n\nFills: Providencia [1878].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "5469_rafaela_verge_montserrat",
+  "source_id": "5469",
+  "row_ref": "5469. Rafaela Verge Montserrat",
+  "name": "Rafaela Verge Montserrat",
+  "gender": "female",
+  "birth": {
+    "date": "1807-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5463_andres_verge_gilabert"
+    ],
+    "father": "5463_andres_verge_gilabert",
+    "mother": null,
+    "spouse": [
+      "174_juan_arbos_aragones"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Andrés Verge Gilabert",
+      "Vicenta Montserrat Guasch"
+    ],
+    "father_name": "Andrés Verge Gilabert",
+    "mother_name": "Vicenta Montserrat Guasch",
+    "spouse_names": [
+      "Juan Arbós Aragonés"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1807].\n\nCasament: el 7 d'agost de 1827 amb Juan Arbós Aragonés d'Amposta.\n\nDefunció: el 16 de setembre de 1880 a la Ràpita als 73 anys de disenteria. Diu que era vidua de Juan Arbós i que van tenir un fill, Francisco, ja difunt. Declara la mor Magdalena Folch de 31 anys, casada, d'Alcalá (Castelló).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

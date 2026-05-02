@@ -1,0 +1,68 @@
+{
+  "id": "321_concuelo_balada_alberni",
+  "source_id": "321",
+  "row_ref": "321. Concuelo Balada Alberni",
+  "name": "Concuelo Balada Alberni",
+  "gender": "female",
+  "birth": {
+    "date": "1849-01-01",
+    "place": "Ulldecona"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Ulldecona [aprox. 1849].\n\nCasament: amb J. Matamoros.\n\nCasament: el 9 de setembre de 1875 amb Manuel Gimeno [o Chimeno] Reverté de la Ràpita [1840]. Es casa als 26 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

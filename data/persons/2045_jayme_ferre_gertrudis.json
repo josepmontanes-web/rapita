@@ -1,0 +1,71 @@
+{
+  "id": "2045_jayme_ferre_gertrudis",
+  "source_id": "2045",
+  "row_ref": "2045. Jayme Ferré Gertrudis",
+  "name": "Jayme Ferré Gertrudis",
+  "gender": "male",
+  "birth": {
+    "date": "1787-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1846-12-20",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Ferré",
+      "Cecilia Gertrudis"
+    ],
+    "father_name": "José Ferré",
+    "mother_name": "Cecilia Gertrudis",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1787].\n\nDefunció: el 20 de desembre de 1846 a la Ràpita. Va morir als 59 anys de \"mal de costado\". No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

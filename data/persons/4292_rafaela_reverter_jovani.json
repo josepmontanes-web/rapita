@@ -1,0 +1,81 @@
+{
+  "id": "4292_rafaela_reverter_jovani",
+  "source_id": "4292",
+  "row_ref": "4292. Rafaela Reverter Jovani",
+  "name": "Rafaela Reverter Jovani",
+  "gender": "female",
+  "birth": {
+    "date": "1821-02-18",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4264_miguel_reverter_forner"
+    ],
+    "father": "4264_miguel_reverter_forner",
+    "mother": null,
+    "spouse": [
+      "5395_lorenzo_torta_subirats"
+    ],
+    "children": [
+      "5378_jose_torta_reverter"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Reverter Forner",
+      "Maria Jovani Grau"
+    ],
+    "father_name": "Miguel Reverter Forner",
+    "mother_name": "Maria Jovani Grau",
+    "spouse_names": [
+      "Lorenzo Torta Subirats"
+    ],
+    "children_names": [
+      "José Torta Reverter"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Rafael Casajust",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 18 de febrer de 1821 a la Ràpita.\n\nPadrins: Rafael Casajust i María Reverter.\n\nCasament: el 29 de gener de 1840 amb Lorenzo Torta Subirats d'Amposta [1815].\n\nFills: José [1841], Sebastián [1843], Miguel [1844], Vicente [1851], Dolores [1855] i Agustín [1862].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

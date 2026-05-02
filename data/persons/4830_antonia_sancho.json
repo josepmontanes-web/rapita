@@ -1,0 +1,82 @@
+{
+  "id": "4830_antonia_sancho",
+  "source_id": "4830",
+  "row_ref": "4830. Antonia Sancho",
+  "name": "Antonia Sancho",
+  "gender": "female",
+  "birth": {
+    "date": "1763-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1843-08-22",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "4923_salvador_sancho_reverter"
+    ],
+    "children": [
+      "4935_maria_sancho_sancho",
+      "4936_salvador_sancho_sancho",
+      "4937_matias_sancho_sancho",
+      "5432_teresa_valls_sancho"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Salvador Sancho Reverter"
+    ],
+    "children_names": [
+      "María Sancho Sancho",
+      "Salvador Sancho Sancho",
+      "Matías Sancho Sancho",
+      "Teresa Valls Sancho"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1763]. \n\nCasament: amb Salvador Sancho Reverter d'Alcanar [1770].\n\nFills: María [1795], Salvador [1795] i Matías (Alcanar) [1806].\n\nDefunció: el 22 d'agost de 1843 a la Ràpita. Va morir als 80 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

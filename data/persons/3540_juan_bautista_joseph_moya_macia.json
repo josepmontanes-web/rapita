@@ -1,0 +1,73 @@
+{
+  "id": "3540_juan_bautista_joseph_moya_macia",
+  "source_id": "3540",
+  "row_ref": "3540. Juan Bautista Joseph Moya Maciá",
+  "name": "Juan Bautista Joseph Moya Maciá",
+  "gender": "male",
+  "birth": {
+    "date": "1816-09-12",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1819-09-19",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3557_francisco_moya_vilarroya"
+    ],
+    "father": "3557_francisco_moya_vilarroya",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Moya Vilarroya",
+      "Vicenta Macián Sanches"
+    ],
+    "father_name": "Francisco Moya Vilarroya",
+    "mother_name": "Vicenta Macián Sanches",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Joseph Maciá",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 12 de setembre de 1816 a la Ràpita.\n\nPadrins: José Maciá i Teresa Villarroya (iaios).\n\nDefunció: el 19 de setembre de 1819 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

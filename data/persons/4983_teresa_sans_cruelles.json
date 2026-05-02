@@ -1,0 +1,82 @@
+{
+  "id": "4983_teresa_sans_cruelles",
+  "source_id": "4983",
+  "row_ref": "4983. Teresa Sans Cruelles",
+  "name": "Teresa Sans Cruelles",
+  "gender": "female",
+  "birth": {
+    "date": "1805-02-07",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1824-08-29",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5019_andres_sanz_sanarau",
+      "1652_antonia_cruelles_remisa"
+    ],
+    "father": "5019_andres_sanz_sanarau",
+    "mother": "1652_antonia_cruelles_remisa",
+    "spouse": [
+      "3358_casimiro_mies_guinjuan"
+    ],
+    "children": [
+      "3368_jose_mies_sans"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Andrés Sanz Sanarau",
+      "Antonia Cruelles Remisa"
+    ],
+    "father_name": "Andrés Sanz Sanarau",
+    "mother_name": "Antonia Cruelles Remisa",
+    "spouse_names": [
+      "Casimiro Míes Guinjuan"
+    ],
+    "children_names": [
+      "José Míes Sans"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Cruelles",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 7 de febrer de 1805 a la Ràpita.\n\nPadrins: Juan Cruelles i Mariana Puig.\n\nCasament: el 20 d'abril de 1822 amb Casimiro Míes Guinjuan de la Ràpita [1794].\n\nFills: José [1824].\n\nDefunció: el 29 d'agost de 1824 a la Ràpita. Va morir de \"sobreparto\". No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

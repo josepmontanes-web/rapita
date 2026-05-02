@@ -1,0 +1,73 @@
+{
+  "id": "1534_maria_teresa_clua_vidal",
+  "source_id": "1534",
+  "row_ref": "1534. María Teresa Clua Vidal",
+  "name": "María Teresa Clua Vidal",
+  "gender": "female",
+  "birth": {
+    "date": "1826-08-03",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1828-08-28",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1517_jose_clua_cid"
+    ],
+    "father": "1517_jose_clua_cid",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Clua Cid",
+      "Francisca Vidal Sastre"
+    ],
+    "father_name": "José Clua Cid",
+    "mother_name": "Francisca Vidal Sastre",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Jose Antonio Vidal",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 3 d'agost de 1826 a la Ràpita.\n\nPadrins: José Antonio Vidal i Francisca Borrell.\n\nDefunció: el 28 d'agost de 1828 a la Ràpita. Va morir de \"espasmo\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

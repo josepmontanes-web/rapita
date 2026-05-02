@@ -1,0 +1,75 @@
+{
+  "id": "2818_placido_ibanez_marti",
+  "source_id": "2818",
+  "row_ref": "2818. Plácido Ibáñez Martí",
+  "name": "Plácido Ibáñez Martí",
+  "gender": "male",
+  "birth": {
+    "date": "1824-01-01",
+    "place": "Perelló"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2822_sebastian_ibanez_martinez"
+    ],
+    "father": "2822_sebastian_ibanez_martinez",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Sebastián Ibáñez Martínez",
+      "Mariana Martí"
+    ],
+    "father_name": "Sebastian Ibáñez",
+    "mother_name": "Mariana Martí",
+    "spouse_names": [
+      "Francisca Borràs Carbó"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Matriculado"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: al Perelló (Ametlla de Mar) [aprox. 1824].\n\nProfessió: \"Matriculado\".\n\nCasament: el 5 d'octubre de 1849 amb Francisca Borràs Carbó de la Ràpita [1827].\n\nFills: Tomasa [1855], Francisco [1858] i María [1862].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

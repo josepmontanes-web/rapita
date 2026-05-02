@@ -1,0 +1,83 @@
+{
+  "id": "1359_josefa_caubet_rodriguez",
+  "source_id": "1359",
+  "row_ref": "1359. Josefa Caubet Rodríguez",
+  "name": "Josefa Caubet Rodríguez",
+  "gender": "female",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4446_tomasa_rodriguez"
+    ],
+    "father": null,
+    "mother": "4446_tomasa_rodriguez",
+    "spouse": [
+      "5502_juan_vidal_beltran"
+    ],
+    "children": [
+      "5513_rosa_paula_vidal_caubet",
+      "5514_magdalena_vidal_caubet"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Caubet o Calbet",
+      "Tomasa Rodriguez"
+    ],
+    "father_name": "Pedro Caubet o Calbet",
+    "mother_name": "Tomasa Rodríguez",
+    "spouse_names": [
+      "Juan Vidal Beltran"
+    ],
+    "children_names": [
+      "Rosa Paula Vidal Caubet",
+      "Magdalena Vidal Caubet"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1810].\n\nCasament: amb Juan Vidal Beltran d'Alcanar [1810].\n\nFills: Rosa Paula [1829] i Magdalena [1831].\n\nEs germana de Rosa Caubet Rodríguez [1800].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

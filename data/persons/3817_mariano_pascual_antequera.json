@@ -1,0 +1,95 @@
+{
+  "id": "3817_mariano_pascual_antequera",
+  "source_id": "3817",
+  "row_ref": "3817. Mariano Pascual Antequera",
+  "name": "Mariano Pascual Antequera",
+  "gender": "male",
+  "birth": {
+    "date": "1740-01-01",
+    "place": "València (Parr. S.Andrés)"
+  },
+  "death": {
+    "date": "1802-09-08",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "2270_antonia_fuster"
+    ],
+    "children": [
+      "3822_josefa_pasqual_fuster",
+      "3823_blas_pasqual_fuster",
+      "3824_mariana_pascual_fuster",
+      "3825_vicenta_pascual_fuster",
+      "3826_francisca_pasqual_fuster",
+      "3827_juan_bautista_pasqual_fuster",
+      "3828_gertrudis_pasqual_fuster",
+      "3829_teresa_pasqual_fuster",
+      "3830_juliana_pasqual_fuster"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Pascual",
+      "Vicenta Antequera"
+    ],
+    "father_name": "Josef Pascual",
+    "mother_name": "Vicenta Antequera",
+    "spouse_names": [
+      "Antonia Fuster"
+    ],
+    "children_names": [
+      "Josefa Pasqual Fuster",
+      "Blas Pasqual Fuster",
+      "Mariana Pascual Fuster",
+      "Vicenta Pascual Fuster",
+      "Francisca Pasqual Fuster",
+      "Juan Bautista Pasqual Fuster",
+      "Gertrudis Pasqual Fuster",
+      "Teresa Pasqual Fuster",
+      "Juliana Pasqual Fuster"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a València (parróquia de San Andrés) [aprox. 1740]. \n\nProfessió: \"Ministro del Resguardo\" i pagès.\n\nCasament: amb Antonia Fuster de Vinaròs [1755].\n\nFills: Juan Bautista (Vinaròs) [1775], Francisca (Vinaròs) [1778], Mariana (Vinaròs) [1779], Blas [1783], Gertrudis (Vinaròs) [1783], Teresa (Amposta) [1785], Juliana (Amposta) [1789], Josefa [1790] i Vicenta [1793].\n\nNovembre de 1780, té la concesió de l'estanc de San Carlos.\n\nEl 29 de maig de 1784 demana permís per a fer una altra estància junt a la cova que habitava.\n\nEl 2 de desembre de 1787 la priora de les monges escriu a Josef Naudín: \"entre las vejaciones que ha causado Don Francisco Canals a esta mi comunidad, es una de ellas, haber dado de propia autoridad al Guarda Mariano Pasqual la Cueva que está al lado de las Casas de la Sanidad, con amplias facultades para que allí obrase y se extendiese a su arbitrio, como efectivamente lo ha hecho apropiandose de una gran porción de la huerta de dicha mi Comunidad y utilizandose del fruto de las Higueras que hay en ellas, sin reconocerme por Dueña ni haberse en jamas querido sujetar a pagar los alquileres que otros anteriores habitantes de dicha cueva me han satisfecho: ... cuando el difunto Don Josef Peralta Administrador de la Aduana me pidio permiso para construirla en nombre del REY, se le concedí también para ocupar el terreno necesario para levantar casa para los Ministros del Resguardo, y teniendo entendido de que dicho Pasqual le remueven de ese destino, ... no permitirá a otro alguno ocupe la referida cueva y habitación sin pagarme los correspondientes alquileres\". (ACA BGRP caixa 24).\n\n5.12.1787. Mariano Pasqual, como otros muchos vecinos de esta población,   té permís per edificar una casa.  (sembla que les monges demanen algo en relació a això, i diuen que no tenen res a dir) (ACA BGRP caixa 13).\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu al barri dels pescadors  (ACA BGRP Cajas 34).\n\nDefunció: el 8 de setembre de 1802 a la Ràpita. Va morir als 62 o als 72 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "653_alexandro_beltri_bedos",
+  "source_id": "653",
+  "row_ref": "653. Alexandro Beltri Bedós",
+  "name": "Alexandro Beltri Bedós",
+  "gender": "male",
+  "birth": {
+    "date": "1786-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1808-01-05",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1609_raymunda_contiella_querol"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Beltri",
+      "Teresa Bedós"
+    ],
+    "father_name": "Antonio Beltri",
+    "mother_name": "Teresa Bedós",
+    "spouse_names": [
+      "Raymunda Contiella Querol"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1786].\n\nCasament: el 13 de desembre de 1804 amb Raymunda Contiella Querol d'Amposta [1790]. Es va casar als 19 anys i era veí de la Ràpita.\n\nDefunció: el 5 de gener de 1808 a la Ràpita. Va fer testament davant del capellà.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

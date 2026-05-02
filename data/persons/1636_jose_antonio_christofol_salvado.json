@@ -1,0 +1,75 @@
+{
+  "id": "1636_jose_antonio_christofol_salvado",
+  "source_id": "1636",
+  "row_ref": "1636. José Antonio Christofol Salvadó",
+  "name": "José Antonio Christofol Salvadó",
+  "gender": "male",
+  "birth": {
+    "date": "1764-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "2788_agustina_omedes_carles"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Rafael Christofol",
+      "Teresa Salvadó"
+    ],
+    "father_name": "Rafael Christofol",
+    "mother_name": "Teresa Salvadó",
+    "spouse_names": [
+      "Agustina Omedes Carles"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "pescador"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1764].\n\nProfessió: pescador.\n\nCasament: amb Agustina Omedes [o Homedes] Carles de Tortosa [1764].\n\nFills: Teresa (Tortosa) [1784], Vicens [1786], Francisca [1788], Ramón [1788] i Francisco [1805].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Fonda Vella núm. 6 (ACA BGRP Cajas 34). Del gener de 1798 al desembre de 1807 paga un lloguer de 2 Rs mensuals per la casa 6 de la Fonda Vella.\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu al barri dels pescadors  (ACA BGRP Cajas 34).\n\nTestament de José Antonio Christofol, pescador, l'11 de setembre de 1795, es troba ja greument malalt. Albaceas: la consorte Agustina Omedes i el germà Carles Christofol.\nVol ser enterrat a Tortosa amb els cofrares de Nuestra Sra. del Rosario a la esglesia del convent de P.P. Predicadores. Dona 30 lliures d'ardit.\nL'us de fruit es per a la dona sempre que es mantingui vidua. A la filla Francisca li lega la legitima, terra a la partida de castellnou. A la filla Teresa li lega la legitima, la mitad d'una casa que té i viu a la Ribera (el segon pis que té dos quartos) que confina per un costat amb casa de Pedro Estramper, per altre amb José Bestida i per detras amb Ventura Balagué; amb la obligació de pagar el censal que correspon a la cofradia San José.  A la dona Agustina Omedes un troç de terra a la partida de la Ràpita de dos jornals que linda amb Francisco Cartes i Mateu Castellà, pescadors. Hereu universal el seu fill Vicente. Testimonis: José Cartes, pescador, Sebastián Casanova, teixidor.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

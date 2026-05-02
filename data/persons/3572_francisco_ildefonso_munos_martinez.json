@@ -1,0 +1,71 @@
+{
+  "id": "3572_francisco_ildefonso_munos_martinez",
+  "source_id": "3572",
+  "row_ref": "3572. Francisco Ildefonso Muños Martínez",
+  "name": "Francisco Ildefonso Muños Martínez",
+  "gender": "male",
+  "birth": {
+    "date": "1796-04-30",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Andrés Muños Navarro",
+      "María Martínez Contreras"
+    ],
+    "father_name": "Andrés Muños Navarro",
+    "mother_name": "María Martínez Contreras",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Escan",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 30 d'abril de 1796 a la Ràpita.\n\n\"Nació en los Alfaques en el Jabeque Santo Christo de la Sangre, su patrón Rafael Lluch\".\n\nPadrins: Francisco Escan i Francisca Sánchez Calvet.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

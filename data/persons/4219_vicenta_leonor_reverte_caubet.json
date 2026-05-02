@@ -1,0 +1,73 @@
+{
+  "id": "4219_vicenta_leonor_reverte_caubet",
+  "source_id": "4219",
+  "row_ref": "4219. Vicenta Leonor Reverté Caubet",
+  "name": "Vicenta Leonor Reverté Caubet",
+  "gender": "female",
+  "birth": {
+    "date": "1829-10-27",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1358_rosa_caubet_rodriguez"
+    ],
+    "father": null,
+    "mother": "1358_rosa_caubet_rodriguez",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Reverté Queral",
+      "Rosa Caubet Rodríguez"
+    ],
+    "father_name": "Miguel Reverté Queral",
+    "mother_name": "Rosa Caubet Rodriguez",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Bernabé Ramirez",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 27 d'octubre de 1829 a la Ràpita.\n\nPadrins: Bernabé Ramirez i Buenaventura Benlloch.\n\nCasament: amb Alejandro Arlández Balada de la Ràpita [1830].\n\nFills: Alejandro [1860].\n\nDefunció: el 29 de març de 1880 a la Ràpita de pleuro neumonia. Declara la mor la seua neboda Rosa Brunet de 30 anys, casada.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "792_jose_cristobal_borras_vernis",
+  "source_id": "792",
+  "row_ref": "792. José Cristobal Borràs Vernis",
+  "name": "José Cristobal Borràs Vernis",
+  "gender": "male",
+  "birth": {
+    "date": "1817-07-09",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "785_miguel_borras_moles"
+    ],
+    "father": "785_miguel_borras_moles",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Borràs Moles",
+      "Geronima Vernis Murall"
+    ],
+    "father_name": "Miguel Borràs Moles",
+    "mother_name": "Geronima Vernis Murall",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Cristobal Alegret",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 9 de juliol de 1817 a la Ràpita.\n\nPadrins: Cristobal Alegret i Jacinta Bernis.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

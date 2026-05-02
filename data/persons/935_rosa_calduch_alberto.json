@@ -1,0 +1,68 @@
+{
+  "id": "935_rosa_calduch_alberto",
+  "source_id": "935",
+  "row_ref": "935. Rosa Calduch Alberto",
+  "name": "Rosa Calduch Alberto",
+  "gender": "female",
+  "birth": {
+    "date": "1873-01-01",
+    "place": "Benicarló"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Benicarló [aprox. 1873].\n\nDefunció: el 13 de maig de 1880 a la Ràpita als 7 anys de \"apoplegia fulminante\". El pare es mariner i té 45 anys. Declara la mor el seu iaio Bartolomé Alberto de 78 anys, de Benicarló, toneler, vidu.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

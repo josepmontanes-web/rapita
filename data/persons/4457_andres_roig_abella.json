@@ -1,0 +1,68 @@
+{
+  "id": "4457_andres_roig_abella",
+  "source_id": "4457",
+  "row_ref": "4457. Andrés Roig Abella",
+  "name": "Andrés Roig Abella",
+  "gender": "male",
+  "birth": {
+    "date": "1840-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox 1845].\n\nProfessió: veterinari (Albeitar).\n\nCasament: amb Teresa Segarra Badoch d'Alcanar [1850].\n\nFills: José [1870] i Hermenegildo Juan Bautista [1876].\n\nTestimoni d'anotacions al registre civil des de 1875.\n\nViu a la Plaça Major, 18 (Plaça Carles III).\n\nDefunció: el 14 de juny de 1879 a la Ràpita als 37 anys de tisis laringea. La dona té 35 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

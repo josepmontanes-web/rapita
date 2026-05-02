@@ -1,0 +1,73 @@
+{
+  "id": "4497_apolonia_maria_romeu_reverter",
+  "source_id": "4497",
+  "row_ref": "4497. Apolonia María Romeu Reverter",
+  "name": "Apolonia María Romeu Reverter",
+  "gender": "female",
+  "birth": {
+    "date": "1836-05-27",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4486_manuel_romeu_pla"
+    ],
+    "father": "4486_manuel_romeu_pla",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel Romeu Pla",
+      "Josefa Antonia Reverter Obiol"
+    ],
+    "father_name": "Manuel Romeu Pla",
+    "mother_name": "Josefa Antonia Reverter Obiol",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Mateo Reverter",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 27 de maig de 1836 a la Ràpita.\n\nPadrins: Mateo Reverter i Apolonia Briciano.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

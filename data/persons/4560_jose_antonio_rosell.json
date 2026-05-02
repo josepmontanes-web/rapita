@@ -1,0 +1,78 @@
+{
+  "id": "4560_jose_antonio_rosell",
+  "source_id": "4560",
+  "row_ref": "4560. José Antonio Rosell",
+  "name": "José Antonio Rosell",
+  "gender": "male",
+  "birth": {
+    "date": "1760-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "4563_tomas_rosell_cartes",
+      "4564_juan_rosell_cartes",
+      "4565_teresa_rosell_cartes"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Rosa Cartes"
+    ],
+    "children_names": [
+      "Tomás Rosell Cartes",
+      "Juan Rosell Cartes",
+      "Teresa Rosell Cartes"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1760]. \n\nCasament: amb Rosa Cartes de Tortosa.\n\nFills: Tomás (Tortosa) [1790], Juan (Tortosa) [1790] i Teresa (Tortosa) [1790].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

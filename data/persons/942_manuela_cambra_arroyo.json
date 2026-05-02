@@ -1,0 +1,74 @@
+{
+  "id": "942_manuela_cambra_arroyo",
+  "source_id": "942",
+  "row_ref": "942. Manuela Cambra Arroyo",
+  "name": "Manuela Cambra Arroyo",
+  "gender": "female",
+  "birth": {
+    "date": "1807-01-28",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "945_peregrin_cambra_pau",
+      "293_josefa_arroyo_perez"
+    ],
+    "father": "945_peregrin_cambra_pau",
+    "mother": "293_josefa_arroyo_perez",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Peregrín Cambra Pau",
+      "Josefa Arroyo Pérez"
+    ],
+    "father_name": "Peregrín Cambra Pau",
+    "mother_name": "Josefa Arroyo Pérez",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Josef Novel",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 28 de gener de 1807 a la Ràpita.\n\nPadrí: Don José Novel, es de Barcelona i es \"Cabo del Resguardo\". Asistí al bateig Don Josef Chiscàs, Alcalde.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

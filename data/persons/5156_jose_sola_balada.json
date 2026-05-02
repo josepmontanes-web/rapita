@@ -1,0 +1,71 @@
+{
+  "id": "5156_jose_sola_balada",
+  "source_id": "5156",
+  "row_ref": "5156. José Solà Balada",
+  "name": "José Solà Balada",
+  "gender": "male",
+  "birth": {
+    "date": "1784-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1799-08-15",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Solà",
+      "Francisca Balada"
+    ],
+    "father_name": "Josef Solà",
+    "mother_name": "Francisca Balada",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1784]. \n\nDefunció: el 15 d'agost de 1799 a la Ràpita. Va morir quan el passaven malalt d'Amposta a Alcanar.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

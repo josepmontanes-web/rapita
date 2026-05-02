@@ -1,0 +1,71 @@
+{
+  "id": "2224_jose_antonio_forcadell_talarn",
+  "source_id": "2224",
+  "row_ref": "2224. José Antonio Forcadell Talarn",
+  "name": "José Antonio Forcadell Talarn",
+  "gender": "male",
+  "birth": {
+    "date": "1806-01-21",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1811-03-27",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Forcadell Segarra",
+      "Francisca Talarn Valldeperes"
+    ],
+    "father_name": "Josef Forcadell Segarra",
+    "mother_name": "Francisca Talarn Valldeperes",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Josef Ramón Teixeiro ?",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 21 de gener de 1806 a la Ràpita.\n\nPadrins: Don José Ramón Teixeiro i María Ildefonso.\n\nDefunció: el 27 de març de 1811 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

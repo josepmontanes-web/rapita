@@ -1,0 +1,73 @@
+{
+  "id": "4488_mariano_romeu_puig",
+  "source_id": "4488",
+  "row_ref": "4488. Mariano Romeu Puig",
+  "name": "Mariano Romeu Puig",
+  "gender": "male",
+  "birth": {
+    "date": "1830-06-24",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4485_jose_romeu_pla"
+    ],
+    "father": "4485_jose_romeu_pla",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Romeu Pla",
+      "Rosa Puig Granell"
+    ],
+    "father_name": "José Romeu Pla",
+    "mother_name": "Rosa Puig Granell",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Mariano Aranda",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 24 de juny de 1830 a la Ràpita.\n\nProfessió: mariner.\n\nPadrins: Don Mariano Aranda i Doña María Ana Visquert, son de Denia.\n\nCasament: amb Josefa Pepiol Chillida de la Ràpita [1836].\n\nFills: Teresa [1874].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

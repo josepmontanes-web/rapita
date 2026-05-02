@@ -1,12 +1,12 @@
 {
   "id": "48_rosa_aixendri_bonfill",
   "source_id": "48",
-  "row_ref": "48",
+  "row_ref": "48. Rosa Aixendri Bonfill",
   "name": "Rosa Aixendri Bonfill",
   "gender": "female",
   "birth": {
     "date": "1850-01-01",
-    "place": "Tortosa [aprox"
+    "place": "Tortosa"
   },
   "death": {
     "date": null,
@@ -22,13 +22,41 @@
   },
   "family": {
     "parents": [],
+    "father": null,
+    "mother": null,
     "spouse": [],
-    "children": []
+    "children": [
+      "1770_jose_duch_aixendri"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
   },
   "relations_detail": {
     "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
     "spouse_names": [],
-    "children_names": []
+    "children_names": [
+      "José Duch Aixendri"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
   },
   "occupation": {
     "title": null

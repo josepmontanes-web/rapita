@@ -1,0 +1,75 @@
+{
+  "id": "658_maria_ana_beltri_falco",
+  "source_id": "658",
+  "row_ref": "658. Maria Ana Beltri Falcó",
+  "name": "Maria Ana Beltri Falcó",
+  "gender": "female",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Xerta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3571_joaquin_munoz_ibanez"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Beltri",
+      "Josefa Falcó"
+    ],
+    "father_name": "Francisco Beltri",
+    "mother_name": "Josefa Falcó",
+    "spouse_names": [
+      "Joaquín Muñoz Ibáñez"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Xerta [aprox. 1810].\n\nCasament: el 9 de juliol de 1836 amb Joaquín Muñoz Ibáñez de Vinaròs [1799].\n\nFills: Joaquín [1841] i José [1841].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

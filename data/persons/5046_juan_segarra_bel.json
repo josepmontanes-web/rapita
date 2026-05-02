@@ -1,0 +1,86 @@
+{
+  "id": "5046_juan_segarra_bel",
+  "source_id": "5046",
+  "row_ref": "5046. Juan Segarra Bel",
+  "name": "Juan Segarra Bel",
+  "gender": "male",
+  "birth": {
+    "date": "1766-01-01",
+    "place": "Ulldecona"
+  },
+  "death": {
+    "date": "1836-04-18",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5040_jose_segarra",
+      "545_pascuala_bel"
+    ],
+    "father": "5040_jose_segarra",
+    "mother": "545_pascuala_bel",
+    "spouse": [
+      "5654_antonia_zaragoza_carbo"
+    ],
+    "children": [
+      "5086_agustin_segarra_zaragoza",
+      "5087_carlos_segarra_zaragoza",
+      "5088_antonio_segarra_zaragoza"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Segarra",
+      "Pascuala Bel"
+    ],
+    "father_name": "José Segarra",
+    "mother_name": "Pascuala Bel",
+    "spouse_names": [
+      "Antonia Zaragoza Carbó"
+    ],
+    "children_names": [
+      "Agustín Segarra Zaragoza",
+      "Carlos Segarra Zaragoza",
+      "Antonio Segarra Zaragoza"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Ulldecona [aprox. 1766]. \n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Fonda Vella (ACA BGRP Cajas 34).\n\nCasament: amb Antonia Zaragoza Carbó de Tortosa [1778].\n\nFills: Carlos [1806], Agustín [1811] i Antonio [1812].\n\nDefunció: el 18 d'abril de 1836 a la Ràpita. Va morir als 70 anys. Fa testament.\n\nDe l'1 de juny de 1834 al 30 de novembre de 1838 ha de pagar un lloguer de 10 Rs mensuals per la casa 7 de la mançana 4. (AGP.PER.LEG.1073/23 [Juan Vecino]).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

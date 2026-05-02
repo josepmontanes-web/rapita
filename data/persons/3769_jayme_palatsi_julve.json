@@ -1,0 +1,87 @@
+{
+  "id": "3769_jayme_palatsi_julve",
+  "source_id": "3769",
+  "row_ref": "3769. Jayme Palatsí Julve",
+  "name": "Jayme Palatsí Julve",
+  "gender": "male",
+  "birth": {
+    "date": "1795-01-01",
+    "place": "Oropesa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1509_teresa_ciurana_llopis"
+    ],
+    "children": [
+      "3770_tomasa_palatsi_ciurana",
+      "3771_jose_antonio_palatsi_ciurana",
+      "3772_juan_palatsi_ciurana",
+      "3773_roman_palatsi_ciurana",
+      "3774_vicente_palatsi_ciurana"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Palatsí",
+      "Tomasa Julve"
+    ],
+    "father_name": "Francisco Palatsí",
+    "mother_name": "Tomasa Julve",
+    "spouse_names": [
+      "Teresa Ciurana Llopis"
+    ],
+    "children_names": [
+      "Tomasa Palatsí Ciurana",
+      "José Antonio Palatsí Ciurana",
+      "Juan Palatsí Ciurana",
+      "Román Palatsí Ciurana",
+      "Vicente Palatsí Ciurana"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Orpesa [aprox. 1795]. \n\nCasament: amb Teresa Ciurana Llopis de Benassal [1796].\n\nFills: Tomasa (Calig) [1820], Román [1832], José Antonio [1834], Juan [1838] i Vicente [1838].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

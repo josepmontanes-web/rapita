@@ -1,0 +1,68 @@
+{
+  "id": "599_cinta_beltran_esbri",
+  "source_id": "599",
+  "row_ref": "599. Cinta Beltran Esbrí",
+  "name": "Cinta Beltran Esbrí",
+  "gender": "female",
+  "birth": {
+    "date": "1858-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1858].\n\nAl setembre de 1876 presenta la declaració de naixement de la seua neboda al registre civil. Té 18 anys.\n\nCasament: el 9 de novembre de 1881 amb Domingo Navarro Piñana de la Ràpita [1855]. Es casa als 22 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

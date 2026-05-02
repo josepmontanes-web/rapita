@@ -1,0 +1,74 @@
+{
+  "id": "4594_josefa_sabater_matamoros",
+  "source_id": "4594",
+  "row_ref": "4594. Josefa Sabater Matamoros",
+  "name": "Josefa Sabater Matamoros",
+  "gender": "female",
+  "birth": {
+    "date": "1843-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1844-12-22",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4603_sebastian_sabater_puchol",
+      "3226_josefa_matamoros_lleti"
+    ],
+    "father": "4603_sebastian_sabater_puchol",
+    "mother": "3226_josefa_matamoros_lleti",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Sebastian Sabater Puchol",
+      "Josefa Matamoros Lletí"
+    ],
+    "father_name": "Sebastián Sabater Puchol",
+    "mother_name": "Josefa Matamoros Lletí",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1843]. \n\nDefunció: el 22 de desembre de 1844 a la Ràpita. Va morir pàrvula d'un any.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

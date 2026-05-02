@@ -1,0 +1,74 @@
+{
+  "id": "2584_agustin_pedro_giner_hernandez",
+  "source_id": "2584",
+  "row_ref": "2584. Agustín Pedro Giner Hernández",
+  "name": "Agustín Pedro Giner Hernández",
+  "gender": "male",
+  "birth": {
+    "date": "1796-06-22",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2569_salvador_giner_ferran",
+      "264_rosa_hernandez_o_arlandez_pla"
+    ],
+    "father": "2569_salvador_giner_ferran",
+    "mother": "264_rosa_hernandez_o_arlandez_pla",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Salvador Giner Ferrán",
+      "Rosa Hernández [o Arlández] Pla"
+    ],
+    "father_name": "Salvador Giner Hernández",
+    "mother_name": "Rosa Hernández Pla",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Agustín Fornesa",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 22 de juny de 1796 a la Ràpita.\n\nPadrins: Agustín Fornesa i Teresa Ricart (o Picart).\n\n\"Testigos del bautizo Miguel Alsó de Amposta. Baitista Josefa Giner hermana del padre\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

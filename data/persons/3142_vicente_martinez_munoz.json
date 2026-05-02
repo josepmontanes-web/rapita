@@ -1,0 +1,78 @@
+{
+  "id": "3142_vicente_martinez_munoz",
+  "source_id": "3142",
+  "row_ref": "3142. Vicente Martínez Muñoz",
+  "name": "Vicente Martínez Muñoz",
+  "gender": "male",
+  "birth": {
+    "date": "1831-08-04",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3138_felipe_martinez_agullo",
+      "3569_ana_maria_munoz_ivanes"
+    ],
+    "father": "3138_felipe_martinez_agullo",
+    "mother": "3569_ana_maria_munoz_ivanes",
+    "spouse": [],
+    "children": [
+      "3570_vicente_munoz_ibanez"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Felipe Martínez Agulló",
+      "Ana María Muñoz Ivañes"
+    ],
+    "father_name": "Felipe Martínez Aulló",
+    "mother_name": "Ana María Muñoz Ivañes",
+    "spouse_names": [],
+    "children_names": [
+      "Vicente Muñoz Ibáñez"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Miguel Martínez",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 4 d'agost de 1831 a la Ràpita.\n\nPadrins: Miguel Martínez i Sebastiana Pla.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

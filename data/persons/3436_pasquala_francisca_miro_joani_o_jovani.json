@@ -1,0 +1,73 @@
+{
+  "id": "3436_pasquala_francisca_miro_joani_o_jovani",
+  "source_id": "3436",
+  "row_ref": "3436. Pasquala Francisca Miró Joaní [o Jovani]",
+  "name": "Pasquala Francisca Miró Joaní [o Jovani]",
+  "gender": "female",
+  "birth": {
+    "date": "1840-04-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3438_juan_miro_sole"
+    ],
+    "father": "3438_juan_miro_sole",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Miró Solé",
+      "Rosa Joaní Grau"
+    ],
+    "father_name": "Juan Miró Solé",
+    "mother_name": "Rosa Joaní Grau",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Antonio Ferrer",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'1 d'abril de 1840 a la Ràpita.\n\nPadrins: José Antonio Ferrer i Rosa Miguel.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

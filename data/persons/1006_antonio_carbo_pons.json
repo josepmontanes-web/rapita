@@ -1,0 +1,89 @@
+{
+  "id": "1006_antonio_carbo_pons",
+  "source_id": "1006",
+  "row_ref": "1006. Antonio Carbó Pons",
+  "name": "Antonio Carbó Pons",
+  "gender": "male",
+  "birth": {
+    "date": "1770-01-01",
+    "place": "Cabanes o Orpesa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "850_antonio_brunet_carbo"
+    ],
+    "father": "850_antonio_brunet_carbo",
+    "mother": null,
+    "spouse": [
+      "2130_josefa_fibla_gargallo"
+    ],
+    "children": [
+      "1001_manuel_santos_carbo_fibla",
+      "1002_thadea_carbo_fibla",
+      "1003_juan_carbo_fibla",
+      "1004_teresa_carbo_fibla",
+      "3999_maria_pons_bullon"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Brunet Carbó",
+      "Francisca Pons"
+    ],
+    "father_name": "Antonio Carbó",
+    "mother_name": "Francisca Pons",
+    "spouse_names": [
+      "Josefa Fibla Gargallo"
+    ],
+    "children_names": [
+      "Manuel Santos Carbó Fibla",
+      "Thadea Carbó Fibla",
+      "Juan Carbó Fibla",
+      "Teresa Carbó Fibla",
+      "María Pons Bullón"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Cabanes (Castelló) [aprox. 1770]. També podria ser a Orpesa.\n\nCasament: amb Josefa Fibla Gargallo d'Alcanar [1772].\n\nFills: Teresa (Amposta) [1788], Juan (Amposta) [1789], Thadea [1791] i Manuel Santos [1794].\n\nAl març de 1798 la seua dona es torna a casar, pel que previsiblement ell ja havia mor.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

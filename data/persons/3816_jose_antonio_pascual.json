@@ -1,0 +1,73 @@
+{
+  "id": "3816_jose_antonio_pascual",
+  "source_id": "3816",
+  "row_ref": "3816. José Antonio Pascual",
+  "name": "José Antonio Pascual",
+  "gender": "male",
+  "birth": {
+    "date": "1742-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1814-04-14",
+    "place": "Sant Carlos de la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "4583_agustina_rubio"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Agustina Rubio",
+      "Joaquina Querol"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Cabo de sanitat"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1742]. \n\n\"Cabo de sanidad de este puerto\". Al maig de 1781 diu que si els vaixells entren en contacte amb el anglesos hauran de fer una llarga quarentena al entrar al port (ACA BGRP Correspondència Caixa 1).\n\nCasament: amb Agustina Rubio de Granada [1750]. A l'estat de veïns de la Població de San Carlos  a 1 de setembre de 1798 consta que viuen a una casa d'empleats de sanitat (ACA BGRP caixa 34).\n\nDel agost de 1795 al juny de 1801 paga un lloguer de 2 Rs mensuals per la casa 8 de la Fonda Vella, encara que hi ha mesos que el paga Ramón López Costa.\n\nCasament: amb Joaquina Querol d'Ulldecona.\n\nDefunció: el 14 d'abril de 1814 a la Ràpita. Va morir als 72 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

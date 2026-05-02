@@ -1,0 +1,73 @@
+{
+  "id": "2854_felipe_izquierdo_chiscas",
+  "source_id": "2854",
+  "row_ref": "2854. Felipe Izquierdo Chiscás",
+  "name": "Felipe Izquierdo Chiscás",
+  "gender": "male",
+  "birth": {
+    "date": "1832-09-13",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2857_jose_antonio_izquierdo_saperas"
+    ],
+    "father": "2857_jose_antonio_izquierdo_saperas",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Antonio Izquierdo Saperas",
+      "Mª. Concepción Chiscás Tallada"
+    ],
+    "father_name": "José Antonio Izquierdo Saperas",
+    "mother_name": "Mª. Concepción Chiscás Tallada",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Andrés Rams",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 13 de setembre de 1832 a la Ràpita.\n\nPadrins: Andrés Rams i María Chillida.\n\nProfessió: confiter.\n\nAmonestació de casament a Reus: 3 de desembre de 1856 amb Gestrudis Calbó Roig (filla de Jaume i Margarita de Creixell). Veïns de Reus. (ACBC280-93-T2--20000).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

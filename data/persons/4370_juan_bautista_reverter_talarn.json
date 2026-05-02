@@ -1,0 +1,73 @@
+{
+  "id": "4370_juan_bautista_reverter_talarn",
+  "source_id": "4370",
+  "row_ref": "4370. Juan Bautista Reverter Talarn",
+  "name": "Juan Bautista Reverter Talarn",
+  "gender": "male",
+  "birth": {
+    "date": "1835-06-25",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4261_juan_reverter_forner"
+    ],
+    "father": "4261_juan_reverter_forner",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Reverter Forner",
+      "Rosa Talarn Bosch"
+    ],
+    "father_name": "Juan Reverter Forner",
+    "mother_name": "Rosa Talarn Bosch",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Ramón Valanzuela",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 25 de juny de 1835 a la Ràpita.\n\nPadrins: José Ramón Valanzuela i Dorotea Adell.\n\nProfessió: pagès.\n\nCasament: amb Agustina Gasparín Sancho de la Ràpita [1840].\n\nFills: María [1860], Agustina [1877] i Juan [1881].\n\nNo signa la declaració de naixement de la filla al registre civil per no saber.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

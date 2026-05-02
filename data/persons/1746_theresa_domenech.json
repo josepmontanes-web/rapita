@@ -1,0 +1,70 @@
+{
+  "id": "1746_theresa_domenech",
+  "source_id": "1746",
+  "row_ref": "1746. Theresa Domenech",
+  "name": "Theresa Domenech",
+  "gender": "female",
+  "birth": {
+    "date": "1770-01-01",
+    "place": "Vinaròs"
+  },
+  "death": {
+    "date": "1810-07-31",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Bautista Zaragoza"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1770].\n\nCasament: amb Bautista Zaragoza.\n\nA l'estat de veïns de setembre de 1798 diu que viu a la casa núm. 3 \"la del Cura\" de la \"Calle Mayor\" (ACA BGRP Cajas 34).\n\nDefunció: el 31 de juliol de 1810 a la Ràpita. Va morir als 40 anys. Tant ella com el marit diu que eren naturals i veïns de Vinaròs.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

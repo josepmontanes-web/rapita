@@ -1,0 +1,73 @@
+{
+  "id": "1728_tomas_diago_jovani",
+  "source_id": "1728",
+  "row_ref": "1728. Tomás Diago Jovani",
+  "name": "Tomás Diago Jovani",
+  "gender": "male",
+  "birth": {
+    "date": "1829-12-26",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1830-04-05",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1732_francisco_diago_michavila"
+    ],
+    "father": "1732_francisco_diago_michavila",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Diago Michavila",
+      "Maria Jovani Grau"
+    ],
+    "father_name": "Francisco Diago Michavila",
+    "mother_name": "Maria Jovani Grau",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Tomás Vidal",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 26 de desembre de 1829 a la Ràpita.\n\nPadrins: Tomás Vidal i María Serrano.\n\nDefunció: el 5 d'abril de 1830 a la Ràpita. Va morir de \"calenturas\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "4956_rosa_pascuala_sans_arlandez",
+  "source_id": "4956",
+  "row_ref": "4956. Rosa Pascuala Sans Arlández",
+  "name": "Rosa Pascuala Sans Arlández",
+  "gender": "female",
+  "birth": {
+    "date": "1829-04-18",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4976_francisco_sans_castell",
+      "244_rosa_arlandez_o_hernandez_cavaller"
+    ],
+    "father": "4976_francisco_sans_castell",
+    "mother": "244_rosa_arlandez_o_hernandez_cavaller",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Sans Castell",
+      "Rosa Arlández [o Hernández] Cavaller"
+    ],
+    "father_name": "Francisco Sans Castell",
+    "mother_name": "Rosa Arlández Cavaller",
+    "spouse_names": [
+      "Francisco Ferrer Sancho"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Aragonés",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 18 d'abril de 1829 a la Ràpita.\n\nPadrins: Juan Aragonés i Rosa Moya.\n\nCasament: el 21 d'agost de 1852 amb Francisco Ferrer Sancho de la Ràpita [1827]. Testimonis: Manuel Míes i Lorenzo Gasparín.\n\nFills: Francisco [1854], José, Teresa [1860], Rosa [1860] i Serafina [1862].\n\nDefunció: el 31 de gener de 1881 a la Ràpita de \"una fractura del hueso femur derecho\". Declara la mor la seua cunyada Concepción Ferré de 44 anys, casada.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

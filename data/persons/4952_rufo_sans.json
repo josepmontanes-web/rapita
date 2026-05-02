@@ -1,0 +1,74 @@
+{
+  "id": "4952_rufo_sans",
+  "source_id": "4952",
+  "row_ref": "4952. Rufo Sans",
+  "name": "Rufo Sans",
+  "gender": "male",
+  "birth": {
+    "date": "1745-01-01",
+    "place": "Tivenys"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "5017_domingo_sans_sanarau"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Francisca Sanarau"
+    ],
+    "children_names": [
+      "Domingo Sans Sanarau"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tivenys [aprox. 1745]. \n\nAl juliol de 1783 treballa a una brigada de treballadors de les obres del Canal de Navegació. (ACA BGRP caixa 46).\n\nCasament: amb Francisca Sanarau de Tortosa.\n\nFills: José (Tivenys) [1765], Segona [1768], Andrés (Tivenys) [1772], Benito (Tortosa) [1776], Domingo (Tortosa) [1785] i Agustín (Amposta) [1780](Francisca Sanarau al 1785 ja havia mort).\n\nCarta del Baró de Serrahí a Canals del 24 de desembre 1783: \"queda enterada la real junta de sanidad del contenido del oficio de VS de 13 del corrriente relativo a las providencias dadas para la captura de Rufo Sans i de su hijo y demás ocurrido con el guarda de sanidad Tomás Rohe, y de su orden, lo participo a VS para su inteligencia\" (ACA BGRP correspondencia caixa 2).\n\nCarta de Martorell a Josef Drago de 17 de març de 1785: \"muy señor mio, prevengo a VM que desde el día de mañana en adelante se detenga la tercera parte del valor de los jornales que devenga Rufo Sans, patrón de uno de los pontones, para ir satisfaciendo el entierro de su mujer que aún le debe a la iglesia de Amposta y alguna ropa que le vendió a fiar el celador de Marina de Tortosa\" (ACA BGRP Correspondencia caixa 7).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "2073_jose_ferrer_rostoll",
+  "source_id": "2073",
+  "row_ref": "2073. José Ferrer Rostoll",
+  "name": "José Ferrer Rostoll",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Altea"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1996_jose_ferrer"
+    ],
+    "father": "1996_jose_ferrer",
+    "mother": null,
+    "spouse": [
+      "1400_vicenta_cervera_cervello"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Ferrer",
+      "Esperanza Rostoll"
+    ],
+    "father_name": "José Ferrer",
+    "mother_name": "Esperanza Rostoll",
+    "spouse_names": [
+      "Angela Baga",
+      "MªRosa Concepc. López Ferràn",
+      "Vicenta Cervera Cervelló"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Altea [aprox. 1800].\n\nCasament: amb Angela Baga.\n\nCasament: el 6 de setembre de 1831 amb María Rosa Concepción López Ferràn de la Ràpita [1810]. Testimonis: Manuel Noguerón i Miguel Ferrer.\n\nFills: Juliana [1832].\n\nCasament: el 12 d'abril de 1837 amb Vicenta Cervera Cervelló de Sant Mateu [1815].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "2503_vicenta_geira_salomo",
+  "source_id": "2503",
+  "row_ref": "2503. Vicenta Geira Salomó",
+  "name": "Vicenta Geira Salomó",
+  "gender": "female",
+  "birth": {
+    "date": "1826-11-29",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2508_sebastian_geira_ulldemolin",
+      "4660_rosa_salomo_omedes"
+    ],
+    "father": "2508_sebastian_geira_ulldemolin",
+    "mother": "4660_rosa_salomo_omedes",
+    "spouse": [
+      "913_agustin_cabrera_martinez"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Sebastian Geira Ulldemolin",
+      "Rosa Salomo Omedes"
+    ],
+    "father_name": "Sebastián Geira Ulldemolin",
+    "mother_name": "Rosa Salomó Omedes",
+    "spouse_names": [
+      "Agustín Cabrera Martínez"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Pablo Carsi",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 29 de novembre de 1826 a la Ràpita.\n\nPadrins: Don Pablo Carsi i Doña Vicenta Roca.\n\nCasament: el 22 d'abril de 1854 amb Agustín Cabrera Martínez d'Amposta [1818]. Testimonis: José Chalé i Bautista Sancho.\n\nFills: Rosa [1857], Agustín [1858], Jaime [1860], Teresa [1864] i María [1860].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

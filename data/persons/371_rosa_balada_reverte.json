@@ -1,0 +1,73 @@
+{
+  "id": "371_rosa_balada_reverte",
+  "source_id": "371",
+  "row_ref": "371. Rosa Balada Reverté",
+  "name": "Rosa Balada Reverté",
+  "gender": "female",
+  "birth": {
+    "date": "1838-02-28",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "324_rafael_balada_balada"
+    ],
+    "father": "324_rafael_balada_balada",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Rafael Balada Balada",
+      "Peregrina Reverter Obiol"
+    ],
+    "father_name": "Rafael Balada Balada",
+    "mother_name": "Peregrina Reverter Obiol",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Miguel Reverté",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 28 de febrer de 1838 a la Ràpita.\n\nPadrins: Miguel Reverté i Antonia Reverté.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

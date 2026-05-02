@@ -1,0 +1,96 @@
+{
+  "id": "1114_francisco_casajust_michavila",
+  "source_id": "1114",
+  "row_ref": "1114. Francisco Casajust Michavila",
+  "name": "Francisco Casajust Michavila",
+  "gender": "male",
+  "birth": {
+    "date": "1796-11-02",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1094_ignacio_casajust_ballester",
+      "3338_vicenta_michavila_bayarri"
+    ],
+    "father": "1094_ignacio_casajust_ballester",
+    "mother": "3338_vicenta_michavila_bayarri",
+    "spouse": [],
+    "children": [
+      "1095_agustin_casajust_castella",
+      "1096_ignacio_casajust_castella",
+      "1097_maria_cinta_casajust_castella",
+      "1098_lorenzo_casajust_castella",
+      "1099_francisca_casajust_castella",
+      "1100_eleuterio_casajust_castella",
+      "1101_carlos_casajust_castella",
+      "1102_francisco_casajust_castella",
+      "1103_juan_bautista_casajust_castella"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Ignacio Casajust Ballester",
+      "Vicenta Michavila Bayarri"
+    ],
+    "father_name": "Ignacio Casajust Ballester",
+    "mother_name": "Vicenta Michavila Bayarri",
+    "spouse_names": [
+      "Teresa Castellà Calderó"
+    ],
+    "children_names": [
+      "Agustín Casajust Castellà",
+      "Ignacio Casajust Castellà",
+      "Maria Cinta Casajust Castellà",
+      "Lorenzo Casajust Castellà",
+      "Francisca Casajust Castellà",
+      "Eleuterio Casajust Castellà",
+      "Carlos Casajust Castellà",
+      "Francisco Casajust Castellà",
+      "Juan Bautista Casajust Castellà"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Francisco Stoppani",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 2 de novembre de 1796 a la Ràpita.\n\nPadrins: Don Francisco Stoppani es de Muronico (Italia) i Doña Antonia Mir es de Barcelona.\n\nCasament: el 24 de juliol de 1820 amb Teresa Castellà Calderó de Tortosa [1796].\n\nFills: Agustín [1821], Ignacio [1823], María Cinta [1825], Lorenzo [1828], Francisca [1830], Eleuterio [1832], Carlos [1836], Francisco  [1839] i Juan Bautista [1842].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

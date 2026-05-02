@@ -1,0 +1,73 @@
+{
+  "id": "392_francisca_dolores_balague_vernis_o_bernis",
+  "source_id": "392",
+  "row_ref": "392. Francisca Dolores Balagué Vernis [o Bernís]",
+  "name": "Francisca Dolores Balagué Vernis [o Bernís]",
+  "gender": "female",
+  "birth": {
+    "date": "1830-02-12",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "448_domingo_balague_navarro"
+    ],
+    "father": "448_domingo_balague_navarro",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Domingo Balagué Navarro",
+      "Jacinta Vernis Murall"
+    ],
+    "father_name": "Domingo Balaguer Navarro",
+    "mother_name": "Jacinta Vernis Murall",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Jayme Balagué",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 12 de febrer de 1830 a la Ràpita.\n\nPadrins: Juan Jayme Balagué i Francisca Borràs.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

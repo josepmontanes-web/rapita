@@ -1,0 +1,74 @@
+{
+  "id": "1119_francisca_casajust_michavila",
+  "source_id": "1119",
+  "row_ref": "1119. Francisca Casajust Michavila",
+  "name": "Francisca Casajust Michavila",
+  "gender": "female",
+  "birth": {
+    "date": "1804-09-09",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1807-11-03",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1094_ignacio_casajust_ballester",
+      "3338_vicenta_michavila_bayarri"
+    ],
+    "father": "1094_ignacio_casajust_ballester",
+    "mother": "3338_vicenta_michavila_bayarri",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Ignacio Casajust Ballester",
+      "Vicenta Michavila Bayarri"
+    ],
+    "father_name": "Ignacio Casajust Ballester",
+    "mother_name": "Vicenta Michavila Bayarri",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Gasparín",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 9 de setembre de 1804 a la Ràpita.\n\nPadrí: Francisco Gasparín.\n\nDefunció: el 3 de novembre de 1807 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

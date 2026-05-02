@@ -1,0 +1,99 @@
+{
+  "id": "3892_blas_pepiol_masdeu",
+  "source_id": "3892",
+  "row_ref": "3892. Blas Pepiol Masdeu",
+  "name": "Blas Pepiol Masdeu",
+  "gender": "male",
+  "birth": {
+    "date": "1781-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": "1845-03-14",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3864_joaquin_pepiol",
+      "3155_eulalia_masdeu"
+    ],
+    "father": "3864_joaquin_pepiol",
+    "mother": "3155_eulalia_masdeu",
+    "spouse": [
+      "3829_teresa_pasqual_fuster"
+    ],
+    "children": [
+      "3895_vicente_pepiol_pascual",
+      "3896_juan_pepiol_pascual",
+      "3897_francisca_pepiol_pascual",
+      "3898_francisco_pepiol_pascual",
+      "3899_domingo_pepiol_pascual",
+      "3900_isabel_pepiol_pascual",
+      "3901_antonia_pepiol_pascual",
+      "3902_francisca_antonia_pepiol_pascual",
+      "3903_antonia_pepiol_pascual",
+      "3904_maria_rosa_pepiol_pascual"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Pepiol",
+      "Eulalia Masdeu"
+    ],
+    "father_name": "Joaquín Pepiol",
+    "mother_name": "Eulalia Masdeu",
+    "spouse_names": [
+      "Teresa Pasqual Fuster"
+    ],
+    "children_names": [
+      "Vicente Pepiol Pascual",
+      "Juan Pepiol Pascual",
+      "Francisca Pepiol Pascual",
+      "Francisco Pepiol Pascual",
+      "Domingo Pepiol Pascual",
+      "Isabel Pepiol Pascual",
+      "Antonia Pepiol Pascual",
+      "Francisca Antonia Pepiol Pascual",
+      "Maria Rosa Pepiol Pascual"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1781]. \n\nProfessió: pagès.\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Fonda Vella núm. 3 amb la seua mare i el seu padastre (ACA BGRP Cajas 34).\n\nCasament: el 29 de desembre de 1804 amb Teresa Pasqual Fuster d'Amposta [1786]. Es casa als 23 anys.\n\nFills: Francisca Antonia [1805], Domingo [1808], Francisco [1810], María Rosa [1813], Isabel [1815], Antonia [1815], Juan [1820], Antonia [1822], Vicente [1825] i Francisca [1827].\n\nDefunció: el 14 de març de 1845 a la Ràpita.\n\nPodria ser germanastre de José Pepiol Soler [1766] però no es segur.\n\nDe l'1 de març de 1839 al 31 de juliol de 1839 ha de pagar un lloguer de 12 Rs mensuals per la casa 2 del carrer del Forn. (AGP.PER.LEG.1073/23 [Juan Vecino]). Consta com a Blay Pipiol.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

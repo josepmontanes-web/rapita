@@ -1,0 +1,77 @@
+{
+  "id": "4389_rafaela_reverter_vidal",
+  "source_id": "4389",
+  "row_ref": "4389. Rafaela Reverter Vidal",
+  "name": "Rafaela Reverter Vidal",
+  "gender": "female",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Traiguera"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3516_juan_moreso_reverter"
+    ],
+    "father": "3516_juan_moreso_reverter",
+    "mother": null,
+    "spouse": [
+      "3229_juan_matamoros_lluciano"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Moreso Reverter",
+      "Joaquina Vidal"
+    ],
+    "father_name": "Juan Reverter",
+    "mother_name": "Joaquina Vidal",
+    "spouse_names": [
+      "Juan Matamoros Lluciano"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: Traiguera [aprox. 1820]. \n\nCasament: el 22 de maig de 1841 amb Juan Matamoros Lluciano de Benicarló [1820].\n\nFills: Teresa [1850].\n\nEs germana de María Reverter Vidal [1820].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

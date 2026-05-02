@@ -1,0 +1,74 @@
+{
+  "id": "2012_manuela_francisca_ferrer_carapuig",
+  "source_id": "2012",
+  "row_ref": "2012. Manuela Francisca Ferrer Carapuig",
+  "name": "Manuela Francisca Ferrer Carapuig",
+  "gender": "male",
+  "birth": {
+    "date": "1821-08-08",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2037_manuel_ferre_fibla",
+      "987_joaquina_carapuig_borfa"
+    ],
+    "father": "2037_manuel_ferre_fibla",
+    "mother": "987_joaquina_carapuig_borfa",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel Ferré Fibla",
+      "Joaquina Carapuig Borfa"
+    ],
+    "father_name": "Manuel Ferrer Fibla",
+    "mother_name": "Joaquina Carapuig Borfa",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Ferrer",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 8 d'agost de 1821 a la Ràpita.\n\nPadrins: Francisco Ferrer i Laureana Borfa.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

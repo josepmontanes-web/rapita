@@ -1,0 +1,73 @@
+{
+  "id": "479_peregrin_balanza_sans",
+  "source_id": "479",
+  "row_ref": "479. Peregrín Balanzá Sans",
+  "name": "Peregrín Balanzá Sans",
+  "gender": "male",
+  "birth": {
+    "date": "1842-01-29",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "467_jose_balanza_comes"
+    ],
+    "father": "467_jose_balanza_comes",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Balanzá Comes",
+      "Joaquina Sans Fabregat"
+    ],
+    "father_name": "José Balanzá Comes",
+    "mother_name": "Joaquina Sans Fabregat",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Peregrín Arbó",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 29 de gener de 1842 a la Ràpita.\n\nPadrins: Peregrín Arbó i Josefa Moya.\n\nCasament: amb Vicenta Guardino Felip de Vinaròs [1842].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

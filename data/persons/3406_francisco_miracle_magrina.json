@@ -1,0 +1,74 @@
+{
+  "id": "3406_francisco_miracle_magrina",
+  "source_id": "3406",
+  "row_ref": "3406. Francisco Miracle Magriña",
+  "name": "Francisco Miracle Magriña",
+  "gender": "male",
+  "birth": {
+    "date": "1836-12-07",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3402_juan_miracle_baset",
+      "3088_teresa_magrina_rosales"
+    ],
+    "father": "3402_juan_miracle_baset",
+    "mother": "3088_teresa_magrina_rosales",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Miracle Baset",
+      "Teresa Magriñá Rosales"
+    ],
+    "father_name": "Juan Miracle Batet",
+    "mother_name": "Teresa Magriña Rosales",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Guardia",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 7 de desembre de 1836 a la Ràpita.\n\nPadrins: Francisco Guardia i Teresa Rosales.\n\nProfessió: panader.\n\nCasament: amb Micaela Rosales Solà de la Ràpita [1840].\n\nFills: Maria, Froilán, Teresa [1871], Ricardo [1874], Victor Manuel [1876] i Francisca Mirea [1881].\n\nDefunció: el 2 de març de 1881 a la Ràpita als 44 anys de \"calentura atavica inflamatoria\". La seua dona té 40 anys. Declara la mor el seu germà Agustín Miracle, fuster,  que signa la declaració.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "5430_josef_antonio_valls_sancho",
+  "source_id": "5430",
+  "row_ref": "5430. Josef Antonio Valls Sancho",
+  "name": "Josef Antonio Valls Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1840-04-22",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5433_antonio_valls_sans"
+    ],
+    "father": "5433_antonio_valls_sans",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Valls Sans",
+      "Antonia Sancho Fibla"
+    ],
+    "father_name": "Antonio Valls Sans",
+    "mother_name": "Antonia Sancho Fibla",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Blas Sancho",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 22 d'abril de 1840 a la Ràpita.\n\nPadrins: Blas Sancho i Bárbara Torta.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

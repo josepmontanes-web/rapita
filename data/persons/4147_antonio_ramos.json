@@ -1,0 +1,70 @@
+{
+  "id": "4147_antonio_ramos",
+  "source_id": "4147",
+  "row_ref": "4147. Antonio Ramos",
+  "name": "Antonio Ramos",
+  "gender": "male",
+  "birth": {
+    "date": "1813-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1838-05-17",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Ramos"
+    ],
+    "father_name": "Juan Ramos",
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1813]. \n\nDefunció: el 17 de maig de 1838 a la Ràpita. Va morir quan tenia més o menys 25 anys. \"de la matricula de Conil marinero del Bergantín Plutón. Su Comandante era Don José Llobregat\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

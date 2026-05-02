@@ -1,0 +1,77 @@
+{
+  "id": "385_lucia_o_luisa_balague_balague",
+  "source_id": "385",
+  "row_ref": "385. Lucía [o Luísa] Balagué Balagué",
+  "name": "Lucía [o Luísa] Balagué Balagué",
+  "gender": "female",
+  "birth": {
+    "date": "1828-09-19",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "449_jose_balague_navarro"
+    ],
+    "father": "449_jose_balague_navarro",
+    "mother": null,
+    "spouse": [
+      "4621_francisco_safont_castella"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Balagué Navarro",
+      "Rosa Balagué Omedes"
+    ],
+    "father_name": "José Balagué Navarro",
+    "mother_name": "Rosa Balagué Omedes",
+    "spouse_names": [
+      "Francisco Safont Castellà"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Domingo Balagué",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 19 de setembre de 1828 a la Ràpita.\n\nPadrins: Domingo Balagué i Josefa Balagué.\n\nCasament: el 30 d'octubre de 1852 amb Francisco Safont Castellà de la Ràpita [1828]. Al casament consta com a Luísa Balagué.\n\nFills: Rosa [1857] i Josefa [1858]\n\nEl marit mor al juny de 1877 i ella ja era morta.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

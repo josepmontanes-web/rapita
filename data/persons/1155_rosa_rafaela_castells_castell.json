@@ -1,0 +1,74 @@
+{
+  "id": "1155_rosa_rafaela_castells_castell",
+  "source_id": "1155",
+  "row_ref": "1155. Rosa Rafaela Castells Castell",
+  "name": "Rosa Rafaela Castells Castell",
+  "gender": "female",
+  "birth": {
+    "date": "1839-04-03",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1161_magin_castells_miro",
+      "1145_manuela_castell_balada"
+    ],
+    "father": "1161_magin_castells_miro",
+    "mother": "1145_manuela_castell_balada",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Magín Castells Miró",
+      "Manuela Castell Balada"
+    ],
+    "father_name": "Magín Castells Miró",
+    "mother_name": "Manuela Castell Balada",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Bautista Silvestre",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 3 d'abril de 1839 a la Ràpita.\n\nPadrins: Bautista Silvestre i Rosa Safont.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

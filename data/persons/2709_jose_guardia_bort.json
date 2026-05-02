@@ -1,0 +1,84 @@
+{
+  "id": "2709_jose_guardia_bort",
+  "source_id": "2709",
+  "row_ref": "2709. José Guardia Bort",
+  "name": "José Guardia Bort",
+  "gender": "male",
+  "birth": {
+    "date": "1805-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2745_francisco_guardia_sanchez",
+      "807_josefa_bort_lleti"
+    ],
+    "father": "2745_francisco_guardia_sanchez",
+    "mother": "807_josefa_bort_lleti",
+    "spouse": [
+      "4044_raymunda_puig_granell"
+    ],
+    "children": [
+      "2736_jose_francisco_guardia_puig",
+      "2737_clemente_francisco_guardia_puig"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Guardia Sánchez",
+      "Josefa Bort Lletí"
+    ],
+    "father_name": "Francisco Guardia Sanches",
+    "mother_name": "Josefa Bort Lletí",
+    "spouse_names": [
+      "Raymunda Puig Granell"
+    ],
+    "children_names": [
+      "José Francisco Guardia Puig",
+      "Clemente Francisco Guardia Puig"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1805].\n\nCasament: el 4 de maig de 1825 amb Raymunda Puig Granell de la Galera [1800].\n\nFills: José [1825], José Francisco [1826] i Clemente Francisco [1827].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

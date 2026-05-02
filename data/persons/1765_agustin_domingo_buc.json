@@ -1,0 +1,73 @@
+{
+  "id": "1765_agustin_domingo_buc",
+  "source_id": "1765",
+  "row_ref": "1765. Agustín Domingo Buc",
+  "name": "Agustín Domingo Buc",
+  "gender": "male",
+  "birth": {
+    "date": "1747-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1817-11-22",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Roque Domingo",
+      "Rosa Buc"
+    ],
+    "father_name": "Roque Domingo",
+    "mother_name": "Rosa Buc",
+    "spouse_names": [
+      "Maria Bort"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1747].\n\nCasament: amb María Bort de Fortanete (Terol).\n\nDefunció: el 22 de novembre de 1817 a la Ràpita. Va morir als 70 anys de \"cortanas i hinchazón\". \"Hizo testamento i codicilio\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

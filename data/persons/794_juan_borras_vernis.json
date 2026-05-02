@@ -1,0 +1,77 @@
+{
+  "id": "794_juan_borras_vernis",
+  "source_id": "794",
+  "row_ref": "794. Juan Borràs Vernis",
+  "name": "Juan Borràs Vernis",
+  "gender": "male",
+  "birth": {
+    "date": "1832-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "785_miguel_borras_moles"
+    ],
+    "father": "785_miguel_borras_moles",
+    "mother": null,
+    "spouse": [
+      "2399_francisca_gasparin_castell"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Miguel Borràs Moles",
+      "Jerònima Vernis Murall"
+    ],
+    "father_name": "Miguel Borràs Moles",
+    "mother_name": "Jerònima Vernis Murall",
+    "spouse_names": [
+      "Francisca Gasparín Castell"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Panader"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1832].\n\nProfessió: panader.\n\nCasament: l'11 d'octubre de 1854 amb Francisca Gasparín Castell de la Ràpita [1836]. Es casa als 22 anys. Testimonis: Agustí Giné i Vicente Pauli.\n\nFills: Francisca [1855], Juan [1857] i Miguel Luís [1878].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

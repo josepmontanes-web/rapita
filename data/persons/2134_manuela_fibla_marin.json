@@ -1,0 +1,72 @@
+{
+  "id": "2134_manuela_fibla_marin",
+  "source_id": "2134",
+  "row_ref": "2134. Manuela Fibla Marín",
+  "name": "Manuela Fibla Marín",
+  "gender": "female",
+  "birth": {
+    "date": "1798-01-01",
+    "place": "la Senia de Rossell"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2575_buenaventura_gine_fibla"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Buenaventura Giné Fibla"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Senia de Rossell [aprox. 1798].\n\nCasament: amb Joaquín Giner Bedós de Tortosa [1795].\n\nFills: Joaquín [1820], Carlos [1820], Manuela [1825], Esperanza [1825], Pilar [1830], Ventura [1842], Teresa [1835] i Cristobal [1835].\n\nDefunció: el 16 d'abril de 1877 a la Ràpita als 79 anys de disenteria. Declara la mor al registre civil Francisca Gasparín. Fa testament davant del notari públic d'Alcanar Lorenzo Figueres.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

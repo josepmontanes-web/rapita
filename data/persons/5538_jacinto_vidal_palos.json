@@ -1,0 +1,91 @@
+{
+  "id": "5538_jacinto_vidal_palos",
+  "source_id": "5538",
+  "row_ref": "5538. Jacinto Vidal Palos",
+  "name": "Jacinto Vidal Palos",
+  "gender": "male",
+  "birth": {
+    "date": "1765-01-01",
+    "place": "Pobla de Benifassar"
+  },
+  "death": {
+    "date": "1834-10-28",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5497_bautista_vidal"
+    ],
+    "father": "5497_bautista_vidal",
+    "mother": null,
+    "spouse": [
+      "5038_teresa_sastre_borrell",
+      "2232_maria_forner_felip"
+    ],
+    "children": [
+      "5563_francisco_vidal_sastre",
+      "5564_maria_francisca_vidal_sastre",
+      "5565_francisco_antonio_vidal_sastre",
+      "5566_sebastiana_vidal_sastre",
+      "5568_jose_antonio_vidal_sastre"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Vidal",
+      "Josefa Palos"
+    ],
+    "father_name": "Bautista Vidal",
+    "mother_name": "Josefa Palos",
+    "spouse_names": [
+      "Teresa Sastre Borrell",
+      "Maria Forner Felip"
+    ],
+    "children_names": [
+      "Francisco Vidal Sastre",
+      "María Francisca Vidal Sastre",
+      "Francisco Antonio Vidal Sastre",
+      "Sebastiana Vidal Sastre",
+      "José Antonio Vidal Sastre"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a La Pobla de Benifassà [aprox. 1765].\n\nProfessió: pagès.\n\nCasament: amb Teresa Sastre Borrell de Tortosa [1770].\n\nFills: José Antonio (Amposta) [1789], Tomás [1790], Francisco [1792], María Francisca [1795], Francisco Antonio [1798] i Sebastiana [1800].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu al Codoñol  (ACA BGRP Cajas 34).\n\nCasament: el 13 de març de 1815 amb María Forner Felip d'Alcanar [1763]. Es casa als 50 anys.\n\nDefunció: el 28 d'octubre de 1834 a la Ràpita. Va morir als 60 anys. Va ser enterrat el mateix dia.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "2513_rafael_andres_gens_o_chens_monserrat",
+  "source_id": "2513",
+  "row_ref": "2513. Rafael Andrés Gens [o Chens] Monserrat",
+  "name": "Rafael Andrés Gens [o Chens] Monserrat",
+  "gender": "male",
+  "birth": {
+    "date": "1811-12-28",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3475_lorenza_monserrat_guasch"
+    ],
+    "father": null,
+    "mother": "3475_lorenza_monserrat_guasch",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pablo Chens Miyssó",
+      "Lorenza Monserrat Guasch"
+    ],
+    "father_name": "Pablo Chens Miyssó",
+    "mother_name": "Lorenza Monserrat Guasch",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Andrés Verche",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 28 de desembre de 1811 a la Ràpita.\n\nPadrins: Andrés Verche i Vicenta Monserrat.\n\nDiu que el iaio patern es d'Organyà (Ob. Seu d'Urgell) i la iaia de Madrid. Pot-ser es al contrari.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

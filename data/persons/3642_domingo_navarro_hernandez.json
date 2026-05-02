@@ -1,0 +1,73 @@
+{
+  "id": "3642_domingo_navarro_hernandez",
+  "source_id": "3642",
+  "row_ref": "3642. Domingo Navarro Hernández",
+  "name": "Domingo Navarro Hernández",
+  "gender": "male",
+  "birth": {
+    "date": "1779-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1812-12-08",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Navarro",
+      "Paula Hernández"
+    ],
+    "father_name": "Juan Navarro",
+    "mother_name": "Paula Hernández",
+    "spouse_names": [
+      "Margarita Rodríguez"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1779]. \n\nCasament: amb Margarita Rodríguez de Vinaròs.\n\nDefunció: el 8 de desembre de 1812 a la Ràpita. Va morir als 33 anys.\n\nEs germà de Juan Navarro Hernández [1775] i Josefa Navarro Hernández [1792].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

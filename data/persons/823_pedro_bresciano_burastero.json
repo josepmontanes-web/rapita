@@ -1,0 +1,99 @@
+{
+  "id": "823_pedro_bresciano_burastero",
+  "source_id": "823",
+  "row_ref": "823. Pedro Bresciano Burastero",
+  "name": "Pedro Bresciano Burastero",
+  "gender": "male",
+  "birth": {
+    "date": "1762-01-01",
+    "place": "Verzi  di Loano (Genova)"
+  },
+  "death": {
+    "date": "1832-11-17",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "5039_francisca_sastre_borrell",
+      "3826_francisca_pasqual_fuster"
+    ],
+    "children": [
+      "824_maria_francisca_breciano_pasqual",
+      "825_antonio_breciano_pasqual",
+      "826_pedro_jose_breciano_pasqual",
+      "827_jose_breciano_pasqual",
+      "828_manuel_brexiano_pasqual",
+      "829_lorenza_breciano_pasqual",
+      "830_apolonia_breciano_pasqual",
+      "831_teresa_breciano_pasqual",
+      "832_francisca_briciano_pasqual",
+      "833_teresa_breciano_sastre"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Federico Bresciano",
+      "Blanca Borastero"
+    ],
+    "father_name": "Federico Bresciano",
+    "mother_name": "Blanca Borastero",
+    "spouse_names": [
+      "Francisca Sastre Borrell",
+      "Francisca Pasqual Fuster"
+    ],
+    "children_names": [
+      "María Francisca Breciano Pasqual",
+      "Antonio Breciano Pasqual",
+      "Pedro José Breciano Pasqual",
+      "José Breciano Pasqual",
+      "Manuel Brexiano Pasqual",
+      "Lorenza Breciano Pasqual",
+      "Apolonia Breciano Pasqual",
+      "Teresa Breciano Pasqual",
+      "Francisca Briciano Pasqual",
+      "Teresa Breciano Sastre"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 26 de setembre de 1762 a Verzi di Loano (Italia).\n\nA finals de maig de 1781 treballa a les brigades de les Obres del Canal de Navegació com a barquer, després com a peó i torna a treballar de barquer (ACA BGRP Caixa 44).\n\nAl gener de 1784 treballa a la brigada Josef Domenech de les obres del Canal i desprès a la de Thomas Sierra. A totes elles esta senyalat com a \"correo\". (ACA BGRP caixa 47).\n\nProfessió: Encarregat del correu, paleta i pagès. Al 5 de setembre de 1789 diu que va per a 7 anys que desempenya els dos carrecs de mestre paleta i encarregat del correu. Li donen aument de sou que demana i diuen que quan no estigui amb el correu que treballe a les obres de la esglesia. (CAC BGPR Correspondencia Caixa 11).\n\nL'anomenen \"el genovés\" o \"genova\".\n\n16.7.1788 Quedará en la presente semana concluidas las cavallerizas aunque podrá suceder que les quedara algo que hacer por lo que respecta al brocal del pozo y latrina. Luedo pasarán estos trabajadores a la continuación de la casa nº 6 anexa a la misma fonda, que son dos albañiles, Moya el mayor, Gené y genoba los dias que no se ocupa en la Balija.(ACA BGRP caixa 13).\n\nCasament: el 31 de març de 1793 amb Francisca Sastre Borrell de Tortosa [1773] i veïna del Codonyol.\n\nFills: Teresa [1795] i una altra nena que mort abans de batejar.\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu a la Mansana Vella núm. 17 (ACA BGRP Cajas 34). Al gener de 1799 paga un lloguer de 8 Rv per la mateixa casa.\n\nCasament: el 14 de desembre de 1800 amb Francisca Pasqual [o Pascual] Fuster de Vinaròs [1778]. Testimoni: Manuel de Pedrosa y Ceballos \"Ministro del Resguardo\".\n\nFills: María Francisca [1801], Antonio [1803], Pedro José [1806], José [1807], Teresa [1808], Josefa [1810], Francisca [1811], Lorenza [1815], Apolonia [1817] i Manuel [1819].\n\nDefunció: el 17 de novembre de 1832 a la Ràpita. Va morí als 70 anys. \"No hace testamento pero en los capítulos matrimoniales que hizo a su hija Teresa, Domingo Homedes, escribano vecino de Amposta, a los 24 días del mes de abril de 1829 dotó su alma y la de su difunta consorte en 480 reales de vellón\".\n\nLa partida de bateig està a l'Arxiu del Bisbat d'Albenga. El cognom al bateig es Brexiani.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

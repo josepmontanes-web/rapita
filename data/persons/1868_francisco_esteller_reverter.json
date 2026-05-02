@@ -1,0 +1,77 @@
+{
+  "id": "1868_francisco_esteller_reverter",
+  "source_id": "1868",
+  "row_ref": "1868. Francisco Esteller Reverter",
+  "name": "Francisco Esteller Reverter",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1834_0_1900"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Esteller",
+      "Manuela Reverter"
+    ],
+    "father_name": "Francisco Esteller",
+    "mother_name": "Manuela Reverter",
+    "spouse_names": [
+      "Maria Rosa Enrich Inglés"
+    ],
+    "children_names": [
+      "0 1900"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1800].\n\nCasament: el 3 de febrer de 1820 amb María Rosa Enrich Inglés de Vinaròs, filla de Ramón i María Joaquina.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

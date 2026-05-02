@@ -1,0 +1,74 @@
+{
+  "id": "1315_agustin_castella_safon",
+  "source_id": "1315",
+  "row_ref": "1315. Agustín Castellà Safon",
+  "name": "Agustín Castellà Safon",
+  "gender": "male",
+  "birth": {
+    "date": "1840-07-02",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1171_juan_castella_alegret",
+      "4625_maria_safon_fabregat"
+    ],
+    "father": "1171_juan_castella_alegret",
+    "mother": "4625_maria_safon_fabregat",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Castellà Alegret",
+      "María Safon Fabregat"
+    ],
+    "father_name": "Juan Castellà Alegret",
+    "mother_name": "Maria Safon Fabregat",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Agustín Sans",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 2 de juliol de 1840 a la Ràpita.\n\nPadrins: Agustín Sans i Francisca Safon.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

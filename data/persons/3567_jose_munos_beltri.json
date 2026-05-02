@@ -1,0 +1,73 @@
+{
+  "id": "3567_jose_munos_beltri",
+  "source_id": "3567",
+  "row_ref": "3567. José Muños Beltri",
+  "name": "José Muños Beltri",
+  "gender": "male",
+  "birth": {
+    "date": "1841-02-25",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1841-04-15",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3571_joaquin_munoz_ibanez"
+    ],
+    "father": "3571_joaquin_munoz_ibanez",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Muñoz Ibáñez",
+      "Mariana Beltri Falcó"
+    ],
+    "father_name": "Joaquín Muños Ibañez",
+    "mother_name": "Mariana Beltri Falcó",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Pino",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 25 de febrer de 1841 a la Ràpita.\n\nPadrins: José Pino i Teresa Pino.\n\nDefunció: el 15 d'abril de 1841 a la Ràpita.\n\nEs bessó de Joaquín.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

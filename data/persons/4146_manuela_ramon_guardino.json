@@ -1,0 +1,75 @@
+{
+  "id": "4146_manuela_ramon_guardino",
+  "source_id": "4146",
+  "row_ref": "4146. Manuela Ramón Guardino",
+  "name": "Manuela Ramón Guardino",
+  "gender": "female",
+  "birth": {
+    "date": "1812-01-01",
+    "place": "Vinaròs"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4142_jose_ramon"
+    ],
+    "father": "4142_jose_ramon",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Ramón",
+      "Policarpa Guardino"
+    ],
+    "father_name": "José Ramon",
+    "mother_name": "Policarpa Guardino",
+    "spouse_names": [
+      "D. Antonio Muria Borrell"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1812]. \n\nCasament: el 20 de juny de 1833 amb Don Antonio Muria Borrell veí de Vinaròs (fill de Juan Muria d'Aspe i Carmela Borrell de Vinaròs). Es casa als 21 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

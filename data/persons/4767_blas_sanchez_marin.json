@@ -1,0 +1,91 @@
+{
+  "id": "4767_blas_sanchez_marin",
+  "source_id": "4767",
+  "row_ref": "4767. Blas Sánchez Marín",
+  "name": "Blas Sánchez Marín",
+  "gender": "male",
+  "birth": {
+    "date": "1775-01-01",
+    "place": "Toro-Segorbe (Castelló)"
+  },
+  "death": {
+    "date": "1834-09-23",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4750_manuel_sanchez_gasparin"
+    ],
+    "father": "4750_manuel_sanchez_gasparin",
+    "mother": null,
+    "spouse": [
+      "976_florencia_capilla_macian"
+    ],
+    "children": [
+      "4726_francisco_jose_sanchez_capilla",
+      "4727_fernando_sanches_capilla",
+      "4728_maria_juliana_sanchez_capilla",
+      "4729_francisca_sanchez_capilla",
+      "4730_manuela_sanchez_capilla",
+      "4731_juan_sanchez_capilla"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel Sánchez Gasparín",
+      "Catarina Marín"
+    ],
+    "father_name": "Manuel Sánchez",
+    "mother_name": "Catarina Marín",
+    "spouse_names": [
+      "Florencia Capilla Macián"
+    ],
+    "children_names": [
+      "Francisco José Sánchez Capilla",
+      "Fernando Sánches Capilla",
+      "María Juliana Sánchez Capilla",
+      "Francisca Sánchez Capilla",
+      "Manuela Sánchez Capilla",
+      "Juan Sánchez Capilla"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a El Toro (Castelló)  [aprox. 1775]. Podria ser també de Begís (Castelló).\n\nCasament: el 21 de setembre de 1813 amb Florencia Capilla Macián de Begís [1782]. Es casa als 38 anys. Testimonis: Blas Sánchez \"tio de los contrayentes\" i Vicente Vilar. \"Dispensa de 3er. grado de parentesco\".\n\nFills: Francisca [1813], Francisco José [1816], Manuela [1818], Fernando [1820], Juan [1823] i María Juliana [1825].\n\nDefunció: el 23 de setembre de 1834 a la Ràpita. Va morir als 60 anys. No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

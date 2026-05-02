@@ -1,0 +1,75 @@
+{
+  "id": "922_vicenta_calafell_granell",
+  "source_id": "922",
+  "row_ref": "922. Vicenta Calafell Granell",
+  "name": "Vicenta Calafell Granell",
+  "gender": "female",
+  "birth": {
+    "date": "1764-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1814-03-14",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1371_jacinto_cera"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Calafell",
+      "Candia Granell"
+    ],
+    "father_name": "Antonio Calafell",
+    "mother_name": "Candia Granell",
+    "spouse_names": [
+      "Jacinto Cera"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1764].\n\nCasament: amb Jacinto Cera de Tortosa [1760].\n\nDefunció: el 14 de març de 1814 a la Ràpita. Va morir als 50 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

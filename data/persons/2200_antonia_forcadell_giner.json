@@ -1,0 +1,73 @@
+{
+  "id": "2200_antonia_forcadell_giner",
+  "source_id": "2200",
+  "row_ref": "2200. Antonia Forcadell Giner",
+  "name": "Antonia Forcadell Giner",
+  "gender": "female",
+  "birth": {
+    "date": "1815-06-13",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2185_jose_forcadell_bedos"
+    ],
+    "father": "2185_jose_forcadell_bedos",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Forcadell Bedós",
+      "Isabel Giner Arlandes"
+    ],
+    "father_name": "José Forcadell Bedós",
+    "mother_name": "Isabel Giner Arlandes",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Manuel Izquierdo",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 13 de juny de 1815 a la Ràpita.\n\nPadrins: Manuel Izquierdo i Raymunda Cortiella.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

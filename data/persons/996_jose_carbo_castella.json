@@ -1,0 +1,78 @@
+{
+  "id": "996_jose_carbo_castella",
+  "source_id": "996",
+  "row_ref": "996. José Carbó Castellà",
+  "name": "José Carbó Castellà",
+  "gender": "male",
+  "birth": {
+    "date": "1812-03-21",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1814-04-16",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "992_felix_carbo_cartes",
+      "1247_teresa_castella_dalmau"
+    ],
+    "father": "992_felix_carbo_cartes",
+    "mother": "1247_teresa_castella_dalmau",
+    "spouse": [],
+    "children": [
+      "1190_miguel_castella_borras"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Felix Carbó Cartes",
+      "Teresa Castellà Dalmau"
+    ],
+    "father_name": "Félix Carbó Cartes",
+    "mother_name": "Teresa Castellà Dalmau",
+    "spouse_names": [],
+    "children_names": [
+      "Miguel Castellà Borràs"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Lorenzo Casadevall",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 21 de març de 1812 a la Ràpita.\n\nPadrí: Don Lorenzo Casadevall.\n\nDefunció: el 16 d'abril de 1814 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

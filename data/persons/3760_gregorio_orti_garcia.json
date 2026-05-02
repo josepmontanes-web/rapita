@@ -1,0 +1,68 @@
+{
+  "id": "3760_gregorio_orti_garcia",
+  "source_id": "3760",
+  "row_ref": "3760. Gregorio Ortí García",
+  "name": "Gregorio Ortí García",
+  "gender": "male",
+  "birth": {
+    "date": "1810-01-01",
+    "place": "Flix"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Flix [aprox. 1810].\n\nProfessió: empleat.\n\nCasament: amb María Esteller.\n\nFills: Victoriano, María, Concepción, Carmen i Dolores.\n\nCasament: amb María Adell d'Alfara [1845]. Ella té 33 anys al 1878.\n\nDefunció: el 13 de gener de 1878 a la Ràpita als 67 any d'angina de pit. Declara la defunció Manuel Míes, paleta, que sap escriure i signa la declaració.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

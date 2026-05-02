@@ -1,0 +1,71 @@
+{
+  "id": "4022_manuel_geronimo_porres_panisello",
+  "source_id": "4022",
+  "row_ref": "4022. Manuel Geronimo Porres Panisello",
+  "name": "Manuel Geronimo Porres Panisello",
+  "gender": "male",
+  "birth": {
+    "date": "1838-01-02",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1838-01-05",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Porres Sech",
+      "Josefa Panisello Valldeperez"
+    ],
+    "father_name": "Vicente Porres Sech",
+    "mother_name": "Josefa Panisello Valldeperez",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Grabiel Llambrich",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 2 de gener de 1838 a la Ràpita.\n\nPadrins: Gabriel Llambrich i Antonia Casanoves de la Ribera.\n\nDefunció: el 5 de gener de 1838 a la Ràpita.\n\nEs bessó de Juan Manuel.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

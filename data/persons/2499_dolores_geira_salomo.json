@@ -1,0 +1,74 @@
+{
+  "id": "2499_dolores_geira_salomo",
+  "source_id": "2499",
+  "row_ref": "2499. Dolores Geira Salomó",
+  "name": "Dolores Geira Salomó",
+  "gender": "female",
+  "birth": {
+    "date": "1830-04-11",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2508_sebastian_geira_ulldemolin",
+      "4660_rosa_salomo_omedes"
+    ],
+    "father": "2508_sebastian_geira_ulldemolin",
+    "mother": "4660_rosa_salomo_omedes",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Sebastian Geira Ulldemolin",
+      "Rosa Salomo Omedes"
+    ],
+    "father_name": "Sebastian Geira Ulldemolin",
+    "mother_name": "Rosa Salomó Omedes",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Fermín Ferré",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'11 d'abril de 1830 a la Ràpita.\n\nPadrins: Fermín Ferré i María de los Dolores Salomó.\n\nCasament: amb Tomás Pons.\n\nCasament: el 20 de setembre de 1877 amb Domingo Vidal Serrano de la Ràpita [1831].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "2661_pedro_gouse",
+  "source_id": "2661",
+  "row_ref": "2661. Pedro Gousé",
+  "name": "Pedro Gousé",
+  "gender": "male",
+  "birth": {
+    "date": "1749-01-01",
+    "place": "Sarrià (Barcelona)"
+  },
+  "death": {
+    "date": "1806-06-15",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vidal",
+      "Rosa Gousé i Vallés"
+    ],
+    "father_name": "Vidal",
+    "mother_name": "Rosa Gousé i Vallés",
+    "spouse_names": [
+      "Rosa Plavaijol"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Carromatero"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Sarrià (Barcelona) [aprox. 1749].\n\nProfessió: Carromatero.\n\nCasament: amb Rosa Plavaijol.\n\nDefunció: el 15 de juny de 1806 a la Ràpita. Va morir de desgracia.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

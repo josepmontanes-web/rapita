@@ -1,0 +1,74 @@
+{
+  "id": "5327_victoriano_torralva_zaragoza",
+  "source_id": "5327",
+  "row_ref": "5327. Victoriano Torralva Zaragoza",
+  "name": "Victoriano Torralva Zaragoza",
+  "gender": "male",
+  "birth": {
+    "date": "1791-03-22",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1791-08-24",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5325_angelo_torralva_claramunt",
+      "5671_vicenta_zaragoza_ripolles"
+    ],
+    "father": "5325_angelo_torralva_claramunt",
+    "mother": "5671_vicenta_zaragoza_ripolles",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Angelo Torralva Claramunt",
+      "Vicenta Zaragoza Ripollés"
+    ],
+    "father_name": "Angelo Torralva Claramunt",
+    "mother_name": "Vicenta Zaragoza Ripollés",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Juan Gironda",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 22 de març de 1791 a la Ràpita.\n\nPadrins: Don Juan Gironda i Doña Rufina Díaz de Pedregal.\n\nDefunció: el 24 d'agost de 1791 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

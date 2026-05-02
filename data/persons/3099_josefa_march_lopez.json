@@ -1,0 +1,73 @@
+{
+  "id": "3099_josefa_march_lopez",
+  "source_id": "3099",
+  "row_ref": "3099. Josefa March López",
+  "name": "Josefa March López",
+  "gender": "female",
+  "birth": {
+    "date": "1805-01-26",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3097_francisco_march_casals"
+    ],
+    "father": "3097_francisco_march_casals",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco March Casals",
+      "Maria López Casta"
+    ],
+    "father_name": "Francisco March Casals",
+    "mother_name": "Maria López Casta",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Josef Parra",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 26 de gener de 1805 a la Ràpita.\n\nPadrins: José Parra i Josefa Sancho.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

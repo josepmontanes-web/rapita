@@ -1,0 +1,74 @@
+{
+  "id": "5581_maria_ana_vidal_talarn",
+  "source_id": "5581",
+  "row_ref": "5581. María Ana Vidal Talarn",
+  "name": "María Ana Vidal Talarn",
+  "gender": "female",
+  "birth": {
+    "date": "1799-04-29",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1800-05-01",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5537_joaquin_vidal_palos",
+      "5259_teresa_talarn_valldeperez"
+    ],
+    "father": "5537_joaquin_vidal_palos",
+    "mother": "5259_teresa_talarn_valldeperez",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Vidal Palos",
+      "Teresa Talarn Valldeperez"
+    ],
+    "father_name": "Joaquín Vidal Palos",
+    "mother_name": "Teresa Talarn Valldeperez",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Mariano Mateu",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 29 d'abril de 1799 a la Ràpita.\n\nPadrins: Mariano Mateu i Francisca Talarn.\n\n\"testigo del bautizo Bonaventura Calduc sastre de la ciudad de Tortosa\".\n\nDefunció: l'1 de maig de 1800 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

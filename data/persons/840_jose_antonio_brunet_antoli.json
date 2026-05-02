@@ -1,0 +1,79 @@
+{
+  "id": "840_jose_antonio_brunet_antoli",
+  "source_id": "840",
+  "row_ref": "840. José Antonio Brunet Antolí",
+  "name": "José Antonio Brunet Antolí",
+  "gender": "male",
+  "birth": {
+    "date": "1805-01-01",
+    "place": "Xerta"
+  },
+  "death": {
+    "date": "1842-01-01",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "850_antonio_brunet_carbo"
+    ],
+    "father": "850_antonio_brunet_carbo",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "841_josefa_brunet_callariza"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Brunet Carbó",
+      "Agueda Antolí"
+    ],
+    "father_name": "Antonio Brunet",
+    "mother_name": "Agueda Antolí",
+    "spouse_names": [
+      "Rita Callariza"
+    ],
+    "children_names": [
+      "Josefa Brunet Callariza"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Xerta [aprox. 1805].\n\nCasament: amb Rita Callariza Mercé d'Ulldecona [1805].\n\nFills: Josefa [1829], Martín [1832], Vicente [1835] i José [1839].\n\nDefunció: l'1 de gener de 1842 a la Ràpita. A la seva partida de defunció la dona es diu Rosa Callarisa.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

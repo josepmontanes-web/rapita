@@ -1,0 +1,71 @@
+{
+  "id": "246_antonia_arlandez_o_hernandez_cavaller",
+  "source_id": "246",
+  "row_ref": "246. Antonia Arlández [o Hernández] Cavaller",
+  "name": "Antonia Arlández [o Hernández] Cavaller",
+  "gender": "female",
+  "birth": {
+    "date": "1800-07-03",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Thomas Hernández Pla",
+      "Francisca Cavaller Roig"
+    ],
+    "father_name": "Thomas Hernández Pla",
+    "mother_name": "Francisca Cavaller Roig",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Joseph Antonio Cavallé",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 3 de juliol de 1800 a la Ràpita.\n\nPadrins: José Antonio Cavallé de Tortosa i Teresa Valls d'Arenys de Lledó.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

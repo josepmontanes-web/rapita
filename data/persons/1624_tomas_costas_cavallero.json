@@ -1,0 +1,73 @@
+{
+  "id": "1624_tomas_costas_cavallero",
+  "source_id": "1624",
+  "row_ref": "1624. Tomás Costas Cavallero",
+  "name": "Tomás Costas Cavallero",
+  "gender": "male",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Don Nicolás Costas",
+      "Doña Joaquina Cavallero"
+    ],
+    "father_name": "Don Nicolás Costas",
+    "mother_name": "Doña Joaquina Cavallero",
+    "spouse_names": [
+      "Josefa Ballester Masip"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1800].\n\nCasament: el 15 de desembre de 1828 amb Josefa Ballester Masip de Xert [1805].\n\nFills: Ramona [1829].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

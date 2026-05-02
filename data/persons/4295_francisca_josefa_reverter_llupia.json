@@ -1,0 +1,71 @@
+{
+  "id": "4295_francisca_josefa_reverter_llupia",
+  "source_id": "4295",
+  "row_ref": "4295. Francisca Josefa Reverter Llupiá",
+  "name": "Francisca Josefa Reverter Llupiá",
+  "gender": "female",
+  "birth": {
+    "date": "1838-08-18",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Reverter Balada",
+      "Theresa Llupiá Pons"
+    ],
+    "father_name": "Josef Reverter Balada",
+    "mother_name": "Theresa Llupiá Pons",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Josef Matamoros",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 18 d'agost de 1838 a la Ràpita.\n\nPadrins: José Matamoros i Francisca Rosales.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

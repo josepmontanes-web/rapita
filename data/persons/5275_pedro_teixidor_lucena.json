@@ -1,0 +1,92 @@
+{
+  "id": "5275_pedro_teixidor_lucena",
+  "source_id": "5275",
+  "row_ref": "5275. Pedro Teixidor Lucena",
+  "name": "Pedro Teixidor Lucena",
+  "gender": "male",
+  "birth": {
+    "date": "1793-04-21",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5274_juan_teixidor",
+      "3052_lucrecia_lucena"
+    ],
+    "father": "5274_juan_teixidor",
+    "mother": "3052_lucrecia_lucena",
+    "spouse": [
+      "4945_maria_sancho_subirats"
+    ],
+    "children": [
+      "5276_maria_rosa_teixido_sancho",
+      "5277_peregrina_teixido_sancho",
+      "5278_juan_pedro_teixidor_sancho",
+      "5279_ramona_juana_teixidor_sancho",
+      "5280_catarina_teixidor_sancho",
+      "5281_jose_agustin_teixidor_sancho"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Teixidor",
+      "Lucrecia Lucena"
+    ],
+    "father_name": "Juan Teixidor",
+    "mother_name": "Lucrecia Lucena",
+    "spouse_names": [
+      "Maria Sancho Subirats"
+    ],
+    "children_names": [
+      "Maria Rosa Teixidó Sancho",
+      "Peregrina Teixidó Sancho",
+      "Juan Pedro Teixidor Sancho",
+      "Ramona Juana Teixidor Sancho",
+      "Catarina Teixidor Sancho",
+      "José Agustín Teixidor Sancho"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Pedro Ferran Guinot",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 21 d'abril de 1793 a la Ràpita. A la partida de bateig el nom es Josef.\n\nPadrins: Pedro Ferran Guinot i María Guinot.\n\nCasament: amb María Sancho Subirats d'Alcanar [1805].\n\nFills: María Rosa [1825], Juan Pedro [1827], Ramona Juana [1829], Peregrina [1830], Catarina [1834] i José Agustín [1837].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

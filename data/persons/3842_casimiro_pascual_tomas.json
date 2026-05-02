@@ -1,0 +1,77 @@
+{
+  "id": "3842_casimiro_pascual_tomas",
+  "source_id": "3842",
+  "row_ref": "3842. Casimiro Pascual Tomas",
+  "name": "Casimiro Pascual Tomas",
+  "gender": "male",
+  "birth": {
+    "date": "1814-09-05",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3827_juan_bautista_pasqual_fuster"
+    ],
+    "father": "3827_juan_bautista_pasqual_fuster",
+    "mother": null,
+    "spouse": [
+      "355_tomasa_balada_planes"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Bautista Pasqual Fuster",
+      "Francisca Thomas Vidal"
+    ],
+    "father_name": "Juan Bautista Pasqual Fuster",
+    "mother_name": "Francisca Thomas Vidal",
+    "spouse_names": [
+      "Tomasa Balada Planes"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Casimiro Míes",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 5 de setembre de 1814 a la Ràpita.\n\nPadrins: Casimiro Míes i Antonia Míes.\n\nCasament: el 23 de maig de 1844 amb Tomasa Balada Planes de la Ràpita [1814].\n\nFills: Josefa [1855].\n\nVenta: de José Curto, labrador, a Pedro Fabregues o Fabregat (podría ser Pedro Fabregat Sancho fill de Vicente Fabregat Sancho y Francisca Sancho Pla y casat amb Maria Sancho Bort filla de José Sancho Gil y Agustina Bort Lletí), labrador, de sitio para edificar en la calle del Arraval de San Isidro. 24 palmos por 60. Linda con Casimiro Pascual (podría ser Casimiro Pascual Tomás fill de Juan Bautista Pascual Fuster i Francisca Tomás Vidal i casat amb Tomasa Balada Planes filla de Francisco Balada Forcadell i Eulalia Planes Gubern), con Francisca Reverté y con camino de la Pedrera. 31 de marzo de 1858. Esc. Juan Ventosa de Amposta. Valor 220.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

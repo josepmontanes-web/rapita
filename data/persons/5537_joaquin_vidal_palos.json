@@ -1,0 +1,103 @@
+{
+  "id": "5537_joaquin_vidal_palos",
+  "source_id": "5537",
+  "row_ref": "5537. Joaquín Vidal Palos",
+  "name": "Joaquín Vidal Palos",
+  "gender": "male",
+  "birth": {
+    "date": "1770-01-01",
+    "place": "Traiguera"
+  },
+  "death": {
+    "date": "1833-03-28",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5497_bautista_vidal"
+    ],
+    "father": "5497_bautista_vidal",
+    "mother": null,
+    "spouse": [
+      "5259_teresa_talarn_valldeperez"
+    ],
+    "children": [
+      "5577_josefa_vidal_talarn",
+      "5578_pedro_vidal_talarn",
+      "5579_francisco_simplicio_vidal_talarn",
+      "5580_agustin_antonio_vidal_talarn",
+      "5581_maria_ana_vidal_talarn",
+      "5582_barbara_vidal_talarn",
+      "5583_maria_francisca_vidal_talarn",
+      "5584_thomas_vidal_talarn",
+      "5585_maria_paula_vidal_talarn",
+      "5586_francisco_vidal_talarn",
+      "5587_manuel_vidal_talarn",
+      "5588_joaquin_vidal_talarn"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Vidal",
+      "Josefa Palos"
+    ],
+    "father_name": "Bautista Vidal",
+    "mother_name": "Josefa Palos",
+    "spouse_names": [
+      "Teresa Talarn Valldeperez"
+    ],
+    "children_names": [
+      "Josefa Vidal Talarn",
+      "Pedro Vidal Talarn",
+      "Francisco Simplicio Vidal Talarn",
+      "Agustín Antonio Vidal Talarn",
+      "María Ana Vidal Talarn",
+      "Bárbara Vidal Talarn",
+      "Maria Francisca Vidal Talarn",
+      "Thomas Vidal Talarn",
+      "Maria Paula Vidal Talarn",
+      "Francisco Vidal Talarn",
+      "Manuel Vidal Talarn",
+      "Joaquín Vidal Talarn"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Traiguera (o a Cervera del Maestrat) [aprox. 1770].\n\nProfessió: pagès.\n\nCasament: amb Teresa Talarn Valldepérez de Tortosa [1775]. A l'estat de veïns de setembre de 1798 diu que viuen a una casa \"enfrente la torra\" (ACA BGRP Cajas 34).\n\nFills: Josefa [1791], Pedro [1793], Francisco Simplicio [1795], Joaquín [1796], Agustín [1798], María Ana [1799], María Francisca [1801], Bárbara [1804], Tomás [1806], Paula [1810], Francisco [1813] i Manuel [1817].\n\nDefunció: el 28 de març de 1833 a la Ràpita. Va morir als 64 anys. No fa testament. \"Dotó su alma en 222 reales de vellón\".\n\nApareix un Joaquín Vidal (Lo bessonet) que paga censos a les monges  per 8 jornals al Racó De'n Sansa. Al 1828 compra un solar al \"camino del corral de ganado\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "1801_maria_escrihuela_o_escoriuela_fibla",
+  "source_id": "1801",
+  "row_ref": "1801. Maria Escrihuela [o Escoriuela] Fibla",
+  "name": "Maria Escrihuela [o Escoriuela] Fibla",
+  "gender": "female",
+  "birth": {
+    "date": "1831-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "4495_jose_romeu_reverte"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Andrés Escoriuela",
+      "Antonia Fibla"
+    ],
+    "father_name": "Andrés Escoriuela",
+    "mother_name": "Antonia Fibla",
+    "spouse_names": [
+      "José Romeu Reverté"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1831].\n\nCasament: el 13 de maig de 1854 amb José Romeu Reverté de la Ràpita [1830]. Es casa als 23 anys. Testimonis: Juan Balada i José Guardia.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

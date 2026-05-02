@@ -1,0 +1,68 @@
+{
+  "id": "1471_jose_cid",
+  "source_id": "1471",
+  "row_ref": "1471. José Cid",
+  "name": "José Cid",
+  "gender": "male",
+  "birth": {
+    "date": "1837-01-01",
+    "place": "la Senia"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Senia [aprox. 1837]. \"José Cid de Teresa\".\n\nProfessió: botiguer.\n\nCasament: amb Raimunda Curto Llombart de Santa Bàrbara [1840].\n\nFills: Agustín [1880]. Sap escriure.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

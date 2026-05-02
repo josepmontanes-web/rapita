@@ -1,0 +1,73 @@
+{
+  "id": "427_manuela_balague_falco",
+  "source_id": "427",
+  "row_ref": "427. Manuela Balagué Falcó",
+  "name": "Manuela Balagué Falcó",
+  "gender": "female",
+  "birth": {
+    "date": "1854-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "448_domingo_balague_navarro"
+    ],
+    "father": "448_domingo_balague_navarro",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Domingo Balagué Navarro",
+      "Rosa Falcó"
+    ],
+    "father_name": "Domingo Balagué",
+    "mother_name": "Rosa Falcó",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1854].\n\nCasament: el 25 de maig de 1874 amb Rafael García Gasparín [1850].\n\nFills: Benito Manuel [1877].\n\nEs germana de Domingo [1850].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "1287_juan_castella_mola",
+  "source_id": "1287",
+  "row_ref": "1287. Juan Castellà Mola",
+  "name": "Juan Castellà Mola",
+  "gender": "male",
+  "birth": {
+    "date": "1775-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1845-12-01",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1341_mateo_castella_zaragoza"
+    ],
+    "father": "1341_mateo_castella_zaragoza",
+    "mother": null,
+    "spouse": [
+      "71_agueda_alegret_cid"
+    ],
+    "children": [
+      "1167_agueda_castella_alegret",
+      "1168_rosa_castella_alegret",
+      "1169_bautista_castella_alegret",
+      "1170_tomas_castella_alegret",
+      "1171_juan_castella_alegret",
+      "1172_pedro_castella_alegret"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Mateo Castellà Zaragoza",
+      "Maria Mola"
+    ],
+    "father_name": "Mateo Castellà",
+    "mother_name": "Maria Mola",
+    "spouse_names": [
+      "Agueda Alegret Cid"
+    ],
+    "children_names": [
+      "Agueda Castellà Alegret",
+      "Rosa Castellà Alegret",
+      "Bautista Castellà Alegret",
+      "Tomás Castellà Alegret",
+      "Juan Castellà Alegret",
+      "Pedro Castellà Alegret"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1775].\n\nCasament:a la Catedral de Tortosa el 3 de febrer de 1798 amb Agueda Alegret Cid de Tortosa [1774].\n\nFills: Juan (Tortosa) [1800], Agueda [1802], Pedro (Tortosa) [1806], Rosa (Tortosa) [1809], Mariano [1812], Tomás [1816] i Bautista [1820].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu al barri dels pescadors  (ACA BGRP Cajas 34).\n\nDefunció: l'1 de desembre de 1845 a la Ràpita. Va morir als 70 anys. \"Testó en poder de J. Figueras Ecmo.\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "3812_jose_parra_sancho",
+  "source_id": "3812",
+  "row_ref": "3812. José Parra Sancho",
+  "name": "José Parra Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1808-10-31",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1811-03-15",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4854_josefa_sancho_biosca"
+    ],
+    "father": null,
+    "mother": "4854_josefa_sancho_biosca",
+    "spouse": [],
+    "children": [
+      "117_tomasa_enguera_o_anguera_reverter"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Parra Pardo",
+      "Josefa Sancho Biosca"
+    ],
+    "father_name": "Josef Parra Pardo",
+    "mother_name": "Josefa Sancho Biosca",
+    "spouse_names": [],
+    "children_names": [
+      "Tomasa Enguera [o Anguera] Reverter"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Josef Vilar",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 31 d'octubre de 1808 a la Ràpita.\n\nPadrins: José Vilar i Josefa Esteve.\n\nDefunció: el 15 de març de 1811 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

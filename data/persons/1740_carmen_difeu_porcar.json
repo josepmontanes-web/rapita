@@ -1,0 +1,73 @@
+{
+  "id": "1740_carmen_difeu_porcar",
+  "source_id": "1740",
+  "row_ref": "1740. Carmen Difeu Porcar",
+  "name": "Carmen Difeu Porcar",
+  "gender": "female",
+  "birth": {
+    "date": "1830-08-21",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1738_manuel_difeu_manzanares"
+    ],
+    "father": "1738_manuel_difeu_manzanares",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel Difeu Manzanares",
+      "Agustina Porcar Ximeno"
+    ],
+    "father_name": "Manuel Difeu Manzanares",
+    "mother_name": "Agustina Porcar Ximeno",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Joaquín Muños",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 21 d'agost de 1830 a la Ràpita.\n\nPadrins: Joaquín Muños i Magdalena Garriga.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

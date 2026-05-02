@@ -1,0 +1,75 @@
+{
+  "id": "1667_german_cubillo_de_pablo",
+  "source_id": "1667",
+  "row_ref": "1667. Germán Cubillo de Pablo",
+  "name": "Germán Cubillo de Pablo",
+  "gender": "male",
+  "birth": {
+    "date": "1830-01-01",
+    "place": "Liceras (Guadalajara)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "2140_mariana_fibla_reverte"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Ruperto Cubillo",
+      "Catalina de Pablo"
+    ],
+    "father_name": "Ruperto Cubillo",
+    "mother_name": "Catalina de Pablo",
+    "spouse_names": [
+      "Mariana Fibla Reverté"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Liceras [aprox. 1830].\n\nProfessió: pagès.\n\nCasament: l'1 de febrer de 1855 amb Mariana Fibla Reverté d'Alcanar [1833].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

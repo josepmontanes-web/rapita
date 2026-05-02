@@ -1,0 +1,82 @@
+{
+  "id": "4172_juan_reverter",
+  "source_id": "4172",
+  "row_ref": "4172. Juan Reverter",
+  "name": "Juan Reverter",
+  "gender": "male",
+  "birth": {
+    "date": "1738-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": "1813-01-18",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "317_maria_balada"
+    ],
+    "children": [
+      "4189_benita_reverter_ascot",
+      "4190_dominica_reverter_ascot",
+      "4388_maria_reverter_vidal",
+      "4389_rafaela_reverter_vidal"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "María Balada"
+    ],
+    "children_names": [
+      "Benita Reverter Ascot",
+      "Dominica Reverter Ascot",
+      "Maria Reverter Vidal",
+      "Rafaela Reverter Vidal"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1738]. \n\nCasament: amb María Balada [1740].\n\nDefunció: el 18 de gener de 1813 a la Ràpita. Va morir als 75 anys. Fa testament.\n\nEl 29 de maig de 1784 demana permís per a fer una casa. A l'estat de veïns de setembre de 1798 diu que viuen a una casa al costat de l'esglesia (ACA BGRP Cajas 34).\n\nVeí de la Ràpita a 1796 (ACA Processos 1796 7F).\n\nAl 1788 Juan Reverter forner de San Carlos es acusat de vendre pa de mala qüalitat i menys pés (ACA BGPR Correspondencia Caixa 10).\n\nHaviendo pegado fuego a la maleza de la otra parte del barranco del puente inmediato de esta población, con motivo del viento de Levecho, atravesó aquel el barranco con tanta furia que a no haber mediado tocar en la casa y acudir a todos estos trabajadores, y muchos otros a apagarlo, hubieran sucedido algunas desgracias, respecto hallarse como a cosa de unos 20 pasos de los pajares de la era de las monjas y otro tanto de las casas del hornero y Planas que havia mui inmediato a la del primero, un pajar bastante grande, lleno de trigo, pero se cortó su furia en poco tiempo a fuerza de agua y demas disposiciones dejandolo enteramente apagado y al [arbde] que es la única novedad digna de participar a vm, 15.7.1789 a José Naudin (ACA BGRP caixa 10).\n\n13.4.1788 Martorell a Naudin. Diu que el forner Juan Reverte, que estava encarregat de servir palla per als cavalls de la partida de Dragones de Sagunto, auxiliares de estas obras, no els vol servir palla, perquè l’abastidor principal de Tortosa no li ha pagat les que ha servit fins ara. (ACA BGRP caixa 13).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

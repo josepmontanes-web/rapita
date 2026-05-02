@@ -1,0 +1,84 @@
+{
+  "id": "5622_bautista_vines_sevilla",
+  "source_id": "5622",
+  "row_ref": "5622. Bautista Viñes Sevilla",
+  "name": "Bautista Viñes Sevilla",
+  "gender": "male",
+  "birth": {
+    "date": "1773-01-01",
+    "place": "València (Parr. S.Andrés)"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5615_antonio_vines_ferre",
+      "5106_francisca_sevilla"
+    ],
+    "father": "5615_antonio_vines_ferre",
+    "mother": "5106_francisca_sevilla",
+    "spouse": [],
+    "children": [
+      "5619_maria_rosa_vines_servero",
+      "5620_rosa_vines_servero",
+      "5621_pascual_vines_servero"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Viñes Ferré",
+      "Francisca Sevilla"
+    ],
+    "father_name": "Antonio Viñes Ferré",
+    "mother_name": "Francisca Sevilla",
+    "spouse_names": [
+      "Rosa Servero"
+    ],
+    "children_names": [
+      "Maria Rosa Viñes Servero",
+      "Rosa Viñes Servero",
+      "Pascual Viñes Servero"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a València (parròquia de San Andrés) [aprox. 1773].\n\nCasament: amb Rosa Servero Gurrea de València [1775].\n\nFills: Rosa [1795], Pascual [1798] i María Rosa [1800].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

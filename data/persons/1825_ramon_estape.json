@@ -1,0 +1,80 @@
+{
+  "id": "1825_ramon_estape",
+  "source_id": "1825",
+  "row_ref": "1825. Ramón Estapé",
+  "name": "Ramón Estapé",
+  "gender": "male",
+  "birth": {
+    "date": "1755-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1794-01-29",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1554_mariana_comadaran_bernadas"
+    ],
+    "children": [
+      "1826_0_1900",
+      "1827_0_1834",
+      "1829_0_1829"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Mariana Comadaran Bernadas"
+    ],
+    "children_names": [
+      "0 1900",
+      "0 1834",
+      "0 1829"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Fuster"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1755].\n\n\"Carpintero de estas Reales Obras\". Al juliol de 1781 treballa a les obres (ACA caixa 97).\n\nCasament: amb Mariana Comadaran Bernadas de Ripollet [1758].\n\nFills: Juan [1790], Antonia [1790], José [1791] i Engracia [1793].\n\nDefunció: el 29 de gener de 1794 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

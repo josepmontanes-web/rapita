@@ -1,0 +1,68 @@
+{
+  "id": "2800_vicenta_huguet_o_uguet_borras",
+  "source_id": "2800",
+  "row_ref": "2800. Vicenta Huguet [o Uguet] Borràs",
+  "name": "Vicenta Huguet [o Uguet] Borràs",
+  "gender": "female",
+  "birth": {
+    "date": "1856-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1856].\n\nCasament: el 17 d'abril de 1875 amb Bautista Ferreres Zaragoza de la Ràpita [1851]. Es casa als 19 anys.\n\nFills: Antonia [1879] i Manuel [1880].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

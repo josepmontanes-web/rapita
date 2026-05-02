@@ -1,0 +1,85 @@
+{
+  "id": "2343_susana_garcia_lafont",
+  "source_id": "2343",
+  "row_ref": "2343. Susana García Lafont",
+  "name": "Susana García Lafont",
+  "gender": "female",
+  "birth": {
+    "date": "1772-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": "1845-01-05",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2360_pedro_garcia_rosales"
+    ],
+    "father": "2360_pedro_garcia_rosales",
+    "mother": null,
+    "spouse": [
+      "4876_agustin_sancho_fibla"
+    ],
+    "children": [
+      "4890_josefa_sancho_garcia",
+      "4891_theresa_sancho_garcia",
+      "4892_ramon_sancho_garcia"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro García Rosales",
+      "Josefa Lafont"
+    ],
+    "father_name": "Pedro García",
+    "mother_name": "Josefa Lafont",
+    "spouse_names": [
+      "Agustín Sancho Fibla"
+    ],
+    "children_names": [
+      "Josefa Sancho García",
+      "Theresa Sancho García",
+      "Ramón Sancho García"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta [aprox. 1772].\n\nCasament: amb Agustín Sancho Fibla d'Alcanar [1770].\n\nFills: Agustín [1799], Ramón [1801], Teresa [1804] i Josefa [1814].\n\nDefunció: el 5 de gener de 1845 a la Ràpita. Va morir als 73 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

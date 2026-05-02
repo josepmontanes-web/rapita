@@ -1,0 +1,77 @@
+{
+  "id": "2085_severo_ferrer_sancho",
+  "source_id": "2085",
+  "row_ref": "2085. Severo Ferrer Sancho",
+  "name": "Severo Ferrer Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1832-11-05",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2057_fermin_ferrer_marti"
+    ],
+    "father": "2057_fermin_ferrer_marti",
+    "mother": null,
+    "spouse": [
+      "1680_rosa_curto_reverte"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Fermín Ferrer Martí",
+      "Ramona Sancho Pla"
+    ],
+    "father_name": "Fermín Ferrer Martí",
+    "mother_name": "Ramona Sancho Pla",
+    "spouse_names": [
+      "Rosa Curto Reverté"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Jayme Palatsí",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 5 de novembre de 1832 a la Ràpita.\n\nPadrins: Jayme Palatsí i Bàrbara Vidal.\n\nProfessió: pagès.\n\nCasament: el 25 de novembre de 1854 amb Rosa Curto Reverté de la Ràpita [1836]. Testimonis: José Sancho i Francisco Gasparín.\n\nFills: Pilara [1860].\n\nCasament: amb Rosa Lajunta Pons d'Aldover [1844].\n\nFills: María Cinta [1879] i Severo [1880].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

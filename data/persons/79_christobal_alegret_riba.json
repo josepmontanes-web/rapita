@@ -1,0 +1,93 @@
+{
+  "id": "79_christobal_alegret_riba",
+  "source_id": "79",
+  "row_ref": "79. Christobal Alegret Riba",
+  "name": "Christobal Alegret Riba",
+  "gender": "male",
+  "birth": {
+    "date": "1780-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1172_pedro_castella_alegret"
+    ],
+    "father": "1172_pedro_castella_alegret",
+    "mother": null,
+    "spouse": [
+      "3582_teresa_murall_garcia",
+      "2274_tomasa_gala_pol"
+    ],
+    "children": [
+      "72_felipa_alegret_gala",
+      "73_maria_consuelo_alegret_gala",
+      "74_teresa_alegret_murall",
+      "76_mª_de_la_cinta_alegret_murall",
+      "77_maria_francisca_alegret_murall",
+      "78_juan_francisco_alegret_murall"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Castellà Alegret",
+      "Teresa Riba"
+    ],
+    "father_name": "Pedro Alegret",
+    "mother_name": "Teresa Riba",
+    "spouse_names": [
+      "Teresa Murall Garcia",
+      "Tomasa Gala Pol"
+    ],
+    "children_names": [
+      "Felipa Alegret Gala",
+      "María Consuelo Alegret Gala",
+      "Teresa Alegret Murall",
+      "Mª.de la Cinta Alegret Murall",
+      "Maria Francisca Alegret Murall",
+      "Juan Francisco Alegret Murall"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  a Tortosa [aprox. 1780].\n\nProfessió: peó de sanitat.\n\nCasament: amb Teresa Murall García de Tortosa [1783].\n\nFills: Teresa (Tortosa) [aprox 1805], María de la Cinta (Tortosa) [aprox 1811], María Francisca [1814] i Juan Francisco [1818].\n\nCasament: amb Tomasa Gala Pol de Tortosa, filla de Domingo i Tomasa també de Tortosa.\n\nFills: Felipa [1824] i María Consuelo [1827].\n\nVenta de Cristoval Alegret, peón de sanidad del puerto de los Alfaques a D. José Domingo Piñol y Latorre, caballero, de un patio en la plaza nombrada de la Aduana Vieja. 30 palmos de frente y 60 de fondo. Linda a Sol saliente con calle nombrada subida del castillo, a mediodía con Juan Brunet, a poniente con casa del comprador y a cierzo o tramontana con la Plaza de la Aduana Vieja. Precio 48 duros. 14 de enero de 1846.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "1938_silvestre_fabregat_sancho",
+  "source_id": "1938",
+  "row_ref": "1938. Silvestre Fabregat Sancho",
+  "name": "Silvestre Fabregat Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1831-12-30",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1934_vicente_fabregat_sancho",
+      "4908_francisca_sancho_pla"
+    ],
+    "father": "1934_vicente_fabregat_sancho",
+    "mother": "4908_francisca_sancho_pla",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Fabregat Sancho",
+      "Francisca Sancho Pla"
+    ],
+    "father_name": "Vicente Fabregat Sancho",
+    "mother_name": "Francisca Sancho Plà",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Miguel Reverter",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 30 de desembre de 1831 a la Ràpita.\n\nPadrins: Miguel Reverter i María Reverter.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

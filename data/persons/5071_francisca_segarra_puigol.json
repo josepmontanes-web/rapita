@@ -1,0 +1,73 @@
+{
+  "id": "5071_francisca_segarra_puigol",
+  "source_id": "5071",
+  "row_ref": "5071. Francisca Segarra Puigol",
+  "name": "Francisca Segarra Puigol",
+  "gender": "female",
+  "birth": {
+    "date": "1805-09-11",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1808-01-29",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5048_tomas_segarra_bel"
+    ],
+    "father": "5048_tomas_segarra_bel",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Tomàs Segarra Bel",
+      "Theresa Puigol"
+    ],
+    "father_name": "Tomàs Segarra Bel",
+    "mother_name": "Theresa Puigol",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Cachot",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'11 de setembre de 1805 a la Ràpita.\n\nPadrí: Francisco Cachot.\n\nDefunció: el 29 de gener de 1808 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

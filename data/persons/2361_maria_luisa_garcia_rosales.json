@@ -1,0 +1,74 @@
+{
+  "id": "2361_maria_luisa_garcia_rosales",
+  "source_id": "2361",
+  "row_ref": "2361. María Luísa García Rosales",
+  "name": "María Luísa García Rosales",
+  "gender": "female",
+  "birth": {
+    "date": "1808-02-16",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2320_francisco_garcia_garcia",
+      "4557_teresa_rosales_valls"
+    ],
+    "father": "2320_francisco_garcia_garcia",
+    "mother": "4557_teresa_rosales_valls",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco García García",
+      "Teresa Rosales Valls"
+    ],
+    "father_name": "Francisco García García",
+    "mother_name": "Teresa Rosales Valls",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Pedro Cayetano Sagreti",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 16 de febrer de 1808 a la Ràpita.\n\nPadrins: Don Pedro Cayetano Sagreti i Doña María Luísa Abadia (son marit i muller).",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

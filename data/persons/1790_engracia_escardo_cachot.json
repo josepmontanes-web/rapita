@@ -1,0 +1,79 @@
+{
+  "id": "1790_engracia_escardo_cachot",
+  "source_id": "1790",
+  "row_ref": "1790. Engracia Escardó Cachot",
+  "name": "Engracia Escardó Cachot",
+  "gender": "female",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1791_jose_escardo_canalda"
+    ],
+    "father": "1791_jose_escardo_canalda",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "2161_juan_fon_escardo"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Escardó Canalda",
+      "Mariana Cachot"
+    ],
+    "father_name": "José Escardó",
+    "mother_name": "Mariana Cachot",
+    "spouse_names": [
+      "Pablo Fon"
+    ],
+    "children_names": [
+      "Juan Fon Escardó"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1800].\n\nCasament: amb Pablo Fon de Cambrils, fill de Juan i Teresa també de Cambrils.\n\nFills: Juan Fon Escardó [1827].\n\nEs germana de Francisca Escardó Cachot [1800] i María Escardó Cachot [1800].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

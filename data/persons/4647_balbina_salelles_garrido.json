@@ -1,0 +1,71 @@
+{
+  "id": "4647_balbina_salelles_garrido",
+  "source_id": "4647",
+  "row_ref": "4647. Balbina Salelles Garrido",
+  "name": "Balbina Salelles Garrido",
+  "gender": "female",
+  "birth": {
+    "date": "1821-04-08",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Don Manuel Salelles Aparicio",
+      "Doña Francisca de Paula Garrido Ferrari"
+    ],
+    "father_name": "Don Manuel Salelles Aparicio",
+    "mother_name": "Doña Francisca de Paula Garrido Ferrari",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Alfonso Garrido y Acero",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 8 d'abril de 1821 a la Ràpita.\n\nPadrins: Don Alfonso Garrido y Acero \"condecorado con la flor de lis y cruz del sitio de Tarragona, Administrador de la Aduana Nacional de Tarragona\" i Doña Rosa Ferrari y Dunant.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

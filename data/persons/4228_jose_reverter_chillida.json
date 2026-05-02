@@ -1,0 +1,81 @@
+{
+  "id": "4228_jose_reverter_chillida",
+  "source_id": "4228",
+  "row_ref": "4228. José Reverter Chillida",
+  "name": "José Reverter Chillida",
+  "gender": "male",
+  "birth": {
+    "date": "1820-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4222_domingo_reverter_cases"
+    ],
+    "father": "4222_domingo_reverter_cases",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "4179_jose_reverter_alcoverro",
+      "4180_maria_isabel_reverter_alcoverro"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Domingo Reverter Cases",
+      "Rosa Chillida"
+    ],
+    "father_name": "Domingo Reverter",
+    "mother_name": "Rosa Chillida",
+    "spouse_names": [
+      "Josefa Alcoverro Segura"
+    ],
+    "children_names": [
+      "José Reverter Alcoverro",
+      "Maria Isabel Reverter Alcoverro"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1820]. \n\nCasament: amb Josefa Alcoverro Segura de Beceite, filla de Mariano i Rosa també de Beceite.\n\nFills: María Isabel [1841] i José [1842].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

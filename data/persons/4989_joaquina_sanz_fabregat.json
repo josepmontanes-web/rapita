@@ -1,0 +1,84 @@
+{
+  "id": "4989_joaquina_sanz_fabregat",
+  "source_id": "4989",
+  "row_ref": "4989. Joaquina Sanz Fabregat",
+  "name": "Joaquina Sanz Fabregat",
+  "gender": "female",
+  "birth": {
+    "date": "1817-09-22",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5017_domingo_sans_sanarau",
+      "1928_pascuala_fabregat_obiol"
+    ],
+    "father": "5017_domingo_sans_sanarau",
+    "mother": "1928_pascuala_fabregat_obiol",
+    "spouse": [
+      "467_jose_balanza_comes"
+    ],
+    "children": [
+      "478_pascuala_balanza_sanz",
+      "480_lorenza_balanza_sanz"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Domingo Sans Sanarau",
+      "Pascuala Fabregat Obiol"
+    ],
+    "father_name": "Domingo Sans Sanarau",
+    "mother_name": "Pascuala Fabregat Obiol",
+    "spouse_names": [
+      "José Balanzá Comes"
+    ],
+    "children_names": [
+      "Pascuala Balanzá Sanz",
+      "Lorenza Balanzá Sanz"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Mariano Castellà",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 22 de setembre de 1817 a la Ràpita.\n\nPadrins: Mariano Castellà i Francisca Fabregat.\n\nCasament: el 28 de desembre de 1836 amb José Balanzá Comes de Benicarló [1810].\n\nFills: Pascuala [1837], Peregrín [1842] i Lorenza [1847].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

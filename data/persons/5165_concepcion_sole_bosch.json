@@ -1,0 +1,74 @@
+{
+  "id": "5165_concepcion_sole_bosch",
+  "source_id": "5165",
+  "row_ref": "5165. Concepción Solé Bosch",
+  "name": "Concepción Solé Bosch",
+  "gender": "female",
+  "birth": {
+    "date": "1819-12-08",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1823-08-21",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5169_bautista_sole_selasuela",
+      "820_mariana_bosch_torta"
+    ],
+    "father": "5169_bautista_sole_selasuela",
+    "mother": "820_mariana_bosch_torta",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Solé Selasuela",
+      "Mariana Bosch Torta"
+    ],
+    "father_name": "Bautista Solé Selasuela",
+    "mother_name": "Mariana Bosch Torta",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Josef Antonio Cid",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 8 de desembre de 1819 a la Ràpita.\n\nPadrí: Don José Antonio Cid.\n\nDefunció: el 21 d'agost de 1823 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

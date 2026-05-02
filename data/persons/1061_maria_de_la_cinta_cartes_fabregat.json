@@ -1,0 +1,73 @@
+{
+  "id": "1061_maria_de_la_cinta_cartes_fabregat",
+  "source_id": "1061",
+  "row_ref": "1061. María de la Cinta Cartes Fabregat",
+  "name": "María de la Cinta Cartes Fabregat",
+  "gender": "female",
+  "birth": {
+    "date": "1790-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": "1841-06-17",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Cartes",
+      "Teresa Fabregat"
+    ],
+    "father_name": "Juan Cartes",
+    "mother_name": "Teresa Fabregat",
+    "spouse_names": [
+      "Salvador Castellà Vilaró"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1790].\n\nCasament: amb Salvador Castellà Vilaró [o Vilàs] de Tortosa [1790].\n\nFills: Juan [1813], Rosa [1814], Juan [1817], Salvador [1820] i María Francisca [1826].\n\nEs germana de Cosme Cartes Fabregat [1790].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

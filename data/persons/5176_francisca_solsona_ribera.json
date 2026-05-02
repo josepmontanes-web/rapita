@@ -1,0 +1,75 @@
+{
+  "id": "5176_francisca_solsona_ribera",
+  "source_id": "5176",
+  "row_ref": "5176. Francisca Solsona Ribera",
+  "name": "Francisca Solsona Ribera",
+  "gender": "female",
+  "birth": {
+    "date": "1831-02-05",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5173_bartolome_solsona_miralles"
+    ],
+    "father": "5173_bartolome_solsona_miralles",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bartolomé Solsona Miralles",
+      "Maria Ignés Ribera Roig"
+    ],
+    "father_name": "Bartolomé Solsona Miralles",
+    "mother_name": "Maria Ignés Ribera Roig",
+    "spouse_names": [
+      "Miguel Queral Garriga"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Ferrer",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 5 de febrer de 1831 a la Ràpita.\n\nPadrins: José Ferrer i Francisca Ribera.\n\nCasament: el 23 de març de 1855 amb Miguel Queral Garriga d'Alcanar [1827]. Es casa als 25 anys. Testimonis: Agustín Reverté i Juan Pla.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "4696_pedro_pablo_samper_llorens",
+  "source_id": "4696",
+  "row_ref": "4696. Pedro Pablo Samper Llorens",
+  "name": "Pedro Pablo Samper Llorens",
+  "gender": "male",
+  "birth": {
+    "date": "1836-12-04",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4699_vicente_samper_moncho"
+    ],
+    "father": "4699_vicente_samper_moncho",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Samper Moncho",
+      "Rosa Llorens García"
+    ],
+    "father_name": "Vicente Samper Monjo",
+    "mother_name": "Rosa Llorens García",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Gregorio Samper",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 4 de desembre de 1836 a la Ràpita.\n\nPadrins: Gregorio Samper i Paula Vidal.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

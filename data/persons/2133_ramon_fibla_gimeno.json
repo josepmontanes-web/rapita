@@ -1,0 +1,68 @@
+{
+  "id": "2133_ramon_fibla_gimeno",
+  "source_id": "2133",
+  "row_ref": "2133. Ramón Fibla Gimeno",
+  "name": "Ramón Fibla Gimeno",
+  "gender": "male",
+  "birth": {
+    "date": "1849-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1849].\n\nProfessió: pagès.\n\nCasament: el 29 de juliol de 1877 amb Agustina Clua Llaó de la Ràpita [1857]. Es casa als 28 anys.\n\nFills: Cinta [1878].\n\nCasament: amb María Casanova Querol de la Pobla del Vallestà [1855].\n\nFills: José [1880].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

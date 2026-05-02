@@ -1,0 +1,78 @@
+{
+  "id": "4509_miguel_rosales_castella",
+  "source_id": "4509",
+  "row_ref": "4509. Miguel Rosales Castellà",
+  "name": "Miguel Rosales Castellà",
+  "gender": "male",
+  "birth": {
+    "date": "1829-01-18",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4558_ramon_rosales_valls",
+      "1235_antonia_castella_colomines"
+    ],
+    "father": "4558_ramon_rosales_valls",
+    "mother": "1235_antonia_castella_colomines",
+    "spouse": [
+      "1189_maria_castella_borras"
+    ],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Ramón Rosales Valls",
+      "Antonia Castellà Colomines"
+    ],
+    "father_name": "Ramón Rosales Valls",
+    "mother_name": "Antonia Castellà Colomines",
+    "spouse_names": [
+      "Maria Castellà Borràs"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Miguel Rosales",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pescador"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 18 de gener de 1829 a la Ràpita.\n\nPadrins: Miguel Rosales i Teresa Rosales.\n\nProfessió: pescador.\n\nCasament: el 24 de març de 1854 amb María Castellà Borràs de la Ràpita [1837]. \"Dispensados de impedimento de parentesco de 3º con 4º grado de consanguinidad\". Testimonis: Manuel Míes i Don Manuel Labora \"Subteniente de carabineros\".\n\nFills: Josefa [1855], Miguel [1860] i Dolores [1864].\n\nDefunció: el 28 de març de 1881 a la Ràpita als 52 anys. Vivia al carrer de Sant Rafel. Alcalde 1855-1856.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

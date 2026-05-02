@@ -1,0 +1,81 @@
+{
+  "id": "74_teresa_alegret_murall",
+  "source_id": "74",
+  "row_ref": "74. Teresa Alegret Murall",
+  "name": "Teresa Alegret Murall",
+  "gender": "female",
+  "birth": {
+    "date": "1805-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "79_christobal_alegret_riba"
+    ],
+    "father": "79_christobal_alegret_riba",
+    "mother": null,
+    "spouse": [
+      "2835_miguel_izquierdo_caldero"
+    ],
+    "children": [
+      "2830_miguel_juan_izquierdo_alegret"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Christobal Alegret Riba",
+      "Teresa Murall"
+    ],
+    "father_name": "Christobal Alegret",
+    "mother_name": "Teresa Murall",
+    "spouse_names": [
+      "Miguel Izquierdo Calderó"
+    ],
+    "children_names": [
+      "Miguel Juan Izquierdo Alegret"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  a Tortosa [aprox. 1805].\n\nCasament: el 26 de maig de 1833 amb Miguel Izquierdo Calderó de la Ràpita [1798].\n\nFills: Miguel [1842], Manuel [1845] i Adelina [1850].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

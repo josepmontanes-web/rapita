@@ -1,0 +1,76 @@
+{
+  "id": "3133_maria_vicenta_marti_subirats",
+  "source_id": "3133",
+  "row_ref": "3133. Maria Vicenta Martí Subirats",
+  "name": "Maria Vicenta Martí Subirats",
+  "gender": "female",
+  "birth": {
+    "date": "1817-06-27",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3117_joaquin_marti_cardona",
+      "5201_rosa_subirats_miro"
+    ],
+    "father": "3117_joaquin_marti_cardona",
+    "mother": "5201_rosa_subirats_miro",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Joaquín Martí Cardona",
+      "Rosa Subirats Miró"
+    ],
+    "father_name": "Joaquín Martí Cardona",
+    "mother_name": "Rosa Subirats Miró",
+    "spouse_names": [
+      "Joseph Monsarrat Cavallé"
+    ],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Tomás Capilla",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 27 de juny de 1817 a la Ràpita.\n\nPadrins: Tomás Capilla i Vicenta Maciá.\n\nCasament: el 21 d'abril de 1838 amb José Montserrat Cavallé de les Salines dels Alfacs [1820].\n\nFills: Rosa Felipa [1842], José [1848] i María [1854].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

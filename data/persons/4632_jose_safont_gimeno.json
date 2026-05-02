@@ -1,0 +1,81 @@
+{
+  "id": "4632_jose_safont_gimeno",
+  "source_id": "4632",
+  "row_ref": "4632. José Safont Gimeno",
+  "name": "José Safont Gimeno",
+  "gender": "male",
+  "birth": {
+    "date": "1743-01-01",
+    "place": "Alcalá de Mora"
+  },
+  "death": {
+    "date": "1816-11-05",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3977_maria_pla"
+    ],
+    "children": [
+      "4640_jose_safont_pla",
+      "4641_manuel_safont_pla"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Josef Safont",
+      "Maria Gimeno"
+    ],
+    "father_name": "Josef Safont",
+    "mother_name": "Maria Gimeno",
+    "spouse_names": [
+      "María Pla"
+    ],
+    "children_names": [
+      "José Safont Pla",
+      "Manuel Safont Pla"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcalá de Mora (avui Alcalá de la Selva provincia de Teruel) [aprox. 1743]. A la partida de defunció diu que es de Monteagudo (Teruel).\n\nCasament: amb María Pla d'Alcanar [1753].\n\nFills: José (Alcanar) [1775], Manuel (Alcanar) [1783], Agustín [1785], Bautista [1784] i Juan [1791].\n\nA l'estat de veïns de setembre de 1798 diu que viuen a la casa núm. 13 de la \"Calle Mayor\"  amb Don Josef Bitner (ACA BGRP Cajas 34).\n\nDefunció: el 5 de novembre de 1816 a la Ràpita. Va morir als 73 anys de \"hidropecia\". Fa testament.\n\nEl cognom podria ser Zafón, Safón o Safont.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

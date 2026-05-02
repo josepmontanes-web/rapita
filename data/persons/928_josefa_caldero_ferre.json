@@ -1,0 +1,79 @@
+{
+  "id": "928_josefa_caldero_ferre",
+  "source_id": "928",
+  "row_ref": "928. Josefa Calderó Ferré",
+  "name": "Josefa Calderó Ferré",
+  "gender": "female",
+  "birth": {
+    "date": "1765-01-01",
+    "place": "Tortosa"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "1342_bautista_castella_zaragoza"
+    ],
+    "children": [
+      "1209_maria_teresa_castella_caldero"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pere Calderó",
+      "Francisca Ferré"
+    ],
+    "father_name": "Pere Calderó",
+    "mother_name": "Francisca Ferré",
+    "spouse_names": [
+      "Bautista Castellà Zaragoza"
+    ],
+    "children_names": [
+      "María Teresa Castellà Calderó"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Tortosa [aprox. 1765].\n\nCasament: amb Bautista Castellà Zaragoza de Tortosa [1759].\n\nFills: Francisca [1790], Juan [1795], Ramón (Tortosa) [1800], Tomasa (Tortosa) [1800], Vicente (Tortosa) [1803] i María Teresa [1805].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu al barri dels pescadors  (ACA BGRP Cajas 34).\n\nGermana de María Calderó Ferré [1769] i Rosa Calderó Ferré [1775].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "468_felipa_balanza_comes",
+  "source_id": "468",
+  "row_ref": "468. Felipa Balanzá Comes",
+  "name": "Felipa Balanzá Comes",
+  "gender": "female",
+  "birth": {
+    "date": "1815-01-01",
+    "place": "Benicarló"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "465_francisco_balanza"
+    ],
+    "father": "465_francisco_balanza",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "180_juan_arbo_balanza"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Balanzá",
+      "Pascuala Comes"
+    ],
+    "father_name": "Francisco Balanzá",
+    "mother_name": "Pascuala Comes",
+    "spouse_names": [
+      "Juan Arbó Sanches"
+    ],
+    "children_names": [
+      "Juan Arbó Balanzá"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Benicarló [aprox. 1815].\n\nCasament: el 29 de gener de 1838 amb Juan Arbó Sanches de la Ràpita [1816].\n\nFills: Juan [1841].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

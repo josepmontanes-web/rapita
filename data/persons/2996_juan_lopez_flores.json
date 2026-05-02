@@ -1,0 +1,95 @@
+{
+  "id": "2996_juan_lopez_flores",
+  "source_id": "2996",
+  "row_ref": "2996. Juan López Flores",
+  "name": "Juan López Flores",
+  "gender": "male",
+  "birth": {
+    "date": "1767-01-01",
+    "place": "Amposta"
+  },
+  "death": {
+    "date": "1811-01-28",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2977_antonio_lopez"
+    ],
+    "father": "2977_antonio_lopez",
+    "mother": null,
+    "spouse": [
+      "5045_maria_segarra_bel"
+    ],
+    "children": [
+      "3033_isabel_lopez_segarra",
+      "3034_francisco_lopez_segarra",
+      "3035_joaquin_lopez_segarra",
+      "3036_vicente_lopez_segarra",
+      "3037_rafaela_lopez_segarra",
+      "3038_juan_lopez_segarra",
+      "3039_manuel_lopez_segarra",
+      "3040_pasquala_lopez_segarra"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio López",
+      "Isabel Flores"
+    ],
+    "father_name": "Antonio López",
+    "mother_name": "Isabel Flores",
+    "spouse_names": [
+      "María Segarra Bel"
+    ],
+    "children_names": [
+      "Isabel López Segarra",
+      "Francisco López Segarra",
+      "Joaquín López Segarra",
+      "Vicente López Segarra",
+      "Rafaela López Segarra",
+      "Juan López Segarra",
+      "Manuel López Segarra",
+      "Pasquala López Segarra"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Amposta  [aprox. 1767]. \n\nProfessió: pagès.\n\nCasament: amb María Segarra Bel d'Ulldecona [1770].\n\nFills: Joaquín (Ulldecona) [1790], Isabel [1791], Francisco [1793], Vicente [1798], Rafaela [1800], Juan [1802], Manuel [1805] i Pasquala [1809].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu al barri dels pescadors  (ACA BGRP Cajas 34).\n\nDefunció: el 28 de gener de 1811 a la Ràpita. Va morir als 44 anys. Fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

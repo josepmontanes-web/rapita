@@ -1,0 +1,86 @@
+{
+  "id": "2872_dolores_jovani_grau",
+  "source_id": "2872",
+  "row_ref": "2872. Dolores Jovani Grau",
+  "name": "Dolores Jovani Grau",
+  "gender": "female",
+  "birth": {
+    "date": "1816-02-15",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2878_jose_jovani_sancho",
+      "2688_antonia_grau_sans"
+    ],
+    "father": "2878_jose_jovani_sancho",
+    "mother": "2688_antonia_grau_sans",
+    "spouse": [
+      "3264_jacinto_matamoros_reverter"
+    ],
+    "children": [
+      "3220_maria_de_la_cinta_matamoros_jovani",
+      "3221_jose_matamoros_jovani",
+      "3222_miguel_matamoros_jovani"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Jovani Sancho",
+      "Antonia Grau Sans"
+    ],
+    "father_name": "José Jovani Sancho",
+    "mother_name": "Antonia Grau Sans",
+    "spouse_names": [
+      "Jacinto Matamoros Reverter"
+    ],
+    "children_names": [
+      "Maria de la Cinta Matamoros Jovani",
+      "José Matamoros Jovani",
+      "Miguel Matamoros Jovani"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Vilar",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 15 de febrer de 1816 a la Ràpita. Al bateig el cognom es Chuveni.\n\nPadrins: José Vilar i María Bort.\n\nCasament: el 7 de gener de 1837 amb Jacinto Matamoros Reverter d'Alcanar [1815].\n\nFills: María de la Cinta [1837], José [1840], Miguel [1842] i Juan [1852].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "332_teresa_balada_balada",
+  "source_id": "332",
+  "row_ref": "332. Teresa Balada Balada",
+  "name": "Teresa Balada Balada",
+  "gender": "female",
+  "birth": {
+    "date": "1822-01-22",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "322_juan_balada_balada",
+      "363_maria_balada_queralt"
+    ],
+    "father": "322_juan_balada_balada",
+    "mother": "363_maria_balada_queralt",
+    "spouse": [],
+    "children": [
+      "2001_juan_carlos_ferrer_balada",
+      "2002_maria_teresa_ferrer_balada"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Balada Balada",
+      "Maria Balada Queralt"
+    ],
+    "father_name": "Juan Balada Balada",
+    "mother_name": "Maria Balada Queralt",
+    "spouse_names": [
+      "Miguel Ferrer Fabregat",
+      "."
+    ],
+    "children_names": [
+      "Juan Carlos Ferrer Balada",
+      "Maria Teresa Ferrer Balada"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Magriñá",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 22 de gener de 1822 a la Ràpita.\n\nPadrins: Francisco Magriñá i Teresa Rosales.\n\nCasament: el 7 de juliol de 1838 amb Miguel Ferrer Fabregat de la Ràpita [1820].\n\nFills: Juan Carlos [1840], María Teresa [1842], Agustín [1848], José [1850] i Cinta [1853].\n\nDefunció: el 4 de juny de 1877 a la Ràpita als 56 anys de pleuroneumonia. Declara la mor al registre civil Francisca Borràs.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

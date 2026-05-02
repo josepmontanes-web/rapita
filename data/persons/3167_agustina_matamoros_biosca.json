@@ -1,0 +1,74 @@
+{
+  "id": "3167_agustina_matamoros_biosca",
+  "source_id": "3167",
+  "row_ref": "3167. Agustina Matamoros Biosca",
+  "name": "Agustina Matamoros Biosca",
+  "gender": "female",
+  "birth": {
+    "date": "1823-04-13",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1824-05-20",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3250_jose_matamoros_reverter",
+      "706_agustina_biosca_cid"
+    ],
+    "father": "3250_jose_matamoros_reverter",
+    "mother": "706_agustina_biosca_cid",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Matamoros Reverter",
+      "Agustina Biosca Cid"
+    ],
+    "father_name": "José Matamoros Reverter",
+    "mother_name": "Agustina Biosca Cid",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Borràs",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 13 d'abril de 1823 a la Ràpita.\n\nPadrins: José Borràs i Aurora Biosca.\n\nDefunció: el 20 de maig de 1824 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

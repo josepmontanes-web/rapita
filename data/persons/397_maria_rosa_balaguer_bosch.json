@@ -1,0 +1,74 @@
+{
+  "id": "397_maria_rosa_balaguer_bosch",
+  "source_id": "397",
+  "row_ref": "397. Maria Rosa Balaguer Bosch",
+  "name": "Maria Rosa Balaguer Bosch",
+  "gender": "female",
+  "birth": {
+    "date": "1836-02-26",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "450_juan_bautista_balague_navarro",
+      "818_francisca_bosch_torta"
+    ],
+    "father": "450_juan_bautista_balague_navarro",
+    "mother": "818_francisca_bosch_torta",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Bautista Balagué Navarro",
+      "Francisca Bosch Torta"
+    ],
+    "father_name": "Juan Bautista Balaguer Navarro",
+    "mother_name": "Francisca Bosch Torta",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Juan Jayme Balagué",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 26 de febrer de 1836 a la Ràpita.\n\nPadrins: Juan Jayme Balagué i Lucia Navarro. Los padrins son los iaios.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

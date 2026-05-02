@@ -1,0 +1,74 @@
+{
+  "id": "3030_maria_ana_lopez_rullo",
+  "source_id": "3030",
+  "row_ref": "3030. María Ana López Rullo",
+  "name": "María Ana López Rullo",
+  "gender": "female",
+  "birth": {
+    "date": "1830-07-19",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3038_juan_lopez_segarra",
+      "4585_teresa_rullo_borras"
+    ],
+    "father": "3038_juan_lopez_segarra",
+    "mother": "4585_teresa_rullo_borras",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan López Segarra",
+      "Teresa Rullo Borràs"
+    ],
+    "father_name": "Juan López Segarra",
+    "mother_name": "Teresa Rullo Borràs",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "José Escardó",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 19 de juliol de 1830 a la Ràpita.\n\nPadrins: José Escardó i María Ana Cachot.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "1372_bautista_cera",
+  "source_id": "1372",
+  "row_ref": "1372. Bautista Cera",
+  "name": "Bautista Cera",
+  "gender": "male",
+  "birth": {
+    "date": "1841-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1845-10-01",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1372_bautista_cera"
+    ],
+    "father": "1372_bautista_cera",
+    "mother": null,
+    "spouse": [],
+    "children": [
+      "1372_bautista_cera"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Cera"
+    ],
+    "father_name": "Bautista Cera",
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [
+      "Bautista Cera"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1841].\n\nDefunció: l'1 d'octubre de 1845 a la Ràpita. Va morir als 4 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "3433_alejandro_rafael_miro_jovani",
+  "source_id": "3433",
+  "row_ref": "3433. Alejandro Rafael Miró Jovani",
+  "name": "Alejandro Rafael Miró Jovani",
+  "gender": "male",
+  "birth": {
+    "date": "1827-10-22",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3438_juan_miro_sole",
+      "2874_rosa_jovani_grau"
+    ],
+    "father": "3438_juan_miro_sole",
+    "mother": "2874_rosa_jovani_grau",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Miró Solé",
+      "Rosa Jovani Grau"
+    ],
+    "father_name": "Juan Miró Soler",
+    "mother_name": "Rosa Jovani Grau",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Alejandro Montserrat",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 22 d'octubre de 1827 a la Ràpita.\n\nPadrins: Alejandro Montserrat i Rafaela Verge.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

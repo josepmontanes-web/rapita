@@ -1,0 +1,73 @@
+{
+  "id": "647_safarino_vicente_beltran_thomas",
+  "source_id": "647",
+  "row_ref": "647. Safarino Vicente Beltran Thomas",
+  "name": "Safarino Vicente Beltran Thomas",
+  "gender": "male",
+  "birth": {
+    "date": "1817-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1820-07-14",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "621_vicente_beltran_masdeu"
+    ],
+    "father": "621_vicente_beltran_masdeu",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Vicente Beltran Masdeu",
+      "Maria Josefa Thomas"
+    ],
+    "father_name": "Vicente Beltràn Masdeu",
+    "mother_name": "Maria Josefa Thomas",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1817].\n\nDefunció: el 14 de juliol de 1820 a la Ràpita. Va morir als 3 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "4638_pedro_safont_pasqual",
+  "source_id": "4638",
+  "row_ref": "4638. Pedro Safont Pasqual",
+  "name": "Pedro Safont Pasqual",
+  "gender": "male",
+  "birth": {
+    "date": "1817-01-24",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4640_jose_safont_pla",
+      "3824_mariana_pascual_fuster"
+    ],
+    "father": "4640_jose_safont_pla",
+    "mother": "3824_mariana_pascual_fuster",
+    "spouse": [
+      "3577_rosa_munoz_thomas"
+    ],
+    "children": [
+      "4633_carmen_safont_munoz",
+      "4634_luisa_safont_munoz"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "José Safont Pla",
+      "Mariana Pascual Fuster"
+    ],
+    "father_name": "José Safont Pla",
+    "mother_name": "Mariana Pascual Fuster",
+    "spouse_names": [
+      "Rosa Muñoz Thomas"
+    ],
+    "children_names": [
+      "Carmen Safont Muñoz",
+      "Luísa Safont Muñoz"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Palíco Cha de Reusa",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 24 de gener de 1817 a la Ràpita.\n\nPadrins: Palíco Cha de Reusa i Francisca Antonia Clar de Vinaròs.\n\nCasament: amb Rosa Muñóz Thomas de la Ràpita [1819].\n\nFills: Carmen [1840] i Luísa [1842].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "1153_agustin_castells",
+  "source_id": "1153",
+  "row_ref": "1153. Agustín Castells",
+  "name": "Agustín Castells",
+  "gender": "male",
+  "birth": {
+    "date": "1775-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1836-12-20",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1156_gabriel_castells_castell"
+    ],
+    "father": "1156_gabriel_castells_castell",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Gabriel Castells Castell"
+    ],
+    "father_name": "Gabriel Castells",
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1775].\n\nDefunció: el 20 de desembre de 1836 a la Ràpita. Era veí de la Ribera.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

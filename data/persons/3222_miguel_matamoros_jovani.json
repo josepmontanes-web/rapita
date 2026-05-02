@@ -1,0 +1,74 @@
+{
+  "id": "3222_miguel_matamoros_jovani",
+  "source_id": "3222",
+  "row_ref": "3222. Miguel Matamoros Jovani",
+  "name": "Miguel Matamoros Jovani",
+  "gender": "male",
+  "birth": {
+    "date": "1842-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1844-02-17",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3264_jacinto_matamoros_reverter",
+      "2872_dolores_jovani_grau"
+    ],
+    "father": "3264_jacinto_matamoros_reverter",
+    "mother": "2872_dolores_jovani_grau",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Jacinto Matamoros Reverter",
+      "Dolores Jovani Grau"
+    ],
+    "father_name": "Jacinto Matamoros Reverter",
+    "mother_name": "Dolores Jovani Grau",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1842]. \n\nDefunció: el 17 de febrer de 1844 a la Ràpita. Va morir pàrvul als 2 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

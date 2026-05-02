@@ -1,0 +1,73 @@
+{
+  "id": "4381_jose_francisco_reverter_torta",
+  "source_id": "4381",
+  "row_ref": "4381. José Francisco Reverter Torta",
+  "name": "José Francisco Reverter Torta",
+  "gender": "male",
+  "birth": {
+    "date": "1839-04-17",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1846-05-19",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "4307_mateo_reverter_obiol"
+    ],
+    "father": "4307_mateo_reverter_obiol",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Mateo Reverter Obiol",
+      "Josefa Torta Subirats"
+    ],
+    "father_name": "Mateo Reverter Obiol",
+    "mother_name": "Josefa Torta Subirats",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Francisco Mauri",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 17 d'abril de 1839 a la Ràpita.\n\nPadrins: Francisco Mauri i Luísa Subirats.\n\nDefunció: el 19 de maig de 1846 a la Ràpita. \"Murió ayer a la una de la tarde ahogado en la cisterna o algive de la casa de campo llamada de Fabra, tno. de ésta de S. Carlos\".",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

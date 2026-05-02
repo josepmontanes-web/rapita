@@ -1,0 +1,76 @@
+{
+  "id": "2618_francisco_gombau",
+  "source_id": "2618",
+  "row_ref": "2618. Francisco Gombau",
+  "name": "Francisco Gombau",
+  "gender": "male",
+  "birth": {
+    "date": "1770-01-01",
+    "place": "Vinaroz"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3755_magdalena_oriol"
+    ],
+    "children": [
+      "2623_jose_gombau_cardona"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [
+      "Magdalena Oriol"
+    ],
+    "children_names": [
+      "José Gombau Cardona"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Vinaròs [aprox. 1770].\n\nEs veí de Vinaròs.\n\nCasament: el 29 de juliol de 1799 amb Magdalena Oriol.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

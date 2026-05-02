@@ -1,0 +1,68 @@
+{
+  "id": "2329_cinta_garcia_gasparin",
+  "source_id": "2329",
+  "row_ref": "2329. Cinta García Gasparín",
+  "name": "Cinta García Gasparín",
+  "gender": "female",
+  "birth": {
+    "date": "1857-01-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a la Ràpita [aprox. 1857].\n\nCasament: el 7 de setembre de 1873 amb Mariano Castellà Obiol de la Ràpita [1847]. Es casa als 17 anys.\n\nFills: José [1877], Dolores Mercedes Cinta [1879] i Ismael [1881].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

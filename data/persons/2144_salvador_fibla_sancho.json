@@ -1,0 +1,78 @@
+{
+  "id": "2144_salvador_fibla_sancho",
+  "source_id": "2144",
+  "row_ref": "2144. Salvador Fibla Sancho",
+  "name": "Salvador Fibla Sancho",
+  "gender": "male",
+  "birth": {
+    "date": "1835-03-11",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2138_juan_fibla_querol",
+      "4944_paula_sancho_subirats"
+    ],
+    "father": "2138_juan_fibla_querol",
+    "mother": "4944_paula_sancho_subirats",
+    "spouse": [],
+    "children": [
+      "4923_salvador_sancho_reverter"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Fibla Querol",
+      "Paula Sancho Subirats"
+    ],
+    "father_name": "Juan Fibla Querol",
+    "mother_name": "Paula Sancho Subirats",
+    "spouse_names": [],
+    "children_names": [
+      "Salvador Sancho Reverter"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Salvador Guzman",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'11 de març de 1835 a la Ràpita.\n\nPadrins: Salvador Guzmán i Vicenta Beltran.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

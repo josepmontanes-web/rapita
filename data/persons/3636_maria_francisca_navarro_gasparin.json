@@ -1,0 +1,74 @@
+{
+  "id": "3636_maria_francisca_navarro_gasparin",
+  "source_id": "3636",
+  "row_ref": "3636. María Francisca Navarro Gasparín",
+  "name": "María Francisca Navarro Gasparín",
+  "gender": "female",
+  "birth": {
+    "date": "1842-01-01",
+    "place": null
+  },
+  "death": {
+    "date": "1844-08-20",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3601_pedro_navarro_balaguer",
+      "2422_francisca_gasparin_gombau"
+    ],
+    "father": "3601_pedro_navarro_balaguer",
+    "mother": "2422_francisca_gasparin_gombau",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Pedro Navarro Balaguer",
+      "Francisca Gasparín Gombau"
+    ],
+    "father_name": "Pedro Navarro Balaguer",
+    "mother_name": "Francisca Gasparín Gombau",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1842]. \n\nDefunció: el 20 d'agost de 1844 a la Ràpita. Va morir als 2 anys.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

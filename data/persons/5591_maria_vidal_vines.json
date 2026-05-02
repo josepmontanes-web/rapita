@@ -1,0 +1,92 @@
+{
+  "id": "5591_maria_vidal_vines",
+  "source_id": "5591",
+  "row_ref": "5591. Maria Vidal Viñes",
+  "name": "Maria Vidal Viñes",
+  "gender": "female",
+  "birth": {
+    "date": "1800-01-01",
+    "place": "Cervera del Maestrat"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5539_bautista_vidal_palos",
+      "5614_josefa_vines"
+    ],
+    "father": "5539_bautista_vidal_palos",
+    "mother": "5614_josefa_vines",
+    "spouse": [
+      "4299_juan_reverter_matamoros"
+    ],
+    "children": [
+      "4390_francisco_carlos_reverter_vidal",
+      "4391_maria_cinta_reverter_vidal",
+      "4392_juana_reverte_vidal",
+      "4393_juan_reverter_vidal",
+      "4394_joaquina_reverter_vidal",
+      "4395_jose_vicente_reverter_vidal"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Bautista Vidal Palos",
+      "Josefa Viñes"
+    ],
+    "father_name": "Bautista Vidal",
+    "mother_name": "Josefa Viñes",
+    "spouse_names": [
+      "Juan Reverter Matamoros"
+    ],
+    "children_names": [
+      "Francisco Carlos Reverter Vidal",
+      "María Cinta Reverter Vidal",
+      "Juana Reverté Vidal",
+      "Juan Reverter Vidal",
+      "Joaquina Reverter Vidal",
+      "José Vicente Reverter Vidal"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Cervera del Maestrat [aprox. 1800].\n\nCasament: amb Juan Reverter Matamoros d'Alcanar [1788].\n\nFills: Juana [1825], Joaquina [1830], Juan [1833], María Cinta [1837], Francisco Carlos [1837] i José Vicente [1842].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

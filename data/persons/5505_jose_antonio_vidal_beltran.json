@@ -1,0 +1,74 @@
+{
+  "id": "5505_jose_antonio_vidal_beltran",
+  "source_id": "5505",
+  "row_ref": "5505. José Antonio Vidal Beltran",
+  "name": "José Antonio Vidal Beltran",
+  "gender": "male",
+  "birth": {
+    "date": "1809-05-25",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1809-05-29",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5535_francisco_vidal_palos",
+      "637_juana_beltran_sancho"
+    ],
+    "father": "5535_francisco_vidal_palos",
+    "mother": "637_juana_beltran_sancho",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Francisco Vidal Palos",
+      "Juana Beltran Sancho"
+    ],
+    "father_name": "Francisco Vidal Palos",
+    "mother_name": "Juana Beltran Sancho",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Josef Vidal",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 25 de maig de 1809 a la Ràpita.\n\nPadrins: José Vidal i Francisca Vidal.\n\nDefunció: el 29 de maig de 1809 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

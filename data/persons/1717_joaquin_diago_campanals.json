@@ -1,0 +1,87 @@
+{
+  "id": "1717_joaquin_diago_campanals",
+  "source_id": "1717",
+  "row_ref": "1717. Joaquín Diago Campanals",
+  "name": "Joaquín Diago Campanals",
+  "gender": "male",
+  "birth": {
+    "date": "1773-01-01",
+    "place": "Maella"
+  },
+  "death": {
+    "date": "1833-03-10",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "1716_antonio_diago"
+    ],
+    "father": "1716_antonio_diago",
+    "mother": null,
+    "spouse": [
+      "3339_agustina_michavila_bayerri"
+    ],
+    "children": [
+      "1729_carlos_diago_michavila",
+      "1730_manuela_diago_michavila",
+      "1731_francisco_mariano_diago_mijavila",
+      "1732_francisco_diago_michavila"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Diago",
+      "Bàrbara Campanals Gallura"
+    ],
+    "father_name": "Antonio Diago",
+    "mother_name": "Bàrbara Campanals Gallura",
+    "spouse_names": [
+      "Agustina Michavila Bayerri"
+    ],
+    "children_names": [
+      "Carlos Diago Michavila",
+      "Manuela Diago Michavila",
+      "Francisco Mariano Diago Mijavila",
+      "Francisco Diago Michavila"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": "Pagès"
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Maella [aprox. 1773].\n\nAl novembre de 1783 diu que els nois Joaquín, Pablo i Pasqual Diago treballen al camí veinal de l'horta que formen el \"Bonbado\" amb les \"Pelusas\". (ACA BGRP caixa 46).\n\nProfessió: pagès.\n\nCasament: amb Agustina Michavila Bayerri de Traiguera [1769].\n\nFills: Carlos [1791], Manuela [1795], Francisco [1797] i Francisco Mariano [1804].\n\nA l'estat de veïns de la Població de San Carlos a 1 de setembre de 1798 consta que viu al carrer davant el canal i l'horta  (ACA BGRP Cajas 34).\n\nAl gener de 1799 paga un lloguer de 4 Rv per la casa núm. 10 de la mansana vella (ACA BGRP caixa 34).\n\nDefunció: el 10 de març de 1833 a la Ràpita. Va morir als 60 anys. No fa testament.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "529_rosa_barrera_sancho",
+  "source_id": "529",
+  "row_ref": "529. Rosa Barrera Sancho",
+  "name": "Rosa Barrera Sancho",
+  "gender": "female",
+  "birth": {
+    "date": "1815-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "513_manuel_barrera",
+      "4828_josefa_sancho"
+    ],
+    "father": "513_manuel_barrera",
+    "mother": "4828_josefa_sancho",
+    "spouse": [],
+    "children": [
+      "4720_agustina_sanchez_barrera"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Manuel Barrera",
+      "Josefa Sancho"
+    ],
+    "father_name": "Manuel Barrera",
+    "mother_name": "Josefa Sancho",
+    "spouse_names": [
+      "Joaquín Fibla",
+      "José Sánchez Sanjuan"
+    ],
+    "children_names": [
+      "Agustina Sánchez Barrera"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement:  a Alcanar [aprox. 1815].\n\nCasament: amb Joaquín Fibla.\n\nCasament: el 13 d'abril de 1841 amb José Sánchez Sanjuan de la Ràpita [1807].\n\nFills: Agustina [1842], Madalena [1843], Miguel [1847] i Rosa [1853].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "5088_antonio_segarra_zaragoza",
+  "source_id": "5088",
+  "row_ref": "5088. Antonio Segarra Zaragoza",
+  "name": "Antonio Segarra Zaragoza",
+  "gender": "male",
+  "birth": {
+    "date": "1812-12-21",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "5046_juan_segarra_bel",
+      "5654_antonia_zaragoza_carbo"
+    ],
+    "father": "5046_juan_segarra_bel",
+    "mother": "5654_antonia_zaragoza_carbo",
+    "spouse": [
+      "2712_lorenza_guardia_bort"
+    ],
+    "children": [
+      "5054_pablo_segarra_guardia",
+      "5055_juan_segarra_guardia"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Segarra Bel",
+      "Antonia Zaragoza Carbó"
+    ],
+    "father_name": "Juan Segarra Bel",
+    "mother_name": "Antonia Zaragoza Carbó",
+    "spouse_names": [
+      "Lorenza Guardia Bort"
+    ],
+    "children_names": [
+      "Pablo Segarra Guardia",
+      "Juan Segarra Guardia"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Agustín Fornesa",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 21 de desembre de 1812 a la Ràpita. A la partida de bateig el nom es Thomas Agustín Genaro.\n\nPadrins: Don Agustín Fornesa i Genara Fornesa.\n\nCasament: el 4 de desembre de 1830 amb Lorenza Guardia Bort de la Ràpita [1814].\n\nFills: Pablo [1832], Juan [1834], Ramona Bibiana [1837], María [1840], María de la Cinta [1842], Engracia [1850], Francisco [1852] i Francisca [1856].",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

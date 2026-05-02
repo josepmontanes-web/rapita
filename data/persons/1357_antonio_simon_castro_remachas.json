@@ -1,0 +1,68 @@
+{
+  "id": "1357_antonio_simon_castro_remachas",
+  "source_id": "1357",
+  "row_ref": "1357. Antonio Simón Castro Remachas",
+  "name": "Antonio Simón Castro Remachas",
+  "gender": "male",
+  "birth": {
+    "date": "1859-01-01",
+    "place": "Zaragoza"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Zaragoza [aprox. 1859].\n\nProfessió: farmaceutic.\n\nCasament: el 30 de maig de 1881 amb María de los Angeles Calpe Goday de la Ràpita [1862]. Es casa als 22 anys.\n\nFills: Antonio, Francisca i Angeles.\n\nDefunció: el 13 de gener de 1941 a la Ràpita als 81 anys. Va viure al carrer Pi i Maragall (carrer del Rampant, avui del Pilar). Jutge municipal 1912-1915.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

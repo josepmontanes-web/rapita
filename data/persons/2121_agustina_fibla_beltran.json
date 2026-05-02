@@ -1,0 +1,81 @@
+{
+  "id": "2121_agustina_fibla_beltran",
+  "source_id": "2121",
+  "row_ref": "2121. Agustina Fibla Beltran",
+  "name": "Agustina Fibla Beltran",
+  "gender": "female",
+  "birth": {
+    "date": "1775-01-01",
+    "place": "Alcanar"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [
+      "3380_jose_miguel_querol"
+    ],
+    "children": [
+      "3376_maria_de_los_dolores_miguel_fibla",
+      "3377_casilda_miguel_fibla"
+    ],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan Fibla",
+      "Raymunda Beltran"
+    ],
+    "father_name": "Juan Fibla",
+    "mother_name": "Raymunda Beltran",
+    "spouse_names": [
+      "José Miguel Querol"
+    ],
+    "children_names": [
+      "María de los Dolores Miguel Fibla",
+      "Casilda Miguel Fibla"
+    ],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: a Alcanar [aprox. 1775].\n\nCasament: amb José Miguel Querol d'Alcanar [1776] (Miguel es el primer cognom). Viuen al Codonyol.\n\nFills: Juan [1811], Casilda [1820] i María de los Dolores [1822].\n\nPodria ser germana de Josefa Fibla [1770] però no es segur.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

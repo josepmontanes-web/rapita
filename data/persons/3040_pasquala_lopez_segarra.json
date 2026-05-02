@@ -1,0 +1,74 @@
+{
+  "id": "3040_pasquala_lopez_segarra",
+  "source_id": "3040",
+  "row_ref": "3040. Pasquala López Segarra",
+  "name": "Pasquala López Segarra",
+  "gender": "female",
+  "birth": {
+    "date": "1809-11-05",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": "1810-11-03",
+    "place": "la Ràpita"
+  },
+  "status": {
+    "alive": false
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "2996_juan_lopez_flores",
+      "5045_maria_segarra_bel"
+    ],
+    "father": "2996_juan_lopez_flores",
+    "mother": "5045_maria_segarra_bel",
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Juan López Flores",
+      "María Segarra Bel"
+    ],
+    "father_name": "Juan López Flores",
+    "mother_name": "María Segarra Bel",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Josef Agustín Casajust",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: el 5 de novembre de 1809 a la Ràpita.\n\nPadrins: José Agustín Casajust i Isabel López.\n\nDefunció: el 3 de novembre de 1810 a la Ràpita.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

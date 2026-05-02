@@ -1,0 +1,68 @@
+{
+  "id": "343_dolores_balada_fumado",
+  "source_id": "343",
+  "row_ref": "343. Dolores Balada Fumadó",
+  "name": "Dolores Balada Fumadó",
+  "gender": "female",
+  "birth": {
+    "date": "1877-01-01",
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [],
+    "father": null,
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [],
+    "father_name": null,
+    "mother_name": null,
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: [aprox. 1877].\n\nDefunció: el 14 de març de 1877 a la Ràpita als 2 mesos de tos ferina. Declara la mor al registre civil la seua tia Teresa Porres.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "2061_delfina_antonia_ferre_martinez",
+  "source_id": "2061",
+  "row_ref": "2061. Delfina Antonia Ferré Martínez",
+  "name": "Delfina Antonia Ferré Martínez",
+  "gender": "female",
+  "birth": {
+    "date": "1825-03-01",
+    "place": "la Ràpita"
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "status": {
+    "alive": null
+  },
+  "location": {
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  "family": {
+    "parents": [
+      "3591_antonio_nadal_ferre"
+    ],
+    "father": "3591_antonio_nadal_ferre",
+    "mother": null,
+    "spouse": [],
+    "children": [],
+    "grandparents": {
+      "paternal_grandfather": null,
+      "paternal_grandmother": null,
+      "maternal_grandfather": null,
+      "maternal_grandmother": null
+    },
+    "godparents": {
+      "godfather": null,
+      "godmother": null
+    }
+  },
+  "relations_detail": {
+    "parents_names": [
+      "Antonio Nadal Ferré",
+      "Maria Martínez Franquet"
+    ],
+    "father_name": "Antonio Ferré Lluís",
+    "mother_name": "Maria Martínez Franquet",
+    "spouse_names": [],
+    "children_names": [],
+    "grandparents_names": {
+      "paternal_grandfather": "",
+      "paternal_grandmother": "",
+      "maternal_grandfather": "",
+      "maternal_grandmother": ""
+    },
+    "godparents_names": {
+      "godfather": "Don Antonio Bros",
+      "godmother": null
+    }
+  },
+  "occupation": {
+    "title": null
+  },
+  "education": [],
+  "contact": {},
+  "photo": "",
+  "notes": "Naixement: l'1 de març de 1825 a la Ràpita.\n\nPadrins: Don Antonio Bros i Doña Francisca Vives.",
+  "genogram": {
+    "nodes": [],
+    "links": []
+  }
+}
