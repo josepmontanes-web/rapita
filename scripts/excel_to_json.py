@@ -1,5 +1,6 @@
 import json
 import re
+import shutil
 import unicodedata
 from collections import defaultdict
 from pathlib import Path
@@ -11,8 +12,6 @@ ROOT = Path(__file__).resolve().parents[1]
 CSV_PATH = ROOT / "data" / "Cens CSV.csv"
 OUTPUT_DIR = ROOT / "data" / "persons"
 INDEX_PATH = ROOT / "data" / "index.json"
-
-OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 
 # =========================
@@ -99,13 +98,10 @@ def full_name(nom, cognoms):
 
     if nom and cognoms:
         return f"{nom} {cognoms}"
-
     if nom:
         return nom
-
     if cognoms:
         return cognoms
-
     return None
 
 
@@ -130,95 +126,38 @@ def unique_preserve_order(values):
 # =========================
 
 COLUMN_ALIASES = {
-    "row_ref": [
-        "ID", "id", "IDPersona", "persona", "Persona"
-    ],
-    "nom": [
-        "NOM", "Nom", "nombre", "Nombre"
-    ],
-    "cognoms": [
-        "COGNOMS", "Cognoms", "Apellidos", "apellidos", "cognom"
-    ],
-    "nom_complet": [
-        "NOM_COMPLET", "Nom complet", "Nombre completo"
-    ],
-    "data_neix": [
-        "DATA_NEIX", "Data naixement", "Fecha nacimiento", "Any naix", "Any_naix"
-    ],
-    "lloc_neix": [
-        "LLOC_NEIX", "Lugar Nacimiento", "Lloc naixement", "Lugar nacimiento"
-    ],
-    "sexe": [
-        "SEXE", "Sexo", "Sexe"
-    ],
-    "data_mort": [
-        "MORT", "DATA_MORT", "Data mort", "Fecha muerte"
-    ],
-    "lloc_mort": [
-        "LLOC_MORT", "LLOC", "Lugar muerte", "Lloc mort"
-    ],
-    "professio": [
-        "PROFESSIÓ", "PROFESSIO", "Professió", "Professio", "T4PROFESSI"
-    ],
-    "texte": [
-        "TEXTE", "Texto", "Text", "OBSERVAC_1", "Observacions"
-    ],
+    "row_ref": ["ID", "id", "IDPersona", "persona", "Persona"],
+    "nom": ["NOM", "Nom", "nombre", "Nombre"],
+    "cognoms": ["COGNOMS", "Cognoms", "Apellidos", "apellidos", "cognom"],
+    "nom_complet": ["NOM_COMPLET", "Nom complet", "Nombre completo"],
+    "data_neix": ["DATA_NEIX", "Data naixement", "Fecha nacimiento", "Any naix", "Any_naix"],
+    "lloc_neix": ["LLOC_NEIX", "Lugar Nacimiento", "Lloc naixement", "Lugar nacimiento"],
+    "sexe": ["SEXE", "Sexo", "Sexe"],
+    "data_mort": ["MORT", "DATA_MORT", "Data mort", "Fecha muerte"],
+    "lloc_mort": ["LLOC_MORT", "LLOC", "Lugar muerte", "Lloc mort"],
+    "professio": ["PROFESSIÓ", "PROFESSIO", "Professió", "Professio", "T4PROFESSI"],
+    "texte": ["TEXTE", "Texto", "Text", "OBSERVAC_1", "Observacions"],
 
-    # Padres
-    "id_pare": [
-        "ID Padre", "ID Pare", "IDPare", "ID_PARE", "PareID"
-    ],
-    "nom_pare": [
-        "NOM_PARE", "Nom pare"
-    ],
-    "cognom_pare": [
-        "COGNOMPARE", "COGNOM_PARE", "Cognom pare"
-    ],
-    "id_mare": [
-        "ID Madre", "ID Mare", "IDMare", "ID_MARE", "MareID", "Madr"
-    ],
-    "nom_mare": [
-        "NOM_MARE", "Nom mare"
-    ],
-    "cognom_mare": [
-        "COGNOMMARE", "COGNOM_MARE", "Cognom mare"
-    ],
+    "id_pare": ["ID Padre", "ID Pare", "IDPare", "ID_PARE", "PareID"],
+    "nom_pare": ["NOM_PARE", "Nom pare"],
+    "cognom_pare": ["COGNOMPARE", "COGNOM_PARE", "Cognom pare"],
+    "id_mare": ["ID Madre", "ID Mare", "IDMare", "ID_MARE", "MareID", "Madr"],
+    "nom_mare": ["NOM_MARE", "Nom mare"],
+    "cognom_mare": ["COGNOMMARE", "COGNOM_MARE", "Cognom mare"],
 
-    # Abuelos
-    "id_avi_patern": [
-        "ID Abuelo paterno", "ID AVI PATERN", "ID_AVI_PATERN", "DAVI_PATERN"
-    ],
-    "id_avia_paterna": [
-        "ID Abuela paterna", "ID AVIA PATERNA", "ID_AVIA_PATERNA"
-    ],
-    "id_avi_matern": [
-        "ID Abuelo materno", "ID AVI MATERN", "ID_AVI_MATERN"
-    ],
-    "id_avia_materna": [
-        "ID Abuela materna", "ID AVIA MATERNA", "ID_AVIA_MATERNA"
-    ],
+    "id_avi_patern": ["ID Abuelo paterno", "ID AVI PATERN", "ID_AVI_PATERN", "DAVI_PATERN"],
+    "id_avia_paterna": ["ID Abuela paterna", "ID AVIA PATERNA", "ID_AVIA_PATERNA"],
+    "id_avi_matern": ["ID Abuelo materno", "ID AVI MATERN", "ID_AVI_MATERN"],
+    "id_avia_materna": ["ID Abuela materna", "ID AVIA MATERNA", "ID_AVIA_MATERNA"],
 
-    # Padrí / padrina
-    "id_padri": [
-        "ID PADRI", "ID Padrí", "ID Padri", "ID_PADRI"
-    ],
-    "nom_padri": [
-        "NOM_PADRI", "Nom padrí", "Nom padri"
-    ],
-    "cognom_padri": [
-        "COGNOM_PADRI", "COGN_PADRI", "COGN"
-    ],
-    "id_padrina": [
-        "ID PADRINA", "ID Padrina", "ID_P切DRINA", "ID_DRINA", "ID DRINA"
-    ],
-    "nom_padrina": [
-        "NOM_PADRINA", "Nom padrina"
-    ],
-    "cognom_padrina": [
-        "COGNOM_PADRINA", "COGN_PADRINA"
-    ],
+    "id_padri": ["ID PADRI", "ID Padrí", "ID Padri", "ID_PADRI"],
+    "nom_padri": ["NOM_PADRI", "Nom padrí", "Nom padri"],
+    "cognom_padri": ["COGNOM_PADRI", "COGN_PADRI", "COGN"],
 
-    # Cónyuges
+    "id_padrina": ["ID PADRINA", "ID Padrina", "ID_PADRINA", "ID_DRINA", "ID DRINA"],
+    "nom_padrina": ["NOM_PADRINA", "Nom padrina"],
+    "cognom_padrina": ["COGNOM_PADRINA", "COGN_PADRINA"],
+
     "nom_cas1": ["NOM_CAS1", "CAS1", "Nom cas1"],
     "cog_cas1": ["COG_CAS1", "COG CAS1", "Cognom cas1"],
     "nom_cas2": ["NOM_CAS2", "CAS2", "Nom cas2"],
@@ -226,10 +165,7 @@ COLUMN_ALIASES = {
     "nom_cas3": ["NOM_CAS3", "CAS3", "Nom cas3"],
     "cog_cas3": ["COG_CAS3", "COG CAS3", "Cognom cas3"],
 
-    # Hijos
-    "hijos": [
-        "Hijos", "Fills", "Fills:", "Fills::", "Hijos:"
-    ]
+    "hijos": ["Hijos", "Fills", "Fills:", "Fills::", "Hijos:"]
 }
 
 
@@ -437,8 +373,10 @@ def main():
 
     column_map = build_column_map(df)
 
-    for old_file in OUTPUT_DIR.glob("*.json"):
-        old_file.unlink()
+    if OUTPUT_DIR.exists():
+        shutil.rmtree(OUTPUT_DIR)
+
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
     people_rows = []
     children_by_parent_numeric = defaultdict(list)
@@ -487,6 +425,7 @@ def main():
             explicit_children_by_person_numeric[source_id_numeric].extend(explicit_children)
 
         spouse_names = []
+
         for n in [1, 2, 3]:
             s = spouse_name(row, column_map, n)
             if s:
@@ -645,7 +584,6 @@ def main():
         person["family"]["parents"] = unique_preserve_order(parent_ids)
         person["relations_detail"]["parents_names"] = unique_preserve_order(parent_names)
 
-        # Abuelos
         grandparent_map = {
             "paternal_grandfather": "raw_paternal_grandfather_ref",
             "paternal_grandmother": "raw_paternal_grandmother_ref",
@@ -664,7 +602,6 @@ def main():
                 person["family"]["grandparents"][target_key] = gp["id"]
                 person["relations_detail"]["grandparents_names"][target_key] = gp["name"]
 
-        # Padrí / padrina
         godfather = resolve_ref(
             person["_meta"]["raw_godfather_ref"],
             by_row_ref,
@@ -685,7 +622,6 @@ def main():
             person["family"]["godparents"]["godmother"] = godmother["id"]
             person["relations_detail"]["godparents_names"]["godmother"] = godmother["name"]
 
-        # Hijos: desde columnas de padres + columna Hijos
         child_ids = []
         child_names = []
 
@@ -705,7 +641,6 @@ def main():
         person["family"]["children"] = unique_preserve_order(child_ids)
         person["relations_detail"]["children_names"] = unique_preserve_order(child_names)
 
-        # Cónyuges
         person["family"]["spouse"] = resolve_spouse_ids(
             person["relations_detail"]["spouse_names"],
             by_name_norm,
@@ -718,13 +653,13 @@ def main():
     for person in people_rows:
         person.pop("_meta", None)
 
-     source_num = int(person["source_id"]) if str(person["source_id"]).isdigit() else 0
-bucket = f"{(source_num // 1000) * 1000:04d}"
+        source_num = int(person["source_id"]) if str(person["source_id"]).isdigit() else 0
+        bucket = f"{(source_num // 1000) * 1000:04d}"
 
-person_dir = OUTPUT_DIR / bucket
-person_dir.mkdir(parents=True, exist_ok=True)
+        person_dir = OUTPUT_DIR / bucket
+        person_dir.mkdir(parents=True, exist_ok=True)
 
-output_file = person_dir / f"{person['id']}.json"
+        output_file = person_dir / f"{person['id']}.json"
 
         with open(output_file, "w", encoding="utf-8") as f:
             json.dump(person, f, ensure_ascii=False, indent=2)
