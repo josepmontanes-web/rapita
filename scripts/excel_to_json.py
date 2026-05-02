@@ -84,17 +84,6 @@ def iso_date(value):
     return None
 
 
-def build_id(source_id, name):
-    source_id = clean(source_id)
-    normalized_name = normalize_text(name)
-
-    if source_id and normalized_name:
-        return f"{source_id}_{normalized_name}"
-    if source_id:
-        return source_id
-    return normalized_name
-
-
 def full_name(nom, cognoms):
     nom = clean(nom)
     cognoms = clean(cognoms)
@@ -139,34 +128,153 @@ def unique_preserve_order(values):
     return result
 
 
+def extract_numeric_source_id(value):
+    """
+    Extrae el número base de referencias del tipo:
+    '4826. Madalena Sancho' -> '4826'
+    '4826' -> '4826'
+    """
+    value = clean(value)
+    if not value:
+        return None
+
+    text = str(value).strip()
+
+    m = re.match(r"^(\d+)\s*\.", text)
+    if m:
+        return m.group(1)
+
+    m = re.match(r"^(\d+)$", text)
+    if m:
+        return m.group(1)
+
+    return None
+
+
+def build_json_id(source_id_numeric, name):
+    source_id_numeric = clean(source_id_numeric)
+    normalized_name = normalize_text(name)
+
+    if source_id_numeric and normalized_name:
+        return f"{source_id_numeric}_{normalized_name}"
+    if source_id_numeric:
+        return source_id_numeric
+    return normalized_name
+
+
+def get_first_column_name(df):
+    return df.columns[0]
+
+
+def get_row_ref(row, first_col_name):
+    """
+    Devuelve la referencia exacta de la primera columna.
+    Ejemplo: '4826. Madalena Sancho'
+    """
+    return clean(row.get(first_col_name))
+
+
+def pick_person_source_numeric(row, row_ref):
+    """
+    Prioridad:
+    1. número sacado de la primera columna exacta
+    2. IDPersona
+    """
+    source_num = extract_numeric_source_id(row_ref)
+    if source_num:
+        return source_num
+
+    source_num = extract_numeric_source_id(row.get("IDPersona"))
+    if source_num:
+        return source_num
+
+    raw = clean(row.get("IDPersona"))
+    return raw
+
+
 def build_name_index(people_rows):
-    """
-    Devuelve varios índices de nombre para intentar resolver relaciones.
-    """
     exact_index = defaultdict(list)
-    loose_index = defaultdict(list)
+    token_index = defaultdict(list)
 
     for person in people_rows:
-        person_id = person["id"]
+        person_json_id = person["id"]
         name = person["name"]
+        norm = normalize_text(name)
 
-        exact_index[normalize_text(name)].append(person_id)
+        if norm:
+            exact_index[norm].append(person_json_id)
 
-        tokens = normalize_text(name).split("_")
-        if len(tokens) >= 2:
-            loose_index["_".join(tokens[:2])].append(person_id)
+        tokens = norm.split("_")
+        for size in [1, 2, 3, 4]:
+            if len(tokens) >= size:
+                key = "_".join(tokens[:size])
+                token_index[key].append(person_json_id)
 
-        if len(tokens) >= 3:
-            loose_index["_".join(tokens[:3])].append(person_id)
-
-    return exact_index, loose_index
+    return exact_index, token_index
 
 
-def resolve_spouse_ids(spouse_names, exact_index, loose_index, current_person_id):
+def build_row_ref_indexes(people_rows):
     """
-    Intenta resolver el cónyuge por nombre.
-    Solo acepta coincidencia única.
+    Índices para resolver personas por:
+    - referencia exacta de primera columna
+    - número base
     """
+    by_row_ref = {}
+    by_numeric_source = {}
+    by_name_norm = defaultdict(list)
+
+    for person in people_rows:
+        row_ref = person["row_ref"]
+        source_id = person["source_id"]
+        name_norm = normalize_text(person["name"])
+
+        if row_ref:
+            by_row_ref[row_ref] = person
+
+        if source_id:
+            by_numeric_source[str(source_id)] = person
+
+        if name_norm:
+            by_name_norm[name_norm].append(person)
+
+    return by_row_ref, by_numeric_source, by_name_norm
+
+
+def resolve_person_by_any_reference(raw_value, by_row_ref, by_numeric_source):
+    """
+    Resuelve una persona si la celda contiene:
+    - referencia exacta: '4826. Madalena Sancho'
+    - número: '4826'
+    """
+    raw_value = clean(raw_value)
+    if not raw_value:
+        return None
+
+    if raw_value in by_row_ref:
+        return by_row_ref[raw_value]
+
+    numeric = extract_numeric_source_id(raw_value)
+    if numeric and numeric in by_numeric_source:
+        return by_numeric_source[numeric]
+
+    return None
+
+
+def resolve_person_by_name(raw_name, by_name_norm):
+    raw_name = clean(raw_name)
+    if not raw_name:
+        return None
+
+    norm = normalize_text(raw_name)
+    candidates = by_name_norm.get(norm, [])
+
+    if len(candidates) == 1:
+        return candidates[0]
+
+    return None
+
+
+def resolve_spouse_ids(spouse_names, exact_index, token_index, current_person_id):
     resolved_ids = []
 
     for spouse in spouse_names:
@@ -178,20 +286,12 @@ def resolve_spouse_ids(spouse_names, exact_index, loose_index, current_person_id
 
         if not candidates:
             tokens = norm.split("_")
-            if len(tokens) >= 2:
-                key2 = "_".join(tokens[:2])
-                candidates = loose_index.get(key2, [])
-
-        if not candidates:
-            tokens = norm.split("_")
-            if len(tokens) >= 1:
-                key1 = tokens[0]
-                # búsqueda más laxa: primer token incluido al inicio
-                partial = []
-                for k, ids in loose_index.items():
-                    if k.startswith(key1 + "_") or k == key1:
-                        partial.extend(ids)
-                candidates = partial
+            for size in [4, 3, 2, 1]:
+                if len(tokens) >= size:
+                    key = "_".join(tokens[:size])
+                    if key in token_index:
+                        candidates = token_index[key]
+                        break
 
         candidates = [c for c in unique_preserve_order(candidates) if c != current_person_id]
 
@@ -201,39 +301,82 @@ def resolve_spouse_ids(spouse_names, exact_index, loose_index, current_person_id
     return unique_preserve_order(resolved_ids)
 
 
+def extract_birth_place_from_text(text):
+    """
+    Solo para rellenar si LLOC_NEIX está vacío.
+    Patrones típicos:
+    - 'Naixement: a Freginals'
+    - 'Naixement: el 1760 a Alcanar'
+    """
+    text = clean(text)
+    if not text:
+        return None
+
+    patterns = [
+        r"Naixement:\s*(?:el\s+\d{1,2}[/-]\d{1,2}[/-]\d{2,4}\s+)?a\s+([A-ZÀ-ÿ][^.,;\n]+)",
+        r"Naixement:\s*(?:el\s+\d{4}\s+)?a\s+([A-ZÀ-ÿ][^.,;\n]+)",
+    ]
+
+    for pattern in patterns:
+        m = re.search(pattern, text, flags=re.IGNORECASE)
+        if m:
+            place = clean(m.group(1))
+            if place:
+                place = re.sub(r"\s+", " ", place).strip(" .,:;")
+                return place
+
+    return None
+
+
 def main():
     xls = pd.ExcelFile(EXCEL_PATH)
     sheet_name = guess_sheet_name(xls)
     df = pd.read_excel(EXCEL_PATH, sheet_name=sheet_name)
 
-    # Limpia JSON anteriores
+    first_col_name = get_first_column_name(df)
+
     for old_file in OUTPUT_DIR.glob("*.json"):
         old_file.unlink()
 
     people_rows = []
-    source_to_person = {}
-    children_by_parent_source = defaultdict(list)
+    children_by_parent_numeric = defaultdict(list)
 
-    # Primera pasada: crear estructura base e índices
+    # Primera pasada
     for _, row in df.iterrows():
-        source_id = clean(row.get("IDPersona"))
+        row_ref = get_row_ref(row, first_col_name)
         name = clean(row.get("NOM_COMPLET")) or full_name(row.get("NOM"), row.get("COGNOMS"))
 
-        if not source_id or not name:
+        if not row_ref and not name:
+            continue
+
+        source_id_numeric = pick_person_source_numeric(row, row_ref)
+
+        if not name:
+            # Si no hay nombre suelto, intentamos sacarlo de la primera columna
+            if row_ref and "." in row_ref:
+                maybe_name = row_ref.split(".", 1)[1].strip()
+                if maybe_name:
+                    name = maybe_name
+
+        if not source_id_numeric or not name:
             continue
 
         birth_raw = row.get("DATA_NEIX")
         death_raw = row.get("DATA_MORT")
+        notes = clean(row.get("TEXTE"))
 
-        person_id = build_id(source_id, name)
+        person_json_id = build_json_id(source_id_numeric, name)
 
-        father_source_id = clean(row.get("IDPare"))
-        mother_source_id = clean(row.get("IDMare"))
+        father_raw = clean(row.get("IDPare")) or clean(row.get("ID_PARE")) or clean(row.get("PareID"))
+        mother_raw = clean(row.get("IDMare")) or clean(row.get("ID_MARE")) or clean(row.get("MareID"))
 
-        if father_source_id:
-            children_by_parent_source[father_source_id].append(source_id)
-        if mother_source_id:
-            children_by_parent_source[mother_source_id].append(source_id)
+        father_numeric = extract_numeric_source_id(father_raw)
+        mother_numeric = extract_numeric_source_id(mother_raw)
+
+        if father_numeric:
+            children_by_parent_numeric[father_numeric].append(source_id_numeric)
+        if mother_numeric:
+            children_by_parent_numeric[mother_numeric].append(source_id_numeric)
 
         spouse_names = []
         for n in [1, 2, 3]:
@@ -242,14 +385,19 @@ def main():
                 spouse_names.append(s)
         spouse_names = unique_preserve_order(spouse_names)
 
+        birth_place = clean(row.get("LLOC_NEIX"))
+        if not birth_place:
+            birth_place = extract_birth_place_from_text(notes)
+
         person = {
-            "id": person_id,
-            "source_id": source_id,
+            "id": person_json_id,
+            "source_id": source_id_numeric,
+            "row_ref": row_ref,  # referencia exacta de la primera columna
             "name": name,
             "gender": normalize_gender(row.get("SEXE")),
             "birth": {
                 "date": iso_date(birth_raw),
-                "place": clean(row.get("LLOC_NEIX"))
+                "place": birth_place
             },
             "death": {
                 "date": iso_date(death_raw),
@@ -279,61 +427,84 @@ def main():
             "education": [],
             "contact": {},
             "photo": "",
-            "notes": clean(row.get("TEXTE")),
+            "notes": notes,
             "genogram": {
                 "nodes": [],
                 "links": []
             },
             "_meta": {
-                "father_source_id": father_source_id,
-                "mother_source_id": mother_source_id,
+                "raw_father_ref": father_raw,
+                "raw_mother_ref": mother_raw,
                 "raw_father_name": full_name(row.get("NOM_PARE"), row.get("COGNOMPARE")),
                 "raw_mother_name": full_name(row.get("NOM_MARE"), row.get("COGNOMMARE"))
             }
         }
 
         people_rows.append(person)
-        source_to_person[source_id] = person
 
-    # Índices de nombres para resolver cónyuges
-    exact_name_index, loose_name_index = build_name_index(people_rows)
+    # Índices
+    exact_name_index, token_name_index = build_name_index(people_rows)
+    by_row_ref, by_numeric_source, by_name_norm = build_row_ref_indexes(people_rows)
 
     # Segunda pasada: resolver relaciones
     for person in people_rows:
-        father_source_id = person["_meta"]["father_source_id"]
-        mother_source_id = person["_meta"]["mother_source_id"]
-
         parent_ids = []
         parent_names = []
 
-        if father_source_id and father_source_id in source_to_person:
-            father = source_to_person[father_source_id]
-            parent_ids.append(father["id"])
-            parent_names.append(father["name"])
+        # Padre
+        father_person = resolve_person_by_any_reference(
+            person["_meta"]["raw_father_ref"],
+            by_row_ref,
+            by_numeric_source
+        )
+
+        if not father_person:
+            father_person = resolve_person_by_name(
+                person["_meta"]["raw_father_name"],
+                by_name_norm
+            )
+
+        if father_person:
+            parent_ids.append(father_person["id"])
+            parent_names.append(father_person["name"])
         elif person["_meta"]["raw_father_name"]:
             parent_names.append(person["_meta"]["raw_father_name"])
 
-        if mother_source_id and mother_source_id in source_to_person:
-            mother = source_to_person[mother_source_id]
-            parent_ids.append(mother["id"])
-            parent_names.append(mother["name"])
+        # Madre
+        mother_person = resolve_person_by_any_reference(
+            person["_meta"]["raw_mother_ref"],
+            by_row_ref,
+            by_numeric_source
+        )
+
+        if not mother_person:
+            mother_person = resolve_person_by_name(
+                person["_meta"]["raw_mother_name"],
+                by_name_norm
+            )
+
+        if mother_person:
+            parent_ids.append(mother_person["id"])
+            parent_names.append(mother_person["name"])
         elif person["_meta"]["raw_mother_name"]:
             parent_names.append(person["_meta"]["raw_mother_name"])
 
-        child_source_ids = children_by_parent_source.get(person["source_id"], [])
+        # Hijos
         child_ids = []
         child_names = []
 
+        child_source_ids = children_by_parent_numeric.get(person["source_id"], [])
         for child_source_id in child_source_ids:
-            child = source_to_person.get(child_source_id)
+            child = by_numeric_source.get(str(child_source_id))
             if child:
                 child_ids.append(child["id"])
                 child_names.append(child["name"])
 
+        # Cónyuges
         spouse_ids = resolve_spouse_ids(
             person["relations_detail"]["spouse_names"],
             exact_name_index,
-            loose_name_index,
+            token_name_index,
             person["id"]
         )
 
@@ -344,7 +515,7 @@ def main():
         person["relations_detail"]["parents_names"] = unique_preserve_order(parent_names)
         person["relations_detail"]["children_names"] = unique_preserve_order(child_names)
 
-    # Escribir JSONs finales
+    # Escritura final
     index_entries = []
 
     for person in people_rows:
@@ -356,11 +527,13 @@ def main():
 
         index_entries.append({
             "id": person["id"],
+            "source_id": person["source_id"],
+            "row_ref": person["row_ref"],
             "name": person["name"],
             "file": f"data/persons/{person['id']}.json"
         })
 
-    index_entries.sort(key=lambda x: x["name"].lower())
+    index_entries.sort(key=lambda x: (str(x.get("source_id") or ""), x["name"].lower()))
 
     with open(INDEX_PATH, "w", encoding="utf-8") as f:
         json.dump(index_entries, f, ensure_ascii=False, indent=2)
