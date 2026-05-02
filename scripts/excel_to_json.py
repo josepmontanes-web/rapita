@@ -718,7 +718,13 @@ def main():
     for person in people_rows:
         person.pop("_meta", None)
 
-        output_file = OUTPUT_DIR / f"{person['id']}.json"
+     source_num = int(person["source_id"]) if str(person["source_id"]).isdigit() else 0
+bucket = f"{(source_num // 1000) * 1000:04d}"
+
+person_dir = OUTPUT_DIR / bucket
+person_dir.mkdir(parents=True, exist_ok=True)
+
+output_file = person_dir / f"{person['id']}.json"
 
         with open(output_file, "w", encoding="utf-8") as f:
             json.dump(person, f, ensure_ascii=False, indent=2)
@@ -728,7 +734,7 @@ def main():
             "source_id": person["source_id"],
             "row_ref": person["row_ref"],
             "name": person["name"],
-            "file": f"data/persons/{person['id']}.json"
+            "file": f"data/persons/{bucket}/{person['id']}.json"
         })
 
     index_entries.sort(
