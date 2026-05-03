@@ -22,14 +22,15 @@
   },
   "family": {
     "parents": [
-      "4307_mateo_reverter_obiol"
+      "4307_mateo_reverter_obiol",
+      "5390_josefa_torta_subirats"
     ],
     "father": "4307_mateo_reverter_obiol",
-    "mother": null,
+    "mother": "5390_josefa_torta_subirats",
     "spouse": [],
     "children": [],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "4173_jose_reverter",
       "paternal_grandmother": null,
       "maternal_grandfather": null,
       "maternal_grandmother": null
@@ -49,7 +50,7 @@
     "spouse_names": [],
     "children_names": [],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "José Reverter",
       "paternal_grandmother": "",
       "maternal_grandfather": "",
       "maternal_grandmother": ""

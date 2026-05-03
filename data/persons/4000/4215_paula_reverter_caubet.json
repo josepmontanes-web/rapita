@@ -30,10 +30,10 @@
     "spouse": [],
     "children": [],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "4173_jose_reverter",
       "paternal_grandmother": null,
       "maternal_grandfather": null,
-      "maternal_grandmother": null
+      "maternal_grandmother": "4446_tomasa_rodriguez"
     },
     "godparents": {
       "godfather": null,
@@ -50,10 +50,10 @@
     "spouse_names": [],
     "children_names": [],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "José Reverter",
       "paternal_grandmother": "",
       "maternal_grandfather": "",
-      "maternal_grandmother": ""
+      "maternal_grandmother": "Tomasa Rodriguez"
     },
     "godparents_names": {
       "godfather": "Pablo Gavarda",

@@ -22,19 +22,23 @@
   },
   "family": {
     "parents": [
+      "3793_felix_parra",
       "3791_rosa_pardo_pavia"
     ],
-    "father": null,
+    "father": "3793_felix_parra",
     "mother": "3791_rosa_pardo_pavia",
     "spouse": [
       "4854_josefa_sancho_biosca"
     ],
     "children": [
       "3791_rosa_pardo_pavia",
+      "3806_francisca_parra_sancho",
       "3807_toribio_parra_sancho",
       "3808_jose_agustin_parra_sancho",
       "3809_santiago_parra_sancho",
+      "3810_peregrin_parra_sancho",
       "3811_domingo_parra_sancho",
+      "3812_jose_parra_sancho",
       "3813_pedro_parra_valles"
     ],
     "grandparents": {
@@ -50,7 +54,7 @@
   },
   "relations_detail": {
     "parents_names": [
-      "Feliz Parra",
+      "Felix Parra",
       "Rosa Pardo Pavia"
     ],
     "father_name": "Feliz Parra",
@@ -60,10 +64,13 @@
     ],
     "children_names": [
       "Rosa Pardo Pavia",
+      "Francisca Parra Sancho",
       "Toribio Parra Sancho",
       "José Agustín Parra Sancho",
       "Santiago Parra Sancho",
+      "Peregrín Parra Sancho",
       "Domingo Parra Sancho",
+      "José Parra Sancho",
       "Pedro Parra Vallés"
     ],
     "grandparents_names": {

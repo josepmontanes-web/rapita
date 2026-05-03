@@ -35,7 +35,7 @@
       "5228_rafaela_talarn_biosca"
     ],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "5221_juan_talarn",
       "paternal_grandmother": null,
       "maternal_grandfather": null,
       "maternal_grandmother": null
@@ -60,7 +60,7 @@
       "Rafaela Talarn Biosca"
     ],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "Juan Talarn",
       "paternal_grandmother": "",
       "maternal_grandfather": "",
       "maternal_grandmother": ""

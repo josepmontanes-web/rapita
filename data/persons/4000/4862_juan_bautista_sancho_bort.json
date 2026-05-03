@@ -32,10 +32,10 @@
     ],
     "children": [],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "4833_jose_sancho",
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
-      "maternal_grandmother": null
+      "maternal_grandfather": "802_jose_bort",
+      "maternal_grandmother": "2933_magdalena_lleti"
     },
     "godparents": {
       "godfather": null,
@@ -54,10 +54,10 @@
     ],
     "children_names": [],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "José Sancho",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
-      "maternal_grandmother": ""
+      "maternal_grandfather": "José Bort",
+      "maternal_grandmother": "Magdalena Lletí"
     },
     "godparents_names": {
       "godfather": "Juan Segarra",

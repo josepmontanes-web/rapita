@@ -25,7 +25,10 @@
     "father": null,
     "mother": null,
     "spouse": [],
-    "children": [],
+    "children": [
+      "884_maria_burgues_beltri",
+      "885_joaquin_burgues_beltri"
+    ],
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
@@ -42,7 +45,10 @@
     "father_name": null,
     "mother_name": null,
     "spouse_names": [],
-    "children_names": [],
+    "children_names": [
+      "María Burgués Beltri",
+      "Joaquín Burgués Beltri"
+    ],
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",

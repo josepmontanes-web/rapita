@@ -30,9 +30,9 @@
     "spouse": [],
     "children": [],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "2979_jose_lopez",
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
+      "maternal_grandfather": "1990_pedro_ferran",
       "maternal_grandmother": null
     },
     "godparents": {
@@ -50,9 +50,9 @@
     "spouse_names": [],
     "children_names": [],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "José López",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
+      "maternal_grandfather": "Pedro Ferran",
       "maternal_grandmother": ""
     },
     "godparents_names": {

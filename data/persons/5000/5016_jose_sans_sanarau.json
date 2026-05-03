@@ -28,7 +28,14 @@
       "1152_mariana_castell_ortiz",
       "4581_maria_rubert"
     ],
-    "children": [],
+    "children": [
+      "4974_rosa_sans_castell",
+      "4975_juan_sans_castell",
+      "4976_francisco_sans_castell",
+      "4977_ramon_sans_castell",
+      "4978_francisca_sans_castell",
+      "4979_alexandro_sans_castell"
+    ],
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
@@ -51,7 +58,14 @@
       "Mariana Castell Ortiz",
       "Maria Rubert"
     ],
-    "children_names": [],
+    "children_names": [
+      "Rosa Sans Castell",
+      "Juan Sans Castell",
+      "Francisco Sans Castell",
+      "Ramón Sans Castell",
+      "Francisca Sans Castell",
+      "Alexandro Sans Castell"
+    ],
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",

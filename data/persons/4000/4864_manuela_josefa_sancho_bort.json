@@ -22,17 +22,18 @@
   },
   "family": {
     "parents": [
+      "4895_jose_sancho_gil",
       "805_agustina_bort_lleti"
     ],
-    "father": null,
+    "father": "4895_jose_sancho_gil",
     "mother": "805_agustina_bort_lleti",
     "spouse": [],
     "children": [],
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
-      "maternal_grandmother": null
+      "maternal_grandfather": "802_jose_bort",
+      "maternal_grandmother": "2933_magdalena_lleti"
     },
     "godparents": {
       "godfather": null,
@@ -41,7 +42,7 @@
   },
   "relations_detail": {
     "parents_names": [
-      "Josef Sancho Gil",
+      "José Sancho Gil",
       "Agustina Bort Lletí"
     ],
     "father_name": "Josef Sancho Gil",
@@ -51,8 +52,8 @@
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
-      "maternal_grandmother": ""
+      "maternal_grandfather": "José Bort",
+      "maternal_grandmother": "Magdalena Lletí"
     },
     "godparents_names": {
       "godfather": "Josef Guardia",

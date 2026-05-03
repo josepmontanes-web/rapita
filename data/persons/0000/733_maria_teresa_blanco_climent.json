@@ -29,7 +29,7 @@
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
+      "maternal_grandfather": "1512_joaquin_climent",
       "maternal_grandmother": null
     },
     "godparents": {
@@ -49,7 +49,7 @@
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
+      "maternal_grandfather": "Joaquín Climent",
       "maternal_grandmother": ""
     },
     "godparents_names": {

@@ -21,9 +21,11 @@
     "lng": null
   },
   "family": {
-    "parents": [],
+    "parents": [
+      "32_joaquina_adell_royo"
+    ],
     "father": null,
-    "mother": null,
+    "mother": "32_joaquina_adell_royo",
     "spouse": [],
     "children": [],
     "grandparents": {
@@ -38,9 +40,11 @@
     }
   },
   "relations_detail": {
-    "parents_names": [],
+    "parents_names": [
+      "Joaquina Adell Royo"
+    ],
     "father_name": null,
-    "mother_name": null,
+    "mother_name": "Joaquina Adell Royo",
     "spouse_names": [],
     "children_names": [],
     "grandparents_names": {

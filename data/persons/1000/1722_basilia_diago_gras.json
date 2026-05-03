@@ -22,10 +22,11 @@
   },
   "family": {
     "parents": [
-      "1719_pascual_diago_campanals"
+      "1719_pascual_diago_campanals",
+      "2673_maria_carmela_gras_gil"
     ],
     "father": "1719_pascual_diago_campanals",
-    "mother": null,
+    "mother": "2673_maria_carmela_gras_gil",
     "spouse": [
       "143_jayme_ano_arlandez"
     ],
@@ -37,10 +38,10 @@
       "151_teresa_ano_diago"
     ],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "1716_antonio_diago",
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
-      "maternal_grandmother": null
+      "maternal_grandfather": "2663_jose_gras",
+      "maternal_grandmother": "2515_maria_gil"
     },
     "godparents": {
       "godfather": null,
@@ -50,7 +51,7 @@
   "relations_detail": {
     "parents_names": [
       "Pascual Diago Campanals",
-      "Caramela Gras Gil"
+      "Maria Carmela Gras Gil"
     ],
     "father_name": "Pascual Diago Campanals",
     "mother_name": "Caramela Gras Gil",
@@ -65,10 +66,10 @@
       "Teresa Añó Diago"
     ],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "Antonio Diago",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
-      "maternal_grandmother": ""
+      "maternal_grandfather": "José Gras",
+      "maternal_grandmother": "María Gil"
     },
     "godparents_names": {
       "godfather": "Domingo Sans",

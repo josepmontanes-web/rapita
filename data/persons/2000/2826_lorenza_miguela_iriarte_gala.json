@@ -21,9 +21,11 @@
     "lng": null
   },
   "family": {
-    "parents": [],
+    "parents": [
+      "2274_tomasa_gala_pol"
+    ],
     "father": null,
-    "mother": null,
+    "mother": "2274_tomasa_gala_pol",
     "spouse": [],
     "children": [],
     "grandparents": {
@@ -40,7 +42,7 @@
   "relations_detail": {
     "parents_names": [
       "José Antonio Iriarte Gombau",
-      "Thomasa Gala Pol"
+      "Tomasa Gala Pol"
     ],
     "father_name": "José Antonio Iriarte Gombau",
     "mother_name": "Thomasa Gala Pol",

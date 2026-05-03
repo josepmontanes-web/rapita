@@ -22,10 +22,11 @@
   },
   "family": {
     "parents": [
-      "4658_jose_antonio_salomo_homedes"
+      "4658_jose_antonio_salomo_homedes",
+      "2786_candia_homedes"
     ],
     "father": "4658_jose_antonio_salomo_homedes",
-    "mother": null,
+    "mother": "2786_candia_homedes",
     "spouse": [],
     "children": [
       "4658_jose_antonio_salomo_homedes"

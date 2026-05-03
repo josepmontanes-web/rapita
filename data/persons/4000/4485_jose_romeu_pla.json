@@ -44,8 +44,8 @@
       "maternal_grandmother": null
     },
     "godparents": {
-      "godfather": null,
-      "godmother": null
+      "godfather": "2799_josef_huguet",
+      "godmother": "2697_maria_guardia"
     }
   },
   "relations_detail": {
@@ -74,7 +74,7 @@
     },
     "godparents_names": {
       "godfather": "Josef Huguet",
-      "godmother": null
+      "godmother": "María Guardia"
     }
   },
   "occupation": {

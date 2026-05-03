@@ -22,10 +22,11 @@
   },
   "family": {
     "parents": [
-      "4548_antonio_rosales_sole"
+      "4548_antonio_rosales_sole",
+      "5429_teresa_valls_peralta"
     ],
     "father": "4548_antonio_rosales_sole",
-    "mother": null,
+    "mother": "5429_teresa_valls_peralta",
     "spouse": [],
     "children": [],
     "grandparents": {
@@ -36,13 +37,13 @@
     },
     "godparents": {
       "godfather": null,
-      "godmother": null
+      "godmother": "1470_candida_cid"
     }
   },
   "relations_detail": {
     "parents_names": [
       "Antonio Rosales Solé",
-      "Teresa Valls"
+      "Teresa Valls Peralta"
     ],
     "father_name": "Antonio Rosales Solé",
     "mother_name": "Teresa Valls",
@@ -56,7 +57,7 @@
     },
     "godparents_names": {
       "godfather": null,
-      "godmother": null
+      "godmother": "Candida Cid"
     }
   },
   "occupation": {

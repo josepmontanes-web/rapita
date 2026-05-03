@@ -22,10 +22,11 @@
   },
   "family": {
     "parents": [
-      "1517_jose_clua_cid"
+      "1517_jose_clua_cid",
+      "2945_teresa_llombart_roig"
     ],
     "father": "1517_jose_clua_cid",
-    "mother": null,
+    "mother": "2945_teresa_llombart_roig",
     "spouse": [],
     "children": [],
     "grandparents": {
@@ -42,7 +43,7 @@
   "relations_detail": {
     "parents_names": [
       "José Clua Cid",
-      "Teresa Llombart Royo"
+      "Teresa Llombart Roig"
     ],
     "father_name": "José Clua Cid",
     "mother_name": "Teresa Llombart Royo",

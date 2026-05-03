@@ -22,10 +22,11 @@
   },
   "family": {
     "parents": [
-      "814_francisco_bosch_montanes"
+      "814_francisco_bosch_montanes",
+      "5390_josefa_torta_subirats"
     ],
     "father": "814_francisco_bosch_montanes",
-    "mother": null,
+    "mother": "5390_josefa_torta_subirats",
     "spouse": [
       "5169_bautista_sole_selasuela"
     ],

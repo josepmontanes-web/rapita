@@ -30,10 +30,10 @@
     "spouse": [],
     "children": [],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "3094_francisco_march",
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
-      "maternal_grandmother": null
+      "maternal_grandfather": "2978_manuel_lopez",
+      "maternal_grandmother": "1614_ana_costa"
     },
     "godparents": {
       "godfather": null,
@@ -50,10 +50,10 @@
     "spouse_names": [],
     "children_names": [],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "Francisco March",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
-      "maternal_grandmother": ""
+      "maternal_grandfather": "Manuel López",
+      "maternal_grandmother": "Ana Costa"
     },
     "godparents_names": {
       "godfather": "Estevan Chaler",

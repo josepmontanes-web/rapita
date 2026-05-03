@@ -22,9 +22,10 @@
   },
   "family": {
     "parents": [
+      "2238_agustin_fornesa_orri",
       "4031_ventura_prado_de_ulloa_munoz"
     ],
-    "father": null,
+    "father": "2238_agustin_fornesa_orri",
     "mother": "4031_ventura_prado_de_ulloa_munoz",
     "spouse": [
       "4166_jayme_ratto_bosco"
@@ -43,7 +44,7 @@
   },
   "relations_detail": {
     "parents_names": [
-      "D. Agustín Fornesa Orri",
+      "Agustín Fornesa Orri",
       "Ventura Prado de Ulloa Muñoz"
     ],
     "father_name": "D. Agustín Fornesa Orri",

@@ -36,8 +36,8 @@
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
-      "maternal_grandmother": null
+      "maternal_grandfather": "973_jose_capilla",
+      "maternal_grandmother": "3056_josefa_macian"
     },
     "godparents": {
       "godfather": null,
@@ -60,8 +60,8 @@
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
-      "maternal_grandmother": ""
+      "maternal_grandfather": "José Capilla",
+      "maternal_grandmother": "Josefa Macián"
     },
     "godparents_names": {
       "godfather": "Juan Aragones",

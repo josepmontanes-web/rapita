@@ -22,27 +22,28 @@
   },
   "family": {
     "parents": [
-      "2055_josef_ferrer_marin"
+      "2055_josef_ferrer_marin",
+      "5139_mariana_simon_sancho"
     ],
     "father": "2055_josef_ferrer_marin",
-    "mother": null,
+    "mother": "5139_mariana_simon_sancho",
     "spouse": [],
     "children": [],
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
       "maternal_grandfather": null,
-      "maternal_grandmother": null
+      "maternal_grandmother": "4831_manuela_sancho"
     },
     "godparents": {
       "godfather": null,
-      "godmother": null
+      "godmother": "1611_isabel_corch"
     }
   },
   "relations_detail": {
     "parents_names": [
       "Josef Ferrer Marín",
-      "María Ana Simón Sancho"
+      "Mariana Simón Sancho"
     ],
     "father_name": "Josef Ferré Marín",
     "mother_name": "María Ana Simón Sancho",
@@ -52,11 +53,11 @@
       "paternal_grandfather": "",
       "paternal_grandmother": "",
       "maternal_grandfather": "",
-      "maternal_grandmother": ""
+      "maternal_grandmother": "Manuela Sancho"
     },
     "godparents_names": {
       "godfather": null,
-      "godmother": null
+      "godmother": "Isabel Corch"
     }
   },
   "occupation": {

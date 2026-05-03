@@ -30,14 +30,14 @@
     "spouse": [],
     "children": [],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "3159_bautista_matamoros",
       "paternal_grandmother": null,
       "maternal_grandfather": null,
       "maternal_grandmother": null
     },
     "godparents": {
       "godfather": null,
-      "godmother": null
+      "godmother": "5183_josefa_subirats"
     }
   },
   "relations_detail": {
@@ -50,14 +50,14 @@
     "spouse_names": [],
     "children_names": [],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "Bautista Matamoros",
       "paternal_grandmother": "",
       "maternal_grandfather": "",
       "maternal_grandmother": ""
     },
     "godparents_names": {
       "godfather": "Antonio Vidal",
-      "godmother": null
+      "godmother": "Josefa Subirats"
     }
   },
   "occupation": {

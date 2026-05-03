@@ -22,9 +22,10 @@
   },
   "family": {
     "parents": [
+      "209_tomas_arbo_solsona",
       "99_francisca_angles_o_ingles_arnau"
     ],
-    "father": null,
+    "father": "209_tomas_arbo_solsona",
     "mother": "99_francisca_angles_o_ingles_arnau",
     "spouse": [],
     "children": [
@@ -40,13 +41,13 @@
       "maternal_grandmother": null
     },
     "godparents": {
-      "godfather": null,
-      "godmother": null
+      "godfather": "1046_francisco_cartes",
+      "godmother": "4581_maria_rubert"
     }
   },
   "relations_detail": {
     "parents_names": [
-      "Thomas Arbó Solsona",
+      "Tomás Arbó Solsona",
       "Francisca Anglés [o Inglés] Arnau"
     ],
     "father_name": "Thomas Arbó Solsona",
@@ -66,7 +67,7 @@
     },
     "godparents_names": {
       "godfather": "Francisco Cartes",
-      "godmother": null
+      "godmother": "María Rubert"
     }
   },
   "occupation": {

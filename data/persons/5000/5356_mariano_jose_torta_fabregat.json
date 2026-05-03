@@ -21,8 +21,10 @@
     "lng": null
   },
   "family": {
-    "parents": [],
-    "father": null,
+    "parents": [
+      "5360_jose_torta_llasa"
+    ],
+    "father": "5360_jose_torta_llasa",
     "mother": null,
     "spouse": [],
     "children": [],
@@ -39,7 +41,7 @@
   },
   "relations_detail": {
     "parents_names": [
-      "Josef Torta Llasa",
+      "José Torta Llasa",
       "Josefa Fabregat Mateu"
     ],
     "father_name": "Josef Torta Llasa",

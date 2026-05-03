@@ -22,10 +22,11 @@
   },
   "family": {
     "parents": [
-      "5312_antonio_torne_caudet"
+      "5312_antonio_torne_caudet",
+      "2694_maria_rosa_grego_omedes"
     ],
     "father": "5312_antonio_torne_caudet",
-    "mother": null,
+    "mother": "2694_maria_rosa_grego_omedes",
     "spouse": [],
     "children": [],
     "grandparents": {
@@ -42,7 +43,7 @@
   "relations_detail": {
     "parents_names": [
       "Antonio Torné Caudet",
-      "Maria Antonia Grego Omedes"
+      "María Rosa Grego Omedes"
     ],
     "father_name": "Antonio Torné Caudet",
     "mother_name": "Maria Antonia Grego Omedes",

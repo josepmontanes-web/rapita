@@ -27,7 +27,7 @@
     "spouse": [],
     "children": [],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "4832_bautista_sancho",
       "paternal_grandmother": null,
       "maternal_grandfather": null,
       "maternal_grandmother": null
@@ -47,7 +47,7 @@
     "spouse_names": [],
     "children_names": [],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "Bautista Sancho",
       "paternal_grandmother": "",
       "maternal_grandfather": "",
       "maternal_grandmother": ""

@@ -32,12 +32,15 @@
     ],
     "children": [
       "5054_pablo_segarra_guardia",
-      "5055_juan_segarra_guardia"
+      "5055_juan_segarra_guardia",
+      "5056_ramona_bibiana_segarra_guardia",
+      "5057_maria_segarra_guardia",
+      "5058_maria_de_la_cinta_segarra_guardia"
     ],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "5040_jose_segarra",
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
+      "maternal_grandfather": "5646_bautista_zaragoza",
       "maternal_grandmother": null
     },
     "godparents": {
@@ -57,12 +60,15 @@
     ],
     "children_names": [
       "Pablo Segarra Guardia",
-      "Juan Segarra Guardia"
+      "Juan Segarra Guardia",
+      "Ramona Bibiana Segarra Guardia",
+      "Maria Segarra Guardia",
+      "Maria de la Cinta Segarra Guardia"
     ],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "José Segarra",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
+      "maternal_grandfather": "Bautista Zaragoza",
       "maternal_grandmother": ""
     },
     "godparents_names": {

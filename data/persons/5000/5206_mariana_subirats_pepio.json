@@ -22,14 +22,15 @@
   },
   "family": {
     "parents": [
-      "5207_mariano_subirats_pinol"
+      "5207_mariano_subirats_pinol",
+      "3862_madalena_pepio_royo"
     ],
     "father": "5207_mariano_subirats_pinol",
-    "mother": null,
+    "mother": "3862_madalena_pepio_royo",
     "spouse": [],
     "children": [],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "5185_jose_subirats",
       "paternal_grandmother": null,
       "maternal_grandfather": null,
       "maternal_grandmother": null
@@ -42,14 +43,14 @@
   "relations_detail": {
     "parents_names": [
       "Mariano Subirats Piñol",
-      "Magdalena Pepió Royo"
+      "Madalena Pepio Royo"
     ],
     "father_name": "Mariano Subirats Piñol",
     "mother_name": "Magdalena Pepió Royo",
     "spouse_names": [],
     "children_names": [],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "José Subirats",
       "paternal_grandmother": "",
       "maternal_grandfather": "",
       "maternal_grandmother": ""

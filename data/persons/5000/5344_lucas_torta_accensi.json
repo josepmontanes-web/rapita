@@ -21,9 +21,12 @@
     "lng": null
   },
   "family": {
-    "parents": [],
-    "father": null,
-    "mother": null,
+    "parents": [
+      "5393_lucas_torta_subirats",
+      "12_francisca_accensi_lazaro"
+    ],
+    "father": "5393_lucas_torta_subirats",
+    "mother": "12_francisca_accensi_lazaro",
     "spouse": [],
     "children": [],
     "grandparents": {
@@ -38,9 +41,12 @@
     }
   },
   "relations_detail": {
-    "parents_names": [],
-    "father_name": null,
-    "mother_name": null,
+    "parents_names": [
+      "Lucas Torta Subirats",
+      "Francisca Accensi Lazaro"
+    ],
+    "father_name": "Lucas Torta Subirats",
+    "mother_name": "Francisca Accensi Lazaro",
     "spouse_names": [],
     "children_names": [],
     "grandparents_names": {

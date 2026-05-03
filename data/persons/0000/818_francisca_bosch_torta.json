@@ -22,10 +22,11 @@
   },
   "family": {
     "parents": [
-      "814_francisco_bosch_montanes"
+      "814_francisco_bosch_montanes",
+      "5390_josefa_torta_subirats"
     ],
     "father": "814_francisco_bosch_montanes",
-    "mother": null,
+    "mother": "5390_josefa_torta_subirats",
     "spouse": [],
     "children": [
       "397_maria_rosa_balaguer_bosch",
@@ -41,7 +42,7 @@
     },
     "godparents": {
       "godfather": null,
-      "godmother": null
+      "godmother": "5498_francisca_vidal"
     }
   },
   "relations_detail": {
@@ -68,7 +69,7 @@
     },
     "godparents_names": {
       "godfather": "Francisco Vidal",
-      "godmother": null
+      "godmother": "Francisca Vidal"
     }
   },
   "occupation": {

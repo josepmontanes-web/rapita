@@ -22,9 +22,10 @@
   },
   "family": {
     "parents": [
+      "727_jose_biosca_segarra",
       "1488_josefa_cid_beltri"
     ],
-    "father": null,
+    "father": "727_jose_biosca_segarra",
     "mother": "1488_josefa_cid_beltri",
     "spouse": [],
     "children": [],
@@ -41,7 +42,7 @@
   },
   "relations_detail": {
     "parents_names": [
-      "Josef Biosca Segarra",
+      "José Biosca Segarra",
       "Josefa Cid Beltri"
     ],
     "father_name": "Josef Biosca Segarra",

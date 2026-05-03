@@ -22,10 +22,11 @@
   },
   "family": {
     "parents": [
-      "176_antonio_arbo_ingles"
+      "176_antonio_arbo_ingles",
+      "5300_barbara_tomas_sanchis"
     ],
     "father": "176_antonio_arbo_ingles",
-    "mother": null,
+    "mother": "5300_barbara_tomas_sanchis",
     "spouse": [
       "1293_ildefonsa_castella_navarro"
     ],
@@ -33,7 +34,7 @@
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
+      "maternal_grandfather": "5288_joaquin_tomas",
       "maternal_grandmother": null
     },
     "godparents": {
@@ -44,7 +45,7 @@
   "relations_detail": {
     "parents_names": [
       "Antonio Arbó Inglés",
-      "Barbara Tomas Sanches"
+      "Bárbara Tomás Sanchís"
     ],
     "father_name": "Antonio Arbó Inglés",
     "mother_name": "Barbara Tomas Sanches",
@@ -55,7 +56,7 @@
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
+      "maternal_grandfather": "Joaquín Tomás",
       "maternal_grandmother": ""
     },
     "godparents_names": {

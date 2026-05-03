@@ -22,9 +22,10 @@
   },
   "family": {
     "parents": [
+      "5608_antonio_villalta_masip",
       "5480_antonia_verge_pla"
     ],
-    "father": null,
+    "father": "5608_antonio_villalta_masip",
     "mother": "5480_antonia_verge_pla",
     "spouse": [],
     "children": [],
@@ -41,7 +42,7 @@
   },
   "relations_detail": {
     "parents_names": [
-      "Antonio Vilalta",
+      "Antonio Villalta Masip",
       "Antonia Verge Pla"
     ],
     "father_name": "Antonio Vilalta",

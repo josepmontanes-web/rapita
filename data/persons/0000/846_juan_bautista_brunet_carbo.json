@@ -35,10 +35,10 @@
       "paternal_grandfather": null,
       "paternal_grandmother": null,
       "maternal_grandfather": null,
-      "maternal_grandmother": null
+      "maternal_grandmother": "2120_josefa_fibla"
     },
     "godparents": {
-      "godfather": null,
+      "godfather": "2956_pedro_llorens",
       "godmother": null
     }
   },
@@ -57,7 +57,7 @@
       "paternal_grandfather": "",
       "paternal_grandmother": "",
       "maternal_grandfather": "",
-      "maternal_grandmother": ""
+      "maternal_grandmother": "Josefa Fibla"
     },
     "godparents_names": {
       "godfather": "Pedro Llorens",

@@ -22,9 +22,10 @@
   },
   "family": {
     "parents": [
+      "840_jose_antonio_brunet_antoli",
       "938_rita_callariza_merce"
     ],
-    "father": null,
+    "father": "840_jose_antonio_brunet_antoli",
     "mother": "938_rita_callariza_merce",
     "spouse": [],
     "children": [],
@@ -41,7 +42,7 @@
   },
   "relations_detail": {
     "parents_names": [
-      "Josef Antonio Brunet Antolí",
+      "José Antonio Brunet Antolí",
       "Rita Callariza Mercé"
     ],
     "father_name": "Josef Antonio Brunet Antolí",

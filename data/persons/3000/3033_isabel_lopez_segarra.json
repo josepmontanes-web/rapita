@@ -43,14 +43,14 @@
       "725_lorenza_agustina_biosca_lopez"
     ],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "2977_antonio_lopez",
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
-      "maternal_grandmother": null
+      "maternal_grandfather": "5040_jose_segarra",
+      "maternal_grandmother": "545_pascuala_bel"
     },
     "godparents": {
       "godfather": null,
-      "godmother": null
+      "godmother": "1611_isabel_corch"
     }
   },
   "relations_detail": {
@@ -76,14 +76,14 @@
       "Lorenza Agustina Biosca López"
     ],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "Antonio López",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
-      "maternal_grandmother": ""
+      "maternal_grandfather": "José Segarra",
+      "maternal_grandmother": "Pascuala Bel"
     },
     "godparents_names": {
       "godfather": "Don Josef Garrigues",
-      "godmother": null
+      "godmother": "Isabel Corch"
     }
   },
   "occupation": {

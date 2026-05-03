@@ -25,7 +25,10 @@
     "father": null,
     "mother": null,
     "spouse": [],
-    "children": [],
+    "children": [
+      "2105_raymunda_ferrer_subirats",
+      "2106_pedro_ferrer_subirats"
+    ],
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
@@ -42,7 +45,10 @@
     "father_name": null,
     "mother_name": null,
     "spouse_names": [],
-    "children_names": [],
+    "children_names": [
+      "Raymunda Ferrer Subirats",
+      "Pedro Ferrer Subirats"
+    ],
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",

@@ -30,13 +30,13 @@
     "spouse": [],
     "children": [],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "5221_juan_talarn",
       "paternal_grandmother": null,
       "maternal_grandfather": null,
       "maternal_grandmother": null
     },
     "godparents": {
-      "godfather": null,
+      "godfather": "4172_juan_reverter",
       "godmother": null
     }
   },
@@ -50,7 +50,7 @@
     "spouse_names": [],
     "children_names": [],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "Juan Talarn",
       "paternal_grandmother": "",
       "maternal_grandfather": "",
       "maternal_grandmother": ""

@@ -22,10 +22,11 @@
   },
   "family": {
     "parents": [
-      "1180_jose_castella_balaguer"
+      "1180_jose_castella_balaguer",
+      "791_francisca_borras_vernis"
     ],
     "father": "1180_jose_castella_balaguer",
-    "mother": null,
+    "mother": "791_francisca_borras_vernis",
     "spouse": [],
     "children": [],
     "grandparents": {
@@ -42,7 +43,7 @@
   "relations_detail": {
     "parents_names": [
       "José Castellà Balaguer",
-      "Francisca Borràs Bernis"
+      "Francisca Borràs Vernis"
     ],
     "father_name": "José Castellà Balaguer",
     "mother_name": "Francisca Borràs Bernis",

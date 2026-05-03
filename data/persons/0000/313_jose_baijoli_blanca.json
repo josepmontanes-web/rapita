@@ -34,7 +34,7 @@
     },
     "godparents": {
       "godfather": null,
-      "godmother": null
+      "godmother": "2697_maria_guardia"
     }
   },
   "relations_detail": {
@@ -54,7 +54,7 @@
     },
     "godparents_names": {
       "godfather": "Josef Saperas",
-      "godmother": null
+      "godmother": "María Guardia"
     }
   },
   "occupation": {

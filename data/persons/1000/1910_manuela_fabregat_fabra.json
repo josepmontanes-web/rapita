@@ -22,10 +22,11 @@
   },
   "family": {
     "parents": [
-      "1923_juan_fabregat_mateu"
+      "1923_juan_fabregat_mateu",
+      "1903_antonia_fabra_miralles"
     ],
     "father": "1923_juan_fabregat_mateu",
-    "mother": null,
+    "mother": "1903_antonia_fabra_miralles",
     "spouse": [],
     "children": [],
     "grandparents": {

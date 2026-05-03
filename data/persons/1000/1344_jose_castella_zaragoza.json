@@ -29,7 +29,12 @@
     "spouse": [
       "929_maria_caldero_ferre"
     ],
-    "children": [],
+    "children": [
+      "1202_francisca_castella_caldero",
+      "1204_manuela_castella_caldero",
+      "1205_theresa_castella_caldero",
+      "1206_agustin_castella_caldero"
+    ],
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
@@ -51,7 +56,12 @@
     "spouse_names": [
       "Maria Calderó Ferré"
     ],
-    "children_names": [],
+    "children_names": [
+      "Francisca Castellà Calderó",
+      "Manuela Castellà Calderó",
+      "Theresa Castellà Calderó",
+      "Agustín Castellà Calderó"
+    ],
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",

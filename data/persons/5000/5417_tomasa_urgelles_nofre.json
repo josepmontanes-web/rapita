@@ -26,6 +26,8 @@
     "mother": null,
     "spouse": [],
     "children": [
+      "2684_benito_grau_urgelles_o_argelles",
+      "2685_casimira_grau_urgelles_o_orgelles",
       "2686_pedro_manuel_grau_urgelles",
       "2687_jose_agustin_grau_urgelles"
     ],
@@ -46,6 +48,8 @@
     "mother_name": null,
     "spouse_names": [],
     "children_names": [
+      "Benito Grau Urgellés [o Argellés]",
+      "Casimira Grau Urgellés [o Orgellés]",
       "Pedro Manuel Grau Urgellés",
       "José Agustín Grau Urgellés"
     ],

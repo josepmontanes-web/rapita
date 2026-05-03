@@ -32,7 +32,7 @@
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
+      "maternal_grandfather": "5185_jose_subirats",
       "maternal_grandmother": null
     },
     "godparents": {
@@ -52,7 +52,7 @@
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
+      "maternal_grandfather": "José Subirats",
       "maternal_grandmother": ""
     },
     "godparents_names": {

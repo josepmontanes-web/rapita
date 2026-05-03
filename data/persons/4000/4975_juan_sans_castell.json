@@ -22,9 +22,10 @@
   },
   "family": {
     "parents": [
+      "5016_jose_sans_sanarau",
       "1152_mariana_castell_ortiz"
     ],
-    "father": null,
+    "father": "5016_jose_sans_sanarau",
     "mother": "1152_mariana_castell_ortiz",
     "spouse": [],
     "children": [
@@ -46,7 +47,7 @@
   },
   "relations_detail": {
     "parents_names": [
-      "Josef Sans Sanarau",
+      "José Sans Sanarau",
       "Mariana Castell Ortíz"
     ],
     "father_name": "Josef Sans Sanarau",

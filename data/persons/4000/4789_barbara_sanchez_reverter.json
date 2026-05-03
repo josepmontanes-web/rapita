@@ -34,11 +34,11 @@
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
+      "maternal_grandfather": "4177_agustin_reverter",
       "maternal_grandmother": null
     },
     "godparents": {
-      "godfather": null,
+      "godfather": "4175_miguel_reverter",
       "godmother": null
     }
   },
@@ -56,7 +56,7 @@
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
+      "maternal_grandfather": "Agustín Reverter",
       "maternal_grandmother": ""
     },
     "godparents_names": {

@@ -22,14 +22,15 @@
   },
   "family": {
     "parents": [
-      "3663_jose_navarro_paulo"
+      "3663_jose_navarro_paulo",
+      "5151_josefa_sol_damaso"
     ],
     "father": "3663_jose_navarro_paulo",
-    "mother": null,
+    "mother": "5151_josefa_sol_damaso",
     "spouse": [],
     "children": [],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "3592_francisco_navarro",
       "paternal_grandmother": null,
       "maternal_grandfather": null,
       "maternal_grandmother": null
@@ -42,14 +43,14 @@
   "relations_detail": {
     "parents_names": [
       "José Navarro Paulo",
-      "Josefa Sol Amé"
+      "Josefa Sol Damaso"
     ],
     "father_name": "José Navarro Paulo",
     "mother_name": "Josefa Sol Amé",
     "spouse_names": [],
     "children_names": [],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "Francisco Navarro",
       "paternal_grandmother": "",
       "maternal_grandfather": "",
       "maternal_grandmother": ""

@@ -33,10 +33,10 @@
     ],
     "children": [],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "3864_joaquin_pepiol",
       "paternal_grandmother": null,
       "maternal_grandfather": null,
-      "maternal_grandmother": null
+      "maternal_grandmother": "2270_antonia_fuster"
     },
     "godparents": {
       "godfather": null,
@@ -56,10 +56,10 @@
     ],
     "children_names": [],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "Joaquín Pepiol",
       "paternal_grandmother": "",
       "maternal_grandfather": "",
-      "maternal_grandmother": ""
+      "maternal_grandmother": "Antonia Fuster"
     },
     "godparents_names": {
       "godfather": "Don Isidro Colls",

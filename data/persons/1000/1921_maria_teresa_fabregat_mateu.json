@@ -22,10 +22,11 @@
   },
   "family": {
     "parents": [
-      "1905_juan_fabregat_balaguer"
+      "1905_juan_fabregat_balaguer",
+      "3301_mariana_mateu_sancho"
     ],
     "father": "1905_juan_fabregat_balaguer",
-    "mother": null,
+    "mother": "3301_mariana_mateu_sancho",
     "spouse": [
       "2062_miguel_ferre_ortiz"
     ],
@@ -38,13 +39,13 @@
     },
     "godparents": {
       "godfather": null,
-      "godmother": null
+      "godmother": "381_candida_balaguer"
     }
   },
   "relations_detail": {
     "parents_names": [
       "Juan Fabregat Balaguer",
-      "Mariana Matheu Sancho"
+      "Mariana Mateu Sancho"
     ],
     "father_name": "Juan Fabregat Balaguer",
     "mother_name": "Mariana Matheu Sancho",
@@ -60,7 +61,7 @@
     },
     "godparents_names": {
       "godfather": "Bautista Fabregat",
-      "godmother": null
+      "godmother": "Càndida Balaguer"
     }
   },
   "occupation": {

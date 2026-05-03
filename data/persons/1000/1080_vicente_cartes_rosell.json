@@ -36,7 +36,7 @@
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
+      "maternal_grandfather": "4561_juan_rosell",
       "maternal_grandmother": null
     },
     "godparents": {
@@ -61,7 +61,7 @@
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
+      "maternal_grandfather": "Juan Rosell",
       "maternal_grandmother": ""
     },
     "godparents_names": {

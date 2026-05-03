@@ -27,7 +27,12 @@
     "spouse": [
       "5173_bartolome_solsona_miralles"
     ],
-    "children": [],
+    "children": [
+      "5175_raymunda_solsona_ribera",
+      "5176_francisca_solsona_ribera",
+      "5177_liberata_lorenza_solsona_ribera",
+      "5178_vicenta_solsona_ribera"
+    ],
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
@@ -49,7 +54,12 @@
     "spouse_names": [
       "Bartolomé Solsona Miralles"
     ],
-    "children_names": [],
+    "children_names": [
+      "Raymunda Solsona Ribera",
+      "Francisca Solsona Ribera",
+      "Liberata Lorenza Solsona Ribera",
+      "Vicenta Solsona Ribera"
+    ],
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",

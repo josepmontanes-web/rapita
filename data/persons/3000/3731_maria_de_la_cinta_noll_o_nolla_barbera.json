@@ -25,7 +25,13 @@
     "father": null,
     "mother": null,
     "spouse": [],
-    "children": [],
+    "children": [
+      "3014_teresa_rafaela_lopez_noll_o_nolla",
+      "3015_jose_francisco_lopez_noll_o_nolla",
+      "3016_josefa_lopez_noll_o_nolla",
+      "3017_miguel_lopez_noll_o_nolla",
+      "3018_maria_rosa_lopez_noll_o_nolla"
+    ],
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
@@ -42,7 +48,13 @@
     "father_name": null,
     "mother_name": null,
     "spouse_names": [],
-    "children_names": [],
+    "children_names": [
+      "Teresa Rafaela López Noll [o Nolla]",
+      "José Francisco López Noll [o Nolla]",
+      "Josefa López Noll [o Nolla]",
+      "Miguel López Noll [o Nolla]",
+      "Maria Rosa López Noll [o Nolla]"
+    ],
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",

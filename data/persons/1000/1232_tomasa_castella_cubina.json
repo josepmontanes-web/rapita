@@ -27,7 +27,9 @@
     "spouse": [
       "1082_agustin_cartes_rosell"
     ],
-    "children": [],
+    "children": [
+      "1051_francisco_cartes_castella"
+    ],
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
@@ -46,7 +48,9 @@
     "spouse_names": [
       "Agustín Cartes Rosell"
     ],
-    "children_names": [],
+    "children_names": [
+      "Francisco Cartes Castellà"
+    ],
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",

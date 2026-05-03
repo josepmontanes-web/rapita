@@ -32,11 +32,11 @@
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
-      "maternal_grandmother": null
+      "maternal_grandfather": "4829_francisco_sancho",
+      "maternal_grandmother": "5183_josefa_subirats"
     },
     "godparents": {
-      "godfather": null,
+      "godfather": "5336_jose_torta",
       "godmother": null
     }
   },
@@ -52,11 +52,11 @@
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
-      "maternal_grandmother": ""
+      "maternal_grandfather": "Francisco Sancho",
+      "maternal_grandmother": "Josefa Subirats"
     },
     "godparents_names": {
-      "godfather": "Josef Torta",
+      "godfather": "José Torta",
       "godmother": null
     }
   },

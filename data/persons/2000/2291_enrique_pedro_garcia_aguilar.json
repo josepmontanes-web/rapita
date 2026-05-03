@@ -21,9 +21,11 @@
     "lng": null
   },
   "family": {
-    "parents": [],
+    "parents": [
+      "45_mariana_aguilar_tinena"
+    ],
     "father": null,
-    "mother": null,
+    "mother": "45_mariana_aguilar_tinena",
     "spouse": [],
     "children": [],
     "grandparents": {
@@ -38,9 +40,11 @@
     }
   },
   "relations_detail": {
-    "parents_names": [],
+    "parents_names": [
+      "Mariana Aguilar Tiñena"
+    ],
     "father_name": null,
-    "mother_name": null,
+    "mother_name": "Mariana Aguilar Tiñena",
     "spouse_names": [],
     "children_names": [],
     "grandparents_names": {

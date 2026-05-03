@@ -22,14 +22,15 @@
   },
   "family": {
     "parents": [
-      "2876_melchor_jovani_grau"
+      "2876_melchor_jovani_grau",
+      "2935_teodora_lleti_ausensi"
     ],
     "father": "2876_melchor_jovani_grau",
-    "mother": null,
+    "mother": "2935_teodora_lleti_ausensi",
     "spouse": [],
     "children": [],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "2866_juan_jovani",
       "paternal_grandmother": null,
       "maternal_grandfather": null,
       "maternal_grandmother": null
@@ -42,14 +43,14 @@
   "relations_detail": {
     "parents_names": [
       "Melchor Jovani Grau",
-      "Teodora Lletí Accensi"
+      "Teodora Lletí Ausensi"
     ],
     "father_name": "Melchor Jovani Grau",
     "mother_name": "Teodora Lletí Accensi",
     "spouse_names": [],
     "children_names": [],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "Juan Jovani",
       "paternal_grandmother": "",
       "maternal_grandfather": "",
       "maternal_grandmother": ""

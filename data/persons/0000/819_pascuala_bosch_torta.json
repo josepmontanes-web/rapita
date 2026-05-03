@@ -22,14 +22,17 @@
   },
   "family": {
     "parents": [
-      "814_francisco_bosch_montanes"
+      "814_francisco_bosch_montanes",
+      "5390_josefa_torta_subirats"
     ],
     "father": "814_francisco_bosch_montanes",
-    "mother": null,
+    "mother": "5390_josefa_torta_subirats",
     "spouse": [
       "1505_ramon_cid_marti"
     ],
-    "children": [],
+    "children": [
+      "1490_francisco_cid_bosch"
+    ],
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
@@ -51,7 +54,9 @@
     "spouse_names": [
       "Ramon Cid Martí"
     ],
-    "children_names": [],
+    "children_names": [
+      "Francisco Cid Bosch"
+    ],
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",

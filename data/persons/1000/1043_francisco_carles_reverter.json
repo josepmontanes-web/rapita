@@ -27,7 +27,12 @@
     "spouse": [
       "23_dorotea_adell_llagostera"
     ],
-    "children": [],
+    "children": [
+      "1034_afortunada_carles_adell",
+      "1035_vicente_carles_adell",
+      "1036_jaime_carles_adell",
+      "1037_francisco_carles_adell"
+    ],
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
@@ -49,7 +54,12 @@
     "spouse_names": [
       "Dorotea Adell Llagostera"
     ],
-    "children_names": [],
+    "children_names": [
+      "Afortunada Carles Adell",
+      "Vicente Carles Adell",
+      "Jaime Carles Adell",
+      "Francisco Carles Adell"
+    ],
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",

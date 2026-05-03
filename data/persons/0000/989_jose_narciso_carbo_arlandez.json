@@ -29,13 +29,13 @@
     "spouse": [],
     "children": [],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "988_jose_carbo",
       "paternal_grandmother": null,
       "maternal_grandfather": null,
       "maternal_grandmother": null
     },
     "godparents": {
-      "godfather": null,
+      "godfather": "988_jose_carbo",
       "godmother": null
     }
   },
@@ -49,7 +49,7 @@
     "spouse_names": [],
     "children_names": [],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "José Carbó",
       "paternal_grandmother": "",
       "maternal_grandfather": "",
       "maternal_grandmother": ""

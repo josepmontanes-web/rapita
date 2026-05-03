@@ -21,9 +21,11 @@
     "lng": null
   },
   "family": {
-    "parents": [],
+    "parents": [
+      "1202_francisca_castella_caldero"
+    ],
     "father": null,
-    "mother": null,
+    "mother": "1202_francisca_castella_caldero",
     "spouse": [],
     "children": [],
     "grandparents": {

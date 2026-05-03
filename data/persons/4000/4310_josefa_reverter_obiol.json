@@ -29,11 +29,17 @@
     "spouse": [
       "4486_manuel_romeu_pla"
     ],
-    "children": [],
+    "children": [
+      "4493_maria_rosa_romeu_reverter",
+      "4496_atanacio_romeu_reverter",
+      "4497_apolonia_maria_romeu_reverter",
+      "4498_manuel_francisco_romeu_reverter",
+      "4499_miguel_romeu_reverter"
+    ],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "4174_pedro_reverter",
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
+      "maternal_grandfather": "3735_jose_obiol",
       "maternal_grandmother": null
     },
     "godparents": {
@@ -51,11 +57,17 @@
     "spouse_names": [
       "Manuel Romeu Pla"
     ],
-    "children_names": [],
+    "children_names": [
+      "Maria Rosa Romeu Reverter",
+      "Atanacio Romeu Reverter",
+      "Apolonia María Romeu Reverter",
+      "Manuel Francisco Romeu Reverter",
+      "Miguel Romeu Reverter"
+    ],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "Pedro Reverter",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
+      "maternal_grandfather": "José Obiol",
       "maternal_grandmother": ""
     },
     "godparents_names": {

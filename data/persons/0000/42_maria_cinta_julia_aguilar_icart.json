@@ -21,8 +21,10 @@
     "lng": null
   },
   "family": {
-    "parents": [],
-    "father": null,
+    "parents": [
+      "41_francisco_aguilar_borras"
+    ],
+    "father": "41_francisco_aguilar_borras",
     "mother": null,
     "spouse": [],
     "children": [],
@@ -38,8 +40,10 @@
     }
   },
   "relations_detail": {
-    "parents_names": [],
-    "father_name": null,
+    "parents_names": [
+      "Francisco Aguilar Borràs"
+    ],
+    "father_name": "Francisco Aguilar Borràs",
     "mother_name": null,
     "spouse_names": [],
     "children_names": [],

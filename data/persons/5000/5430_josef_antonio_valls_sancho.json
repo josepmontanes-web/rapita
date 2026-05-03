@@ -22,16 +22,17 @@
   },
   "family": {
     "parents": [
-      "5433_antonio_valls_sans"
+      "5433_antonio_valls_sans",
+      "4878_antonia_sancho_fibla"
     ],
     "father": "5433_antonio_valls_sans",
-    "mother": null,
+    "mother": "4878_antonia_sancho_fibla",
     "spouse": [],
     "children": [],
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
+      "maternal_grandfather": "4827_bartolome_sancho",
       "maternal_grandmother": null
     },
     "godparents": {
@@ -51,7 +52,7 @@
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
+      "maternal_grandfather": "Bartolomé Sancho",
       "maternal_grandmother": ""
     },
     "godparents_names": {

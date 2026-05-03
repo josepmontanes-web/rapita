@@ -30,14 +30,14 @@
     "spouse": [],
     "children": [],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "679_francisco_bernis",
       "paternal_grandmother": null,
       "maternal_grandfather": null,
       "maternal_grandmother": null
     },
     "godparents": {
       "godfather": null,
-      "godmother": null
+      "godmother": "3581_francisca_murall"
     }
   },
   "relations_detail": {
@@ -50,14 +50,14 @@
     "spouse_names": [],
     "children_names": [],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "Francisco Bernis",
       "paternal_grandmother": "",
       "maternal_grandfather": "",
       "maternal_grandmother": ""
     },
     "godparents_names": {
       "godfather": "José Bernis",
-      "godmother": null
+      "godmother": "Francisca Murall"
     }
   },
   "occupation": {

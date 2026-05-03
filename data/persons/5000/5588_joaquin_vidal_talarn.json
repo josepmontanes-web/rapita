@@ -22,10 +22,11 @@
   },
   "family": {
     "parents": [
-      "5537_joaquin_vidal_palos"
+      "5537_joaquin_vidal_palos",
+      "5259_teresa_talarn_valldeperez"
     ],
     "father": "5537_joaquin_vidal_palos",
-    "mother": null,
+    "mother": "5259_teresa_talarn_valldeperez",
     "spouse": [
       "4559_maria_rosales_valls"
     ],
@@ -40,10 +41,10 @@
       "5559_manuela_casilda_vidal_rosales"
     ],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "5497_bautista_vidal",
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
-      "maternal_grandmother": null
+      "maternal_grandfather": "5221_juan_talarn",
+      "maternal_grandmother": "5424_teresa_valldeperez"
     },
     "godparents": {
       "godfather": null,
@@ -53,7 +54,7 @@
   "relations_detail": {
     "parents_names": [
       "Joaquín Vidal Palos",
-      "Theresa Talarn Valldepérez"
+      "Teresa Talarn Valldeperez"
     ],
     "father_name": "Joaquín Vidal Palos",
     "mother_name": "Theresa Talarn Valldepérez",
@@ -71,10 +72,10 @@
       "Manuela Casilda Vidal Rosales"
     ],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "Bautista Vidal",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
-      "maternal_grandmother": ""
+      "maternal_grandfather": "Juan Talarn",
+      "maternal_grandmother": "Teresa Valldeperez"
     },
     "godparents_names": {
       "godfather": "Miguel Balada",

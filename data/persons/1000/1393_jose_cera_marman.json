@@ -21,8 +21,10 @@
     "lng": null
   },
   "family": {
-    "parents": [],
-    "father": null,
+    "parents": [
+      "1370_jose_cera"
+    ],
+    "father": "1370_jose_cera",
     "mother": null,
     "spouse": [
       "1064_agustina_cartes_fonollosa"
@@ -49,7 +51,7 @@
   },
   "relations_detail": {
     "parents_names": [
-      "Josef Cera",
+      "José Cera",
       "Antonia Marmañ"
     ],
     "father_name": "Josef Cera",

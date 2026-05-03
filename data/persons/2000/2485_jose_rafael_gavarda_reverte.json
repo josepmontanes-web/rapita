@@ -31,8 +31,8 @@
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
-      "maternal_grandmother": null
+      "maternal_grandfather": "4173_jose_reverter",
+      "maternal_grandmother": "4096_teresa_queralt"
     },
     "godparents": {
       "godfather": null,
@@ -51,8 +51,8 @@
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
-      "maternal_grandmother": ""
+      "maternal_grandfather": "José Reverter",
+      "maternal_grandmother": "Teresa Queralt"
     },
     "godparents_names": {
       "godfather": "Thomas Mies",

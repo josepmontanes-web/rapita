@@ -22,10 +22,11 @@
   },
   "family": {
     "parents": [
-      "4086_jose_pujol"
+      "4086_jose_pujol",
+      "3574_antonia_munoz_rodriguez"
     ],
     "father": "4086_jose_pujol",
-    "mother": null,
+    "mother": "3574_antonia_munoz_rodriguez",
     "spouse": [
       "5048_tomas_segarra_bel"
     ],
@@ -44,7 +45,7 @@
   "relations_detail": {
     "parents_names": [
       "José Pujol",
-      "Antonia Muñoz"
+      "Antonia Muñoz Rodríguez"
     ],
     "father_name": "José Pujol",
     "mother_name": "Antonia Muñoz",

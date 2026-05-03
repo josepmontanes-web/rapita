@@ -32,9 +32,9 @@
     ],
     "children": [],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "1716_antonio_diago",
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
+      "maternal_grandfather": "4174_pedro_reverter",
       "maternal_grandmother": null
     },
     "godparents": {
@@ -54,9 +54,9 @@
     ],
     "children_names": [],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "Antonio Diago",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
+      "maternal_grandfather": "Pedro Reverter",
       "maternal_grandmother": ""
     },
     "godparents_names": {

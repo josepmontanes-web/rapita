@@ -30,9 +30,9 @@
     "spouse": [],
     "children": [],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "5288_joaquin_tomas",
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
+      "maternal_grandfather": "4177_agustin_reverter",
       "maternal_grandmother": null
     },
     "godparents": {
@@ -50,9 +50,9 @@
     "spouse_names": [],
     "children_names": [],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "Joaquín Tomás",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
+      "maternal_grandfather": "Agustín Reverter",
       "maternal_grandmother": ""
     },
     "godparents_names": {

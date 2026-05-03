@@ -21,9 +21,11 @@
     "lng": null
   },
   "family": {
-    "parents": [],
+    "parents": [
+      "54_josefa_albiol_albiol"
+    ],
     "father": null,
-    "mother": null,
+    "mother": "54_josefa_albiol_albiol",
     "spouse": [],
     "children": [],
     "grandparents": {
@@ -38,9 +40,11 @@
     }
   },
   "relations_detail": {
-    "parents_names": [],
+    "parents_names": [
+      "Josefa Albiol Albiol"
+    ],
     "father_name": null,
-    "mother_name": null,
+    "mother_name": "Josefa Albiol Albiol",
     "spouse_names": [],
     "children_names": [],
     "grandparents_names": {

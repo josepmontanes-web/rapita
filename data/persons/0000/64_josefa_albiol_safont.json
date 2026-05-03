@@ -21,8 +21,10 @@
     "lng": null
   },
   "family": {
-    "parents": [],
-    "father": null,
+    "parents": [
+      "66_eugenio_albiol_o_obiol_simo"
+    ],
+    "father": "66_eugenio_albiol_o_obiol_simo",
     "mother": null,
     "spouse": [],
     "children": [
@@ -40,8 +42,10 @@
     }
   },
   "relations_detail": {
-    "parents_names": [],
-    "father_name": null,
+    "parents_names": [
+      "Eugenio Albiol [o Obiol] Simó"
+    ],
+    "father_name": "Eugenio Albiol [o Obiol] Simó",
     "mother_name": null,
     "spouse_names": [],
     "children_names": [

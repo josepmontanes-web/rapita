@@ -30,7 +30,15 @@
     "spouse": [
       "177_francisco_arbo_ingles"
     ],
-    "children": [],
+    "children": [
+      "212_providencia_arbo_tomas",
+      "213_dolores_arbo_tomas",
+      "214_rafaela_arbo_tomas",
+      "215_simona_arbo_tomas",
+      "216_francisco_mateo_arbo_tomas",
+      "217_josef_agustin_arbo_tomas",
+      "218_maria_manuela_arbo_tomas"
+    ],
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
@@ -52,7 +60,15 @@
     "spouse_names": [
       "Francisco Arbó Inglès"
     ],
-    "children_names": [],
+    "children_names": [
+      "Providencia Arbó Tomas",
+      "Dolores Arbó Tomas",
+      "Rafaela Arbó Tomas",
+      "Simona Arbó Tomás",
+      "Francisco Mateo Arbó Tomás",
+      "Josef Agustín Arbó Tomás",
+      "Maria Manuela Arbó Tomás"
+    ],
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",

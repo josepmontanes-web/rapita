@@ -29,10 +29,10 @@
     "spouse": [],
     "children": [],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "755_jose_borras",
       "paternal_grandmother": null,
       "maternal_grandfather": null,
-      "maternal_grandmother": null
+      "maternal_grandmother": "3581_francisca_murall"
     },
     "godparents": {
       "godfather": null,
@@ -49,10 +49,10 @@
     "spouse_names": [],
     "children_names": [],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "José Borràs",
       "paternal_grandmother": "",
       "maternal_grandfather": "",
-      "maternal_grandmother": ""
+      "maternal_grandmother": "Francisca Murall"
     },
     "godparents_names": {
       "godfather": "Cristobal Alegret",

@@ -34,9 +34,9 @@
       "5064_trinitaria_segarra_guardia"
     ],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "2698_blas_guardia",
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
+      "maternal_grandfather": "802_jose_bort",
       "maternal_grandmother": null
     },
     "godparents": {
@@ -60,9 +60,9 @@
       "Trinitaria Segarra Guardia"
     ],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "Blas Guardia",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
+      "maternal_grandfather": "José Bort",
       "maternal_grandmother": ""
     },
     "godparents_names": {

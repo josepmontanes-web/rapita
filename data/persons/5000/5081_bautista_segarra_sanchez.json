@@ -22,16 +22,17 @@
   },
   "family": {
     "parents": [
-      "5047_francisco_segarra_bel"
+      "5047_francisco_segarra_bel",
+      "4740_josefa_sanchez_ferre"
     ],
     "father": "5047_francisco_segarra_bel",
-    "mother": null,
+    "mother": "4740_josefa_sanchez_ferre",
     "spouse": [],
     "children": [
       "5122_bautista_silvestre_lopez"
     ],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "5040_jose_segarra",
       "paternal_grandmother": null,
       "maternal_grandfather": null,
       "maternal_grandmother": null
@@ -44,7 +45,7 @@
   "relations_detail": {
     "parents_names": [
       "Francisco Segarra Bel",
-      "Josefa Sánchez Piñol"
+      "Josefa Sánchez Ferré"
     ],
     "father_name": "Francisco Segarra Bel",
     "mother_name": "Josefa Sánchez Piñol",
@@ -53,7 +54,7 @@
       "Bautista Silvestre López"
     ],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "José Segarra",
       "paternal_grandmother": "",
       "maternal_grandfather": "",
       "maternal_grandmother": ""

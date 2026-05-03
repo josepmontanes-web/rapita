@@ -34,12 +34,12 @@
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
-      "maternal_grandmother": null
+      "maternal_grandfather": "3592_francisco_navarro",
+      "maternal_grandmother": "3850_manuela_paulo"
     },
     "godparents": {
       "godfather": null,
-      "godmother": null
+      "godmother": "1851_maria_esteller_matamoros"
     }
   },
   "relations_detail": {
@@ -58,12 +58,12 @@
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
-      "maternal_grandmother": ""
+      "maternal_grandfather": "Francisco Navarro",
+      "maternal_grandmother": "Manuela Paulo"
     },
     "godparents_names": {
       "godfather": "Salvador Llorens",
-      "godmother": null
+      "godmother": "María Esteller Matamoros"
     }
   },
   "occupation": {

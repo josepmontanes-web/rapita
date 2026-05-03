@@ -34,7 +34,7 @@
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
+      "maternal_grandfather": "1429_gabriel_chillida",
       "maternal_grandmother": null
     },
     "godparents": {
@@ -56,7 +56,7 @@
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
+      "maternal_grandfather": "Gabriel Chillida",
       "maternal_grandmother": ""
     },
     "godparents_names": {

@@ -22,12 +22,16 @@
   },
   "family": {
     "parents": [
-      "3935_victorio_pino_aliau"
+      "3935_victorio_pino_aliau",
+      "542_mariana_bedos_rallo"
     ],
     "father": "3935_victorio_pino_aliau",
-    "mother": null,
+    "mother": "542_mariana_bedos_rallo",
     "spouse": [],
-    "children": [],
+    "children": [
+      "3933_rosa_pino_accensi",
+      "3934_francisca_pino_accensi"
+    ],
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
@@ -42,14 +46,17 @@
   "relations_detail": {
     "parents_names": [
       "Victorio Pino Aliau",
-      "Mariana Bedós Rullo"
+      "Mariana Bedós Rallo"
     ],
     "father_name": "Victorio Pino Aliau",
     "mother_name": "Mariana Bedós Rullo",
     "spouse_names": [
       "Maria Rosa Accenci Lazaro"
     ],
-    "children_names": [],
+    "children_names": [
+      "Rosa Pino Accensi",
+      "Francisca Pino Accensi"
+    ],
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",

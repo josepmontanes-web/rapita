@@ -21,9 +21,12 @@
     "lng": null
   },
   "family": {
-    "parents": [],
-    "father": null,
-    "mother": null,
+    "parents": [
+      "1889_jose_esteve_millan",
+      "11_josefa_accensi_lazaro"
+    ],
+    "father": "1889_jose_esteve_millan",
+    "mother": "11_josefa_accensi_lazaro",
     "spouse": [],
     "children": [],
     "grandparents": {
@@ -38,9 +41,12 @@
     }
   },
   "relations_detail": {
-    "parents_names": [],
-    "father_name": null,
-    "mother_name": null,
+    "parents_names": [
+      "José Esteve Millan",
+      "Josefa Accensi Lazaro"
+    ],
+    "father_name": "José Esteve Millan",
+    "mother_name": "Josefa Accensi Lazaro",
     "spouse_names": [],
     "children_names": [],
     "grandparents_names": {

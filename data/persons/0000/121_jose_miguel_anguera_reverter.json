@@ -22,10 +22,11 @@
   },
   "family": {
     "parents": [
-      "130_jose_antonio_anguera_sancho"
+      "130_jose_antonio_anguera_sancho",
+      "4204_vicenta_reverter_balaguer"
     ],
     "father": "130_jose_antonio_anguera_sancho",
-    "mother": null,
+    "mother": "4204_vicenta_reverter_balaguer",
     "spouse": [],
     "children": [
       "122_teresa_anguera_reverte"
@@ -43,10 +44,11 @@
   },
   "relations_detail": {
     "parents_names": [
-      "José Antonio Anguera Sancho"
+      "José Antonio Anguera Sancho",
+      "Vicenta Reverter Balaguer"
     ],
     "father_name": null,
-    "mother_name": null,
+    "mother_name": "Vicenta Reverter Balaguer",
     "spouse_names": [],
     "children_names": [
       "Teresa Anguera Reverté"

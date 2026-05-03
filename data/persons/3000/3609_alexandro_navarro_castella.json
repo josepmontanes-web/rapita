@@ -30,13 +30,13 @@
     "spouse": [],
     "children": [],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "3593_pedro_navarro",
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
+      "maternal_grandfather": "1164_bautista_castella",
       "maternal_grandmother": null
     },
     "godparents": {
-      "godfather": null,
+      "godfather": "3593_pedro_navarro",
       "godmother": null
     }
   },
@@ -50,9 +50,9 @@
     "spouse_names": [],
     "children_names": [],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "Pedro Navarro",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
+      "maternal_grandfather": "Bautista Castellà",
       "maternal_grandmother": ""
     },
     "godparents_names": {

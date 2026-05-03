@@ -22,9 +22,10 @@
   },
   "family": {
     "parents": [
+      "2510_pablo_gens_miyso",
       "3475_lorenza_monserrat_guasch"
     ],
-    "father": null,
+    "father": "2510_pablo_gens_miyso",
     "mother": "3475_lorenza_monserrat_guasch",
     "spouse": [],
     "children": [],
@@ -41,7 +42,7 @@
   },
   "relations_detail": {
     "parents_names": [
-      "Pablo Chens Miyssó",
+      "Pablo Gens Miysó",
       "Lorenza Monserrat Guasch"
     ],
     "father_name": "Pablo Chens Miyssó",

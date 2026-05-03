@@ -32,9 +32,9 @@
       "4382_juan_agustin_reverter_torta"
     ],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "4174_pedro_reverter",
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
+      "maternal_grandfather": "3735_jose_obiol",
       "maternal_grandmother": null
     },
     "godparents": {
@@ -57,9 +57,9 @@
       "Juan Agustín Reverter Torta"
     ],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "Pedro Reverter",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
+      "maternal_grandfather": "José Obiol",
       "maternal_grandmother": ""
     },
     "godparents_names": {

@@ -22,16 +22,17 @@
   },
   "family": {
     "parents": [
-      "177_francisco_arbo_ingles"
+      "177_francisco_arbo_ingles",
+      "5301_maria_tomas_sanchis"
     ],
     "father": "177_francisco_arbo_ingles",
-    "mother": null,
+    "mother": "5301_maria_tomas_sanchis",
     "spouse": [],
     "children": [],
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
+      "maternal_grandfather": "5288_joaquin_tomas",
       "maternal_grandmother": null
     },
     "godparents": {
@@ -42,7 +43,7 @@
   "relations_detail": {
     "parents_names": [
       "Francisco Arbó Inglés",
-      "Maria Tomas Sanchiz"
+      "María Tomás Sanchís"
     ],
     "father_name": "Francisco Arbó Inglés",
     "mother_name": "Maria Tomas Sanchiz",
@@ -51,7 +52,7 @@
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
+      "maternal_grandfather": "Joaquín Tomás",
       "maternal_grandmother": ""
     },
     "godparents_names": {

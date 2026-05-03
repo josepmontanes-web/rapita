@@ -35,10 +35,10 @@
       "1728_tomas_diago_jovani"
     ],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "1716_antonio_diago",
       "paternal_grandmother": null,
       "maternal_grandfather": null,
-      "maternal_grandmother": null
+      "maternal_grandmother": "538_agustina_bayerri"
     },
     "godparents": {
       "godfather": null,
@@ -62,10 +62,10 @@
       "Tomás Diago Jovani"
     ],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "Antonio Diago",
       "paternal_grandmother": "",
       "maternal_grandfather": "",
-      "maternal_grandmother": ""
+      "maternal_grandmother": "Agustina Bayerri"
     },
     "godparents_names": {
       "godfather": "Carlos Lostalo",

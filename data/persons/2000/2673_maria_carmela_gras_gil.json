@@ -29,7 +29,13 @@
     "spouse": [
       "1719_pascual_diago_campanals"
     ],
-    "children": [],
+    "children": [
+      "1720_rafael_antonio_diago_gras",
+      "1721_agustin_diago_gras",
+      "1722_basilia_diago_gras",
+      "1723_agustina_diago_gras",
+      "1724_tomas_diago_gras"
+    ],
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
@@ -51,7 +57,13 @@
     "spouse_names": [
       "Pascual Diago Campanals"
     ],
-    "children_names": [],
+    "children_names": [
+      "Rafael Antonio Diago Gras",
+      "Agustín Diago Gras",
+      "Basilia Diago Gras",
+      "Agustina Diago Gras",
+      "Tomás Diago Gras"
+    ],
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",

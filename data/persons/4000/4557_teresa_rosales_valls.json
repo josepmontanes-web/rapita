@@ -22,10 +22,11 @@
   },
   "family": {
     "parents": [
-      "4548_antonio_rosales_sole"
+      "4548_antonio_rosales_sole",
+      "5429_teresa_valls_peralta"
     ],
     "father": "4548_antonio_rosales_sole",
-    "mother": null,
+    "mother": "5429_teresa_valls_peralta",
     "spouse": [
       "5049_pablo_segarra_cartes",
       "2320_francisco_garcia_garcia"
@@ -54,7 +55,7 @@
   "relations_detail": {
     "parents_names": [
       "Antonio Rosales Solé",
-      "Teresa Valls"
+      "Teresa Valls Peralta"
     ],
     "father_name": "Antonio Rosales Solé",
     "mother_name": "Teresa Valls",

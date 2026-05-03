@@ -28,7 +28,11 @@
     "father": "4823_pelegrin_sanchez_ventura",
     "mother": "536_teresa_batiste_vidal",
     "spouse": [],
-    "children": [],
+    "children": [
+      "4713_ramon_sanchez_accensi",
+      "4714_francisco_sanchez_accensi",
+      "4715_rosa_sanchez_accensi"
+    ],
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
@@ -50,7 +54,11 @@
     "spouse_names": [
       "Raymunda Accenci Lazaro"
     ],
-    "children_names": [],
+    "children_names": [
+      "Ramón Sánchez Accensi",
+      "Francisco Sánchez Accensi",
+      "Rosa Sánchez Accensi"
+    ],
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",

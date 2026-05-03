@@ -22,10 +22,11 @@
   },
   "family": {
     "parents": [
-      "1505_ramon_cid_marti"
+      "1505_ramon_cid_marti",
+      "819_pascuala_bosch_torta"
     ],
     "father": "1505_ramon_cid_marti",
-    "mother": null,
+    "mother": "819_pascuala_bosch_torta",
     "spouse": [],
     "children": [],
     "grandparents": {
@@ -42,7 +43,7 @@
   "relations_detail": {
     "parents_names": [
       "Ramon Cid Martí",
-      "Pasquala Bosch Torta"
+      "Pascuala Bosch Torta"
     ],
     "father_name": "Ramón Cid Martí",
     "mother_name": "Pasquala Bosch Torta",

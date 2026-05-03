@@ -21,9 +21,12 @@
     "lng": null
   },
   "family": {
-    "parents": [],
-    "father": null,
-    "mother": null,
+    "parents": [
+      "4725_blas_sanchez_batiste",
+      "9_raymunda_accensi_lazaro"
+    ],
+    "father": "4725_blas_sanchez_batiste",
+    "mother": "9_raymunda_accensi_lazaro",
     "spouse": [],
     "children": [],
     "grandparents": {
@@ -38,9 +41,12 @@
     }
   },
   "relations_detail": {
-    "parents_names": [],
-    "father_name": null,
-    "mother_name": null,
+    "parents_names": [
+      "Blas Sánchez Batiste",
+      "Raymunda Accensi Lazaro"
+    ],
+    "father_name": "Blas Sánchez Batiste",
+    "mother_name": "Raymunda Accensi Lazaro",
     "spouse_names": [],
     "children_names": [],
     "grandparents_names": {

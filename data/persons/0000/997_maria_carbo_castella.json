@@ -22,9 +22,10 @@
   },
   "family": {
     "parents": [
+      "992_felix_carbo_cartes",
       "1247_teresa_castella_dalmau"
     ],
-    "father": null,
+    "father": "992_felix_carbo_cartes",
     "mother": "1247_teresa_castella_dalmau",
     "spouse": [],
     "children": [],
@@ -41,7 +42,7 @@
   },
   "relations_detail": {
     "parents_names": [
-      "Feliz Carbó",
+      "Felix Carbó Cartes",
       "Teresa Castellà Dalmau"
     ],
     "father_name": "Feliz Carbó",

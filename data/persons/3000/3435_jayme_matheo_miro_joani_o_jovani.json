@@ -35,7 +35,7 @@
       "maternal_grandmother": null
     },
     "godparents": {
-      "godfather": null,
+      "godfather": "1996_jose_ferrer",
       "godmother": null
     }
   },
@@ -55,7 +55,7 @@
       "maternal_grandmother": ""
     },
     "godparents_names": {
-      "godfather": "Josef Ferrer",
+      "godfather": "José Ferrer",
       "godmother": null
     }
   },

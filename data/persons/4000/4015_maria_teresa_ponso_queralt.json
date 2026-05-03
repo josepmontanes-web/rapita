@@ -21,8 +21,10 @@
     "lng": null
   },
   "family": {
-    "parents": [],
-    "father": null,
+    "parents": [
+      "4014_joseph_ponso"
+    ],
+    "father": "4014_joseph_ponso",
     "mother": null,
     "spouse": [],
     "children": [],
@@ -39,7 +41,7 @@
   },
   "relations_detail": {
     "parents_names": [
-      "Josef Ponso",
+      "Joseph Ponso",
       "Josefa Queralt"
     ],
     "father_name": "Josef Ponso",

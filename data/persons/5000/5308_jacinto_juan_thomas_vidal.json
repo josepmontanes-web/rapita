@@ -22,16 +22,17 @@
   },
   "family": {
     "parents": [
-      "5293_juan_thomas_martinez"
+      "5293_juan_thomas_martinez",
+      "5536_teresa_vidal_palos"
     ],
     "father": "5293_juan_thomas_martinez",
-    "mother": null,
+    "mother": "5536_teresa_vidal_palos",
     "spouse": [],
     "children": [],
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
+      "maternal_grandfather": "5497_bautista_vidal",
       "maternal_grandmother": null
     },
     "godparents": {
@@ -42,7 +43,7 @@
   "relations_detail": {
     "parents_names": [
       "Juan Thomas Martínez",
-      "Theresa Vidal Palos"
+      "Teresa Vidal Palos"
     ],
     "father_name": "Juan Thomás Martínez",
     "mother_name": "Theresa Vidal Palos",
@@ -51,7 +52,7 @@
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
+      "maternal_grandfather": "Bautista Vidal",
       "maternal_grandmother": ""
     },
     "godparents_names": {

@@ -38,7 +38,7 @@
     },
     "godparents": {
       "godfather": null,
-      "godmother": null
+      "godmother": "1611_isabel_corch"
     }
   },
   "relations_detail": {
@@ -62,7 +62,7 @@
     },
     "godparents_names": {
       "godfather": "Don Francisco Stopanni",
-      "godmother": null
+      "godmother": "Isabel Corch"
     }
   },
   "occupation": {

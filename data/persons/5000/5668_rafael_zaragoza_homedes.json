@@ -22,10 +22,11 @@
   },
   "family": {
     "parents": [
-      "5648_carlos_zaragoza"
+      "5648_carlos_zaragoza",
+      "2786_candia_homedes"
     ],
     "father": "5648_carlos_zaragoza",
-    "mother": null,
+    "mother": "2786_candia_homedes",
     "spouse": [],
     "children": [
       "2793_teresa_homedes_cartes",

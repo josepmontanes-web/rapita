@@ -22,9 +22,10 @@
   },
   "family": {
     "parents": [
+      "2568_jose_antonio_giner_ferran",
       "881_maria_budesca_fibla"
     ],
-    "father": null,
+    "father": "2568_jose_antonio_giner_ferran",
     "mother": "881_maria_budesca_fibla",
     "spouse": [],
     "children": [],
@@ -41,7 +42,7 @@
   },
   "relations_detail": {
     "parents_names": [
-      "Josef Antonio Giner Ferrán",
+      "José Antonio Giner Ferrán",
       "María Budesca Fibla"
     ],
     "father_name": "Josef Antonio Giner Ferrán",

@@ -29,7 +29,11 @@
     "spouse": [
       "1488_josefa_cid_beltri"
     ],
-    "children": [],
+    "children": [
+      "706_agustina_biosca_cid",
+      "707_pedro_biosca_cid",
+      "708_josefa_biosca_cid"
+    ],
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
@@ -51,7 +55,11 @@
     "spouse_names": [
       "Josefa Cid Beltri"
     ],
-    "children_names": [],
+    "children_names": [
+      "Agustina Biosca Cid",
+      "Pedro Biosca Cid",
+      "Josefa Biosca Cid"
+    ],
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",

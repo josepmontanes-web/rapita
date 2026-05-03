@@ -35,10 +35,10 @@
       "3032_antonia_lopez_rullo"
     ],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "2977_antonio_lopez",
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
-      "maternal_grandmother": null
+      "maternal_grandfather": "5040_jose_segarra",
+      "maternal_grandmother": "545_pascuala_bel"
     },
     "godparents": {
       "godfather": null,
@@ -62,10 +62,10 @@
       "Antonia López Rullo"
     ],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "Antonio López",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
-      "maternal_grandmother": ""
+      "maternal_grandfather": "José Segarra",
+      "maternal_grandmother": "Pascuala Bel"
     },
     "godparents_names": {
       "godfather": "Juan Izquierdo",

@@ -22,15 +22,18 @@
   },
   "family": {
     "parents": [
-      "4853_pedro_sancho_biosca"
+      "4853_pedro_sancho_biosca",
+      "3990_tomasa_pla_sancho"
     ],
     "father": "4853_pedro_sancho_biosca",
-    "mother": null,
+    "mother": "3990_tomasa_pla_sancho",
     "spouse": [
       "1934_vicente_fabregat_sancho"
     ],
     "children": [
+      "1935_maria_de_la_cinta_fabregat_sancho",
       "1936_pedro_fabregat_sancho",
+      "1937_prudencio_fabregat_sancho",
       "1938_silvestre_fabregat_sancho",
       "1939_leandra_fabregat_sancho",
       "1940_juan_bautista_fabregat_sancho"
@@ -38,7 +41,7 @@
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
+      "maternal_grandfather": "3978_jayme_pla",
       "maternal_grandmother": null
     },
     "godparents": {
@@ -49,7 +52,7 @@
   "relations_detail": {
     "parents_names": [
       "Pedro Sancho Biosca",
-      "Thomasa Pla Sancho"
+      "Tomasa Pla Sancho"
     ],
     "father_name": "Pedro Sancho Biosca",
     "mother_name": "Thomasa Pla Sancho",
@@ -57,7 +60,9 @@
       "Vicente Fabregat Sancho"
     ],
     "children_names": [
+      "María de la Cinta Fabregat Sancho",
       "Pedro Fabregat Sancho",
+      "Prudencio Fabregat Sancho",
       "Silvestre Fabregat Sancho",
       "Leandra Fabregat Sancho",
       "Juan Bautista Fabregat Sancho"
@@ -65,7 +70,7 @@
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
+      "maternal_grandfather": "Jayme Pla",
       "maternal_grandmother": ""
     },
     "godparents_names": {

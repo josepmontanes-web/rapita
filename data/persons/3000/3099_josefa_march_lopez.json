@@ -22,41 +22,42 @@
   },
   "family": {
     "parents": [
-      "3097_francisco_march_casals"
+      "3097_francisco_march_casals",
+      "2985_maria_lopez_costa"
     ],
     "father": "3097_francisco_march_casals",
-    "mother": null,
+    "mother": "2985_maria_lopez_costa",
     "spouse": [],
     "children": [],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "3094_francisco_march",
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
+      "maternal_grandfather": "2978_manuel_lopez",
       "maternal_grandmother": null
     },
     "godparents": {
       "godfather": null,
-      "godmother": null
+      "godmother": "4828_josefa_sancho"
     }
   },
   "relations_detail": {
     "parents_names": [
       "Francisco March Casals",
-      "Maria López Casta"
+      "María López Costa"
     ],
     "father_name": "Francisco March Casals",
     "mother_name": "Maria López Casta",
     "spouse_names": [],
     "children_names": [],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "Francisco March",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
+      "maternal_grandfather": "Manuel López",
       "maternal_grandmother": ""
     },
     "godparents_names": {
       "godfather": "Josef Parra",
-      "godmother": null
+      "godmother": "Josefa Sancho"
     }
   },
   "occupation": {

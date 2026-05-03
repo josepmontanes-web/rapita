@@ -21,8 +21,10 @@
     "lng": null
   },
   "family": {
-    "parents": [],
-    "father": null,
+    "parents": [
+      "36_manuel_adlert_baneras"
+    ],
+    "father": "36_manuel_adlert_baneras",
     "mother": null,
     "spouse": [],
     "children": [],
@@ -38,8 +40,10 @@
     }
   },
   "relations_detail": {
-    "parents_names": [],
-    "father_name": null,
+    "parents_names": [
+      "Manuel Adlert Bañeras"
+    ],
+    "father_name": "Manuel Adlert Bañeras",
     "mother_name": null,
     "spouse_names": [],
     "children_names": [],

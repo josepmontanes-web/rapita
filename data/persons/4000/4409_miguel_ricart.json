@@ -25,9 +25,7 @@
     "father": null,
     "mother": null,
     "spouse": [],
-    "children": [
-      "1797_38_1800"
-    ],
+    "children": [],
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
@@ -46,9 +44,7 @@
     "spouse_names": [
       "Doña Teresa Castells"
     ],
-    "children_names": [
-      "38 1800"
-    ],
+    "children_names": [],
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",

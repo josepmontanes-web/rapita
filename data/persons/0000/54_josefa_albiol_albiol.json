@@ -21,9 +21,12 @@
     "lng": null
   },
   "family": {
-    "parents": [],
-    "father": null,
-    "mother": null,
+    "parents": [
+      "53_vicente_albiol",
+      "62_maria_albiol_rillo"
+    ],
+    "father": "53_vicente_albiol",
+    "mother": "62_maria_albiol_rillo",
     "spouse": [],
     "children": [
       "2600_vicente_goday_albiol",
@@ -41,9 +44,12 @@
     }
   },
   "relations_detail": {
-    "parents_names": [],
-    "father_name": null,
-    "mother_name": null,
+    "parents_names": [
+      "Vicente Albiol",
+      "Maria Albiol Rillo"
+    ],
+    "father_name": "Vicente Albiol",
+    "mother_name": "Maria Albiol Rillo",
     "spouse_names": [],
     "children_names": [
       "Vicente Goday Albiol",

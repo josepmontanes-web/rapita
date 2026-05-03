@@ -35,8 +35,8 @@
       "maternal_grandmother": null
     },
     "godparents": {
-      "godfather": null,
-      "godmother": null
+      "godfather": "4172_juan_reverter",
+      "godmother": "317_maria_balada"
     }
   },
   "relations_detail": {
@@ -56,7 +56,7 @@
     },
     "godparents_names": {
       "godfather": "Juan Reverter",
-      "godmother": null
+      "godmother": "María Balada"
     }
   },
   "occupation": {

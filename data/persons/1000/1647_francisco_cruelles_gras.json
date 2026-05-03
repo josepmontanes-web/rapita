@@ -32,8 +32,8 @@
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
-      "maternal_grandmother": null
+      "maternal_grandfather": "2663_jose_gras",
+      "maternal_grandmother": "2515_maria_gil"
     },
     "godparents": {
       "godfather": null,
@@ -52,8 +52,8 @@
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
-      "maternal_grandmother": ""
+      "maternal_grandfather": "José Gras",
+      "maternal_grandmother": "María Gil"
     },
     "godparents_names": {
       "godfather": "Francisco Cruelles",

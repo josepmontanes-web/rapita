@@ -31,13 +31,13 @@
     ],
     "children": [],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "2956_pedro_llorens",
       "paternal_grandmother": null,
       "maternal_grandfather": null,
       "maternal_grandmother": null
     },
     "godparents": {
-      "godfather": null,
+      "godfather": "2956_pedro_llorens",
       "godmother": null
     }
   },
@@ -53,7 +53,7 @@
     ],
     "children_names": [],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "Pedro Llorens",
       "paternal_grandmother": "",
       "maternal_grandfather": "",
       "maternal_grandmother": ""

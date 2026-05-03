@@ -21,8 +21,10 @@
     "lng": null
   },
   "family": {
-    "parents": [],
-    "father": null,
+    "parents": [
+      "3109_jose_marti"
+    ],
+    "father": "3109_jose_marti",
     "mother": null,
     "spouse": [
       "1788_maria_escardo_cachot"

@@ -26,6 +26,7 @@
     "mother": null,
     "spouse": [],
     "children": [
+      "2678_jose_grau_fibla",
       "2679_tomas_grau_fibla"
     ],
     "grandparents": {
@@ -45,6 +46,7 @@
     "mother_name": null,
     "spouse_names": [],
     "children_names": [
+      "José Grau Fibla",
       "Tomás Grau Fibla"
     ],
     "grandparents_names": {

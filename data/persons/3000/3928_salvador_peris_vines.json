@@ -22,9 +22,10 @@
   },
   "family": {
     "parents": [
+      "3919_tomas_peris_pavia",
       "5624_francisca_vines_sevilla"
     ],
-    "father": null,
+    "father": "3919_tomas_peris_pavia",
     "mother": "5624_francisca_vines_sevilla",
     "spouse": [],
     "children": [],
@@ -32,7 +33,7 @@
       "paternal_grandfather": null,
       "paternal_grandmother": null,
       "maternal_grandfather": null,
-      "maternal_grandmother": null
+      "maternal_grandmother": "5106_francisca_sevilla"
     },
     "godparents": {
       "godfather": null,
@@ -41,7 +42,7 @@
   },
   "relations_detail": {
     "parents_names": [
-      "Thomas Péris Pavia",
+      "Tomàs Peris Pavia",
       "Francisca Viñes Sevilla"
     ],
     "father_name": "Thomas Péris Pavia",
@@ -52,7 +53,7 @@
       "paternal_grandfather": "",
       "paternal_grandmother": "",
       "maternal_grandfather": "",
-      "maternal_grandmother": ""
+      "maternal_grandmother": "Francisca Sevilla"
     },
     "godparents_names": {
       "godfather": "Antonio Viñes",

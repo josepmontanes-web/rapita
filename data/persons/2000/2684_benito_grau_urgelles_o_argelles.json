@@ -22,10 +22,11 @@
   },
   "family": {
     "parents": [
-      "2679_tomas_grau_fibla"
+      "2679_tomas_grau_fibla",
+      "5417_tomasa_urgelles_nofre"
     ],
     "father": "2679_tomas_grau_fibla",
-    "mother": null,
+    "mother": "5417_tomasa_urgelles_nofre",
     "spouse": [],
     "children": [],
     "grandparents": {
@@ -42,7 +43,7 @@
   "relations_detail": {
     "parents_names": [
       "Tomás Grau Fibla",
-      "Tomasa Argellés"
+      "Tomasa Urgellés Nofre"
     ],
     "father_name": "Tomás Grau Fibla",
     "mother_name": "Tomasa Argellés",

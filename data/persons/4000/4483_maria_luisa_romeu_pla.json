@@ -31,12 +31,12 @@
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
+      "maternal_grandfather": "3978_jayme_pla",
       "maternal_grandmother": null
     },
     "godparents": {
       "godfather": null,
-      "godmother": null
+      "godmother": "2697_maria_guardia"
     }
   },
   "relations_detail": {
@@ -51,12 +51,12 @@
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
+      "maternal_grandfather": "Jayme Pla",
       "maternal_grandmother": ""
     },
     "godparents_names": {
       "godfather": "Luís Chiveli",
-      "godmother": null
+      "godmother": "María Guardia"
     }
   },
   "occupation": {

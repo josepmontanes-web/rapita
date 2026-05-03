@@ -21,8 +21,10 @@
     "lng": null
   },
   "family": {
-    "parents": [],
-    "father": null,
+    "parents": [
+      "3586_jose_nadal_bigatana"
+    ],
+    "father": "3586_jose_nadal_bigatana",
     "mother": null,
     "spouse": [],
     "children": [
@@ -41,7 +43,7 @@
   },
   "relations_detail": {
     "parents_names": [
-      "Josef Nadal Bigatana",
+      "José Nadal Bigatana",
       "María Angela Ferré Sánchez"
     ],
     "father_name": "Josef Nadal Bigatana",

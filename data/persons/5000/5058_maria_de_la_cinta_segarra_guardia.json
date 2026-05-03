@@ -22,9 +22,10 @@
   },
   "family": {
     "parents": [
+      "5088_antonio_segarra_zaragoza",
       "2712_lorenza_guardia_bort"
     ],
-    "father": null,
+    "father": "5088_antonio_segarra_zaragoza",
     "mother": "2712_lorenza_guardia_bort",
     "spouse": [],
     "children": [],
@@ -41,7 +42,7 @@
   },
   "relations_detail": {
     "parents_names": [
-      "Antonio Segarra Carbó",
+      "Antonio Segarra Zaragoza",
       "Lorenza Guardia Bort"
     ],
     "father_name": "Antonio Segarra Carbó",

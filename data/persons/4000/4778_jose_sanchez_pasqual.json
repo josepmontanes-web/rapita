@@ -34,14 +34,14 @@
       "4721_madalena_sanchez_barrera"
     ],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "4709_dionisio_sanchez",
       "paternal_grandmother": null,
       "maternal_grandfather": null,
-      "maternal_grandmother": null
+      "maternal_grandmother": "2270_antonia_fuster"
     },
     "godparents": {
       "godfather": null,
-      "godmother": null
+      "godmother": "2270_antonia_fuster"
     }
   },
   "relations_detail": {
@@ -58,14 +58,14 @@
       "Madalena Sánchez Barrera"
     ],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "Dionisio Sánchez",
       "paternal_grandmother": "",
       "maternal_grandfather": "",
-      "maternal_grandmother": ""
+      "maternal_grandmother": "Antonia Fuster"
     },
     "godparents_names": {
       "godfather": "Josef Safon",
-      "godmother": null
+      "godmother": "Antonia Fuster"
     }
   },
   "occupation": {

@@ -34,8 +34,8 @@
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
-      "maternal_grandmother": null
+      "maternal_grandfather": "1997_francisco_ferrer",
+      "maternal_grandmother": "3111_salvadora_marti"
     },
     "godparents": {
       "godfather": null,
@@ -56,8 +56,8 @@
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
-      "maternal_grandmother": ""
+      "maternal_grandfather": "Francisco Ferrer",
+      "maternal_grandmother": "Salvadora Martí"
     },
     "godparents_names": {
       "godfather": "Cipriano Cruelles",

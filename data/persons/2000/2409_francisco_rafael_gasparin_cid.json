@@ -22,9 +22,10 @@
   },
   "family": {
     "parents": [
+      "2449_jose_gasparin_ortiz",
       "1503_teresa_cid_marti"
     ],
-    "father": null,
+    "father": "2449_jose_gasparin_ortiz",
     "mother": "1503_teresa_cid_marti",
     "spouse": [],
     "children": [],
@@ -41,7 +42,7 @@
   },
   "relations_detail": {
     "parents_names": [
-      "Joseph Gasparín Ortíz",
+      "José Gasparín Ortiz",
       "Teresa Cid Martí"
     ],
     "father_name": "Joseph Gasparín Ortíz",

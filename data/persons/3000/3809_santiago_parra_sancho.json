@@ -22,17 +22,18 @@
   },
   "family": {
     "parents": [
-      "3803_jose_parra_pardo"
+      "3803_jose_parra_pardo",
+      "4854_josefa_sancho_biosca"
     ],
     "father": "3803_jose_parra_pardo",
-    "mother": null,
+    "mother": "4854_josefa_sancho_biosca",
     "spouse": [],
     "children": [],
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
       "maternal_grandfather": null,
-      "maternal_grandmother": null
+      "maternal_grandmother": "704_josefa_maria_biosca"
     },
     "godparents": {
       "godfather": null,
@@ -42,7 +43,7 @@
   "relations_detail": {
     "parents_names": [
       "José Parra Pardo",
-      "Rosa Sancho Biosca"
+      "Josefa Sancho Biosca"
     ],
     "father_name": "José Parra Pardo",
     "mother_name": "Rosa Sancho Biosca",
@@ -52,7 +53,7 @@
       "paternal_grandfather": "",
       "paternal_grandmother": "",
       "maternal_grandfather": "",
-      "maternal_grandmother": ""
+      "maternal_grandmother": "Josefa María Biosca"
     },
     "godparents_names": {
       "godfather": "Domingo Royo",

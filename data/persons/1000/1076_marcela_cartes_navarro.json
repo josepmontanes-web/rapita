@@ -30,13 +30,13 @@
     "spouse": [],
     "children": [],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "1046_francisco_cartes",
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
+      "maternal_grandfather": "3593_pedro_navarro",
       "maternal_grandmother": null
     },
     "godparents": {
-      "godfather": null,
+      "godfather": "3593_pedro_navarro",
       "godmother": null
     }
   },
@@ -50,9 +50,9 @@
     "spouse_names": [],
     "children_names": [],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "Francisco Cartes",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
+      "maternal_grandfather": "Pedro Navarro",
       "maternal_grandmother": ""
     },
     "godparents_names": {

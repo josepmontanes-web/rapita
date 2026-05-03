@@ -22,9 +22,10 @@
   },
   "family": {
     "parents": [
+      "2677_jose_grau",
       "2120_josefa_fibla"
     ],
-    "father": null,
+    "father": "2677_jose_grau",
     "mother": "2120_josefa_fibla",
     "spouse": [],
     "children": [],
@@ -41,7 +42,7 @@
   },
   "relations_detail": {
     "parents_names": [
-      "Josef Grau",
+      "José Grau",
       "Josefa Fibla"
     ],
     "father_name": "Josef Grau",

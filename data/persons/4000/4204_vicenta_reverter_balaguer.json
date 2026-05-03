@@ -32,10 +32,12 @@
       "116_gaspar_enguera_o_anguera_reverter",
       "117_tomasa_enguera_o_anguera_reverter",
       "118_josefa_anguera_reverter",
-      "119_francisca_anguera_reverter"
+      "119_francisca_anguera_reverter",
+      "120_agustina_anguera_reverter",
+      "121_jose_miguel_anguera_reverter"
     ],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "4173_jose_reverter",
       "paternal_grandmother": null,
       "maternal_grandfather": null,
       "maternal_grandmother": null
@@ -60,10 +62,12 @@
       "Gaspar Enguera [o Anguera] Reverter",
       "Tomasa Enguera [o Anguera] Reverter",
       "Josefa Anguera Reverter",
-      "Francisca Anguera Reverter"
+      "Francisca Anguera Reverter",
+      "Agustina Anguera Reverter",
+      "José Miguel Anguera Reverter"
     ],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "José Reverter",
       "paternal_grandmother": "",
       "maternal_grandfather": "",
       "maternal_grandmother": ""

@@ -22,9 +22,10 @@
   },
   "family": {
     "parents": [
+      "1344_jose_castella_zaragoza",
       "929_maria_caldero_ferre"
     ],
-    "father": null,
+    "father": "1344_jose_castella_zaragoza",
     "mother": "929_maria_caldero_ferre",
     "spouse": [
       "1114_francisco_casajust_michavila"
@@ -33,7 +34,7 @@
       "1096_ignacio_casajust_castella"
     ],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "1164_bautista_castella",
       "paternal_grandmother": null,
       "maternal_grandfather": null,
       "maternal_grandmother": null
@@ -45,7 +46,7 @@
   },
   "relations_detail": {
     "parents_names": [
-      "Joseph Castellà Zaragoza",
+      "José Castellà Zaragoza",
       "María Calderó Ferré"
     ],
     "father_name": "Joseph Castellà Zaragoza",
@@ -57,7 +58,7 @@
       "Ignacio Casajust Castellà"
     ],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "Bautista Castellà",
       "paternal_grandmother": "",
       "maternal_grandfather": "",
       "maternal_grandmother": ""

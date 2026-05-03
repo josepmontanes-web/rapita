@@ -22,10 +22,11 @@
   },
   "family": {
     "parents": [
-      "3035_joaquin_lopez_segarra"
+      "3035_joaquin_lopez_segarra",
+      "3731_maria_de_la_cinta_noll_o_nolla_barbera"
     ],
     "father": "3035_joaquin_lopez_segarra",
-    "mother": null,
+    "mother": "3731_maria_de_la_cinta_noll_o_nolla_barbera",
     "spouse": [
       "492_francisca_baluenga_traginer"
     ],
@@ -44,7 +45,7 @@
   "relations_detail": {
     "parents_names": [
       "Joaquín López Segarra",
-      "Jacinta Noll Barberà"
+      "María de la Cinta Noll [o Nolla] Barberà"
     ],
     "father_name": "Joaquin López Segarra",
     "mother_name": "Jacinta Noll Barberà",

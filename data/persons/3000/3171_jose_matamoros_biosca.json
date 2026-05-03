@@ -32,11 +32,12 @@
     ],
     "children": [
       "3289_jose_matamoros_torta",
+      "3290_maria_josefa_matamoros_torta",
       "3291_lorenzo_matamoros_torta",
       "3292_vicente_matamoros_torta"
     ],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "3159_bautista_matamoros",
       "paternal_grandmother": null,
       "maternal_grandfather": null,
       "maternal_grandmother": null
@@ -58,11 +59,12 @@
     ],
     "children_names": [
       "José Matamoros Torta",
+      "María Josefa Matamoros Torta",
       "Lorenzo Matamoros Torta",
       "Vicente Matamoros Torta"
     ],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "Bautista Matamoros",
       "paternal_grandmother": "",
       "maternal_grandfather": "",
       "maternal_grandmother": ""

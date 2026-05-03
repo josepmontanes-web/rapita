@@ -25,7 +25,9 @@
     "father": null,
     "mother": null,
     "spouse": [],
-    "children": [],
+    "children": [
+      "1393_jose_cera_marman"
+    ],
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
@@ -44,7 +46,9 @@
     "spouse_names": [
       "Maria Mangrané"
     ],
-    "children_names": [],
+    "children_names": [
+      "José Cera Marmañ"
+    ],
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",

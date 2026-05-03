@@ -21,8 +21,10 @@
     "lng": null
   },
   "family": {
-    "parents": [],
-    "father": null,
+    "parents": [
+      "33_miguel_carlos_adell_sanchis"
+    ],
+    "father": "33_miguel_carlos_adell_sanchis",
     "mother": null,
     "spouse": [],
     "children": [],
@@ -38,8 +40,10 @@
     }
   },
   "relations_detail": {
-    "parents_names": [],
-    "father_name": null,
+    "parents_names": [
+      "Miguel Carlos Adell Sanchís"
+    ],
+    "father_name": "Miguel Carlos Adell Sanchís",
     "mother_name": null,
     "spouse_names": [],
     "children_names": [],

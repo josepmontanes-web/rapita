@@ -21,8 +21,10 @@
     "lng": null
   },
   "family": {
-    "parents": [],
-    "father": null,
+    "parents": [
+      "5154_jose_sola"
+    ],
+    "father": "5154_jose_sola",
     "mother": null,
     "spouse": [],
     "children": [],
@@ -39,7 +41,7 @@
   },
   "relations_detail": {
     "parents_names": [
-      "Josef Solà",
+      "José Solà",
       "Francisca Balada"
     ],
     "father_name": "Josef Solà",

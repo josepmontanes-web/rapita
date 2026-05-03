@@ -36,7 +36,7 @@
       "5065_josefa_segarra_guardia"
     ],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "5040_jose_segarra",
       "paternal_grandmother": null,
       "maternal_grandfather": null,
       "maternal_grandmother": null
@@ -63,7 +63,7 @@
       "Josefa Segarra Guardia"
     ],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "José Segarra",
       "paternal_grandmother": "",
       "maternal_grandfather": "",
       "maternal_grandmother": ""

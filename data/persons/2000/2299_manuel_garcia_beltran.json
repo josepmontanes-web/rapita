@@ -22,40 +22,41 @@
   },
   "family": {
     "parents": [
-      "2377_jose_garcia_valero"
+      "2377_jose_garcia_valero",
+      "580_manuela_beltran_asnar"
     ],
     "father": "2377_jose_garcia_valero",
-    "mother": null,
+    "mother": "580_manuela_beltran_asnar",
     "spouse": [],
     "children": [],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "2288_vicente_garcia",
       "paternal_grandmother": null,
       "maternal_grandfather": null,
       "maternal_grandmother": null
     },
     "godparents": {
-      "godfather": null,
+      "godfather": "2288_vicente_garcia",
       "godmother": null
     }
   },
   "relations_detail": {
     "parents_names": [
       "José García Valero",
-      "Manuela Beltrán Arnan"
+      "Manuela Beltran Asnar"
     ],
     "father_name": "José García Valero",
     "mother_name": "Manuela Beltrán Arnan",
     "spouse_names": [],
     "children_names": [],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "Vicente García",
       "paternal_grandmother": "",
       "maternal_grandfather": "",
       "maternal_grandmother": ""
     },
     "godparents_names": {
-      "godfather": "Vicente Garcia",
+      "godfather": "Vicente García",
       "godmother": null
     }
   },

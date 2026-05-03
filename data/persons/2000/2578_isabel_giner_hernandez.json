@@ -29,7 +29,12 @@
     "spouse": [
       "2185_jose_forcadell_bedos"
     ],
-    "children": [],
+    "children": [
+      "2199_esteban_joaquin_forcadell_giner",
+      "2200_antonia_forcadell_giner",
+      "2201_antonio_pio_forcadell_giner",
+      "2202_cristoval_forcadell_giner"
+    ],
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
@@ -51,7 +56,12 @@
     "spouse_names": [
       "José Forcadell Bedós"
     ],
-    "children_names": [],
+    "children_names": [
+      "Esteban Joaquín Forcadell Giner",
+      "Antonia Forcadell Giner",
+      "Antonio Pío Forcadell Giner",
+      "Cristoval Forcadell Giner"
+    ],
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",

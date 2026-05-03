@@ -33,10 +33,10 @@
       "paternal_grandfather": null,
       "paternal_grandmother": null,
       "maternal_grandfather": null,
-      "maternal_grandmother": null
+      "maternal_grandmother": "4831_manuela_sancho"
     },
     "godparents": {
-      "godfather": null,
+      "godfather": "920_francisco_cachot",
       "godmother": null
     }
   },
@@ -53,7 +53,7 @@
       "paternal_grandfather": "",
       "paternal_grandmother": "",
       "maternal_grandfather": "",
-      "maternal_grandmother": ""
+      "maternal_grandmother": "Manuela Sancho"
     },
     "godparents_names": {
       "godfather": "Francisco Cachot",

@@ -31,11 +31,11 @@
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
+      "maternal_grandfather": "4173_jose_reverter",
       "maternal_grandmother": null
     },
     "godparents": {
-      "godfather": null,
+      "godfather": "3593_pedro_navarro",
       "godmother": null
     }
   },
@@ -51,7 +51,7 @@
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
+      "maternal_grandfather": "José Reverter",
       "maternal_grandmother": ""
     },
     "godparents_names": {

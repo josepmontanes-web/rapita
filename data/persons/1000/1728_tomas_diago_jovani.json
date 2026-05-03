@@ -22,16 +22,17 @@
   },
   "family": {
     "parents": [
-      "1732_francisco_diago_michavila"
+      "1732_francisco_diago_michavila",
+      "2870_maria_jovani_grau"
     ],
     "father": "1732_francisco_diago_michavila",
-    "mother": null,
+    "mother": "2870_maria_jovani_grau",
     "spouse": [],
     "children": [],
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
+      "maternal_grandfather": "2866_juan_jovani",
       "maternal_grandmother": null
     },
     "godparents": {
@@ -42,7 +43,7 @@
   "relations_detail": {
     "parents_names": [
       "Francisco Diago Michavila",
-      "Maria Jovani Grau"
+      "María Jovani Grau"
     ],
     "father_name": "Francisco Diago Michavila",
     "mother_name": "Maria Jovani Grau",
@@ -51,7 +52,7 @@
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
+      "maternal_grandfather": "Juan Jovani",
       "maternal_grandmother": ""
     },
     "godparents_names": {

@@ -22,10 +22,11 @@
   },
   "family": {
     "parents": [
-      "5173_bartolome_solsona_miralles"
+      "5173_bartolome_solsona_miralles",
+      "4408_ignes_ribera_roig"
     ],
     "father": "5173_bartolome_solsona_miralles",
-    "mother": null,
+    "mother": "4408_ignes_ribera_roig",
     "spouse": [],
     "children": [],
     "grandparents": {
@@ -35,14 +36,14 @@
       "maternal_grandmother": null
     },
     "godparents": {
-      "godfather": null,
+      "godfather": "1996_jose_ferrer",
       "godmother": null
     }
   },
   "relations_detail": {
     "parents_names": [
       "Bartolomé Solsona Miralles",
-      "Maria Ignés Ribera Roig"
+      "Ignés Ribera Roig"
     ],
     "father_name": "Bartolomé Solsona Miralles",
     "mother_name": "Maria Ignés Ribera Roig",

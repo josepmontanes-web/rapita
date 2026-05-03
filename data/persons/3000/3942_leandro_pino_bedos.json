@@ -22,10 +22,11 @@
   },
   "family": {
     "parents": [
-      "3935_victorio_pino_aliau"
+      "3935_victorio_pino_aliau",
+      "542_mariana_bedos_rallo"
     ],
     "father": "3935_victorio_pino_aliau",
-    "mother": null,
+    "mother": "542_mariana_bedos_rallo",
     "spouse": [],
     "children": [],
     "grandparents": {
@@ -42,7 +43,7 @@
   "relations_detail": {
     "parents_names": [
       "Victorio Pino Aliau",
-      "Maria Ana Bedós Rallo"
+      "Mariana Bedós Rallo"
     ],
     "father_name": "Victorio Pino Aliau",
     "mother_name": "Maria Ana Bedós Rallo",

@@ -30,14 +30,14 @@
     "spouse": [],
     "children": [],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "5497_bautista_vidal",
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
-      "maternal_grandmother": null
+      "maternal_grandfather": "5221_juan_talarn",
+      "maternal_grandmother": "5424_teresa_valldeperez"
     },
     "godparents": {
-      "godfather": null,
-      "godmother": null
+      "godfather": "1990_pedro_ferran",
+      "godmother": "5424_teresa_valldeperez"
     }
   },
   "relations_detail": {
@@ -50,14 +50,14 @@
     "spouse_names": [],
     "children_names": [],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "Bautista Vidal",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
-      "maternal_grandmother": ""
+      "maternal_grandfather": "Juan Talarn",
+      "maternal_grandmother": "Teresa Valldeperez"
     },
     "godparents_names": {
       "godfather": "Pedro Ferran",
-      "godmother": null
+      "godmother": "Teresa Valldeperez"
     }
   },
   "occupation": {

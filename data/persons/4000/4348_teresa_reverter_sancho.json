@@ -32,9 +32,9 @@
     ],
     "children": [],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "4177_agustin_reverter",
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
+      "maternal_grandfather": "4833_jose_sancho",
       "maternal_grandmother": null
     },
     "godparents": {
@@ -54,9 +54,9 @@
     ],
     "children_names": [],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "Agustín Reverter",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
+      "maternal_grandfather": "José Sancho",
       "maternal_grandmother": ""
     },
     "godparents_names": {

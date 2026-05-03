@@ -22,9 +22,10 @@
   },
   "family": {
     "parents": [
+      "3365_jose_mies_montes",
       "1888_ana_esteve_masconda"
     ],
-    "father": null,
+    "father": "3365_jose_mies_montes",
     "mother": "1888_ana_esteve_masconda",
     "spouse": [],
     "children": [],
@@ -41,7 +42,7 @@
   },
   "relations_detail": {
     "parents_names": [
-      "Josef Míes Montes",
+      "José Míes Montes",
       "Ana Esteve Masconda"
     ],
     "father_name": "Josef Míes Montes",

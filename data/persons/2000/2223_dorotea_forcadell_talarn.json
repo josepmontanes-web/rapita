@@ -21,15 +21,17 @@
     "lng": null
   },
   "family": {
-    "parents": [],
-    "father": null,
+    "parents": [
+      "2222_jose_forcadell_segarra"
+    ],
+    "father": "2222_jose_forcadell_segarra",
     "mother": null,
     "spouse": [],
     "children": [],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "2177_jose_forcadell",
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
+      "maternal_grandfather": "5221_juan_talarn",
       "maternal_grandmother": null
     },
     "godparents": {
@@ -39,7 +41,7 @@
   },
   "relations_detail": {
     "parents_names": [
-      "Josef Forcadell Segarra",
+      "José Forcadell Segarra",
       "Francisca Talarn Valldeperes"
     ],
     "father_name": "Josef Forcadell Segarra",
@@ -47,9 +49,9 @@
     "spouse_names": [],
     "children_names": [],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "José Forcadell",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
+      "maternal_grandfather": "Juan Talarn",
       "maternal_grandmother": ""
     },
     "godparents_names": {

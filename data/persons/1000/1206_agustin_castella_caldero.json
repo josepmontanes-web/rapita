@@ -22,9 +22,10 @@
   },
   "family": {
     "parents": [
+      "1344_jose_castella_zaragoza",
       "929_maria_caldero_ferre"
     ],
-    "father": null,
+    "father": "1344_jose_castella_zaragoza",
     "mother": "929_maria_caldero_ferre",
     "spouse": [
       "3646_josefa_navarro_lluis"
@@ -37,19 +38,19 @@
       "1294_carlos_castella_navarro"
     ],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "1164_bautista_castella",
       "paternal_grandmother": null,
       "maternal_grandfather": null,
       "maternal_grandmother": null
     },
     "godparents": {
       "godfather": null,
-      "godmother": null
+      "godmother": "4583_agustina_rubio"
     }
   },
   "relations_detail": {
     "parents_names": [
-      "Joseph Castellà Zaragoza",
+      "José Castellà Zaragoza",
       "María Calderó Ferré"
     ],
     "father_name": "Joseph Castellà Zaragoza",
@@ -65,14 +66,14 @@
       "Carlos Castellà Navarro"
     ],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "Bautista Castellà",
       "paternal_grandmother": "",
       "maternal_grandfather": "",
       "maternal_grandmother": ""
     },
     "godparents_names": {
       "godfather": "Joseph Antonio Pasqual",
-      "godmother": null
+      "godmother": "Agustina Rubio"
     }
   },
   "occupation": {

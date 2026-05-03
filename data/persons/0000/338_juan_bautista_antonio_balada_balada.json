@@ -37,7 +37,7 @@
     },
     "godparents": {
       "godfather": null,
-      "godmother": null
+      "godmother": "318_josefa_balada"
     }
   },
   "relations_detail": {
@@ -57,7 +57,7 @@
     },
     "godparents_names": {
       "godfather": "Juan Castellà",
-      "godmother": null
+      "godmother": "Josefa Balada"
     }
   },
   "occupation": {

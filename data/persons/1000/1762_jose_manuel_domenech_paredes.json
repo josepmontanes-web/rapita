@@ -38,7 +38,7 @@
       "maternal_grandmother": null
     },
     "godparents": {
-      "godfather": null,
+      "godfather": "4142_jose_ramon",
       "godmother": null
     }
   },
@@ -60,7 +60,7 @@
       "maternal_grandmother": ""
     },
     "godparents_names": {
-      "godfather": "Josef Ramón",
+      "godfather": "José Ramón",
       "godmother": null
     }
   },

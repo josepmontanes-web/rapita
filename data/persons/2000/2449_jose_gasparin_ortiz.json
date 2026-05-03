@@ -32,6 +32,7 @@
     "children": [
       "2406_jose_gasparin_cid",
       "2408_feliz_gasparin_cid",
+      "2409_francisco_rafael_gasparin_cid",
       "2410_jose_gasparin_cid"
     ],
     "grandparents": {
@@ -57,7 +58,8 @@
     ],
     "children_names": [
       "José Gasparín Cid",
-      "Feliz Gasparín Cid"
+      "Feliz Gasparín Cid",
+      "Francisco Rafael Gasparín Cid"
     ],
     "grandparents_names": {
       "paternal_grandfather": "",

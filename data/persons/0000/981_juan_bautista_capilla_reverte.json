@@ -30,10 +30,10 @@
     "spouse": [],
     "children": [],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "973_jose_capilla",
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
-      "maternal_grandmother": null
+      "maternal_grandfather": "4173_jose_reverter",
+      "maternal_grandmother": "4825_rosa_sancho"
     },
     "godparents": {
       "godfather": null,
@@ -50,10 +50,10 @@
     "spouse_names": [],
     "children_names": [],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "José Capilla",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
-      "maternal_grandmother": ""
+      "maternal_grandfather": "José Reverter",
+      "maternal_grandmother": "Rosa Sancho"
     },
     "godparents_names": {
       "godfather": "Juan Castellà",

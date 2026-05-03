@@ -22,10 +22,11 @@
   },
   "family": {
     "parents": [
-      "1934_vicente_fabregat_sancho"
+      "1934_vicente_fabregat_sancho",
+      "4908_francisca_sancho_pla"
     ],
     "father": "1934_vicente_fabregat_sancho",
-    "mother": null,
+    "mother": "4908_francisca_sancho_pla",
     "spouse": [
       "4859_joaquin_sancho_bort"
     ],
@@ -44,7 +45,7 @@
   "relations_detail": {
     "parents_names": [
       "Vicente Fabregat Sancho",
-      "Francisca Sancho Safont"
+      "Francisca Sancho Pla"
     ],
     "father_name": "Vicente Fabregat Sancho",
     "mother_name": "Francisca Sancho Safont",

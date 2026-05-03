@@ -21,9 +21,12 @@
     "lng": null
   },
   "family": {
-    "parents": [],
-    "father": null,
-    "mother": null,
+    "parents": [
+      "2668_jose_gras_beltran",
+      "3196_tomasa_matamoros_elies"
+    ],
+    "father": "2668_jose_gras_beltran",
+    "mother": "3196_tomasa_matamoros_elies",
     "spouse": [],
     "children": [],
     "grandparents": {
@@ -39,8 +42,8 @@
   },
   "relations_detail": {
     "parents_names": [
-      "Josef Gras Beltràn",
-      "Thomasa Matamoros Elies"
+      "José Gras Beltran",
+      "Tomasa Matamoros Elíes"
     ],
     "father_name": "Josef Gras Beltràn",
     "mother_name": "Thomasa Matamoros Elies",

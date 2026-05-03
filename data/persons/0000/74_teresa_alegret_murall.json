@@ -22,10 +22,11 @@
   },
   "family": {
     "parents": [
-      "79_christobal_alegret_riba"
+      "79_christobal_alegret_riba",
+      "3582_teresa_murall_garcia"
     ],
     "father": "79_christobal_alegret_riba",
-    "mother": null,
+    "mother": "3582_teresa_murall_garcia",
     "spouse": [
       "2835_miguel_izquierdo_caldero"
     ],
@@ -46,7 +47,7 @@
   "relations_detail": {
     "parents_names": [
       "Christobal Alegret Riba",
-      "Teresa Murall"
+      "Teresa Murall García"
     ],
     "father_name": "Christobal Alegret",
     "mother_name": "Teresa Murall",

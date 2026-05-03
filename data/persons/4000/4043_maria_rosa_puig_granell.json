@@ -29,7 +29,13 @@
     "spouse": [
       "4485_jose_romeu_pla"
     ],
-    "children": [],
+    "children": [
+      "4487_isabel_romeu_puig",
+      "4488_mariano_romeu_puig",
+      "4489_jose_tomas_romeu_puig",
+      "4491_maria_ana_romeu_puig",
+      "4492_maria_romeu_puig"
+    ],
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
@@ -51,7 +57,13 @@
     "spouse_names": [
       "José Romeu Pla"
     ],
-    "children_names": [],
+    "children_names": [
+      "Isabel Romeu Puig",
+      "Mariano Romeu Puig",
+      "José Tomás Romeu Puig",
+      "Maria Ana Romeu Puig",
+      "María Romeu Puig"
+    ],
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",

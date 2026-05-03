@@ -30,9 +30,14 @@
     "spouse": [
       "4261_juan_reverter_forner"
     ],
-    "children": [],
+    "children": [
+      "4370_juan_bautista_reverter_talarn",
+      "4372_jose_reverter_talarn",
+      "4373_jose_agustin_reverter_talarn",
+      "4374_rosa_reverter_talarn"
+    ],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "5221_juan_talarn",
       "paternal_grandmother": null,
       "maternal_grandfather": null,
       "maternal_grandmother": null
@@ -52,9 +57,14 @@
     "spouse_names": [
       "Juan Reverter Forner"
     ],
-    "children_names": [],
+    "children_names": [
+      "Juan Bautista Reverter Talarn",
+      "José Reverter Talarn",
+      "José Agustín Reverter Talarn",
+      "Rosa Reverter Talarn"
+    ],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "Juan Talarn",
       "paternal_grandmother": "",
       "maternal_grandfather": "",
       "maternal_grandmother": ""

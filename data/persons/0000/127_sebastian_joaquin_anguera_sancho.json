@@ -38,8 +38,8 @@
       "maternal_grandmother": null
     },
     "godparents": {
-      "godfather": null,
-      "godmother": null
+      "godfather": "5407_sebastian_trillero",
+      "godmother": "3384_vicenta_milian"
     }
   },
   "relations_detail": {
@@ -61,7 +61,7 @@
     },
     "godparents_names": {
       "godfather": "Sebastián Trillero",
-      "godmother": null
+      "godmother": "Vicenta Milián"
     }
   },
   "occupation": {

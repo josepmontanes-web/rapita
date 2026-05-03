@@ -21,25 +21,27 @@
     "lng": null
   },
   "family": {
-    "parents": [],
-    "father": null,
+    "parents": [
+      "5068_jose_segarra_miralles"
+    ],
+    "father": "5068_jose_segarra_miralles",
     "mother": null,
     "spouse": [],
     "children": [],
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
+      "maternal_grandfather": "5336_jose_torta",
       "maternal_grandmother": null
     },
     "godparents": {
       "godfather": null,
-      "godmother": null
+      "godmother": "4176_francisca_reverter"
     }
   },
   "relations_detail": {
     "parents_names": [
-      "Josef Segarra Miralles",
+      "José Segarra Miralles",
       "Tomasa Torta Llazat"
     ],
     "father_name": "Josef Segarra Miralles",
@@ -49,12 +51,12 @@
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
+      "maternal_grandfather": "José Torta",
       "maternal_grandmother": ""
     },
     "godparents_names": {
       "godfather": "Tomás Torta",
-      "godmother": null
+      "godmother": "Francisca Reverter"
     }
   },
   "occupation": {

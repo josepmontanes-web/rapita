@@ -21,8 +21,10 @@
     "lng": null
   },
   "family": {
-    "parents": [],
-    "father": null,
+    "parents": [
+      "52_jose_albesa_valldeperez"
+    ],
+    "father": "52_jose_albesa_valldeperez",
     "mother": null,
     "spouse": [],
     "children": [],
@@ -38,8 +40,10 @@
     }
   },
   "relations_detail": {
-    "parents_names": [],
-    "father_name": null,
+    "parents_names": [
+      "José Albesa Valldepérez"
+    ],
+    "father_name": "José Albesa Valldepérez",
     "mother_name": null,
     "spouse_names": [],
     "children_names": [],

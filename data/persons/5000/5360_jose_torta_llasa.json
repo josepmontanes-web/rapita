@@ -27,7 +27,9 @@
     "father": "5336_jose_torta",
     "mother": null,
     "spouse": [],
-    "children": [],
+    "children": [
+      "5356_mariano_jose_torta_fabregat"
+    ],
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
@@ -49,7 +51,9 @@
     "spouse_names": [
       "Josefa Fabregat Mateu"
     ],
-    "children_names": [],
+    "children_names": [
+      "Mariano José Torta Fabregat"
+    ],
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",

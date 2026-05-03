@@ -22,10 +22,11 @@
   },
   "family": {
     "parents": [
-      "258_jose_arlandez_o_arlandes_homedes"
+      "258_jose_arlandez_o_arlandes_homedes",
+      "1202_francisca_castella_caldero"
     ],
     "father": "258_jose_arlandez_o_arlandes_homedes",
-    "mother": null,
+    "mother": "1202_francisca_castella_caldero",
     "spouse": [],
     "children": [],
     "grandparents": {

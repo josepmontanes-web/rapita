@@ -29,14 +29,14 @@
     "spouse": [],
     "children": [],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "2978_manuel_lopez",
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
+      "maternal_grandfather": "493_jayme_barbera",
       "maternal_grandmother": null
     },
     "godparents": {
-      "godfather": null,
-      "godmother": null
+      "godfather": "3816_jose_antonio_pascual",
+      "godmother": "4583_agustina_rubio"
     }
   },
   "relations_detail": {
@@ -49,14 +49,14 @@
     "spouse_names": [],
     "children_names": [],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "Manuel López",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
+      "maternal_grandfather": "Jayme Barberà",
       "maternal_grandmother": ""
     },
     "godparents_names": {
-      "godfather": "Josef Antonio Pascual",
-      "godmother": null
+      "godfather": "José Antonio Pascual",
+      "godmother": "Agustina Rubio"
     }
   },
   "occupation": {

@@ -21,9 +21,12 @@
     "lng": null
   },
   "family": {
-    "parents": [],
-    "father": null,
-    "mother": null,
+    "parents": [
+      "1043_francisco_carles_reverter",
+      "23_dorotea_adell_llagostera"
+    ],
+    "father": "1043_francisco_carles_reverter",
+    "mother": "23_dorotea_adell_llagostera",
     "spouse": [],
     "children": [],
     "grandparents": {
@@ -38,9 +41,12 @@
     }
   },
   "relations_detail": {
-    "parents_names": [],
-    "father_name": null,
-    "mother_name": null,
+    "parents_names": [
+      "Francisco Carles Reverter",
+      "Dorotea Adell Llagostera"
+    ],
+    "father_name": "Francisco Carles Reverter",
+    "mother_name": "Dorotea Adell Llagostera",
     "spouse_names": [],
     "children_names": [],
     "grandparents_names": {

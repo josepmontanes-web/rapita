@@ -22,14 +22,15 @@
   },
   "family": {
     "parents": [
-      "2185_jose_forcadell_bedos"
+      "2185_jose_forcadell_bedos",
+      "2578_isabel_giner_hernandez"
     ],
     "father": "2185_jose_forcadell_bedos",
-    "mother": null,
+    "mother": "2578_isabel_giner_hernandez",
     "spouse": [],
     "children": [],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "2175_francisco_forcadell",
       "paternal_grandmother": null,
       "maternal_grandfather": null,
       "maternal_grandmother": null
@@ -42,14 +43,14 @@
   "relations_detail": {
     "parents_names": [
       "José Forcadell Bedós",
-      "Isabel Giner Arlandes"
+      "Isabel Giner Hernández"
     ],
     "father_name": "José Forcadell Bedós",
     "mother_name": "Isabel Giner Arlandes",
     "spouse_names": [],
     "children_names": [],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "Francisco Forcadell",
       "paternal_grandmother": "",
       "maternal_grandfather": "",
       "maternal_grandmother": ""

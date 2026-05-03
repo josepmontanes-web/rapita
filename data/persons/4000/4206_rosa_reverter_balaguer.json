@@ -27,14 +27,14 @@
     "spouse": [],
     "children": [],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "4173_jose_reverter",
       "paternal_grandmother": null,
       "maternal_grandfather": null,
       "maternal_grandmother": null
     },
     "godparents": {
       "godfather": null,
-      "godmother": null
+      "godmother": "4825_rosa_sancho"
     }
   },
   "relations_detail": {
@@ -47,14 +47,14 @@
     "spouse_names": [],
     "children_names": [],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "José Reverter",
       "paternal_grandmother": "",
       "maternal_grandfather": "",
       "maternal_grandmother": ""
     },
     "godparents_names": {
       "godfather": null,
-      "godmother": null
+      "godmother": "Rosa Sancho"
     }
   },
   "occupation": {

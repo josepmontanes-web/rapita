@@ -38,9 +38,9 @@
       "5058_maria_de_la_cinta_segarra_guardia"
     ],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "2698_blas_guardia",
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
+      "maternal_grandfather": "802_jose_bort",
       "maternal_grandmother": null
     },
     "godparents": {
@@ -66,9 +66,9 @@
       "Maria de la Cinta Segarra Guardia"
     ],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "Blas Guardia",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
+      "maternal_grandfather": "José Bort",
       "maternal_grandmother": ""
     },
     "godparents_names": {

@@ -32,8 +32,8 @@
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
-      "maternal_grandmother": null
+      "maternal_grandfather": "3593_pedro_navarro",
+      "maternal_grandmother": "2973_ildefonsa_lluis"
     },
     "godparents": {
       "godfather": null,
@@ -52,8 +52,8 @@
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
-      "maternal_grandmother": ""
+      "maternal_grandfather": "Pedro Navarro",
+      "maternal_grandmother": "Ildefonsa Lluís"
     },
     "godparents_names": {
       "godfather": null,

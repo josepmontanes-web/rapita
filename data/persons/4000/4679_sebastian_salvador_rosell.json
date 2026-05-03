@@ -22,16 +22,17 @@
   },
   "family": {
     "parents": [
-      "4669_matheo_salvador_christofol"
+      "4669_matheo_salvador_christofol",
+      "4565_teresa_rosell_cartes"
     ],
     "father": "4669_matheo_salvador_christofol",
-    "mother": null,
+    "mother": "4565_teresa_rosell_cartes",
     "spouse": [],
     "children": [],
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
+      "maternal_grandfather": "4560_jose_antonio_rosell",
       "maternal_grandmother": null
     },
     "godparents": {
@@ -42,7 +43,7 @@
   "relations_detail": {
     "parents_names": [
       "Matheo Salvador Christofol",
-      "Theresa Rosell Cartes"
+      "Teresa Rosell Cartes"
     ],
     "father_name": "Matheo Salvador Christofol",
     "mother_name": "Theresa Rosell Cartes",
@@ -51,7 +52,7 @@
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
+      "maternal_grandfather": "José Antonio Rosell",
       "maternal_grandmother": ""
     },
     "godparents_names": {

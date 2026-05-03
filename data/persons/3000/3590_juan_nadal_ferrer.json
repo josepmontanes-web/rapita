@@ -22,16 +22,17 @@
   },
   "family": {
     "parents": [
+      "3586_jose_nadal_bigatana",
       "2047_maria_angela_ferrer_gorgorio"
     ],
-    "father": null,
+    "father": "3586_jose_nadal_bigatana",
     "mother": "2047_maria_angela_ferrer_gorgorio",
     "spouse": [],
     "children": [],
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
+      "maternal_grandfather": "1996_jose_ferrer",
       "maternal_grandmother": null
     },
     "godparents": {
@@ -41,7 +42,7 @@
   },
   "relations_detail": {
     "parents_names": [
-      "Josef Nadal Bigatana",
+      "José Nadal Bigatana",
       "Maria Angela Ferrer Gorgorio"
     ],
     "father_name": "Josef Nadal Bigatana",
@@ -51,7 +52,7 @@
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
+      "maternal_grandfather": "José Ferrer",
       "maternal_grandmother": ""
     },
     "godparents_names": {

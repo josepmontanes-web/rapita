@@ -31,11 +31,11 @@
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
+      "maternal_grandfather": "1995_pedro_ferrer",
       "maternal_grandmother": null
     },
     "godparents": {
-      "godfather": null,
+      "godfather": "4175_miguel_reverter",
       "godmother": null
     }
   },
@@ -51,7 +51,7 @@
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
+      "maternal_grandfather": "Pedro Ferrer",
       "maternal_grandmother": ""
     },
     "godparents_names": {

@@ -28,7 +28,9 @@
     "father": "5288_joaquin_tomas",
     "mother": "4710_joaquina_sanchis_o_sanchez",
     "spouse": [],
-    "children": [],
+    "children": [
+      "211_juan_arbo_tomas"
+    ],
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
@@ -50,7 +52,9 @@
     "spouse_names": [
       "Antonio Arbó Anglès"
     ],
-    "children_names": [],
+    "children_names": [
+      "Juan Arbó Tomas"
+    ],
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",

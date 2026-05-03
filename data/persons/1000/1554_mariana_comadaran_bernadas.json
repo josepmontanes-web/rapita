@@ -28,7 +28,10 @@
       "1825_ramon_estape"
     ],
     "children": [
-      "1646_juan_modesto_cruelles_comadaran"
+      "1646_juan_modesto_cruelles_comadaran",
+      "1826_0_1900",
+      "1827_0_1834",
+      "1829_0_1829"
     ],
     "grandparents": {
       "paternal_grandfather": null,
@@ -54,7 +57,10 @@
       "Pedro Francisco Alegre"
     ],
     "children_names": [
-      "Juan Modesto Cruelles Comadaran"
+      "Juan Modesto Cruelles Comadaran",
+      "0 1900",
+      "0 1834",
+      "0 1829"
     ],
     "grandparents_names": {
       "paternal_grandfather": "",

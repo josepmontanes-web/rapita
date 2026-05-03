@@ -34,13 +34,13 @@
       "4594_josefa_sabater_matamoros"
     ],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "3159_bautista_matamoros",
       "paternal_grandmother": null,
       "maternal_grandfather": null,
       "maternal_grandmother": null
     },
     "godparents": {
-      "godfather": null,
+      "godfather": "4175_miguel_reverter",
       "godmother": null
     }
   },
@@ -58,7 +58,7 @@
       "Josefa Sabater Matamoros"
     ],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "Bautista Matamoros",
       "paternal_grandmother": "",
       "maternal_grandfather": "",
       "maternal_grandmother": ""

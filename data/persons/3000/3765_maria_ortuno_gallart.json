@@ -27,7 +27,10 @@
     "spouse": [
       "4980_juan_sans_cavalle"
     ],
-    "children": [],
+    "children": [
+      "5006_maria_francisca_sans_ortuno",
+      "5007_joaquin_sans_ortuno"
+    ],
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
@@ -49,7 +52,10 @@
     "spouse_names": [
       "Juan Sans Cavallé"
     ],
-    "children_names": [],
+    "children_names": [
+      "Maria Francisca Sans Ortuño",
+      "Joaquín Sans Ortuño"
+    ],
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",

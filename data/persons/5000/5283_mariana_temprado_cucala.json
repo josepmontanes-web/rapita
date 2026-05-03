@@ -21,8 +21,10 @@
     "lng": null
   },
   "family": {
-    "parents": [],
-    "father": null,
+    "parents": [
+      "5282_jose_temprado"
+    ],
+    "father": "5282_jose_temprado",
     "mother": null,
     "spouse": [],
     "children": [
@@ -42,7 +44,7 @@
   },
   "relations_detail": {
     "parents_names": [
-      "Josef Temprado",
+      "José Temprado",
       "Maria Teresa Cucala"
     ],
     "father_name": "Josef Temprado",

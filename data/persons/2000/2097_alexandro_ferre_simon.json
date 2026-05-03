@@ -21,9 +21,11 @@
     "lng": null
   },
   "family": {
-    "parents": [],
+    "parents": [
+      "5139_mariana_simon_sancho"
+    ],
     "father": null,
-    "mother": null,
+    "mother": "5139_mariana_simon_sancho",
     "spouse": [],
     "children": [
       "5143_joseph_alexandro_simon_fortera"
@@ -32,7 +34,7 @@
       "paternal_grandfather": null,
       "paternal_grandmother": null,
       "maternal_grandfather": null,
-      "maternal_grandmother": null
+      "maternal_grandmother": "4831_manuela_sancho"
     },
     "godparents": {
       "godfather": null,
@@ -42,7 +44,7 @@
   "relations_detail": {
     "parents_names": [
       "Joseph Ferré Marín",
-      "María Ana Simón Sancho"
+      "Mariana Simón Sancho"
     ],
     "father_name": "Joseph Ferré Marín",
     "mother_name": "María Ana Simón Sancho",
@@ -54,7 +56,7 @@
       "paternal_grandfather": "",
       "paternal_grandmother": "",
       "maternal_grandfather": "",
-      "maternal_grandmother": ""
+      "maternal_grandmother": "Manuela Sancho"
     },
     "godparents_names": {
       "godfather": "Alexandro Beltrí",

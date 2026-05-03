@@ -22,10 +22,11 @@
   },
   "family": {
     "parents": [
-      "4548_antonio_rosales_sole"
+      "4548_antonio_rosales_sole",
+      "5429_teresa_valls_peralta"
     ],
     "father": "4548_antonio_rosales_sole",
-    "mother": null,
+    "mother": "5429_teresa_valls_peralta",
     "spouse": [
       "1235_antonia_castella_colomines"
     ],
@@ -53,7 +54,7 @@
   "relations_detail": {
     "parents_names": [
       "Antonio Rosales Solé",
-      "Teresa Valls"
+      "Teresa Valls Peralta"
     ],
     "father_name": "Antonio Rosales Solé",
     "mother_name": "Teresa Valls",

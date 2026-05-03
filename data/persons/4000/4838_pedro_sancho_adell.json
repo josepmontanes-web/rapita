@@ -22,10 +22,11 @@
   },
   "family": {
     "parents": [
-      "4902_miguel_sancho_matamoros"
+      "4902_miguel_sancho_matamoros",
+      "35_rosa_adell_tallada"
     ],
     "father": "4902_miguel_sancho_matamoros",
-    "mother": null,
+    "mother": "35_rosa_adell_tallada",
     "spouse": [],
     "children": [],
     "grandparents": {
@@ -42,7 +43,7 @@
   "relations_detail": {
     "parents_names": [
       "Miguel Sancho Matamoros",
-      "Rosa Adell"
+      "Rosa Adell Tallada"
     ],
     "father_name": "Miguel Sancho Matamoros",
     "mother_name": "Rosa Adell",

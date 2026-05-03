@@ -29,7 +29,10 @@
     "spouse": [
       "4853_pedro_sancho_biosca"
     ],
-    "children": [],
+    "children": [
+      "4907_ana_raymunda_sancho_pla",
+      "4908_francisca_sancho_pla"
+    ],
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
@@ -51,7 +54,10 @@
     "spouse_names": [
       "Pedro Sancho Biosca"
     ],
-    "children_names": [],
+    "children_names": [
+      "Ana Raymunda Sancho Pla",
+      "Francisca Sancho Pla"
+    ],
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",

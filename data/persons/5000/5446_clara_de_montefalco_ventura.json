@@ -33,8 +33,8 @@
       "maternal_grandmother": null
     },
     "godparents": {
-      "godfather": null,
-      "godmother": null
+      "godfather": "1996_jose_ferrer",
+      "godmother": "2557_josefa_giner"
     }
   },
   "relations_detail": {
@@ -51,7 +51,7 @@
     },
     "godparents_names": {
       "godfather": "José Ferrer",
-      "godmother": null
+      "godmother": "Josefa Giner"
     }
   },
   "occupation": {

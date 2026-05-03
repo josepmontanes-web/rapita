@@ -36,7 +36,7 @@
       "maternal_grandmother": null
     },
     "godparents": {
-      "godfather": null,
+      "godfather": "4173_jose_reverter",
       "godmother": null
     }
   },
@@ -56,7 +56,7 @@
       "maternal_grandmother": ""
     },
     "godparents_names": {
-      "godfather": "Josef Reverter",
+      "godfather": "José Reverter",
       "godmother": null
     }
   },

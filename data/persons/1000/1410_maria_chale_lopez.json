@@ -33,11 +33,11 @@
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
+      "maternal_grandfather": "2978_manuel_lopez",
       "maternal_grandmother": null
     },
     "godparents": {
-      "godfather": null,
+      "godfather": "3439_francisco_mola",
       "godmother": null
     }
   },
@@ -55,7 +55,7 @@
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
+      "maternal_grandfather": "Manuel López",
       "maternal_grandmother": ""
     },
     "godparents_names": {

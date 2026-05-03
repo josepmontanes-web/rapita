@@ -21,8 +21,10 @@
     "lng": null
   },
   "family": {
-    "parents": [],
-    "father": null,
+    "parents": [
+      "4191_jose_reverter_balada"
+    ],
+    "father": "4191_jose_reverter_balada",
     "mother": null,
     "spouse": [],
     "children": [],
@@ -39,7 +41,7 @@
   },
   "relations_detail": {
     "parents_names": [
-      "Josef Reverter Balada",
+      "José Reverter Balada",
       "Theresa Llupiá Pons"
     ],
     "father_name": "Josef Reverter Balada",

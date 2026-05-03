@@ -22,10 +22,11 @@
   },
   "family": {
     "parents": [
-      "968_blas_cantero_martinez"
+      "968_blas_cantero_martinez",
+      "3932_antonia_pinar_baran"
     ],
     "father": "968_blas_cantero_martinez",
-    "mother": null,
+    "mother": "3932_antonia_pinar_baran",
     "spouse": [],
     "children": [
       "969_maria_ana_cantero_zaragoza",
@@ -45,7 +46,7 @@
   "relations_detail": {
     "parents_names": [
       "Blas Cantero Martínez",
-      "Antonia Pinart Baran"
+      "Antonia Pinar Baran"
     ],
     "father_name": "Blas Cantero Martínez",
     "mother_name": "Antonia Pinart Baran",

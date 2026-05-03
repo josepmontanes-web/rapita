@@ -22,9 +22,10 @@
   },
   "family": {
     "parents": [
+      "3171_jose_matamoros_biosca",
       "5392_manuela_torta_subirats"
     ],
-    "father": null,
+    "father": "3171_jose_matamoros_biosca",
     "mother": "5392_manuela_torta_subirats",
     "spouse": [],
     "children": [],
@@ -41,7 +42,7 @@
   },
   "relations_detail": {
     "parents_names": [
-      "Josef Matamoros Biosca",
+      "José Matamoros Biosca",
       "Manuela Torta Subirats"
     ],
     "father_name": "Josef Matamoros Biosca",

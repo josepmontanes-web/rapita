@@ -26,7 +26,11 @@
     "mother": null,
     "spouse": [],
     "children": [
-      "5317_agustina_torne_grego"
+      "5316_angela_torne_grego",
+      "5317_agustina_torne_grego",
+      "5318_antonia_torne_grego",
+      "5319_maria_torne_grego",
+      "5320_ignacio_torne_grego"
     ],
     "grandparents": {
       "paternal_grandfather": null,
@@ -45,7 +49,11 @@
     "mother_name": null,
     "spouse_names": [],
     "children_names": [
-      "Agustina Torné Grego"
+      "Angela Torné Grego",
+      "Agustina Torné Grego",
+      "Antonia Torné Grego",
+      "María Torné Grego",
+      "Ignacio Torné Grego"
     ],
     "grandparents_names": {
       "paternal_grandfather": "",

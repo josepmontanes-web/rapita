@@ -22,10 +22,11 @@
   },
   "family": {
     "parents": [
-      "2978_manuel_lopez"
+      "2978_manuel_lopez",
+      "2354_agustina_garcia_mendoza"
     ],
     "father": "2978_manuel_lopez",
-    "mother": null,
+    "mother": "2354_agustina_garcia_mendoza",
     "spouse": [],
     "children": [
       "1405_manuel_chale_lopez",
@@ -50,7 +51,7 @@
   "relations_detail": {
     "parents_names": [
       "Manuel López",
-      "Agustina García"
+      "Agustina García Mendoza"
     ],
     "father_name": "Manuel López",
     "mother_name": "Agustina García",

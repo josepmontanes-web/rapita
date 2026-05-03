@@ -29,7 +29,7 @@
     "spouse": [],
     "children": [],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "5221_juan_talarn",
       "paternal_grandmother": null,
       "maternal_grandfather": null,
       "maternal_grandmother": null
@@ -51,7 +51,7 @@
     ],
     "children_names": [],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "Juan Talarn",
       "paternal_grandmother": "",
       "maternal_grandfather": "",
       "maternal_grandmother": ""

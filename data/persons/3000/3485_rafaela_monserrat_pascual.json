@@ -33,10 +33,10 @@
       "paternal_grandfather": null,
       "paternal_grandmother": null,
       "maternal_grandfather": null,
-      "maternal_grandmother": null
+      "maternal_grandmother": "2270_antonia_fuster"
     },
     "godparents": {
-      "godfather": null,
+      "godfather": "3383_joaquin_milian",
       "godmother": null
     }
   },
@@ -53,7 +53,7 @@
       "paternal_grandfather": "",
       "paternal_grandmother": "",
       "maternal_grandfather": "",
-      "maternal_grandmother": ""
+      "maternal_grandmother": "Antonia Fuster"
     },
     "godparents_names": {
       "godfather": "Joaquín Milian",

@@ -21,8 +21,10 @@
     "lng": null
   },
   "family": {
-    "parents": [],
-    "father": null,
+    "parents": [
+      "67_jose_albiol_o_obiol_simo"
+    ],
+    "father": "67_jose_albiol_o_obiol_simo",
     "mother": null,
     "spouse": [],
     "children": [],
@@ -38,8 +40,10 @@
     }
   },
   "relations_detail": {
-    "parents_names": [],
-    "father_name": null,
+    "parents_names": [
+      "José Albiol [o Obiol] Simó"
+    ],
+    "father_name": "José Albiol [o Obiol] Simó",
     "mother_name": null,
     "spouse_names": [],
     "children_names": [],

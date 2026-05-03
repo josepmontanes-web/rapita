@@ -22,9 +22,10 @@
   },
   "family": {
     "parents": [
+      "460_josef_balaguer_salvado",
       "2793_teresa_homedes_cartes"
     ],
-    "father": null,
+    "father": "460_josef_balaguer_salvado",
     "mother": "2793_teresa_homedes_cartes",
     "spouse": [
       "3506_francisco_moreso_besalduch"
@@ -43,7 +44,7 @@
   },
   "relations_detail": {
     "parents_names": [
-      "José Balaguer Salvadó",
+      "Josef Balaguer Salvadó",
       "Teresa Homedes Cartes"
     ],
     "father_name": "José Balaguer Salvadó",

@@ -22,26 +22,27 @@
   },
   "family": {
     "parents": [
+      "2198_pelegrin_florcadell_o_forcadell_espinach",
       "4351_maria_reverter_sancho"
     ],
-    "father": null,
+    "father": "2198_pelegrin_florcadell_o_forcadell_espinach",
     "mother": "4351_maria_reverter_sancho",
     "spouse": [],
     "children": [],
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
+      "maternal_grandfather": "4177_agustin_reverter",
       "maternal_grandmother": null
     },
     "godparents": {
-      "godfather": null,
+      "godfather": "4175_miguel_reverter",
       "godmother": null
     }
   },
   "relations_detail": {
     "parents_names": [
-      "Peregrín Florcadell Espinach",
+      "Pelegrín Florcadell [o Forcadell] Espinach",
       "María Reverter Sancho"
     ],
     "father_name": "Peregrín Florcadell Espinach",
@@ -51,7 +52,7 @@
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
+      "maternal_grandfather": "Agustín Reverter",
       "maternal_grandmother": ""
     },
     "godparents_names": {

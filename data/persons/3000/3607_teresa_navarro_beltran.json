@@ -22,10 +22,11 @@
   },
   "family": {
     "parents": [
-      "3678_jose_navarro_sol"
+      "3678_jose_navarro_sol",
+      "583_josefa_beltran_brunet"
     ],
     "father": "3678_jose_navarro_sol",
-    "mother": null,
+    "mother": "583_josefa_beltran_brunet",
     "spouse": [],
     "children": [],
     "grandparents": {
@@ -42,7 +43,7 @@
   "relations_detail": {
     "parents_names": [
       "José Navarro Sol",
-      "Josefa Beltrán Brunet"
+      "Josefa Beltran Brunet"
     ],
     "father_name": "José Navarro Sol",
     "mother_name": "Josefa Beltrán Brunet",

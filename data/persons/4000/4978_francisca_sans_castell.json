@@ -22,14 +22,15 @@
   },
   "family": {
     "parents": [
+      "5016_jose_sans_sanarau",
       "1152_mariana_castell_ortiz"
     ],
-    "father": null,
+    "father": "5016_jose_sans_sanarau",
     "mother": "1152_mariana_castell_ortiz",
     "spouse": [],
     "children": [],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "4952_rufo_sans",
       "paternal_grandmother": null,
       "maternal_grandfather": null,
       "maternal_grandmother": null
@@ -41,7 +42,7 @@
   },
   "relations_detail": {
     "parents_names": [
-      "Josef Sans Sanarau",
+      "José Sans Sanarau",
       "Mariana Castell Ortíz"
     ],
     "father_name": "Josef Sans Sanarau",
@@ -51,7 +52,7 @@
     ],
     "children_names": [],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "Rufo Sans",
       "paternal_grandmother": "",
       "maternal_grandfather": "",
       "maternal_grandmother": ""

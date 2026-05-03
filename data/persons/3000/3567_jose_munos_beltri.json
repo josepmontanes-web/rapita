@@ -22,10 +22,11 @@
   },
   "family": {
     "parents": [
-      "3571_joaquin_munoz_ibanez"
+      "3571_joaquin_munoz_ibanez",
+      "658_maria_ana_beltri_falco"
     ],
     "father": "3571_joaquin_munoz_ibanez",
-    "mother": null,
+    "mother": "658_maria_ana_beltri_falco",
     "spouse": [],
     "children": [],
     "grandparents": {
@@ -42,7 +43,7 @@
   "relations_detail": {
     "parents_names": [
       "Joaquín Muñoz Ibáñez",
-      "Mariana Beltri Falcó"
+      "Maria Ana Beltri Falcó"
     ],
     "father_name": "Joaquín Muños Ibañez",
     "mother_name": "Mariana Beltri Falcó",

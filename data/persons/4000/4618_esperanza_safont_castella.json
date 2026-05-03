@@ -34,11 +34,11 @@
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
+      "maternal_grandfather": "1164_bautista_castella",
       "maternal_grandmother": null
     },
     "godparents": {
-      "godfather": null,
+      "godfather": "1164_bautista_castella",
       "godmother": null
     }
   },
@@ -56,11 +56,11 @@
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
+      "maternal_grandfather": "Bautista Castellà",
       "maternal_grandmother": ""
     },
     "godparents_names": {
-      "godfather": "Bautista Castellá",
+      "godfather": "Bautista Castellà",
       "godmother": null
     }
   },

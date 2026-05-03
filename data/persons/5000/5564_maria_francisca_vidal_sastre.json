@@ -22,29 +22,30 @@
   },
   "family": {
     "parents": [
-      "5538_jacinto_vidal_palos"
+      "5538_jacinto_vidal_palos",
+      "5038_teresa_sastre_borrell"
     ],
     "father": "5538_jacinto_vidal_palos",
-    "mother": null,
+    "mother": "5038_teresa_sastre_borrell",
     "spouse": [
       "1517_jose_clua_cid"
     ],
     "children": [],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "5497_bautista_vidal",
       "paternal_grandmother": null,
       "maternal_grandfather": null,
       "maternal_grandmother": null
     },
     "godparents": {
       "godfather": null,
-      "godmother": null
+      "godmother": "5039_francisca_sastre_borrell"
     }
   },
   "relations_detail": {
     "parents_names": [
       "Jacinto Vidal Palos",
-      "Theresa Sastre Borrell"
+      "Teresa Sastre Borrell"
     ],
     "father_name": "Jacinto Vidal Palos",
     "mother_name": "Theresa Sastre Borrell",
@@ -53,14 +54,14 @@
     ],
     "children_names": [],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "Bautista Vidal",
       "paternal_grandmother": "",
       "maternal_grandfather": "",
       "maternal_grandmother": ""
     },
     "godparents_names": {
       "godfather": "Pedro Bresciano",
-      "godmother": null
+      "godmother": "Francisca Sastre Borrell"
     }
   },
   "occupation": {

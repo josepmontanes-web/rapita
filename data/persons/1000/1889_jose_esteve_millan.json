@@ -29,7 +29,11 @@
     "spouse": [
       "11_josefa_accensi_lazaro"
     ],
-    "children": [],
+    "children": [
+      "1874_0_1900",
+      "1875_0_1877",
+      "1876_0_1950"
+    ],
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
@@ -52,7 +56,11 @@
       "Teresa Forcadell",
       "Josefa Accensi Lázaro"
     ],
-    "children_names": [],
+    "children_names": [
+      "0 1900",
+      "0 1877",
+      "0 1950"
+    ],
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",

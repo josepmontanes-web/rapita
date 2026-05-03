@@ -22,10 +22,11 @@
   },
   "family": {
     "parents": [
-      "1172_pedro_castella_alegret"
+      "1172_pedro_castella_alegret",
+      "5233_francisca_talarn_blanch"
     ],
     "father": "1172_pedro_castella_alegret",
-    "mother": null,
+    "mother": "5233_francisca_talarn_blanch",
     "spouse": [],
     "children": [],
     "grandparents": {

@@ -30,7 +30,9 @@
     "spouse": [
       "2222_jose_forcadell_segarra"
     ],
-    "children": [],
+    "children": [
+      "2227_manuela_forcadell_talarn"
+    ],
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
@@ -52,7 +54,9 @@
     "spouse_names": [
       "José Forcadell Segarra"
     ],
-    "children_names": [],
+    "children_names": [
+      "Manuela Forcadell Talarn"
+    ],
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",

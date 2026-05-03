@@ -25,7 +25,9 @@
     "father": null,
     "mother": null,
     "spouse": [],
-    "children": [],
+    "children": [
+      "3803_jose_parra_pardo"
+    ],
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
@@ -42,7 +44,9 @@
     "father_name": null,
     "mother_name": null,
     "spouse_names": [],
-    "children_names": [],
+    "children_names": [
+      "José Parra Pardo"
+    ],
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",

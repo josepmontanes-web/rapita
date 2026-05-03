@@ -22,10 +22,11 @@
   },
   "family": {
     "parents": [
-      "4548_antonio_rosales_sole"
+      "4548_antonio_rosales_sole",
+      "5429_teresa_valls_peralta"
     ],
     "father": "4548_antonio_rosales_sole",
-    "mother": null,
+    "mother": "5429_teresa_valls_peralta",
     "spouse": [
       "5588_joaquin_vidal_talarn"
     ],
@@ -46,14 +47,14 @@
       "maternal_grandmother": null
     },
     "godparents": {
-      "godfather": null,
+      "godfather": "988_jose_carbo",
       "godmother": null
     }
   },
   "relations_detail": {
     "parents_names": [
       "Antonio Rosales Solé",
-      "Theresa Valls Peralta"
+      "Teresa Valls Peralta"
     ],
     "father_name": "Antonio Rosales Solé",
     "mother_name": "Theresa Valls Peralta",
@@ -77,7 +78,7 @@
       "maternal_grandmother": ""
     },
     "godparents_names": {
-      "godfather": "Josef Carbó",
+      "godfather": "José Carbó",
       "godmother": null
     }
   },

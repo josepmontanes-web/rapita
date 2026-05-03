@@ -32,11 +32,11 @@
       "paternal_grandfather": null,
       "paternal_grandmother": null,
       "maternal_grandfather": null,
-      "maternal_grandmother": null
+      "maternal_grandmother": "2270_antonia_fuster"
     },
     "godparents": {
       "godfather": null,
-      "godmother": null
+      "godmother": "3493_isabel_moreso"
     }
   },
   "relations_detail": {
@@ -52,11 +52,11 @@
       "paternal_grandfather": "",
       "paternal_grandmother": "",
       "maternal_grandfather": "",
-      "maternal_grandmother": ""
+      "maternal_grandmother": "Antonia Fuster"
     },
     "godparents_names": {
       "godfather": "Thomas Segarra",
-      "godmother": null
+      "godmother": "Isabel Moreso"
     }
   },
   "occupation": {

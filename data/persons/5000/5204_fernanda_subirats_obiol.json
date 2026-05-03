@@ -22,16 +22,17 @@
   },
   "family": {
     "parents": [
-      "5215_joaquin_subirats_sorolla"
+      "5215_joaquin_subirats_sorolla",
+      "3743_ana_maria_obiol_masip"
     ],
     "father": "5215_joaquin_subirats_sorolla",
-    "mother": null,
+    "mother": "3743_ana_maria_obiol_masip",
     "spouse": [],
     "children": [],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "5185_jose_subirats",
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
+      "maternal_grandfather": "3735_jose_obiol",
       "maternal_grandmother": null
     },
     "godparents": {
@@ -42,16 +43,16 @@
   "relations_detail": {
     "parents_names": [
       "Joaquín Subirats Sorolla",
-      "Agna Maria Obiol Masip"
+      "Ana Maria Obiol Masip"
     ],
     "father_name": "Joaquín Subirats Sorolla",
     "mother_name": "Agna Maria Obiol Masip",
     "spouse_names": [],
     "children_names": [],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "José Subirats",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
+      "maternal_grandfather": "José Obiol",
       "maternal_grandmother": ""
     },
     "godparents_names": {

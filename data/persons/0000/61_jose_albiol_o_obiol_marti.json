@@ -21,8 +21,10 @@
     "lng": null
   },
   "family": {
-    "parents": [],
-    "father": null,
+    "parents": [
+      "56_domingo_albiol_ferreres"
+    ],
+    "father": "56_domingo_albiol_ferreres",
     "mother": null,
     "spouse": [],
     "children": [],
@@ -38,8 +40,10 @@
     }
   },
   "relations_detail": {
-    "parents_names": [],
-    "father_name": null,
+    "parents_names": [
+      "Domingo Albiol Ferreres"
+    ],
+    "father_name": "Domingo Albiol Ferreres",
     "mother_name": null,
     "spouse_names": [],
     "children_names": [],

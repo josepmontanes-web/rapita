@@ -21,8 +21,10 @@
     "lng": null
   },
   "family": {
-    "parents": [],
-    "father": null,
+    "parents": [
+      "60_bautista_albiol_marin"
+    ],
+    "father": "60_bautista_albiol_marin",
     "mother": null,
     "spouse": [],
     "children": [],
@@ -38,8 +40,10 @@
     }
   },
   "relations_detail": {
-    "parents_names": [],
-    "father_name": null,
+    "parents_names": [
+      "Bautista Albiol Marín"
+    ],
+    "father_name": "Bautista Albiol Marín",
     "mother_name": null,
     "spouse_names": [],
     "children_names": [],

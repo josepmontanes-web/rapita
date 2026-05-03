@@ -22,9 +22,10 @@
   },
   "family": {
     "parents": [
+      "3336_jose_merga_jordan",
       "294_maria_artero_celez"
     ],
-    "father": null,
+    "father": "3336_jose_merga_jordan",
     "mother": "294_maria_artero_celez",
     "spouse": [],
     "children": [],
@@ -41,7 +42,7 @@
   },
   "relations_detail": {
     "parents_names": [
-      "Josef Merga Jordan",
+      "José Merga Jordán",
       "Maria Artero Célez"
     ],
     "father_name": "Josef Merga Jordan",

@@ -22,16 +22,17 @@
   },
   "family": {
     "parents": [
-      "2195_joaquin_forcadell_forcadell"
+      "2195_joaquin_forcadell_forcadell",
+      "2870_maria_jovani_grau"
     ],
     "father": "2195_joaquin_forcadell_forcadell",
-    "mother": null,
+    "mother": "2870_maria_jovani_grau",
     "spouse": [],
     "children": [],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "2177_jose_forcadell",
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
+      "maternal_grandfather": "2866_juan_jovani",
       "maternal_grandmother": null
     },
     "godparents": {
@@ -42,16 +43,16 @@
   "relations_detail": {
     "parents_names": [
       "Joaquín Forcadell Forcadell",
-      "Maria Jovani Grau"
+      "María Jovani Grau"
     ],
     "father_name": "Joaquín Forcadell Forcadell",
     "mother_name": "Maria Jovani Grau",
     "spouse_names": [],
     "children_names": [],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "José Forcadell",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
+      "maternal_grandfather": "Juan Jovani",
       "maternal_grandmother": ""
     },
     "godparents_names": {

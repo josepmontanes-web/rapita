@@ -22,9 +22,10 @@
   },
   "family": {
     "parents": [
+      "1636_jose_antonio_christofol_salvado",
       "2788_agustina_omedes_carles"
     ],
-    "father": null,
+    "father": "1636_jose_antonio_christofol_salvado",
     "mother": "2788_agustina_omedes_carles",
     "spouse": [
       "3507_rafaela_moreso_besalduch"
@@ -50,7 +51,7 @@
   },
   "relations_detail": {
     "parents_names": [
-      "Joseph Antonio Christofol Salvadó",
+      "José Antonio Christofol Salvadó",
       "Agustina Omedes Carles"
     ],
     "father_name": "Joseph Antonio Christofol Salvadó",

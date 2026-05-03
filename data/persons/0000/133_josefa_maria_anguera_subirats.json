@@ -37,7 +37,7 @@
     },
     "godparents": {
       "godfather": null,
-      "godmother": null
+      "godmother": "2120_josefa_fibla"
     }
   },
   "relations_detail": {
@@ -57,7 +57,7 @@
     },
     "godparents_names": {
       "godfather": "José Barrera",
-      "godmother": null
+      "godmother": "Josefa Fibla"
     }
   },
   "occupation": {

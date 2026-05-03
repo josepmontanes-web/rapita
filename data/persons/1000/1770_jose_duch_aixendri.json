@@ -21,9 +21,11 @@
     "lng": null
   },
   "family": {
-    "parents": [],
+    "parents": [
+      "48_rosa_aixendri_bonfill"
+    ],
     "father": null,
-    "mother": null,
+    "mother": "48_rosa_aixendri_bonfill",
     "spouse": [],
     "children": [],
     "grandparents": {
@@ -38,9 +40,11 @@
     }
   },
   "relations_detail": {
-    "parents_names": [],
+    "parents_names": [
+      "Rosa Aixendri Bonfill"
+    ],
     "father_name": null,
-    "mother_name": null,
+    "mother_name": "Rosa Aixendri Bonfill",
     "spouse_names": [],
     "children_names": [],
     "grandparents_names": {

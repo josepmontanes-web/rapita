@@ -22,16 +22,17 @@
   },
   "family": {
     "parents": [
+      "2568_jose_antonio_giner_ferran",
       "881_maria_budesca_fibla"
     ],
-    "father": null,
+    "father": "2568_jose_antonio_giner_ferran",
     "mother": "881_maria_budesca_fibla",
     "spouse": [],
     "children": [],
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
+      "maternal_grandfather": "878_pablo_budesca",
       "maternal_grandmother": null
     },
     "godparents": {
@@ -41,7 +42,7 @@
   },
   "relations_detail": {
     "parents_names": [
-      "Josef Antonio Giner Ferrán",
+      "José Antonio Giner Ferrán",
       "María Budesca Fibla"
     ],
     "father_name": "Josef Antonio Giner Ferrán",
@@ -51,7 +52,7 @@
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
+      "maternal_grandfather": "Pablo Budesca",
       "maternal_grandmother": ""
     },
     "godparents_names": {

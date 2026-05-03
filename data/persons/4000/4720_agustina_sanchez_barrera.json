@@ -32,8 +32,8 @@
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
-      "maternal_grandmother": null
+      "maternal_grandfather": "513_manuel_barrera",
+      "maternal_grandmother": "4828_josefa_sancho"
     },
     "godparents": {
       "godfather": null,
@@ -52,8 +52,8 @@
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
-      "maternal_grandmother": ""
+      "maternal_grandfather": "Manuel Barrera",
+      "maternal_grandmother": "Josefa Sancho"
     },
     "godparents_names": {
       "godfather": "José Barrera",

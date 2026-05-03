@@ -21,9 +21,11 @@
     "lng": null
   },
   "family": {
-    "parents": [],
+    "parents": [
+      "64_josefa_albiol_safont"
+    ],
     "father": null,
-    "mother": null,
+    "mother": "64_josefa_albiol_safont",
     "spouse": [],
     "children": [],
     "grandparents": {
@@ -38,9 +40,11 @@
     }
   },
   "relations_detail": {
-    "parents_names": [],
+    "parents_names": [
+      "Josefa Albiol Safont"
+    ],
     "father_name": null,
-    "mother_name": null,
+    "mother_name": "Josefa Albiol Safont",
     "spouse_names": [],
     "children_names": [],
     "grandparents_names": {

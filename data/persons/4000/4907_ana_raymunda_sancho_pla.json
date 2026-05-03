@@ -22,10 +22,11 @@
   },
   "family": {
     "parents": [
-      "4853_pedro_sancho_biosca"
+      "4853_pedro_sancho_biosca",
+      "3990_tomasa_pla_sancho"
     ],
     "father": "4853_pedro_sancho_biosca",
-    "mother": null,
+    "mother": "3990_tomasa_pla_sancho",
     "spouse": [
       "2057_fermin_ferrer_marti"
     ],
@@ -33,7 +34,7 @@
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
+      "maternal_grandfather": "3978_jayme_pla",
       "maternal_grandmother": null
     },
     "godparents": {
@@ -44,7 +45,7 @@
   "relations_detail": {
     "parents_names": [
       "Pedro Sancho Biosca",
-      "Thomasa Pla Sancho"
+      "Tomasa Pla Sancho"
     ],
     "father_name": "Pedro Sancho Biosca",
     "mother_name": "Thomasa Pla Sancho",
@@ -55,7 +56,7 @@
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
+      "maternal_grandfather": "Jayme Pla",
       "maternal_grandmother": ""
     },
     "godparents_names": {

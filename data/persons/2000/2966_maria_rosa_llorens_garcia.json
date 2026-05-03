@@ -28,7 +28,10 @@
     "father": "2956_pedro_llorens",
     "mother": "2289_vicenta_garcia",
     "spouse": [],
-    "children": [],
+    "children": [
+      "4693_rosa_joana_samper_llorens",
+      "4694_miguel_samper_llorens"
+    ],
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
@@ -50,7 +53,10 @@
     "spouse_names": [
       "Vicente Sempere Moncho"
     ],
-    "children_names": [],
+    "children_names": [
+      "Rosa Joana Samper Llorens",
+      "Miguel Samper Llorens"
+    ],
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",

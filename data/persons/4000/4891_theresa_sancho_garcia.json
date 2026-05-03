@@ -40,7 +40,7 @@
       "maternal_grandmother": null
     },
     "godparents": {
-      "godfather": null,
+      "godfather": "988_jose_carbo",
       "godmother": null
     }
   },
@@ -64,7 +64,7 @@
       "maternal_grandmother": ""
     },
     "godparents_names": {
-      "godfather": "Josef Carbó",
+      "godfather": "José Carbó",
       "godmother": null
     }
   },

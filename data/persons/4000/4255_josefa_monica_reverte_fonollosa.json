@@ -32,12 +32,12 @@
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
-      "maternal_grandmother": null
+      "maternal_grandfather": "2163_jose_fonollosa",
+      "maternal_grandmother": "4039_josefa_puig"
     },
     "godparents": {
       "godfather": null,
-      "godmother": null
+      "godmother": "4039_josefa_puig"
     }
   },
   "relations_detail": {
@@ -52,12 +52,12 @@
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
-      "maternal_grandmother": ""
+      "maternal_grandfather": "José Fonollosa",
+      "maternal_grandmother": "Josefa Puig"
     },
     "godparents_names": {
       "godfather": "Juan Bautista Reverté",
-      "godmother": null
+      "godmother": "Josefa Puig"
     }
   },
   "occupation": {

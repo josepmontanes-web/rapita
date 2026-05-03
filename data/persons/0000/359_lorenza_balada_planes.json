@@ -39,10 +39,10 @@
       "4971_mariano_sans_balada"
     ],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "320_francisco_balada",
       "paternal_grandmother": null,
       "maternal_grandfather": null,
-      "maternal_grandmother": null
+      "maternal_grandmother": "2754_rita_gubern"
     },
     "godparents": {
       "godfather": null,
@@ -68,10 +68,10 @@
       "Mariano Sans Balada"
     ],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "Francisco Balada",
       "paternal_grandmother": "",
       "maternal_grandfather": "",
-      "maternal_grandmother": ""
+      "maternal_grandmother": "Rita Gubern"
     },
     "godparents_names": {
       "godfather": "Thomas Sastre",

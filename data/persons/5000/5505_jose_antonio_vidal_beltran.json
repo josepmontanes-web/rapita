@@ -37,7 +37,7 @@
     },
     "godparents": {
       "godfather": null,
-      "godmother": null
+      "godmother": "5498_francisca_vidal"
     }
   },
   "relations_detail": {
@@ -57,7 +57,7 @@
     },
     "godparents_names": {
       "godfather": "Josef Vidal",
-      "godmother": null
+      "godmother": "Francisca Vidal"
     }
   },
   "occupation": {

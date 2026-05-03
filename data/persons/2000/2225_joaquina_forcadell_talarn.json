@@ -27,9 +27,9 @@
     "spouse": [],
     "children": [],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "2177_jose_forcadell",
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
+      "maternal_grandfather": "5221_juan_talarn",
       "maternal_grandmother": null
     },
     "godparents": {
@@ -47,9 +47,9 @@
     "spouse_names": [],
     "children_names": [],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "José Forcadell",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
+      "maternal_grandfather": "Juan Talarn",
       "maternal_grandmother": ""
     },
     "godparents_names": {

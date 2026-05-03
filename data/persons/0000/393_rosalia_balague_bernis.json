@@ -22,17 +22,18 @@
   },
   "family": {
     "parents": [
-      "448_domingo_balague_navarro"
+      "448_domingo_balague_navarro",
+      "692_maria_cinta_bernis_murall"
     ],
     "father": "448_domingo_balague_navarro",
-    "mother": null,
+    "mother": "692_maria_cinta_bernis_murall",
     "spouse": [],
     "children": [],
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
-      "maternal_grandmother": null
+      "maternal_grandfather": "679_francisco_bernis",
+      "maternal_grandmother": "3581_francisca_murall"
     },
     "godparents": {
       "godfather": null,
@@ -42,7 +43,7 @@
   "relations_detail": {
     "parents_names": [
       "Domingo Balagué Navarro",
-      "Maria de la Cinta Bernis Murall"
+      "Maria Cinta Bernis Murall"
     ],
     "father_name": "Domingo Balagué Navarro",
     "mother_name": "Maria de la Cinta Bernis Murall",
@@ -51,8 +52,8 @@
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
-      "maternal_grandmother": ""
+      "maternal_grandfather": "Francisco Bernis",
+      "maternal_grandmother": "Francisca Murall"
     },
     "godparents_names": {
       "godfather": "Rafael Casajust",

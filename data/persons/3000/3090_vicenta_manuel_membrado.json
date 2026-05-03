@@ -21,8 +21,10 @@
     "lng": null
   },
   "family": {
-    "parents": [],
-    "father": null,
+    "parents": [
+      "2098_agustin_manuel_ferrer_simon"
+    ],
+    "father": "2098_agustin_manuel_ferrer_simon",
     "mother": null,
     "spouse": [],
     "children": [],
@@ -39,7 +41,7 @@
   },
   "relations_detail": {
     "parents_names": [
-      "Agustín Manuel",
+      "Agustín Manuel Ferrer Simón",
       "Vicenta Membrado"
     ],
     "father_name": "Agustín Manuel",

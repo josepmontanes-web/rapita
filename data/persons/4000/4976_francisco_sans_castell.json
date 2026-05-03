@@ -22,9 +22,10 @@
   },
   "family": {
     "parents": [
+      "5016_jose_sans_sanarau",
       "1152_mariana_castell_ortiz"
     ],
-    "father": null,
+    "father": "5016_jose_sans_sanarau",
     "mother": "1152_mariana_castell_ortiz",
     "spouse": [],
     "children": [
@@ -35,19 +36,19 @@
       "4958_arcangel_sans_arlandes"
     ],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "4952_rufo_sans",
       "paternal_grandmother": null,
       "maternal_grandfather": null,
       "maternal_grandmother": null
     },
     "godparents": {
-      "godfather": null,
+      "godfather": "1046_francisco_cartes",
       "godmother": null
     }
   },
   "relations_detail": {
     "parents_names": [
-      "Josef Sans Sanarau",
+      "José Sans Sanarau",
       "Mariana Castell Ortíz"
     ],
     "father_name": "Josef Sans Sanarau",
@@ -63,7 +64,7 @@
       "Arcangel Sans Arlandes"
     ],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "Rufo Sans",
       "paternal_grandmother": "",
       "maternal_grandfather": "",
       "maternal_grandmother": ""

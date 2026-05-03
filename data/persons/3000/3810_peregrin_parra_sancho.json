@@ -22,17 +22,18 @@
   },
   "family": {
     "parents": [
+      "3803_jose_parra_pardo",
       "4854_josefa_sancho_biosca"
     ],
-    "father": null,
+    "father": "3803_jose_parra_pardo",
     "mother": "4854_josefa_sancho_biosca",
     "spouse": [],
     "children": [],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "3793_felix_parra",
       "paternal_grandmother": null,
       "maternal_grandfather": null,
-      "maternal_grandmother": null
+      "maternal_grandmother": "704_josefa_maria_biosca"
     },
     "godparents": {
       "godfather": null,
@@ -41,7 +42,7 @@
   },
   "relations_detail": {
     "parents_names": [
-      "Josef Parra Pardo",
+      "José Parra Pardo",
       "Josefa Sancho Biosca"
     ],
     "father_name": "Josef Parra Pardo",
@@ -49,10 +50,10 @@
     "spouse_names": [],
     "children_names": [],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "Felix Parra",
       "paternal_grandmother": "",
       "maternal_grandfather": "",
-      "maternal_grandmother": ""
+      "maternal_grandmother": "Josefa María Biosca"
     },
     "godparents_names": {
       "godfather": "Peregrín Marguilles",

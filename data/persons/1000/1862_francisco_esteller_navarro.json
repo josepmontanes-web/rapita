@@ -33,11 +33,11 @@
       "paternal_grandfather": null,
       "paternal_grandmother": null,
       "maternal_grandfather": null,
-      "maternal_grandmother": null
+      "maternal_grandmother": "3850_manuela_paulo"
     },
     "godparents": {
       "godfather": null,
-      "godmother": null
+      "godmother": "3850_manuela_paulo"
     }
   },
   "relations_detail": {
@@ -53,11 +53,11 @@
       "paternal_grandfather": "",
       "paternal_grandmother": "",
       "maternal_grandfather": "",
-      "maternal_grandmother": ""
+      "maternal_grandmother": "Manuela Paulo"
     },
     "godparents_names": {
       "godfather": "Francisco Navarro Boils",
-      "godmother": null
+      "godmother": "Manuela Paulo"
     }
   },
   "occupation": {

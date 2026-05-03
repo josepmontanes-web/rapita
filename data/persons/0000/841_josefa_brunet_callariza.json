@@ -36,8 +36,8 @@
       "maternal_grandmother": null
     },
     "godparents": {
-      "godfather": null,
-      "godmother": null
+      "godfather": "2979_jose_lopez",
+      "godmother": "1546_eudalda_colomer"
     }
   },
   "relations_detail": {
@@ -57,7 +57,7 @@
     },
     "godparents_names": {
       "godfather": "José López",
-      "godmother": null
+      "godmother": "Eudalda Colomer"
     }
   },
   "occupation": {

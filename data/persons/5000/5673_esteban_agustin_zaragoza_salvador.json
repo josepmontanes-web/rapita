@@ -30,7 +30,7 @@
     "spouse": [],
     "children": [],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "5646_bautista_zaragoza",
       "paternal_grandmother": null,
       "maternal_grandfather": null,
       "maternal_grandmother": null
@@ -50,7 +50,7 @@
     "spouse_names": [],
     "children_names": [],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "Bautista Zaragoza",
       "paternal_grandmother": "",
       "maternal_grandfather": "",
       "maternal_grandmother": ""

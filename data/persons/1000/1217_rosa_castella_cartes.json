@@ -31,7 +31,7 @@
       "410_mariano_balague_castella"
     ],
     "grandparents": {
-      "paternal_grandfather": null,
+      "paternal_grandfather": "1165_salvador_castella",
       "paternal_grandmother": null,
       "maternal_grandfather": null,
       "maternal_grandmother": null
@@ -55,7 +55,7 @@
       "Mariano Balagué Castellà"
     ],
     "grandparents_names": {
-      "paternal_grandfather": "",
+      "paternal_grandfather": "Salvador Castellà",
       "paternal_grandmother": "",
       "maternal_grandfather": "",
       "maternal_grandmother": ""

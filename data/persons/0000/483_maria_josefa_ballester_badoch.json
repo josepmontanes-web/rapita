@@ -33,7 +33,7 @@
       "maternal_grandmother": null
     },
     "godparents": {
-      "godfather": null,
+      "godfather": "3_sebastian_accensi",
       "godmother": null
     }
   },
@@ -53,7 +53,7 @@
       "maternal_grandmother": ""
     },
     "godparents_names": {
-      "godfather": "Sebastián Asensi",
+      "godfather": "Sebastián Accensi",
       "godmother": null
     }
   },

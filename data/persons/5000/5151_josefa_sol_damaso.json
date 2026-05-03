@@ -27,7 +27,17 @@
     "spouse": [
       "3663_jose_navarro_paulo"
     ],
-    "children": [],
+    "children": [
+      "3672_josefa_alexandra_navarro_sol",
+      "3673_francisco_navarro_sol",
+      "3674_thomas_navarro_sol",
+      "3675_ignacio_jayme_navarro_sol",
+      "3676_maria_francisca_navarro_sol",
+      "3677_maria_jacinta_navarro_sol",
+      "3678_jose_navarro_sol",
+      "3679_mariana_navarro_sol",
+      "3680_justo_navarro_sol"
+    ],
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
@@ -49,7 +59,17 @@
     "spouse_names": [
       "José Navarro Paulo"
     ],
-    "children_names": [],
+    "children_names": [
+      "Josefa Alexandra Navarro Sol",
+      "Francisco Navarro Sol",
+      "Thomas Navarro Sol",
+      "Ignacio Jayme Navarro Sol",
+      "Maria Francisca Navarro Sol",
+      "Maria Jacinta Navarro Sol",
+      "José Navarro Sol",
+      "Mariana Navarro Sol",
+      "Justo Navarro Sol"
+    ],
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",

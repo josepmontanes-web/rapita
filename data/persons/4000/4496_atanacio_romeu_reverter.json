@@ -22,16 +22,17 @@
   },
   "family": {
     "parents": [
-      "4486_manuel_romeu_pla"
+      "4486_manuel_romeu_pla",
+      "4310_josefa_reverter_obiol"
     ],
     "father": "4486_manuel_romeu_pla",
-    "mother": null,
+    "mother": "4310_josefa_reverter_obiol",
     "spouse": [],
     "children": [],
     "grandparents": {
       "paternal_grandfather": null,
       "paternal_grandmother": null,
-      "maternal_grandfather": null,
+      "maternal_grandfather": "4173_jose_reverter",
       "maternal_grandmother": null
     },
     "godparents": {
@@ -42,7 +43,7 @@
   "relations_detail": {
     "parents_names": [
       "Manuel Romeu Pla",
-      "Josefa Antonia Reverter Obiol"
+      "Josefa Reverter Obiol"
     ],
     "father_name": "Manuel Romeu Pla",
     "mother_name": "Josefa Antonia Reverter Obiol",
@@ -51,7 +52,7 @@
     "grandparents_names": {
       "paternal_grandfather": "",
       "paternal_grandmother": "",
-      "maternal_grandfather": "",
+      "maternal_grandfather": "José Reverter",
       "maternal_grandmother": ""
     },
     "godparents_names": {
